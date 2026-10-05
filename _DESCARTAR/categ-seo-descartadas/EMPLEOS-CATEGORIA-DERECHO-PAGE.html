@@ -1,0 +1,187 @@
+<!-- =========================================================
+     PAGINA SEO POR CATEGORIA DE EMPLEOS (generada)
+     data-categoria-inicial DEBE ser exactamente igual al
+        data-categoria del carrusel (ver lista abajo)
+     4. Titulo de la pagina Blogger = H1
+     5. Slug sugerido: empleos-ingenieria, empleos-salud, etc.
+
+     Valores permitidos en data-categoria-inicial:
+       Ingeniería | Salud | Ventas y Servicios |
+       Administración y Finanzas | Derecho | Educación | Otros
+     ========================================================= -->
+
+<div class="portal-empleos" data-categoria-inicial="Derecho">
+
+<header class="portal-header">
+  <div class="portal-logo">EMPLEOS PER&#218; HOY</div>
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Art&#237;culos</a>
+    <a href="/p/cursos.html">Cursos</a>
+  </nav>
+</header>
+
+<div class="buscador-empleos">
+  <h1>Empleos de Derecho y Abogados en Perú</h1>
+  <p>Ofertas para abogados, asesores jurídicos, pasantes de derecho y especialistas en contratos, laboral, tributario o compliance. Vacantes en estudios, empresas y sector público.</p>
+
+  <div class="buscador-contenedor">
+    <input type="text" id="portalBusqueda" class="buscador-input" placeholder="Buscar en Derecho...">
+    <button id="portalBuscar" class="buscador-boton">Buscar</button>
+  </div>
+
+  <div class="filtros-contenedor">
+    <div class="sector-switch" id="sectorSwitch" aria-label="Sector del empleo">
+      <button type="button" class="sector-btn activa" data-sector="privado">Privado</button>
+      <button type="button" class="sector-btn" data-sector="estado">Estado</button>
+    </div>
+    <div class="filtros-grid">
+      <div class="filtro-grupo" data-filtro="modalidad">
+        <div class="filtro-grupo-titulo">Modalidad <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="Presencial"> <span>Presencial</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Remoto"> <span>Remoto</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="H&#237;brido"> <span>H&#237;brido</span></label>
+        </div>
+      </div>
+      <div class="filtro-grupo" data-filtro="ciudad">
+        <div class="filtro-grupo-titulo">Ciudad <span class="flecha"></span></div>
+        <div class="filtro-opciones" id="opcionesCiudades">
+          <div class="filtro-opcion" style="color:rgba(255,255,255,.5);">Cargando ciudades...</div>
+        </div>
+      </div>
+      <div class="filtro-grupo filtro-solo-privado" data-filtro="experiencia">
+        <div class="filtro-grupo-titulo">Experiencia <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="sin"> <span>Sin experiencia</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="1-2"> <span>1-2 a&#241;os</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="3-5"> <span>3-5 a&#241;os</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="mas5"> <span>M&#225;s de 5 a&#241;os</span></label>
+        </div>
+      </div>
+      <div class="filtro-grupo filtro-solo-privado" data-filtro="salario">
+        <div class="filtro-grupo-titulo">Salario <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="0"> <span>Con salario</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="1500"> <span>Desde S/1500</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="3000"> <span>Desde S/3000</span></label>
+        </div>
+      </div>
+      <div class="filtro-grupo filtro-solo-estado" data-filtro="tipoContrato" hidden>
+        <div class="filtro-grupo-titulo">Contrato <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="CAS"> <span>CAS</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="728"> <span>728</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="276"> <span>276</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Prácticas"> <span>Prácticas</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Servicio Civil"> <span>Servicio Civil</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Locación de servicios"> <span>Locación de servicios</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Consultoría"> <span>Consultoría</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Otro"> <span>Otro</span></label>
+        </div>
+      </div>
+      <div class="filtro-grupo filtro-solo-estado" data-filtro="entidad" hidden>
+        <div class="filtro-grupo-titulo">Dónde <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="Municipalidad"> <span>Municipalidades</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Ministerio"> <span>Ministerios</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Gobierno Regional"> <span>G. Regionales</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Salud"> <span>Salud</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Educación"> <span>Educación</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="Otra entidad"> <span>Otras entidades</span></label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<section class="empleos-seccion">
+  <div style="max-width:900px;margin:20px auto 0;padding:0 16px;">
+    <h2 style="margin:0 0 8px;font-size:18px;color:#172033;">Explora por categor&#237;a</h2>
+    <p style="margin:0;font-size:13px;color:#6b7280;">Ofertas de Derecho en el Per&#250;: sector Estado y privado, con filtros por ciudad, modalidad y salario.</p>
+  </div>
+  <div style="max-width:900px;margin:12px auto 0;padding:0 16px;position:relative;">
+    <button id="categoriaAnterior" style="position:absolute;left:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8249;</button>
+    <div id="categoriasCarrusel" class="categorias-carrusel">
+      <button class="categoria-card categoria-todos" data-categoria="Todos"><span>Todos</span></button>
+      <button class="categoria-card categoria-ingenieria" data-categoria="Ingenier&#237;a"><span>Ingenier&#237;a</span></button>
+      <button class="categoria-card categoria-salud" data-categoria="Salud"><span>Salud</span></button>
+      <button class="categoria-card categoria-ventas-servicios" data-categoria="Ventas y Servicios"><span>Ventas y Servicios</span></button>
+      <button class="categoria-card categoria-administracion-finanzas" data-categoria="Administraci&#243;n y Finanzas"><span>Administraci&#243;n y Finanzas</span></button>
+      <button class="categoria-card categoria-derecho" data-categoria="Derecho"><span>Derecho</span></button>
+      <button class="categoria-card categoria-educacion" data-categoria="Educaci&#243;n"><span>Educaci&#243;n</span></button>
+      <button class="categoria-card categoria-otros" data-categoria="Otros"><span>Otros</span></button>
+    </div>
+    <button id="categoriaSiguiente" style="position:absolute;right:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8250;</button>
+  </div>
+
+  <div class="empleos-cabecera" style="max-width:900px;margin:18px auto 0;padding:0 16px;">
+    <h2 id="tituloResultados">Derecho</h2>
+    <span class="contador-resultados" id="contadorResultados"></span>
+  </div>
+
+  <div id="empleosGrid" class="empleos-grid" style="max-width:900px;margin:0 auto;padding:0 16px;"></div>
+
+  <div id="cargarMasContenedor" style="text-align:center;margin:20px auto;max-width:900px;">
+    <span id="cargarMasEstado" style="color:#6b7280;font-size:13px;"></span>
+    <button id="cargarMasOfertas" style="margin-top:8px;padding:10px 24px;border:none;border-radius:8px;background:#0f4c81;color:#fff;font-size:13px;font-weight:700;cursor:pointer;display:none;">Cargar m&#225;s ofertas</button>
+  </div>
+
+  <div class="empleo-seccion" style="max-width:900px;margin:10px auto 0;padding:0 16px;">
+    <div class="empleo-anuncio" style="margin-top:8px;">Espacio publicitario</div>
+    <h2 style="font-size:18px;color:#172033;margin:22px 0 10px;">Trabajo para abogados y perfiles jurídicos</h2>
+    <p style="font-size:15px;color:#374151;line-height:1.75;">Los estudios de abogados y las áreas legales de empresas publican vacantes por área de práctica: civil, penal, laboral, corporativo o tributario. Filtra por ciudad y salario, revisa si piden colegiatura activa y experiencia en litigios o contratación. Las plazas del Estado suelen requerir concurso o CAS.</p>
+    <div class="empleo-anuncio">Espacio publicitario</div>
+    <p style="font-size:14px;color:#6b7280;">
+      <a href="/p/empleos.html" style="color:#0f4c81;font-weight:700;">Ver todas las ofertas de empleo</a>
+      ·
+      <a href="/p/empleos-estado.html" style="color:#0f4c81;font-weight:700;">Convocatorias del Estado</a>
+      ·
+      <a href="/p/becas.html" style="color:#0f4c81;font-weight:700;">Becas</a>
+      ·
+      <a href="/p/cursos.html" style="color:#0f4c81;font-weight:700;">Cursos</a>
+      ·
+      <a href="/p/articulos.html" style="color:#0f4c81;font-weight:700;">Art&#237;culos</a>
+    </p>
+  </div>
+</section>
+
+<footer class="portal-footer">
+  <div class="portal-footer-contenido">
+    <div>
+      <h3>EMPLEOS PER&#218; HOY</h3>
+      <a href="/">Inicio</a>
+      <a href="/p/empleos.html">Empleos</a>
+      <a href="/p/empleos-estado.html">Empleos del Estado</a>
+      <a href="/p/becas.html">Becas</a>
+      <a href="/p/cursos.html">Cursos</a>
+      <a href="/p/articulos.html">Art&#237;culos</a>
+    </div>
+    <div>
+      <h3>Informaci&#243;n</h3>
+      <a href="#" data-contacto data-asunto="Contacto">Contacto</a>
+      <a href="#" data-contacto data-asunto="Publicar oferta de empleo o beca">Publica tu oferta</a>
+      <a href="/p/politica-de-privacidad.html">Pol&#237;tica de privacidad</a>
+      <a href="/p/terminos-y-condiciones.html">T&#233;rminos y condiciones</a>
+    </div>
+    <div>
+      <h3>Categor&#237;as de empleo</h3>
+      <a href="/p/empleos-ingenieria.html">Empleos de Ingenier&#237;a</a>
+      <a href="/p/empleos-salud.html">Empleos de Salud</a>
+      <a href="/p/empleos-ventas-servicios.html">Empleos de Ventas</a>
+      <a href="/p/empleos-administracion-finanzas.html">Empleos de Administraci&#243;n</a>
+      <a href="/p/empleos-derecho.html">Empleos de Derecho</a>
+      <a href="/p/empleos-educacion.html">Empleos de Educaci&#243;n</a>
+      <a href="/p/empleos-otros.html">Otros empleos</a>
+    </div>
+  </div>
+  <div class="portal-footer-legal">
+    EMPLEOS PER&#218; HOY no es una agencia de empleo. Publicamos ofertas enlazando a las
+    plataformas oficiales de cada instituci&#243;n o empresa. La postulaci&#243;n se realiza
+    directamente en el sitio de origen.
+  </div>
+</footer>
+
+</div>

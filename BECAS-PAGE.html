@@ -1,0 +1,119 @@
+<!-- =========================================================
+     PAGINA DE BECAS (se pega en Blogger: Paginas > becas)
+     ========================================================= -->
+
+<div class="portal-empleos">
+
+<header class="portal-header">
+  <div class="portal-logo">EMPLEOS PER&#218; HOY</div>
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Art&#237;culos</a>
+    <a href="/p/cursos.html">Cursos</a>
+  </nav>
+</header>
+
+<!-- BUSCADOR + FILTROS (fondo azul oscuro) -->
+<div class="buscador-empleos">
+  <h1>Becas en Per&#250; y el extranjero</h1>
+  <p>Becas universitarias, de posgrado, movilidad e idiomas: financiamiento y subvenciones para estudiar. Filtra por tipo de beca, destino y estado de la convocatoria.</p>
+
+  <div class="buscador-contenedor">
+    <input type="text" id="becaBusqueda" class="buscador-input" data-buscador-becas placeholder="Buscar por título, institución o país...">
+    <button id="becaBuscar" class="buscador-boton">Buscar</button>
+  </div>
+
+  <div class="filtros-contenedor">
+    <div class="filtros-grid">
+      <div class="filtro-grupo" data-familia="destino">
+        <div class="filtro-grupo-titulo">Destino <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="peru" data-familia="destino" data-valor="peru"> <span>Perú</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="exterior" data-familia="destino" data-valor="exterior"> <span>Exterior</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="virtual" data-familia="destino" data-valor="virtual"> <span>Virtual</span></label>
+        </div>
+      </div>
+      <div class="filtro-grupo" data-familia="estado">
+        <div class="filtro-grupo-titulo">Estado <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="abierta" data-familia="estado" data-valor="abierta"> <span>Vigente</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="pronto" data-familia="estado" data-valor="pronto"> <span>Pr&#243;ximamente</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="cerrada" data-familia="estado" data-valor="cerrada"> <span>Cerrada</span></label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CATEGOR&#218;AS (carrusel: solo tipo) -->
+<section class="empleos-seccion">
+  <div style="max-width:900px;margin:20px auto 0;padding:0 16px;">
+    <h2 style="margin:0 0 6px;font-size:18px;color:#172033;">Explora por categor&#237;a</h2>
+    <p style="margin:0 0 12px;font-size:13px;color:#6b7280;">Elige un tipo de beca. Puedes combinarlo con destino y estado.</p>
+  </div>
+  <div style="max-width:900px;margin:0 auto;padding:0 16px;position:relative;">
+    <button id="categoriaAnterior" style="position:absolute;left:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8249;</button>
+    <div id="categoriasCarrusel" class="categorias-carrusel">
+      <div class="categorias-etiqueta">Tipo</div>
+      <button class="categoria-card categoria-todos activa" data-categoria="Todos"><span>Todas</span></button>
+      <button class="categoria-card categoria-universitaria" data-categoria="Universitaria" data-familia="tipo" data-valor="universitaria"><span>Universitaria</span></button>
+      <button class="categoria-card categoria-no-universitaria" data-categoria="No universitaria" data-familia="tipo" data-valor="no-universitaria"><span>No universitaria</span></button>
+      <button class="categoria-card categoria-movilidad" data-categoria="Movilidad" data-familia="tipo" data-valor="movilidad"><span>Movilidad</span></button>
+      <button class="categoria-card categoria-idiomas" data-categoria="Idiomas" data-familia="tipo" data-valor="idiomas"><span>Idiomas</span></button>
+      <button class="categoria-card categoria-investigacion" data-categoria="Investigación" data-familia="tipo" data-valor="investigacion"><span>Investigación</span></button>
+      <button class="categoria-card categoria-excelencia" data-categoria="Excelencia" data-familia="tipo" data-valor="excelencia"><span>Excelencia</span></button>
+      <button class="categoria-card categoria-otros" data-categoria="Otros" data-familia="tipo" data-valor="otros"><span>Otros</span></button>
+    </div>
+    <button id="categoriaSiguiente" style="position:absolute;right:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8250;</button>
+  </div>
+
+  <!-- ENCABEZADO DE RESULTADOS -->
+  <div class="empleos-cabecera" style="max-width:900px;margin:18px auto 0;padding:0 16px;">
+    <h2 id="tituloResultados">Becas disponibles</h2>
+    <span class="contador-resultados" id="contadorResultados"></span>
+  </div>
+
+  <!-- GRID DE BECAS -->
+  <div id="becasGrid" class="empleos-grid" style="max-width:900px;margin:0 auto;padding:0 16px;"></div>
+
+  <!-- CARGAR M&#193;S -->
+  <div id="cargarMasContenedor" style="text-align:center;margin:20px auto;max-width:900px;">
+    <span id="cargarMasEstado" style="color:#6b7280;font-size:13px;"></span>
+    <button id="cargarMasBecas" style="margin-top:8px;padding:10px 24px;border:none;border-radius:8px;background:#0f4c81;color:#fff;font-size:13px;font-weight:700;cursor:pointer;display:none;">Cargar m&#225;s becas</button>
+  </div>
+</section>
+
+<footer class="portal-footer">
+  <div class="portal-footer-contenido">
+    <div>
+      <h3>EMPLEOS PER&#218; HOY</h3>
+      <a href="/">Inicio</a>
+      <a href="/p/empleos.html">Empleos</a>
+      <a href="/p/becas.html">Becas</a>
+      <a href="/p/cursos.html">Cursos</a>
+      <a href="/p/articulos.html">Art&#237;culos</a>
+    </div>
+    <div>
+      <h3>Informaci&#243;n</h3>
+      <a href="#" data-contacto data-asunto="Contacto">Contacto</a>
+      <a href="#" data-contacto data-asunto="Publicar oferta de empleo o beca">Publica tu oferta</a>
+      <a href="/p/politica-de-privacidad.html">Pol&#237;tica de privacidad</a>
+      <a href="/p/terminos-y-condiciones.html">T&#233;rminos y condiciones</a>
+    </div>
+    <div>
+      <h3>Recomendaciones</h3>
+      <a href="/p/empleos.html">Ofertas de empleo</a>
+      <a href="/p/cursos.html">Cursos gratuitos con certificado</a>
+      <a href="/p/articulos.html">Consejos para tu carrera</a>
+    </div>
+  </div>
+  <div class="portal-footer-legal">
+    EMPLEOS PER&#218; HOY no es una agencia de empleo. Publicamos ofertas enlazando a las
+    plataformas oficiales de cada instituci&#243;n o empresa. La postulaci&#243;n se realiza
+    directamente en el sitio de origen.
+  </div>
+</footer>
+
+</div>

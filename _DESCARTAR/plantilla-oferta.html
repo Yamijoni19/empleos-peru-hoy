@@ -1,0 +1,1702 @@
+<!-- =========================================================
+     PLANTILLA DE OFERTA INDIVIDUAL - NO MODIFICAR CSS NI SCRIPT
+     Solamente reemplaza los textos marcados con @@...@@
+     ========================================================= -->
+
+<div class="empleo-individual">
+
+<style>
+.empleo-individual{
+  width:100%;
+  max-width:900px;
+  margin:0 auto;
+  padding:16px;
+  box-sizing:border-box;
+  font-family:Arial,Helvetica,sans-serif;
+  color:#1f2937;
+  line-height:1.55;
+}
+
+.empleo-individual *{
+  box-sizing:border-box;
+}
+
+.empleo-cabecera{
+  background:linear-gradient(135deg,#0f4c81,#1976d2);
+  color:#fff;
+  padding:30px 26px;
+  border-radius:16px;
+  box-shadow:0 5px 18px rgba(0,0,0,.12);
+  margin-bottom:16px;
+}
+
+.empleo-fuente{
+  display:inline-block;
+  background:rgba(255,255,255,.16);
+  border:1px solid rgba(255,255,255,.25);
+  padding:5px 10px;
+  border-radius:20px;
+  font-size:12px;
+  margin-bottom:10px;
+}
+
+.empleo-categoria{
+  font-size:13px;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:.3px;
+  margin-bottom:7px;
+}
+
+.empleo-cabecera h1{
+  margin:0 0 9px;
+  font-size:30px;
+  line-height:1.2;
+  color:#fff;
+}
+
+.empleo-empresa{
+  font-size:16px;
+  font-weight:600;
+  margin-bottom:5px;
+}
+
+.empleo-salario-header{
+  font-size:14px;
+  opacity:.95;
+}
+
+.empleo-info{
+  display:grid;
+  grid-template-columns:repeat(4,1fr);
+  gap:12px;
+  margin-bottom:16px;
+}
+
+.empleo-info-card{
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:13px;
+  padding:15px 12px;
+  box-shadow:0 2px 8px rgba(0,0,0,.05);
+  min-width:0;
+}
+
+.empleo-info-label{
+  font-size:11px;
+  color:#6b7280;
+  font-weight:700;
+  text-transform:uppercase;
+  margin-bottom:4px;
+}
+
+.empleo-info-value{
+  font-size:14px;
+  color:#1f2937;
+  font-weight:600;
+  overflow-wrap:anywhere;
+}
+
+.empleo-seccion{
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:15px;
+  padding:22px;
+  margin-bottom:16px;
+  box-shadow:0 2px 8px rgba(0,0,0,.05);
+}
+
+.empleo-seccion h2{
+  margin:0 0 15px;
+  padding-bottom:9px;
+  border-bottom:2px solid #e5e7eb;
+  color:#0f4c81;
+  font-size:20px;
+  line-height:1.3;
+}
+
+.empleo-seccion p{
+  margin:0 0 10px;
+}
+
+.empleo-seccion ul{
+  margin:8px 0 0;
+  padding-left:21px;
+}
+
+.empleo-seccion li{
+  margin-bottom:8px;
+}
+
+.empleo-destacado{
+  background:#eff6ff;
+  border-left:4px solid #1976d2;
+  border-radius:8px;
+  padding:13px 15px;
+  margin-top:10px;
+}
+
+.empleo-destacado p{
+  margin:0 0 6px;
+}
+
+.empleo-destacado p:last-child{
+  margin-bottom:0;
+}
+
+.empleo-anuncio{
+  min-height:90px;
+  border:1px dashed #d1d5db;
+  border-radius:12px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  text-align:center;
+  color:#9ca3af;
+  font-size:12px;
+  margin:16px 0;
+}
+
+.empleo-postular{
+  background:linear-gradient(135deg,#eff6ff,#f8fbff);
+  border:1px solid #bfdbfe;
+  border-radius:15px;
+  padding:24px 20px;
+  text-align:center;
+  margin-bottom:16px;
+}
+
+.empleo-postular h2{
+  color:#0f4c81;
+  margin:0 0 9px;
+  font-size:21px;
+}
+
+.empleo-boton{
+  display:inline-block;
+  background:#1976d2;
+  color:#fff!important;
+  text-decoration:none!important;
+  padding:13px 25px;
+  border-radius:9px;
+  font-size:15px;
+  font-weight:700;
+  margin-top:7px;
+  transition:.2s;
+}
+
+.empleo-boton:hover{
+  background:#0f4c81;
+}
+
+.empleo-aviso{
+  color:#6b7280;
+  font-size:12px;
+  margin-top:10px;
+}
+
+.ofertas-relacionadas{
+  margin-top:20px;
+}
+
+.ofertas-relacionadas h2{
+  color:#0f4c81;
+  font-size:22px;
+  margin:0 0 14px;
+}
+
+.relacionados-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:14px;
+}
+
+.relacionado-card{
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:15px;
+  overflow:hidden;
+  box-shadow:0 3px 10px rgba(0,0,0,.06);
+  transition:transform .2s,box-shadow .2s;
+  display:flex;
+  flex-direction:column;
+}
+
+.relacionado-card:hover{
+  transform:translateY(-2px);
+  box-shadow:0 6px 15px rgba(0,0,0,.1);
+}
+
+.relacionado-visual{
+  height:75px;
+  padding:10px 13px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  color:#fff;
+}
+
+.relacionado-etiqueta{
+  background:rgba(255,255,255,.18);
+  border:1px solid rgba(255,255,255,.25);
+  border-radius:20px;
+  padding:4px 9px;
+  font-size:10px;
+  font-weight:700;
+}
+
+.relacionado-icono{
+  width:39px;
+  height:39px;
+  border-radius:50%;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  background:rgba(255,255,255,.15);
+  border:1px solid rgba(255,255,255,.28);
+  color:#fff;
+  flex:0 0 39px;
+}
+
+.relacionado-icono svg{
+  width:21px;
+  height:21px;
+  display:block;
+  stroke:currentColor;
+  fill:none;
+  stroke-width:1.8;
+  stroke-linecap:round;
+  stroke-linejoin:round;
+}
+
+.relacionado-contenido{
+  padding:13px 14px 14px;
+  display:flex;
+  flex-direction:column;
+  flex:1;
+}
+
+.relacionado-titulo{
+  color:#1f2937;
+  font-size:16px;
+  line-height:1.3;
+  font-weight:700;
+  margin-bottom:5px;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+}
+
+.relacionado-empresa{
+  color:#6b7280;
+  font-size:11px;
+  margin-bottom:8px;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
+}
+
+.relacionado-datos{
+  display:flex;
+  flex-wrap:wrap;
+  gap:5px;
+  margin-bottom:8px;
+}
+
+.relacionado-chip{
+  background:#f3f4f6;
+  color:#4b5563;
+  border-radius:12px;
+  padding:3px 7px;
+  font-size:9px;
+  font-weight:600;
+}
+
+.relacionado-salario{
+  color:#1976d2;
+  font-size:14px;
+  font-weight:700;
+  margin-bottom:5px;
+}
+
+.relacionado-descripcion{
+  color:#6b7280;
+  font-size:10px;
+  line-height:1.4;
+  display:-webkit-box;
+  -webkit-line-clamp:2;
+  -webkit-box-orient:vertical;
+  overflow:hidden;
+  margin-bottom:7px;
+}
+
+.relacionado-fecha{
+  color:#9ca3af;
+  font-size:11px;
+  margin-bottom:8px;
+}
+
+.relacionado-boton{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  width:100%;
+  min-height:32px;
+  margin-top:auto;
+  background:#1976d2;
+  color:#fff!important;
+  text-decoration:none!important;
+  border-radius:7px;
+  font-size:11px;
+  font-weight:700;
+}
+
+.relacionado-boton:hover{
+  background:#0f4c81;
+}
+
+.visual-ingenieria{
+  background:linear-gradient(135deg,#125b91,#1976d2);
+}
+
+.visual-salud{
+  background:linear-gradient(135deg,#087f8c,#12a4b4);
+}
+
+.visual-ventas-servicios{
+  background:linear-gradient(135deg,#b45309,#f59e0b);
+}
+
+.visual-administracion-finanzas{
+  background:linear-gradient(135deg,#6d28d9,#8b5cf6);
+}
+
+.visual-derecho{
+  background:linear-gradient(135deg,#334155,#64748b);
+}
+
+.visual-educacion{
+  background:linear-gradient(135deg,#0f766e,#14b8a6);
+}
+
+.visual-otros{
+  background:linear-gradient(135deg,#475569,#64748b);
+}
+
+@media(max-width:700px){
+
+  .empleo-individual{
+    padding:10px;
+  }
+
+  .empleo-cabecera{
+    padding:24px 18px;
+    border-radius:14px;
+  }
+
+  .empleo-cabecera h1{
+    font-size:24px;
+  }
+
+  .empleo-empresa{
+    font-size:15px;
+  }
+
+  .empleo-info{
+    grid-template-columns:repeat(2,1fr);
+    gap:9px;
+  }
+
+  .empleo-info-card{
+    padding:13px 10px;
+  }
+
+  .empleo-info-value{
+    font-size:13px;
+  }
+
+  .empleo-seccion{
+    padding:18px 16px;
+  }
+
+  .empleo-seccion h2{
+    font-size:18px;
+  }
+
+  .empleo-anuncio{
+    min-height:70px;
+  }
+
+  .empleo-boton{
+    width:100%;
+  }
+
+  .relacionados-grid{
+    display:flex;
+    overflow-x:auto;
+    gap:12px;
+    padding-bottom:5px;
+    scroll-snap-type:x mandatory;
+  }
+
+  .relacionado-card{
+    flex:0 0 84%;
+    scroll-snap-align:start;
+  }
+}
+
+@media(max-width:380px){
+
+  .relacionado-card{
+    flex-basis:91%;
+  }
+}
+</style>
+
+
+<div class="empleo-cabecera">
+
+  <div class="empleo-fuente">Fuente: @@FUENTE@@</div>
+
+  <div class="empleo-categoria">@@CATEGORIA@@</div>
+
+  <h1>@@TITULO@@</h1>
+
+  <div class="empleo-empresa">@@EMPRESA@@</div>
+
+  <div class="empleo-salario-header">
+    @@SALARIO_HEADER@@
+  </div>
+
+</div>
+
+
+<div class="empleo-info">
+
+  <div class="empleo-info-card">
+    <div class="empleo-info-label">Ubicación</div>
+    <div class="empleo-info-value">@@UBICACION@@</div>
+  </div>
+
+  <div class="empleo-info-card">
+    <div class="empleo-info-label">Modalidad</div>
+    <div class="empleo-info-value">@@MODALIDAD@@</div>
+  </div>
+
+  <div class="empleo-info-card">
+    <div class="empleo-info-label">Contrato</div>
+    <div class="empleo-info-value">@@CONTRATO@@</div>
+  </div>
+
+  <div class="empleo-info-card">
+    <div class="empleo-info-label">Salario</div>
+    <div class="empleo-info-value">@@SALARIO@@</div>
+  </div>
+
+</div>
+
+
+<div class="empleo-anuncio">
+  Espacio publicitario
+</div>
+
+
+<div class="empleo-seccion">
+
+  <h2>Descripción del puesto</h2>
+
+  <p>
+    @@DESCRIPCION_P1@@
+  </p>
+
+  <p>
+    @@DESCRIPCION_P2@@
+  </p>
+
+</div>
+
+
+<div class="empleo-anuncio">
+  Espacio publicitario
+</div>
+
+
+<div class="empleo-seccion">
+
+  <h2>Funciones</h2>
+
+  <ul>
+    <li>@@FUNCION1@@</li>
+    <li>@@FUNCION2@@</li>
+    <li>@@FUNCION3@@</li>
+    <li>@@FUNCION4@@</li>
+    <li>@@FUNCION5@@</li>
+    <li>@@FUNCION6@@</li>
+  </ul>
+
+</div>
+
+
+<div class="empleo-seccion">
+
+  <h2>Requisitos</h2>
+
+  <ul>
+    <li>@@REQUISITO1@@</li>
+    <li>@@REQUISITO2@@</li>
+    <li>@@REQUISITO3@@</li>
+    <li>@@REQUISITO4@@</li>
+    <li>@@REQUISITO5@@</li>
+  </ul>
+
+</div>
+
+
+<div class="empleo-anuncio">
+  Espacio publicitario
+</div>
+
+
+<div class="empleo-seccion">
+
+  <h2>Información de la oferta</h2>
+
+  <div class="empleo-destacado">
+
+    <p><strong>Vacantes:</strong> @@VACANTES@@</p>
+
+    <p><strong>Jornada:</strong> @@JORNADA@@</p>
+
+    <p><strong>Contrato:</strong> @@CONTRATO2@@</p>
+
+    <p><strong>Modalidad:</strong> @@MODALIDAD2@@</p>
+
+    <p><strong>Experiencia:</strong> @@EXPERIENCIA@@</p>
+
+    <p><strong>Estudios:</strong> @@ESTUDIOS@@</p>
+
+    <p><strong>Salario:</strong> @@SALARIO2@@</p>
+
+    <p><strong>Fecha publicación:</strong> @@FECHA_PUBLICACION@@</p>
+
+    <p><strong>Fecha cierre:</strong> @@FECHA_CIERRE@@</p>
+
+    <p><strong>Tipo contratante:</strong> @@TIPO_CONTRATANTE@@</p>
+
+  </div>
+
+</div>
+
+
+<div class="empleo-seccion">
+
+  <h2>Beneficios</h2>
+
+  <ul>
+    <li>@@BENEFICIO1@@</li>
+    <li>@@BENEFICIO2@@</li>
+    <li>@@BENEFICIO3@@</li>
+    <li>@@BENEFICIO4@@</li>
+  </ul>
+
+</div>
+
+
+<div class="empleo-anuncio">
+  Espacio publicitario
+</div>
+
+
+<div class="empleo-seccion">
+
+  <h2>Información de la empresa</h2>
+
+  <div class="empleo-destacado">
+
+    <p><strong>Empresa:</strong> @@EMPRESA2@@</p>
+
+    <p><strong>Sector:</strong> @@SECTOR@@</p>
+
+    <p><strong>Tamaño:</strong> @@TAMANO@@</p>
+
+    <p><strong>Ubicación:</strong> @@UBICACION_EMPRESA@@</p>
+
+    <p>
+      <strong>Descripción:</strong>
+      @@DESCRIPCION_EMPRESA@@
+    </p>
+
+  </div>
+
+</div>
+
+
+<div class="empleo-anuncio">
+  Espacio publicitario
+</div>
+
+
+<div class="empleo-postular">
+
+  <h2>¿Te interesa esta oferta?</h2>
+
+  <a
+    class="empleo-boton"
+    href="@@URL_POSTULAR@@"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    POSTULAR EN @@PORTAL@@
+  </a>
+
+  <div class="empleo-aviso">
+    La postulación se realiza directamente en la plataforma de origen.
+  </div>
+
+</div>
+
+
+<div class="ofertas-relacionadas">
+
+  <h2>Ofertas recomendadas para ti</h2>
+
+  <div id="ofertasRelacionadas" class="relacionados-grid"></div>
+
+</div>
+
+
+<script>
+(function(){
+
+  "use strict";
+
+  var CONTENEDOR_ID = "ofertasRelacionadas";
+
+  function normalizarTexto(texto){
+
+    return String(texto || "")
+      .replace(/\u00a0/g," ")
+      .replace(/\s+/g," ")
+      .trim();
+
+  }
+
+  function escaparHTML(texto){
+
+    return String(texto || "")
+      .replace(/&/g,"&amp;")
+      .replace(/</g,"&lt;")
+      .replace(/>/g,"&gt;")
+      .replace(/"/g,"&quot;")
+      .replace(/'/g,"&#39;");
+
+  }
+
+  function escaparAtributo(texto){
+
+    return escaparHTML(texto);
+
+  }
+
+  function limpiarHTMLParaLectura(html){
+
+    var contenedor = document.createElement("div");
+
+    contenedor.innerHTML = html || "";
+
+    var elementosEliminar = contenedor.querySelectorAll(
+      "script,style,noscript,template,iframe,object,embed"
+    );
+
+    for(var i=0;i<elementosEliminar.length;i++){
+      elementosEliminar[i].remove();
+    }
+
+    return contenedor;
+
+  }
+
+  function textoNodo(nodo){
+
+    if(!nodo){
+      return "";
+    }
+
+    return normalizarTexto(
+      nodo.textContent ||
+      nodo.innerText ||
+      ""
+    );
+
+  }
+
+  function obtenerTextoPagina(selector){
+
+    var nodo = document.querySelector(selector);
+
+    return nodo ? textoNodo(nodo) : "";
+
+  }
+
+  function obtenerCiudadPagina(){
+
+    var tarjetas = document.querySelectorAll(".empleo-info-card");
+
+    for(var i=0;i<tarjetas.length;i++){
+
+      var etiqueta = tarjetas[i].querySelector(".empleo-info-label");
+
+      if(!etiqueta){
+        continue;
+      }
+
+      if(
+        textoNodo(etiqueta).toLowerCase() ===
+        "ubicación".toLowerCase()
+      ){
+
+        var valor = tarjetas[i].querySelector(".empleo-info-value");
+
+        if(valor){
+
+          var texto = textoNodo(valor);
+
+          return texto.split(",")[0].trim() || "";
+
+        }
+
+      }
+
+    }
+
+    return "";
+
+  }
+
+  var TITULO_ACTUAL =
+    obtenerTextoPagina(".empleo-cabecera h1") ||
+    (document.title || "");
+
+  var URL_ACTUAL =
+    window.location.href || "";
+
+  var CATEGORIA_ACTUAL =
+    obtenerTextoPagina(".empleo-cabecera .empleo-categoria");
+
+  var EMPRESA_ACTUAL =
+    obtenerTextoPagina(".empleo-cabecera .empleo-empresa");
+
+  var CIUDAD_ACTUAL =
+    obtenerCiudadPagina();
+
+  function normalizarCategoria(categoria){
+
+    var texto = normalizarTexto(categoria)
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g,"");
+
+    if(
+      /abogad|derecho|legal|juridic|asesor legal|asesor juridic|asesoria legal|contratos|compliance|notar|procurador/.test(texto)
+    ){
+      return "Derecho";
+    }
+
+    if(
+      /medic|enfermer|odontolog|farmaci|fisioter|nutri|psicolog|obstetr|clinic|hospital|salud/.test(texto)
+    ){
+      return "Salud";
+    }
+
+    if(
+      /ingenier|arquitect|urbanismo|operaciones|produccion|mantenimiento|procesos|logistic|almacen|supply chain|cadena de suministro|distribucion|transporte|ssoma|sst|hse|ehs|seguridad ocupacional|medio ambiente|prevencion de riesgos|mecanico|electricista|industrial|civil|calidad|mineria/.test(texto)
+    ){
+      return "Ingeniería";
+    }
+
+    if(
+      /ventas|venta|vendedor|asesor comercial|ejecutivo comercial|representante comercial|promotor|comercial|televentas|call center|atencion al cliente|atencion al usuario|servicio al cliente|cobranzas|ejecutivo de cuenta|retail|tienda|restaurante|hotel/.test(texto)
+    ){
+      return "Ventas y Servicios";
+    }
+
+    if(
+      /administrad|administracion|asistente administrativ|auxiliar administrativ|secretaria|secretario|recepcionista|recursos humanos|rrhh|talento humano|contador|contabilidad|finanzas|financiero|tesorer|compras|credito|auditor/.test(texto)
+    ){
+      return "Administración y Finanzas";
+    }
+
+    if(
+      /docente|profesor|maestro|educacion|educativo|pedagogia|tutor|instructor|capacitador|colegio|universidad|instituto|docencia/.test(texto)
+    ){
+      return "Educación";
+    }
+
+    return "Otros";
+
+  }
+
+  function claseCategoria(categoria){
+
+    var texto = normalizarCategoria(categoria);
+
+    if(texto === "Ingeniería"){
+      return "visual-ingenieria";
+    }
+
+    if(texto === "Salud"){
+      return "visual-salud";
+    }
+
+    if(texto === "Ventas y Servicios"){
+      return "visual-ventas-servicios";
+    }
+
+    if(texto === "Administración y Finanzas"){
+      return "visual-administracion-finanzas";
+    }
+
+    if(texto === "Derecho"){
+      return "visual-derecho";
+    }
+
+    if(texto === "Educación"){
+      return "visual-educacion";
+    }
+
+    return "visual-otros";
+
+  }
+
+  function iconoCategoria(categoria){
+
+    var categoriaNormalizada = normalizarCategoria(categoria);
+
+    if(categoriaNormalizada === "Ingeniería"){
+
+      return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20h16"></path><path d="M6 20V8l6-4 6 4v12"></path><path d="M9 20v-5h6v5"></path><path d="M9 10h1"></path><path d="M14 10h1"></path></svg>';
+
+    }
+
+    if(categoriaNormalizada === "Salud"){
+
+      return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-4.6-9-9.1C1.5 8.5 3.4 5 7 5c2 0 3.6 1.1 5 3 1.4-1.9 3-3 5-3 3.6 0 5.5 3.5 4 6.9C19 16.4 12 21 12 21z"></path><path d="M12 9v6"></path><path d="M9 12h6"></path></svg>';
+
+    }
+
+    if(categoriaNormalizada === "Ventas y Servicios"){
+
+      return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 19V5"></path><path d="M4 19h16"></path><path d="M7 15l4-4 3 2 5-6"></path><path d="M16 7h3v3"></path></svg>';
+
+    }
+
+    if(categoriaNormalizada === "Administración y Finanzas"){
+
+      return '<svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="7" width="16" height="13" rx="2"></rect><path d="M9 7V5h6v2"></path><path d="M4 12h16"></path><path d="M10 12v2h4v-2"></path></svg>';
+
+    }
+
+    if(categoriaNormalizada === "Derecho"){
+
+      return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 4v16"></path><path d="M6 7h12"></path><path d="M6 7l-3 6h6z"></path><path d="M18 7l-3 6h6z"></path><path d="M8 20h8"></path></svg>';
+
+    }
+
+    if(categoriaNormalizada === "Educación"){
+
+      return '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5-9 5z"></path><path d="M7 11.5V16c3 2 7 2 10 0v-4.5"></path><path d="M21 9v6"></path></svg>';
+
+    }
+
+    return '<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"></circle><path d="M12 8v8"></path><path d="M8 12h8"></path></svg>';
+
+  }
+
+  function obtenerValorPorEtiqueta(root, etiquetas){
+
+    var elementos = root.querySelectorAll(
+      ".empleo-info-card,.empleo-destacado p,.empleo-info-card div"
+    );
+
+    for(var i=0;i<elementos.length;i++){
+
+      var elemento = elementos[i];
+
+      var etiquetaNodo = elemento.querySelector
+        ? elemento.querySelector(".empleo-info-label")
+        : null;
+
+      if(etiquetaNodo){
+
+        var etiquetaTexto = textoNodo(etiquetaNodo).toLowerCase();
+
+        for(var j=0;j<etiquetas.length;j++){
+
+          if(etiquetaTexto === etiquetas[j].toLowerCase()){
+
+            var valorNodo = elemento.querySelector(".empleo-info-value");
+
+            if(valorNodo){
+              return textoNodo(valorNodo);
+            }
+
+          }
+
+        }
+
+      }
+
+      if(elemento.matches && elemento.matches(".empleo-destacado p")){
+
+        var textoCompleto = textoNodo(elemento);
+
+        for(var k=0;k<etiquetas.length;k++){
+
+          var expresion = new RegExp(
+            "^\\s*" +
+            etiquetas[k].replace(/[.*+?^${}()|[\]\\]/g,"\\$&") +
+            "\\s*:\\s*(.+)$",
+            "i"
+          );
+
+          var coincidencia = textoCompleto.match(expresion);
+
+          if(coincidencia){
+            return normalizarTexto(coincidencia[1]);
+          }
+
+        }
+
+      }
+
+    }
+
+    return "";
+
+  }
+
+  function obtenerSeccion(root,nombre){
+
+    var secciones = root.querySelectorAll(".empleo-seccion");
+
+    for(var i=0;i<secciones.length;i++){
+
+      var titulo = secciones[i].querySelector("h2");
+
+      if(!titulo){
+        continue;
+      }
+
+      var tituloTexto = textoNodo(titulo).toLowerCase();
+
+      if(tituloTexto === nombre.toLowerCase()){
+
+        var copia = secciones[i].cloneNode(true);
+
+        var tituloCopia = copia.querySelector("h2");
+
+        if(tituloCopia){
+          tituloCopia.remove();
+        }
+
+        var anuncios = copia.querySelectorAll(
+          ".empleo-anuncio,.empleo-postular,.ofertas-relacionadas"
+        );
+
+        for(var j=0;j<anuncios.length;j++){
+          anuncios[j].remove();
+        }
+
+        return textoNodo(copia);
+
+      }
+
+    }
+
+    return "";
+
+  }
+
+  function extraerOferta(entry){
+
+    var contenido = "";
+
+    if(
+      entry &&
+      entry.content &&
+      entry.content.$t
+    ){
+      contenido = entry.content.$t;
+    }
+
+    var root = limpiarHTMLParaLectura(contenido);
+
+    var tituloNodo = root.querySelector(
+      ".empleo-cabecera h1"
+    );
+
+    var empresaNodo = root.querySelector(
+      ".empleo-cabecera .empleo-empresa"
+    );
+
+    var categoriaNodo = root.querySelector(
+      ".empleo-cabecera .empleo-categoria"
+    );
+
+    var titulo = textoNodo(tituloNodo);
+
+    var empresa = textoNodo(empresaNodo);
+
+    var categoriaOriginal = textoNodo(categoriaNodo);
+
+    if(!titulo){
+
+      titulo = normalizarTexto(
+        entry &&
+        entry.title &&
+        entry.title.$t
+          ? entry.title.$t
+          : ""
+      );
+
+    }
+
+    if(!empresa){
+
+      empresa = obtenerValorPorEtiqueta(
+        root,
+        ["Empresa"]
+      );
+
+    }
+
+    if(!categoriaOriginal){
+
+      categoriaOriginal = obtenerValorPorEtiqueta(
+        root,
+        ["Categoría","Categoria"]
+      );
+
+    }
+
+    var categoria = normalizarCategoria(
+      categoriaOriginal
+    );
+
+    var ubicacion = obtenerValorPorEtiqueta(
+      root,
+      ["Ubicación","Ubicacion"]
+    );
+
+    var modalidad = obtenerValorPorEtiqueta(
+      root,
+      ["Modalidad"]
+    );
+
+    var contrato = obtenerValorPorEtiqueta(
+      root,
+      ["Contrato"]
+    );
+
+    var salario = obtenerValorPorEtiqueta(
+      root,
+      ["Salario"]
+    );
+
+    var experiencia = obtenerValorPorEtiqueta(
+      root,
+      ["Experiencia"]
+    );
+
+    var descripcion = obtenerSeccion(
+      root,
+      "Descripción del puesto"
+    );
+
+    if(!descripcion){
+
+      descripcion = obtenerSeccion(
+        root,
+        "Descripcion del puesto"
+      );
+
+    }
+
+    var fecha = "";
+
+    if(
+      entry &&
+      entry.published &&
+      entry.published.$t
+    ){
+
+      fecha = entry.published.$t;
+
+    }
+
+    var url = "";
+
+    if(
+      entry &&
+      entry.link
+    ){
+
+      for(var i=0;i<entry.link.length;i++){
+
+        if(entry.link[i].rel === "alternate"){
+
+          url = entry.link[i].href || "";
+          break;
+
+        }
+
+      }
+
+    }
+
+    return {
+      titulo:titulo,
+      empresa:empresa || "Empresa no especificada",
+      categoria:categoria,
+      ubicacion:ubicacion || "No especificada",
+      modalidad:modalidad || "No especificada",
+      contrato:contrato || "No especificado",
+      salario:salario || "No especificado",
+      experiencia:experiencia || "",
+      descripcion:descripcion || "",
+      fecha:fecha,
+      url:url
+    };
+
+  }
+
+  function palabras(texto){
+
+    return normalizarTexto(texto)
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g,"")
+      .replace(/[^a-z0-9\s]/g," ")
+      .split(/\s+/)
+      .filter(function(palabra){
+        return palabra.length >= 4;
+      });
+
+  }
+
+  function normalizarUrl(url){
+
+    return String(url || "")
+      .toLowerCase()
+      .replace(/^https?:\/\//,"")
+      .replace(/^www\./,"")
+      .replace(/\/+$/,"")
+      .replace(/\?.*$/,"");
+
+  }
+
+  function calcularRelevancia(oferta){
+
+    var actual = (
+      TITULO_ACTUAL +
+      " " +
+      CATEGORIA_ACTUAL +
+      " " +
+      CIUDAD_ACTUAL
+    ).toLowerCase();
+
+    var textoOferta = (
+      oferta.titulo +
+      " " +
+      oferta.categoria +
+      " " +
+      oferta.ubicacion +
+      " " +
+      oferta.descripcion
+    ).toLowerCase();
+
+    var puntuacion = 0;
+
+    var categoriaCoincide = false;
+
+    if(
+      CATEGORIA_ACTUAL &&
+      normalizarCategoria(oferta.categoria) ===
+      normalizarCategoria(CATEGORIA_ACTUAL)
+    ){
+      puntuacion += 30;
+      categoriaCoincide = true;
+    }
+
+    var ciudadCoincide = false;
+
+    if(
+      CIUDAD_ACTUAL &&
+      textoOferta.indexOf(CIUDAD_ACTUAL.toLowerCase()) !== -1
+    ){
+      puntuacion += 20;
+      ciudadCoincide = true;
+    }
+
+    if(
+      oferta.modalidad &&
+      CATEGORIA_ACTUAL
+    ){
+
+      var modalidadActual =
+        obtenerTextoPagina(".empleo-info-card .empleo-info-value");
+
+      var modalidadValor = "";
+
+      var tarjetasDOM = document.querySelectorAll(".empleo-info-card");
+
+      for(var m=0;m<tarjetasDOM.length;m++){
+
+        var lab = tarjetasDOM[m].querySelector(".empleo-info-label");
+
+        if(
+          lab &&
+          textoNodo(lab).toLowerCase() === "modalidad"
+        ){
+
+          var v = tarjetasDOM[m].querySelector(".empleo-info-value");
+
+          if(v){
+            modalidadValor = textoNodo(v).toLowerCase();
+          }
+
+          break;
+
+        }
+
+      }
+
+      if(
+        modalidadValor &&
+        modalidadValor !== "no especificada" &&
+        oferta.modalidad.toLowerCase() === modalidadValor
+      ){
+        puntuacion += 12;
+      }
+
+    }
+
+    var tokensActuales = palabras(actual);
+    var tokensOferta = palabras(textoOferta);
+
+    var coincidencias = 0;
+
+    for(var i=0;i<tokensActuales.length;i++){
+
+      if(tokensOferta.indexOf(tokensActuales[i]) !== -1){
+
+        coincidencias++;
+        puntuacion += 8;
+
+      }
+
+    }
+
+    var grupos = [
+      {
+        palabras:[
+          "ssoma","hse","ehs","sst",
+          "seguridad","ocupacional",
+          "riesgos","prevencion",
+          "epp","ambiente"
+        ],
+        peso:5
+      },
+      {
+        palabras:[
+          "supervisor","coordinador",
+          "jefe","encargado"
+        ],
+        peso:4
+      },
+      {
+        palabras:[
+          "ingeniero","ingenieria",
+          "industrial","planta",
+          "produccion","operaciones"
+        ],
+        peso:3
+      },
+      {
+        palabras:[
+          "calidad","auditoria",
+          "iso","procesos","gestion"
+        ],
+        peso:3
+      },
+      {
+        palabras:[
+          "administracion","contabilidad",
+          "finanzas","recursos",
+          "humanos","rrhh"
+        ],
+        peso:3
+      },
+      {
+        palabras:[
+          "ventas","comercial",
+          "vendedor","asesor","cliente"
+        ],
+        peso:3
+      },
+      {
+        palabras:[
+          "logistica","almacen",
+          "compras","distribucion",
+          "transporte","supply"
+        ],
+        peso:3
+      }
+    ];
+
+    for(var g=0;g<grupos.length;g++){
+
+      for(var p=0;p<grupos[g].palabras.length;p++){
+
+        if(
+          textoOferta.indexOf(
+            grupos[g].palabras[p]
+          ) !== -1
+        ){
+
+          puntuacion += grupos[g].peso;
+
+        }
+
+      }
+
+    }
+
+    if(
+      /gerente|director|jefe/.test(
+        oferta.titulo.toLowerCase()
+      )
+    ){
+      puntuacion += 4;
+    }
+
+    if(
+      /supervisor|coordinador/.test(
+        oferta.titulo.toLowerCase()
+      )
+    ){
+      puntuacion += 3;
+    }
+
+    if(
+      /analista|especialista|ingeniero/.test(
+        oferta.titulo.toLowerCase()
+      )
+    ){
+      puntuacion += 2;
+    }
+
+    if(
+      /asistente|auxiliar|practicante/.test(
+        oferta.titulo.toLowerCase()
+      )
+    ){
+      puntuacion += 2;
+    }
+
+    if(
+      CIUDAD_ACTUAL &&
+      normalizarTexto(oferta.empresa).toLowerCase() ===
+      normalizarTexto(EMPRESA_ACTUAL).toLowerCase()
+    ){
+      puntuacion += 15;
+    }
+
+    if(coincidencias){
+      puntuacion += coincidencias;
+    }
+
+    return puntuacion;
+
+  }
+
+  function formatearFecha(fecha){
+
+    if(!fecha){
+      return "Fecha no especificada";
+    }
+
+    var objetoFecha = new Date(fecha);
+
+    if(isNaN(objetoFecha.getTime())){
+      return "Fecha no especificada";
+    }
+
+    var dia = String(
+      objetoFecha.getDate()
+    ).padStart(2,"0");
+
+    var mes = String(
+      objetoFecha.getMonth()+1
+    ).padStart(2,"0");
+
+    var anio = objetoFecha.getFullYear();
+
+    return dia + "/" + mes + "/" + anio;
+
+  }
+
+  function crearTarjeta(oferta){
+
+    var categoria = normalizarCategoria(
+      oferta.categoria
+    );
+
+    var clase = claseCategoria(
+      categoria
+    );
+
+    var titulo = escaparHTML(
+      oferta.titulo
+    );
+
+    var empresa = escaparHTML(
+      oferta.empresa
+    );
+
+    var ubicacion = escaparHTML(
+      oferta.ubicacion
+    );
+
+    var modalidad = escaparHTML(
+      oferta.modalidad
+    );
+
+    var contrato = escaparHTML(
+      oferta.contrato
+    );
+
+    var salario = escaparHTML(
+      oferta.salario
+    );
+
+    var descripcion = escaparHTML(
+      oferta.descripcion ||
+      "Consulta todos los detalles de esta oferta."
+    );
+
+    var fecha = escaparHTML(
+      formatearFecha(oferta.fecha)
+    );
+
+    var url = escaparAtributo(
+      oferta.url
+    );
+
+    return (
+      '<article class="relacionado-card">' +
+
+        '<div class="relacionado-visual ' + clase + '">' +
+
+          '<span class="relacionado-etiqueta">' +
+            escaparHTML(categoria) +
+          '</span>' +
+
+          '<span class="relacionado-icono">' +
+            iconoCategoria(categoria) +
+          '</span>' +
+
+        '</div>' +
+
+        '<div class="relacionado-contenido">' +
+
+          '<div class="relacionado-titulo">' +
+            titulo +
+          '</div>' +
+
+          '<div class="relacionado-empresa">' +
+            empresa +
+          '</div>' +
+
+          '<div class="relacionado-datos">' +
+
+            '<span class="relacionado-chip">' +
+              ubicacion +
+            '</span>' +
+
+            '<span class="relacionado-chip">' +
+              modalidad +
+            '</span>' +
+
+            '<span class="relacionado-chip">' +
+              contrato +
+            '</span>' +
+
+          '</div>' +
+
+          '<div class="relacionado-salario">' +
+            salario +
+          '</div>' +
+
+          '<div class="relacionado-descripcion">' +
+            descripcion +
+          '</div>' +
+
+          '<div class="relacionado-fecha">' +
+            'Publicado: ' + fecha +
+          '</div>' +
+
+          '<a class="relacionado-boton" ' +
+             'href="' + url + '" ' +
+             'target="_blank" ' +
+             'rel="noopener noreferrer">' +
+             'VER OFERTA' +
+          '</a>' +
+
+        '</div>' +
+
+      '</article>'
+    );
+
+  }
+
+  function mostrarOfertas(data){
+
+    var contenedor = document.getElementById(
+      CONTENEDOR_ID
+    );
+
+    if(!contenedor){
+      return;
+    }
+
+    var entradas = (
+      data &&
+      data.feed &&
+      data.feed.entry
+        ? data.feed.entry
+        : []
+    );
+
+    var urlActualNormalizada =
+      normalizarUrl(URL_ACTUAL);
+
+    var ofertas = [];
+
+    var urlsVistas = {};
+
+    for(var i=0;i<entradas.length;i++){
+
+      var oferta = extraerOferta(
+        entradas[i]
+      );
+
+      if(!oferta.titulo){
+        continue;
+      }
+
+      var urlOfertaNormalizada =
+        normalizarUrl(oferta.url);
+
+      if(
+        urlOfertaNormalizada &&
+        urlOfertaNormalizada === urlActualNormalizada
+      ){
+        continue;
+      }
+
+      var mismoTitulo =
+        normalizarTexto(oferta.titulo).toLowerCase() ===
+        normalizarTexto(TITULO_ACTUAL).toLowerCase();
+
+      if(mismoTitulo){
+        continue;
+      }
+
+      if(
+        !oferta.url ||
+        oferta.url.indexOf("empleosperuhoy.blogspot.com") === -1
+      ){
+        continue;
+      }
+
+      if(urlsVistas[urlOfertaNormalizada]){
+        continue;
+      }
+
+      urlsVistas[urlOfertaNormalizada] = true;
+
+      oferta.relevancia =
+        calcularRelevancia(oferta);
+
+      if(oferta.relevancia <= 0){
+        continue;
+      }
+
+      ofertas.push(oferta);
+
+    }
+
+    ofertas.sort(function(a,b){
+
+      if(
+        b.relevancia !==
+        a.relevancia
+      ){
+
+        return b.relevancia -
+          a.relevancia;
+
+      }
+
+      return (
+        new Date(b.fecha || 0) -
+        new Date(a.fecha || 0)
+      );
+
+    });
+
+    ofertas =
+      ofertas.slice(0,6);
+
+    if(!ofertas.length){
+
+      contenedor.innerHTML =
+        '<div style="padding:15px;color:#6b7280;font-size:13px;">No hay ofertas recomendadas disponibles.</div>';
+
+      return;
+
+    }
+
+    var html = "";
+
+    for(var j=0;j<ofertas.length;j++){
+
+      html += crearTarjeta(
+        ofertas[j]
+      );
+
+    }
+
+    contenedor.innerHTML = html;
+
+  }
+
+  window.ofertasRelacionadasCallback =
+    mostrarOfertas;
+
+  var script =
+    document.createElement("script");
+
+  script.src =
+    "https://empleosperuhoy.blogspot.com/feeds/posts/default/-/Empleo?alt=json-in-script&max-results=50&orderby=published&callback=ofertasRelacionadasCallback";
+
+  script.async = true;
+
+  document.body.appendChild(script);
+
+})();
+</script>
+
+</div>

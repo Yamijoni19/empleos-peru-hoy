@@ -1,0 +1,207 @@
+================================================================================
+ PORTADA - VERSION ETIQUETADA MASIVAMENTE (LISTA PARA REEMPLAZAR)
+ (Opción 1 - todas las tarjetas ya llevan su data-cierre y data-estado)
+ Conectado con tu Bloque-Tema-Blogger.txt: el JS caduca, oculta y
+ desactiva botones SOLO (no tocar el motor).
+================================================================================
+
+----------------------------------------------------------------------------------
+ BLOQUE 1 - HERO / PORTADA
+----------------------------------------------------------------------------------
+<header class="portal-hero portal-portada-hero">
+  <div class="portal-hero-inner">
+    <p class="portal-hero-kicker">Empleos y becas actualizados para Perú</p>
+    <h1 class="portal-hero-titulo">
+      Encuentra <span class="portal-resaltado">tu beca</span> o
+      <span class="portal-resaltado">tu empleo</span> hoy
+    </h1>
+    <p class="portal-hero-sub">
+      Guías paso a paso, convocatorias vigentes y noticias verificadas.
+      Sin vueltas: te explicamos cómo postular, qué necesitas y hasta
+      dónde enviar tus papeles.
+    </p>
+    <div class="portal-hero-acciones">
+      <a class="portal-boton portal-boton-primario" href="/search/label/Becas"
+         title="Ver todas las becas vigentes">Ver becas vigentes</a>
+      <a class="portal-boton portal-boton-secundario" href="/search/label/Empleos"
+         title="Ver ofertas de empleo">Ver empleos</a>
+    </div>
+  </div>
+</header>
+
+----------------------------------------------------------------------------------
+ BLOQUE 2 - CONTADORES (el JS los rellena; también puedes escribir el número)
+----------------------------------------------------------------------------------
+<section class="portal-stats portal-portada-stats" aria-label="Cifras del portal">
+  <div class="portal-stats-item" data-conteo="Becas">
+    <span class="portal-stats-numero">90</span>
+    <span class="portal-stats-etiqueta">Becas vigentes</span>
+  </div>
+  <div class="portal-stats-item" data-conteo="Empleos">
+    <span class="portal-stats-numero">250</span>
+    <span class="portal-stats-etiqueta">Empleos publicados</span>
+  </div>
+  <div class="portal-stats-item" data-conteo="Noticias">
+    <span class="portal-stats-numero">40</span>
+    <span class="portal-stats-etiqueta">Noticias de convocatorias</span>
+  </div>
+</section>
+
+----------------------------------------------------------------------------------
+ BLOQUE 3 - TARJETAS DE BECAS Y EMPLEOS (AHORA CON VIGENCIA AUTOMÁTICA)
+----------------------------------------------------------------------------------
+<!-- CÓMO FUNCIONA (no hace falta que lo toques):
+     - data-cierre="AAAA-MM-DD" = fecha real de cierre de la convocatoria.
+       El JS la compara con HOY y pone el estado solitito:
+         * pasada  -> "Convocatoria finalizada" / tarjeta se oculta
+                      (si el contenedor lleva data-ocultar-caducadas="true")
+         * <=5 días -> "¡Cierra pronto! (N días)"
+         * futura   -> "Convocatoria abierta"
+     - data-estado en el span = donde el JS escribe la etiqueta.
+     - data-postular / data-aplicar en el botón = se desactiva solo al vencer.
+     - Empleos: usa data-aplicar y el contenedor data-ocultar-caducadas.
+     Para cambiar quita/pon fechas; el resto lo hace el motor. -->
+
+<section class="portal-seccion portal-portada-becas"
+         aria-label="Becas destacadas"
+         data-ocultar-caducadas="false">
+  <h2 class="portal-seccion-titulo">Becas destacadas de la semana</h2>
+  <div class="portal-destacadas-grid">
+
+    <!-- BECA 1 -->
+    <article class="portal-tarjeta"
+             data-cierre="2026-11-30"
+             data-estado
+             data-tipo="beca" data-nivel="pregrado" data-rama="educacion"
+             data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+      <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-18-convocatoria.html">Beca 18 PRONABEC</a></h3>
+      <p class="portal-tarjeta-desc">Para peruanos con buen rendimiento y bajos recursos. Estudios de pregrado con todo cubierto.</p>
+      <a class="portal-tarjeta-enlace" data-postular href="/2026/xx/beca-18-convocatoria.html">Ver ficha y cómo postular</a>
+    </article>
+
+    <!-- BECA 2 -->
+    <article class="portal-tarjeta"
+             data-cierre="2026-10-15"
+             data-estado
+             data-tipo="beca" data-nivel="tecnico" data-rama="tecnologia"
+             data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+      <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-tec-pronabec.html">Beca TEC PRONABEC</a></h3>
+      <p class="portal-tarjeta-desc">Carreras técnicas de alta demanda: administración, logística, diseño y más.</p>
+      <a class="portal-tarjeta-enlace" data-postular href="/2026/xx/beca-tec-pronabec.html">Ver ficha y cómo postular</a>
+    </article>
+
+    <!-- BECA 3 -->
+    <article class="portal-tarjeta"
+             data-cierre="2026-09-30"
+             data-estado
+             data-tipo="beca" data-nivel="pregrado" data-rama="educacion"
+             data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+      <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-especiales-pronabec.html">Becas Especiales PRONABEC</a></h3>
+      <p class="portal-tarjeta-desc">Convocatorias para poblaciones vulnerables y casos especiales.</p>
+      <a class="portal-tarjeta-enlace" data-postular href="/2026/xx/beca-especiales-pronabec.html">Ver ficha y cómo postular</a>
+    </article>
+
+  </div>
+</section>
+
+<!-- EMPLEOS: la sección con data-ocultar-caducadas="true" hace que
+     las vacantes vencidas DESAPAREZCAN por completo del listado. -->
+<section class="portal-seccion portal-portada-empleos"
+         aria-label="Empleos destacados"
+         data-ocultar-caducadas="true">
+  <h2 class="portal-seccion-titulo">Empleos destacados de la semana</h2>
+  <div class="portal-destacadas-grid">
+
+    <!-- EMPLEO 1 -->
+    <article class="portal-tarjeta"
+             data-cierre="2026-09-25"
+             data-estado
+             data-tipo="empleo" data-nivel="tecnico" data-rama="tecnologia"
+             data-jornada="tiempo-completo" data-modalidad="presencial">
+      <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/analista-desarrollo-web.html">Analista de desarrollo web</a></h3>
+      <p class="portal-tarjeta-desc">Remoto. Experiencia en HTML, CSS y JavaScript. Inglés básico. Sueldo según perfil.</p>
+      <a class="portal-tarjeta-enlace" data-aplicar href="/2026/xx/analista-desarrollo-web.html">Ver oferta y cómo aplicar</a>
+    </article>
+
+    <!-- EMPLEO 2 -->
+    <article class="portal-tarjeta"
+             data-cierre="2026-10-05"
+             data-estado
+             data-tipo="empleo" data-nivel="tecnico" data-rama="salud"
+             data-jornada="tiempo-completo" data-modalidad="presencial">
+      <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/enfermero-a.html">Enfermero(a)</a></h3>
+      <p class="portal-tarjeta-desc">Clínica privada en Lima. Título y colegiatura. Turnos rotativos.</p>
+      <a class="portal-tarjeta-enlace" data-aplicar href="/2026/xx/enfermero-a.html">Ver oferta y cómo aplicar</a>
+    </article>
+
+    <!-- EMPLEO 3: SIN data-cierre = vacante abierta (nunca caduca sola) -->
+    <article class="portal-tarjeta"
+             data-estado
+             data-tipo="empleo" data-nivel="secundaria" data-rama="logistica"
+             data-jornada="tiempo-completo" data-modalidad="presencial">
+      <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/operario-logistica.html">Operario(a) de logística</a></h3>
+      <p class="portal-tarjeta-desc">Almacén en el Callao. Secundaria completa. Sin experiencia previa.</p>
+      <a class="portal-tarjeta-enlace" data-aplicar href="/2026/xx/operario-logistica.html">Ver oferta y cómo aplicar</a>
+    </article>
+
+  </div>
+</section>
+
+----------------------------------------------------------------------------------
+ BLOQUE 4 - GUÍA RÁPIDA (sección didáctica)
+----------------------------------------------------------------------------------
+<section class="portal-seccion portal-portada-guia" aria-label="Qué puedes hacer aquí">
+  <h2 class="portal-seccion-titulo">¿Qué puedes hacer aquí?</h2>
+  <div class="portal-guia-grid">
+    <div class="portal-guia-paso">
+      <span class="portal-guia-numero">1</span>
+      <h3>Busca tu beca</h3>
+      <p>Usa el buscador o explora las categorías para encontrar convocatorias abiertas.</p>
+    </div>
+    <div class="portal-guia-paso">
+      <span class="portal-guia-numero">2</span>
+      <h3>Revisa los requisitos</h3>
+      <p>Cada ficha te dice exactamente qué necesitas: documentos, notas y plazos.</p>
+    </div>
+    <div class="portal-guia-paso">
+      <span class="portal-guia-numero">3</span>
+      <h3>Postula paso a paso</h3>
+      <p>Sigue nuestra guía para llenar el formulario sin errores y a tiempo.</p>
+    </div>
+  </div>
+</section>
+
+----------------------------------------------------------------------------------
+ BLOQUE 5 - CONTACTO / RECIBE AVISOS
+----------------------------------------------------------------------------------
+<section class="portal-seccion portal-portada-contacto" aria-label="Contacto y avisos">
+  <h2 class="portal-seccion-titulo">¿No encuentras tu convocatoria?</h2>
+  <p>Escríbenos y te ayudamos a ubicar becas y empleos para tu perfil.</p>
+  <div class="portal-contacto-acciones">
+    <a class="portal-boton portal-boton-primario" href="#contacto" data-contacto
+       data-asunto="Quiero ayuda para encontrar una beca">
+      Contactar por correo
+    </a>
+    <a class="portal-boton portal-boton-secundario" href="#contacto" data-contacto
+       data-asunto="Quiero ayuda para encontrar un empleo">
+      Contactar por empleo
+    </a>
+  </div>
+</section>
+
+================================================================================
+ NOTAS IMPORTANTES
+================================================================================
+- Las fechas van SIEMPRE en formato AAAA-MM-DD (ej. 2026-11-30).
+  Sin eso el JS no puede compararla y la tarjeta queda abierta (estática).
+- data-ocultar-caducadas="true" en el contenedor = las vencidas DESAPARECEN.
+  En "false" (becas) la tarjeta se queda pero marcada "Finalizada" (histórico).
+- Cambia SOLO las fechas y los enlaces/títulos; el motor hace el resto.
+- Si quieres una vacante "siempre abierta", simplemente NO le pongas
+  data-cierre (como el Empelo 3 de arriba).

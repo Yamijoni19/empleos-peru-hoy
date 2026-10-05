@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467240",
+    "clave":  "id:1118467240",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-almacen-yuliana-rojas-1118467240.html",
+                   "capturadoEn":  "2026-10-04T20:03:08-05:00"
+               },
+    "titulo":  "Jefe de Almacén",
+    "empresa":  "Yuliana Rojas",
+    "ubicacion":  "Lima - Pachacamac",
+    "ciudad":  "Pachacamac",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.500 - S/ 2.000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Jefe de Almacén Resumen del Puesto Buscamos un Jefe de Almacén con experiencia para supervisar las operaciones diarias de nuestro almacén. El candidato ideal será un líder proactivo con sólidas habilidades organizativas y de gestión de inventario. Responsabilidades Controlar los ingresos y salidas de mercadería del almacén. Supervisar y guiar al personal a cargo del almacén en el cumplimiento de sus funciones. Requisitos Experiencia comprobable en gestión de almacenes. Conocimiento en sistemas de gestión de inventario. Habilidades de liderazgo y supervisión de personal. Excelentes habilidades de comunicación y resolución de problemas. Orientación a resultados y atención al detalle.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-almacen-yuliana-rojas-1118467240.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-almacen-yuliana-rojas-1118467240.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

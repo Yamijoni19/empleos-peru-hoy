@@ -1,0 +1,605 @@
+<!-- =========================================================
+     INICIO (PORTADA) CON CURSOS + "LO MÁS RECIENTE"
+     CAMBIOS RESPECTO A TU VERSIÓN (solo estos tres):
+     1) + <a href="/p/cursos.html">Cursos</a> en el menú (barra superior)
+     2) + tarjeta CURSOS en el hub-grid (misma estructura que las otras 3)
+     3) + marquesina "Lo más reciente" AUTOCONTENIDA: muestra los
+        últimos 6 posteos reales de tu blog (Empleo/Beca/Curso/
+        Artículo) en movimiento constante. Trae su propio <style>
+        y <script>, así que funciona aunque el Bloque-Tema tarde
+        en instalarse. Si el feed no responde, muestra 4 respaldos
+        (nunca queda vacía).
+     TODO LO DEMÁS queda IGUAL a tu versión.
+     ========================================================= -->
+
+<div class="portal-empleos">
+
+<header class="portal-header">
+
+  <div class="portal-logo">EMPLEOS PERÚ HOY</div>
+
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Artículos</a>
+    <a href="/p/cursos.html">Cursos</a>
+  </nav>
+
+</header>
+
+<section class="hub-hero">
+
+  <h1>¿Qué estás buscando hoy?</h1>
+
+  <p>Empleos, becas e información para impulsar tu carrera profesional en el Perú.</p>
+
+</section>
+
+<section class="portal-stats">
+
+  <div class="portal-stats-item" data-conteo="Empleo">
+    <div class="portal-stats-numero">-</div>
+    <div class="portal-stats-etiqueta">Ofertas de empleo</div>
+  </div>
+
+  <div class="portal-stats-item" data-conteo="Beca">
+    <div class="portal-stats-numero">-</div>
+    <div class="portal-stats-etiqueta">Becas disponibles</div>
+  </div>
+
+  <div class="portal-stats-item" data-conteo="Articulo">
+    <div class="portal-stats-numero">-</div>
+    <div class="portal-stats-etiqueta">Artículos y consejos</div>
+  </div>
+
+  <div class="portal-stats-item" data-conteo="Curso">
+    <div class="portal-stats-numero">-</div>
+    <div class="portal-stats-etiqueta">Cursos disponibles</div>
+  </div>
+
+</section>
+
+<style>
+  /* Correccion autocontenida: hub SIMETRICO 2x2 (2 tarjetas por
+     fila) + boton ARTICULOS AZUL como las demas + banda morada
+     solo en la imagen de CURSOS (cuerpo blanco, como sus hermanas).
+     Todo pega por encima de las reglas del Bloque-Tema. */
+  .hub-grid{
+    grid-template-columns:
+      repeat(2, 1fr) !important;
+  }
+  .hub-card-cursos .hub-imagen{
+    background:
+      linear-gradient(150deg,#7c3aed,#4f46e5) !important;
+  }
+  .hub-card-cursos .hub-boton{
+    background:#7c3aed !important;
+  }
+  .hub-card-articulos .hub-boton{
+    background:#0f4c81 !important;
+  }
+  .hub-card-cursos{
+    background:#ffffff !important;
+  }
+  .hub-card-cursos h2{
+    color:#111827 !important;
+  }
+  .hub-card-cursos p{
+    color:#6b7280 !important;
+  }
+  @media(max-width:640px){
+    .hub-grid{
+      grid-template-columns:
+        repeat(2, 1fr) !important;
+    }
+  }
+  @media(max-width:420px){
+    .hub-grid{
+      grid-template-columns:
+        repeat(1, 1fr) !important;
+    }
+  }
+</style>
+
+<section class="hub-grid">
+
+  <a class="hub-card hub-card-empleos" href="/p/empleos.html">
+
+    <div class="hub-imagen">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><rect x="4" y="7" width="16" height="13" rx="2"></rect><path d="M9 7V5h6v2"></path><path d="M4 12h16"></path></svg>
+    </div>
+
+    <h2>EMPLEOS</h2>
+
+    <p>Encuentra ofertas de trabajo actualizadas en todo el Perú. Filtra por categoría, ciudad, modalidad y salario.</p>
+
+    <span class="hub-boton">VER EMPLEOS</span>
+
+  </a>
+
+  <a class="hub-card hub-card-becas" href="/p/becas.html">
+
+    <div class="hub-imagen">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 9l9-5 9 5-9 5z"></path><path d="M7 11.5V16c3 2 7 2 10 0v-4.5"></path><path d="M21 9v6"></path></svg>
+    </div>
+
+    <h2>BECAS</h2>
+
+    <p>Programas de becas y financiamiento para estudiar en Perú y el extranjero.</p>
+
+    <span class="hub-boton">VER BECAS</span>
+
+  </a>
+
+  <a class="hub-card hub-card-cursos" href="/p/cursos.html">
+
+    <div class="hub-imagen">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4z"></path><path d="M8 9h8"></path><path d="M8 13h8"></path><path d="M8 17h5"></path></svg>
+    </div>
+
+    <h2>CURSOS</h2>
+
+    <p>Cursos y capacitaciones gratuitas (en línea y presenciales) para mejorar tu perfil y conseguir mejores oportunidades.</p>
+
+    <span class="hub-boton">VER CURSOS</span>
+
+  </a>
+
+  <a class="hub-card hub-card-articulos" href="/p/articulos.html">
+
+    <div class="hub-imagen">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16"></path><path d="M4 12h16"></path><path d="M8 19h12"></path><path d="M4 12h4"></path><path d="M8 19l-4-7"></path></svg>
+    </div>
+
+    <h2>ARTÍCULOS</h2>
+
+    <p>Consejos para conseguir trabajo rápido, sin experiencia, entrevistas y más.</p>
+
+    <span class="hub-boton">LEER ARTÍCULOS</span>
+
+  </a>
+
+</section>
+
+<!-- =========================================================
+     NUEVO - LO MÁS RECIENTE (marquesina de contenido real)
+     Por qué es así:
+     - Es AUTOCONTENIDA: carga los últimos 6 posteos publicados
+       desde tu feed oficial con un JSONP inline. No depende del
+       Bloque-Tema, así que se ve aunque el tema esté pendiente.
+     - Si el feed no responde, muestra como respaldo los 4
+       accesos del hub (nunca queda vacía).
+     - NO lleva buscador (el hub es menú de tarjetas).
+     ========================================================= -->
+
+<section class="recientes">
+
+  <div class="recientes-cabecera">
+
+    <h2>LO MÁS RECIENTE</h2>
+
+    <span class="recientes-sub" id="recientesSub">
+      Contenido recién publicado en el portal
+    </span>
+
+  </div>
+
+  <div class="recientes-pista" id="recientesPista">
+
+    <div class="recientes-cinta" id="recientesCinta">
+
+      <a class="recientes-item" href="/p/empleos.html">
+        <span class="recientes-item-cat">Cargando...</span>
+        <span class="recientes-item-titulo">Obteniendo las últimas publicaciones</span>
+      </a>
+
+    </div>
+
+  </div>
+
+</section>
+
+<style>
+/* =========================================================
+   Marquesina "LO MÁS RECIENTE" (estilos propios, autocontenidos)
+   ========================================================= */
+.recientes{ max-width:1120px; margin:28px auto 0; padding:0 16px; }
+.recientes-cabecera{ display:flex; align-items:baseline; justify-content:space-between; gap:10px; flex-wrap:wrap; margin-bottom:12px; }
+.recientes-cabecera h2{ margin:0; font-size:18px; letter-spacing:.06em; color:#111827; }
+.recientes-sub{ font-size:13px; color:#6b7280; }
+.recientes-pista{ position:relative; overflow:hidden; border:1px solid #e5e7eb; border-radius:8px; background:#fff; }
+.recientes-pista::before,
+.recientes-pista::after{ content:""; position:absolute; top:0; bottom:0; width:32px; z-index:2; pointer-events:none; }
+.recientes-pista::before{ left:0; background:linear-gradient(90deg,#fff,rgba(255,255,255,0)); }
+.recientes-pista::after{ right:0; background:linear-gradient(270deg,#fff,rgba(255,255,255,0)); }
+.recientes-cinta{ display:flex; gap:12px; width:max-content; padding:12px 8px; animation:recientesDeslizar 42s linear infinite; }
+.recientes-pista:hover .recientes-cinta{ animation-play-state:paused; }
+.recientes-item{ flex:0 0 auto; width:230px; box-sizing:border-box; padding:12px 14px; border-radius:6px; background:#f9fafb; text-decoration:none; display:block; }
+.recientes-item:hover{ background:#f3f4f6; }
+.recientes-item-cat{ display:inline-block; font-size:10px; font-weight:700; letter-spacing:.08em; color:#fff; padding:2px 8px; border-radius:99px; margin-bottom:8px; background:#2563eb; }
+.recientes-item-cat[data-tipo="Empleo"]{ background:#059669; }
+.recientes-item-cat[data-tipo="Beca"]{ background:#d97706; }
+.recientes-item-cat[data-tipo="Curso"]{ background:#7c3aed; }
+.recientes-item-titulo{ display:block; font-size:14px; font-weight:600; line-height:1.35; color:#111827; margin-bottom:6px; }
+.recientes-item-fecha{ display:block; font-size:12px; color:#6b7280; }
+@keyframes recientesDeslizar{
+  0%{ transform:translateX(0); }
+  100%{ transform:translateX(-50%); }
+}
+@media(max-width:600px){
+  .recientes-item{ width:190px; }
+}
+</style>
+
+<script>
+/* =========================================================
+   Marquesina "LO MÁS RECIENTE" (autocontenida)
+   Carga los últimos 6 posteos del feed y los desliza en
+   bucle. Si el feed falla, muestra respaldos estáticos.
+   ========================================================= */
+(function(){
+
+  var pista =
+    document.getElementById(
+      "recientesCinta"
+    );
+
+  if(
+    !pista ||
+    pista.getAttribute(
+      "data-cargado"
+    )
+  ){
+    return;
+  }
+
+  pista.setAttribute(
+    "data-cargado",
+    "1"
+  );
+
+  var sub =
+    document.getElementById(
+      "recientesSub"
+    );
+
+  var respaldos = [
+    {
+      t: "Empleo",
+      ti: "Ver todas las ofertas de empleo",
+      u: "/p/empleos.html",
+      f: "Actualizado hoy"
+    },
+    {
+      t: "Beca",
+      ti: "Ver todas las becas disponibles",
+      u: "/p/becas.html",
+      f: "Actualizado hoy"
+    },
+    {
+      t: "Curso",
+      ti: "Ver todos los cursos gratuitos",
+      u: "/p/cursos.html",
+      f: "Actualizado hoy"
+    },
+    {
+      t: "Articulo",
+      ti: "Leer todos los artículos",
+      u: "/p/articulos.html",
+      f: "Actualizado hoy"
+    }
+  ];
+
+  function escapar(s){
+    return String(s || "")
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+
+  function pintar(items){
+
+    var doble =
+      (items || []).concat(
+        items || []
+      );
+
+    var html = "";
+
+    doble.forEach(
+      function(it){
+
+        html +=
+          '<a class="recientes-item" href="' +
+            escapar(it.u) +
+          '">' +
+
+            '<span class="recientes-item-cat" data-tipo="' +
+              escapar(it.t) +
+            '">' +
+              escapar(it.t.toUpperCase()) +
+            '</span>' +
+
+            '<span class="recientes-item-titulo">' +
+              escapar(it.ti) +
+            '</span>' +
+
+            '<span class="recientes-item-fecha">' +
+              escapar(it.f) +
+            '</span>' +
+
+          '</a>';
+
+      }
+    );
+
+    pista.innerHTML = html;
+
+  }
+
+  var items = [];
+
+  var respaldo =
+    respaldos;
+
+  window.recientesCallback =
+    function(data){
+
+      if(
+        data &&
+        data.feed &&
+        data.feed.entry
+      ){
+
+        data.feed.entry.forEach(
+          function(entrada){
+
+            var titulo =
+              (entrada.title &&
+               entrada.title.$t) ||
+              "";
+
+            var url = "#";
+
+            if(
+              entrada.link &&
+              entrada.link.length
+            ){
+              entrada.link.forEach(
+                function(l){
+                  if(
+                    l.rel === "alternate" &&
+                    l.href
+                  ){
+                    url = l.href;
+                  }
+                }
+              );
+            }
+
+            var tipo =
+              "Articulo";
+
+            if(
+              entrada.category &&
+              entrada.category.length
+            ){
+
+              entrada.category.forEach(
+                function(cat){
+
+                  var term =
+                    String(
+                      cat.term ||
+                      ""
+                    ).toLowerCase();
+
+                  if(
+                    term.indexOf("empleo") !== -1
+                  ){
+                    tipo = "Empleo";
+                  }
+
+                  if(
+                    term.indexOf("beca") !== -1
+                  ){
+                    tipo = "Beca";
+                  }
+
+                  if(
+                    term.indexOf("curso") !== -1
+                  ){
+                    tipo = "Curso";
+                  }
+
+                }
+              );
+
+            }
+
+            var fecha =
+              (entrada.published &&
+               entrada.published.$t) ?
+                new Date(
+                  entrada.published.$t
+                ).toLocaleDateString(
+                  "es-PE",
+                  {
+                    day: "numeric",
+                    month: "short",
+                    year: "numeric"
+                  }
+                ) :
+                "";
+
+            items.push(
+              {
+                t: tipo,
+                ti: titulo,
+                u: url,
+                f: fecha
+                  ? "Publicado el " + fecha
+                  : ""
+              }
+            );
+
+          }
+        );
+
+      }
+
+      pintar(
+        items.length ?
+          items :
+          respaldo
+      );
+
+      if(sub){
+        sub.textContent =
+          items.length
+            ? "Los últimos " +
+              items.length +
+              " contenidos publicados"
+            : "Aún no hay publicaciones";
+      }
+
+    };
+
+  var script =
+    document.createElement(
+      "script"
+    );
+
+  script.src =
+    "https://empleosperuhoy.blogspot.com/feeds/posts/default" +
+    "?alt=json-in-script" +
+    "&max-results=6" +
+    "&orderby=published" +
+    "&callback=recientesCallback";
+
+  script.onerror =
+    function(){
+      pintar(respaldo);
+    };
+
+  document.body.appendChild(
+    script
+  );
+
+  /* Respaldo por tiempo: si el feed tarda, mostramos los respaldos */
+  setTimeout(
+    function(){
+      if(
+        !pista.querySelector(
+          ".recientes-item[data-tipo]"
+        ) ||
+        pista.querySelector(
+          ".recientes-item-cat[data-tipo]"
+        ).textContent.trim() ===
+          "CARGANDO..."
+      ){
+        pintar(respaldo);
+      }
+    },
+    8000
+  );
+
+})();
+</script>
+
+<section class="empleos-seccion empleos-seccion-cta">
+
+  <div class="empleos-cabecera">
+    <h2>¿Tienes una oferta o beca que publicar?</h2>
+    <span class="contador-resultados">Ayúdanos a conectar más peruanos con oportunidades</span>
+  </div>
+
+  <div class="empleo-postular">
+
+    <a
+      class="empleo-boton"
+      href="#"
+      data-contacto
+      data-asunto="Publicar oferta de empleo o beca"
+    >
+      CONTACTAR PARA PUBLICAR
+    </a>
+
+    <div class="empleo-aviso">
+      Publicamos ofertas de empleo y becas verificadas, sin costo para los postulantes.
+    </div>
+
+  </div>
+
+</section>
+
+<footer class="portal-footer">
+
+  <div class="portal-footer-contenido">
+
+    <div>
+
+      <h3>EMPLEOS PERÚ HOY</h3>
+
+      <a href="/">Inicio</a>
+      <a href="/p/empleos.html">Empleos</a>
+      <a href="/p/becas.html">Becas</a>
+      <a href="/p/articulos.html">Artículos</a>
+      <a href="/p/cursos.html">Cursos</a>
+
+    </div>
+
+    <div>
+
+      <h3>Información</h3>
+
+      <a href="#" data-contacto data-asunto="Contacto">Contacto</a>
+      <a href="#" data-contacto data-asunto="Publicar oferta de empleo o beca">Publica tu oferta</a>
+      <a href="/p/politica-de-privacidad.html">Política de privacidad</a>
+      <a href="/p/terminos-y-condiciones.html">Términos y condiciones</a>
+
+    </div>
+
+    <div>
+
+      <h3>Recomendaciones</h3>
+
+      <a href="/p/articulos.html">Consejos para buscar trabajo</a>
+      <a href="/p/articulos.html">Cómo armar tu CV</a>
+      <a href="/p/becas.html">Becas para estudiar</a>
+      <a href="/p/cursos.html">Cursos para capacitarte</a>
+
+    </div>
+
+  </div>
+
+  <div class="portal-footer-legal">
+
+    EMPLEOS PERÚ HOY no es una agencia de empleo. Publicamos ofertas enlazando a las
+    plataformas oficiales de cada institución o empresa. La postulación se realiza
+    directamente en el sitio de origen.
+
+  </div>
+
+</footer>
+
+<style>
+/* ===== CORRECCIÓN AUTOCONTENIDA: TODAS LAS TARJETAS IGUALES ===== */
+.hub-grid{
+  grid-template-columns: repeat(2, 1fr) !important;
+}
+.hub-card h2,
+.hub-card-cursos h2{
+  color: #0f4c81 !important;  /* CELESTE para todos los títulos */
+}
+.hub-card .hub-boton,
+.hub-card-cursos .hub-boton,
+.hub-card-articulos .hub-boton{
+  background: #0f4c81 !important;  /* AZUL para todos los botones */
+}
+</style>  
+  
+</div>
+

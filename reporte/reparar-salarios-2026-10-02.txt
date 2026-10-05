@@ -1,0 +1,244 @@
+﻿=== Reparar salarios 10000 v2 - 2026-10-02 - archivos: 121 - aplicar=True ===
+EXTR [p2] tipo=valor S/ 10,000.00 raw=S/  10,000.00 | oferta-de-empleo-archivo-general-nacion-agn-requiere-responsable-e991-entrada.html | https://www.convocatoriasdetrabajo.com/oferta-de-empleo-archivo-general-nacion-agn-requiere-responsable-unidad-formuladora-convocatoria-octubre-2026-89677.html
+PATCHED(valor) | oferta-de-empleo-archivo-general-nacion-agn-requiere-responsable-e991-entrada.html
+EXTR [p2] tipo=valor S/ 10,000.00 raw=S/  10,000.00 | oferta-de-empleo-pronied-busca-especialista-iii-gestion-publica-4465-entrada.html | https://www.convocatoriasdetrabajo.com/oferta-de-empleo-pronied-busca-especialista-iii-gestion-publica-convocatoria-setiembre-2026-89686.html
+PATCHED(valor) | oferta-de-empleo-pronied-busca-especialista-iii-gestion-publica-4465-entrada.html
+EXTR [p2] tipo=valor S/ 10,000.00 raw=S/  10,000.00 | oferta-de-empleo-serfor-busca-especialista-gestion-riesgos-desas-eb88-entrada.html | https://www.convocatoriasdetrabajo.com/oferta-de-empleo-serfor-busca-especialista-gestion-riesgos-desastres-convocatoria-octubre-2026-89736.html
+PATCHED(valor) | oferta-de-empleo-serfor-busca-especialista-gestion-riesgos-desas-eb88-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-002-contador-integracion-contable-hospital-san-jua-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-002-contador-integracion-contable-hospital-san-juan-bautista-huaral-lima-633557.html
+PATCHED(noespec) | oportunidad-laboral-002-contador-integracion-contable-hospital-san-jua-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-006-especialista-social-ministerio-comercio-mincet-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-006-especialista-social-ministerio-comercio-mincetur-lima-616768.html
+PATCHED(noespec) | oportunidad-laboral-006-especialista-social-ministerio-comercio-mincet-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-007-especialista-ambiental-ministerio-comercio-min-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-007-especialista-ambiental-ministerio-comercio-mincetur-lima-616769.html
+PATCHED(noespec) | oportunidad-laboral-007-especialista-ambiental-ministerio-comercio-min-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-008-asesor-tecnico-ministerio-comercio-mincetur-li-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-008-asesor-tecnico-ministerio-comercio-mincetur-lima-616770.html
+PATCHED(noespec) | oportunidad-laboral-008-asesor-tecnico-ministerio-comercio-mincetur-li-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-055-2026-5301-especialista-funcional-abastecimient-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-055-2026-5301-especialista-funcional-abastecimiento-ministerio-economia-mef-lima-616780.html
+PATCHED(noespec) | oportunidad-laboral-055-2026-5301-especialista-funcional-abastecimient-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-276-012-trabajador-servicios-ugel-ilo-moquegua-633-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-276-012-trabajador-servicios-ugel-ilo-moquegua-633162.html
+PATCHED(noespec) | oportunidad-laboral-276-012-trabajador-servicios-ugel-ilo-moquegua-633-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-276-021-trabajador-servicio-iii-ugel-tacna-633372-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-276-021-trabajador-servicio-iii-ugel-tacna-633372.html
+PATCHED(noespec) | oportunidad-laboral-276-021-trabajador-servicio-iii-ugel-tacna-633372-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-276-048-tecnico-iii-universidad-agraria-selva-huan-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-276-048-tecnico-iii-universidad-agraria-selva-huanuco-633334.html
+PATCHED(noespec) | oportunidad-laboral-276-048-tecnico-iii-universidad-agraria-selva-huan-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-728-011-analista-contable-electrosur-tacna-631671-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-728-011-analista-contable-electrosur-tacna-631671.html
+PATCHED(noespec) | oportunidad-laboral-728-011-analista-contable-electrosur-tacna-631671-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-articulacion-los-procesos-operativos-gerencia-cata-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-articulacion-los-procesos-operativos-gerencia-catastro-instituto-catastral-lima-icl-ica-622754.html
+PATCHED(noespec) | oportunidad-laboral-articulacion-los-procesos-operativos-gerencia-cata-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-auxiliar-biblioteca-direccion-educacion-dre-lima-6-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-auxiliar-biblioteca-direccion-educacion-dre-lima-633336.html
+PATCHED(noespec) | oportunidad-laboral-auxiliar-biblioteca-direccion-educacion-dre-lima-6-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-auxiliar-laboratorio-ugel-lima-632738-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-auxiliar-laboratorio-ugel-lima-632738.html
+PATCHED(noespec) | oportunidad-laboral-auxiliar-laboratorio-ugel-lima-632738-entrada.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-0013-especialista-integridad-institucional-sen-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0013-especialista-integridad-institucional-sencico-lima-633666.html
+IGUAL(real) | oportunidad-laboral-cas-0013-especialista-integridad-institucional-sen-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0013-especialista-integridad-institucional-sencico-lima-633666.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-re-0951-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-red-salud-junin-633927.html
+IGUAL(real) | oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-re-0951-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-red-salud-junin-633927.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-re-73fc-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-red-salud-junin-633930.html
+IGUAL(real) | oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-re-73fc-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-red-salud-junin-633930.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-re-fb35-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-red-salud-junin-633929.html
+IGUAL(real) | oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-re-fb35-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-especialista-red-salud-junin-633929.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-005-codigo-airhsp-medico-pediatra-red-sa-5709-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-pediatra-red-salud-junin-633937.html
+IGUAL(real) | oportunidad-laboral-cas-005-codigo-airhsp-medico-pediatra-red-sa-5709-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-005-codigo-airhsp-medico-pediatra-red-salud-junin-633937.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-0078-coordinador-ministerio-educacion-minedu-l-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0078-coordinador-ministerio-educacion-minedu-lima-631200.html
+IGUAL(real) | oportunidad-laboral-cas-0078-coordinador-ministerio-educacion-minedu-l-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-0078-coordinador-ministerio-educacion-minedu-lima-631200.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-011-responsable-unidad-formuladora-archivo-gen-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-011-responsable-unidad-formuladora-archivo-general-nacion-agn-lima-633163.html
+IGUAL(real) | oportunidad-laboral-cas-011-responsable-unidad-formuladora-archivo-gen-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-011-responsable-unidad-formuladora-archivo-general-nacion-agn-lima-633163.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-018-especialista-control-patrimonial-almacen-o-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-018-especialista-control-patrimonial-almacen-ofis-lima-632916.html
+IGUAL(real) | oportunidad-laboral-cas-018-especialista-control-patrimonial-almacen-o-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-018-especialista-control-patrimonial-almacen-ofis-lima-632916.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-019-especialista-contrataciones-publicas-ofis--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-019-especialista-contrataciones-publicas-ofis-lima-632918.html
+IGUAL(real) | oportunidad-laboral-cas-019-especialista-contrataciones-publicas-ofis--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-019-especialista-contrataciones-publicas-ofis-lima-632918.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-022-especialista-iii-gestion-publica-pronied-l-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-022-especialista-iii-gestion-publica-pronied-lima-633250.html
+IGUAL(real) | oportunidad-laboral-cas-022-especialista-iii-gestion-publica-pronied-l-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-022-especialista-iii-gestion-publica-pronied-lima-633250.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-026-especialista-legal-programa-saneamiento-ur-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-026-especialista-legal-programa-saneamiento-urbano-lima-633201.html
+IGUAL(real) | oportunidad-laboral-cas-026-especialista-legal-programa-saneamiento-ur-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-026-especialista-legal-programa-saneamiento-urbano-lima-633201.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-028-especialista-legal-programa-saneamiento-ur-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-028-especialista-legal-programa-saneamiento-urbano-lima-633205.html
+IGUAL(real) | oportunidad-laboral-cas-028-especialista-legal-programa-saneamiento-ur-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-028-especialista-legal-programa-saneamiento-urbano-lima-633205.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-030-especialista-presupuesto-programa-saneamie-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-030-especialista-presupuesto-programa-saneamiento-urbano-lima-633209.html
+IGUAL(real) | oportunidad-laboral-cas-030-especialista-presupuesto-programa-saneamie-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-030-especialista-presupuesto-programa-saneamiento-urbano-lima-633209.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-032-coordinador-legal-sineace-lima-633076-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-032-coordinador-legal-sineace-lima-633076.html
+IGUAL(real) | oportunidad-laboral-cas-032-coordinador-legal-sineace-lima-633076-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-032-coordinador-legal-sineace-lima-633076.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-036-coordinador-incorporacion-desarrollo-del-t-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-036-coordinador-incorporacion-desarrollo-del-talento-pronabec-lima-632833.html
+IGUAL(real) | oportunidad-laboral-cas-036-coordinador-incorporacion-desarrollo-del-t-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-036-coordinador-incorporacion-desarrollo-del-talento-pronabec-lima-632833.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-038-especialista-administracion-contratos-prog-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-038-especialista-administracion-contratos-programa-saneamiento-urbano-lima-633219.html
+IGUAL(real) | oportunidad-laboral-cas-038-especialista-administracion-contratos-prog-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-038-especialista-administracion-contratos-programa-saneamiento-urbano-lima-633219.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-044-especialista-gestion-proyectos-inversion-p-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-044-especialista-gestion-proyectos-inversion-programa-saneamiento-urbano-lima-633225.html
+IGUAL(real) | oportunidad-laboral-cas-044-especialista-gestion-proyectos-inversion-p-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-044-especialista-gestion-proyectos-inversion-programa-saneamiento-urbano-lima-633225.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-047-especialista-senior-ingenieria-programa-sa-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-047-especialista-senior-ingenieria-programa-saneamiento-urbano-lima-633228.html
+IGUAL(real) | oportunidad-laboral-cas-047-especialista-senior-ingenieria-programa-sa-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-047-especialista-senior-ingenieria-programa-saneamiento-urbano-lima-633228.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-055-especialista-legal-ministerio-produccion-p-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-055-especialista-legal-ministerio-produccion-produce-lima-631552.html
+IGUAL(real) | oportunidad-laboral-cas-055-especialista-legal-ministerio-produccion-p-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-055-especialista-legal-ministerio-produccion-produce-lima-631552.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-063-especialista-gestion-riesgos-desastres-ser-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-063-especialista-gestion-riesgos-desastres-serfor-lima-633590.html
+IGUAL(real) | oportunidad-laboral-cas-063-especialista-gestion-riesgos-desastres-ser-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-063-especialista-gestion-riesgos-desastres-serfor-lima-633590.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-072-especialista-administracion-bases-datos-su-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-072-especialista-administracion-bases-datos-sunass-lima-630975.html
+IGUAL(real) | oportunidad-laboral-cas-072-especialista-administracion-bases-datos-su-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-072-especialista-administracion-bases-datos-sunass-lima-630975.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-074-especialista-legal-planeamiento-desarrollo-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-074-especialista-legal-planeamiento-desarrollo-electrico-ministerio-energia-minas-minem-lima-632960.html
+IGUAL(real) | oportunidad-laboral-cas-074-especialista-legal-planeamiento-desarrollo-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-074-especialista-legal-planeamiento-desarrollo-electrico-ministerio-energia-minas-minem-lima-632960.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-076-especialista-proyectos-ministerio-vivienda-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-076-especialista-proyectos-ministerio-vivienda-lima-633534.html
+IGUAL(real) | oportunidad-laboral-cas-076-especialista-proyectos-ministerio-vivienda-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-076-especialista-proyectos-ministerio-vivienda-lima-633534.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-080-especialista-legal-saneamiento-ministerio--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-080-especialista-legal-saneamiento-ministerio-vivienda-lima-633538.html
+IGUAL(real) | oportunidad-laboral-cas-080-especialista-legal-saneamiento-ministerio--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-080-especialista-legal-saneamiento-ministerio-vivienda-lima-633538.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-084-coordinador-gestion-ejecucion-intervencion-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-084-coordinador-gestion-ejecucion-intervenciones-mejoramiento-vivienda-rural-ministerio-lima-633542.html
+IGUAL(real) | oportunidad-laboral-cas-084-coordinador-gestion-ejecucion-intervencion-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-084-coordinador-gestion-ejecucion-intervenciones-mejoramiento-vivienda-rural-ministerio-lima-633542.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-089-especialista-ciberseguridad-ministerio-viv-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-089-especialista-ciberseguridad-ministerio-vivienda-lima-633547.html
+IGUAL(real) | oportunidad-laboral-cas-089-especialista-ciberseguridad-ministerio-viv-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-089-especialista-ciberseguridad-ministerio-vivienda-lima-633547.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-090-especialista-desarrollo-sistemas-informati-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-090-especialista-desarrollo-sistemas-informaticos-ministerio-vivienda-lima-633548.html
+IGUAL(real) | oportunidad-laboral-cas-090-especialista-desarrollo-sistemas-informati-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-090-especialista-desarrollo-sistemas-informaticos-ministerio-vivienda-lima-633548.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-104-especialista-legal-gestion-recursos-humano-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-especialista-legal-gestion-recursos-humanos-procuraduria-del-estado-lima-631032.html
+IGUAL(real) | oportunidad-laboral-cas-104-especialista-legal-gestion-recursos-humano-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-104-especialista-legal-gestion-recursos-humanos-procuraduria-del-estado-lima-631032.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-109-codigo-arquitecto-infraestructura-poder-ju-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-109-codigo-arquitecto-infraestructura-poder-judicial-lima-631948.html
+IGUAL(real) | oportunidad-laboral-cas-109-codigo-arquitecto-infraestructura-poder-ju-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-109-codigo-arquitecto-infraestructura-poder-judicial-lima-631948.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-111-especialista-desarrollo-sistemas-procuradu-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-111-especialista-desarrollo-sistemas-procuraduria-del-estado-lima-631049.html
+IGUAL(real) | oportunidad-laboral-cas-111-especialista-desarrollo-sistemas-procuradu-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-111-especialista-desarrollo-sistemas-procuraduria-del-estado-lima-631049.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-127-especialista-legal-oefa-lima-630188-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-127-especialista-legal-oefa-lima-630188.html
+IGUAL(real) | oportunidad-laboral-cas-127-especialista-legal-oefa-lima-630188-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-127-especialista-legal-oefa-lima-630188.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-132-economista-oefa-lima-630197-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-132-economista-oefa-lima-630197.html
+IGUAL(real) | oportunidad-laboral-cas-132-economista-oefa-lima-630197-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-132-economista-oefa-lima-630197.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-136-especialista-contrataciones-oefa-lima-6302-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-136-especialista-contrataciones-oefa-lima-630204.html
+IGUAL(real) | oportunidad-laboral-cas-136-especialista-contrataciones-oefa-lima-6302-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-136-especialista-contrataciones-oefa-lima-630204.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-137-especialista-ejecucion-contractual-oefa-li-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-137-especialista-ejecucion-contractual-oefa-lima-630205.html
+IGUAL(real) | oportunidad-laboral-cas-137-especialista-ejecucion-contractual-oefa-li-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-137-especialista-ejecucion-contractual-oefa-lima-630205.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-142-coordinador-contrataciones-ministerio-muje-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-142-coordinador-contrataciones-ministerio-mujer-mimp-lima-629835.html
+IGUAL(real) | oportunidad-laboral-cas-142-coordinador-contrataciones-ministerio-muje-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-142-coordinador-contrataciones-ministerio-mujer-mimp-lima-629835.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-143-coordinador-ejecucion-contractual-minister-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-143-coordinador-ejecucion-contractual-ministerio-mujer-mimp-lima-629836.html
+IGUAL(real) | oportunidad-laboral-cas-143-coordinador-ejecucion-contractual-minister-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-143-coordinador-ejecucion-contractual-ministerio-mujer-mimp-lima-629836.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-144-especialista-abastecimiento-ministerio-muj-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-144-especialista-abastecimiento-ministerio-mujer-mimp-lima-629837.html
+IGUAL(real) | oportunidad-laboral-cas-144-especialista-abastecimiento-ministerio-muj-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-144-especialista-abastecimiento-ministerio-mujer-mimp-lima-629837.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-211-ejecutores-coactivos-sunafil-lima-631686-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-211-ejecutores-coactivos-sunafil-lima-631686.html
+IGUAL(real) | oportunidad-laboral-cas-211-ejecutores-coactivos-sunafil-lima-631686-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-211-ejecutores-coactivos-sunafil-lima-631686.html
+EXTR [p1] tipo=valor S/ 10000 raw=S/ 10000 | oportunidad-laboral-cas-especialista-proyectos-inversion-publica-progr-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-especialista-proyectos-inversion-publica-programa-subsectorial-irrigaciones-psi-lima-630483.html
+IGUAL(real) | oportunidad-laboral-cas-especialista-proyectos-inversion-publica-progr-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-cas-especialista-proyectos-inversion-publica-programa-subsectorial-irrigaciones-psi-lima-630483.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialista-extension-riego-jushm-alto-huallaga-h-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialista-extension-riego-jushm-alto-huallaga-huanuco-programa-subsectorial-irrigaciones-psi-628909.html
+PATCHED(noespec) | oportunidad-laboral-especialista-extension-riego-jushm-alto-huallaga-h-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialistas-extension-riego-mercerd-chaute-banda-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialistas-extension-riego-mercerd-chaute-banda-valle-programa-subsectorial-irrigaciones-psi-lima-628908.html
+PATCHED(noespec) | oportunidad-laboral-especialistas-extension-riego-mercerd-chaute-banda-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-0c32-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialistas-formulacion-estudios-pre-inversion-lima-programa-subsectorial-irrigaciones-psi-628910.html
+PATCHED(noespec) | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-0c32-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-5e13-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialistas-formulacion-estudios-pre-inversion-huancavelica-programa-subsectorial-irrigaciones-psi-628912.html
+PATCHED(noespec) | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-5e13-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-7d8d-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialistas-formulacion-estudios-pre-inversion-huanuco-programa-subsectorial-irrigaciones-psi-628911.html
+PATCHED(noespec) | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-7d8d-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-e5e4-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialistas-formulacion-estudios-pre-inversion-libertad-programa-subsectorial-irrigaciones-psi-628913.html
+PATCHED(noespec) | oportunidad-laboral-especialistas-formulacion-estudios-pre-inver-e5e4-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-especialistas-operacion-mantenimiento-infraestruct-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-especialistas-operacion-mantenimiento-infraestructura-programa-subsectorial-irrigaciones-psi-lima-628907.html
+PATCHED(noespec) | oportunidad-laboral-especialistas-operacion-mantenimiento-infraestruct-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-auxiliar-enfermeria-red-salud-carabaya-pun-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-auxiliar-enfermeria-red-salud-carabaya-puno-633612.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-auxiliar-enfermeria-red-salud-carabaya-pun-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-licenciado-comunicacion-red-salud-carabaya-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-licenciado-comunicacion-red-salud-carabaya-puno-633603.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-licenciado-comunicacion-red-salud-carabaya-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-medico-cirujano-red-salud-carabaya-puno-63-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-medico-cirujano-red-salud-carabaya-puno-633598.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-medico-cirujano-red-salud-carabaya-puno-63-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-quimico-farmaceutico-red-salud-carabaya-pu-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-quimico-farmaceutico-red-salud-carabaya-puno-633599.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-quimico-farmaceutico-red-salud-carabaya-pu-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-servicio-auxiliar-vestuario-red-salud-cara-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-servicio-auxiliar-vestuario-red-salud-carabaya-puno-633611.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-servicio-auxiliar-vestuario-red-salud-cara-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-servicio-digitacion-red-salud-carabaya-pun-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-servicio-digitacion-red-salud-carabaya-puno-633600.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-servicio-digitacion-red-salud-carabaya-pun-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-servicio-digitacion-sismed-red-salud-carab-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-servicio-digitacion-sismed-red-salud-carabaya-puno-633602.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-servicio-digitacion-sismed-red-salud-carab-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-servicio-especializado-psicologia-red-salu-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-servicio-especializado-psicologia-red-salud-carabaya-puno-633613.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-servicio-especializado-psicologia-red-salu-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-servicio-ingeniero-estadistico-red-salud-c-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-servicio-ingeniero-estadistico-red-salud-carabaya-puno-633605.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-servicio-ingeniero-estadistico-red-salud-c-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-tecnico-biomedico-red-salud-carabaya-puno--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-tecnico-biomedico-red-salud-carabaya-puno-633610.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-tecnico-biomedico-red-salud-carabaya-puno--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-loc-024-tecnico-enfermeria-red-salud-carabaya-puno-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-loc-024-tecnico-enfermeria-red-salud-carabaya-puno-633608.html
+PATCHED(noespec) | oportunidad-laboral-loc-024-tecnico-enfermeria-red-salud-carabaya-puno-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-oficinista-ugel-lima-632736-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-oficinista-ugel-lima-632736.html
+PATCHED(noespec) | oportunidad-laboral-oficinista-ugel-lima-632736-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-oficinista-ugel-lima-633708-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-oficinista-ugel-lima-633708.html
+PATCHED(noespec) | oportunidad-laboral-oficinista-ugel-lima-633708-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-oficinista-ugel-lima-633709-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-oficinista-ugel-lima-633709.html
+PATCHED(noespec) | oportunidad-laboral-oficinista-ugel-lima-633709-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-oficinista-ugel-lima-633710-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-oficinista-ugel-lima-633710.html
+PATCHED(noespec) | oportunidad-laboral-oficinista-ugel-lima-633710-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-administracion-gestion-recurso-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-administracion-gestion-recursos-humanos-psicologia-setiembre-2026-624107.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-administracion-gestion-recurso-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-administracion-ingenieria-indu-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-administracion-ingenieria-industrial-derecho-setiembre-2026-630930.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-administracion-ingenieria-indu-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-administracion-negocios-ing-in-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-administracion-negocios-ing-industrial-derecho-setiembre-2026-629370.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-administracion-negocios-ing-in-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-administracion-octubre-2-0075-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-administracion-octubre-2026-632578.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-administracion-octubre-2-0075-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-administracion-octubre-2-eb3e-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-administracion-octubre-2026-632579.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-administracion-octubre-2-eb3e-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-administracion-setiembre-2026--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-administracion-setiembre-2026-629369.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-administracion-setiembre-2026--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-derecho-economia-administracio-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-derecho-economia-administracion-octubre-2026-632575.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-derecho-economia-administracio-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-derecho-octubre-2026-632576-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-derecho-octubre-2026-632576.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-derecho-octubre-2026-632576-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-economia-ingenieria-economica--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-economia-ingenieria-economica-administracion-estadistica-setiembre-2026-626674.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-economia-ingenieria-economica--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-ingenieria-industrial-administ-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-ingenieria-industrial-administracion-setiembre-2026-630929.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-ingenieria-industrial-administ-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-ingenieria-industrial-contabil-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-ingenieria-industrial-contabilidad-administracion-economia-octubre-2026-632581.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-ingenieria-industrial-contabil-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-agrobanco-ingenieria-sistemas-informatic-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-agrobanco-ingenieria-sistemas-informatica-setiembre-2026-622896.html
+PATCHED(noespec) | oportunidad-laboral-practicas-agrobanco-ingenieria-sistemas-informatic-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-bcrp-arqueologia-historia-del-arte-educa-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-bcrp-arqueologia-historia-del-arte-educacion-gestion-cultural-octubre-2026-630827.html
+PATCHED(noespec) | oportunidad-laboral-practicas-bcrp-arqueologia-historia-del-arte-educa-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-bcrp-ciencias-comunicacion-octubre-2026--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-bcrp-ciencias-comunicacion-octubre-2026-633451.html
+PATCHED(noespec) | oportunidad-laboral-practicas-bcrp-ciencias-comunicacion-octubre-2026--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-bcrp-educacion-artistica-artes-plasticas-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-bcrp-educacion-artistica-artes-plasticas-arqueologia-octubre-2026-630826.html
+PATCHED(noespec) | oportunidad-laboral-practicas-bcrp-educacion-artistica-artes-plasticas-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-bcrp-historia-archivistica-bibliotecolog-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-bcrp-historia-archivistica-bibliotecologia-ciencias-informacion-octubre-2026-633450.html
+PATCHED(noespec) | oportunidad-laboral-practicas-bcrp-historia-archivistica-bibliotecolog-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-bcrp-ingenieria-sistemas-ciencias-comput-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-bcrp-ingenieria-sistemas-ciencias-computacion-octubre-2026-633453.html
+PATCHED(noespec) | oportunidad-laboral-practicas-bcrp-ingenieria-sistemas-ciencias-comput-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-bcrp-ingenieria-sistemas-octubre-2026-63-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-bcrp-ingenieria-sistemas-octubre-2026-633454.html
+PATCHED(noespec) | oportunidad-laboral-practicas-bcrp-ingenieria-sistemas-octubre-2026-63-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-caja-pensiones-militar-policial-contabil-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-caja-pensiones-militar-policial-contabilidad-octubre-2026-632540.html
+PATCHED(noespec) | oportunidad-laboral-practicas-caja-pensiones-militar-policial-contabil-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-electroperu-administracion-ingenieria-in-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-electroperu-administracion-ingenieria-industrial-contabilidad-octubre-2026-633457.html
+PATCHED(noespec) | oportunidad-laboral-practicas-electroperu-administracion-ingenieria-in-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-fonafe-ingenieria-industrial-administrac-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-fonafe-ingenieria-industrial-administracion-empresas-economia-octubre-2026-633606.html
+PATCHED(noespec) | oportunidad-laboral-practicas-fonafe-ingenieria-industrial-administrac-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-fonafe-ingenieria-sistemas-redes-electro-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-fonafe-ingenieria-sistemas-redes-electronica-octubre-2026-633614.html
+PATCHED(noespec) | oportunidad-laboral-practicas-fonafe-ingenieria-sistemas-redes-electro-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-gobierno-regional-ayacucho-ciencias-comu-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-gobierno-regional-ayacucho-ciencias-comunicacion-octubre-2026-633126.html
+PATCHED(noespec) | oportunidad-laboral-practicas-gobierno-regional-ayacucho-ciencias-comu-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-gobierno-regional-ayacucho-ingenieria-ci-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-gobierno-regional-ayacucho-ingenieria-civil-octubre-2026-633125.html
+PATCHED(noespec) | oportunidad-laboral-practicas-gobierno-regional-ayacucho-ingenieria-ci-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-perupetro-ingenieria-ambiental-recursos--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-perupetro-ingenieria-ambiental-recursos-naturales-forestales-setiembre-2026-632031.html
+PATCHED(noespec) | oportunidad-laboral-practicas-perupetro-ingenieria-ambiental-recursos--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-160c-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-ingenieria-sistemas-setiembre-2026-630887.html
+PATCHED(noespec) | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-160c-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-admin-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-administracion-octubre-2026-632533.html
+PATCHED(noespec) | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-admin-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-conta-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-contabilidad-administracion-setiembre-2026-630888.html
+PATCHED(noespec) | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-conta-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-d831-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-ingenieria-sistemas-setiembre-2026-629360.html
+PATCHED(noespec) | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-d831-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-derec-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-derecho-comunicaciones-economia-setiembre-2026-629359.html
+PATCHED(noespec) | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-derec-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-econo-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-economia-administracion-setiembre-2026-629361.html
+PATCHED(noespec) | oportunidad-laboral-practicas-superintendencia-banca-seguros-afp-econo-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-practicas-ugel-leoncio-prado-derecho-ciencias-poli-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-practicas-ugel-leoncio-prado-derecho-ciencias-politicas-octubre-2026-630825.html
+PATCHED(noespec) | oportunidad-laboral-practicas-ugel-leoncio-prado-derecho-ciencias-poli-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-profesional-diagramador-actividad-asistencia-tecni-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-profesional-diagramador-actividad-asistencia-tecnica-programa-subsectorial-irrigaciones-psi-ayacucho-624104.html
+PATCHED(noespec) | oportunidad-laboral-profesional-diagramador-actividad-asistencia-tecni-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-profesional-sistematizador-actividad-asistencia-te-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-profesional-sistematizador-actividad-asistencia-tecnica-programa-subsectorial-irrigaciones-psi-lima-624105.html
+PATCHED(noespec) | oportunidad-laboral-profesional-sistematizador-actividad-asistencia-te-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-secretaria-direccion-educacion-dre-lima-633335-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-secretaria-direccion-educacion-dre-lima-633335.html
+PATCHED(noespec) | oportunidad-laboral-secretaria-direccion-educacion-dre-lima-633335-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-servicio-digitacion-registro-actualizacion-fichas--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-servicio-digitacion-registro-actualizacion-fichas-catastrales-instituto-catastral-lima-icl-ica-617241.html
+PATCHED(noespec) | oportunidad-laboral-servicio-digitacion-registro-actualizacion-fichas--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-20aa-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-zona-norte-programa-subsectorial-irrigaciones-psi-lima-628860.html
+PATCHED(noespec) | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-20aa-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-5c9f-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-zona-centro-programa-subsectorial-irrigaciones-psi-lima-628862.html
+PATCHED(noespec) | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-5c9f-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-7430-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-zona-norte-programa-subsectorial-irrigaciones-psi-lima-628861.html
+PATCHED(noespec) | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-7430-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-7a52-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-zona-sur-programa-subsectorial-irrigaciones-psi-lima-628863.html
+PATCHED(noespec) | oportunidad-laboral-servicio-especializado-seguimiento-monitoreo-7a52-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-servicio-tecnico-control-calidad-validacion-consis-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-servicio-tecnico-control-calidad-validacion-consistencia-instituto-catastral-lima-icl-617243.html
+PATCHED(noespec) | oportunidad-laboral-servicio-tecnico-control-calidad-validacion-consis-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-trabajador-servicio-direccion-educacion-dre-tacna--entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-trabajador-servicio-direccion-educacion-dre-tacna-632834.html
+PATCHED(noespec) | oportunidad-laboral-trabajador-servicio-direccion-educacion-dre-tacna--entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-trabajador-servicio-ugel-lima-632739-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-trabajador-servicio-ugel-lima-632739.html
+PATCHED(noespec) | oportunidad-laboral-trabajador-servicio-ugel-lima-632739-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-trabajador-servicio-ugel-lima-633707-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-trabajador-servicio-ugel-lima-633707.html
+PATCHED(noespec) | oportunidad-laboral-trabajador-servicio-ugel-lima-633707-entrada.html
+EXTR [p1] tipo=noespec   | oportunidad-laboral-trabajador-servicio-ugel-lima-633711-entrada.html | https://www.convocatoriasdetrabajo.com/oportunidad-laboral-trabajador-servicio-ugel-lima-633711.html
+PATCHED(noespec) | oportunidad-laboral-trabajador-servicio-ugel-lima-633711-entrada.html
+=== stats: igual=39 valor=3 noespec=79 nofetch=0 revisar=0 ===

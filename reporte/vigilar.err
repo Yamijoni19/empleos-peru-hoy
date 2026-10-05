@@ -1,0 +1,7 @@
+No se encuentra ninguna sobrecarga para "AppendAllLines" y el n£mero de argumentos "3".
+En C:\Users\Dell G3 Gaming\Documents\Default Project\exportar-xml.ps1: 76 Car cter: 5
++     [IO.File]::AppendAllLines($logPath, $nuevas, (New-Object System.T ...
++     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MethodCountCouldNotFindBest
+ 

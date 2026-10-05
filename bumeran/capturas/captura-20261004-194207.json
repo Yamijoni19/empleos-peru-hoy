@@ -1,0 +1,468 @@
+[
+    {
+        "id":  "bumeran-1118467277",
+        "clave":  "id:1118467277",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-creditos-y-cobranzas-ecf-tecnologia-vegetal-sac-1118467277.html",
+                       "capturadoEn":  "2026-10-04T19:41:57-05:00"
+                   },
+        "titulo":  "Auxiliar de Creditos y Cobranzas",
+        "empresa":  "ECF Tecnologia Vegetal SAC",
+        "ubicacion":  "Ica",
+        "ciudad":  "Ica",
+        "region":  "Ica",
+        "modalidad":  "",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  2300,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1.500 - S/ 2.300",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Buscamos un Auxiliar de Créditos y Cobranzas con experiencia en empresas dedicadas a la comercialización de insumos para la agricultura , que brinde soporte en la gestión de créditos, cobranzas y procesos administrativos, contribuyendo al adecuado control de las cuentas por cobrar y al cumplimiento de los objetivos financieros de la empresa.",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-03",
+        "fecha_cierre":  "2027-01-31",
+        "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-creditos-y-cobranzas-ecf-tecnologia-vegetal-sac-1118467277.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-creditos-y-cobranzas-ecf-tecnologia-vegetal-sac-1118467277.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467276",
+        "clave":  "id:1118467276",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-ecf-tecnologia-vegetal-sac-1118467276.html",
+                       "capturadoEn":  "2026-10-04T19:41:58-05:00"
+                   },
+        "titulo":  "Administrador",
+        "empresa":  "ECF Tecnologia Vegetal SAC",
+        "ubicacion":  "Ica",
+        "ciudad":  "Ica",
+        "region":  "Ica",
+        "modalidad":  "",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  3500,
+                        "max":  4500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 3.500 - S/ 4.500",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Buscamos un Administrador con experiencia en empresas dedicadas a la comercialización de insumos agrícolas , así como sólidos conocimientos en gestión contable y financiera . Se valorará experiencia en administración, control financiero, elaboración y análisis de información contable y manejo de procesos administrativos.",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-03",
+        "fecha_cierre":  "2027-01-01",
+        "url":  "https://www.bumeran.com.pe/empleos/administrador-ecf-tecnologia-vegetal-sac-1118467276.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-ecf-tecnologia-vegetal-sac-1118467276.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467274",
+        "clave":  "id:1118467274",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-soporte-tecnico-de-camiones-villa-el-salvador-santa-anita-grupo-euromotors-1118467274.html",
+                       "capturadoEn":  "2026-10-04T19:41:59-05:00"
+                   },
+        "titulo":  "Analista de Soporte Técnico de Camiones Villa el salvador / Santa Anita",
+        "empresa":  "Grupo Euromotors",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "El Grupo Euromotors está conformado por 12 empresas: Euromotors, Euroshop, Altos Andes, Euro Camiones, San Bartolomé, Renting, Euroinmuebles, One, Eurolift, RevoMotors, International Camiones del Perú y Euroconnect. Queremos que te unas a nuestra familia y poder contar con tu talento. Si eres un apasionado por servir y compartes valores como: orden y limpieza, transparencia, bienestar de la persona, saber escuchar y excelencia. ¡Únete a nosotros y comparte nuestro ADN: Pasión por servir! Postula ahora a la vacante de : ANALISTA DE SOPORTE TÉCNICO - VEHICULOS PESADOS. Sede : villa el Salvador Sede : Santa Anita ¿Cuáles serían sus funciones? Brindar soporte técnico presencial y remoto a los concesionarios a nivel nacional en el diagnóstico y solución de casos críticos. Atender consultas técnicas y realizar seguimiento a las fallas reportadas hasta su resolución. Coordinar la disponibilidad y envío de repuestos, herramientas y documentación técnica requeridos por los talleres. Elaborar y actualizar los planes de mantenimiento, manuales y documentación técnica de los modelos asignados. Analizar fallas recurrentes y detectar problemas de calidad del producto, reportando los casos críticos a fábrica para su evaluación y solución. Elaborar informes técnicos, boletines y reportes para mantener informada a la red de concesionarios sobre novedades y soluciones técnicas. Gestionar y supervisar la actualización de sistemas, manuales técnicos, catálogos y equipos de diagnóstico de las marcas. Administrar el control, mantenimiento y garantía de las herramientas especiales utilizadas por los concesionarios. Brindar soporte al área de Garantías para la presentación de información y sustentos técnicos ante fábrica. Realizar visitas técnicas a los concesionarios y participar en workshops y capacitaciones organizadas por fábrica. ¿Cómo es nuestro candidato ideal? Bachiller en Ingeniería Mecánica, Técnico en Mecánica Automotriz, Electricidad Automotriz o carrera afines. Curso de Pedagogía, atención al cliente.(deseable) 04 años como técnico mecánico y 02 años en posiciones de asistencia técnica o realizando funciones similares Manejo de MS Office a Nivel Intermedio Licencia de conducir A1 ( Necesario) Disponibilidad para laborar en Villa el Salvador o Santa Anita ¿Qué te ofrecemos? Beneficios exclusivos del Grupo Euromotors Aprendizaje y formación contínua. EPS cubierto al 50% . Si compartes nuestros valores: orden y limpieza, transparencia, bienestar de la persona, saber escuchar y excelencia. ¡Queremos conocerte! **Estamos conformados por 14 empresas: Euromotors, Altos Andes, Euroshop, Revomotors, 1 One, Taller One, International Camiones del Perú, Euro Camiones, San Bartolomé, Eurolift, EuroRenting, Euroconnect, Euroinmuebles y Domingo Inmobiliaria. Rubros: Automotriz, Inmobiliario y Financiero",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-03",
+        "fecha_cierre":  "2027-01-01",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-soporte-tecnico-de-camiones-villa-el-salvador-santa-anita-grupo-euromotors-1118467274.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-soporte-tecnico-de-camiones-villa-el-salvador-santa-anita-grupo-euromotors-1118467274.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467266",
+        "clave":  "id:1118467266",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenador-grafico-1118467266.html",
+                       "capturadoEn":  "2026-10-04T19:42:00-05:00"
+                   },
+        "titulo":  "Diseñador Gráfico",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "TELECOMMUTE",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1.500 - S/ 2.000",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Diseñador(a) Gráfico Resumen del Puesto Buscamos un Diseñador Gráfico creativo y talentoso para unirse a nuestro equipo. El candidato ideal tendrá una sólida comprensión de los principios del diseño gráfico y será capaz de trabajar de forma independiente y como parte de un equipo creando banner de pagina web, newsletter, stories y reels de instagram, y otros disenos necesarios para una tienda de ropa por internet. Responsabilidades: Preproducción y post producción de piezas gráficas utilizando software específico (Photoshop e Illustrator) Ilustrar conceptos diseñando muestras y presentándolas para su aprobación. Nivel de redacción y ortografía avanzado. Manejar y postear Redes sociales Disponibilidad para trabajar de Lunes a sábado Requisitos Titulación o el certificado en diseño gráfico Idioma Ingles intermedio o avanzado Un año de experiencia en diseño gráfico. Dominio de programas como Illustrator (Avanzado), Photoshop (Avanzado), After effects (Intermedio), Premiere pro (Intermedio) y otros programas similares de adobe. Gran capacidad de gestión del tiempo y manejo de habilidades blandas. Comprender el marketing y la psicología del consumidor. Book gráfico. Cumplir con los plazos establecidos",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+                          "Preproducción y post producción de piezas gráficas utilizando software específico (Photoshop e Illustrator)",
+                          "Ilustrar conceptos diseñando muestras y presentándolas para su aprobación.",
+                          "Nivel de redacción y ortografía avanzado.",
+                          "Manejar y postear Redes sociales",
+                          "Disponibilidad para trabajar de Lunes a sábado"
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-02",
+        "fecha_cierre":  "2026-12-31",
+        "url":  "https://www.bumeran.com.pe/empleos/disenador-grafico-1118467266.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenador-grafico-1118467266.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467265",
+        "clave":  "id:1118467265",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-de-proyectos-tiempo-parcial-arquitectura-y-construccion-1118467265.html",
+                       "capturadoEn":  "2026-10-04T19:42:02-05:00"
+                   },
+        "titulo":  "Asistente Técnico de Proyectos (Tiempo Parcial)",
+        "empresa":  "ARQUITECTURA Y CONSTRUCCION",
+        "ubicacion":  "La Libertad - Trujillo",
+        "ciudad":  "Trujillo",
+        "region":  "La Libertad",
+        "modalidad":  "",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2.000 - S/ 2.500",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Asistente Técnico de Proyectos (Tiempo Parcial) Resumen del Puesto Buscamos un profesional con formación técnica o bachiller, con habilidades en diseño y cálculo estructural, manejo de herramientas de dibujo técnico y experiencia en gestión de proyectos. El candidato ideal será proactivo, organizado y capaz de gestionar diversas tareas administrativas y técnicas de forma eficiente. Responsabilidades Colaborar en el diseño y cálculo estructural de proyectos. Realizar dibujos técnicos utilizando AutoCAD y software de modelado 3D. Asistir en la revisión de expedientes técnicos y documentación de proyectos. Apoyar en la gestión de trámites municipales y en registros públicos, incluyendo independizaciones y declaratorias de fábrica. Participar en la supervisión y residencia de obras, asegurando el cumplimiento de especificaciones técnicas. Coordinar y dar seguimiento a las actividades del proyecto para asegurar su avance oportuno. Requisitos Título de Bachiller o formación técnica en áreas relacionadas (Arquitectura, Ingeniería Civil, etc.). Dominio de AutoCAD y software de modelado 3D (ej. 3D Studio). Conocimientos en diseño y cálculo estructural. Experiencia en revisión de expedientes técnicos. Capacidad para gestionar trámites administrativos y legales relacionados con la construcción. Habilidad para la residencia en obras y supervisión técnica. Excelentes habilidades de organización y gestión del tiempo. Capacidad para trabajar de forma autónoma y en equipo. Disponibilidad para trabajar a tiempo parcial.",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-02",
+        "fecha_cierre":  "2026-12-31",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-de-proyectos-tiempo-parcial-arquitectura-y-construccion-1118467265.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-de-proyectos-tiempo-parcial-arquitectura-y-construccion-1118467265.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467263",
+        "clave":  "id:1118467263",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-puente-grua-gana-mas-de-2500-solesmovilidadalimentacion-cubiertos-centro-de-lima-eurofirms-group-1118467263.html",
+                       "capturadoEn":  "2026-10-04T19:42:03-05:00"
+                   },
+        "titulo":  "Operador de Puente Grúa/Ganá mas de 2500 soles+movilidad+alimentación cubiertos/Centro de Lima",
+        "empresa":  "Eurofirms Group",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2500,
+                        "max":  2500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "2500 soles",
+                        "fuente_salario":  "titulo"
+                    },
+        "descripcion":  "En Eurofirms Group, creemos en el liderazgo por valores y el crecimiento continuo, poniendo a las personas y su desarrollo profesional primero, potenciando un ambiente de trabajo positivo y colaborativo. Requisitos para el puesto: Secundaria completa. Experiencia mínima de 01 año como Operador de puente Grúa de 5 toneladas a más, con manejo de materia prima como bobinas y flejes.. Contar con Curso vigente de Operador de Grúas (Certificación). Conocimientos en seguridad industrial. Funciones del puesto: Operar el puente grúa de nave para trasladar bobinas de acero, paquetes de tubos, insumos y productos terminados. Verificar que los materiales recibidos coincidan con los formatos de recepción. Coordinar las maniobras de izaje y asegurar el uso correcto de las normas de seguridad. Horarios Disponibles: Disponibilidad para trabajar 12 hrs: 7:30am a 7:30pm / 7:30pm a 7:30am. Ofrecemos: Ingreso a planilla desde el primer día con todos los beneficios de ley. Salario básico de s/.2200- 2600 a más + Horas extras. Alimentación cubierta al 100% (almuerzo - cena). Movilidad de acercamiento (Ida y vuelta) Pagos quincenales. Grato ambiente laboral Línea de carrera. Requerimientos Educación mínima: Educación Secundaria 3 años de experiencia Si cumples con los requisitos, estás interesado y crees que eres el match perfecto, te invitamos a postular ¡Te esperamos! En Eurofirms estamos comprometidos con la creación de un ambiente de trabajo inclusivo y diverso fomentando la inclusión laboral en los ambientes de trabajo. Animamos a personas de todos los géneros, edades, etnias, habilidades a postularse. Si necesitas algún ajuste razonable durante el proceso de selección o en tu puesto de trabajo, no dudes en comunicarlo.",
+        "requisitos":  [
+                           "Secundaria completa.",
+                           "Experiencia mínima de 01 año como Operador de puente Grúa de 5 toneladas a más, con manejo de materia prima como bobinas y flejes..",
+                           "Contar con Curso vigente de Operador de Grúas (Certificación).",
+                           "Conocimientos en seguridad industrial."
+                       ],
+        "funciones":  [
+                          "Operar el puente grúa de nave para trasladar bobinas de acero, paquetes de tubos, insumos y productos terminados.",
+                          "Verificar que los materiales recibidos coincidan con los formatos de recepción.",
+                          "Coordinar las maniobras de izaje y asegurar el uso correcto de las normas de seguridad."
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-02",
+        "fecha_cierre":  "2026-12-31",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-puente-grua-gana-mas-de-2500-solesmovilidadalimentacion-cubiertos-centro-de-lima-eurofirms-group-1118467263.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-puente-grua-gana-mas-de-2500-solesmovilidadalimentacion-cubiertos-centro-de-lima-eurofirms-group-1118467263.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467262",
+        "clave":  "id:1118467262",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/postula-aqui-cajero-bancario-bbva-la-victoria-lince-trust-consulting-1118467262.html",
+                       "capturadoEn":  "2026-10-04T19:42:04-05:00"
+                   },
+        "titulo":  "Postula Aquí!!! Cajero Bancario BBVA / La Victoria Lince",
+        "empresa":  "TRUST CONSULTING",
+        "ubicacion":  "Lima - Jesús María",
+        "ciudad":  "Jesús María",
+        "region":  "Lima",
+        "modalidad":  "",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Transforma la banca con nosotros! En BBVA, estamos redefiniendo la experiencia bancaria y queremos que seas parte de este cambio. Te ofrecemos la oportunidad de desarrollar tu carrera comercial en una empresa innovadora y con visión de futuro, donde cada día representa una nueva oportunidad de crecimiento y aprendizaje. ¡Únete a nosotros y se parte de la evolución! ¿Qué perfil buscamos? Estudiantes de los últimos ciclos (Universitarios 9no en adelante y técnicos de 5to en adelante), egresados o titulados en Economía, Contabilidad, Administración o afines. Experiencia mínima de 1 año en ventas y manejo de dinero (cuadre de caja). Disponibilidad para laborar en la división La Victoria - Lince. ¿Qué te ofrecemos? EPS y Seguro Oncológico al 100% en plan base. Bonos, movilidad, vale de refrigerio y utilidades. Acceso a descuentos y convenios corporativos. ¿Qué harás? Impulsar la venta de productos y servicios financieros. Ejecutar todo tipo de transacciones bancarias. Atención y solución de reclamos. ¡Postula ahora y únete a la planilla de uno de los mejores bancos a nivel global!",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-02",
+        "fecha_cierre":  "2026-12-31",
+        "url":  "https://www.bumeran.com.pe/empleos/postula-aqui-cajero-bancario-bbva-la-victoria-lince-trust-consulting-1118467262.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/postula-aqui-cajero-bancario-bbva-la-victoria-lince-trust-consulting-1118467262.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118467261",
+        "clave":  "id:1118467261",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/recepcionista-administrativo-1118467261.html",
+                       "capturadoEn":  "2026-10-04T19:42:06-05:00"
+                   },
+        "titulo":  "ASISTENTE DE GESTION COMERCIAL Y ADMINISTRATIVA",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - Callao",
+        "ciudad":  "Callao",
+        "region":  "Lima",
+        "modalidad":  "",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1300,
+                        "max":  1600,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1.300 - S/ 1.600",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Actualmente nos encontramos en la búsqueda de personal idóneo, la posición de un Asistente Administrativo con actitud . Funciones: Cotizaciones, solicitudes y elaboración de expedientes y contratos relacionados. Atención de órdenes de compra y digitación de pedidos en el sistema. Coordinación con almacén, despachos y cobranzas para la atención de pedidos. Realizar llamar por telefono y coordinar a futuro visitas y reuniones con empresas privadas, mineras, municipalidades, organismos del estado, etc. Realizar el seguimiento de cotizaciones además el permanente de cada retorno de cargos de entrega de productos de lima y provincia con el vendedor y/o almacén. Elaboración de informes detallados Reportes para la Jefatura de Ventas. Otras funciones inherentes al área encargado.. Busqueda de oportunidades comerciales Requisitos indispensables: Office y Excel a nivel intermedio BENEFICIOS: * Remuneración acorde al mercado laboral * Todos lo beneficios de ley, desde el primer día de trabajo. LUGAR DE TRABAJO: * Estamos en el distrito de Carmen de la Legua, cerca de la Municipalidad.",
+        "requisitos":  [
+
+                       ],
+        "funciones":  [
+
+                      ],
+        "beneficios":  [
+
+                       ],
+        "fecha_publicacion":  "2026-10-02",
+        "fecha_cierre":  "2026-12-31",
+        "url":  "https://www.bumeran.com.pe/empleos/recepcionista-administrativo-1118467261.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/recepcionista-administrativo-1118467261.html",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]

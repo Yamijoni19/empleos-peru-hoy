@@ -1,0 +1,104 @@
+<!-- =========================================================
+     PAGINA DE ARTICULOS (se pega en Blogger: Paginas > articulos)
+     ========================================================= -->
+
+<div class="portal-empleos">
+
+<header class="portal-header">
+  <div class="portal-logo">EMPLEOS PER&#218; HOY</div>
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Art&#237;culos</a>
+    <a href="/p/cursos.html">Cursos</a>
+  </nav>
+</header>
+
+<!-- BUSCADOR + FILTROS (fondo azul oscuro) -->
+<div class="buscador-empleos">
+  <h1>Art&#237;culos y consejos para conseguir trabajo</h1>
+  <p>CV, entrevistas, mercado laboral, carrera profesional y emprendimiento: gu&#237;as pr&#225;cticas para postular con m&#225;s probabilidad de &#233;xito en Per&#250;.</p>
+
+  <div class="buscador-contenedor">
+    <input type="text" id="articuloBusqueda" class="buscador-input" data-buscador-articulos placeholder="Buscar por t&#237;tulo o tema...">
+    <button id="articuloBuscar" class="buscador-boton">Buscar</button>
+  </div>
+
+  <div class="orden-articulos-barra">
+    <span class="orden-articulos-label">Ordenar por:</span>
+    <button type="button" class="orden-btn activo" data-orden="recientes">M&#225;s recientes</button>
+    <button type="button" class="orden-btn" data-orden="antiguos">M&#225;s antiguos</button>
+    <button type="button" class="orden-btn" data-orden="titulo">T&#237;tulo A&#8594;Z</button>
+    <button type="button" class="orden-btn" data-orden="vistos">M&#225;s le&#237;dos</button>
+  </div>
+</div>
+
+<!-- CATEGOR&#193;AS (carrusel) -->
+<section class="empleos-seccion">
+  <div style="max-width:900px;margin:20px auto 0;padding:0 16px;">
+    <h2 style="margin:0 0 12px;font-size:18px;color:#172033;">Explora por categor&#237;a</h2>
+  </div>
+  <div style="max-width:900px;margin:0 auto;padding:0 16px;position:relative;">
+    <button id="categoriaAnterior" style="position:absolute;left:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8249;</button>
+    <div id="categoriasCarrusel" class="categorias-carrusel">
+      <button class="categoria-card categoria-todos activa" data-categoria="Todos"><span>Todos</span></button>
+      <button class="categoria-card categoria-consejos" data-categoria="Consejos"><span>Consejos</span></button>
+      <button class="categoria-card categoria-cv" data-categoria="CV"><span>CV</span></button>
+      <button class="categoria-card categoria-entrevistas" data-categoria="Entrevistas"><span>Entrevistas</span></button>
+      <button class="categoria-card categoria-carrera" data-categoria="Carrera"><span>Carrera</span></button>
+      <button class="categoria-card categoria-mercado" data-categoria="Mercado laboral"><span>Mercado laboral</span></button>
+      <button class="categoria-card categoria-emprendimiento" data-categoria="Emprendimiento"><span>Emprendimiento</span></button>
+      <button class="categoria-card categoria-otros" data-categoria="Otros"><span>Otros</span></button>
+    </div>
+    <button id="categoriaSiguiente" style="position:absolute;right:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8250;</button>
+  </div>
+
+  <!-- ENCABEZADO DE RESULTADOS -->
+  <div class="empleos-cabecera" style="max-width:900px;margin:18px auto 0;padding:0 16px;">
+    <h2 id="tituloResultados">Art&#237;culos recientes</h2>
+    <span class="contador-resultados" id="contadorResultados"></span>
+  </div>
+
+  <!-- GRID DE ART&#205;CULOS -->
+  <div id="articulosGrid" class="articulos-grid" style="max-width:900px;margin:0 auto;padding:0 16px;"></div>
+
+  <!-- CARGAR M&#193;S -->
+  <div id="cargarMasContenedor" style="text-align:center;margin:20px auto;max-width:900px;">
+    <span id="cargarMasEstado" style="color:#6b7280;font-size:13px;"></span>
+    <button id="cargarMasArticulos" style="margin-top:8px;padding:10px 24px;border:none;border-radius:8px;background:#0f4c81;color:#fff;font-size:13px;font-weight:700;cursor:pointer;display:none;">Cargar m&#225;s art&#237;culos</button>
+  </div>
+</section>
+
+<footer class="portal-footer">
+  <div class="portal-footer-contenido">
+    <div>
+      <h3>EMPLEOS PER&#218; HOY</h3>
+      <a href="/">Inicio</a>
+      <a href="/p/empleos.html">Empleos</a>
+      <a href="/p/becas.html">Becas</a>
+      <a href="/p/cursos.html">Cursos</a>
+      <a href="/p/articulos.html">Art&#237;culos</a>
+    </div>
+    <div>
+      <h3>Informaci&#243;n</h3>
+      <a href="#" data-contacto data-asunto="Contacto">Contacto</a>
+      <a href="#" data-contacto data-asunto="Publicar oferta de empleo o beca">Publica tu oferta</a>
+      <a href="/p/politica-de-privacidad.html">Pol&#237;tica de privacidad</a>
+      <a href="/p/terminos-y-condiciones.html">T&#233;rminos y condiciones</a>
+    </div>
+    <div>
+      <h3>Recomendaciones</h3>
+      <a href="/p/empleos.html">Ofertas de empleo</a>
+      <a href="/p/becas.html">Becas para estudiar</a>
+      <a href="/p/cursos.html">Cursos gratuitos con certificado</a>
+    </div>
+  </div>
+  <div class="portal-footer-legal">
+    EMPLEOS PER&#218; HOY no es una agencia de empleo. Publicamos ofertas enlazando a las
+    plataformas oficiales de cada instituci&#243;n o empresa. La postulaci&#243;n se realiza
+    directamente en el sitio de origen.
+  </div>
+</footer>
+
+</div>

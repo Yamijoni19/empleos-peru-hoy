@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467227",
+    "clave":  "id:1118467227",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-recursos-humanos-1118467227.html",
+                   "capturadoEn":  "2026-10-04T20:08:44-05:00"
+               },
+    "titulo":  "Practicante de Recursos Humanos",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Te interesa la gestión de personas y quieres aprender cómo funciona RRHH ? Únete a un equipo que está construyendo y mejorando sus procesos. Lo que aprenderás y en lo que apoyarás: Actividades de bienestar, clima y eventos internos. Diseño de piezas gráficas para comunicación interna. Administración Seguros SCTR y otros. Seguimiento de capacitaciones. Buscamos: estudiantes de los últimos ciclos o egresados de Psicología, Administración, Ingeniería Industrial, Relaciones Industriales o afines, con: Buen manejo de Excel (tablas dinámicas, fórmulas y filtros). Conocimiento de Illustrator o Photoshop. Ganas de aprender y creatividad. Te ofrecemos: Remuneración económica competitiva. Aprendizaje directo con el equipo de RRHH. Formación constante \u0026#x1f4cd; La Victoria, Lima",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-recursos-humanos-1118467227.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-recursos-humanos-1118467227.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,26 @@
+{
+    "generado":  "2026-10-04T20:10:49.5555321-05:00",
+    "estado":  "SIMULADA",
+    "maxPorCorrida":  5,
+    "candidatos":  4138,
+    "porEstado":  {
+                      "NUEVA":  24,
+                      "HISTORICA":  4114
+                  },
+    "omitidos":  {
+                     "HISTORICA":  4114
+                 },
+    "seleccionados":  5,
+    "diferidos":  19,
+    "orden":  [
+                  "NUEVA",
+                  "ACTUALIZADA",
+                  "CORRECCION",
+                  "EXPIRADA",
+                  "HISTORICA"
+              ],
+    "publicadas":  0,
+    "simuladas":  5,
+    "errores":  0,
+    "nota":  "SIMULACION: 0 POST reales; nada se registro como publicado"
+}

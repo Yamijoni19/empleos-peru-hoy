@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467262",
+    "clave":  "id:1118467262",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/postula-aqui-cajero-bancario-bbva-la-victoria-lince-trust-consulting-1118467262.html",
+                   "capturadoEn":  "2026-10-04T19:42:04-05:00"
+               },
+    "titulo":  "Postula Aquí!!! Cajero Bancario BBVA / La Victoria Lince",
+    "empresa":  "TRUST CONSULTING",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Transforma la banca con nosotros! En BBVA, estamos redefiniendo la experiencia bancaria y queremos que seas parte de este cambio. Te ofrecemos la oportunidad de desarrollar tu carrera comercial en una empresa innovadora y con visión de futuro, donde cada día representa una nueva oportunidad de crecimiento y aprendizaje. ¡Únete a nosotros y se parte de la evolución! ¿Qué perfil buscamos? Estudiantes de los últimos ciclos (Universitarios 9no en adelante y técnicos de 5to en adelante), egresados o titulados en Economía, Contabilidad, Administración o afines. Experiencia mínima de 1 año en ventas y manejo de dinero (cuadre de caja). Disponibilidad para laborar en la división La Victoria - Lince. ¿Qué te ofrecemos? EPS y Seguro Oncológico al 100% en plan base. Bonos, movilidad, vale de refrigerio y utilidades. Acceso a descuentos y convenios corporativos. ¿Qué harás? Impulsar la venta de productos y servicios financieros. Ejecutar todo tipo de transacciones bancarias. Atención y solución de reclamos. ¡Postula ahora y únete a la planilla de uno de los mejores bancos a nivel global!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/postula-aqui-cajero-bancario-bbva-la-victoria-lince-trust-consulting-1118467262.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/postula-aqui-cajero-bancario-bbva-la-victoria-lince-trust-consulting-1118467262.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

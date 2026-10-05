@@ -1,0 +1,140 @@
+============================================================
+  PORTADA - ESTRUCTURA DE LA PAGINA PRINCIPAL
+  (Bloque listo para pegar en el HTML de la portada de tu blog)
+  Conectado con tu Bloque-Tema-Blogger.txt (contadores, contacto,
+  migas, datos estructurados ya vienen activos)
+============================================================
+
+----------------------------------------------------------------------------------
+ BLOQUE 1 - HERO / PORTADA (lo primero que ve el visitante)
+----------------------------------------------------------------------------------
+<header class="portal-hero portal-portada-hero">
+  <div class="portal-hero-inner">
+    <p class="portal-hero-kicker">Empleos y becas actualizados para Perú</p>
+    <h1 class="portal-hero-titulo">
+      Encuentra <span class="portal-resaltado">tu beca</span> o
+      <span class="portal-resaltado">tu empleo</span> hoy
+    </h1>
+    <p class="portal-hero-sub">
+      Guías paso a paso, convocatorias vigentes y noticias verificadas.
+      Sin vueltas: te explicamos cómo postular, qué necesitas y hasta
+      dónde enviar tus papeles.
+    </p>
+    <div class="portal-hero-acciones">
+      <a class="portal-boton portal-boton-primario" href="/search/label/Becas"
+         title="Ver todas las becas vigentes">Ver becas vigentes</a>
+      <a class="portal-boton portal-boton-secundario" href="/search/label/Empleos"
+         title="Ver ofertas de empleo">Ver empleos</a>
+    </div>
+  </div>
+</header>
+
+----------------------------------------------------------------------------------
+ BLOQUE 2 - CONTADORES EN VIVO (puedes editar los números abajo)
+----------------------------------------------------------------------------------
+<!-- Los span con data-conteo se llenan solos con tu contador JS.
+     También puedes escribir el total a mano. -->
+<section class="portal-stats portal-portada-stats" aria-label="Cifras del portal">
+  <div class="portal-stats-item" data-conteo="Becas">
+    <span class="portal-stats-numero">90</span>
+    <span class="portal-stats-etiqueta">Becas vigentes</span>
+  </div>
+  <div class="portal-stats-item" data-conteo="Empleos">
+    <span class="portal-stats-numero">250</span>
+    <span class="portal-stats-etiqueta">Empleos publicados</span>
+  </div>
+  <div class="portal-stats-item" data-conteo="Noticias">
+    <span class="portal-stats-numero">40</span>
+    <span class="portal-stats-etiqueta">Noticias de convocatorias</span>
+  </div>
+</section>
+
+----------------------------------------------------------------------------------
+ BLOQUE 3 - BECAS DESTACADAS (tarjetas de convocatorias)
+----------------------------------------------------------------------------------
+<!-- Colocamos hasta 6 tarjetas. Cada una apunta a su ficha completa.
+     Cambia los enlaces y títulos por lo que quieras destacar. -->
+<section class="portal-seccion portal-portada-destacadas" aria-label="Becas destacadas">
+  <h2 class="portal-seccion-titulo">Becas destacadas de la semana</h2>
+  <div class="portal-destacadas-grid">
+
+    <article class="portal-tarjeta">
+      <span class="portal-tarjeta-etiqueta">Nueva</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-18-convocatoria.html">Beca 18 PRONABEC</a></h3>
+      <p class="portal-tarjeta-desc">Para peruanos con buen rendimiento y bajos recursos. Estudios de pregrado con todo cubierto.</p>
+      <a class="portal-tarjeta-enlace" href="/2026/xx/beca-18-convocatoria.html">Ver ficha y cómo postular</a>
+    </article>
+
+    <article class="portal-tarjeta">
+      <span class="portal-tarjeta-etiqueta">Nueva</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-tec-pronabec.html">Beca TEC PRONABEC</a></h3>
+      <p class="portal-tarjeta-desc">Carreras técnicas de alta demanda: administración, logística, diseño y más.</p>
+      <a class="portal-tarjeta-enlace" href="/2026/xx/beca-tec-pronabec.html">Ver ficha y cómo postular</a>
+    </article>
+
+    <article class="portal-tarjeta">
+      <span class="portal-tarjeta-etiqueta">Vigente</span>
+      <h3 class="portal-tarjeta-titulo"><a href="/search/label/Becas+Especiales">Becas Especiales PRONABEC</a></h3>
+      <p class="portal-tarjeta-desc">Convocatorias para poblaciones vulnerables y casos especiales.</p>
+      <a class="portal-tarjeta-enlace" href="/search/label/Becas+Especiales">Ver lista completa</a>
+    </article>
+
+  </div>
+</section>
+
+----------------------------------------------------------------------------------
+ BLOQUE 4 - GUIA RAPIDA / QUE PUEDES HACER AQUI (sección didáctica)
+----------------------------------------------------------------------------------
+<section class="portal-seccion portal-portada-guia" aria-label="Qué puedes hacer aquí">
+  <h2 class="portal-seccion-titulo">¿Qué puedes hacer aquí?</h2>
+  <div class="portal-guia-grid">
+    <div class="portal-guia-paso">
+      <span class="portal-guia-numero">1</span>
+      <h3>Busca tu beca</h3>
+      <p>Usa el buscador o explora las categorías para encontrar convocatorias abiertas.</p>
+    </div>
+    <div class="portal-guia-paso">
+      <span class="portal-guia-numero">2</span>
+      <h3>Revisa los requisitos</h3>
+      <p>Cada ficha te dice exactamente qué necesitas: documentos, notas y plazos.</p>
+    </div>
+    <div class="portal-guia-paso">
+      <span class="portal-guia-numero">3</span>
+      <h3>Postula paso a paso</h3>
+      <p>Sigue nuestra guía para llenar el formulario sin errores y a tiempo.</p>
+    </div>
+  </div>
+</section>
+
+----------------------------------------------------------------------------------
+ BLOQUE 5 - CONTACTO / RECIBE AVISOS (botones de contacto)
+----------------------------------------------------------------------------------
+<!-- El botón data-contacto se enlaza automáticamente a tu correo
+     gracias a enlazarContacto() del bloque del tema. -->
+<section class="portal-seccion portal-portada-contacto" aria-label="Contacto y avisos">
+  <h2 class="portal-seccion-titulo">¿No encuentras tu convocatoria?</h2>
+  <p>
+    Escríbenos y te ayudamos a ubicar becas y empleos para tu perfil.
+  </p>
+  <div class="portal-contacto-acciones">
+    <a class="portal-boton portal-boton-primario" href="#contacto" data-contacto
+       data-asunto="Quiero ayuda para encontrar una beca">
+      Contactar por correo
+    </a>
+    <a class="portal-boton portal-boton-secundario" href="#contacto" data-contacto
+       data-asunto="Quiero ayuda para encontrar un empleo">
+      Contactar por empleo
+    </a>
+  </div>
+</section>
+
+============================================================
+  NOTAS PARA PEGAR
+============================================================
+- El HERO (Bloque 1) usa el título principal de la página, útil para SEO.
+- Los contadores (Bloque 2): puedes dejar que el JS los llene o
+  escribir el número a mano. Para que funcione el conteo real,
+  el atributo data-conteo debe coincidir con una etiqueta de tu blog.
+- Las tarjetas (Bloque 3) son 100% editables: cambia enlaces y textos.
+- Los botones de contacto (Bloque 5) ya se enlazan a tu correo
+  automáticamente; no necesitas pegar la dirección Gmail aquí.

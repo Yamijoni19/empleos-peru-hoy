@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467247",
+    "clave":  "id:1118467247",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajera-y-vendedora-con-habilidades-de-liderazgo-rosakev-s.a.c.-1118467247.html",
+                   "capturadoEn":  "2026-10-04T19:42:34-05:00"
+               },
+    "titulo":  "Cajera y Vendedora con Habilidades de Liderazgo",
+    "empresa":  "ROSAKEV S.A.C.",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1650,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.500 - S/ 1.650",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cajera y Vendedora con Habilidades de Liderazgo Resumen del Puesto Buscamos una profesional dinámica y proactiva para desempeñarse como Cajera y Vendedora . La candidata ideal poseerá experiencia en sistemas de punto de venta con lector de códigos de barras, habilidades de gestión de inventario y un fuerte enfoque en la atención al cliente. Se valorará la capacidad para liderar y motivar a un equipo pequeño. Responsabilidades Atención a clientes en caja y gestión de transacciones. Asesoramiento y venta de productos, incluyendo ventas al por mayor. Colaboración en la reposición y organización de productos en tienda. Mantenimiento del orden y la presentación general del espacio comercial. Supervisión y dirección de un equipo de hasta 3 personas, fomentando un ambiente de trabajo positivo y productivo. Gestión de horarios y asignación de tareas al equipo. Cumplimiento de horarios de trabajo establecidos, con posibilidad de pago de horas extras según necesidad. Requisitos Experiencia comprobable en roles de caja y ventas. Manejo de sistemas de punto de venta y lectores de códigos de barras. Experiencia en ventas al por mayor. Habilidades de liderazgo y capacidad para gestionar equipos. Actitud proactiva, jovial y orientada al servicio. Capacidad para organizar y mantener el orden en el punto de venta. Puntualidad y responsabilidad. Disponibilidad para horario completo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/cajera-y-vendedora-con-habilidades-de-liderazgo-rosakev-s.a.c.-1118467247.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajera-y-vendedora-con-habilidades-de-liderazgo-rosakev-s.a.c.-1118467247.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

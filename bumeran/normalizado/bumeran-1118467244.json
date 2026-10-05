@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467244",
+    "clave":  "id:1118467244",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/comunicador-audiovisual-y-marketing-digital-rosakev-s.a.c.-1118467244.html",
+                   "capturadoEn":  "2026-10-04T20:02:57-05:00"
+               },
+    "titulo":  "Comunicador Audiovisual y Marketing Digital",
+    "empresa":  "ROSAKEV S.A.C.",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.500 - S/ 2.100",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Comunicador Audiovisual y Marketing Digital Resumen del Puesto Estamos en la búsqueda de un profesional creativo y proactivo para unirse a nuestro equipo. El candidato ideal tendrá experiencia en la creación de contenido audiovisual y estrategias de marketing digital, con un enfoque en redes sociales y ventas online. Se valorará la capacidad para desarrollar materiales de comunicación efectivos y atractivos. Responsabilidades Edición de videos para diversas plataformas de redes sociales. Creación de contenido gráfico (posts, imágenes) para redes sociales y retail. Desarrollo de libretos para transmisiones en vivo (lives). Diseño e implementación de estrategias de marketing digital orientadas a ventas por internet. Colaboración con equipos para asegurar la coherencia de la marca y los mensajes. Seguimiento y análisis de resultados de las campañas. Requisitos Experiencia comprobable en edición de video y creación de contenido digital. Conocimiento sólido de plataformas de redes sociales y herramientas de marketing digital. Habilidades en diseño gráfico y manejo de software de edición audiovisual. Capacidad para redactar textos persuasivos y creativos. Excelentes habilidades de comunicación y organización. Proactividad y capacidad para trabajar bajo objetivos. Disponibilidad para trabajar en horario completo o medio tiempo, según se defina.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-10-09",
+    "url":  "https://www.bumeran.com.pe/empleos/comunicador-audiovisual-y-marketing-digital-rosakev-s.a.c.-1118467244.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/comunicador-audiovisual-y-marketing-digital-rosakev-s.a.c.-1118467244.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

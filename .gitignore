@@ -1,0 +1,13 @@
+# ---- secretos / credenciales (nunca al repo) ----
+credentials*
+token-blogger*
+*.b64
+.env
+
+# ---- reportes de corrida (subidos como artefacto de Actions) ----
+reporte/*.log
+
+# ---- temporales ----
+config/_guard-test.json
+*.tmp
+Thumbs.db

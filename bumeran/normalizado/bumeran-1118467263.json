@@ -1,0 +1,64 @@
+{
+    "id":  "bumeran-1118467263",
+    "clave":  "id:1118467263",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-puente-grua-gana-mas-de-2500-solesmovilidadalimentacion-cubiertos-centro-de-lima-eurofirms-group-1118467263.html",
+                   "capturadoEn":  "2026-10-04T19:42:03-05:00"
+               },
+    "titulo":  "Operador de Puente Grúa/Ganá mas de 2500 soles+movilidad+alimentación cubiertos/Centro de Lima",
+    "empresa":  "Eurofirms Group",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "2500 soles",
+                    "fuente_salario":  "titulo"
+                },
+    "descripcion":  "En Eurofirms Group, creemos en el liderazgo por valores y el crecimiento continuo, poniendo a las personas y su desarrollo profesional primero, potenciando un ambiente de trabajo positivo y colaborativo. Requisitos para el puesto: Secundaria completa. Experiencia mínima de 01 año como Operador de puente Grúa de 5 toneladas a más, con manejo de materia prima como bobinas y flejes.. Contar con Curso vigente de Operador de Grúas (Certificación). Conocimientos en seguridad industrial. Funciones del puesto: Operar el puente grúa de nave para trasladar bobinas de acero, paquetes de tubos, insumos y productos terminados. Verificar que los materiales recibidos coincidan con los formatos de recepción. Coordinar las maniobras de izaje y asegurar el uso correcto de las normas de seguridad. Horarios Disponibles: Disponibilidad para trabajar 12 hrs: 7:30am a 7:30pm / 7:30pm a 7:30am. Ofrecemos: Ingreso a planilla desde el primer día con todos los beneficios de ley. Salario básico de s/.2200- 2600 a más + Horas extras. Alimentación cubierta al 100% (almuerzo - cena). Movilidad de acercamiento (Ida y vuelta) Pagos quincenales. Grato ambiente laboral Línea de carrera. Requerimientos Educación mínima: Educación Secundaria 3 años de experiencia Si cumples con los requisitos, estás interesado y crees que eres el match perfecto, te invitamos a postular ¡Te esperamos! En Eurofirms estamos comprometidos con la creación de un ambiente de trabajo inclusivo y diverso fomentando la inclusión laboral en los ambientes de trabajo. Animamos a personas de todos los géneros, edades, etnias, habilidades a postularse. Si necesitas algún ajuste razonable durante el proceso de selección o en tu puesto de trabajo, no dudes en comunicarlo.",
+    "requisitos":  [
+                       "Secundaria completa.",
+                       "Experiencia mínima de 01 año como Operador de puente Grúa de 5 toneladas a más, con manejo de materia prima como bobinas y flejes..",
+                       "Contar con Curso vigente de Operador de Grúas (Certificación).",
+                       "Conocimientos en seguridad industrial."
+                   ],
+    "funciones":  [
+                      "Operar el puente grúa de nave para trasladar bobinas de acero, paquetes de tubos, insumos y productos terminados.",
+                      "Verificar que los materiales recibidos coincidan con los formatos de recepción.",
+                      "Coordinar las maniobras de izaje y asegurar el uso correcto de las normas de seguridad."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-puente-grua-gana-mas-de-2500-solesmovilidadalimentacion-cubiertos-centro-de-lima-eurofirms-group-1118467263.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-puente-grua-gana-mas-de-2500-solesmovilidadalimentacion-cubiertos-centro-de-lima-eurofirms-group-1118467263.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

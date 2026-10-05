@@ -1,0 +1,95 @@
+name: Empleos pipeline (captura -> cola -> publicacion)
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+    inputs:
+      simular:
+        description: "Simular (0 POST a Blogger)"
+        type: boolean
+        default: false
+      maxPorCorrida:
+        description: "Limite de publicaciones por corrida (vacio = config\\publicacion.json)"
+        type: string
+        default: ""
+
+concurrency:
+  group: empleos-pipeline
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  flujo:
+    runs-on: windows-latest
+    timeout-minutes: 55
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Restaurar credenciales de Blogger
+        shell: pwsh
+        env:
+          BLOGGER_CREDENTIALS_B64: ${{ secrets.BLOGGER_CREDENTIALS_B64 }}
+          BLOGGER_TOKEN_B64: ${{ secrets.BLOGGER_TOKEN_B64 }}
+        run: |
+          if ($env:BLOGGER_CREDENTIALS_B64) {
+            [IO.File]::WriteAllBytes("credentials.json", [Convert]::FromBase64String($env:BLOGGER_CREDENTIALS_B64))
+            Write-Host "credentials.json restaurado"
+          } else {
+            Write-Host "AVISO: falta el secret BLOGGER_CREDENTIALS_B64 (solo afecta si publicacion.activada=true)"
+          }
+          if ($env:BLOGGER_TOKEN_B64) {
+            [IO.File]::WriteAllBytes("token-blogger.json", [Convert]::FromBase64String($env:BLOGGER_TOKEN_B64))
+            Write-Host "token-blogger.json restaurado"
+          } else {
+            Write-Host "AVISO: falta el secret BLOGGER_TOKEN_B64"
+          }
+
+      - name: Estado de la ejecucion
+        shell: pwsh
+        run: |
+          Write-Host "modo: $(try { (Get-Content config/ejecucion.json -Raw | ConvertFrom-Json).modo } catch { '?' })"
+          Write-Host "publicacion.activada: $(try { (Get-Content config/publicacion.json -Raw | ConvertFrom-Json).publicacion.activada } catch { '?' })"
+          Write-Host "maxPorCorrida: $(try { (Get-Content config/publicacion.json -Raw | ConvertFrom-Json).maxPorCorrida } catch { '?' })"
+
+      - name: Ejecutar flujo principal
+        shell: pwsh
+        env:
+          INPUT_SIMULAR: ${{ github.event.inputs.simular }}
+          INPUT_MAX: ${{ github.event.inputs.maxPorCorrida }}
+        run: |
+          $a = @()
+          if ($env:INPUT_SIMULAR -eq 'true') { $a += '-Simular' }
+          if ($env:INPUT_MAX) { $a += @('-MaxPorCorrida', $env:INPUT_MAX) }
+          Write-Host ("powershell flujo-principal.ps1 -Nube " + ($a -join ' '))
+          powershell -NoProfile -ExecutionPolicy Bypass -File flujo-principal.ps1 -Nube @a
+          exit $LASTEXITCODE
+
+      - name: Guardar estado (cola, log, publicaciones)
+        if: always()
+        shell: pwsh
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if (git diff --cached --quiet) {
+            Write-Host "Sin cambios de estado que guardar."
+          } else {
+            git commit -m "estado: cola y publicaciones $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
+            git push
+          }
+
+      - name: Subir reportes
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: reportes-${{ github.run_number }}
+          path: |
+            reporte/
+            datos/cola/
+          retention-days: 14
+          if-no-files-found: ignore

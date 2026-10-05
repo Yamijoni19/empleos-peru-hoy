@@ -1,0 +1,59 @@
+{
+    "id":  "bumeran-1118467237",
+    "clave":  "id:1118467237",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-facturacion-y-cobranzas-c.b.-atraccion-seleccion-1118467237.html",
+                   "capturadoEn":  "2026-10-04T20:03:12-05:00"
+               },
+    "titulo":  "Auxiliar de Facturación y Cobranzas",
+    "empresa":  "C.B. Atracción Selección",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Tienes experiencia en facturación electrónica y cobranzas? Únete a nuestra área de Administración. Postula enviando tu CV + Certijoven al WhatsApp: 925973335 Requisitos Técnico/a o egresado/a de Administración, Gestión Administrativa o carreras afines. Mínimo 1 años de experiencia en facturación y cobranzas. Experiencia en facturación electrónica (SUNAT y/o ERP). Conocimiento de Excel básico/intermedio. Persona ordenada, responsable, atenta al detalle y con buena comunicación. Beneficios: Sueldo + Planilla completa con todos los beneficios de ley Oportunidades de crecimiento Buen clima laboral Estabilidad laboral Funciones Emitir facturas, boletas, notas de crédito y notas de débito (ERP y/o SUNAT). Dar seguimiento a facturas por vencer y vencidas, hasta su cancelación. Contactar clientes por llamada, correo y WhatsApp para gestionar pagos. Elaborar reportes de facturación y cuentas por cobrar, y apoyar en conciliaciones.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+                       "Sueldo + Planilla completa con todos los beneficios de ley",
+                       "Oportunidades de crecimiento",
+                       "Buen clima laboral",
+                       "Estabilidad laboral"
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-facturacion-y-cobranzas-c.b.-atraccion-seleccion-1118467237.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-facturacion-y-cobranzas-c.b.-atraccion-seleccion-1118467237.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,91 @@
+================================================================================
+  PORTADA CON TARJETAS CORREGIDAS — LISTA PARA REEMPLAZAR
+  (pegar en el HTML de la entrada/página estática de tu portada)
+  Conecta con el JS del BLOQUE-TEMA-BLOGGER.txt (ya balanceado 0/0):
+  caducidad automática + filtros + buscador. Cambia solo textos y enlaces.
+================================================================================
+
+---------------------------------------------------------------------------------
+ 1) BUSCADOR + CHIPS DE FILTRO (opcional, mejora la portada)
+---------------------------------------------------------------------------------
+<div class="portal-filtros" data-filtros>
+  <input type="search" data-buscador-becas placeholder="Buscar beca, empleo, palabra..." />
+  <div class="portal-filtros-chips">
+    <button type="button" data-familia="tipo" data-valor="beca">Becas</button>
+    <button type="button" data-familia="tipo" data-valor="empleo">Empleos</button>
+    <button type="button" data-familia="nivel" data-valor="pregrado">Pregrado</button>
+    <button type="button" data-familia="nivel" data-valor="posgrado">Posgrado</button>
+    <button type="button" data-familia="nivel" data-valor="tecnico">Técnico</button>
+    <button type="button" data-familia="rama" data-valor="educacion">Educación</button>
+    <button type="button" data-familia="convocante" data-valor="pronabec">PRONABEC</button>
+  </div>
+</div>
+
+---------------------------------------------------------------------------------
+ 2) TARJETA DE BECA (con fecha de cierre -> estado automático)
+---------------------------------------------------------------------------------
+<!-- LA FECHA DE CIERRE SIEMPRE EN FORMATO AAAA-MM-DD.
+     El span y el enlace llevan data-estado / data-postular y el JS
+     hace el resto SOLO (Finalizada / ¡Cierra pronto! / Abierta). -->
+<article class="portal-tarjeta"
+         data-cierre="2026-11-30"
+         data-estado
+         data-tipo="beca" data-nivel="posgrado" data-rama="educacion"
+         data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+  <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+  <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-maestria-docentes.html">Beca Maestría para Docentes</a></h3>
+  <p class="portal-tarjeta-desc">Para docentes nombrados. Estudios de maestría con matrícula y pensión cubiertas.</p>
+  <a class="portal-tarjeta-enlace" data-postular href="/2026/xx/beca-maestria-docentes.html">Ver ficha y postular</a>
+</article>
+
+<article class="portal-tarjeta"
+         data-cierre="2026-10-15"
+         data-estado
+         data-tipo="beca" data-nivel="pregrado" data-rama="educacion"
+         data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+  <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+  <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/beca-18.html">Beca 18 PRONABEC</a></h3>
+  <p class="portal-tarjeta-desc">Pregrado integral para estudiantes de bajos recursos con buen desempeño.</p>
+  <a class="portal-tarjeta-enlace" data-postular href="/2026/xx/beca-18.html">Ver ficha y postular</a>
+</article>
+
+---------------------------------------------------------------------------------
+ 3) TARJETA DE EMPLEO (caduca sola; se oculta si ya venció)
+---------------------------------------------------------------------------------
+<!-- Contenedor con data-ocultar-caducadas="true": esconde por completo
+     las vacantes vencidas. El botón data-aplicar se desactiva solo. -->
+<section class="portal-empleos" data-ocultar-caducadas="true">
+  <h2 class="portal-seccion-titulo">Empleos recientes</h2>
+
+  <article class="portal-tarjeta"
+           data-cierre="2026-09-25"
+           data-estado
+           data-tipo="empleo" data-jornada="tiempo-completo" data-nivel="tecnico">
+    <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+    <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/analista-sistemas.html">Analista de Sistemas</a></h3>
+    <p class="portal-tarjeta-desc">Lima, presencial. Título en sistemas o afines, experiencia 1 año.</p>
+    <a class="portal-tarjeta-enlace" data-aplicar href="/2026/xx/analista-sistemas.html">Ver oferta y aplicar</a>
+  </article>
+
+  <article class="portal-tarjeta"
+           data-cierre="2026-09-30"
+           data-estado
+           data-tipo="empleo" data-jornada="medio-tiempo" data-nivel="tecnico">
+    <span class="portal-tarjeta-etiqueta" data-estado>—</span>
+    <h3 class="portal-tarjeta-titulo"><a href="/2026/xx/enfermero-a.html">Enfermero(a)</a></h3>
+    <p class="portal-tarjeta-desc">Turnos rotativos. Título y colegiatura vigente.</p>
+    <a class="portal-tarjeta-enlace" data-aplicar href="/2026/xx/enfermero-a.html">Ver oferta y aplicar</a>
+  </article>
+</section>
+
+---------------------------------------------------------------------------------
+ NOTAS
+---------------------------------------------------------------------------------
+- Fecha SIEMPRE en data-cierre con formato AAAA-MM-DD (ej. 2026-11-30).
+- Sin data-cierre la tarjeta queda estática (abierta, sin caducidad).
+- data-ocultar-caducadas="true" solo en el contenedor de EMPLEOS si quieres
+  que las vacantes vencidas desaparezcan por completo.
+- El resto de atributos (data-tipo, data-nivel, data-rama, data-convocante,
+  data-cobertura, data-modalidad) no son obligatorios: solo activan los
+  filtros/chips y el buscador. Puedes omitirlos o añadir más ramas.
+- Cambia títulos, descripciones y enlaces /2026/xx/... por los tuyos reales.

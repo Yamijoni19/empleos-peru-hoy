@@ -1,0 +1,100 @@
+<!-- =========================================================
+     BECAS - VERSION DATA-ONLY
+     EL CSS Y JS VIVEN EN EL TEMA (Bloque-Tema-Blogger.txt)
+     BLOGGER > PAGINAS > BECAS > MODO HTML:
+     pegar SOLO este contenido (reemplaza todo lo anterior)
+     Las becas se publican como POSTS con la etiqueta: Beca
+     ========================================================= -->
+
+<div class="portal-empleos">
+
+<header class="portal-header">
+  <div class="portal-logo">EMPLEOS PERÚ HOY</div>
+
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Artículos</a>
+  </nav>
+</header>
+
+<section class="portal-titulo-seccion">
+
+  <h1>Becas disponibles</h1>
+
+  <p>Programas de becas, financiamiento y subvenciones para estudios en Perú y el extranjero.</p>
+
+</section>
+
+<section class="empleos-seccion">
+
+  <div class="empleos-cabecera">
+
+    <h2 id="contadorBecas">Becas</h2>
+
+    <span class="contador-resultados">
+      Cargando becas...
+    </span>
+
+  </div>
+
+  <div id="becasGrid" class="empleos-grid">
+
+    <div class="empleo-cargando">
+      Cargando becas...
+    </div>
+
+  </div>
+
+</section>
+
+<footer class="portal-footer">
+
+  <div class="portal-footer-contenido">
+
+    <div>
+
+      <h3>EMPLEOS PERÚ HOY</h3>
+
+      <a href="/">Inicio</a>
+      <a href="/p/empleos.html">Empleos</a>
+      <a href="/p/becas.html">Becas</a>
+      <a href="/p/articulos.html">Artículos</a>
+
+    </div>
+
+    <div>
+
+      <h3>Información</h3>
+
+      <a href="#" data-contacto data-asunto="Contacto">Contacto</a>
+      <a href="#" data-contacto data-asunto="Publicar oferta de empleo o beca">Publica tu oferta</a>
+      <a href="/p/politica-de-privacidad.html">Política de privacidad</a>
+      <a href="/p/terminos-y-condiciones.html">Términos y condiciones</a>
+
+    </div>
+
+    <div>
+
+      <h3>Recomendaciones</h3>
+
+      <a href="/p/articulos.html">Consejos para buscar trabajo</a>
+      <a href="/p/articulos.html">Cómo armar tu CV</a>
+      <a href="/p/becas.html">Becas para estudiar</a>
+
+    </div>
+
+  </div>
+
+  <div class="portal-footer-legal">
+
+    EMPLEOS PERÚ HOY no es una agencia de empleo. Publicamos ofertas enlazando a las
+    plataformas oficiales de cada institución o empresa. La postulación se realiza
+    directamente en el sitio de origen.
+
+  </div>
+
+</footer>
+
+</div>

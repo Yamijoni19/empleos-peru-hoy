@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467265",
+    "clave":  "id:1118467265",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-de-proyectos-tiempo-parcial-arquitectura-y-construccion-1118467265.html",
+                   "capturadoEn":  "2026-10-04T19:42:02-05:00"
+               },
+    "titulo":  "Asistente Técnico de Proyectos (Tiempo Parcial)",
+    "empresa":  "ARQUITECTURA Y CONSTRUCCION",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2.000 - S/ 2.500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Técnico de Proyectos (Tiempo Parcial) Resumen del Puesto Buscamos un profesional con formación técnica o bachiller, con habilidades en diseño y cálculo estructural, manejo de herramientas de dibujo técnico y experiencia en gestión de proyectos. El candidato ideal será proactivo, organizado y capaz de gestionar diversas tareas administrativas y técnicas de forma eficiente. Responsabilidades Colaborar en el diseño y cálculo estructural de proyectos. Realizar dibujos técnicos utilizando AutoCAD y software de modelado 3D. Asistir en la revisión de expedientes técnicos y documentación de proyectos. Apoyar en la gestión de trámites municipales y en registros públicos, incluyendo independizaciones y declaratorias de fábrica. Participar en la supervisión y residencia de obras, asegurando el cumplimiento de especificaciones técnicas. Coordinar y dar seguimiento a las actividades del proyecto para asegurar su avance oportuno. Requisitos Título de Bachiller o formación técnica en áreas relacionadas (Arquitectura, Ingeniería Civil, etc.). Dominio de AutoCAD y software de modelado 3D (ej. 3D Studio). Conocimientos en diseño y cálculo estructural. Experiencia en revisión de expedientes técnicos. Capacidad para gestionar trámites administrativos y legales relacionados con la construcción. Habilidad para la residencia en obras y supervisión técnica. Excelentes habilidades de organización y gestión del tiempo. Capacidad para trabajar de forma autónoma y en equipo. Disponibilidad para trabajar a tiempo parcial.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-de-proyectos-tiempo-parcial-arquitectura-y-construccion-1118467265.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-de-proyectos-tiempo-parcial-arquitectura-y-construccion-1118467265.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

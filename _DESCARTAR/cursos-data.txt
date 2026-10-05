@@ -1,0 +1,89 @@
+<!-- =========================================================
+     CURSOS - VERSION DATA-ONLY
+     EL CSS Y JS VIVEN EN EL TEMA (Bloque-Tema-Blogger.txt)
+     BLOGGER > PAGINAS > CURSOS > MODO HTML:
+     pegar SOLO este contenido (reemplaza todo lo anterior)
+     Los cursos se publican como POSTS con la etiqueta: Curso
+     ========================================================= -->
+
+<div class="portal-empleos">
+
+<header class="portal-header">
+  <div class="portal-logo">EMPLEOS PERÚ HOY</div>
+
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Artículos</a>
+    <a href="/p/cursos.html">Cursos</a>
+  </nav>
+</header>
+
+<!-- BUSCADOR + FILTROS (fondo azul oscuro) -->
+<div class="buscador-empleos">
+  <h1>Cursos y capacitaciones gratis con certificado</h1>
+  <p>Encuentra cursos gratuitos en línea de instituciones peruanas e internacionales. Certificados válidos para tu CV, LinkedIn y postulaciones laborales. Aprende a tu ritmo, sin costo y con certificado digital verificable.</p>
+
+  <div class="buscador-contenedor">
+    <input type="text" id="cursoBusqueda" class="buscador-input" data-buscador-cursos placeholder="Buscar por título, institución o tema...">
+    <button id="cursoBuscar" class="buscador-boton">Buscar</button>
+  </div>
+
+  <div class="filtros-contenedor">
+    <div class="filtros-grid">
+      <div class="filtro-grupo" data-familia="modalidad">
+        <div class="filtro-grupo-titulo">&#128187; Modalidad <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="virtual" data-familia="modalidad" data-valor="virtual"> <span>Virtual</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="presencial" data-familia="modalidad" data-valor="presencial"> <span>Presencial</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="semipresencial" data-familia="modalidad" data-valor="semipresencial"> <span>Semipresencial</span></label>
+        </div>
+      </div>
+      <div class="filtro-grupo" data-familia="certificado">
+        <div class="filtro-grupo-titulo">&#127891; Certificado <span class="flecha"></span></div>
+        <div class="filtro-opciones">
+          <label class="filtro-opcion"><input type="checkbox" value="si" data-familia="certificado" data-valor="si"> <span>Con certificado</span></label>
+          <label class="filtro-opcion"><input type="checkbox" value="no" data-familia="certificado" data-valor="no"> <span>Sin certificado</span></label>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CATEGORÍAS (carrusel) -->
+<section class="empleos-seccion">
+  <div style="max-width:900px;margin:20px auto 0;padding:0 16px;">
+    <h2 style="margin:0 0 12px;font-size:18px;color:#172033;">Explora por categoría</h2>
+  </div>
+  <div style="max-width:900px;margin:0 auto;padding:0 16px;position:relative;">
+    <button id="categoriaAnterior" style="position:absolute;left:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8249;</button>
+    <div id="categoriasCarrusel" class="categorias-carrusel">
+      <button class="categoria-card categoria-todos activa" data-categoria="Todos"><span>Todas</span></button>
+      <button class="categoria-card categoria-tecnologia" data-categoria="Tecnologia"><span>Tecnología</span></button>
+      <button class="categoria-card categoria-negocios" data-categoria="Negocios"><span>Negocios</span></button>
+      <button class="categoria-card categoria-desarrollo" data-categoria="Desarrollo"><span>Des. Personal</span></button>
+      <button class="categoria-card categoria-diseno" data-categoria="Diseno"><span>Diseño</span></button>
+      <button class="categoria-card categoria-idiomas" data-categoria="Idiomas"><span>Idiomas</span></button>
+      <button class="categoria-card categoria-otros" data-categoria="Otros"><span>Otros</span></button>
+    </div>
+    <button id="categoriaSiguiente" style="position:absolute;right:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8250;</button>
+  </div>
+
+  <!-- ENCABEZADO DE RESULTADOS -->
+  <div class="empleos-cabecera" style="max-width:900px;margin:18px auto 0;padding:0 16px;">
+    <h2 id="tituloResultados">Cursos disponibles</h2>
+    <span class="contador-resultados" id="contadorResultados"></span>
+  </div>
+
+  <!-- GRID DE CURSOS -->
+  <div id="cursosGrid" class="empleos-grid" style="max-width:900px;margin:0 auto;padding:0 16px;"></div>
+
+  <!-- CARGAR MÁS -->
+  <div id="cargarMasContenedor" style="text-align:center;margin:20px auto;max-width:900px;">
+    <span id="cargarMasEstado" style="color:#6b7280;font-size:13px;"></span>
+    <button id="cargarMasCursos" style="margin-top:8px;padding:10px 24px;border:none;border-radius:8px;background:#0f4c81;color:#fff;font-size:13px;font-weight:700;cursor:pointer;display:none;">Cargar más cursos</button>
+  </div>
+</section>
+
+</div>

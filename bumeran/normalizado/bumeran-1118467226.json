@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467226",
+    "clave":  "id:1118467226",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-direccion-de-operaciones-ingeniero-de-minas-repsac-1118467226.html",
+                   "capturadoEn":  "2026-10-04T20:08:48-05:00"
+               },
+    "titulo":  "Asistente de Dirección de Operaciones - Ingeniero de Minas",
+    "empresa":  "REPSAC",
+    "ubicacion":  "Ancash - Huaraz",
+    "ciudad":  "Huaraz",
+    "region":  "Ancash",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  5000,
+                    "max":  6500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 5.000 - S/ 6.500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Dirección de Operaciones - Ingeniero de Minas Resumen del Puesto Buscamos un Ingeniero de Minas con un perfil integral (técnico, operativo, económico, de gestión y control) para brindar soporte directo y permanente a la Dirección de Operaciones en todos nuestros proyectos, unidades y nuevas oportunidades de negocio. El candidato ideal será proactivo, con gran capacidad analítica y de gestión. Responsabilidades Clave Participar en todo el ciclo del proyecto: desde la evaluación inicial, implementación y puesta en marcha, hasta la operación, seguimiento y mejora continua. Analizar y consolidar información técnica, productiva, económica y documentaria de cada unidad operativa. Generar reportes e indicadores (KPIs) confiables y oportunos para la toma de decisiones estratégicas de la Dirección. Monitorear el cumplimiento de los planes de trabajo, presupuestos y cronogramas operacionales. Requisitos Título de Ingeniero de Minas o carrera afín. Experiencia demostrable en gestión de operaciones y proyectos en el sector minero. Sólidos conocimientos técnicos, operativos, económicos y de gestión. Capacidad para analizar datos complejos y generar informes claros. Habilidad para el monitoreo y control de planes, presupuestos y cronogramas. Excelentes habilidades de comunicación y trabajo en equipo. Orientación a resultados y mejora continua.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-direccion-de-operaciones-ingeniero-de-minas-repsac-1118467226.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-direccion-de-operaciones-ingeniero-de-minas-repsac-1118467226.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

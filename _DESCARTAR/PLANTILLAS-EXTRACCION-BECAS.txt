@@ -1,0 +1,206 @@
+================================================================
+ PLANTILLAS DE EXTRACCIÓN DE BECAS — MANUAL DE USO
+ (para pegar en ChatGPT y sacar toda la info de una convocatoria)
+================================================================
+
+CÓMO USAR (lo importante)
+----------------------------------------------------------------
+1) Copia la plantilla que corresponda.
+2) Pégala en ChatGPT y al final añade el ENLACE de la convocatoria.
+3) Cuando ChatGPT devuelva la ficha, pásamela AQUÍ (a tu asistente)
+   y yo la ajusto al formato de tu blog / la publico.
+
+POR QUÉ ESTAS PLANTILLAS FUNCIONAN
+----------------------------------------------------------------
+- Le piden a ChatGPT trabajar SOLO con lo que ve en pantalla.
+- Le obligan a avisar cuando un dato NO es visible (en vez de inventar).
+- Le piden la fuente exacta (URL) de cada campo, para verificar.
+- Le piden separar "información confirmada" de "requiere clic/PDF".
+
+---------------------------------------------------------------
+ PLANTILLA N.º 1 — CONVOCATORIA NORMAL (enlace de página web)
+---------------------------------------------------------------
+Copiar desde aquí:
+
+"Actúa como un redactor experto en becas y convocatorias educativas.
+Voy a darte el enlace de una convocatoria de beca. Extrae TODA la
+información y complétala en una ficha estructurada. Reglas obligatorias:
+
+1. Trabaja SOLO con la información que aparece en el texto de la
+   página que puedes leer. NO inventes ni completes datos que no ves.
+2. Para cada campo, indica la fuente exacta (título de la sección o
+   URL) de donde lo sacaste.
+3. Donde no encuentres un dato, escribe literalmente: [NO VISIBLE]
+4. Si la página tiene pestañas, acordeones o botones 'Leer más'
+   (contenido que solo se abre con un clic), indícalo con:
+   [CONTENIDO OCULTO: se abre con clic, no lo leí]
+5. Si detectas que hay más convocatorias del mismo programa, indícalo
+   al final con una lista.
+6. Respóndeme únicamente con la ficha, sin preámbulos. Usa encabezados
+   en negrita y tablas cuando corresponda.
+
+FICHA A COMPLETAR:
+• Nombre de la beca
+• Entidad convocante (y tipo: público/privado/ONG)
+• País / ámbito
+• Nivel de estudios (grado/posgrado/idiomas/formación técnica/otro)
+• Modalidad (presencial/online/semipresencial)
+• ¿Cubre? (matrícula, pensión, manutención, alojamiento, transporte, material)
+• Duración de la beca
+• Monto / cobertura económica (si se indica)
+• N.º de becas disponibles (si se indica)
+• Fechas clave: apertura, cierre, resultados (si se indican)
+• Requisitos de ELIGIBILIDAD (edad, nacionalidad, nivel académico,
+  condición socioeconómica, etc.)
+• Documentación requerida (si se indica)
+• Proceso / pasos para postular
+• Enlace oficial de postulación (URL)
+• Enlace a las BASES (PDF) si aparece
+• Vigencia del anuncio / estado actual (abierta, cerrada, próxima)
+• Teléfono / correo / WhatsApp de contacto (si aparece)
+
+ENLACE DE LA CONVOCATORIA:
+[PEGA AQUÍ EL ENLACE]"
+
+Copiar hasta aquí.
+
+
+---------------------------------------------------------------
+ PLANTILLA N.º 2 — CUANDO HAY UN PDF DE BASES O CONVOCATORIA
+---------------------------------------------------------------
+PROBLEMA: ChatGPT a veces no puede abrir PDFs (o solo lee las primeras
+páginas). SOLUCIÓN EN 3 NIVELES, pruébalos en orden:
+
+NIVEL A) Pedirle el enlace directo del PDF (el más fácil):
+Copiar desde aquí:
+
+"El enlace que te daré NO es de una página web normal si no de un
+documento PDF con las bases de una convocatoria de beca.
+
+1. Intenta abrir el PDF y extraer su contenido completo.
+2. Si puedes leerlo, completa la FICHA (misma estructura que la
+   plantilla 1) y dime cuántas páginas u hojas pudiste procesar.
+3. Si NO puedes abrirlo o solo lees parte, dime exactamente:
+   'NO PUDE ABRIR EL PDF COMPLETO' y resúmeme lo poquito que sí viste.
+   NO inventes el resto.
+
+PDF DE LAS BASES:
+[PEGA AQUÍ EL ENLACE AL PDF]"
+
+Copiar hasta aquí.
+
+NIVEL B) Si ChatGPT confirma que no abrió el PDF:
+- Búscame el texto del PDF con la herramienta de conversión (más abajo
+  en este manual) y pásame el resultado pegado en el chat, o
+- Envíame el PDF aquí (a tu asistente) y yo lo convierto a texto con
+  las herramientas de tu PC (ver 'HOJA DE TRUCO PARA PDF').
+
+NIVEL C) Buscar la versión web del PDF:
+Muchos PDFs de becas tienen página web equivalente. Pídele a ChatGPT:
+
+"Haz una búsqueda en internet de: [nombre del programa de beca] +
+convocatoria + bases 2026, y dime el enlace de la página web oficial
+donde aparezca esta información en formato HTML (no PDF)."
+
+---------------------------------------------------------------
+ PLANTILLA N.º 3 — CONTENIDO OCULTO (desplegables tipo PRONABEC /
+ acordeones / pestañas / 'Leer más')
+---------------------------------------------------------------
+PROBLEMA: Páginas como pronabec.gob.pe esconden requisitos, cronogramas
+y listas dentro de desplegables que SOLO se ven al hacer clic.
+ChatGPT normalmente solo lee el texto que carga inicialmente.
+
+SOLUCIÓN en 3 pasos (usa los 3 si hace falta):
+
+PASO 1) Plantilla para que ChatGPT use el HTML crudo (la más eficaz):
+Copiar desde aquí:
+
+"El enlace siguiente es de una página de beca VÁLIDA ESPECIALMENTE
+PORQUE tiene el contenido en pestañas, acordeones o botones que solo
+se abren con clic (por ejemplo, listas de instituciones, requisitos o
+cronogramas).
+
+Quiero que hagas lo siguiente:
+1. Usa la herramienta de 'página/HTML' o 'búsqueda en el sitio' para
+   leer el código fuente y TODO el texto, aunque esté oculto detrás de
+   un desplegable (los elementos ocultos suelen estar en el HTML desde
+   el inicio, solo que 'colapsados').
+2. Extrae los MISMOS campos de la FICHA de la Plantilla 1.
+3. Para cada bloque que NO aparezca ni en el HTML, escribe
+   [NO VISIBLE].
+4. Si encuentras subsecciones que son listas largas (ej. 'Lista de
+   IES elegibles'), no las copies enteras: dime cuántas hay y el
+   enlace o filtro donde se ven.
+
+PÁGINA CON CONTENIDO OCULTO:
+[PEGA AQUÍ EL ENLACE]"
+
+Copiar hasta aquí.
+
+PASO 2) Versión en caché / archivo (el contenido oculto ya expandido):
+"Haz una búsqueda de la página en caché o en archive.org y, si
+encuentras una versión guardada donde aparezcan los desplegables
+expandidos, usa esa versión para el punto 2 del paso anterior."
+
+PASO 3) Si sigue faltando el detalle:
+"Busca e indica el enlace oficial a las BASES (documento normativo o
+Reglamento) de: [nombre del programa]. Normalmente este documento
+contiene los requisitos, cronograma y listas completas."
+
+
+---------------------------------------------------------------
+ PLANTILLA N.º 4 — COMPARACIÓN DE VARIAS BECAS O CONVOCATORIAS
+---------------------------------------------------------------
+Copiar desde aquí:
+
+"Encontré varias becas/reuní estos enlaces. Para CADA UNO aplica la
+FICHA de la Plantilla 1 (misma reglas: solo lo visible, marcar
+[NO VISIBLE] donde falte, indicar fuente de cada dato). Luego haz una
+TABLA COMPARATIVA con estas columnas:
+Nombre | Convocante | Nivel | País | Cobertura | Fechas | Requisitos clave | Vigencia
+Al final, dime cuál recomiendas priorizar para una persona de perfil:
+[DESCRIBE TU PERFIL: país, edad, nivel de estudios, idiomas, situación económica]
+
+ENLACES:
+- [URL 1]
+- [URL 2]
+- [URL 3]"
+
+Copiar hasta aquí.
+
+
+---------------------------------------------------------------
+ HOJA DE TRUCO PARA PDF (conversión local en tu PC)
+---------------------------------------------------------------
+Si ChatGPT no abre un PDF, puedes convertirlo a texto aquí mismo sin
+instalar nada, pasando el archivo a tu asistente. Opciones según el caso:
+
+A) PDF con texto seleccionable (la mayoría):
+   Tu asistente lo abre con una herramienta de extracción de texto.
+
+B) PDF escaneado (imágenes, sin texto):
+   Se necesitan dos pasos: abrir cada página como imagen y leer el
+   texto con OCR. Si te aparece 'es un escaneo', avísale a tu asistente
+   y te dirá cuántas páginas procesar o el mejor flujo.
+
+C) PDF muy largo (> 30 páginas, ej. Reglamentos):
+   Se lee completo igual, pero la respuesta se recorta en partes
+   numeradas (por ejemplo: 'Parte 1/3').
+
+> REGLA PARA TU ASISTENTE: nunca resumas un PDF 'a medias' sin avisar.
+> Si es largo, lo dividimos en partes numeradas para no perder nada.
+
+QUÉ PASARLE A TU ASISTENTE CUANDO TENGAS UN PDF:
+"Convierte este PDF a texto y extráeme la FICHA: [ruta/carpeta del PDF]"
+
+================================================================
+ NOTAS FINALES
+================================================================
+- Guarda esta plantilla; cuando tengas el enlace de una beca, solo
+  tienes que copiar la plantilla que corresponda + pegar el enlace.
+- Si una convocatoria es MIXTA (página web + bases PDF), puedes usar
+  la Plantilla 1 para la página y la 2+3 para el PDF, y luego
+  pedirle a ChatGPT que unifique ambas en una sola ficha.
+- Campos estándar de la ficha que usará tu blog (para que el formato
+  siempre sea el mismo): ver FICHA de la Plantilla 1.
+================================================================

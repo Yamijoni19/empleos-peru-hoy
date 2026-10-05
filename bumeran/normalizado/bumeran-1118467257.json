@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467257",
+    "clave":  "id:1118467257",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/backend-developer-python-inetum-peru-1118467257.html",
+                   "capturadoEn":  "2026-10-04T19:42:23-05:00"
+               },
+    "titulo":  "BackEnd Developer - Python",
+    "empresa":  "Inetum Perú",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos Inetum , una compañía de servicios ágiles que proporciona soluciones digitales y un grupo global de tecnólogos que acompaña a sus clientes en el proceso de digitalización aprovechando al máximo el digital flow. Ofrecemos a nuestros clientes una combinación única de proximidad, organización sectorial y soluciones de calidad. Presente en más de 26 países, el Grupo tiene cerca de 27.000 colaboradores y apunta a continuar creciendo. ¡En Inetum acompañamos a nuestros clientes y colaboradores en su camino al éxito! Si te gusta reinventarte y resolver problemas con nuevas estrategias, trabajar en proyectos de IT y de negocios: ¡Postula ahora! Actualmente nos encontramos en búsqueda de (01) BackEnd Developer para que se integre a nuestro equipo asignado a uno de nuestros principales clientes: ¿Cuál es el perfil ideal que estamos buscando?, Profesional de la carrera de Ingeniería de Sistemas, Informática, Computación o carreras afines. Experiencia en desarrollo Backend utilizando Python . Experiencia en diseño y desarrollo de APIs y servicios backend . Experiencia en desarrollo de aplicaciones utilizando AWS , idealmente servicios como Lambda, API Gateway, EC2, S3, RDS u otros servicios relacionados. Experiencia trabajando con bases de datos relacionales , principalmente SQL Server y PostgreSQL . Conocimientos de React a nivel básico/intermedio para interacción con componentes Frontend. ¿Qué vamos a ofrecerte como parte del equipo? Remuneración en planilla con todas las condiciones de ley. Tarjeta de Alimentos Beneficios corporativos a través de nuestra plataforma de descuentos. Capacitaciones constantes acorde a tu línea de carrera y otras de interés general (plataformas de e-learning). La oportunidad de participar en retos altamente innovadores. Línea de carrera. Conoce más de nosotros en www.inetum.com/es o visita nuestras redes sociales como Inetum Perú para conocer más de nuestra cultura corporativa y metodologías de trabajo. ¡Te esperamos! En Inetum promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas con discapacidad y/o habilidades diferentes mediante la igualdad de oportunidades en todos los procesos, y buscamos ampliar las oportunidades de desarrollo profesional .",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/backend-developer-python-inetum-peru-1118467257.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/backend-developer-python-inetum-peru-1118467257.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

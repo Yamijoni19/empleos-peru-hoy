@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467246",
+    "clave":  "id:1118467246",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-telecomunicaciones-dux-outsourcing-sac-1118467246.html",
+                   "capturadoEn":  "2026-10-04T19:42:37-05:00"
+               },
+    "titulo":  "Asesor(a) de Ventas Telecomunicaciones",
+    "empresa":  "Dux Outsourcing SAC",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.230 - S/ 3.000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor(a) de Ventas Telecomunicaciones Resumen del Puesto Buscamos un(a) Asesor(a) de Ventas proactivo(a) y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal tendrá una fuerte orientación al cliente y habilidades de negociación para alcanzar y superar objetivos comerciales en el sector de las telecomunicaciones. Ofrecemos Salario competitivo con atractivas comisiones ilimitadas desde la primera venta. Bonos por asistencia, semanales y por cumplimiento de objetivos. Capacitaciones integrales y 100% pagadas. Ingreso a planilla desde el primer día. Horarios flexibles y posibilidad de trabajo híbrido o remoto tras un período inicial. Descanso fijo los domingos. Requisitos Estudios secundarios completos. Se valorará formación técnica o universitaria. Excelentes habilidades de comunicación, escucha activa y empatía. Aptitudes demostradas para la venta, negociación y cierre de operaciones. Orientación al cliente y motivación por alcanzar y superar objetivos comerciales. Manejo básico de herramientas ofimáticas y sistemas CRM. Organización, responsabilidad y gran disposición para el aprendizaje continuo. Disponibilidad para trabajar a tiempo completo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-telecomunicaciones-dux-outsourcing-sac-1118467246.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-telecomunicaciones-dux-outsourcing-sac-1118467246.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

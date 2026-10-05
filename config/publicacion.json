@@ -1,0 +1,32 @@
+{
+  "comentario": "Configuracion unica del flujo BUMERAN (privado) + convocatoriasdetrabajo.com (estado). Todo se cambia AQUI, sin tocar codigo.",
+  "maxPorCorrida": 5,
+  "publicacion": {
+    "activada": false,
+    "nota": "SEGUARDAD: Blogger responde 429 (cuota agotada). Para publicar cuando vuelva a aceptar escritura: poner activada=true AQUI. Sin modificar codigo."
+  },
+  "backfill": {
+    "activado": false,
+    "nota": "Los 4.114 historicos del baseline quedan bloqueados. Solo se habilitan con activado=true y ademas -Backfill en publicar-blogger.ps1."
+  },
+  "cooldown429": {
+    "minutos": 240,
+    "nota": "Tras un 429 se registra fecha/hora+error en datos/cola/registro-429.txt, se corta la corrida, se conserva la cola y NO se vuelve a intentar hasta cumplir este cooldown (ademas de esperar a la siguiente ejecucion programada)."
+  },
+  "scheduler": {
+    "frecuenciaMin": 60,
+    "nota": "Frecuencia del pipeline en la nube (.github/workflows/pipeline.yml). La captura es incremental: solo ofertas nuevas/actualizadas."
+  },
+  "cola": {
+    "prioridades": ["NUEVA", "ACTUALIZADA", "CORRECCION", "EXPIRADA", "HISTORICA"],
+    "nota": "Automatica solo NUEVA. HISTORICA solo con -Backfill. ACTUALIZADA/CORRECCION solo con -PublicarActualizaciones/-PublicarCorrecciones (hoy se encolan, no publican). EXPIRADA jamas."
+  },
+  "anomalia": {
+    "activa": true,
+    "topeAbsoluto": 100,
+    "maxTitulosRepetidos": 3,
+    "factorSobreMedia": 3.0,
+    "ventanaDias": 7,
+    "nota": "Controla COMPORTAMIENTO ANOMALO, no el crecimiento normal: subir topeAbsoluto si se decide publicar mas de 100 por corrida."
+  }
+}

@@ -1,0 +1,291 @@
+<!-- =========================================================
+     EMPLEOS - VERSION DATA-ONLY
+     EL CSS Y JS VIVEN EN EL TEMA (Bloque-Tema-Blogger.txt)
+     BLOGGER > PAGINAS > EMPLEOS > MODO HTML:
+     pegar SOLO este contenido (reemplaza todo lo anterior)
+     ========================================================= -->
+
+<div class="portal-empleos">
+
+<header class="portal-header">
+  <div class="portal-logo">EMPLEOS PERÚ HOY</div>
+
+  <nav class="portal-menu">
+    <a href="/">Inicio</a>
+    <a href="/p/empleos.html">Empleos</a>
+    <a href="/p/becas.html">Becas</a>
+    <a href="/p/articulos.html">Artículos</a>
+  </nav>
+</header>
+
+<section class="buscador-empleos">
+
+  <h1>Encuentra tu próximo empleo</h1>
+
+  <p>Descubre nuevas oportunidades laborales en todo el Perú</p>
+
+  <div class="buscador-contenedor">
+
+    <input
+      id="portalBusqueda"
+      class="buscador-input"
+      type="search"
+      placeholder="Cargo, empresa o palabra clave..."
+      autocomplete="off"
+    />
+
+    <button id="portalBuscar" class="buscador-boton" type="button">
+      BUSCAR
+    </button>
+
+  </div>
+
+  <div class="filtros-contenedor">
+
+    <div class="filtros-grid">
+
+      <div class="filtro-grupo" data-filtro="modalidad">
+
+        <button class="filtro-grupo-titulo" type="button">
+          MODALIDAD
+          <span class="flecha"></span>
+        </button>
+
+        <div class="filtro-opciones">
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="Presencial">
+            <span>Presencial</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="Remoto">
+            <span>Remoto</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="Híbrido">
+            <span>Híbrido</span>
+          </label>
+
+        </div>
+
+      </div>
+
+      <div class="filtro-grupo" data-filtro="experiencia">
+
+        <button class="filtro-grupo-titulo" type="button">
+          EXPERIENCIA
+          <span class="flecha"></span>
+        </button>
+
+        <div class="filtro-opciones">
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="sin">
+            <span>Sin experiencia</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="1-2">
+            <span>1 a 2 años</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="3-5">
+            <span>3 a 5 años</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="mas5">
+            <span>Más de 5 años</span>
+          </label>
+
+        </div>
+
+      </div>
+
+      <div class="filtro-grupo" data-filtro="ciudad">
+
+        <button class="filtro-grupo-titulo" type="button">
+          CIUDAD
+          <span class="flecha"></span>
+        </button>
+
+        <div class="filtro-opciones" id="opcionesCiudades"></div>
+
+      </div>
+
+      <div class="filtro-grupo" data-filtro="salario">
+
+        <button class="filtro-grupo-titulo" type="button">
+          SALARIO
+          <span class="flecha"></span>
+        </button>
+
+        <div class="filtro-opciones">
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="2000">
+            <span>Desde S/ 2,000</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="3000">
+            <span>Desde S/ 3,000</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="4000">
+            <span>Desde S/ 4,000</span>
+          </label>
+
+          <label class="filtro-opcion">
+            <input type="checkbox" value="6000">
+            <span>Desde S/ 6,000</span>
+          </label>
+
+        </div>
+
+      </div>
+
+    </div>
+
+  </div>
+
+</section>
+
+<section id="categorias" class="categorias-seccion">
+
+  <div class="categorias-titulo">
+
+    <h2>Explora por categoría</h2>
+
+    <div class="categorias-controles">
+      <button class="categoria-flecha" id="categoriaAnterior" type="button">‹</button>
+      <button class="categoria-flecha" id="categoriaSiguiente" type="button">›</button>
+    </div>
+
+  </div>
+
+  <div class="categorias-carrusel" id="categoriasCarrusel">
+
+    <button class="categoria-card categoria-todos activa" data-categoria="Todos" type="button">
+      <span>Todos los empleos</span>
+    </button>
+
+    <button class="categoria-card categoria-ingenieria" data-categoria="Ingeniería" type="button">
+      <span>Ingeniería</span>
+    </button>
+
+    <button class="categoria-card categoria-salud" data-categoria="Salud" type="button">
+      <span>Salud</span>
+    </button>
+
+    <button class="categoria-card categoria-ventas-servicios" data-categoria="Ventas y Servicios" type="button">
+      <span>Ventas y Servicios</span>
+    </button>
+
+    <button class="categoria-card categoria-administracion-finanzas" data-categoria="Administración y Finanzas" type="button">
+      <span>Administración y Finanzas</span>
+    </button>
+
+    <button class="categoria-card categoria-derecho" data-categoria="Derecho" type="button">
+      <span>Derecho</span>
+    </button>
+
+    <button class="categoria-card categoria-educacion" data-categoria="Educación" type="button">
+      <span>Educación</span>
+    </button>
+
+    <button class="categoria-card categoria-otros" data-categoria="Otros" type="button">
+      <span>Otros</span>
+    </button>
+
+  </div>
+
+</section>
+
+<section id="empleos-recientes" class="empleos-seccion">
+
+  <div class="empleos-cabecera">
+
+    <h2 id="tituloResultados">Empleos recientes</h2>
+
+    <span id="contadorResultados" class="contador-resultados">
+      Cargando ofertas...
+    </span>
+
+  </div>
+
+  <div id="empleosGrid" class="empleos-grid">
+
+    <div class="empleo-cargando">
+      Cargando ofertas...
+    </div>
+
+  </div>
+
+  <div class="cargar-mas-contenedor" id="cargarMasContenedor" hidden>
+
+    <button id="cargarMasOfertas" class="cargar-mas-boton" type="button">
+      CARGAR MÁS OFERTAS
+    </button>
+
+    <div id="cargarMasEstado" class="cargar-mas-estado"></div>
+
+  </div>
+
+</section>
+
+<div id="portalLector" class="portal-lector"></div>
+
+<footer class="portal-footer">
+
+  <div class="portal-footer-contenido">
+
+    <div>
+
+      <h3>EMPLEOS PERÚ HOY</h3>
+
+      <a href="/">Inicio</a>
+      <a href="/p/empleos.html">Empleos</a>
+      <a href="/p/becas.html">Becas</a>
+      <a href="/p/articulos.html">Artículos</a>
+
+    </div>
+
+    <div>
+
+      <h3>Información</h3>
+
+      <a href="#" data-contacto data-asunto="Contacto">Contacto</a>
+      <a href="#" data-contacto data-asunto="Publicar oferta de empleo o beca">Publica tu oferta</a>
+      <a href="/p/politica-de-privacidad.html">Política de privacidad</a>
+      <a href="/p/terminos-y-condiciones.html">Términos y condiciones</a>
+
+    </div>
+
+    <div>
+
+      <h3>Recomendaciones</h3>
+
+      <a href="/p/articulos.html">Consejos para buscar trabajo</a>
+      <a href="/p/articulos.html">Cómo armar tu CV</a>
+      <a href="/p/becas.html">Becas para estudiar</a>
+
+    </div>
+
+  </div>
+
+  <div class="portal-footer-legal">
+
+    EMPLEOS PERÚ HOY no es una agencia de empleo. Publicamos ofertas enlazando a las
+    plataformas oficiales de cada institución o empresa. La postulación se realiza
+    directamente en el sitio de origen.
+
+  </div>
+
+</footer>
+
+</div>

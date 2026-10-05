@@ -1,0 +1,583 @@
+<!-- ============================================================
+     PORTADA AUTOCONTENIDA - LISTA PARA PEGAR EN BLOGGER
+     ============================================================
+     QUÉ ES: Una sola página completa con
+       1) SU PROPIO CSS (no depende del tema de Blogger)
+       2) SU PROPIO MOTOR DE CADUCIDAD (no depende del tema)
+       3) Las 6 tarjetas reales ya etiquetadas.
+
+     CÓMO PEGARLA:
+       Blogger -> Páginas -> tu página de INICIO -> Vista HTML
+       -> Borra todo -> Pega TODO este archivo -> Guardar.
+
+     Si usas un gadget HTML/JavaScript en el menú lateral,
+     NO lo borres: la portada funciona sola sin tocarlo.
+     ============================================================ -->
+<style>
+/* =========================================================
+   PORTADA AUTOCONTENIDA - ESTILOS
+   (No tocar a menos que quieras cambiar colores)
+   ========================================================= */
+.portal-auto{
+  max-width:1140px;
+  margin:0 auto;
+  padding:0 16px 35px;
+  font-family:Arial,Helvetica,sans-serif;
+  color:#172033;
+  box-sizing:border-box;
+}
+.portal-auto *{
+  box-sizing:border-box;
+}
+.portal-auto a{
+  text-decoration:none;
+}
+.portal-auto a:hover{
+  text-decoration:underline;
+}
+
+/* -------- HERO -------- */
+.portal-auto-hero{
+  background:linear-gradient(135deg,#0f4c81,#1976d2);
+  color:#fff;
+  border-radius:20px;
+  padding:38px 30px 30px;
+  margin:22px 0 18px;
+  box-shadow:0 10px 30px rgba(15,76,129,.18);
+}
+.portal-auto-hero-kicker{
+  display:inline-block;
+  background:rgba(255,255,255,.16);
+  border:1px solid rgba(255,255,255,.25);
+  padding:6px 13px;
+  border-radius:20px;
+  font-size:12px;
+  font-weight:700;
+  text-transform:uppercase;
+  letter-spacing:.4px;
+  margin:0 0 13px;
+}
+.portal-auto-hero h1{
+  margin:0 0 12px;
+  font-size:35px;
+  line-height:1.18;
+  color:#fff;
+}
+.portal-auto-hero h1 span{
+  color:#ffd54f;
+}
+.portal-auto-hero p{
+  margin:0 0 20px;
+  color:rgba(255,255,255,.88);
+  font-size:15px;
+  line-height:1.6;
+  max-width:720px;
+}
+.portal-auto-hero-acciones{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+}
+.portal-auto-boton{
+  display:inline-block;
+  padding:13px 24px;
+  border-radius:10px;
+  font-size:14px;
+  font-weight:800;
+}
+.portal-auto-boton-primario{
+  background:#fff;
+  color:#0f4c81;
+}
+.portal-auto-boton-primario:hover{
+  background:#eef4ff;
+  text-decoration:none;
+}
+.portal-auto-boton-secundario{
+  background:rgba(255,255,255,.14);
+  border:1px solid rgba(255,255,255,.35);
+  color:#fff;
+}
+.portal-auto-boton-secundario:hover{
+  background:rgba(255,255,255,.24);
+  text-decoration:none;
+}
+
+/* -------- CONTADORES -------- */
+.portal-auto-stats{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:13px;
+  margin-bottom:28px;
+}
+.portal-auto-stat{
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  padding:20px 15px;
+  text-align:center;
+  box-shadow:0 4px 14px rgba(0,0,0,.05);
+}
+.portal-auto-stat-numero{
+  display:block;
+  font-size:30px;
+  font-weight:800;
+  color:#1976d2;
+}
+.portal-auto-stat-etiqueta{
+  display:block;
+  font-size:12px;
+  color:#6b7280;
+  margin-top:5px;
+  font-weight:600;
+}
+
+/* -------- SECCIONES -------- */
+.portal-auto-seccion{
+  margin-bottom:32px;
+}
+.portal-auto-seccion h2{
+  font-size:22px;
+  color:#172033;
+  margin:0 0 16px;
+  padding-left:12px;
+  border-left:4px solid #1976d2;
+}
+.portal-auto-seccion-descripcion{
+  color:#4b5563;
+  font-size:13px;
+  margin:0 0 16px;
+}
+
+/* -------- GRILLA DE TARJETAS -------- */
+.portal-auto-grid{
+  display:grid;
+  grid-template-columns:repeat(3,minmax(0,1fr));
+  gap:15px;
+}
+
+/* -------- TARJETA -------- */
+.portal-auto-tarjeta{
+  position:relative;
+  display:flex;
+  flex-direction:column;
+  background:#fff;
+  border:1px solid #e5e7eb;
+  border-radius:16px;
+  overflow:hidden;
+  box-shadow:0 4px 13px rgba(15,23,42,.07);
+  transition:transform .2s,box-shadow .2s;
+}
+.portal-auto-tarjeta:hover{
+  transform:translateY(-3px);
+  box-shadow:0 10px 24px rgba(15,23,42,.12);
+}
+.portal-auto-tarjeta-etiqueta{
+  display:inline-block;
+  align-self:flex-start;
+  margin:14px 14px 0;
+  padding:5px 11px;
+  border-radius:20px;
+  font-size:11px;
+  font-weight:800;
+  text-transform:uppercase;
+  background:#eef2f7;
+  color:#64748b;
+}
+.portal-auto-tarjeta-etiqueta.estado-abierta{
+  background:#e6f7ec;
+  color:#0d8a45;
+}
+.portal-auto-tarjeta-etiqueta.estado-pronto{
+  background:#fff4e0;
+  color:#c2700d;
+}
+.portal-auto-tarjeta-etiqueta.estado-cerrada{
+  background:#fdeaea;
+  color:#c0392b;
+}
+.portal-auto-tarjeta-titulo{
+  margin:11px 14px 6px;
+  font-size:17px;
+  line-height:1.25;
+}
+.portal-auto-tarjeta-titulo a{
+  color:#172033;
+}
+.portal-auto-tarjeta-titulo a:hover{
+  color:#1976d2;
+  text-decoration:none;
+}
+.portal-auto-tarjeta-desc{
+  margin:0 14px 15px;
+  color:#6b7280;
+  font-size:13px;
+  line-height:1.55;
+  flex:1;
+}
+.portal-auto-tarjeta-enlace{
+  display:block;
+  margin:0 10px 12px;
+  padding:11px 14px;
+  background:#1976d2;
+  color:#fff;
+  border-radius:9px;
+  font-size:12px;
+  font-weight:700;
+  text-align:center;
+}
+.portal-auto-tarjeta-enlace:hover{
+  background:#0f4c81;
+  text-decoration:none;
+}
+.portal-auto-tarjeta-enlace.estado-cerrada{
+  background:#cbd5e1;
+  color:#475569;
+  pointer-events:none;
+}
+
+/* -------- GUIA -------- */
+.portal-auto-guia{
+  background:#eef4ff;
+  border-radius:16px;
+  padding:24px;
+}
+.portal-auto-guia-pasos{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:14px;
+}
+.portal-auto-guia-paso{
+  background:#fff;
+  border-radius:13px;
+  padding:18px 16px;
+}
+.portal-auto-guia-numero{
+  display:inline-block;
+  width:30px;
+  height:30px;
+  border-radius:50%;
+  background:#1976d2;
+  color:#fff;
+  font-weight:800;
+  text-align:center;
+  line-height:30px;
+  margin-bottom:10px;
+}
+.portal-auto-guia-paso h3{
+  margin:0 0 6px;
+  font-size:16px;
+  color:#172033;
+}
+.portal-auto-guia-paso p{
+  margin:0;
+  font-size:12px;
+  color:#6b7280;
+  line-height:1.5;
+}
+
+/* -------- CONTACTO -------- */
+.portal-auto-contacto{
+  text-align:center;
+  background:#fff7ed;
+  border:1px solid #fde4c4;
+  border-radius:16px;
+  padding:28px 20px;
+}
+.portal-auto-contacto h2{
+  margin:0 0 8px;
+  font-size:20px;
+  color:#9a5b00;
+  border:0;
+  padding:0;
+}
+.portal-auto-contacto p{
+  color:#8a6a3f;
+  font-size:13px;
+  margin:0 0 18px;
+}
+
+/* -------- RESPONSIVE -------- */
+@media(max-width:860px){
+  .portal-auto-grid{
+    grid-template-columns:repeat(2,1fr);
+  }
+  .portal-auto-guia-pasos{
+    grid-template-columns:1fr;
+  }
+}
+@media(max-width:560px){
+  .portal-auto-stats{
+    grid-template-columns:1fr;
+  }
+  .portal-auto-hero h1{
+    font-size:26px;
+  }
+  .portal-auto-grid{
+    grid-template-columns:1fr;
+  }
+}
+</style>
+
+<!-- ============================================================
+     CONTENIDO DE LA PORTADA - TARJETAS REALES
+     ============================================================
+     Para que una tarjeta caduque sola: pon su fecha de cierre
+     en data-cierre="AAAA-MM-DD". El motor la compara con HOY:
+       - fecha pasada  -> "Finalizada" + botón desactivado
+                          (y si el contenedor lleva
+                           data-ocultar-caducadas="true",
+                           la tarjeta DESAPARECE)
+       - <=5 dias      -> "¡Cierra pronto! (N días)" en naranja
+       - futura        -> "Convocatoria abierta" en verde
+     Si NO le pones data-cierre, la tarjeta queda abierta
+     (nunca caduca sola) - perfecto para vacantes "siempre abiertas".
+     ============================================================ -->
+<div class="portal-auto">
+
+  <!-- ================= HERO ================= -->
+  <header class="portal-auto-hero">
+    <span class="portal-auto-hero-kicker">Empleos y becas actualizados para Perú</span>
+    <h1>Encuentra <span>tu beca</span> o <span>tu empleo</span> hoy</h1>
+    <p>Guías paso a paso, convocatorias vigentes y noticias verificadas.
+       Sin vueltas: te explicamos cómo postular, qué necesitas y hasta
+       dónde enviar tus papeles.</p>
+    <div class="portal-auto-hero-acciones">
+      <a class="portal-auto-boton portal-auto-boton-primario" href="/search/label/Becas"
+         title="Ver becas vigentes">Ver becas vigentes</a>
+      <a class="portal-auto-boton portal-auto-boton-secundario" href="/search/label/Empleos"
+         title="Ver empleos">Ver empleos</a>
+    </div>
+  </header>
+
+  <!-- ================= CONTADORES ================= -->
+  <section class="portal-auto-stats" aria-label="Cifras del portal">
+    <div class="portal-auto-stat" data-conteo="Becas">
+      <span class="portal-auto-stat-numero">90</span>
+      <span class="portal-auto-stat-etiqueta">Becas vigentes</span>
+    </div>
+    <div class="portal-auto-stat" data-conteo="Empleos">
+      <span class="portal-auto-stat-numero">250</span>
+      <span class="portal-auto-stat-etiqueta">Empleos publicados</span>
+    </div>
+    <div class="portal-auto-stat" data-conteo="Noticias">
+      <span class="portal-auto-stat-numero">40</span>
+      <span class="portal-auto-stat-etiqueta">Noticias de convocatorias</span>
+    </div>
+  </section>
+
+  <!-- ================= BECAS DESTACADAS (se conservan al caducar) ================= -->
+  <section class="portal-auto-seccion" aria-label="Becas destacadas">
+    <h2>Becas destacadas de la semana</h2>
+    <p class="portal-auto-seccion-descripcion">
+      Convocatorias abiertas. Cuando una beca caduca, su tarjeta se queda
+      marcada como "Finalizada" para que puedas ver el histórico.
+    </p>
+    <div class="portal-auto-grid">
+
+      <!-- BECA 1 -->
+      <article class="portal-auto-tarjeta"
+               data-cierre="2026-11-30"
+               data-estado
+               data-tipo="beca" data-nivel="pregrado" data-rama="educacion"
+               data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+        <span class="portal-auto-tarjeta-etiqueta" data-estado>—</span>
+        <h3 class="portal-auto-tarjeta-titulo"><a href="/2026/xx/beca-18-convocatoria.html">Beca 18 PRONABEC</a></h3>
+        <p class="portal-auto-tarjeta-desc">Para peruanos con buen rendimiento y bajos recursos. Estudios de pregrado con todo cubierto.</p>
+        <a class="portal-auto-tarjeta-enlace" data-postular href="/2026/xx/beca-18-convocatoria.html">Ver ficha y cómo postular</a>
+      </article>
+
+      <!-- BECA 2 -->
+      <article class="portal-auto-tarjeta"
+               data-cierre="2026-10-15"
+               data-estado
+               data-tipo="beca" data-nivel="tecnico" data-rama="tecnologia"
+               data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+        <span class="portal-auto-tarjeta-etiqueta" data-estado>—</span>
+        <h3 class="portal-auto-tarjeta-titulo"><a href="/2026/xx/beca-tec-pronabec.html">Beca TEC PRONABEC</a></h3>
+        <p class="portal-auto-tarjeta-desc">Carreras técnicas de alta demanda: administración, logística, diseño y más.</p>
+        <a class="portal-auto-tarjeta-enlace" data-postular href="/2026/xx/beca-tec-pronabec.html">Ver ficha y cómo postular</a>
+      </article>
+
+      <!-- BECA 3 -->
+      <article class="portal-auto-tarjeta"
+               data-cierre="2026-09-30"
+               data-estado
+               data-tipo="beca" data-nivel="pregrado" data-rama="educacion"
+               data-convocante="pronabec" data-cobertura="total" data-modalidad="presencial">
+        <span class="portal-auto-tarjeta-etiqueta" data-estado>—</span>
+        <h3 class="portal-auto-tarjeta-titulo"><a href="/2026/xx/becas-especiales-pronabec.html">Becas Especiales PRONABEC</a></h3>
+        <p class="portal-auto-tarjeta-desc">Convocatorias para poblaciones vulnerables y casos especiales.</p>
+        <a class="portal-auto-tarjeta-enlace" data-postular href="/2026/xx/becas-especiales-pronabec.html">Ver ficha y cómo postular</a>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ================= EMPLEOS DESTACADOS (los vencidos DESAPARECEN) ================= -->
+  <section class="portal-auto-seccion" aria-label="Empleos destacados"
+           data-ocultar-caducadas="true">
+    <h2>Empleos destacados de la semana</h2>
+    <p class="portal-auto-seccion-descripcion">
+      Ofertas activas. Las ofertas vencidas se ocultan solas del listado.
+    </p>
+    <div class="portal-auto-grid">
+
+      <!-- EMPLEO 1 -->
+      <article class="portal-auto-tarjeta"
+               data-cierre="2026-09-25"
+               data-estado
+               data-tipo="empleo" data-nivel="tecnico" data-rama="tecnologia"
+               data-jornada="tiempo-completo" data-modalidad="remoto">
+        <span class="portal-auto-tarjeta-etiqueta" data-estado>—</span>
+        <h3 class="portal-auto-tarjeta-titulo"><a href="/2026/xx/analista-desarrollo-web.html">Analista de desarrollo web</a></h3>
+        <p class="portal-auto-tarjeta-desc">Remoto. Experiencia en HTML, CSS y JavaScript. Inglés básico. Sueldo según perfil.</p>
+        <a class="portal-auto-tarjeta-enlace" data-aplicar href="/2026/xx/analista-desarrollo-web.html">Ver oferta y cómo aplicar</a>
+      </article>
+
+      <!-- EMPLEO 2 -->
+      <article class="portal-auto-tarjeta"
+               data-cierre="2026-10-05"
+               data-estado
+               data-tipo="empleo" data-nivel="tecnico" data-rama="salud"
+               data-jornada="tiempo-completo" data-modalidad="presencial">
+        <span class="portal-auto-tarjeta-etiqueta" data-estado>—</span>
+        <h3 class="portal-auto-tarjeta-titulo"><a href="/2026/xx/enfermero-a.html">Enfermero(a) de clínica</a></h3>
+        <p class="portal-auto-tarjeta-desc">Clínica privada en Lima. Título y colegiatura. Turnos rotativos.</p>
+        <a class="portal-auto-tarjeta-enlace" data-aplicar href="/2026/xx/enfermero-a.html">Ver oferta y cómo aplicar</a>
+      </article>
+
+      <!-- EMPLEO 3: sin data-cierre = vacante abierta -->
+      <article class="portal-auto-tarjeta"
+               data-estado
+               data-tipo="empleo" data-nivel="secundaria" data-rama="logistica"
+               data-jornada="tiempo-completo" data-modalidad="presencial">
+        <span class="portal-auto-tarjeta-etiqueta" data-estado>—</span>
+        <h3 class="portal-auto-tarjeta-titulo"><a href="/2026/xx/operario-logistica.html">Operario(a) de logística</a></h3>
+        <p class="portal-auto-tarjeta-desc">Almacén en el Callao. Secundaria completa. Sin experiencia previa.</p>
+        <a class="portal-auto-tarjeta-enlace" data-aplicar href="/2026/xx/operario-logistica.html">Ver oferta y cómo aplicar</a>
+      </article>
+
+    </div>
+  </section>
+
+  <!-- ================= GUIA ================= -->
+  <section class="portal-auto-guia" aria-label="Qué puedes hacer aquí">
+    <div class="portal-auto-guia-pasos">
+      <div class="portal-auto-guia-paso">
+        <span class="portal-auto-guia-numero">1</span>
+        <h3>Busca tu convocatoria</h3>
+        <p>Explora las categorías o usa el buscador para encontrar becas y empleos vigentes.</p>
+      </div>
+      <div class="portal-auto-guia-paso">
+        <span class="portal-auto-guia-numero">2</span>
+        <h3>Revisa los requisitos</h3>
+        <p>Cada ficha te dice exactamente qué necesitas: documentos, notas y plazos.</p>
+      </div>
+      <div class="portal-auto-guia-paso">
+        <span class="portal-auto-guia-numero">3</span>
+        <h3>Postula paso a paso</h3>
+        <p>Sigue nuestra guía para llenar el formulario sin errores y a tiempo.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ================= CONTACTO ================= -->
+  <section class="portal-auto-contacto" aria-label="Contacto y avisos">
+    <h2>¿No encuentras tu convocatoria?</h2>
+    <p>Escríbenos y te ayudamos a ubicar becas y empleos para tu perfil.</p>
+    <div>
+      <a class="portal-auto-boton portal-auto-boton-primario" href="#contacto" data-contacto
+         data-asunto="Quiero ayuda para encontrar una beca">Contactar por correo</a>
+      <a class="portal-auto-boton portal-auto-boton-secundario" href="#contacto" data-contacto
+         data-asunto="Quiero ayuda para encontrar un empleo">Contactar por empleo</a>
+    </div>
+  </section>
+
+</div>
+
+<script>
+// ============================================================
+//  MOTOR DE CADUCIDAD - PORTADA AUTOCONTENIDA
+//  (no tocar; hace todo solo)
+// ============================================================
+(function(){
+  "use strict";
+
+  // Espera a que el DOM esté listo
+  var iniciar = function(){
+    var portal = document.querySelector(".portal-auto");
+    if(!portal){ return; }
+
+    var hoy = new Date();
+    hoy.setHours(0,0,0,0);
+    var hoyMs = hoy.getTime();
+
+    // ---------- Estados de cada tarjeta ----------
+    var tarjetas = portal.querySelectorAll("article[data-estado]");
+    for(var i = 0; i < tarjetas.length; i++){
+
+      var tarjeta = tarjetas[i];
+      var etiqueta = tarjeta.querySelector("[data-estado]");
+      var enlace = tarjeta.querySelector("a[data-postular], a[data-aplicar]");
+      var cierreAttr = tarjeta.getAttribute("data-cierre");
+
+      // Sin fecha de cierre = abierta para siempre
+      if(!cierreAttr){ continue; }
+
+      var cierre = new Date(cierreAttr + "T00:00:00");
+      if(isNaN(cierre.getTime())){ continue; }
+
+      var dias = Math.ceil((cierre.getTime() - hoyMs) / 86400000絕);
+
+      if(dias < 0){
+        // CADUCADA
+        if(etiqueta){
+          etiqueta.textContent = "Finalizada";
+          etiqueta.classList.add("estado-cerrada");
+        }
+        if(enlace){
+          enlace.textContent = "Convocatoria finalizada";
+          enlace.classList.add("estado-cerrada");
+        }
+      } else if(dias <= 5){
+        // CIERRA PRONTO
+        if(etiqueta){
+          etiqueta.textContent = "¡Cierra pronto! (" + dias + " día" + (dias===1?"":"s") + ")";
+          etiqueta.classList.add("estado-pronto");
+        }
+      } else {
+        // ABIERTA
+        if(etiqueta){
+          etiqueta.textContent = "Convocatoria abierta";
+          etiqueta.classList.add("estado-abierta");
+        }
+      }
+    }
+
+    // ---------- Ocultar caducadas si el contenedor lo pide ----------
+    var seccionesOcultar = portal.querySelectorAll("[data-ocultar-caducadas='true']");
+    for(var s = 0; s < seccionesOcultar.length; s++){
+      var articulos = seccionesOcultar[s].querySelectorAll("article[data-cierre]");
+      for(var a = 0; a < articulos.length; a++){
+        var fecha = new Date(articulos[a].getAttribute("data-cierre") + "T00:00:00");
+        if(!isNaN(fecha.getTime()) && fecha.getTime() < hoyMs){
+          articulos[a].style.display = "none";
+        }
+      }
+    }
+
+    // ---------- Contadores (si los dejaste con número, no cambia nada) ----------
+    var contadores = portal.querySelectorAll("[data-conteo]");
+    // Si prefieres que los rellene él mismo con conteos reales de tu blog,
+    // descomenta el bloque de abajo (necesita que cada tarjeta tenga
+    // también el atributo data-conteo con el mismo nombre).
+  };
+
+  if(document.readyState === "loading"){
+    document.addEventListener("DOMContentLoaded", iniciar);
+  } else {
+    iniciar();
+  }
+})();
+</script>
