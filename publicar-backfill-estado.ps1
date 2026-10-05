@@ -1,4 +1,4 @@
-# publicar-backfill-estado.ps1 - paso final del backfill del Estado:
+﻿# publicar-backfill-estado.ps1 - paso final del backfill del Estado:
 #   1) reintenta las URLs que fallaron (generar-lote -ReintentarFallidas)
 #   2) mueve a reporte\rechazadas\ los HTML que siguen fallando (no se publican)
 #   3) publica todo lo que quedo OK (publicar-blogger -Si)

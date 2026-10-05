@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467222",
+    "clave":  "id:1118467222",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/promotora-de-venta-embajador-de-marca-1118467222.html",
+                   "capturadoEn":  "2026-10-04T20:36:53-05:00"
+               },
+    "titulo":  "Promotor(a) de venta - Embajador de Marca",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Piura",
+    "ciudad":  "Piura",
+    "region":  "Piura",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Únete a nuestro equipo como Promotor de Ventas - Tecnología Premium! ¿Te apasiona la tecnología, la innovación y el mundo de los dispositivos inteligentes? ¿Disfrutas conectar con los clientes, brindar asesoría personalizada y transformar cada visita en una experiencia memorable dentro del ecosistema digital? Buscamos personas con actitud comercial, energía y pasión por brindar experiencias excepcionales en el sector tecnológico. Tendrás la oportunidad de representar a un referente mundial en smartphones, computadoras, wearables y tecnología de vanguardia, conectando la innovación y practicidad de sus productos con nuestros consumidores. ¿Cuál será tu reto? Asesorar a nuestros clientes en soluciones tecnológicas integrales y brindar una experiencia de compra excepcional. Impulsar las ventas y contribuir al cumplimiento de los objetivos comerciales. Representar a la marca con pasión, conocimiento técnico, actitud y excelencia. Garantizar una correcta ejecución de los estándares visuales de la marca en el punto de venta. Mantener una excelente presentación y cuidado del espacio, equipos de exhibición ( demos ), accesorios y materiales promocionales. ¿Qué buscamos? Mínimo 2 años de experiencia en ventas como promotor(a), vendedor(a) o posiciones similares, idealmente en productos tecnológicos, telefonía o retail de gama alta. Marcada orientación comercial y pasión por la atención al cliente. Proactividad, comunicación fluida y orientación a resultados. Afinidad, curiosidad e interés constante por el ecosistema tecnológico e innovación digital. Manejo básico de Office y herramientas digitales. ¿Qué encontrarás con nosotros? Sueldo fijo + comisiones por desempeño. Capacitación técnica continua y desarrollo profesional en tecnología de vanguardia. Participación en utilidades. Descuentos corporativos en nuestros productos. La oportunidad de desarrollarte en un entorno de primer nivel y trabajar con tecnología líder en el mercado global. ¡Lleva tu talento al siguiente nivel! Si te apasionan las ventas, la tecnología y crear experiencias memorables para los usuarios, queremos conocerte. ¡Postula y sé parte de la evolución tecnológica!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2027-01-30",
+    "url":  "https://www.bumeran.com.pe/empleos/promotora-de-venta-embajador-de-marca-1118467222.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/promotora-de-venta-embajador-de-marca-1118467222.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

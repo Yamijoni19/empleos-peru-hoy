@@ -1,0 +1,89 @@
+[2026-10-04 20:43:14] mapa url->archivo local: 242 publicaciones registradas
+[2026-10-04 20:43:16] feed leido: 150 posts (total reportado: 2835, paginas: 1)
+[2026-10-04 20:43:16] copia de seguridad: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl  (150 posts con contenido)
+[2026-10-04 20:43:52] mapa url->archivo local: 242 publicaciones registradas
+[2026-10-04 20:44:10] feed leido: 2833 posts (total reportado: 2835, paginas: 19)
+[2026-10-04 20:44:14] copia de seguridad: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl  (2833 posts con contenido)
+[2026-10-04 20:44:21] duplicados detectados: 810
+[2026-10-04 20:44:24] 
+[2026-10-04 20:44:24] === RESUMEN INSPECCION ===
+[2026-10-04 20:44:24]   fuente de datos : feed publico (solo lectura)
+[2026-10-04 20:44:24]   posts inspeccionados: 2833
+[2026-10-04 20:44:24]   clase A: 1362
+[2026-10-04 20:44:24]   clase B: 1
+[2026-10-04 20:44:24]   clase C: 810
+[2026-10-04 20:44:24]   clase D: 24
+[2026-10-04 20:44:24]   clase E: 2
+[2026-10-04 20:44:24]   clase F: 6
+[2026-10-04 20:44:24]   clase G: 628
+[2026-10-04 20:44:24]   acciones propuestas: RETIRAR=836 | CORREGIR=7
+[2026-10-04 20:44:24]   cola de correcciones PENDIENTE: 843  -> C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\cola-correcciones.jsonl
+[2026-10-04 20:44:24]   conservados (incluye incertidumbre): 1990
+[2026-10-04 20:44:24]   con propuesta de contenido: 124
+[2026-10-04 20:44:24]   clasificacion: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.jsonl
+[2026-10-04 20:44:24]   csv          : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.csv
+[2026-10-04 20:44:24]   respaldo     : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl
+[2026-10-04 20:46:35] mapa url->archivo local: 242 publicaciones registradas
+[2026-10-04 20:46:51] feed leido: 2833 posts (total reportado: 2835, paginas: 19)
+[2026-10-04 20:46:55] copia de seguridad: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl  (2833 posts con contenido)
+[2026-10-04 20:47:02] duplicados detectados: 5
+[2026-10-04 20:47:03] 
+[2026-10-04 20:47:03] === RESUMEN INSPECCION ===
+[2026-10-04 20:47:03]   fuente de datos : feed publico (solo lectura)
+[2026-10-04 20:47:03]   posts inspeccionados: 2833
+[2026-10-04 20:47:03]   clase A: 1844
+[2026-10-04 20:47:03]   clase B: 1
+[2026-10-04 20:47:03]   clase C: 5
+[2026-10-04 20:47:03]   clase D: 24
+[2026-10-04 20:47:03]   clase E: 2
+[2026-10-04 20:47:03]   clase F: 6
+[2026-10-04 20:47:03]   clase G: 951
+[2026-10-04 20:47:03]   acciones propuestas: CORREGIR=1 | RETIRAR=31
+[2026-10-04 20:47:03]   cola de correcciones PENDIENTE: 32  -> C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\cola-correcciones.jsonl
+[2026-10-04 20:47:03]   conservados (incluye incertidumbre): 2801
+[2026-10-04 20:47:03]   con propuesta de contenido: 118
+[2026-10-04 20:47:03]   clasificacion: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.jsonl
+[2026-10-04 20:47:03]   csv          : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.csv
+[2026-10-04 20:47:03]   respaldo     : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl
+[2026-10-04 20:48:43] mapa url->archivo local: 242 publicaciones registradas
+[2026-10-04 20:48:56] feed leido: 2833 posts (total reportado: 2835, paginas: 19)
+[2026-10-04 20:49:00] copia de seguridad: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl  (2833 posts con contenido)
+[2026-10-04 20:49:07] duplicados detectados: 5
+[2026-10-04 20:49:09] 
+[2026-10-04 20:49:09] === RESUMEN INSPECCION ===
+[2026-10-04 20:49:09]   fuente de datos : feed publico (solo lectura)
+[2026-10-04 20:49:09]   posts inspeccionados: 2833
+[2026-10-04 20:49:09]   clase A: 1824
+[2026-10-04 20:49:09]   clase C: 5
+[2026-10-04 20:49:09]   clase D: 45
+[2026-10-04 20:49:09]   clase E: 2
+[2026-10-04 20:49:09]   clase F: 6
+[2026-10-04 20:49:09]   clase G: 951
+[2026-10-04 20:49:09]   acciones propuestas: CORREGIR=1 | RETIRAR=52
+[2026-10-04 20:49:09]   cola de correcciones PENDIENTE: 53  -> C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\cola-correcciones.jsonl
+[2026-10-04 20:49:09]   conservados (incluye incertidumbre): 2780
+[2026-10-04 20:49:09]   con propuesta de contenido: 119
+[2026-10-04 20:49:09]   clasificacion: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.jsonl
+[2026-10-04 20:49:09]   csv          : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.csv
+[2026-10-04 20:49:09]   respaldo     : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl
+[2026-10-04 20:49:34] mapa url->archivo local: 242 publicaciones registradas
+[2026-10-04 20:49:48] feed leido: 2833 posts (total reportado: 2835, paginas: 19)
+[2026-10-04 20:49:51] copia de seguridad: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl  (2833 posts con contenido)
+[2026-10-04 20:49:58] duplicados detectados: 5
+[2026-10-04 20:49:59] 
+[2026-10-04 20:49:59] === RESUMEN INSPECCION ===
+[2026-10-04 20:49:59]   fuente de datos : feed publico (solo lectura)
+[2026-10-04 20:49:59]   posts inspeccionados: 2833
+[2026-10-04 20:49:59]   clase A: 1824
+[2026-10-04 20:49:59]   clase C: 5
+[2026-10-04 20:49:59]   clase D: 45
+[2026-10-04 20:49:59]   clase E: 2
+[2026-10-04 20:49:59]   clase F: 6
+[2026-10-04 20:49:59]   clase G: 951
+[2026-10-04 20:49:59]   acciones propuestas: CORREGIR=1 | RETIRAR=52
+[2026-10-04 20:49:59]   cola de correcciones PENDIENTE: 53  -> C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\cola-correcciones.jsonl
+[2026-10-04 20:49:59]   conservados (incluye incertidumbre): 2780
+[2026-10-04 20:49:59]   con propuesta de contenido: 119
+[2026-10-04 20:49:59]   clasificacion: C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.jsonl
+[2026-10-04 20:49:59]   csv          : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\clasificacion-20261004.csv
+[2026-10-04 20:49:59]   respaldo     : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\inventario-20261004.jsonl

@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467216",
+    "clave":  "id:1118467216",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-contenido-creativo-marcial-trinidad-1118467216.html",
+                   "capturadoEn":  "2026-10-04T20:37:06-05:00"
+               },
+    "titulo":  "Asistente de Marketing y Contenido Creativo",
+    "empresa":  "Marcial Trinidad",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.300 - S/ 1.500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Marketing y Contenido Creativo Resumen del Puesto Buscamos un Asistente de Marketing y Contenido Creativo proactivo y con gran iniciativa para unirse a nuestro equipo. Esta es una excelente oportunidad para personas con ganas de aprender, desarrollar su creatividad y adquirir experiencia práctica en un entorno dinámico. Responsabilidades Colaborar en la creación de contenido atractivo para plataformas digitales. Realizar grabaciones y tomas fotográficas de productos y actividades. Asistir en la edición básica de material audiovisual. Diseñar elementos visuales sencillos utilizando herramientas de diseño. Apoyar en la organización y programación de publicaciones en redes sociales. Contribuir a la actualización de contenido en plataformas web. Ayudar en la elaboración de material visual para diversas campañas y eventos. Participar en proyectos creativos y de marketing. Perfil Buscado Persona con alta motivación, iniciativa y creatividad. Actitud positiva y disposición para el aprendizaje continuo. Interés en desarrollarse profesionalmente en las áreas de marketing, diseño o comunicaciones. Se valorará formación académica o experiencia inicial en carreras afines. Capacidad para trabajar en equipo y seguir instrucciones.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-contenido-creativo-marcial-trinidad-1118467216.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-contenido-creativo-marcial-trinidad-1118467216.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467221",
+    "clave":  "id:1118467221",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-supply-lactalis-peru-1118467221.html",
+                   "capturadoEn":  "2026-10-04T20:36:55-05:00"
+               },
+    "titulo":  "Asistente de Supply",
+    "empresa":  "LACTALIS PERU",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f4e3; Lactalis Perú está en búsqueda de Asistente de Logística \u0026#x1f4e3; \u0026#x1f4e2; Será reponsable de gestionar el stock de nuestros almacenes, las recepciones y despachos del almacén; siguiendo las politicas de abastecimiento de la compañía. Formamos parte del Grupo Lactalis, el mayor grupo lácteo del mundo, operando en más de 11 países, unidos con un mismo propósito: Nutrir el Futuro de nuestros consumidores en la región , llegando con productos de calidad, sabrosos y nutritivos (Alula | Pedialact | Président | Kraft | Parmalat). Responsabilidades \u0026#x1f4da; Gestión de proveedores logísticos, de almacenes y de transportes. Atender los requerimientos de transferencias y despachos de la compañía. Coordinar y gestionar todo el proceso de almacenamiento y abastecimiento desde el contacto con el área logística del cliente, procesamiento de OC para picking, recepciones y validación documentaria para los ingresos y salidas de los almacenes. Gestionar las conciliaciones de inventarios y medir nivel de servicio de proveedores logísticos. Soporte en toma de inventarios mensuales. Emisión de GR y facturas. Control y seguimiento de rutas, despachos e incidencias de ruteo. Llenado de reporteria de ANS y atención de clientes. Requisitos \u0026#x1f4cd; Profesional técnico egresado (deseable) Experiencia en gestión de almacenes y operaciones logísticas que incluyan despacho de ultima milla Experiencia en gestión de almacenes con BPA y productos perecibles, y cadena de frio Manejo de excel - nivel intermedio (indispensable) Manejo de SAP / DINAMYCS Habilidades : Pensamiento analítico | Orientación al cliente | Comunicación efectiva Convocatoria: \u0026#x1f4e7; Sólo se aceptarán postulaciones de profesionales residentes en la ciudad de LIMA.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-supply-lactalis-peru-1118467221.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-supply-lactalis-peru-1118467221.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

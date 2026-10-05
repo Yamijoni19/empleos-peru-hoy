@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467208",
+    "clave":  "id:1118467208",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-talent-peru-mas-1118467208.html",
+                   "capturadoEn":  "2026-10-04T20:37:24-05:00"
+               },
+    "titulo":  "Asistente Contable",
+    "empresa":  "TALENT PERU MAS",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  1701,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.700 - S/ 1.701",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Contable Resumen del Puesto Buscamos un Asistente Contable con formación técnica o universitaria y 1 a 2 años de experiencia para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en contabilidad y estará capacitado para apoyar en diversas funciones financieras. Responsabilidades Registrar y controlar las operaciones contables de ingresos, egresos y gastos. Realizar la liquidación diaria de caja, sustentada con la documentación correspondiente. Contrastar la liquidación de ventas con la información generada en el sistema. Elaborar reportes mensuales de ingresos y egresos. Apoyar en la gestión de almacén, logística y operaciones de transporte. Requisitos Formación técnica superior completa como mínimo en Contabilidad, Administración o carreras afines. Experiencia mínima como Auxiliar Contable. Experiencia en puestos similares en empresas de transporte y/o servicios, deseable. Manejo de hojas de cálculo. Conocimientos de sistemas contables y emisión de comprobantes de pago. Capacidad para trabajar bajo presión y tomar decisiones. Capacidad de planificación, coordinación y organización.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-talent-peru-mas-1118467208.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-talent-peru-mas-1118467208.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

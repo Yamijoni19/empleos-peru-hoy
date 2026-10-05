@@ -1,5 +1,0 @@
-{
-  "modo": "local",
-  "nota": "local = la PC ejecuta el flujo; nube = GitHub Actions ejecuta flujo-principal.ps1 -Nube y los .cmd locales se salten (evita dos pipelines contra el mismo Blogger).",
-  "ultimoCambio": "2026-10-04"
-}

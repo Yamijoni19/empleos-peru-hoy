@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467209",
+    "clave":  "id:1118467209",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-tai-loy-s.-a.-1118467209.html",
+                   "capturadoEn":  "2026-10-04T20:37:20-05:00"
+               },
+    "titulo":  "Asistente de Almacén",
+    "empresa":  "Tai Loy S. A.",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Tai Loy es una empresa peruana líder en la comercialización y distribución de útiles escolares, artículos de oficina, productos tecnológicos, juguetes y diversas categorías para el hogar y el entretenimiento. Contamos con una amplia presencia a nivel nacional y un equipo de colaboradores comprometidos con brindar una excelente experiencia a nuestros clientes. Nuestro crecimiento nos impulsa a incorporar nuevos talentos que quieran desarrollarse profesionalmente y asumir nuevos desafíos. En Tai Loy promovemos un ambiente de trabajo basado en la colaboración, el aprendizaje y el desarrollo de las personas, ofreciendo oportunidades para crecer junto a una empresa en constante evolución. ¡ Únete a nuestro equipo como Asistente de Almacén ! ¿Eres egresado universitario y buscas tu primera oportunidad para crecer en logística? En nuestro Centro de Distribución en Villa El Salvador queremos contar con tu talento. Requisitos Formación: Egresado universitario en Ingeniería Industrial, Administración o carreras afines. Alto interés por laborar en un Centro de Distribución de última generación. Experiencia: ¡Sin experiencia! Queremos impulsar tu desarrollo profesional. Disponibilidad: Para laborar en horarios rotativos (diurnos y nocturnos) en Villa El Salvador. Principales retos Apoyar en el control y supervisión de las operaciones de recepción, almacenamiento y despacho. Participar en conteos cíclicos y verificación de exactitud de inventarios. Coordinar con las áreas operativas para optimizar los flujos de distribución. Velar por el cumplimiento de las normas de orden, trazabilidad y seguridad en el CD. ¿Qué ofrecemos? Ingreso a planilla con todos los beneficios de ley. Oportunidad de aprendizaje y desarrollo profesional. Línea de carrera dentro de una empresa líder en el sector. Excelente clima laboral. ¿Cumples con el perfil? Postula adjuntando tu CV actualizado por este medio. ¡Esperamos tu postulación! Requisitos: Requisitos Formación: Egresado universitario en Ingeniería Industrial, Administración o carreras afines. Alto interés por laborar en un Centro de Distribución de última generación. Experiencia: ¡Sin experiencia! Queremos impulsar tu desarrollo profesional. Disponibilidad: Para laborar en horarios rotativos (diurnos y nocturnos) en Villa El Salvador. Beneficios Ingreso a planilla con todos los beneficios de ley. Oportunidad de aprendizaje y desarrollo profesional. Línea de carrera dentro de una empresa líder en el sector. Excelente clima laboral.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-tai-loy-s.-a.-1118467209.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-tai-loy-s.-a.-1118467209.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

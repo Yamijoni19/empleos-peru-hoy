@@ -13,7 +13,7 @@ rem ============================================================
 setlocal
 cd /d "%~dp0"
 rem --- guard: si config\ejecucion.json = nube, no correr (GitHub Actions publica) ---
-powershell -NoProfile -ExecutionPolicy Bypass -Command "try { if ((Get-Content '%~dp0config\ejecucion.json' -Raw | ConvertFrom-Json).modo -eq 'nube') { exit 1 } } catch { } ; exit 0"
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$m=''; try { $m=(Get-Content '%~dp0config\publicacion.json' -Raw | ConvertFrom-Json).modo } catch { }; if ($m -eq 'nube') { exit 1 } else { exit 0 }"
 if errorlevel 1 (
   echo == SALTADO: modo nube - corre el pipeline de GitHub Actions %DATE% %TIME% >> "%~dp0reporte\diario-privado.log"
   endlocal & exit /b 0

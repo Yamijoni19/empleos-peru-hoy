@@ -1,25 +1,36 @@
 {
-  "comentario": "Configuracion unica del flujo BUMERAN (privado) + convocatoriasdetrabajo.com (estado). Todo se cambia AQUI, sin tocar codigo.",
+  "comentario": "CONFIGURACION UNICA del flujo BUMERAN (privado) + convocatoriasdetrabajo.com (estado). Todo se cambia AQUI, sin tocar codigo.",
+  "modo": "local",
+  "modoNota": "local = ejecuta la PC (.cmd / tareas programadas). nube = ejecuta GitHub Actions y los .cmd locales se saltan (evita dos pipelines contra el mismo Blogger).",
+
   "maxPorCorrida": 5,
+  "maxPorCorridaNota": "Limite inicial de seguridad (no es permanente): subir a 20 / 50 / 100 / 200 aqui o con -MaxPorCorrida 50. Nunca existe corrida ilimitada.",
+
+  "topeAbsoluto": 100,
+  "factorAnomalia": 3.0,
+  "ventanaAnomalia": 7,
+  "frecuenciaScheduler": 60,
+  "permitirBackfill": false,
+
   "publicacion": {
     "activada": false,
-    "nota": "SEGUARDAD: Blogger responde 429 (cuota agotada). Para publicar cuando vuelva a aceptar escritura: poner activada=true AQUI. Sin modificar codigo."
+    "nota": "SEGURO: Blogger responde 429 (cuota agotada). Para publicar cuando vuelva a aceptar escritura: poner activada=true AQUI. Sin activada=true NO se hace ni un GET/POST/PATCH/DELETE."
   },
   "backfill": {
     "activado": false,
-    "nota": "Los 4.114 historicos del baseline quedan bloqueados. Solo se habilitan con activado=true y ademas -Backfill en publicar-blogger.ps1."
+    "nota": "Los 4.114 historicos del baseline quedan bloqueados. Solo se habilitan con permitirBackfill=true/activado=true Y ademas -Backfill en publicar-blogger.ps1."
   },
   "cooldown429": {
     "minutos": 240,
-    "nota": "Tras un 429 se registra fecha/hora+error en datos/cola/registro-429.txt, se corta la corrida, se conserva la cola y NO se vuelve a intentar hasta cumplir este cooldown (ademas de esperar a la siguiente ejecucion programada)."
+    "nota": "Tras un 429 se registra fecha/hora+error en datos/cola/registro-429.txt, se corta la corrida sin reintentos, se conserva la cola y NO se vuelve a intentar hasta cumplir este cooldown."
   },
   "scheduler": {
     "frecuenciaMin": 60,
-    "nota": "Frecuencia del pipeline en la nube (.github/workflows/pipeline.yml). La captura es incremental: solo ofertas nuevas/actualizadas."
+    "nota": "Frecuencia del pipeline en la nube (.github/workflows/pipeline.yml, cron). La captura es incremental: solo ofertas nuevas/actualizadas."
   },
   "cola": {
     "prioridades": ["NUEVA", "ACTUALIZADA", "CORRECCION", "EXPIRADA", "HISTORICA"],
-    "nota": "Automatica solo NUEVA. HISTORICA solo con -Backfill. ACTUALIZADA/CORRECCION solo con -PublicarActualizaciones/-PublicarCorrecciones (hoy se encolan, no publican). EXPIRADA jamas."
+    "nota": "Automatica solo NUEVA. HISTORICA solo con -Backfill. ACTUALIZADA/CORRECCION actualizan el post existente (aplicar-correcciones.ps1), nunca crean otro. EXPIRADA jamas."
   },
   "anomalia": {
     "activa": true,
@@ -27,6 +38,12 @@
     "maxTitulosRepetidos": 3,
     "factorSobreMedia": 3.0,
     "ventanaDias": 7,
-    "nota": "Controla COMPORTAMIENTO ANOMALO, no el crecimiento normal: subir topeAbsoluto si se decide publicar mas de 100 por corrida."
+    "nota": "Controla COMPORTAMIENTO ANOMALO (tope, titulos repetidos, 3x la media de la ventana), no el crecimiento normal: subir topeAbsoluto si se decide publicar mas de 100 por corrida."
+  },
+  "correcciones": {
+    "activadas": false,
+    "maxPorCorrida": 10,
+    "pausaMs": 2500,
+    "nota": "Mantenimiento historico de posts YA publicados (aplicar-correcciones.ps1). Mismo esquema de seguridad: activadas=true + sin cooldown 429 + limite por corrida + pausa + corte inmediato ante 429. Nunca se aplica sin -Aplicar."
   }
 }

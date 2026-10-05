@@ -1,4 +1,4 @@
-# watchdog-publicar.ps1 - relanza publicar-blogger.ps1 si murio y quedan
+﻿# watchdog-publicar.ps1 - relanza publicar-blogger.ps1 si murio y quedan
 # pendientes. Corre cada 15 min via tarea programada EmpleosPublicarWatchdog.
 $raiz = 'C:\Users\Dell G3 Gaming\Documents\Default Project'
 $log  = Join-Path $raiz 'reporte\watchdog.log'

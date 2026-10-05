@@ -86,6 +86,7 @@ New-Item -ItemType Directory -Path (Join-Path $raiz "config") -Force | Out-Null
 
 # Defaults TEMPORALES (freno de emergencia mientras Blogger responde 429).
 $Cfg = @{
+    modo          = 'local'
     maxPorCorrida = 5
     cola          = @{ prioridades = @('NUEVA', 'ACTUALIZADA', 'CORRECCION', 'EXPIRADA', 'HISTORICA') }
     anomalia      = @{ activa = $true; topeAbsoluto = 100; maxTitulosRepetidos = 3; factorSobreMedia = 3.0; ventanaDias = 7 }
@@ -112,6 +113,13 @@ if (Test-Path $CfgColaPath) {
         if ($j.backfill -and $null -ne $j.backfill.activado)       { $Cfg.backfill.activado = [bool]$j.backfill.activado }
         if ($j.cooldown429 -and $null -ne $j.cooldown429.minutos)  { $Cfg.cooldown429.minutos = [int]$j.cooldown429.minutos }
         if ($j.scheduler -and $null -ne $j.scheduler.frecuenciaMin) { $Cfg.scheduler.frecuenciaMin = [int]$j.scheduler.frecuenciaMin }
+        # --- llaves planas de config\publicacion.json: mandan sobre las anidadas ---
+        if ($null -ne $j.topeAbsoluto)        { $Cfg.anomalia.topeAbsoluto     = [int]$j.topeAbsoluto }
+        if ($null -ne $j.factorAnomalia)      { $Cfg.anomalia.factorSobreMedia = [double]$j.factorAnomalia }
+        if ($null -ne $j.ventanaAnomalia)     { $Cfg.anomalia.ventanaDias      = [int]$j.ventanaAnomalia }
+        if ($null -ne $j.permitirBackfill)    { $Cfg.backfill.activado         = [bool]$j.permitirBackfill }
+        if ($null -ne $j.frecuenciaScheduler) { $Cfg.scheduler.frecuenciaMin   = [int]$j.frecuenciaScheduler }
+        if ($j.modo) { $Cfg.modo = [string]$j.modo }
     } catch { Write-Host ("  AVISO: config\publicacion.json ilegible, se usan los defaults temporales (" + $_.Exception.Message + ")") }
 }
 
@@ -389,12 +397,14 @@ function Api([string]$Metodo, [string]$Uri, $Cuerpo, [int]$Reintentos = 6) {
                 $script:token.access_token = $t.access_token
                 continue
             }
-            if ($cod -eq 429 -and $intento -le $Reintentos) {
+            if ($cod -eq 429) {
+                # 429 = cuota agotada: CORTE INMEDIATO. Ni reintentos ni esperas;
+                # el llamador registra fecha/hora, activa cooldown y conserva la cola.
                 $det = ""
                 try { if ($_.ErrorDetails -and $_.ErrorDetails.Message) { $det = $_.ErrorDetails.Message } } catch { }
-                if ($det -ne "") { Write-Host ("  429 (" + $intento + "/" + $Reintentos + "): " + $det.Substring(0, [Math]::Min(200, $det.Length))) }
-                Start-Sleep -Seconds ([Math]::Min(60, 10 * $intento))
-                continue
+                $script:hubo429 = $true
+                if ($det -ne "") { throw ("429 Too Many Requests: " + $det.Substring(0, [Math]::Min(300, $det.Length))) }
+                throw "429 Too Many Requests (cuota de Blogger agotada)"
             }
             if ($cod -eq 403 -and $intento -le $Reintentos) {
                 Start-Sleep -Seconds ([Math]::Min(30, [Math]::Pow(2, $intento)))

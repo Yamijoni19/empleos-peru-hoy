@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467218",
+    "clave":  "id:1118467218",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-gobierno-ti-yamaha-motor-del-peru-s.a.-1118467218.html",
+                   "capturadoEn":  "2026-10-04T20:37:02-05:00"
+               },
+    "titulo":  "Practicante Gobierno TI",
+    "empresa":  "Yamaha Motor del Perú S.A.",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Hola motero(a) Yamaha! \u0026#x1f3cd;️ Nos encontramos en la búsqueda de una nueva pieza que nos haga vibrar con la pasión por la marca y por su carrera; en esta oportunidad como Practicante Gobierno - TI . El objetivo principal del puesto es brindar soporte a los procesos de gobierno del área de TI , con enfoque de negocio (no técnico). \u0026#x1f680; ¿Cómo contribuirías con el equipo? Apoyar en la gestión de proveedores del área, control documentario y financiero. Apoyar en la gestión de indicadores TI y su reporte a las gerencias correspondientes. Apoyar en el control presupuestario del área , gestión documentaria y presentación de KPIs. Brindar soporte en capacitaciones funcionales de aplicaciones a demanda. Apoyar en la generación de documentación de proyectos y manuales operativos. \u0026#x1f3af; El perfil que buscamos. Estudiante en los últimos ciclos o Egresado Técnico o Universitario de la carrera de administración o afines. Experiencia de 3 meses realizando practicas pre profesionales (deseable). Inglés Intermedio. Manejo de Ofimática a nivel intermedio, especialmente Word y PowerPoint. ¿Qué ofrecemos? Convenio de Prácticas Profesionales. Alimentación cubierta al 100% Buen ambiente laboral. Descuentos corporativos de nuestros productos. Aprendizaje constante. ¡Queremos conocerte!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2026-12-31",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-gobierno-ti-yamaha-motor-del-peru-s.a.-1118467218.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-gobierno-ti-yamaha-motor-del-peru-s.a.-1118467218.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

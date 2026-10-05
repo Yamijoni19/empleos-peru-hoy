@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467220",
+    "clave":  "id:1118467220",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-planeamiento-corto-plazo-compania-minera-arequipa-minera-bateas-1118467220.html",
+                   "capturadoEn":  "2026-10-04T20:36:58-05:00"
+               },
+    "titulo":  "Ingeniero planeamiento Corto plazo - Compañía Minera - Arequipa",
+    "empresa":  "MINERA BATEAS",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos Minera Bateas , compañía subsidiaria de Fortune Mining Corp, dedicada a la extracción de minerales polimetálicos, con presencia en la zona sur del país. Actualmente, nos encontramos en búsqueda de un(a) Ingeniero planeamiento corto plazo para nuestra unidad minera. Buscamos personas proactivas, organizadas y con interés en desarrollarse en el área. Funciones Elaborar y actualizar los planes de producción de corto plazo (semanales y mensuales), de acuerdo con los objetivos de la operación. Realizar el secuenciamiento y programación de las labores mineras, considerando avances, recursos y restricciones operativas. Realizar el seguimiento al cumplimiento del plan, analizando desviaciones de producción, tonelaje, leyes, dilución y recuperación. Coordinar con Operaciones Mina, Geología, Geomecánica y demás áreas involucradas para asegurar la ejecución del plan. Actualizar los diseños y planes de minado de acuerdo con las condiciones y avances de la operación. Elaborar reportes e indicadores de cumplimiento, proponiendo acciones correctivas ante desviaciones. Cumplir y promover los estándares de seguridad, salud ocupacional y medio ambiente. Requisitos Titulado, colegiado y habilitado en Ingeniería de Minas, Geológica, Civil o carreras afines. Especialización o conocimientos en Planeamiento y Planificación Minera. Mínimo 5 años de experiencia en planeamiento minero, preferentemente en operaciones subterráneas. Experiencia en planeamiento y programación de corto plazo (semanal y mensual). Experiencia en secuenciamiento de labores, control de avances y seguimiento de producción. Conocimiento y manejo de Deswik y/o Datamine. Conocimiento en indicadores de producción: tonelaje, leyes, dilución, recuperación y cumplimiento del plan. Capacidad para analizar desviaciones y proponer acciones correctivas y mejoras al plan. Disponibilidad para trabajar bajo régimen 14x7 y en altura superior a 4,500 m s. n. m Beneficios Ingreso a planilla con todos los beneficios de ley desde el primer día. Alimentación y hospedaje cubiertos durante los días de trabajo. Participacion de Utilidades ¡No pierdas la oportunidad de iniciar o continuar tu desarrollo profesional en Minera Bateas y ser parte de una empresa comprometida con el crecimiento de la minería en el país!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-02",
+    "fecha_cierre":  "2027-01-30",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-planeamiento-corto-plazo-compania-minera-arequipa-minera-bateas-1118467220.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-planeamiento-corto-plazo-compania-minera-arequipa-minera-bateas-1118467220.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

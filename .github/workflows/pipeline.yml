@@ -52,7 +52,7 @@ jobs:
       - name: Estado de la ejecucion
         shell: pwsh
         run: |
-          Write-Host "modo: $(try { (Get-Content config/ejecucion.json -Raw | ConvertFrom-Json).modo } catch { '?' })"
+          Write-Host "modo: $(try { (Get-Content config/publicacion.json -Raw | ConvertFrom-Json).modo } catch { '?' })"
           Write-Host "publicacion.activada: $(try { (Get-Content config/publicacion.json -Raw | ConvertFrom-Json).publicacion.activada } catch { '?' })"
           Write-Host "maxPorCorrida: $(try { (Get-Content config/publicacion.json -Raw | ConvertFrom-Json).maxPorCorrida } catch { '?' })"
 
