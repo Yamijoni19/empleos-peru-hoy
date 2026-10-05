@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467447",
+    "clave":  "id:1118467447",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-seguridad-resocusco-1118467447.html",
+                   "capturadoEn":  "2026-10-05T10:26:21+00:00"
+               },
+    "titulo":  "Personal de Seguridad",
+    "empresa":  "RESOCUSCO",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1000,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Sé parte de RESOCUSCO! Somos una empresa cusqueña especializada en resonancia magnética, comprometida con una atención segura, cálida y de calidad. Buscamos personas responsables, comprometidas y con vocación de servicio. Valoramos el respeto, el trabajo en equipo y la mejora continua. Crece con nosotros y forma parte de nuestro equipo. Personal de Seguridad Resumen del Puesto Buscamos incorporar a nuestro equipo un Personal de Seguridad proactivo y responsable para cubrir un turno específico. El candidato ideal deberá poseer experiencia demostrable en tareas de vigilancia y control de accesos, demostrando un alto nivel de compromiso y profesionalismo. Responsabilidades Realizar el control de ingreso y egreso de personas e instalaciones. Ejercer vigilancia activa para garantizar la seguridad de las instalaciones. Mantener el orden y la disciplina en las áreas asignadas. Actuar con criterio ante cualquier incidencia, reportando de inmediato cualquier suceso relevante. Asegurar un trato adecuado y respetuoso con el público y los usuarios de las instalaciones. Requisitos Secundaria completa. Experiencia comprobable en seguridad, vigilancia y control de accesos. Disponibilidad para trabajar en el turno especificado. No registrar antecedentes policiales, penales ni judiciales. Se valorará experiencia previa en establecimientos de atención al público. Habilidades de comunicación, responsabilidad, puntualidad y respeto. Capacidad para actuar de manera efectiva ante imprevistos.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-seguridad-resocusco-1118467447.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-seguridad-resocusco-1118467447.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

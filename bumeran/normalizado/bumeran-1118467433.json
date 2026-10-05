@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467433",
+    "clave":  "id:1118467433",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-planeamiento-1118467433.html",
+                   "capturadoEn":  "2026-10-05T10:26:31+00:00"
+               },
+    "titulo":  "INGENIERO JUNIOR DE PLANEAMIENTO",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Huancavelica - Castrovirreyna",
+    "ciudad":  "Castrovirreyna",
+    "region":  "Huancavelica",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Propósito del cargo Apoyar en la planificación y control de todos los programas de trabajo a corto y mediano plazo (producción, preparación y desarrollo), de acuerdo a los marcos legales y organizacionales; con la finalidad de asegurar el cumplimiento del plan de producción anual establecido, de acuerdo a los costos presupuestados, cumpliendo las políticas y parámetros de seguridad, medio ambiente y calidad establecidos Principales Actividades Realizar el planeamiento del corto, mediano plazo y largo plazo. Estimar las reservas minerales según el NI 43-10. Planificar, organizar, dirigir y controlar la ejecución de los programas semanales, mensuales, anuales de minado. Manejar y aplicar el sistema de gestión integrado asegurando el cumplimiento de la normativa adoptada. Realizar los proyectos de corto plazo de desarrollos, infraestructura de ventilación, sistema de bombeo, drenaje y extracción, etc. Realizar los controles de las operaciones para gestionar mejoras operativas y reducción de costos. Gestión de la ventilación, geomecánica, costos y productividad, topografía y base topográfica, seguridad y medio ambiente para el fiel cumplimiento de los programas y metas. Realizar la evaluación y formulación de proyectos mineros. Cumplir y hacer cumplir los requisitos legales, políticas y normas que establezca la organización, así como requisitos de los sistemas de gestión aplicables a su unidad.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-02-01",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-planeamiento-1118467433.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-planeamiento-1118467433.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

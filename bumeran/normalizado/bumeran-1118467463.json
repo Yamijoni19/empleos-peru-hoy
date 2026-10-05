@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467463",
+    "clave":  "id:1118467463",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-desarrollo-organizacional-1118467463.html",
+                   "capturadoEn":  "2026-10-05T10:26:04+00:00"
+               },
+    "titulo":  "Analista de Desarrollo Organizacional",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Ancón",
+    "ciudad":  "Ancón",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡ Únete a nuestro equipo como Analista de Desarrollo Organizacional! Buscamos una persona que pueda ejecutar proyectos de capacitación para adecuar las características del colaborador a las exigencias normativas, estratégicas y de su cargo. ¿Qué harás? * Diseña y ejecuta programas de capacitación para mejorar el desempeño individual y organizacional. * Propone estrategias para afrontar las necesidades de capacitación de su cliente interno. * Elabora y ejecuta el plan anual de capacitación. * Asegura el cumplimiento al 90% del plan fijado para la evaluación de desempeño. * Responsable del diagnóstico de necesidades de capacitación anual. * Procesa los requerimientos administrativos de todas las acciones de capacitación a su cargo. * Asesora a sus clientes internos en materia de diseño instruccional, andragogía y gestión educativa. * Reporta el status de finalización de cursos del equipo de ventas de forma oportuna para su certificación. * Desarrolla cursos virtuales asincrónicos para la plataforma E-Learning LMS. * Da soporte al avance de la evaluación anual del desempeño. * Negocia con proveedores de entrenamiento, revisa propuestas y presenta proyectos para actividades formativas fuera del PAC. * Desarrolla y actualiza los formatos, manuales y procesos del área de capacitación y desarrollo en búsqueda de la mejora continua. Lo que buscamos: * 2 Años de experiencia progresiva en capacitación, diseño instruccional o gestión de e-learning. * Bachiller en Psicología, Administración, Ing. Industrial o profesiones afines * Experiencia Analista de capacitación. Asistente de capacitación. Diseñador instruccional. * Diplomado, Especialización o Posgrado en Gestión del Talento( Deseable). ¿Qué ofrecemos? * Salario acorde al mercado. * Bono anual por desempeño. * Alimentación cubierta al 100%.( Planta) * Buen clima laboral",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-05",
+    "fecha_cierre":  "2027-01-03",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-desarrollo-organizacional-1118467463.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-desarrollo-organizacional-1118467463.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

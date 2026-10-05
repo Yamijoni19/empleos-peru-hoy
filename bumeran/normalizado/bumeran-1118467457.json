@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467457",
+    "clave":  "id:1118467457",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-y-gestion-humana-manpowergroup-peru-1118467457.html",
+                   "capturadoEn":  "2026-10-05T10:26:16+00:00"
+               },
+    "titulo":  "Asistente de administración y gestión humana",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Manpower Perú nos encontramos en la búsqueda del mejor talento para asumir el reto de Asistente de Administración y Gestión Humana para una importante empresa del sector construcción y proyectos. Funciones principales Gestionar la elaboración, impresión y seguimiento de contratos de trabajo. Coordinar la firma de documentos del personal ingresante y subcontratistas. Administrar y mantener actualizados los legajos del personal. Coordinar de manera permanente con las áreas externas de Contabilidad y Gestión Humana. Generar y consolidar reportes administrativos y financieros a través del sistema Soluflex. Realizar seguimiento a pagos, documentación contractual y requerimientos administrativos. Gestionar órdenes de servicio y documentación de proveedores. Brindar soporte administrativo a la Gerencia y a las diferentes áreas de la organización. Mantener el control y archivo de documentación laboral y administrativa. Requisitos Estudios técnicos o universitarios concluidos en Administración, Contabilidad o carreras afines. Experiencia mínima de 2 años en posiciones administrativas similares. Experiencia en gestión documentaria, contratos y administración de personal. Manejo de Excel a nivel intermedio. Deseable experiencia utilizando ERP o sistemas de gestión empresarial. Disponibilidad para laborar en Santiago de Surco . Competencias Organización y planificación. Capacidad de seguimiento y control. Comunicación efectiva. Proactividad. Orientación al detalle. Responsabilidad y confidencialidad. Condiciones laborales Ingreso a planilla MYPE desde el primer día. Asignación familiar de acuerdo con ley. Horario:Lunes a viernes: 9:00 a.m. a 6:00 p.m. Sábados remoto: 9:00 a.m. a 1:00 p.m. ¡Postula ahora! Si cuentas con experiencia en administración, documentación laboral y coordinación con áreas externas, esta es tu oportunidad para formar parte de una empresa en crecimiento y asumir nuevos retos profesionales.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-y-gestion-humana-manpowergroup-peru-1118467457.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-y-gestion-humana-manpowergroup-peru-1118467457.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
