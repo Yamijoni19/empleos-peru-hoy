@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467206",
+    "clave":  "id:1118467206",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mecanico-de-motos-mas-motos-pe-sac-1118467206.html",
+                   "capturadoEn":  "2026-10-05T03:09:46+00:00"
+               },
+    "titulo":  "Mecánico de Motos",
+    "empresa":  "MAS MOTOS PE SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Mecánico de Motos Resumen del Puesto Buscamos un Mecánico de Motos para unirse a nuestro equipo. El candidato ideal tendrá pasión por las motocicletas y un buen entendimiento de los sistemas mecánicos y eléctricos. Se valorará la experiencia previa, pero se considerarán también perfiles con gran motivación y ganas de aprender. Responsabilidades Realizar diagnósticos y reparaciones de motocicletas. Efectuar el mantenimiento preventivo y correctivo de los vehículos. Identificar y solucionar fallos mecánicos y eléctricos. Gestionar el inventario de repuestos y materiales. Mantener un espacio de trabajo ordenado y seguro. Requisitos Conocimientos sólidos en mecánica de motocicletas. Capacidad para el diagnóstico y la resolución de problemas. Habilidad para el manejo de herramientas y equipos de diagnóstico. Proactividad y atención al detalle. Capacidad para trabajar de forma autónoma y en equipo. Disponibilidad para aprender y adaptarse a nuevas tecnologías.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/mecanico-de-motos-mas-motos-pe-sac-1118467206.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mecanico-de-motos-mas-motos-pe-sac-1118467206.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

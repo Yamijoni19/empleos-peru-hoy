@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467168",
+    "clave":  "id:1118467168",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/electronico-servicio-a-pesquera-1118467168.html",
+                   "capturadoEn":  "2026-10-05T03:10:29+00:00"
+               },
+    "titulo":  "Electrónico (Servicio a pesquera)",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Ancash - Coishco",
+    "ciudad":  "Coishco",
+    "region":  "Ancash",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Reconocida empresa busca \" Electrónico\" para brindar servicios a empresa pesquera. FUNCIONES Ejecutar los planes de mantenimiento de los equipos electrónicos de empresa pesquera. Efectuar las inspecciones generales a los equipos. Identificar las averías e informar al área correspondiente. Ejecutar los procedimientos de solicitud de repuestos y materiales para los trabajos de mantenimiento. Cumplir con las politicas establecidas de la empresa. REQUISITOS: Técnico completo de Electrónica industrial. Experiencia de 2 años como técnico en electrónico. Cursos de Mantenimiento. Conocimiento de Mantenimiento mecánico, electricidad y mecánica de producción. Inglés técnico Office básico SAP básico",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/electronico-servicio-a-pesquera-1118467168.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/electronico-servicio-a-pesquera-1118467168.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467171",
+    "clave":  "id:1118467171",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tornero-cnc-mineria-shougang-hierro-peru-s.a.a.-1118467171.html",
+                   "capturadoEn":  "2026-10-05T03:10:21+00:00"
+               },
+    "titulo":  "Tornero CNC - Minería",
+    "empresa":  "SHOUGANG HIERRO PERU S.A.A.",
+    "ubicacion":  "Ica - San Juan de Marcona",
+    "ciudad":  "San Juan de Marcona",
+    "region":  "Ica",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una empresa transnacional de la Gran Minería , dedicada a la extracción, procesamiento y comercialización de mineral de hierro, con gran presencia en el Perú, en el distrito de Marcona , provincia de Nasca , Región Ica , con más de 20 años en el mercado, nos encontramos en la búsqueda de los mejores profesionales del Perú para seguir fortaleciendo nuestro crecimiento y desarrollo. Queremos incorporar a nuestro equipo a un(a) Técnico Tornero CNC y Vertical que contará con los siguientes retos: FUNCIONES Operar, configurar y programar tornos CNC y tornos verticales para el mecanizado de piezas de alta precisión y gran dimensión utilizadas en maquinaria y equipos pesados del sector minero. Fabricar, reparar y mecanizar componentes críticos (ejes, bocinas, poleas), con énfasis en la preparación y torneado para engranajes especiales (rectos, helicoidales, cónicos) requeridos en los procesos de planta. Interpretar planos de fabricación, manuales de repuestos y especificaciones técnicas, asegurando el estricto cumplimiento de las tolerancias dimensionales y geométricas exigidas. Seleccionar y preparar las herramientas de corte (insertos, brocas, cuchillas), además de calibrar y utilizar correctamente instrumentos de medición de precisión (micrómetros, calibradores vernier, alexómetros, reloj comparador). Realizar el mantenimiento autónomo (limpieza, lubricación, inspección visual) de las máquinas herramienta a su cargo, reportando de inmediato cualquier desperfecto mecánico o electrónico. Cumplir rigurosamente con los procedimientos de trabajo seguro (PETS, IPERC), normativas de seguridad, salud ocupacional y medio ambiente exigidos en operaciones de gran minería. REQUISITOS Técnico Titulado o Egresado en Mecánica de Producción, Máquinas Herramientas, Mecánica de Mantenimiento o carreras afines. Experiencia comprobada de 3 a 5 años operando tornos CNC y tornos verticales, de preferencia en maestranzas, talleres metalmecánicos de gran envergadura o plantas industriales orientadas a la gran minería. Conocimiento de dibujo técnico, programas AutoCAD, SolidWorks y Mastercam, operación de torno vertical, conocimiento en tornos convencionales. Sólidos conocimientos y experiencia comprobada en la fabricación y metrología de engranajes especiales, roscas, ajustes y tolerancias bajo normas internacionales (ISO, DIN, ANSI). Dominio en lenguajes de programación de control numérico computarizado (ej. Fanuc, Siemens) y lectura avanzada de planos mecánicos. Conocimiento y cumplimiento estricto de normativas de seguridad minera (IPERC, PETS, permisos de trabajo, aislamiento de energía). SE OFRECE: Formar parte de una de las empresas líderes en el rubro de gran minería Planilla con todos los beneficios correspondientes a ley Salario competitivo acorde a lo establecido en nuestra Escala Salarial Clausula F8 del Convenio Colectivo de Empleados. 16 remuneraciones al año Utilidades (según rendimiento de la empresa) Alojamiento en la ciudad Oportunidades de desarrollo y crecimiento.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/tornero-cnc-mineria-shougang-hierro-peru-s.a.a.-1118467171.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tornero-cnc-mineria-shougang-hierro-peru-s.a.a.-1118467171.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

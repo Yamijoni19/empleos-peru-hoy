@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467175",
+    "clave":  "id:1118467175",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/pasantia-profesional-en-industria-hotelera-hotels-1118467175.html",
+                   "capturadoEn":  "2026-10-05T03:10:14+00:00"
+               },
+    "titulo":  "Pasantía Profesional en Industria Hotelera",
+    "empresa":  "HOTELS",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Pasantía Profesional en Industria Hotelera Resumen del Puesto Estamos buscando estudiantes o recién egresados para una pasantía profesional en el área de industria hotelera . Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico y aprender sobre las operaciones de un establecimiento hotelero. Responsabilidades Apoyar en las operaciones diarias de los diferentes departamentos del hotel (recepción, alimentos y bebidas, alojamiento, etc.). Colaborar en la atención al cliente y resolución de consultas. Participar en la implementación de procedimientos y estándares de calidad. Asistir en tareas administrativas y de organización según sea necesario. Aprender y aplicar conocimientos teóricos en situaciones prácticas. Requisitos Estudiante de últimos ciclos o egresado de carreras relacionadas a Hotelería, Turismo, Administración o afines. Disponibilidad para realizar una pasantía. Interés en desarrollarse profesionalmente en la industria hotelera. Proactividad, buena disposición y ganas de aprender. Habilidades de comunicación y trabajo en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/pasantia-profesional-en-industria-hotelera-hotels-1118467175.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/pasantia-profesional-en-industria-hotelera-hotels-1118467175.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

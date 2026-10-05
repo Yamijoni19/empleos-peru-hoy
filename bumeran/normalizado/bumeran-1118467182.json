@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467182",
+    "clave":  "id:1118467182",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-obra-polycoas-sac-1118467182.html",
+                   "capturadoEn":  "2026-10-05T03:10:04+00:00"
+               },
+    "titulo":  "ADMINISTRADOR DE OBRA",
+    "empresa":  "POLYCOAS SAC",
+    "ubicacion":  "Ancash - Chimbote",
+    "ciudad":  "Chimbote",
+    "region":  "Ancash",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  4000,
+                    "max":  4500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 4,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "\u0026#x1f4e2; ADMINISTRADOR(A) DE OBRA – CHIMBOTE POLYCOAS S.A.C. , empresa especializada en soluciones en revestimientos y protección de superficies, se encuentra en búsqueda de un(a) Administrador(a) de Obra para incorporarse a nuestro proyecto en Chimbote . \u0026#x1f539; REQUISITOS Técnico o profesional en Administración, Ingeniería Industrial o carreras afines . Experiencia mínima de 2 años en administración de obras o proyectos . Experiencia en gestión de planillas, control de asistencia y tareos de personal . Experiencia en adquisición y abastecimiento de materiales, insumos y servicios . Manejo y control de caja chica y rendiciones . Experiencia en negociación y coordinación con proveedores . Manejo de Excel a nivel intermedio . Capacidad de organización, planificación y seguimiento. Carácter firme, capacidad de negociación y liderazgo. Capacidad para trabajar bajo presión y resolver situaciones administrativas de manera oportuna. Disponibilidad para trabajar en Chimbote y cumplir el régimen establecido. \u0026#x1f539; PRINCIPALES FUNCIONES Gestionar y controlar la documentación administrativa del proyecto. Realizar el control de asistencia, tareos e incidencias del personal. Coordinar la información necesaria para la elaboración de planillas. Gestionar la compra y abastecimiento de materiales, insumos y servicios. Administrar y controlar la caja chica del proyecto. Solicitar y evaluar cotizaciones, así como negociar con proveedores. Realizar seguimiento a órdenes de compra, servicios y entregas. Controlar gastos y realizar las respectivas rendiciones. Elaborar reportes administrativos y de gestión. Brindar soporte administrativo a la jefatura y demás áreas del proyecto. \u0026#x1f539; TE OFRECEMOS \u0026#x1f4cd; Lugar de trabajo: Chimbote \u0026#x1f4c5; Horario: Lunes a sábado \u0026#x1f3e0; Hospedaje: 100% cubierto por la empresa \u0026#x1f37d;️ Alimentación: 100% cubierta (desayuno, almuerzo y cena) \u0026#x1f4bc; Ingreso a planilla y beneficios sociales de ley \u0026#x1f4c8; Oportunidad de desarrollo y crecimiento profesional. ¡Únete a POLYCOAS S.A.C. y sé parte de nuestros proyectos!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/administrador-de-obra-polycoas-sac-1118467182.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-obra-polycoas-sac-1118467182.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

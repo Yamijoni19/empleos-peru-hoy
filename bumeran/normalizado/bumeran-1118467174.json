@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467174",
+    "clave":  "id:1118467174",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-recepcion-turno-noche-hotels-1118467174.html",
+                   "capturadoEn":  "2026-10-05T03:10:15+00:00"
+               },
+    "titulo":  "Personal de Recepción - Turno Noche",
+    "empresa":  "HOTELS",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal de Recepción - Turno Noche Resumen del Puesto Estamos en la búsqueda de un Personal de Recepción proactivo y organizado para cubrir el turno noche. El candidato ideal será la primera línea de contacto, brindando una excelente atención y gestionando eficientemente las operaciones diarias de la recepción. Responsabilidades Atender y dar la bienvenida a visitantes y clientes. Gestionar llamadas telefónicas y correos electrónicos entrantes. Manejar la correspondencia y la paquetería. Mantener el área de recepción ordenada y presentable. Realizar tareas administrativas generales según sea necesario. Resolver consultas y dirigir a las personas a los departamentos correspondientes. Requisitos Experiencia previa en roles de recepción o atención al cliente. Excelentes habilidades de comunicación verbal y escrita. Capacidad para organizar y priorizar tareas. Actitud amable, profesional y orientada al servicio. Disponibilidad para trabajar en horario nocturno. Habilidad para manejar situaciones de manera calmada y eficiente.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-recepcion-turno-noche-hotels-1118467174.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-recepcion-turno-noche-hotels-1118467174.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467172",
+    "clave":  "id:1118467172",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-housekeeping-rotativo-hotels-1118467172.html",
+                   "capturadoEn":  "2026-10-05T03:10:17+00:00"
+               },
+    "titulo":  "Personal de Housekeeping Rotativo",
+    "empresa":  "HOTELS",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  565,
+                    "max":  615,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 565 - S/ 615",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal de Housekeeping Rotativo Resumen del Puesto Estamos en la búsqueda de personal de Housekeeping con disponibilidad para trabajar en esquema rotativo. El candidato ideal deberá demostrar un alto compromiso con la limpieza, el orden y la presentación de las instalaciones, asegurando un ambiente agradable y confortable para todos. Responsabilidades Realizar la limpieza y desinfección de habitaciones, áreas comunes y de servicio. Reponer suministros y amenities en las habitaciones. Gestionar la ropa de cama y toallas, asegurando su correcta manipulación y almacenamiento. Informar sobre cualquier desperfecto o necesidad de mantenimiento en las instalaciones. Cumplir con los estándares de calidad y procedimientos establecidos. Adaptarse a los horarios y turnos rotativos según la planificación. Requisitos Experiencia previa en roles de limpieza o housekeeping. Conocimiento de técnicas y productos de limpieza. Capacidad para trabajar de forma eficiente y organizada. Habilidad para seguir instrucciones y procedimientos. Disponibilidad para trabajar en horarios rotativos, incluyendo fines de semana y festivos. Actitud proactiva y atención al detalle. Capacidad para trabajar en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-housekeeping-rotativo-hotels-1118467172.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-housekeeping-rotativo-hotels-1118467172.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

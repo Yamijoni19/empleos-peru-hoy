@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467190",
+    "clave":  "id:1118467190",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/electricista-polycoas-sac-1118467190.html",
+                   "capturadoEn":  "2026-10-05T03:10:01+00:00"
+               },
+    "titulo":  "ELECTRICISTA",
+    "empresa":  "POLYCOAS SAC",
+    "ubicacion":  "Ancash - Chimbote",
+    "ciudad":  "Chimbote",
+    "region":  "Ancash",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "⚡ ELECTRICISTA – PROYECTO CHIMBOTE POLYCOAS S.A.C. , empresa especializada en soluciones en revestimientos y protección de superficies, se encuentra en búsqueda de Electricista para incorporarse a nuestro proyecto en Chimbote . \u0026#x1f539; REQUISITOS Técnico egresado o titulado de la carrera de Electricidad, Electrotecnia, Electricidad Industrial o afines . Experiencia mínima de 2 años como Electricista en obras, proyectos industriales o plantas. Experiencia en instalaciones eléctricas, mantenimiento y reparación de sistemas eléctricos . Conocimiento en instalación y mantenimiento de tableros eléctricos, cableado, luminarias, tomacorrientes y equipos eléctricos . Conocimiento en lectura e interpretación de planos y diagramas eléctricos . Experiencia realizando trabajos de mantenimiento preventivo y correctivo. Conocimiento y cumplimiento de procedimientos y normas de Seguridad y Salud en el Trabajo . Deseable experiencia en plantas industriales o proyectos de construcción . Disponibilidad para trabajar en Chimbote . Capacidad para trabajar en equipo, responsabilidad y compromiso con las actividades asignadas. \u0026#x1f539; PRINCIPALES FUNCIONES Ejecutar trabajos de instalación, mantenimiento y reparación de sistemas eléctricos. Realizar tendido, conexión y mantenimiento de cableado eléctrico. Instalar y realizar mantenimiento de tableros, luminarias, tomacorrientes y equipos eléctricos. Identificar y solucionar fallas eléctricas. Realizar trabajos eléctricos de acuerdo con planos, procedimientos y especificaciones técnicas. Ejecutar mantenimiento preventivo y correctivo de instalaciones y equipos. Cumplir estrictamente los procedimientos de seguridad y uso adecuado de EPP. Reportar oportunamente cualquier condición insegura, falla o incidente identificado durante los trabajos. Mantener el orden y limpieza del área de trabajo. \u0026#x1f539; TE OFRECEMOS \u0026#x1f4cd; Lugar de trabajo: Chimbote \u0026#x1f4c5; Horario: Lunes a sábado \u0026#x1f3e0; Hospedaje: 100% cubierto por la empresa \u0026#x1f37d;️ Alimentación: 100% cubierta — desayuno, almuerzo y cena \u0026#x1f4bc; Ingreso a planilla y beneficios sociales de ley \u0026#x1f4c8; Oportunidad de desarrollo y participación en proyectos.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/electricista-polycoas-sac-1118467190.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/electricista-polycoas-sac-1118467190.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,61 @@
+{
+    "id":  "bumeran-1118467173",
+    "clave":  "id:1118467173",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-electrico-de-alta-tension-liniero-shougang-hierro-peru-s.a.a.-1118467173.html",
+                   "capturadoEn":  "2026-10-05T03:10:16+00:00"
+               },
+    "titulo":  "Técnico Eléctrico de Alta Tensión (Liniero)",
+    "empresa":  "SHOUGANG HIERRO PERU S.A.A.",
+    "ubicacion":  "Ica - San Juan de Marcona",
+    "ciudad":  "San Juan de Marcona",
+    "region":  "Ica",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una empresa transnacional de la Gran Minería , dedicada a la extracción, procesamiento y comercialización de mineral de hierro, con gran presencia en el Perú, en el distrito de Marcona , provincia de Nasca , Región Ica , con más de 20 años en el mercado, nos encontramos en la búsqueda de los mejores profesionales del Perú para seguir fortaleciendo nuestro crecimiento y desarrollo. Nuestra Gerencia de Ingeniería tiene en marcha la construcción de la Tercera Línea de Producción para Ampliación de Operaciones, con duración aproximada de 3 años por lo que nos encontramos en la búsqueda de profesionales en sus diferentes disciplinas. TÉCNICO ELÉCTRICO DE ALTA TENSIÓN (LINIERO) Tu misión: Ejecutar el mantenimiento preventivo y correctivo de las líneas de transmisión de alta y media tensión, así como de las subestaciones eléctricas, garantizando la continuidad del suministro de energía para las operaciones mineras y de planta, bajo estándares estrictos de seguridad en trabajos de alto riesgo. Funciones: Ejecutar inspecciones, lavado de aisladores, cambio de herrajes y reparación de conductores en líneas de alta tensión (66kV, 220kV u otras según sistema) Realizar maniobras de apertura y cierre de celdas, transformadores de potencia y equipos de patio de llaves. Realizar el montaje y desmontaje de estructuras, postes y torres de transmisión utilizando técnicas de ascenso y rescate. Responder oportunamente ante fallas en el sistema de potencia para restablecer el servicio eléctrico en el menor tiempo posible. Aplicar rigurosamente el bloqueo y etiquetado (LOTO), distancias mínimas de seguridad y uso de equipos de protección específica (EPP dieléctrico). ¿Cuáles son los requisitos? Técnico Electricista egresado. Contar con un mínimo de 3 a 5 años como Liniero de Alta Tensión en proyectos mineros o empresas de transmisión eléctrica. Se requiere certificación vigente para Trabajos en Altura. Se requiere que tenga conocimiento de la Norma NFPA 70E (Seguridad Eléctrica). Se requiere que tenga conocimiento en lectura de planos eléctricos de potencia y sistemas de protección. Conocimiento en manejo de equipos de medición (Telurómetro, Megger, equipos de prueba de transformadores). Contar con Licencia de conducir (AIIB deseable) para desplazamiento a zonas de torres. Contar con adhesión inquebrantable a los procedimientos de riesgo crítico. Tener disponibilidad para trabajos de esfuerzo físico en exteriores y altura geográfica. ¿Cuáles son tus beneficios? Formar parte de una de las empresas líderes en el rubro de Gran Minería. 02 días de permisos administrativos por mes. Salario competitivo acorde a lo establecido en nuestra Escala Salarial Clausula F8 del Convenio Colectivo de Empleados. 16 remuneraciones al año Participación en el reparto de utilidades (según rendimiento de la empresa). Alojamiento. Oportunidades de crecimiento y desarrollo profesional.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+                      "Ejecutar inspecciones, lavado de aisladores, cambio de herrajes y reparación de conductores en líneas de alta tensión (66kV, 220kV u otras según sistema)",
+                      "Realizar maniobras de apertura y cierre de celdas, transformadores de potencia y equipos de patio de llaves.",
+                      "Realizar el montaje y desmontaje de estructuras, postes y torres de transmisión utilizando técnicas de ascenso y rescate.",
+                      "Responder oportunamente ante fallas en el sistema de potencia para restablecer el servicio eléctrico en el menor tiempo posible.",
+                      "Aplicar rigurosamente el bloqueo y etiquetado (LOTO), distancias mínimas de seguridad y uso de equipos de protección específica (EPP dieléctrico)."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-electrico-de-alta-tension-liniero-shougang-hierro-peru-s.a.a.-1118467173.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-electrico-de-alta-tension-liniero-shougang-hierro-peru-s.a.a.-1118467173.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118467177",
+    "clave":  "id:1118467177",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-lubricacion-chinalco-marco-peruana-s.a.-1118467177.html",
+                   "capturadoEn":  "2026-10-05T03:10:13+00:00"
+               },
+    "titulo":  "Tecnico de Lubricación (Chinalco)",
+    "empresa":  "MARCO PERUANA S.A.",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Técnico de lubricación – (Chinalco) Empresa industrial del sector minero se encuentra en búsqueda del mejor talento para la posición de Técnico de Lubricación para el proyecto de chinalco. Objetivo del puesto: Efectuar los servicios técnicos a satisfacción del cliente, cumplir cabalmente las tareas indicadas por el jefe de soporte técnico y/o supervisor de Lubricación. Perfil: Técnico Mecánico / Técnico eléctrico / Técnico Mecánico – Eléctrico / Técnico de Maquinaria Pesada o carreras afines. Carrera técnica concluida. 2 años de experiencia en el mantenimiento de equipos y sistemas de lubricación. Conocimientos en gestión de seguridad y medio ambiente. Debe contar con licencia A2A vigente. Funciones: Ejecución de tareas de desmontaje, instalación y pruebas de equipos y sistemas de lubricación. Ejecución de Mantenimientos Preventivos y Correctivos a los sistemas de lubricación de acuerdo con lo planificado. Ejecución de inspecciones e intervenciones en campo. Realizar el control de calidad de los equipos y productos recibidos de fábrica. Monitoreo y reposición de stock de producto, repuestos y equipos. Mantenimiento y actualización de la documentación técnica para el soporte del servicio. Realizar informes de los servicios de lubricación para los clientes y rendimiento de los productos. Asegurar una óptima calidad en los servicios prestados a los clientes. Cumplir y hacer cumplir los procedimientos de trabajo seguro de la operación. Manejo de camioneta en mina (si es que el cliente lo requiere), debe contar con brevete AIIB con más de dos años de antigüedad. Condiciones: Planilla con todos los beneficios de ley Utilidad en función a los resultados de la compañía Empresa cubre el pasaje, hospedaje y alimentación durante los días de trabajo Seguro de accidentes personales cubiertos al 100% por la empresa Es importante residir en Junín o Lima Disponibilidad para laborar en régimen 11x10 , 11 días de trabajo x 10 días de descanso",
+    "requisitos":  [
+                       "Técnico Mecánico / Técnico eléctrico / Técnico Mecánico – Eléctrico / Técnico de Maquinaria Pesada o carreras afines. Carrera técnica concluida.",
+                       "2 años de experiencia en el mantenimiento de equipos y sistemas de lubricación.",
+                       "Conocimientos en gestión de seguridad y medio ambiente.",
+                       "Debe contar con licencia A2A vigente."
+                   ],
+    "funciones":  [
+                      "Efectuar los servicios técnicos a satisfacción del cliente, cumplir cabalmente las tareas indicadas por el jefe de soporte técnico y/o supervisor de Lubricación.",
+                      "Ejecución de tareas de desmontaje, instalación y pruebas de equipos y sistemas de lubricación.",
+                      "Ejecución de Mantenimientos Preventivos y Correctivos a los sistemas de lubricación de acuerdo con lo planificado.",
+                      "Ejecución de inspecciones e intervenciones en campo.",
+                      "Realizar el control de calidad de los equipos y productos recibidos de fábrica.",
+                      "Monitoreo y reposición de stock de producto, repuestos y equipos.",
+                      "Mantenimiento y actualización de la documentación técnica para el soporte del servicio.",
+                      "Realizar informes de los servicios de lubricación para los clientes y rendimiento de los productos.",
+                      "Asegurar una óptima calidad en los servicios prestados a los clientes.",
+                      "Cumplir y hacer cumplir los procedimientos de trabajo seguro de la operación.",
+                      "Manejo de camioneta en mina (si es que el cliente lo requiere), debe contar con brevete AIIB con más de dos años de antigüedad."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-lubricacion-chinalco-marco-peruana-s.a.-1118467177.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-lubricacion-chinalco-marco-peruana-s.a.-1118467177.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

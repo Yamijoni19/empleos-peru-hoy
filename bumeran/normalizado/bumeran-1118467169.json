@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467169",
+    "clave":  "id:1118467169",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-almacen-logistica-grupo-efe-1118467169.html",
+                   "capturadoEn":  "2026-10-05T03:10:25+00:00"
+               },
+    "titulo":  "Supervisor de almacén /logística",
+    "empresa":  "GRUPO EFE",
+    "ubicacion":  "Ucayali - Pucallpa",
+    "ciudad":  "Pucallpa",
+    "region":  "Ucayali",
+    "modalidad":  "",
+    "contrato":  "VOLUNTEER",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una empresa 100% peruana, con marcas líderes en el mercado: EFE, La Curacao, Financiera Efectiva, Motocorp y Juntoz. El 2023 cumplimos 30 años como Grupo EFE, una gran familia con casi 5,000 colaboradores con presencia en todo el Perú y reconocida por ser la 3era mejor empresa para trabajar en el Perú (Ranking Great Place to Work 2023). Tenemos un gran propósito que nos inspira: “Cumplir los sueños de nuestros clientes y colaboradores” y lo vivimos día a día, comunicándonos, escuchando, conociendo a nuestra gente, creciendo juntos, valorando sus características y, sobre todo, tomando decisiones centradas en nuestros colaboradores. ¡Te invitamos a ser parte de nuestra gran familia! Estamos en la búsqueda del mejor talento para ocupar la posición de SUPERVISOR(A) DE ALMACÉN/LOGÍSCTICA Misión: Será el responsable de administrar la operación logística del proyecto de venta mayorista de telefonía en la región selva (almacén, traslados, despachos, atención a clientes, etc.) además será responsable de la supervisión de los almacenes de las tiendas de la ciudad. Para tener éxito en la posición se requiere: Bachiller o técnico egresado de carreras en Administración, Sistemas o afines. Experiencia mínima de 2 años en la administración de almacenes, deseable de productos valorados y/o tecnológicos. Dominio de procesos de picking, emisión de Guías de remisión, control de inventarios, Kardex, clasificación de productos, etc. Manejo de Excel a nivel intermedio. Manejo de SAP-MM o similares. (Muy deseable). Conocimiento de procesos de importación, desaduanaje de mercaderías, presentación de documentos ante la aduana, entre otros. (Muy deseable). Conocimientos de sistemas WMS y uso de terminales PAD (Deseable). Beneficios que tenemos para ti! Contratación inmediata con todos los beneficios de ley. Sueldo fijo, pagos 15nales. Descuentos Corporativos. Oportunidad de hacer línea de carrera. “En el Grupo EFE creemos firmemente en la igualdad de oportunidades para todos los géneros, promovemos la diversidad generacional, de origen étnico, de nacionalidad y son bienvenidas las personas con condiciones diferentes, de acuerdo a lo establecido en la Ley N° 29973. Agradecemos al postulante con discapacidad que nos informe si requiere algún tipo de ajuste razonable para su desempeño dentro del proceso de selección.” Además \"Reconocemos como experiencia laboral las prácticas preprofesionales y profesionales acreditadas desde los 3 hasta los 24 meses.\"",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-almacen-logistica-grupo-efe-1118467169.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-almacen-logistica-grupo-efe-1118467169.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

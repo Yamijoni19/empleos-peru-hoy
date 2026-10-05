@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467198",
+    "clave":  "id:1118467198",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-distribucion-1118467198.html",
+                   "capturadoEn":  "2026-10-05T03:09:58+00:00"
+               },
+    "titulo":  "Analista de distribución",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f69a; Cada entrega cuenta. Cada ruta tiene un impacto. ¿Te apasiona la logística y disfrutas encontrar soluciones que hacen que todo funcione? Estamos buscando un(a) Analista de Distribución que quiera asumir nuevos retos, trabajar en un entorno dinámico y formar parte de un equipo que todos los días contribuye a que nuestros productos lleguen de forma segura y eficiente a nuestros clientes en todo el país. ¿Cuál será tu aporte? Serás una pieza clave en la coordinación y seguimiento de nuestras operaciones de transporte, asegurando que cada entrega se realice con los más altos estándares de servicio, seguridad y eficiencia. Tu día a día incluirá: \u0026#x1f6a2; Coordinar el traslado de mercancías desde puerto hacia nuestros almacenes. \u0026#x1f69a; Planificar y supervisar las entregas a clientes a nivel nacional. \u0026#x1f4cd; Monitorear rutas y brindar soporte ante cualquier incidencia operativa. ⚠️ Anticipar contingencias y coordinar acciones para minimizar impactos. \u0026#x1f4ca; Dar seguimiento a indicadores y proponer mejoras en los procesos. \u0026#x1f512; Velar por el uso adecuado de herramientas de monitoreo y seguridad. Nos encantará conocerte si eres una persona que: ✅ Tiene estudio universitario concluido de las carreras de Administración, Ing Industrial, Economía o afines. ✅ Manejas Excel Avanzado. ✅ Tiene mínimo 2 años de experiencia como Analista de Costos o Analista de Transporte. ✅ Disfruta organizando y coordinando múltiples actividades. ✅ Encuentra soluciones de manera ágil y efectiva. ✅ Se comunica con facilidad y construye relaciones de confianza. ✅ Tiene iniciativa para identificar oportunidades de mejora. ✅ Se adapta con facilidad a entornos dinámicos. ¿Qué encontrarás aquí? Un equipo comprometido y dispuesto a apoyarte. Oportunidades para aprender y desarrollarte profesionalmente. Un ambiente colaborativo donde tus ideas son valoradas. Retos que te permitirán generar impacto real en la operación. Súmate a nuestro equipo \u0026#x1f4e9; Buscamos personas que quieran crecer, aportar y marcar la diferencia en cada operación.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-distribucion-1118467198.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-distribucion-1118467198.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

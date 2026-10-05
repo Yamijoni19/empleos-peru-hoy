@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118467180",
+    "clave":  "id:1118467180",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-planner-de-mantenimiento-mecanico-planta-shougang-hierro-peru-s.a.a.-1118467180.html",
+                   "capturadoEn":  "2026-10-05T03:10:08+00:00"
+               },
+    "titulo":  "Supervisor Planner de Mantenimiento Mecanico - Planta",
+    "empresa":  "SHOUGANG HIERRO PERU S.A.A.",
+    "ubicacion":  "Ica - Marcona",
+    "ciudad":  "Marcona",
+    "region":  "Ica",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos SHOUGANG HIERRO PERÚ S.A.A. , empresa perteneciente a la Gran Minería dedicada a la extracción, procesamiento y comercialización del mineral del hierro desde sus yacimientos ubicados en la costa sur del Perú a aproximadamente 530 kilómetros de la ciudad de Lima, en el distrito de Marcona, provincia de Nasca en la Región Ica. Queremos incorporar a nuestro equipo de talentos a un(a) Supervisor Planner de Mantenimiento que contará con los siguientes retos: FUNCIONES: Diseñar y validar las estrategias de mantenimiento (preventivo, predictivo y correctivo) para los activos críticos de planta y mina. Liderar al equipo de planeamiento, optimizando recursos (personal, materiales, terceros) y controlando el presupuesto (OPEX). Coordinar estratégicamente con Logística para asegurar el stock de repuestos críticos y evitar paradas no programadas. Analizar los KPIs de mantenimiento (Disponibilidad, Confiabilidad, costos) e implementar planes de mejora continua. Dirigir las reuniones de coordinación entre Mantenimiento y Operaciones para la ejecución eficiente de paradas de planta. Garantizar el estricto cumplimiento de los estándares de seguridad minera (IPERC, PETS) y medio ambiente. REQUISITOS : Titulado y Colegiado en Ing. Mecánica, Mecánica Eléctrica, Industrial o afines. 3 años de experiencia como supervisor o jefe de planeamiento de mantenimiento en plantas concentradoras de gran minería. Experiencia comprobada gestionando presupuestos y liderando equipos de trabajo. Dominio avanzado de SAP-PM y SAP-MM. Manejo de herramientas ofimáticas e ingeniería (Office, MS Project) a nivel avanzado. Licencia de conducir A-I (o superior) vigente. Disponibilidad para residir en San Juan de Marcona y laborar de lunes a sábado de 8:00 am a 5:00 pm. BENEFICIOS: Formar parte de una de las empresas líderes en el rubro de gran minería 02 dias de permisos administrativos por mes Bonos mensuales Planilla con todos los beneficios correspondientes a ley Salario competitivo 16 remuneraciones al año Utilidades (según rendimiento de la empresa) Alojamiento en la ciudad Oportunidades de desarrollo y crecimiento",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+                      "Diseñar y validar las estrategias de mantenimiento (preventivo, predictivo y correctivo) para los activos críticos de planta y mina.",
+                      "Liderar al equipo de planeamiento, optimizando recursos (personal, materiales, terceros) y controlando el presupuesto (OPEX).",
+                      "Coordinar estratégicamente con Logística para asegurar el stock de repuestos críticos y evitar paradas no programadas.",
+                      "Analizar los KPIs de mantenimiento (Disponibilidad, Confiabilidad, costos) e implementar planes de mejora continua.",
+                      "Dirigir las reuniones de coordinación entre Mantenimiento y Operaciones para la ejecución eficiente de paradas de planta.",
+                      "Garantizar el estricto cumplimiento de los estándares de seguridad minera (IPERC, PETS) y medio ambiente."
+                  ],
+    "beneficios":  [
+                       "Formar parte de una de las empresas líderes en el rubro de gran minería",
+                       "02 dias de permisos administrativos por mes",
+                       "Bonos mensuales",
+                       "Planilla con todos los beneficios correspondientes a ley",
+                       "Salario competitivo",
+                       "16 remuneraciones al año",
+                       "Utilidades (según rendimiento de la empresa)",
+                       "Alojamiento en la ciudad",
+                       "Oportunidades de desarrollo y crecimiento"
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-planner-de-mantenimiento-mecanico-planta-shougang-hierro-peru-s.a.a.-1118467180.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-planner-de-mantenimiento-mecanico-planta-shougang-hierro-peru-s.a.a.-1118467180.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

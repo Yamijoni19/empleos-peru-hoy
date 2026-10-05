@@ -1,17 +1,17 @@
 {
-    "generado":  "2026-10-04T21:04:23.2733244-05:00",
+    "generado":  "2026-10-05T03:11:06.4001314+00:00",
     "estado":  "SIMULADA",
     "maxPorCorrida":  5,
-    "candidatos":  4148,
+    "candidatos":  4168,
     "porEstado":  {
-                      "NUEVA":  34,
+                      "NUEVA":  54,
                       "HISTORICA":  4114
                   },
     "omitidos":  {
                      "HISTORICA":  4114
                  },
     "seleccionados":  5,
-    "diferidos":  29,
+    "diferidos":  49,
     "orden":  [
                   "NUEVA",
                   "ACTUALIZADA",
