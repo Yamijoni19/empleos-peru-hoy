@@ -1,0 +1,65 @@
+{
+    "id":  "bumeran-1118467124",
+    "clave":  "id:1118467124",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-bienestar-social-puno-caja-cusco-1118467124.html",
+                   "capturadoEn":  "2026-10-05T03:19:14+00:00"
+               },
+    "titulo":  "ASISTENTE DE BIENESTAR SOCIAL / PUNO",
+    "empresa":  "CAJA CUSCO",
+    "ubicacion":  "Puno",
+    "ciudad":  "Puno",
+    "region":  "Puno",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3199,
+                    "max":  3200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,199 - S/ 3,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Únete a la familia de Caja Cusco como nuestro(a) próximo(a) Asistente de Bienestar Social En Caja Cusco valoramos el talento que cuida del talento. Si eres un profesional proactivo, con vocación de servicio y buscas estabilidad en una de las mejores empresas para trabajar del Perú, ¡te estamos buscando! Responsabilidades Orientar a los trabajadores en los trámites administrativos por salud, certificaciones u otros que requiera para brindar la atención requerida. Realizar seguimiento al recupero de subsidios, en coordinación con el Analista de Bienestar Social, para la devolución del efectivo a la empresa. Recepcionar y archivar los CITT y certificados médicos entregados por el personal. Elaborar reporte de pagos de póliza de seguro médico familiar para el área de contabilidad. Elaborar el reporte de inclusiones y exclusiones de personal al Seguro Privado de Salud. Apoyar en la ejecución de los planes y programas de prevención de salud y recreativos, en coordinación con el Analista de Bienestar Social, a fin de reducir y prevenir los niveles de ausencia. Llevar el control del registro de asistencia de las trabajadoras en el uso de lactarios institucionales. Realizar trámites y control de información relacionada a subsidios para su declaración en el PDT y recupero, debidamente coordinado con el Analista de Bienestar Social. Realizar los trámites relacionados a los ingresos y ceses de personal, así como de sus derechohabientes a través del T-Registro. Coordinar con el área de planillas la inclusión al derecho de pago de asignación familiar del personal activo de Caja Cusco. Coordinar con el Analista de Bienestar Social la ejecución de los registros, reportes y trámites establecidos en los procesos de bienestar social relacionados a los trabajadores de Caja Cusco. Mantener actualizado el registro de madres gestantes y lactantes para el control de futuros subsidios y notificación de horario de lactancia. Brindar apoyo en la distribución del uniforme institucional para la identificación con la Caja Cusco. Apoyar en la Implementación de requerimientos normativos relacionados a bienestar. Mantener actualizada la acreditación de los dependientes de los trabajadores de la institución. Realizar el registro de asignación familiar de trabajadores activos para que se realice el pago del beneficio o exclusión. Competencias Experiencia del Cliente Responsabilidad Espíritu Colaborativo Mejora Continua Innovación Excelencia Requisitos Mínimos Formación: Profesional Técnico, Egresado o Bachiller en Administración, Economía, Contabilidad, Ingeniería Económica, Ingeniería industrial u otras carreras afines al cargo que postula. Experiencia: Un (1) año en el mismo cargo o dos (2) años en cargos de Auxiliar u otros puestos equivalentes en el desempeño de funciones relacionados al cargo que postula. Conocimientos complementarios deseables: Curso de Especialización relacionado al cargo. Microsoft Office intermedio Beneficios: Participación en Utilidades. Seguro médico familiar. Tarjeta de Alimentos. Cuponera de tiempo libre. Otros beneficios de acuerdo a ley. Fecha límite de postulación: Domingo, 11 de Octubre del 2026. Conforme con lo establecido en la Ley de Protección de Datos Personales cumplimos en informar que sus datos personales serán incorporados al Banco de Datos Postulantes de la CMAC Cusco y serán tratados para la ejecución de las diferentes etapas del proceso de selección para el que Usted postula en caso de ser considerado postulante apto. CMAC Cusco pone a su disposición información para el ejercicio de sus derechos ARCO en http://www.cmac-cusco.com.pe",
+    "requisitos":  [
+                       "Profesional Técnico, Egresado o Bachiller en Administración, Economía, Contabilidad, Ingeniería Económica, Ingeniería industrial u otras carreras afines al cargo que postula.",
+                       "Un (1) año en el mismo cargo o dos (2) años en cargos de Auxiliar u otros puestos equivalentes en el desempeño de funciones relacionados al cargo que postula.",
+                       "Curso de Especialización relacionado al cargo.",
+                       "Microsoft Office intermedio"
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+                       "Participación en Utilidades.",
+                       "Seguro médico familiar.",
+                       "Tarjeta de Alimentos.",
+                       "Cuponera de tiempo libre.",
+                       "Otros beneficios de acuerdo a ley."
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-bienestar-social-puno-caja-cusco-1118467124.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-bienestar-social-puno-caja-cusco-1118467124.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

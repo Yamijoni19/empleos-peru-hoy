@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467150",
+    "clave":  "id:1118467150",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/agente-de-seguros-erika-1118467150.html",
+                   "capturadoEn":  "2026-10-05T03:18:54+00:00"
+               },
+    "titulo":  "Agente de Seguros",
+    "empresa":  "ERIKA",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  9999,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 9,999",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ASESOR COMERCIAL DE SEGUROS RED SCTR - AREQUIPA Agente de Seguros Resumen del Puesto Estamos en la búsqueda de un Agente de Seguros proactivo y con gran capacidad de desarrollo comercial. El rol implica la promoción y venta de productos de seguros, ofreciendo asesoramiento personalizado a los clientes para satisfacer sus necesidades de protección. Responsabilidades Identificar y contactar potenciales clientes. Asesorar a los clientes sobre las opciones de seguros disponibles. Presentar propuestas y cerrar ventas de pólizas de seguros. Gestionar y mantener una cartera de clientes activa. Cumplir con los objetivos de venta establecidos. Mantenerse actualizado sobre los productos y el mercado de seguros. Beneficios y Oportunidades Atractivo esquema de bonos y comisiones. Oportunidades de desarrollo profesional y plan de carrera. Ingreso a una estructura formal con beneficios. Requisitos Experiencia previa en ventas, preferentemente en el sector de seguros. Excelentes habilidades de comunicación, negociación y persuasión. Orientación a resultados y al logro de objetivos. Capacidad para trabajar de forma autónoma y gestionar el tiempo eficientemente. Actitud proactiva y vocación de servicio al cliente.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/agente-de-seguros-erika-1118467150.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/agente-de-seguros-erika-1118467150.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

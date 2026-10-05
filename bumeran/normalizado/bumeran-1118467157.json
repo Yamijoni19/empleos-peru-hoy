@@ -1,0 +1,66 @@
+{
+    "id":  "bumeran-1118467157",
+    "clave":  "id:1118467157",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-toulouse-lautrec-javier-prado-temporal-visiva-1118467157.html",
+                   "capturadoEn":  "2026-10-05T03:18:37+00:00"
+               },
+    "titulo":  "Asesor de Ventas - Toulouse Lautrec Javier Prado/Temporal",
+    "empresa":  "VISIVA",
+    "ubicacion":  "Lima - Magdalena del Mar",
+    "ciudad":  "Magdalena del Mar",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos VISIVA un Holding Educativo, que tiene como principales marcas a Certus, UCAL y Toulouse Lautrec. En esta oportunidad, en Toulouse Lautrec nos encontramos en búsqueda de un Asesor de Ventas (Asesor de venta interna) - para la sede Javier Prado. Requisitos: Técnico completo o incompleto en Marketing, Gestión Comercial, Administración o afines. Contar con 1 año de experiencia realizando ventas en el sector educativo, call center o banca (Deseable) Dominio de herramientas de comunicación: meet, zoom, etc. y de cooperación: google drive. Dominio de MS Office a nivel intermedio deseable. Funciones: El asesor de Venta Interna será responsable de contactar a los alumnos y egresados para ofrecerles la oportunidad de adquirir productos SAC. Proporcionar información detallada sobre los productos SAC, Creative Lab, Modalidad Integrada y Tesis Creativa, los beneficios al contratarlos para su educación y responder a todas las consultas de los alumnos y egresados. El asesor de Venta Interna debe utilizar técnicas de persuasión efectivas para concientizar a los alumnos y egresados de la importancia de seguir con sus estudios, destacando los beneficios académicos y profesionales. Registro de interacciones y actualización de la información en el sistema respecto a gestión de clientes. Realizar un seguimiento oportuno de los alumnos y egresados contactados para proporcionar asistencia adicional que puedan necesitar sobre los productos contratados. El asesor de Venta Interna ingresos debe colaborar estrechamente con otros departamentos, como: Registros académicos, Programación Académica, Facturación, Caja y Experiencia al alumno, asegurando una transición limpia. Ofrecemos: Ingreso a planilla desde el primer día Salario base + variable. Beneficios al 100% Modalidad de trabajo presencial en sede TLS Javier Prado: Av. Javier Prado Oeste 980 - Magdalena Contrato Temporal (x3 meses con posibilidad de renovación) - De lunes a viernes de 9am a 6pm y sábados de 9am a 1pm (100% presencial) \"Visiva mantiene una política de contratación inclusiva por lo que invita a todas las personas a participar en el proceso de selección de la referencia\"",
+    "requisitos":  [
+                       "Técnico completo o incompleto en Marketing, Gestión Comercial, Administración o afines.",
+                       "Contar con 1 año de experiencia realizando ventas en el sector educativo, call center o banca (Deseable)",
+                       "Dominio de herramientas de comunicación: meet, zoom, etc. y de cooperación: google drive.",
+                       "Dominio de MS Office a nivel intermedio deseable."
+                   ],
+    "funciones":  [
+                      "El asesor de Venta Interna será responsable de contactar a los alumnos y egresados para ofrecerles la oportunidad de adquirir productos SAC.",
+                      "Proporcionar información detallada sobre los productos SAC, Creative Lab, Modalidad Integrada y Tesis Creativa, los beneficios al contratarlos para su educación y responder a todas las consultas de los alumnos y egresados.",
+                      "El asesor de Venta Interna debe utilizar técnicas de persuasión efectivas para concientizar a los alumnos y egresados de la importancia de seguir con sus estudios, destacando los beneficios académicos y profesionales.",
+                      "Registro de interacciones y actualización de la información en el sistema respecto a gestión de clientes.",
+                      "Realizar un seguimiento oportuno de los alumnos y egresados contactados para proporcionar asistencia adicional que puedan necesitar sobre los productos contratados.",
+                      "El asesor de Venta Interna ingresos debe colaborar estrechamente con otros departamentos, como: Registros académicos, Programación Académica, Facturación, Caja y Experiencia al alumno, asegurando una transición limpia."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-toulouse-lautrec-javier-prado-temporal-visiva-1118467157.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-toulouse-lautrec-javier-prado-temporal-visiva-1118467157.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

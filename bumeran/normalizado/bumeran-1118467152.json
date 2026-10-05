@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467152",
+    "clave":  "id:1118467152",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-cw-peru-1118467152.html",
+                   "capturadoEn":  "2026-10-05T03:18:46+00:00"
+               },
+    "titulo":  "Asistente de Recursos Humanos",
+    "empresa":  "Cw Peru",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,700 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Recursos Humanos Resumen del Puesto Buscamos un Asistente de Recursos Humanos proactivo y organizado para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en administración, gestión de personal y legislación laboral, con capacidad para ejecutar diversas funciones del área de manera eficiente. Responsabilidades Principales Supervisar al personal del área de oficina. Gestionar la apertura y cierre de las instalaciones de oficina. Realizar declaraciones y trámites relacionados con nóminas y seguridad social. Elaborar y gestionar documentos de amonestación para el personal. Preparar liquidaciones, planillas y calcular beneficios laborales como CTS y gratificaciones. Registrar la póliza de seguro de vida. Participar activamente en el proceso de reclutamiento de personal. Realizar gestiones administrativas ante las entidades laborales correspondientes. Ejecutar tareas administrativas siguiendo manuales y procedimientos establecidos. Colaborar en otras funciones asignadas por la supervisión directa. Requisitos del Puesto Formación académica en Administración, Recursos Humanos, Administración de Empresas o carreras afines. Experiencia mínima de 1 año en puestos similares. Dominio de herramientas ofimáticas como Word y Excel a nivel intermedio. Conocimiento en funciones y manejo de personal. Experiencia en gestión de personal, contratos y procesos disciplinarios. Conocimiento indispensable de Legislación Laboral. Experiencia indispensable en el manejo de sistemas de gestión de nóminas y declaraciones tributarias. Habilidades de organización, proactividad y atención al detalle. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-cw-peru-1118467152.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-cw-peru-1118467152.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

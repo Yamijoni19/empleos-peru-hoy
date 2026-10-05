@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118467148",
+    "clave":  "id:1118467148",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-servicios-generales-unidad-minera-hochschild-1118467148.html",
+                   "capturadoEn":  "2026-10-05T03:18:55+00:00"
+               },
+    "titulo":  "Analista de Servicios Generales - Unidad Minera",
+    "empresa":  "Hochschild",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Hochschild somos responsables, innovadores, nos apasionan los retos e inspirar y promover el talento para contribuir con un mundo mejor. Lo hacemos de la mano de los mejores, en un ambiente inclusivo y diverso, y queremos que seas parte de ello: Analista de Servicios Generales - Unidad Minera Información General: Ubicación: Unidad Minera Modalidad: Régimen 14x7 Cobertura de traslados desde determinadas ciudades, alojamiento y alimentación al 100%. Funciónes del puesto: Supervisar y garantizar la limpieza, el orden y la presentación de habitaciones, oficinas y áreas comunes de la operación. Coordinar los traslados y el transporte para los cambios de turno, asegurando el cumplimiento del sistema de programación y turnos establecidos. Gestionar la relación con proveedores de transporte, incluyendo la evaluación de costos, la negociación de servicios y el seguimiento del desempeño. Organizar y supervisar la logística de entrega, recogida y retorno de indumentaria laboral y ropa de uso institucional para su lavado y reacondicionamiento. Administrar y controlar las solicitudes y compras operativas vinculadas al área, velando por el cumplimiento del presupuesto y las necesidades operativas. Supervisar el mantenimiento preventivo y correctivo de campamentos, instalaciones y servicios asociados, coordinando trabajos con contratistas y áreas técnicas. Registrar, dar seguimiento y reportar las observaciones e indicadores relacionados con Seguridad y Medio Ambiente, asegurando la ejecución de acciones correctivas hasta su cierre. Requisitos: Titulado(a) en Administración de Empresas, Ingenieria Industrial o afines. Manejo de Excel a nivel avanzado. Manejo de Power BI a nivel intermedio. Contar con conocimiento en mantenimientos menores en campamentos, KPIs y transporte. Contar con experiencia de 3 años de experiencia desempeñando funciones similares en Minería ¡Te invitamos a ser parte de Hochschild y que descubras por qué Somos más que Minería!",
+    "requisitos":  [
+                       "Ubicación: Unidad Minera",
+                       "Modalidad: Régimen 14x7",
+                       "Cobertura de traslados desde determinadas ciudades, alojamiento y alimentación al 100%.",
+                       "Titulado(a) en Administración de Empresas, Ingenieria Industrial o afines.",
+                       "Manejo de Excel a nivel avanzado.",
+                       "Manejo de Power BI a nivel intermedio.",
+                       "Contar con conocimiento en mantenimientos menores en campamentos, KPIs y transporte.",
+                       "Contar con experiencia de 3 años de experiencia desempeñando funciones similares en Minería"
+                   ],
+    "funciones":  [
+                      "Supervisar y garantizar la limpieza, el orden y la presentación de habitaciones, oficinas y áreas comunes de la operación.",
+                      "Coordinar los traslados y el transporte para los cambios de turno, asegurando el cumplimiento del sistema de programación y turnos establecidos.",
+                      "Gestionar la relación con proveedores de transporte, incluyendo la evaluación de costos, la negociación de servicios y el seguimiento del desempeño.",
+                      "Organizar y supervisar la logística de entrega, recogida y retorno de indumentaria laboral y ropa de uso institucional para su lavado y reacondicionamiento.",
+                      "Administrar y controlar las solicitudes y compras operativas vinculadas al área, velando por el cumplimiento del presupuesto y las necesidades operativas.",
+                      "Supervisar el mantenimiento preventivo y correctivo de campamentos, instalaciones y servicios asociados, coordinando trabajos con contratistas y áreas técnicas.",
+                      "Registrar, dar seguimiento y reportar las observaciones e indicadores relacionados con Seguridad y Medio Ambiente, asegurando la ejecución de acciones correctivas hasta su cierre."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-servicios-generales-unidad-minera-hochschild-1118467148.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-servicios-generales-unidad-minera-hochschild-1118467148.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

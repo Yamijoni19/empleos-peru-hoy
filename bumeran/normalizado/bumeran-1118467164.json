@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118467164",
+    "clave":  "id:1118467164",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-inocuidad-alimentaria-wu-restaurantes-1118467164.html",
+                   "capturadoEn":  "2026-10-05T03:18:23+00:00"
+               },
+    "titulo":  "Practicante de Inocuidad Alimentaria",
+    "empresa":  "WU RESTAURANTES",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una cadena peruana líder, representada por nuestras reconocidas marcas: Pardos Chicken, Planet Chicken, Mr. Shao, y Pasquale. Nos destacamos por ofrecer excelencia en el mercado y por ser un lugar donde el talento florece. \u0026#x1f3c6; Orgullosamente reconocidos como una de las mejores empresas para trabajar en Perú por Great Place to Work 2025 y Computrabajo Best Work Place 2026, en la categoría de Hoteles y Restaurantes. En Wu Restaurantes, nuestra misión es compartir felicidad en cada experiencia, y queremos que tú seas parte de esta gran familia. Buscamos Practicante Preprofesional o Profesional de Inocuidad Alimentaria – Restaurantes Pardos (Zona Sur) Brindar soporte al área de Calidad e Inocuidad Alimentaria en la supervisión y seguimiento del cumplimiento de BPM, POES y lineamientos de inocuidad en múltiples sedes. Requisitos: Egresado(a) de Ingeniería de Alimentos, Ingeniería Agroindustrial, Ingeniería Industrial, Nutrición, Biología o carreras afines. Deseable haber llevado cursos de BPM, HACCP o Inocuidad Alimentaria. Deseable experiencia o conocimiento del rubro alimentos, restaurantes o food service. Conocimientos básicos de BPM y POES. Conocimiento general de HACCP (deseable). Manejo de Excel a nivel básico–intermedio. Disposición para realizar visitas a sedes de Zona Sur. Responsabilidades: Apoyar en la supervisión del cumplimiento de BPM y POES en las distintas sedes. Apoyar en la ejecución de inspecciones y auditorías internas. Registrar hallazgos, evidencias y seguimiento de acciones correctivas. Apoyar en la gestión documental del sistema de inocuidad. Apoyar en la actualización de procedimientos, instructivos y formatos. Brindar soporte en capacitaciones internas sobre inocuidad alimentaria. Apoyar en la elaboración de reportes de visitas a los diferentes restaurantes de la zona asignada. ¿Qué te ofrecemos? Subvención económica acorde al mercado. Oportunidades de desarrollo profesional en un entorno dinámico y de aprendizaje continuo. Formar parte de una compañía reconocida por su compromiso con la excelencia y sus valores. Movilidad inter restaurantes. Seguro FOLA. \u0026#x1f4e2; ¡Únete a Wu Restaurantes y vive la experiencia de trabajar en un lugar extraordinario!",
+    "requisitos":  [
+                       "Egresado(a) de Ingeniería de Alimentos, Ingeniería Agroindustrial, Ingeniería Industrial, Nutrición, Biología o carreras afines.",
+                       "Deseable haber llevado cursos de BPM, HACCP o Inocuidad Alimentaria.",
+                       "Deseable experiencia o conocimiento del rubro alimentos, restaurantes o food service.",
+                       "Conocimientos básicos de BPM y POES.",
+                       "Conocimiento general de HACCP (deseable).",
+                       "Manejo de Excel a nivel básico–intermedio.",
+                       "Disposición para realizar visitas a sedes de Zona Sur."
+                   ],
+    "funciones":  [
+                      "Apoyar en la supervisión del cumplimiento de BPM y POES en las distintas sedes.",
+                      "Apoyar en la ejecución de inspecciones y auditorías internas.",
+                      "Registrar hallazgos, evidencias y seguimiento de acciones correctivas.",
+                      "Apoyar en la gestión documental del sistema de inocuidad.",
+                      "Apoyar en la actualización de procedimientos, instructivos y formatos.",
+                      "Brindar soporte en capacitaciones internas sobre inocuidad alimentaria.",
+                      "Apoyar en la elaboración de reportes de visitas a los diferentes restaurantes de la zona asignada."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-inocuidad-alimentaria-wu-restaurantes-1118467164.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-inocuidad-alimentaria-wu-restaurantes-1118467164.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

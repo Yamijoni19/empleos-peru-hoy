@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467129",
+    "clave":  "id:1118467129",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-planeamiento-de-cadena-de-suministro-rcs-capital-humano-1118467129.html",
+                   "capturadoEn":  "2026-10-05T03:19:09+00:00"
+               },
+    "titulo":  "Analista de Planeamiento de Cadena de Suministro",
+    "empresa":  "RCS Capital Humano",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Sueldo: S/ 1,600",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, QSI productos para la construcción, nos encontramos en búsqueda de un Analista de Planeamiento de Cadena de Suministro. Requisitos Bachiller en Ingeniería Industrial, Administración, Ingeniería Estadística o carreras afines. Especialización en Planificación de la cadena de suministro, Gestión de Inventarios, Planeamiento o Gestión de operaciones Supply Chain. Experiencia de 3 años en planificación o gestión de producción (indispensable) Experiencia en plantas industriales (indispensable) Manejo de SAP (indispensable) Excel avanzado (indispensable) Disponibilidad para laborar en Lurín Deseable conocimiento de MRP/MRP2 y estadística básica. Funciones Elaborar y mantener actualizado el plan de abastecimiento de materias primas, considerando demanda, inventarios, lead times y políticas de stock. Monitorear y controlar los niveles de inventario de materias primas, materiales de empaque y productos terminados. Realizar la planificación de producción considerando la demanda y la disponibilidad de materiales. Gestionar la capacidad productiva y los recursos críticos. Identificar y gestionar restricciones operativas que afecten la ejecución del plan. Coordinar con Compras, Producción, Almacenes, Despachos y Comercial la ejecución de los planes de suministro y producción. Monitorear indicadores de desempeño de Supply Chain y gestionar planes de acción ante desviaciones. Participar en el proceso de S\u0026OP y ejecutar el MRP. Desarrollar otras funciones inherentes a su ámbito de acción asignadas por su jefe directo. Beneficios Planilla completa con todos los beneficios de ley Alimentación: Tarjeta de alimentos EPS al 65%",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-planeamiento-de-cadena-de-suministro-rcs-capital-humano-1118467129.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-planeamiento-de-cadena-de-suministro-rcs-capital-humano-1118467129.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

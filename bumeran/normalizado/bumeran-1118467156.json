@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467156",
+    "clave":  "id:1118467156",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/profesional-de-asuntos-regulatorios-dispositivos-medicos-cw-peru-1118467156.html",
+                   "capturadoEn":  "2026-10-05T03:18:41+00:00"
+               },
+    "titulo":  "Profesional de Asuntos Regulatorios - Dispositivos Médicos",
+    "empresa":  "Cw Peru",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,700 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Profesional de Asuntos Regulatorios - Dispositivos Médicos Resumen del Puesto Estamos en la búsqueda de un profesional con formación en Farmacia y Bioquímica para unirse a nuestro equipo en el área de Asuntos Regulatorios. El candidato ideal poseerá experiencia específica en la gestión regulatoria de dispositivos médicos y un sólido conocimiento de las Buenas Prácticas de Manufactura (BPA). Responsabilidades Principales Elaboración y gestión de Registros Sanitarios para dispositivos médicos. Soporte en los procesos de inscripción y reinscripción de registros sanitarios. Monitoreo de niveles de stock y gestión de agotamiento. Coordinación de ampliaciones o cambios en la forma de presentación de productos. Atención a consultas técnicas de productos dirigidas al área comercial. Preparación y verificación de la documentación técnica requerida para trámites regulatorios. Realización de inspecciones de calidad y verificación del cumplimiento de buenas prácticas. Seguimiento de expedientes de productos para diversos trámites regulatorios. Requisitos del Puesto Título universitario en Farmacia y Bioquímica o disciplina afín. Experiencia comprobada en asuntos regulatorios, específicamente con dispositivos médicos. Conocimiento sólido y demostrable de Buenas Prácticas de Manufactura (BPA). Nivel de inglés intermedio (comprensión y redacción). Capacidad analítica y de resolución de problemas. Habilidades de organización y gestión de proyectos. Excelentes habilidades de comunicación y trabajo en equipo. Autonomía y proactividad en la gestión de tareas.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/profesional-de-asuntos-regulatorios-dispositivos-medicos-cw-peru-1118467156.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/profesional-de-asuntos-regulatorios-dispositivos-medicos-cw-peru-1118467156.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

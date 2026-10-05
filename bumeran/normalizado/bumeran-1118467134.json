@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467134",
+    "clave":  "id:1118467134",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-playa-grande-1118467134.html",
+                   "capturadoEn":  "2026-10-05T03:19:02+00:00"
+               },
+    "titulo":  "Asistente de Facturación",
+    "empresa":  "PLAYA GRANDE",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Facturación Resumen del Puesto Buscamos un Asistente de Facturación para unirse a nuestro equipo. El rol principal será la gestión integral de la emisión y control de comprobantes de pago, validación de información de clientes y operaciones, registro de pagos y mantenimiento actualizado de la documentación de facturación. Responsabilidades Elaborar, emitir, registrar y enviar comprobantes de pago: boletas, facturas y notas de crédito. Identificar y registrar pagos recibidos, manteniendo actualizados los controles de pago. Realizar el seguimiento de comprobantes emitidos, pagos pendientes y documentos observados. Atender consultas de clientes relacionadas con pagos, comprobantes y documentación de facturación. Requisitos Formación técnica o universitaria en Contabilidad, Administración, Finanzas o carreras afines. Experiencia mínima de 1 año en facturación, cobranzas o funciones similares. Manejo de sistemas de facturación electrónica. Se valorará experiencia con Sauri ERP. Nivel intermedio en el manejo de Microsoft Excel. Conocimiento de operaciones y transacciones bancarias.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-playa-grande-1118467134.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-playa-grande-1118467134.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

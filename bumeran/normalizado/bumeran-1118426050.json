@@ -1,0 +1,59 @@
+{
+    "id":  "bumeran-1118426050",
+    "clave":  "id:1118426050",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-gerencia-general-recepcion-1118426050.html",
+                   "capturadoEn":  "2026-10-05T03:19:05+00:00"
+               },
+    "titulo":  "Asistente de Gerencia General - Recepción",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2000 a S/ 2500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "FUNCIONES: Organizar citas, reuniones y viajes del gerente. Redactar informes, actas, cartas, manejo de documentos y caja chica. Actuar como filtro y enlace entre la gerencia y las áreas de la organización o clientes. Supervisar la limpieza, imagen y orden de la oficina. REQUISITOS: Formación: Técnico o bachiller en Administración, Secretariado Ejecutivo, o afines. Experiencia: Mínima de 3 años en puestos similares. Herramientas: Dominio de MS Office (Word, Excel, PowerPoint) a nivel intermedio. BENEFICIOS: Sueldo: Entre S/ 2000 a S/ 2500 Lugar de trabajo: Miraflores Horario: lunes a viernes de 8:45 a.m. a 6:15 p.m. y sábados de 9:15 a.m. a 1:30 p.m",
+    "requisitos":  [
+                       "Formación: Técnico o bachiller en Administración, Secretariado Ejecutivo, o afines."
+                   ],
+    "funciones":  [
+                      "Organizar citas, reuniones y viajes del gerente."
+                  ],
+    "beneficios":  [
+                       "Sueldo: Entre S/ 2000 a S/ 2500"
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-gerencia-general-recepcion-1118426050.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-gerencia-general-recepcion-1118426050.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

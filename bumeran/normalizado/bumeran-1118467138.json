@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467138",
+    "clave":  "id:1118467138",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/abogado-con-experiencia-ajam-inversiones-sac-1118467138.html",
+                   "capturadoEn":  "2026-10-05T03:19:01+00:00"
+               },
+    "titulo":  "Abogado con Experiencia",
+    "empresa":  "AJAM INVERSIONES SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Abogado con Experiencia Resumen del Puesto Estamos en la búsqueda de un Abogado con Experiencia para integrarse a un equipo profesional. El candidato ideal poseerá un sólido conocimiento del marco legal y experiencia práctica en la gestión de asuntos legales. Responsabilidades Asesorar en cuestiones legales y normativas. Redactar y revisar documentos legales. Representar en procedimientos legales. Colaborar con otros profesionales para asegurar el cumplimiento legal. Mantenerse actualizado sobre la legislación vigente. Requisitos Título universitario en Derecho. Experiencia previa demostrable en el ejercicio de la abogacía. Profundo conocimiento de la legislación aplicable. Capacidad para el análisis jurídico y la resolución de conflictos. Habilidades de comunicación y negociación. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/abogado-con-experiencia-ajam-inversiones-sac-1118467138.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/abogado-con-experiencia-ajam-inversiones-sac-1118467138.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

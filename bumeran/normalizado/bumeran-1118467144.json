@@ -1,0 +1,62 @@
+{
+    "id":  "bumeran-1118467144",
+    "clave":  "id:1118467144",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-psicologia-admision-instituto-toulouse-lautrec-visiva-1118467144.html",
+                   "capturadoEn":  "2026-10-05T03:19:00+00:00"
+               },
+    "titulo":  "Asistente de Psicología - Admisión/Instituto Toulouse Lautrec",
+    "empresa":  "VISIVA",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos VISIVA un Holding Educativo, que tiene como principales marcas a Certus, UCAL y Toulouse Lautrec, nosotros tenemos el propósito de “llenar el mundo de personas que lo mejoren”; por ello diseñamos rutas y experiencias de aprendizaje que conecten las aspiraciones de nuestros estudiantes con mejores oportunidades de vida. En esta oportunidad, Certus se encuentra en búsqueda de un Asistente de Psicología (Ejecutivo de Experiencia) Requisitos: Titulado(a) en Psicología. Experiencia en evaluación y entrevistas psicológicas. Conocimientos en detección de factores de riesgo. Experiencia laborando en el sector educativo. Deseable experiencia en instituciones educativas o procesos de admisión. Manejo de herramientas ofimáticas y sistemas de registro. Funciones: Brindar acompañamiento y orientación a los estudiantes, atendiendo sus consultas y necesidades relacionadas con su experiencia académica, bienestar y permanencia. Realizar consejería y seguimiento individual a estudiantes, identificando situaciones que puedan afectar su continuidad. Realizar llamadas y contactos de seguimiento a estudiantes, especialmente a aquellos identificados en situación de riesgo estudiantil. Realizar seguimiento a estudiantes beneficiarios de becas y otros beneficios estudiantiles, verificando su situación y brindando orientación sobre las condiciones y procesos correspondientes. Desarrollar charlas, talleres y espacios de orientación para estudiantes, abordando temas relacionados con bienestar, empleabilidad, permanencia y desarrollo personal o profesional. Identificar necesidades y situaciones recurrentes de los estudiantes, coordinando con las áreas correspondientes la atención o derivación de los casos que requieran intervención especializada. Elaborar informes y reportes de seguimiento, registrando las principales atenciones realizadas, casos identificados, avances y resultados de las acciones de acompañamiento. Participar en actividades y acciones orientadas a fortalecer la experiencia, bienestar y permanencia de los estudiantes, en coordinación con las áreas académicas y administrativas. Mantener actualizados los registros de atención y seguimiento de estudiantes, asegurando el adecuado registro de las gestiones realizadas y los compromisos establecidos. Se ofrece: Planilla completa con beneficios de acuerdo a Ley. Descuentos educativos de hasta el 90% con nuestras marcas. Línea de carrera y crecimiento profesional. Lugar: Certus - San Juan de Lurigancho \"Visiva mantiene una política de contratación inclusiva por lo que invita a todas las personas a participar en el proceso de selección de la referencia\"",
+    "requisitos":  [
+                       "Titulado(a) en Psicología.",
+                       "Experiencia en evaluación y entrevistas psicológicas.",
+                       "Conocimientos en detección de factores de riesgo.",
+                       "Experiencia laborando en el sector educativo.",
+                       "Deseable experiencia en instituciones educativas o procesos de admisión.",
+                       "Manejo de herramientas ofimáticas y sistemas de registro."
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-psicologia-admision-instituto-toulouse-lautrec-visiva-1118467144.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-psicologia-admision-instituto-toulouse-lautrec-visiva-1118467144.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

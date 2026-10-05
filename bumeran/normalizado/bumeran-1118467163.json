@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467163",
+    "clave":  "id:1118467163",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-community-manager-cw-peru-1118467163.html",
+                   "capturadoEn":  "2026-10-05T03:18:29+00:00"
+               },
+    "titulo":  "Asistente Comercial y Community Manager",
+    "empresa":  "Cw Peru",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Comercial y Community Manager Resumen del Puesto Buscamos un profesional proactivo y organizado para unirse a nuestro equipo como Asistente Comercial y Community Manager . El candidato ideal poseerá habilidades sólidas en administración, ventas, atención al cliente y gestión de redes sociales, con una fuerte orientación a resultados y deseos de crecimiento profesional. Responsabilidades Gestionar y desarrollar la cartera de clientes asignada, buscando alcanzar los objetivos de venta. Realizar la búsqueda y organización de eventos, cursos y/o talleres. Atender y dar solución oportuna a las solicitudes de reclamos de los clientes. Administrar y dinamizar las redes sociales de la organización, creando contenido atractivo y gestionando la interacción con la comunidad. Identificar oportunidades de venta a través de llamadas telefónicas y visitas a clientes potenciales. Presentar de manera efectiva los productos y servicios ofrecidos. Colaborar en tareas administrativas relacionadas con el área comercial. Requisitos Formación técnica o universitaria en Administración, Administración y Marketing, o carreras afines. Experiencia mínima de 1 año en roles comerciales, ventas y atención al cliente. Dominio de herramientas ofimáticas, especialmente Word y Excel (nivel intermedio). Conocimiento y experiencia en el manejo de redes sociales y estrategias de Community Management. Capacidad para gestionar de forma autónoma la cartera de clientes y alcanzar metas. Habilidades de comunicación, proactividad y orientación al aprendizaje continuo. Disponibilidad para realizar viajes ocasionales.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-community-manager-cw-peru-1118467163.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-community-manager-cw-peru-1118467163.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

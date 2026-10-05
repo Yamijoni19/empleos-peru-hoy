@@ -1,0 +1,59 @@
+{
+    "id":  "bumeran-1118467158",
+    "clave":  "id:1118467158",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-en-el-sector-de-calzado-sede-ate-cyl-1118467158.html",
+                   "capturadoEn":  "2026-10-05T03:18:34+00:00"
+               },
+    "titulo":  "OPERARIO DE PRODUCCIÓN EN EL SECTOR DE CALZADO -SEDE ATE",
+    "empresa":  "CYL",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1130,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/. 1,130.00",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "¡POSTULA HOY! Calimod es una empresa peruana con más de 60 años de experiencia en la fabricación y comercialización de calzado de cuero 100% peruano. Actualmente está en búsqueda de Operarios de Producción con o sin experiencia para su sede en ATE. \u0026#x1f4f2; ¡POSTULA AHORA! \u0026#x1f449; Escribe 900 026 132 al WhatsApp. Beneficios: -Remuneración: S/. 1,130.00 + pago por horas extras. + con asignación familiar -Frecuencia de pago: Semanal, se paga todos los viernes. -Ingreso a planilla: Desde el primer día de trabajo, con todos los beneficios de ley. -Alimentación: Cubierta al 100%. -Beneficios adicionales: Reparto de utilidades y beneficios corporativos. FUNCIONES: -Habilitar, clasificar y ordenar piezas de cuero o forro cortadas según lotes, tallas y modelos. - Realizar tareas básicas de perforado, picado u ojalillado según las indicaciones del área. - Preparar y acomodar las hormas junto con sus plantillas de armado. - Aplicar pegamentos, reactivadores o halógenos con brocha en suelas, bases y plantas. - Retirar la horma del calzado, limpiar excesos de pegamento y refilar hilos sobrantes. - Colocar plantillas, pasadores, empaquetar y encajonar el producto final. - Cumplir con las normas de seguridad e higiene industrial de la planta. - Mantener el orden y la limpieza de la estación de trabajo antes, durante y al finalizar la jornada. - Realizar otras tareas de apoyo operativo asignadas por el supervisor inmediato. Requisitos: -Educación: Secundaria o primaria completa. -Experiencia: Sin experiencia o experiencia mínima de 3 meses en el área de producción. Horario: L–J 7:30am a 7:30pm | V 7:30am a 5:00pm | Sáb 7:30am a 4:00pm (VIENE INCLUIDO LAS HORAS EXTRAS EN ESTE HORARIO)",
+    "requisitos":  [
+                       "-Educación: Secundaria o primaria completa."
+                   ],
+    "funciones":  [
+                      "-Habilitar, clasificar y ordenar piezas de cuero o forro cortadas según lotes, tallas y modelos."
+                  ],
+    "beneficios":  [
+                       "-Remuneración: S/. 1,130.00 + pago por horas extras. + con asignación familiar"
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-en-el-sector-de-calzado-sede-ate-cyl-1118467158.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-en-el-sector-de-calzado-sede-ate-cyl-1118467158.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
