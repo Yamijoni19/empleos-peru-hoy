@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467304",
+    "clave":  "id:1118467304",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-ssoma-minera-titan-del-peru-srl-1118467304.html",
+                   "capturadoEn":  "2026-10-05T19:49:07+00:00"
+               },
+    "titulo":  "Supervisor SSOMA",
+    "empresa":  "MINERA TITAN DEL PERU SRL",
+    "ubicacion":  "Arequipa - Caravelí",
+    "ciudad":  "Caravelí",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f680; ¡OPORTUNIDAD LABORAL! \u0026#x1f477;‍♂️ En Minera Titán del Perú nos encontramos en la búsqueda de un(a) Supervisor SSOMA para fortalecer la cultura de seguridad y prevención en nuestras operaciones mineras. \u0026#x1f9ba; \u0026#x1f393; Requisitos: Ingeniero titulado y colegiado de las carreras de Ingeniería Industrial, Ingeniería Metalúrgica y/o carreras afines. Experiencia de 01 a 03 años en el cargo en empresas del sector minero. Conocimiento de office a nivel intermedio. Deseable especialización en el área de seguridad, salud ocupacional y medio ambiente. Disponibilidad para laborar bajo régimen 20x10 \u0026#x1f6e0;️ Funciones: Dar seguimiento a los compromisos ambientales a través de programas de sensibilización establecidos para tener una empresa responsable con el medio ambiente. Declarar las estadísticas de seguridad de manera mensual a través del periódico mural y la página web del ministerio de energía y minas para cumplir con la normativa. Apoyar con la elaboración de los planes en temas de seguridad, salud ocupacional y medio ambiente mediante la recopilación y procesamiento de la información solicitada a cada planta para la respectiva aprobación y el cumplimiento de los compromisos asumidos por la empresa. Elaborar los informes del área mediante la recopilación de datos de las distintas actividades realizadas para presentarlos mensualmente a la gerencia de SSOMA. Validar y revisar documentación ambiental de los componentes de la planta de procesamiento, para el levantamiento de observaciones, producto de los procesos de fiscalización de las autoridades correspondientes. Entre otras funciones que sean designadas por el líder inmediato. \u0026#x1f381; Beneficios: Ingreso directo a planilla con todos los beneficios de ley. EPS cubierta al 85%. Participación en utilidades. \u0026#x1f477;‍♂️ Si eres un profesional que desea crecer en un entorno desafiante, ¡esperamos tu postulación! \u0026#x1f449; En nuestros procesos de selección no se toman en cuenta aspectos ajenos al desempeño profesional, tales como la raza, el género, la religión, el estado civil, la edad, la condición socioeconómica, la discapacidad, la orientación u otras características personales. Asimismo, reafirmamos que en nuestra organización no se permite ninguna forma de discriminación, en cumplimiento de lo establecido por la Ley N.° 29973, la Ley N.° 30709 y sus respectivos reglamentos. ¿Por qué Minera Titán del Perú? Somos una empresa que fomenta el desarrollo de nuestros colaboradores, ofreciendo un entorno de trabajo retador, oportunidades para crecer y un equipo que valora el talento y el compromiso. Si deseas un desafío profesional en una empresa sólida y con proyección, ¡Minera Titán es tu lugar! ¡Suma tu talento y sé parte de un futuro sostenible con Minera Titán del Perú! \u0026#x1f477;‍♂️✨",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-02-01",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-ssoma-minera-titan-del-peru-srl-1118467304.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-ssoma-minera-titan-del-peru-srl-1118467304.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

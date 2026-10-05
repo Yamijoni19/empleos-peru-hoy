@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467318",
+    "clave":  "id:1118467318",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/programa-de-practicas-profesionales-condestable-1118467318.html",
+                   "capturadoEn":  "2026-10-05T19:48:50+00:00"
+               },
+    "titulo":  "Programa de Prácticas Profesionales",
+    "empresa":  "Condestable",
+    "ubicacion":  "Lima - Mala",
+    "ciudad":  "Mala",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una empresa minera peruana, fundada en 2010. Nos dedicamos a la explotación, procesamiento y comercialización de concentrados de minerales. Trabajamos con altos estándares internacionales, priorizando la seguridad de nuestros trabajadores, la protección del medio ambiente y el desarrollo sostenible. Operamos Condestable ubicada en el distrito de Mala (Lima) donde extraemos cobre, con una capacidad de procesamiento de 8400 toneladas por día. Talento Cobre es el programa de prácticas profesionales de Condestable, creado para que jóvenes talentos puedan aplicar sus conocimientos, aprender de profesionales de la industria minera y asumir nuevos desafíos profesionales. Carreras Convocadas Ingeniería Geológica Ingeniería de Minas Ingeniería Mecánica Ingeniería Mecatrónica Ingeniería Eléctrica Ingeniería Electrónica Ingeniería Metalúrgica Ingeniería Civil Ingeniería Química Ingeniería Ambiental Ingeniería Industrial Ingeniería Comercial Geología Negocios Internacionales Psicología Administración Contabilidad ¿Qué ganarás? Desarrollar tus conocimientos en un entorno real de trabajo. Aprender de profesionales con experiencia en la industria minera. Contar con feedback y seguimiento constante durante tu formación, a través de un tutor(a) especializado(a). Desarrollar un plan de formación integral, de acuerdo a tu especialidad. Oportunidad de presentar un proyecto de mejora que te permita aplicar tus conocimientos, aportar ideas y demostrar tu talento. Requisitos: ¿Qué necesitas para postular? Ser egresado o bachiller universitario, o egresado de un instituto técnico o del CETPRO, según el perfil de la vacante. Pertenecer a las promociones 2025 o 2026.​ Modalidades y condiciones ​Tener disponibilidad para realizar prácticas hasta por 12 meses. Contar con disponibilidad para el régimen: Unidad minera: 14x7 y Sede Lima: 5x2. Beneficios Acceso a convenios corporativos. Subvención económica de acuerdo con la modalidad de prácticas. Seguro privado FOLA.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/programa-de-practicas-profesionales-condestable-1118467318.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/programa-de-practicas-profesionales-condestable-1118467318.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

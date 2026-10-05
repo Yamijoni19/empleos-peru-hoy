@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467391",
+    "clave":  "id:1118467391",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cadista-1118467391.html",
+                   "capturadoEn":  "2026-10-05T19:48:20+00:00"
+               },
+    "titulo":  "CADISTA",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Huancavelica - Castrovirreyna",
+    "ciudad":  "Castrovirreyna",
+    "region":  "Huancavelica",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Principales funciones Realizar los levantamientos topográficos realizados en interior mina y/o superficie en forma diaria, de acuerdo con el programa mensual de avances y producción, para cumplir con los objetivos mensuales de la empresa. Realizar el diseño de laboreo minero e infraestructura tanto en subterráneo, como en superficie, a fin de garantizar la calidad de los planos. Digitalizar los levantamientos topográficos subterráneos y superficiales, a fin de contribuir a la actualización de los planos de acuerdo con la solicitud del área. Controlar la medición semanal de los avances programados, de acuerdo con los datos proporcionados por los topógrafos, a fin de contribuir al cumplimiento semanal de avances. Registrar y controlar la información de la medición mensual de avances y producción al sistema de liquidaciones, a fin de contribuir con la optimización de valorizaciones y presupuestos. para poder ser valorizado posteriormente por el área de costos. Coordinar la disponibilidad de los recursos materiales que son requeridos por el personal del área para la ejecución y cumplimiento de los objetivos trazados, a fin de asegurar las herramientas de acuerdos a los objetivos. Cumplir con las herramientas de gestión (Orden de trabajo, IPERC, check list), políticas de la compañía, estándares y procedimientos de trabajo establecidos para la sección, manteniendo en todo momento el orden y limpieza de su área de trabajo, a fin de asegurar la aplicación de los sistemas de gestión, políticas y procedimientos operacionales establecidos por la compañía. Emitir planos actualizados de todos los componentes y laboreos de la mina Diseñar la infraestructura de mina en coordinación con el ingeniero o Jefe de planeamiento. Mantener actualizado el modelo 3D de la Mina.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-02-01",
+    "url":  "https://www.bumeran.com.pe/empleos/cadista-1118467391.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cadista-1118467391.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

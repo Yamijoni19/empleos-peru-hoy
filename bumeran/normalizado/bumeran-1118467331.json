@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467331",
+    "clave":  "id:1118467331",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutiva-de-ventas-informatica-dataplus-sac-1118467331.html",
+                   "capturadoEn":  "2026-10-05T19:48:41+00:00"
+               },
+    "titulo":  "Ejecutiva de Ventas",
+    "empresa":  "INFORMATICA DATAPLUS SAC",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ejecutiva de Ventas Resumen del Puesto Buscamos una Ejecutiva de Ventas proactiva y orientada a resultados para unirse a nuestro equipo. La candidata ideal poseerá experiencia en atención al cliente y habilidades de negociación, con capacidad para gestionar interacciones a través de diversas plataformas de comunicación. Responsabilidades Gestionar y desarrollar la cartera de clientes. Atender consultas y brindar soporte a clientes a través de canales de comunicación. Identificar oportunidades de venta y cerrar acuerdos. Colaborar con el equipo para alcanzar objetivos comerciales. Mantener un registro detallado de las interacciones con los clientes. Requisitos Experiencia previa en ventas y atención al cliente. Habilidades de comunicación efectiva, tanto escrita como verbal. Capacidad para trabajar de forma autónoma y en equipo. Orientación a la consecución de objetivos. Conocimiento en el uso de herramientas de comunicación digital. Se valorará experiencia en administración de negocios o gestión de redes sociales.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2026-12-03",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutiva-de-ventas-informatica-dataplus-sac-1118467331.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutiva-de-ventas-informatica-dataplus-sac-1118467331.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

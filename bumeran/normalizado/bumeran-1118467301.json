@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467301",
+    "clave":  "id:1118467301",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-planillas-1118467301.html",
+                   "capturadoEn":  "2026-10-05T19:49:15+00:00"
+               },
+    "titulo":  "Asistente de Planillas",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Requisitos Bachiller o titulado en Contabilidad, Administración o afines. Contar con 03 años de experiencia. Excel nivel intermedio Principales funciones Gestionar altas, bajas y modificaciones en T-Registro y sistemas relacionados. Mantener actualizados los legajos y documentos laborales. Procesar y controlar la planilla mensual y conceptos remunerativos. Calcular beneficios sociales y liquidaciones laborales. Elaborar boletas de pago, reportes y costos laborales. Elaborar y declarar PLAME, AFPnet y obligaciones laborales. Coordinar con Contabilidad la contabilización de planillas. Ofrecemos Ingreso a planilla. Trabajo presencial de lunes a viernes.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-planillas-1118467301.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-planillas-1118467301.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
