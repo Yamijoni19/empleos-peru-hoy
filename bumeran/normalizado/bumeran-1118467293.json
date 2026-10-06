@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467293",
+    "clave":  "id:1118467293",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-contable-sin-experiencia-compania-minera-crespo-s.a.c.-1118467293.html",
+                   "capturadoEn":  "2026-10-06T01:18:54+00:00"
+               },
+    "titulo":  "Analista Contable (Sin Experiencia)",
+    "empresa":  "COMPAÑIA MINERA CRESPO S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  999,
+                    "max":  7000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 999 - S/ 7,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Analista Contable (Sin Experiencia) Resumen del Puesto Buscamos un Analista Contable con gran potencial y ganas de aprender para unirse a nuestro equipo. El candidato ideal tendrá una sólida base en principios contables y será capaz de trabajar de forma independiente y como parte de un equipo. Responsabilidades Asistir en la preparación y análisis de estados financieros. Colaborar en la realización de auditorías internas. Apoyar en el desarrollo e implementación de procedimientos contables. Trabajar con otros departamentos para asegurar la precisión de los registros financieros. Mantenerse al día de los cambios en las regulaciones contables. Requisitos Licenciatura en Contabilidad o campo relacionado. Conocimiento de los principios contables generalmente aceptados (PCGA). Excelentes habilidades analíticas y de resolución de problemas. Capacidad para trabajar de forma independiente y como parte de un equipo. Excelentes habilidades de comunicación escrita y verbal. Proactividad y disposición para el aprendizaje continuo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2026-12-03",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-contable-sin-experiencia-compania-minera-crespo-s.a.c.-1118467293.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-contable-sin-experiencia-compania-minera-crespo-s.a.c.-1118467293.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

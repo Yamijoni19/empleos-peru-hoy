@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467292",
+    "clave":  "id:1118467292",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/contadora-general-bolsa-de-empleos-peru-mas-1118467292.html",
+                   "capturadoEn":  "2026-10-06T01:18:57+00:00"
+               },
+    "titulo":  "Contador(a) General",
+    "empresa":  "BOLSA DE EMPLEOS PERÚ MÁS",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  3500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,000 - S/ 3,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Contador(a) General Resumen del Puesto Buscamos un profesional experimentado para liderar nuestra gestión contable. El candidato ideal tendrá un sólido conocimiento de las normativas contables y tributarias, así como experiencia en la supervisión de equipos y la mejora de procesos. Responsabilidades Registro y control de operaciones contables. Cumplimiento de obligaciones tributarias. Elaboración de estados financieros para la toma de decisiones. Supervisión del equipo contable. Mejora continua y automatización de procesos. Requisitos Título universitario y colegiatura en Contabilidad. Mínimo 3 años de experiencia en el área contable y 2 años liderando equipos. Conocimientos en Normas Internacionales de Información Financiera (NIIF), normativa tributaria y costos. Manejo de sistemas ERP y nivel avanzado de Excel. Se valorará especialización en NIIF, Tributación o Finanzas. Condiciones Oportunidad de desarrollo profesional hacia Gerencia de Administración y Finanzas. Brindamos servicios integrales orientados a cubrir las necesidades de las organizaciones y a impulsar el crecimiento profesional de los candidatos, garantizando procesos efectivos y de calidad en procesos de gestion del talento",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/contadora-general-bolsa-de-empleos-peru-mas-1118467292.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/contadora-general-bolsa-de-empleos-peru-mas-1118467292.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

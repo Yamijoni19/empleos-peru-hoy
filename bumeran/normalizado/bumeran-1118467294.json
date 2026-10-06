@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467294",
+    "clave":  "id:1118467294",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-crespo-s.a.c.-1118467294.html",
+                   "capturadoEn":  "2026-10-06T01:18:53+00:00"
+               },
+    "titulo":  "Especialista en Relaciones Comunitarias",
+    "empresa":  "COMPAÑIA MINERA CRESPO S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  100,
+                    "max":  100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.100",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Especialista en Relaciones Comunitarias Resumen del Puesto Estamos en la búsqueda de un Especialista en Relaciones Comunitarias proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas. Responsabilidades Desarrollar e implementar estrategias para mejorar la percepción y el compromiso de la comunidad. Organizar y coordinar eventos y actividades comunitarias. Actuar como punto de contacto principal para consultas y colaboraciones comunitarias. Identificar oportunidades de participación y apoyo a iniciativas locales. Monitorear y responder a las necesidades y preocupaciones de la comunidad. Elaborar informes sobre el impacto y los resultados de las iniciativas comunitarias. Requisitos Formación en Comunicación, Relaciones Públicas, Sociología o campo afín. Experiencia demostrable en gestión de relaciones comunitarias o roles similares. Excelentes habilidades de comunicación verbal y escrita. Capacidad para establecer y mantener relaciones interpersonales efectivas. Habilidades de organización y gestión de proyectos. Proactividad y capacidad para trabajar de forma autónoma y en equipo. Conocimiento de las dinámicas y necesidades comunitarias.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2026-12-03",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-crespo-s.a.c.-1118467294.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-crespo-s.a.c.-1118467294.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

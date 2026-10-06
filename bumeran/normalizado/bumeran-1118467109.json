@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118467109",
+    "clave":  "id:1118467109",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-tienda-retail-chamba-talent-s.a.c.-1118467109.html",
+                   "capturadoEn":  "2026-10-06T01:19:17+00:00"
+               },
+    "titulo":  "Asesor de tienda retail",
+    "empresa":  "CHAMBA TALENT S.A.C.",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  150,
+                    "max":  150,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "150 soles",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Importante empresa transnacional del rubro retail busca asesores de ventas que deseen formar parte de un increible equipo. Funciones Principales: Organizar y surtir productos en las diferentes secciones, manteniendo el orden y la correcta exhibición. Atender y asesorar a los clientes, ayudándolos a elegir los productos según sus necesidades. Preparar y alistar la mercadería para la entrega al cliente, asegurando su correcta codificación y coordinación con caja. Mantener y mejorar la exhibición de muebles, incluyendo el armado de productos para exhibición y nuevos productos. Requisitos: Contar con secundaria completa. Contar con minimo 06 meses de experiencia en ventas. Disponibilidad para laborar en San Isido en horarios rotativos. Beneficios: Salario basico + comisiones individuales ilimitadas. Planilla Regimen General desde el primer día de trabajo. Contrato incial de 6 meses. Bono de movilidad de 150 soles fijo. Estacionamiento incluido. Estabilidad Laboral y crecimiento profesional \u0026#x1f555; Horario Presencial | Horarios rotativos de Lunes a Domingo (2 días de descanso rotativos.) \u0026#x1f4e9; Los interesados pueden postular por este medio.",
+    "requisitos":  [
+                       "Contar con secundaria completa.",
+                       "Contar con minimo 06 meses de experiencia en ventas.",
+                       "Disponibilidad para laborar en San Isido en horarios rotativos."
+                   ],
+    "funciones":  [
+                      "Organizar y surtir productos en las diferentes secciones, manteniendo el orden y la correcta exhibición.",
+                      "Atender y asesorar a los clientes, ayudándolos a elegir los productos según sus necesidades.",
+                      "Preparar y alistar la mercadería para la entrega al cliente, asegurando su correcta codificación y coordinación con caja.",
+                      "Mantener y mejorar la exhibición de muebles, incluyendo el armado de productos para exhibición y nuevos productos."
+                  ],
+    "beneficios":  [
+                       "Salario basico + comisiones individuales ilimitadas.",
+                       "Planilla Regimen General desde el primer día de trabajo.",
+                       "Contrato incial de 6 meses.",
+                       "Bono de movilidad de 150 soles fijo.",
+                       "Estacionamiento incluido.",
+                       "Estabilidad Laboral y crecimiento profesional"
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-tienda-retail-chamba-talent-s.a.c.-1118467109.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-tienda-retail-chamba-talent-s.a.c.-1118467109.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
