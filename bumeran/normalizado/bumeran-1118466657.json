@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466657",
+    "clave":  "id:1118466657",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/encargado-junior-de-almacen-cnsic-1118466657.html",
+                   "capturadoEn":  "2026-10-06T15:57:43+00:00"
+               },
+    "titulo":  "ENCARGADO JUNIOR DE ALMACÉN",
+    "empresa":  "CNSIC",
+    "ubicacion":  "Lima - Pueblo Libre",
+    "ciudad":  "Pueblo Libre",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ENCARGADO JUNIOR DE ALMACÉN \u0026#x1f539; REQUISITOS Estudios universitarios o técnicos en Logística. Deseable experiencia en almacén, logística o control de inventarios. Manejo básico de Excel. Responsabilidad, organización y proactividad. Disponibilidad para laborar de manera presencial en Pueblo Libre. \u0026#x1f539; FUNCIONES Recepción, verificación y registro de materiales y equipos. Control de inventarios, stock mínimo y máxima rotación. Gestión del almacenamiento, conservación y despacho de materiales. Supervisar el orden, limpieza y seguridad del almacén. Elaborar reportes e indicadores de gestión. Apoyar en la planificación de inventarios y control de stock. \u0026#x1f4cd; LUGAR Y HORARIO Pueblo Libre – Lima Lunes a viernes: 9: 0 0 a 6: 3 0 Sábados: 9: 0 0 A 1: 0 0",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/encargado-junior-de-almacen-cnsic-1118466657.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/encargado-junior-de-almacen-cnsic-1118466657.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

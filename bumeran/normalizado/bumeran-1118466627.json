@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466627",
+    "clave":  "id:1118466627",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-comercial-transpandas-1118466627.html",
+                   "capturadoEn":  "2026-10-06T15:57:51+00:00"
+               },
+    "titulo":  "JEFE COMERCIAL",
+    "empresa":  "TRANSPANDAS",
+    "ubicacion":  "Lima - San Martín De Porres - Lima",
+    "ciudad":  "San Martín De Porres - Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2999,
+                    "max":  7000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,999 - S/ 7,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Somos un grupo empresarial dedicado a la importación y comercialización mayorista de productos. Buscamos un Jefe Comercial con liderazgo, capacidad de negociación y enfoque en resultados para dirigir al equipo de ventas, desarrollar nuestras zonas comerciales y fortalecer el crecimiento rentable del negocio. ¿Cuál será tu misión? Liderar la gestión comercial y asegurar el cumplimiento de las metas de ventas, ampliando la cartera de clientes y promoviendo la rotación del inventario, en coordinación con Producto, Créditos y Cobranzas, y Operaciones. Principales funciones Elaborar y ejecutar el plan comercial mensual por empresa, zona y vendedor. Dirigir, acompañar y evaluar al equipo de ventas de campo, oficina y canales digitales. Desarrollar clientes mayoristas y distribuidores en Lima y provincias. Analizar ventas, márgenes, cobertura de cartera y cumplimiento de metas; ejecutar acciones correctivas. Diseñar propuestas comerciales junto con Producto y Pricing para impulsar la venta de productos de baja rotación y liberar inventario. Coordinar con Créditos y Cobranzas la evaluación de clientes y el seguimiento de pagos. Supervisar el seguimiento de pedidos, entregas y reclamos para asegurar una atención oportuna. Presentar reportes de resultados y proyecciones de ventas a Gerencia Ejecutiva. Impulsar el uso de herramientas digitales para gestionar y dar seguimiento a la actividad comercial. Requisitos Formación técnica o universitaria en Administración, Marketing, Ingeniería Industrial o carreras afines. Experiencia mínima de 3 años liderando equipos comerciales, preferentemente en importadoras, distribuidoras o empresas de venta mayorista. Experiencia en ventas B 2B, negociación con distribuidores y desarrollo de mercados en provincias. Manejo de presupuestos comerciales, indicadores de ventas y análisis de rentabilidad. Excel a nivel intermedio o avanzado y experiencia con sistemas ERP o CRM. Disponibilidad para trabajar presencialmente en San Martín de Porres y realizar visitas comerciales y viajes a provincias. Buscamos una persona con Liderazgo práctico, criterio comercial, capacidad de análisis y organización. Que acompañe al equipo en el campo, tome decisiones basadas en información y convierta las estrategias en resultados medibles.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-comercial-transpandas-1118466627.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-comercial-transpandas-1118466627.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

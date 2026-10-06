@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466683",
+    "clave":  "id:1118466683",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-y-practicante-de-marketing-angie-bustamante-1118466683.html",
+                   "capturadoEn":  "2026-10-06T15:57:39+00:00"
+               },
+    "titulo":  "Auxiliar Contable y Practicante de Marketing",
+    "empresa":  "ANGIE BUSTAMANTE",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Oportunidades Laborales Estamos en la búsqueda de personas responsables, organizadas y proactivas para integrarse a nuestro equipo en las siguientes posiciones: Auxiliar/Asistente Contable Resumen del Puesto El Auxiliar/Asistente Contable será responsable de apoyar en diversas tareas contables, asegurando la correcta gestión de registros y documentos. Funciones Principales Registro de compras y ventas. Revisión de facturas y boletas. Emisión de comprobantes. Conciliación de documentos. Elaboración de reportes en Excel. Apoyo general en tareas contables. Requisitos Estudiantes o egresados de Contabilidad. Mínimo 6 meses de experiencia. Conocimientos contables sólidos. Manejo de comprobantes de pago. Dominio de Microsoft Excel. Practicante de Marketing Resumen del Puesto El Practicante de Marketing colaborará en la ejecución de estrategias de marketing, atención al cliente y gestión de redes sociales. Funciones Principales Atención al cliente vía WhatsApp. Seguimiento de pedidos. Gestión de redes sociales. Apoyo en actividades de marketing. Requisitos Estudiantes de Marketing, Comunicaciones, Publicidad o carreras afines. Mínimo 6 meses de experiencia. Condiciones Generales Modalidad de trabajo presencial. Horario: Lunes a viernes de 9: 0 0 a. m. a 6: 0 0 p. m. y 8: 0 0 a. m. a 5: 0 0 p. m. para quienes se encuentren estudiando. Régimen laboral MYPE. Beneficios Día libre por cumpleaños. Gift Card por cumpleaños. Capacitación y aprendizaje constante. Oportunidades de desarrollo y crecimiento profesional. Excelente ambiente laboral.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-y-practicante-de-marketing-angie-bustamante-1118466683.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-y-practicante-de-marketing-angie-bustamante-1118466683.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
