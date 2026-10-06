@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467055",
+    "clave":  "id:1118467055",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-y-practicante-contable-exactum-business-sac-1118467055.html",
+                   "capturadoEn":  "2026-10-06T08:59:29+00:00"
+               },
+    "titulo":  "Asistente y Practicante Contable",
+    "empresa":  "Exactum Business SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente y Practicante Contable Resumen del Puesto Estamos en la búsqueda de Asistentes y Practicantes Contables , ya sean egresados o estudiantes de los últimos ciclos de la carrera. El candidato ideal poseerá conocimientos del sistema Concar y experiencia previa en estudios contables. Responsabilidades Apoyo en la elaboración y registro de operaciones contables. Colaboración en la preparación de declaraciones de impuestos. Asistencia en la conciliación de cuentas. Participación en la gestión de la documentación contable. Apoyo en auditorías internas y externas. Requisitos Estudiante de los últimos ciclos o egresado de Contabilidad o carreras afines. Conocimiento del sistema contable Concar. Experiencia mínima de 6 meses en estudios contables. Experiencia en la presentación de declaraciones de impuestos. Capacidad de aprendizaje y proactividad. Habilidades de organización y atención al detalle. Capacidad para trabajar en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-y-practicante-contable-exactum-business-sac-1118467055.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-y-practicante-contable-exactum-business-sac-1118467055.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

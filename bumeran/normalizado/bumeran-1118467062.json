@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118467062",
+    "clave":  "id:1118467062",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-enfermero-believing-talents-1118467062.html",
+                   "capturadoEn":  "2026-10-06T08:59:26+00:00"
+               },
+    "titulo":  "Técnico Enfermero",
+    "empresa":  "Believing Talents",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Remuneración: S/ 2,000.",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, una entidad religiosa , nos encontramos en búsqueda de un(a) Técnico(a) de Enfermería con experiencia en el cuidado y acompañamiento de adultos mayores, que destaque por su vocación de servicio, empatía, responsabilidad y trato humanizado. ENVIAR CV: dana﹫believingtalents.com (UNICO MEDIO DE RECEPCION) Funciones: Monitorear signos vitales y el estado general de los pacientes. Brindar acompañamiento asistencial integral y humanizado. Gestionar y registrar citas médicas y seguimientos clínicos. Administrar medicamentos según prescripción médica. Supervisar alimentación y cumplimiento de dietas. Elaborar y actualizar reportes diarios de enfermería. Reportar oportunamente incidencias o emergencias. Realizar la entrega de turno asegurando la continuidad del cuidado. Requisitos: Formación técnica superior en Enfermería. Mínimo 2 años de experiencia como Técnico(a) de Enfermería, Asistente de Enfermería o en cuidado de adultos mayores. Experiencia en salud, geriátricos, clínicas, casas de reposo o comunidades. Conocimientos en cuidado del adulto mayor, administración de medicamentos, control de signos vitales y manejo de historias clínicas. Manejo de Excel y Word a nivel intermedio y herramientas de Google Workspace. Condiciones laborales: Ubicación: Surquillo, Lima. Modalidad: Presencial Régimen: Planilla completa con todos los beneficios de ley. Horario: lunes a jueves, 48 horas semanales Turnos de 24 horas: de 8:00 a. m. a 8:00 a. m. del día siguiente. Remuneración: S/ 2,000. Incluye alojamiento durante el turno, con dormitorio dentro de la casa. Buscamos una persona con vocación de servicio, empatía, compromiso, integridad y orientación al cuidado humanizado. ¡Postula y forma parte de un espacio donde tu experiencia y vocación por el cuidado pueden marcar una diferencia!",
+    "requisitos":  [
+                       "Formación técnica superior en Enfermería.",
+                       "Mínimo 2 años de experiencia como Técnico(a) de Enfermería, Asistente de Enfermería o en cuidado de adultos mayores.",
+                       "Experiencia en salud, geriátricos, clínicas, casas de reposo o comunidades.",
+                       "Conocimientos en cuidado del adulto mayor, administración de medicamentos, control de signos vitales y manejo de historias clínicas.",
+                       "Manejo de Excel y Word a nivel intermedio y herramientas de Google Workspace."
+                   ],
+    "funciones":  [
+                      "Monitorear signos vitales y el estado general de los pacientes.",
+                      "Brindar acompañamiento asistencial integral y humanizado.",
+                      "Gestionar y registrar citas médicas y seguimientos clínicos.",
+                      "Administrar medicamentos según prescripción médica.",
+                      "Supervisar alimentación y cumplimiento de dietas.",
+                      "Elaborar y actualizar reportes diarios de enfermería.",
+                      "Reportar oportunamente incidencias o emergencias.",
+                      "Realizar la entrega de turno asegurando la continuidad del cuidado."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-enfermero-believing-talents-1118467062.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-enfermero-believing-talents-1118467062.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
