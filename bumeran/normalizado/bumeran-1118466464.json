@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466464",
+    "clave":  "id:1118466464",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/trafficker-digital-sierra-grande-1118466464.html",
+                   "capturadoEn":  "2026-10-06T20:59:18+00:00"
+               },
+    "titulo":  "Trafficker Digital",
+    "empresa":  "SIERRA GRANDE",
+    "ubicacion":  "Junin - Huancayo",
+    "ciudad":  "Huancayo",
+    "region":  "Junin",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡ÚNETE A SIERRA GRANDE! BUSCAMOS TALENTOS CON EXPERIENCIA Trafficker Digital Buscamos un(a) Trafficker Digital con experiencia en publicidad digital, gestión de campañas y análisis de métricas. El objetivo principal será mejorar el alcance, la captación de clientes potenciales y los resultados comerciales de nuestros proyectos. Responsabilidades Planificar, configurar y gestionar campañas publicitarias en diversas plataformas. Monitorear y optimizar campañas digitales de acuerdo con los objetivos establecidos. Analizar métricas e indicadores de rendimiento clave. Elaborar reportes periódicos sobre el rendimiento de las campañas. Gestionar presupuestos publicitarios y proponer mejoras para optimizar la inversión. Coordinar con equipos creativos la elaboración de piezas publicitarias. Realizar pruebas A/B y proponer estrategias para la mejora continua. Requisitos Experiencia comprobada en trafficker digital y gestión de campañas publicitarias. Conocimiento sólido de plataformas de publicidad digital. Capacidad para analizar métricas y extraer conclusiones. Habilidad para gestionar presupuestos y optimizar la inversión publicitaria. Excelentes habilidades de comunicación y coordinación de equipos. Proactividad y orientación a resultados.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/trafficker-digital-sierra-grande-1118466464.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/trafficker-digital-sierra-grande-1118466464.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

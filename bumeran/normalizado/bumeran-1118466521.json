@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466521",
+    "clave":  "id:1118466521",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-enertry-s.a.c.-1118466521.html",
+                   "capturadoEn":  "2026-10-06T20:59:06+00:00"
+               },
+    "titulo":  "Creadora de Contenido",
+    "empresa":  "ENERTRY S.A.C.",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,700 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "FUNCIONES: Crear contenido para las redes sociales. Grabar y editar videos para TikTok, Reels, historias y publicaciones. Proponer ideas creativas y contenido basado en tendencias. Crear contenido relacionado con nuestros productos, servicios y proyectos. Apoyar en la planificación del calendario de publicaciones. Mantener activas y actualizadas nuestras redes sociales. Realizar seguimiento básico del alcance e interacción de las publicaciones. REQUISITOS Estudiante de últimos ciclos o egresada de Marketing, Comunicaciones, Publicidad, Diseño, Audiovisuales o carreras afines. Experiencia o conocimientos en creación de contenido para redes sociales. Manejo de TikTok, Instagram, Facebook y otras plataformas digitales . Conocimiento de herramientas de edición como CapCut, Canva u otras similares . Creatividad y capacidad para proponer nuevas ideas y tendencias. Buena comunicación y desenvolvimiento frente a cámara. Deseable contar con portafolio o ejemplos de trabajos realizados SUELDO S/ 1, 8 0 0. 0 0 Ingreso a planilla y beneficios HORARIO: Lunes a viernes: 9: 0 0 a. m. a 6: 0 0 p. m. Sábados: 9: 0 0 a. m. a 1: 0 0 p. m.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-enertry-s.a.c.-1118466521.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-enertry-s.a.c.-1118466521.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

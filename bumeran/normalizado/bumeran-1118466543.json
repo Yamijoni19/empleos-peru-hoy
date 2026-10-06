@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118466543",
+    "clave":  "id:1118466543",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-enginner-isp-consulting-1118466543.html",
+                   "capturadoEn":  "2026-10-06T20:59:03+00:00"
+               },
+    "titulo":  "Data Enginner",
+    "empresa":  "ISP Consulting",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  5000,
+                    "max":  5500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 5,000 - S/ 5,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Descripcion del puesto: Se requiere cubrir la posición de Data Engineer, para un proyecto de migración de datos a SAP. La persona debe contar con amplia experiencia en desarrollo de ETL, Limpieza, Transformación y validación de datos, así como en Arquitectura de Datos con Google GCP, Python, Power BI y Estructuras de datos SAP R 3 o S 4. Requisitos: Experiencia en manejo de bases de datos relacionales (PostgreSQL, MySQL, SQL Server, Oracle). Amplios conocimientos de sentencias SQL, Store Procedures y Funciones. Experiencia en limpieza, transformación y tratamiento de datos Experiencia en desarrollo con Python Experiencia en Arquitectura de Datos en Google Cloud (GCP) Conocimientos en estructuras y tablas SAP ERP (R 3 o S 4) Manejo de grandes volúmenes de información en bases de datos y Excel. Comunicación a todo nivel Trabajo en equipo y bajo presión Responsabilidades: Armado de estructuras para carga masiva de información Procesamiento de información para migración de datos. Participación en las reuniones de análisis y seguimiento",
+    "requisitos":  [
+                       "Experiencia en manejo de bases de datos relacionales (PostgreSQL, MySQL, SQL Server, Oracle).",
+                       "Amplios conocimientos de sentencias SQL, Store Procedures y Funciones.",
+                       "Experiencia en limpieza, transformación y tratamiento de datos",
+                       "Experiencia en desarrollo con Python",
+                       "Experiencia en Arquitectura de Datos en Google Cloud (GCP)",
+                       "Conocimientos en estructuras y tablas SAP ERP (R 3 o S 4)",
+                       "Manejo de grandes volúmenes de información en bases de datos y Excel.",
+                       "Comunicación a todo nivel",
+                       "Trabajo en equipo y bajo presión"
+                   ],
+    "funciones":  [
+                      "Se requiere cubrir la posición de Data Engineer, para un proyecto de migración de datos a SAP. La persona debe contar con amplia experiencia en desarrollo de ETL, Limpieza, Transformación y validación de datos, así como en Arquitectura de Datos con Google GCP, Python, Power BI y Estructuras de datos SAP R 3 o S 4.",
+                      "Armado de estructuras para carga masiva de información",
+                      "Procesamiento de información para migración de datos.",
+                      "Participación en las reuniones de análisis y seguimiento"
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/data-enginner-isp-consulting-1118466543.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-enginner-isp-consulting-1118466543.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

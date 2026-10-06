@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466488",
+    "clave":  "id:1118466488",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/recepcionista-y-asistente-de-marketing-digital-rs-motors-detailing-s.a.c.-1118466488.html",
+                   "capturadoEn":  "2026-10-06T20:59:13+00:00"
+               },
+    "titulo":  "Recepcionista y Asistente de Marketing Digital",
+    "empresa":  "RS MOTORS DETAILING S.A.C.",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Recepcionista y Asistente de Marketing Digital Resumen del Puesto Buscamos un profesional dinámico y proactivo para unirse a nuestro equipo como Recepcionista y Asistente de Marketing Digital . Si te apasiona el mundo automotriz, la atención al cliente excepcional y la creación de contenido atractivo para redes sociales, esta oportunidad es para ti. Responsabilidades Brindar una bienvenida de primera clase a los clientes, asesorándolos sobre nuestros servicios y beneficios. Crear y editar contenido audiovisual de alto impacto para plataformas digitales, mostrando procesos y resultados. Gestionar activamente las redes sociales, interactuando con la comunidad y respondiendo consultas. Identificar y derivar prospectos calificados para su posterior gestión comercial. Requisitos Experiencia previa en roles de recepción y/o marketing digital. Interés y conocimiento del sector automotriz. Habilidades sólidas en atención al cliente y comunicación. Capacidad para la creación y edición de contenido audiovisual (videos cortos). Experiencia en la gestión de redes sociales y plataformas digitales. Proactividad, organización y capacidad para trabajar de forma autónoma.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/recepcionista-y-asistente-de-marketing-digital-rs-motors-detailing-s.a.c.-1118466488.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/recepcionista-y-asistente-de-marketing-digital-rs-motors-detailing-s.a.c.-1118466488.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

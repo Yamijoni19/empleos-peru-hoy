@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466334",
+    "clave":  "id:1118466334",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-call-center-remoto-nemo-claro-center-cc-1118466334.html",
+                   "capturadoEn":  "2026-10-06T20:59:38+00:00"
+               },
+    "titulo":  "Asesor de Ventas Call Center Remoto",
+    "empresa":  "Nemo Claro Center CC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "REMOTE",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  565,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 565 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor de Ventas Call Center Remoto Resumen del Puesto Buscamos incorporar Asesores de Ventas Call Center Remoto con o sin experiencia previa para unirse a nuestro equipo. Si posees excelente fluidez verbal y te interesan las oportunidades de crecimiento, esta posición es para ti. Ofrecemos un excelente clima laboral y la posibilidad de desarrollo profesional. Responsabilidades Realizar ventas y atención a clientes a través de llamadas telefónicas. Asesorar a los clientes sobre productos y servicios. Cumplir con los objetivos de ventas establecidos. Mantener un registro detallado de las interacciones con los clientes. Colaborar con el equipo para alcanzar metas comunes. Requisitos Secundaria completa. Ser mayor de edad. Excelente fluidez verbal y habilidades de comunicación. Se valorará experiencia previa en atención al cliente o ventas, especialmente en rubros como telecomunicaciones, banca, préstamos o cobranzas. Contar con PC o Laptop (Procesador I 3 o AMD Ryzen 3 en adelante, Memoria RAM 8GB o superior). Conexión a internet estable (cableado con más de 5 0 mbps). Auriculares para PC o Laptop en buen estado. Ofrecemos Modalidad de trabajo remoto. Horarios flexibles (Part time y Full time). Capacitación paga. Comisiones ilimitadas. Bonos por productividad. Incentivos semanales. Excelente clima laboral.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-call-center-remoto-nemo-claro-center-cc-1118466334.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-call-center-remoto-nemo-claro-center-cc-1118466334.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
