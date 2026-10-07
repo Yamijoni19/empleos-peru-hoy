@@ -6,9 +6,12 @@
   "maxPorCorrida": 25,
   "maxPorCorridaNota": "Limite inicial de seguridad (no es permanente): subir a 20 / 50 / 100 / 200 aqui o con -MaxPorCorrida 50. Nunca existe corrida ilimitada.",
 
+  "pausaPublicacionMs": 30000,
+  "pausaPublicacionNota": "Pausa entre posts. 2500 ms hacia la nube disparaba 429 rateLimitExceeded de Google en el post ~6 (IP compartida de GitHub Actions); 30000 ms (~3 posts por ventana de 100 s) evita el corte. Si la nube vuelve a cortarse, subir a 45000-60000.",
+
   "topeAbsoluto": 100,
-  "factorAnomalia": 15.0,
-  "factorAnomaliaNota": "Subido de 3.0 a 15.0 para drenar el backlog de 960 NUEVA (la media historica de corridas quedo en ~2 y 3x bloqueaba todo el dia). Volver a 3.0 cuando la media de publicadas por corrida (historial-correras.json, ventana 7 dias) supere ~10, cosa que ocurrira solo despues de una semana de corridas sanas.",
+  "factorAnomalia": 40.0,
+  "factorAnomaliaNota": "Temporal: 40.0 porque la media historica de publicadas por corrida bajo a ~1-2 por los cortes 429 de hoy y 25 <= media*40 sigue protegiendo contra fuga real. Volver a 3.0 cuando la media (historial-correras.json, ventana 7 dias) supere ~10.",
   "ventanaAnomalia": 7,
   "frecuenciaScheduler": 60,
   "permitirBackfill": false,
