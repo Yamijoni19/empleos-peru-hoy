@@ -8,6 +8,42 @@
                                                                                                   "intentos":  0,
                                                                                                   "cola":  "NUEVA"
                                                                                               },
+    "bum-1118301907-jefe-de-guardia-mina-entrada.html":  {
+                                                             "estado":  "PUBLICADA",
+                                                             "hash":  "C043B495D61542BCB2A21E80C8FB729F398E820D3A5EC4A8FB3246B6A1481FC5",
+                                                             "titulo":  "Jefe de Guardia Mina",
+                                                             "url":  "https://empleosperuhoy.blogspot.com/2026/10/jefe-de-guardia-mina.html",
+                                                             "fecha":  "2026-10-07T15:20:40.7568740+00:00",
+                                                             "intentos":  0,
+                                                             "cola":  "NUEVA"
+                                                         },
+    "bum-1118304266-damas-universitarias-para-trabajar-atencion-al-cliente-aseso-entrada.html":  {
+                                                                                                     "estado":  "PUBLICADA",
+                                                                                                     "hash":  "070B1FD49E8A3EA31704E6C03F0A85D0FCEFEF7A5FFD2DA4062ECE617C6C3A6A",
+                                                                                                     "titulo":  "DAMAS UNIVERSITARIAS PARA TRABAJAR/ATENCION AL CLIENTE/ASESORA COMERCIAL",
+                                                                                                     "url":  "https://empleosperuhoy.blogspot.com/2026/10/damas-universitarias-para.html",
+                                                                                                     "fecha":  "2026-10-07T15:20:44.3973232+00:00",
+                                                                                                     "intentos":  0,
+                                                                                                     "cola":  "NUEVA"
+                                                                                                 },
+    "bum-1118304268-teleoperadores-call-center-vendedores-en-linea-entrada.html":  {
+                                                                                       "estado":  "PUBLICADA",
+                                                                                       "hash":  "B84CC4D85A9C0217F5D250AB21BD732428797B4D8105D5A367ED751F3B57D46B",
+                                                                                       "titulo":  "TELEOPERADORES, CALL CENTER, VENDEDORES EN LINEA",
+                                                                                       "url":  "https://empleosperuhoy.blogspot.com/2026/10/teleoperadores-call-center-vendedores.html",
+                                                                                       "fecha":  "2026-10-07T15:20:48.0219156+00:00",
+                                                                                       "intentos":  0,
+                                                                                       "cola":  "NUEVA"
+                                                                                   },
+    "bum-1118304271-traductoras-interpretes-profesionales-para-linea-de-carrera-entrada.html":  {
+                                                                                                    "estado":  "PUBLICADA",
+                                                                                                    "hash":  "F18425B8F2D4F2A800B19BA5FA0C3D42BF06C690019B6893EA7E9717ACA8FC30",
+                                                                                                    "titulo":  "TRADUCTORAS/INTERPRETES PROFESIONALES PARA LINEA DE CARRERA COMERCIAL",
+                                                                                                    "url":  "https://empleosperuhoy.blogspot.com/2026/10/traductorasinterpretes-profesionales.html",
+                                                                                                    "fecha":  "2026-10-07T15:20:51.7139043+00:00",
+                                                                                                    "intentos":  0,
+                                                                                                    "cola":  "NUEVA"
+                                                                                                },
     "bum-1118426050-asistente-de-gerencia-general-recepci-n-entrada.html":  {
                                                                                 "estado":  "PUBLICADA",
                                                                                 "hash":  "D7BDE36E04D3DC07D7BFB7D0B06BCF4EE84DFD2E1FCA6C7B365E98E2BE6A7541",
@@ -16,5 +52,24 @@
                                                                                 "fecha":  "2026-10-06T04:14:55.1753052-05:00",
                                                                                 "intentos":  0,
                                                                                 "cola":  "NUEVA"
-                                                                            }
+                                                                            },
+    "bum-1118427061-coordinador-a-de-clima-y-cultura-entrada.html":  {
+                                                                         "estado":  "PUBLICADA",
+                                                                         "hash":  "AD0764AC43A56A1163FA6F13C13EAA34B8931993FAD37D7EF2ED836767A4A9D6",
+                                                                         "titulo":  "Coordinador(a) de Clima y Cultura",
+                                                                         "url":  "https://empleosperuhoy.blogspot.com/2026/10/coordinadora-de-clima-y-cultura.html",
+                                                                         "fecha":  "2026-10-07T15:20:54.9980136+00:00",
+                                                                         "intentos":  0,
+                                                                         "cola":  "NUEVA"
+                                                                     },
+    "bum-1118444551-repsol-vendedor-de-tienda-entrada.html":  {
+                                                                  "estado":  "ERROR",
+                                                                  "hash":  "24D6F4965ADB1D8A5350E1D8D984AC6B1CD4136803319A78183658A4BD0412AA",
+                                                                  "titulo":  "REPSOL: Vendedor de Tienda",
+                                                                  "url":  "",
+                                                                  "fecha":  "2026-10-07T15:20:57.9628131+00:00",
+                                                                  "intentos":  1,
+                                                                  "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                  "cola":  "NUEVA"
+                                                              }
 }

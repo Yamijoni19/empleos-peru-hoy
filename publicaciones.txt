@@ -4233,3 +4233,20 @@
 2026-10-04 18:46 | ERROR | oportunidad-laboral-trainee-del-splaft-cumplimiento-cofide-lima-634632-entrada.html | Error en el servidor remoto: (429) Too Many Requests.
 2026-10-06 04:14 | ENFERMERA TECNICA TURNO NOCHE -CENTRO GERIATRICO LA MOLINA | https://empleosperuhoy.blogspot.com/2026/10/enfermera-tecnica-turno-noche-centro.html | bum-1118059145-enfermera-tecnica-turno-noche-centro-geriatrico-la-molina-entrada.html
 2026-10-06 04:14 | Asistente de Gerencia General - Recepción | https://empleosperuhoy.blogspot.com/2026/10/asistente-de-gerencia-general-recepcion.html | bum-1118426050-asistente-de-gerencia-general-recepci-n-entrada.html
+2026-10-07 15:20 | Jefe de Guardia Mina | https://empleosperuhoy.blogspot.com/2026/10/jefe-de-guardia-mina.html | bum-1118301907-jefe-de-guardia-mina-entrada.html
+2026-10-07 15:20 | DAMAS UNIVERSITARIAS PARA TRABAJAR/ATENCION AL CLIENTE/ASESORA COMERCIAL | https://empleosperuhoy.blogspot.com/2026/10/damas-universitarias-para.html | bum-1118304266-damas-universitarias-para-trabajar-atencion-al-cliente-aseso-entrada.html
+2026-10-07 15:20 | TELEOPERADORES, CALL CENTER, VENDEDORES EN LINEA | https://empleosperuhoy.blogspot.com/2026/10/teleoperadores-call-center-vendedores.html | bum-1118304268-teleoperadores-call-center-vendedores-en-linea-entrada.html
+2026-10-07 15:20 | TRADUCTORAS/INTERPRETES PROFESIONALES PARA LINEA DE CARRERA COMERCIAL | https://empleosperuhoy.blogspot.com/2026/10/traductorasinterpretes-profesionales.html | bum-1118304271-traductoras-interpretes-profesionales-para-linea-de-carrera-entrada.html
+2026-10-07 15:20 | Coordinador(a) de Clima y Cultura | https://empleosperuhoy.blogspot.com/2026/10/coordinadora-de-clima-y-cultura.html | bum-1118427061-coordinador-a-de-clima-y-cultura-entrada.html
+2026-10-07 15:20 | ERROR | bum-1118444551-repsol-vendedor-de-tienda-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

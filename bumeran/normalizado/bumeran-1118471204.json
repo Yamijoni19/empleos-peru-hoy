@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118471204",
+    "clave":  "id:1118471204",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/oportunidades-laborales-en-gastronomia-y-atencion-al-cliente-la-placita-cusco-1118471204.html",
+                   "capturadoEn":  "2026-10-07T15:18:59+00:00"
+               },
+    "titulo":  "Oportunidades Laborales en Gastronomía y Atención al Cliente",
+    "empresa":  "La Placita Cusco",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Oportunidades Laborales en Gastronomía y Atención al Cliente Resumen Buscamos personas con una actitud proactiva, gran sentido de responsabilidad y entusiasmo para unirse a un equipo dinámico. Si buscas unirte a un nuevo proyecto y crecer profesionalmente, esta es tu oportunidad. Áreas de Oportunidad Cocina Atención en Salón Caja Disponibilidad Se requiere disponibilidad para turnos de mañana y tarde. Perfil Buscado Valoramos la actitud positiva, la capacidad de trabajo en equipo y el compromiso con la excelencia en el servicio. Se requiere muchas ganas de aprender y desarrollarse en el sector.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/oportunidades-laborales-en-gastronomia-y-atencion-al-cliente-la-placita-cusco-1118471204.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/oportunidades-laborales-en-gastronomia-y-atencion-al-cliente-la-placita-cusco-1118471204.html",
+    "descripcion_html":  "\u003cb\u003eOportunidades Laborales en Gastronomía y Atención al Cliente\u003c/b\u003e \u003cb\u003eResumen\u003c/b\u003e \u003cp\u003eBuscamos personas con una actitud proactiva, gran sentido de responsabilidad y entusiasmo para unirse a un equipo dinámico. Si buscas unirte a un nuevo proyecto y crecer profesionalmente, esta es tu oportunidad.\u003c/p\u003e \u003cb\u003eÁreas de Oportunidad\u003c/b\u003e \u003cul\u003e \u003cli\u003eCocina\u003c/li\u003e \u003cli\u003eAtención en Salón\u003c/li\u003e \u003cli\u003eCaja\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eDisponibilidad\u003c/b\u003e \u003cp\u003eSe requiere disponibilidad para turnos de mañana y tarde.\u003c/p\u003e \u003cb\u003ePerfil Buscado\u003c/b\u003e \u003cp\u003eValoramos la actitud positiva, la capacidad de trabajo en equipo y el compromiso con la excelencia en el servicio. Se requiere muchas ganas de aprender y desarrollarse en el sector.\u003c/p\u003e",
+    "area":  "Atención al Cliente",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

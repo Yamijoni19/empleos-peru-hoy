@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118471186",
+    "clave":  "id:1118471186",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-ripley-miraflores-grupo-ripley-1118471186.html",
+                   "capturadoEn":  "2026-10-07T15:19:23+00:00"
+               },
+    "titulo":  "Asistente de ventas Ripley Miraflores",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Misión Atender y asistir al cliente, procurando facilitar su proceso de compra, dándole soporte y asesoría durante su visita a Tienda con el ánimo de darle una experiencia única y positiva. Funciones - Atender al cliente y brindarle la información necesaria para ubicar los productos o facilitar el proceso de compra del mismo. - Informar a los clientes sobre las promociones vigentes, ubicación de áreas en tienda, ubicación de los servicios y cualquier otro particular que soliciten. - Identificar a los clientes que requieren atención o facilidades para mejorar su experiencia - Identificar necesidades de asesoría en los clientes que buscan acompañamiento en su compra, facilitándole productos, dándole alternativas a su compra, productos en almacén y productos en web (Ripley.com) que satisfagan el interés del cliente. - Abordar al cliente, entregándole bolsas para su compra, facilitándole acceso a pasillos y dándole atención personalizada. - Colaborar apoyando en funciones que se realizan de manera habitual en Tienda vinculadas a la gestión del cliente y gestión operativa, como por ejemplo, encuestas NPS, acercamiento a clientes que esperan atención en post venta, contribuir con las áreas de retiro en tienda, cajas, retiro de piochas, embolsado, entre otras funciones inherentes a la labor en Tienda. Requisitos - Tener experiencia en Ateción al cliente mínimo 6 meses - Tener mayoria de edad",
+    "requisitos":  [
+                       "Tener experiencia en Ateción al cliente mínimo 6 meses",
+                       "Tener mayoria de edad"
+                   ],
+    "funciones":  [
+                      "inherentes a la labor en Tienda"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-ripley-miraflores-grupo-ripley-1118471186.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-ripley-miraflores-grupo-ripley-1118471186.html",
+    "descripcion_html":  "\u003cp\u003eMisión\u003c/p\u003e\u003cp\u003eAtender y asistir al cliente, procurando facilitar su proceso de compra, dándole soporte y asesoría durante su visita a Tienda con el ánimo de darle una experiencia única y positiva.\u003c/p\u003e\u003cp\u003eFunciones\u003c/p\u003e\u003cp\u003e- Atender al cliente y brindarle la información necesaria para ubicar los productos o facilitar el proceso de compra del mismo.\u003c/p\u003e\u003cp\u003e- Informar a los clientes sobre las promociones vigentes, ubicación de áreas en tienda, ubicación de los servicios y cualquier otro particular que soliciten.\u003c/p\u003e\u003cp\u003e- Identificar a los clientes que requieren atención o facilidades para mejorar su experiencia\u003c/p\u003e\u003cp\u003e- Identificar necesidades de asesoría en los clientes que buscan acompañamiento en su compra, facilitándole productos, dándole alternativas a su compra, productos en almacén y productos en web (Ripley.com) que satisfagan el interés del cliente.\u003c/p\u003e\u003cp\u003e- Abordar al cliente, entregándole bolsas para su compra, facilitándole acceso a pasillos y dándole atención personalizada.\u003c/p\u003e\u003cp\u003e- Colaborar apoyando en funciones que se realizan de manera habitual en Tienda vinculadas a la gestión del cliente y gestión operativa, como por ejemplo, encuestas NPS, acercamiento a clientes que esperan atención en post venta, contribuir con las áreas de retiro en tienda, cajas, retiro de piochas, embolsado, entre otras funciones inherentes a la labor en Tienda.\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cp\u003e- Tener experiencia en Ateción al cliente mínimo 6 meses\u003c/p\u003e\u003cp\u003e- Tener mayoria de edad\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
