@@ -1,17 +1,17 @@
 {
-    "generado":  "2026-10-07T15:20:29.4189798+00:00",
-    "estado":  "CORTADA-429",
+    "generado":  "2026-10-07T17:03:38.6357304+00:00",
+    "estado":  "EJECUTADA",
     "maxPorCorrida":  25,
-    "candidatos":  5105,
+    "candidatos":  5129,
     "porEstado":  {
-                      "NUEVA":  991,
+                      "NUEVA":  1015,
                       "HISTORICA":  4114
                   },
     "omitidos":  {
                      "HISTORICA":  4114
                  },
-    "seleccionados":  25,
-    "diferidos":  966,
+    "seleccionados":  23,
+    "diferidos":  990,
     "orden":  [
                   "NUEVA",
                   "ACTUALIZADA",
@@ -19,8 +19,8 @@
                   "EXPIRADA",
                   "HISTORICA"
               ],
-    "publicadas":  5,
+    "publicadas":  23,
     "simuladas":  0,
-    "errores":  1,
-    "nota":  "429: corrida cortada, cola conservada, cooldown activo (datos\\cola\\cooldown-429.json)"
+    "errores":  0,
+    "nota":  "las historicas del baseline no se publican sin -Backfill; ACTUALIZADA/CORRECCION se encolan hasta tener mecanismo de actualizacion"
 }

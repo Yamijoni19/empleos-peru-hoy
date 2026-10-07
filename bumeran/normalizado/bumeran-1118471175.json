@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118471175",
+    "clave":  "id:1118471175",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/dibujante-proyectista-mecanico-3d-flowen-sac-1118471175.html",
+                   "capturadoEn":  "2026-10-07T17:01:52+00:00"
+               },
+    "titulo":  "DIBUJANTE PROYECTISTA MECANICO 3D",
+    "empresa":  "FLOWEN SAC",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Buscamos un Egresado de Ingenieria con especialidad en Diseño y Dibujo Mecánico de Plantas Industriales para integrarse a nuestro equipo de Ingeniería. Si tienes experiencia transformando requerimientos técnicos en soluciones 3D/2D precisas, ¡esta oportunidad es para ti! Software: Dominio avanzado de AutoCAD Plant 3D para el diseño de equipos, tuberías, válvulas, tanques, conduit, estructuras (escaleras/plataformas) y arquitectura básica. Conocimientos Específicos: Experiencia en PTARs (Equipos, distribución, PTARI, PTARD, PTAP, PTAG). Materiales: Sólido conocimiento en especificaciones de tuberías de PVC, Acero, Fierro Galvanizado y PPR . Normativa: Manejo de normas técnicas vigentes para la elaboración de planos mecánicos y eléctricos. Ingeniería de Detalle: Experiencia comprobada en elaboración de listas de materiales (BOM) y planos de detalle. Funciones Principales Elaboración de planos 3D a detalle y diseño de piezas mecánicas. Ruteo de tuberías y elaboración de diagramas P\u0026ID . Desarrollo de planos As-Built y planos para entrega final.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Elaboración de planos 3D a detalle y diseño de piezas mecánicas",
+                      "Ruteo de tuberías y elaboración de diagramas P\u0026ID",
+                      "Desarrollo de planos As-Built y planos para entrega final"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/dibujante-proyectista-mecanico-3d-flowen-sac-1118471175.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/dibujante-proyectista-mecanico-3d-flowen-sac-1118471175.html",
+    "descripcion_html":  "\u003cul\u003e \u003cli\u003eBuscamos un \u003cstrong\u003eEgresado de Ingenieria con especialidad en Diseño y Dibujo Mecánico de Plantas Industriales\u003c/strong\u003e para integrarse a nuestro equipo de Ingeniería. Si tienes experiencia transformando requerimientos técnicos en soluciones 3D/2D precisas, ¡esta oportunidad es para ti!\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSoftware:\u003c/strong\u003e Dominio avanzado de \u003cstrong\u003eAutoCAD Plant 3D\u003c/strong\u003e para el diseño de equipos, tuberías, válvulas, tanques, conduit, estructuras (escaleras/plataformas) y arquitectura básica.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eConocimientos Específicos:\u003c/strong\u003e Experiencia en \u003cstrong\u003ePTARs\u003c/strong\u003e (Equipos, distribución, PTARI, PTARD, PTAP, PTAG).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eMateriales:\u003c/strong\u003e Sólido conocimiento en especificaciones de tuberías de \u003cstrong\u003ePVC, Acero, Fierro Galvanizado y PPR\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eNormativa:\u003c/strong\u003e Manejo de normas técnicas vigentes para la elaboración de planos mecánicos y eléctricos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eIngeniería de Detalle:\u003c/strong\u003e Experiencia comprobada en elaboración de listas de materiales (BOM) y planos de detalle.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones Principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaboración de planos 3D a detalle y diseño de piezas mecánicas.\u003c/li\u003e \u003cli\u003eRuteo de tuberías y elaboración de diagramas \u003cstrong\u003eP\u0026ID\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDesarrollo de planos \u003cstrong\u003eAs-Built\u003c/strong\u003e y planos para entrega final.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Arquitectura",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "2",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
