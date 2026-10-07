@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466256",
+    "clave":  "id:1118466256",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-corporacion-atenea-peru-s.a.c.-1118466256.html",
+                   "capturadoEn":  "2026-10-07T00:42:37+00:00"
+               },
+    "titulo":  "Asistente Comercial",
+    "empresa":  "CORPORACION ATENEA PERU S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En TierraSerena Resort \u0026 Home, proyecto inmobiliario ubicado en Tarapoto, buscamos incorporar a nuestro equipo un(a) Asistente Comercial con facilidad para comunicarse, iniciativa y disposición para aprender y desarrollarse profesionalmente en ventas. No es indispensable contar con experiencia previa en ventas. Buscamos potencial comercial y brindaremos capacitación en el proyecto y acompañamiento durante el proceso de aprendizaje. Principales funciones Contactar a potenciales clientes por teléfono y WhatsApp. Atender y realizar seguimiento a personas interesadas en el proyecto. Brindar información y resolver consultas de potenciales clientes. Agendar reuniones presenciales y virtuales. Registrar y actualizar el seguimiento de clientes en nuestro CRM Kommo. Dar continuidad a los prospectos durante el proceso comercial. Apoyar al equipo comercial hasta el cierre de la venta. Perfil que buscamos Estudiantes de últimos ciclos, egresados técnicos o universitarios. No es indispensable contar con experiencia previa en ventas. Excelente comunicación y facilidad para relacionarse con diferentes personas. Buena dicción y redacción. Facilidad para realizar llamadas y seguimiento mediante WhatsApp. Iniciativa, perseverancia y orientación comercial. Organización y responsabilidad. Manejo básico de Microsoft Office. Interés por aprender y desarrollarse en el área comercial. Se valorará experiencia en atención al cliente, call center, retail, turismo, recepción, ventas u otras posiciones de contacto directo con clientes. Horario Lunes a viernes: 8: 0 0 a. m. a 6: 0 0 p. m. Sábados: 9: 0 0 a. m. a 1 2: 0 0 p. m. Modalidad: Presencial - Magdalena del Mar ¿Qué ofrecemos? Sueldo fijo de S/ 1, 2 3 0. Comisiones adicionales por ventas. Capacitación comercial y en el sector inmobiliario. Acompañamiento durante el proceso de aprendizaje. Oportunidad de crecimiento y desarrollo dentro del área comercial.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-corporacion-atenea-peru-s.a.c.-1118466256.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-corporacion-atenea-peru-s.a.c.-1118466256.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

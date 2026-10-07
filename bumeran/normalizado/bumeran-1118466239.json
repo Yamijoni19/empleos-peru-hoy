@@ -1,0 +1,59 @@
+{
+    "id":  "bumeran-1118466239",
+    "clave":  "id:1118466239",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-gonzalo-gonzales-1118466239.html",
+                   "capturadoEn":  "2026-10-07T00:42:38+00:00"
+               },
+    "titulo":  "ASISTENTE DE VENTAS",
+    "empresa":  "Gonzalo Gonzales",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "CONVOCATORIA LABORAL - \"ASISTENTE DE VENTAS\" -FORMACIÓN PROFESIONAL: Administración, Marketing, Ventas o carreras afines. -PERFIL: Técnico, Bachiller -EMPRESA: SERMED INGENIEROS -LUGAR: Av. Lima N° 4 0 0, Ovalo de Vallecito, Cercado Arequipa -VACANTES: 0 2 REQUISITOS: Técnico o Bachiller de las carreras indicadas o formación en Ventas Experiencia mínima 6 meses en ventas Manejo de Paquete de Office Buenas habilidades de comunicación y negociación Actitud proactiva, iniciativa, responsable y trabajo en equipo. Flexibilidad y adaptación Capacidad resolutiva FUNCIONES: Elaborar las cotizaciones, facturas y guías de remisión de los servicios brindados. Apoyar al Responsable de ventas en las funciones diarias Atender los requerimientos del cliente por adquisición de insumos y equipos médicos. Revisar que los proveedores se encuentren registrados en el listado de proveedores críticos, de lo contrario solicitar su evaluación inicial. Realizar la búsqueda de insumos y equipos médicos para su compra. Elaborar las órdenes de compra. POSTULA: Puedes acercarte a las instalaciones para dejar tu CV simple o postular por este medio; de Lunes a Viernes de 9 am a 5 pm.",
+    "requisitos":  [
+                       "Técnico o Bachiller de las carreras indicadas o formación en Ventas Experiencia mínima 6 meses en ventas Manejo de Paquete de Office Buenas habilidades de comunicación y negociación Actitud proactiva, iniciativa, responsable y trabajo en equipo. Flexibilidad y adaptación Capacidad resolutiva"
+                   ],
+    "funciones":  [
+                      "Elaborar las cotizaciones, facturas y guías de remisión de los servicios brindados."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-gonzalo-gonzales-1118466239.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-gonzalo-gonzales-1118466239.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

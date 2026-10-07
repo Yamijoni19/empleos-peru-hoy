@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466111",
+    "clave":  "id:1118466111",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mesero-a-con-experiencia--lunes-a-sabado-disponibilidad-inmediata-wingsbox-1118466111.html",
+                   "capturadoEn":  "2026-10-07T00:42:50+00:00"
+               },
+    "titulo":  "MESERO/A CON EXPERIENCIA – LUNES A SÁBADO - DISPONIBILIDAD INMEDIATA",
+    "empresa":  "Wingsbox",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  935,
+                    "max":  936,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 935 - S/ 936",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "\u0026#x1f357; MESERO/A CON EXPERIENCIA – LUNES A SÁBADO - DISPONIBILIDAD INMEDIATA Wingsbox , restaurante ubicado en Jesús María , busca incorporar a su equipo un/a Mesero/a con experiencia y excelente actitud de servicio. Buscamos una persona ágil, responsable, proactiva y orientada al cliente , que pueda adaptarse rápidamente a nuestra dinámica de trabajo. Valoramos especialmente que cuente con conocimientos en preparación de tragos clásicos , ya que podrá brindar apoyo en barra según las necesidades de la operación. \u0026#x1f37d;️ PRINCIPALES FUNCIONES Atender a los clientes de manera cordial, rápida y eficiente. Recibir y tomar pedidos de alimentos y bebidas correctamente. Recomendar productos y promociones a los clientes. Realizar seguimiento de las mesas durante todo el servicio. Coordinar con cocina y barra para asegurar una atención fluida. Preparar y servir tragos clásicos según recetas establecidas, cuando sea requerido. Mantener las mesas, salón y área de trabajo limpios y ordenados. Realizar cobros y cierres de cuenta. Apoyar al equipo en las diferentes tareas necesarias durante el servicio. Cumplir con los protocolos de atención, limpieza e higiene de Wingsbox. \u0026#x1f379; CONOCIMIENTOS EN BARRA Se valorará especialmente contar con experiencia o conocimientos en: Preparación de tragos clásicos. Manejo básico de barra. Uso de recetas y medidas. Organización y limpieza del área de barra. No es indispensable ser bartender , pero sí tener disposición para apoyar en barra cuando la operación lo requiera. ✅ REQUISITOS Experiencia previa como mesero/a en restaurantes. Experiencia comprobable en atención al cliente. Disponibilidad inmediata. Buena comunicación y trato cordial con los clientes. Capacidad para trabajar con rapidez y mantener la atención al detalle en momentos de alta demanda. Capacidad para trabajar en equipo. Responsabilidad, puntualidad y buena actitud. Disponibilidad para trabajar fines de semana. REQUISITO INDISPENSABLE: vivir en Jesús María o en un distrito cercano , debido al horario de salida. \u0026#x1f550; HORARIO Lunes a sábado: 6: 0 0 p. m. – 1 1: 0 0 p. m. Viernes y sábado: 6: 0 0 p. m. – 1 2: 0 0 a. m. Domingo: descanso. ⏱️ Jornada aproximada: 3 2 horas semanales. \u0026#x1f4b0; REMUNERACIÓN S/ 9 3 5 mensuales Además: \u0026#x1f3af; Bono de puntualidad: S/ 1 5 mensuales. \u0026#x1f3c6; Bonos diarios y semanales por cumplimiento de retos y objetivos. Oportunidad de generar ingresos adicionales mediante el cumplimiento de metas. \u0026#x1f4cd; LUGAR DE TRABAJO Wingsbox – Jesús María, Lima \u0026#x1f6a8; DISPONIBILIDAD INMEDIATA Si tienes experiencia como mesero/a, eres rápido/a, responsable y te gusta brindar una buena atención al cliente, queremos conocerte . ¡Únete al equipo Wingsbox! \u0026#x1f357; \u0026#x1f49c;",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/mesero-a-con-experiencia--lunes-a-sabado-disponibilidad-inmediata-wingsbox-1118466111.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mesero-a-con-experiencia--lunes-a-sabado-disponibilidad-inmediata-wingsbox-1118466111.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

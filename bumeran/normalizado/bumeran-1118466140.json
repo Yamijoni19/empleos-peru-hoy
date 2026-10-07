@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466140",
+    "clave":  "id:1118466140",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/estudia-y-trabaja-asesor-ventas-call-center-part-time-s-.615-y-full-time-s-1400-dac-nemo-contact-center-1118466140.html",
+                   "capturadoEn":  "2026-10-07T00:42:44+00:00"
+               },
+    "titulo":  "Estudia y trabaja Asesor ventas call center Part Time S/.615 y Full time S/1400",
+    "empresa":  "DAC Nemo Contact Center",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  615,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 615 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Se parte del quipo comercial de Claro como Asesor(a) de Call Center! En Claro Perú buscamos personas con actitud, ganas de aprender y crecer profesionalmente. Contamos con vacantes PART TIME y FULL TIME para trabajar de manera presencial en nuestras sedes de Surco - Camacho y San Juan de Lurigancho. Y lo mejor: trabajas solo de LUNES A VIERNES, teniendo libres todos tus fines de semana y feriados. FUNCIONES PRINCIPALES: - Contactarte con empresas para presentar soluciones corporativas. - Gestionar clientes potenciales mediante llamadas, WhatsApp y correo electrónico. - Dar seguimiento a oportunidades comerciales hasta concretar ventas. - Capacitarte constantemente para desarrollar habilidades en ventas y negociación. TE OFRECEMOS: - Planilla desde el inicio. - Gratificación Extraordinaria - Asignación Familiar Extraordinaria - Sueldo fijo de S/. 6 1 5 - Sueldo FULL TIME: S/ 1 4 0 0 - 1 5 0 0 - Bono de bienvenida de S/. 1 0 0. - Capacitación pagada con incentivo de S/. 1 0 0. - Comisiones sin límite. - Bonos por resultados entre S/. 2 5 0 y S/. 5 0 0. - Línea de carrera y oportunidades de ascenso. - Excelente ambiente de trabajo. - Descanso fijo sábados, domingos y feriados. SEDES: --\u003e Surco – Camacho (a la altura del Jockey Plaza): Part Time y Full Time. --\u003e SJL – Cerca a Caja de Agua: Solo Part Time. HORARIOS: --\u003e Turno Mañana (Solo en Surco) Lunes a jueves: 8: 3 0 a 1: 3 0 y Viernes: 9: 0 0 a 1 2: 5 0 --\u003e Turno Tarde Lunes a jueves: 2: 0 0 a 7: 0 0 y Viernes: 2: 0 0 a 5: 5 0 --\u003e Full Time (solo Surco y CON experiencia MIN. 4 MESES) Lunes a viernes: 8: 4 5 a 6: 1 5 REQUISITOS: - Tener 1 9 años o más. - Experiencia no indispensable para Part time - Experiencia minima de 4 meses en call center para Full time - Buena comunicación y actitud proactiva. - Disponibilidad para trabajo presencial. - Contar con DNI vigente o C 4.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/estudia-y-trabaja-asesor-ventas-call-center-part-time-s-.615-y-full-time-s-1400-dac-nemo-contact-center-1118466140.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/estudia-y-trabaja-asesor-ventas-call-center-part-time-s-.615-y-full-time-s-1400-dac-nemo-contact-center-1118466140.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

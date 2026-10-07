@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118466287",
+    "clave":  "id:1118466287",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinadora-de-procuracion-estudio-bedoya-abogados-s.c.r.l.-1118466287.html",
+                   "capturadoEn":  "2026-10-07T00:42:33+00:00"
+               },
+    "titulo":  "COORDINADOR(A) DE PROCURACIÓN",
+    "empresa":  "ESTUDIO BEDOYA ABOGADOS S.C.R.L.",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Importante empresa del rubro de recuperación de cartera judicial en el rubro financiero. Buscamos una persona organizada, responsable y con capacidad de liderazgo para coordinar y supervisar las diligencias de nuestro equipo de procuración. Principales responsabilidades: Organizar y distribuir las diligencias diarias entre los procuradores. Planificar y controlar las rutas de trabajo. Hacer seguimiento al cumplimiento de plazos y pendientes. Verificar cargos, constancias y demás sustentos de las diligencias realizadas. Coordinar urgencias e informar oportunamente incidencias. Mantener actualizada la información de seguimiento y elaborar reportes de cumplimiento. Supervisar el adecuado manejo y traslado de documentación física. Requisitos: Experiencia en procuración o trámites judiciales, notariales, registrales y/o administrativos. Conocimiento de juzgados, SUNARP, notarías y mesas de partes. Manejo de Excel a nivel Avanzado. Capacidad para organizar equipos, priorizar tareas y controlar plazos. Experiencia o habilidad para supervisar personal, delegar tareas y efectuar seguimiento al cumplimiento. Buena comunicación, criterio, responsabilidad y orientación al cumplimiento. Comunicación asertiva, manejo de conflictos, trabajo bajo presión y capacidad para brindar retroalimentación al equipo. Competencias valoradas: liderazgo, orden, seguimiento, sentido de urgencia, capacidad de respuesta y control. Ofrecemos: Ingreso a planilla desde el 1er dia. Sueldo acorde al mercado. Horario de Lunes a Viernes. Grato ambiente laboral. ¡ÚNETE A NUESTRO EQUIPO!",
+    "requisitos":  [
+                       "Experiencia en procuración o trámites judiciales, notariales, registrales y/o administrativos.",
+                       "Conocimiento de juzgados, SUNARP, notarías y mesas de partes.",
+                       "Manejo de Excel a nivel Avanzado.",
+                       "Capacidad para organizar equipos, priorizar tareas y controlar plazos.",
+                       "Experiencia o habilidad para supervisar personal, delegar tareas y efectuar seguimiento al cumplimiento.",
+                       "Buena comunicación, criterio, responsabilidad y orientación al cumplimiento.",
+                       "Comunicación asertiva, manejo de conflictos, trabajo bajo presión y capacidad para brindar retroalimentación al equipo."
+                   ],
+    "funciones":  [
+                      "Organizar y distribuir las diligencias diarias entre los procuradores.",
+                      "Planificar y controlar las rutas de trabajo.",
+                      "Hacer seguimiento al cumplimiento de plazos y pendientes.",
+                      "Verificar cargos, constancias y demás sustentos de las diligencias realizadas.",
+                      "Coordinar urgencias e informar oportunamente incidencias.",
+                      "Mantener actualizada la información de seguimiento y elaborar reportes de cumplimiento.",
+                      "Supervisar el adecuado manejo y traslado de documentación física."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinadora-de-procuracion-estudio-bedoya-abogados-s.c.r.l.-1118466287.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinadora-de-procuracion-estudio-bedoya-abogados-s.c.r.l.-1118466287.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

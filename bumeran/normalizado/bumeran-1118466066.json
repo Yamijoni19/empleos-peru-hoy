@@ -1,0 +1,63 @@
+{
+    "id":  "bumeran-1118466066",
+    "clave":  "id:1118466066",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-procesos-y-mejora-continua-grupo-red-salud-1118466066.html",
+                   "capturadoEn":  "2026-10-07T00:43:06+00:00"
+               },
+    "titulo":  "Practicante Profesional de Procesos y Mejora Continua",
+    "empresa":  "Grupo Red Salud",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Hola talentos! Somos un holding empresarial destacado en el sector salud en Perú, ofrecemos servicios médicos de excelencia con soluciones innovadoras y tecnología avanzada. Con una amplia red de centros médicos y una sólida presencia en el mercado, nos destacamos por nuestra inclusión y mejora continua. ¡Únete al GRUPO RED SALUD y transforma el cuidado de la salud en el país como Practicante Profesional de Procesos y Mejora Continua ! Requisitos: Egresado de las carreras de Ingeniería industrial, Administración, Administración en salud o afines (Excluyente). Manejo de herramientas de modelamiento (Bizagi, Camunda o afines). Manejo de Excel a nivel intermedio. Deseable conocimiento en modelamiento de procesos ( BPMN ). Deseable conocimiento en Transformación Digital para gestionar proyectos de innovación y mejora de procesos. Deseable manejo de Power BI. ¿Cuáles serán tus retos? Brindar soporte en el mapeo de procesos (AS – IS) identificando actividades, responsables y tiempos. Participar en la elaboración y documentación de procedimientos y documentación necesaria para la operación. Brindar iniciativas de mejora continua y automatización, identificando cuellos de botella y riesgos. Soporte en el diseño de procesos optimizados (TO-BE). Participar en la implementación de KPIS del área. ¿Qué te ofrecemos? Subvención acorde al mercado. Línea de carrera. Plan de salud privado Excelente clima laboral. Convenios para descuentos corporativos. Día libre por cumpleaños. Se tomará en cuenta para la convocatoria a todos los solicitantes calificados, independientemente de la raza, color, religión, sexo, expresión o identidad u orientación sexual, país de origen, genética, discapacidad o edad. ¡ Postula y crece con nosotros!",
+    "requisitos":  [
+                       "Egresado de las carreras de Ingeniería industrial, Administración, Administración en salud o afines (Excluyente).",
+                       "Manejo de herramientas de modelamiento (Bizagi, Camunda o afines).",
+                       "Manejo de Excel a nivel intermedio.",
+                       "Deseable conocimiento en modelamiento de procesos ( BPMN ).",
+                       "Deseable conocimiento en Transformación Digital para gestionar proyectos de innovación y mejora de procesos.",
+                       "Deseable manejo de Power BI."
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-procesos-y-mejora-continua-grupo-red-salud-1118466066.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-procesos-y-mejora-continua-grupo-red-salud-1118466066.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
