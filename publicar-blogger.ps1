@@ -96,6 +96,7 @@ $Cfg = @{
     backfill      = @{ activado = $false }
     cooldown429   = @{ minutos = 240 }
     scheduler     = @{ frecuenciaMin = 60 }
+    pausaPublicacionMs = 2500
 }
 if (Test-Path $CfgColaPath) {
     try {
@@ -119,6 +120,7 @@ if (Test-Path $CfgColaPath) {
         if ($null -ne $j.ventanaAnomalia)     { $Cfg.anomalia.ventanaDias      = [int]$j.ventanaAnomalia }
         if ($null -ne $j.permitirBackfill)    { $Cfg.backfill.activado         = [bool]$j.permitirBackfill }
         if ($null -ne $j.frecuenciaScheduler) { $Cfg.scheduler.frecuenciaMin   = [int]$j.frecuenciaScheduler }
+        if ($null -ne $j.pausaPublicacionMs)  { $Cfg.pausaPublicacionMs        = [Math]::Max(0, [int]$j.pausaPublicacionMs) }
         if ($j.modo) { $Cfg.modo = [string]$j.modo }
     } catch { Write-Host ("  AVISO: config\publicacion.json ilegible, se usan los defaults temporales (" + $_.Exception.Message + ")") }
 }
@@ -741,7 +743,7 @@ foreach ($f in $archivos) {
         Guardar-Registro
         Write-Host ("[" + $n + "/" + $archivos.Count + "] OK   " + $titulo)
         Write-Host ("        " + $post.url)
-        Start-Sleep -Milliseconds 2500
+        Start-Sleep -Milliseconds ([int]$Cfg.pausaPublicacionMs)
     } catch {
         $fail++
         $msg = $_.Exception.Message
