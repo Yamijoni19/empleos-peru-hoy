@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-control-de-calidad-rcs-capital-humano-1118467081.html",
-                   "capturadoEn":  "2026-10-06T08:59:09+00:00"
+                   "capturadoEn":  "2026-10-07T09:18:17-05:00"
                },
     "titulo":  "Auxiliar de Control de Calidad",
     "empresa":  "RCS Capital Humano",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,37 @@
                 },
     "descripcion":  "Por encargo de nuestro cliente, importate empresa del sector industrial, nos encontramos en búsqueda de un Auxiliar de Control de Calidad, que cumpla con lo siguientes requisitos: Requisitos: Técnico en laboratorio o afines. Manejo de Office a nivel básico. Mínima 01 año en puestos similares. Disponibilidad para laborar en Pisco. Funciones Realizar los ensayos solicitados para el control de calidad de las operaciones de producción, materia prima, producto en proceso y producto final. Muestrear materia prima, producto en proceso y producto final, realizar la codificación, medición y/o ensayos físicos/químicos correspondientes a los procedimientos y/o indicaciones proporcionadas. Registrar la información para la evidencia del ensayo en los formatos de registro establecidos para los diferentes métodos de ensayo. Cumplir las demás actividades o tareas que le asigne su jefe inmediato. Beneficios: Ingreso a planilla desde el 1er día. Beneficios de ley. Almuerzo cubierto al 100% Pago de HHEE",
     "requisitos":  [
-
+                       "Técnico en laboratorio o afines",
+                       "Manejo de Office a nivel básico",
+                       "Mínima 01 año en puestos similares",
+                       "Disponibilidad para laborar en Pisco"
                    ],
     "funciones":  [
-
+                      "Realizar los ensayos solicitados para el control de calidad de las operaciones de producción, materia prima, producto en proceso y producto final",
+                      "Muestrear materia prima, producto en proceso y producto final, realizar la codificación, medición y/o ensayos físicos/químicos correspondientes a los procedimientos y/o indicaciones proporcionadas",
+                      "Registrar la información para la evidencia del ensayo en los formatos de registro establecidos para los diferentes métodos de ensayo",
+                      "Cumplir las demás actividades o tareas que le asigne su jefe inmediato"
                   ],
     "beneficios":  [
-
+                       "de ley",
+                       "Almuerzo cubierto al 100%",
+                       "Pago de HHEE"
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2027-01-01",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-control-de-calidad-rcs-capital-humano-1118467081.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-control-de-calidad-rcs-capital-humano-1118467081.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importate empresa del sector industrial, nos encontramos en búsqueda de un Auxiliar de Control de Calidad, que cumpla con lo siguientes requisitos: \u003cbr /\u003e\u003cbr /\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico en laboratorio o afines.\u003c/li\u003e \u003cli\u003eManejo de Office a nivel básico.\u003c/li\u003e \u003cli\u003eMínima 01 año en puestos similares.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en Pisco.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones\u003c/p\u003e\u003cul\u003e \u003cli\u003e Realizar los ensayos solicitados para el control de calidad de las operaciones de producción, materia prima, producto en proceso y producto final. \u003c/li\u003e \u003cli\u003eMuestrear materia prima, producto en proceso y producto final, realizar la codificación, medición y/o ensayos físicos/químicos correspondientes a los procedimientos y/o indicaciones proporcionadas. \u003c/li\u003e \u003cli\u003eRegistrar la información para la evidencia del ensayo en los formatos de registro establecidos para los diferentes métodos de ensayo. \u003c/li\u003e \u003cli\u003eCumplir las demás actividades o tareas que le asigne su jefe inmediato.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla desde el 1er día.\u003c/li\u003e \u003cli\u003eBeneficios de ley.\u003c/li\u003e \u003cli\u003eAlmuerzo cubierto al 100%\u003c/li\u003e \u003cli\u003ePago de HHEE\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Calidad",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +63,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

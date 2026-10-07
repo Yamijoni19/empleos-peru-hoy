@@ -6,37 +6,52 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/bartender-mozo-brasas-del-centro-1118466286.html",
-                   "capturadoEn":  "2026-10-07T00:42:36+00:00"
+                   "capturadoEn":  "2026-10-07T09:13:21-05:00"
                },
     "titulo":  "Bartender - Mozo",
     "empresa":  "BRASAS DEL CENTRO",
     "ubicacion":  "Lima - Los Olivos",
     "ciudad":  "Los Olivos",
     "region":  "Lima",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  1300,
                     "max":  1550,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,300 - S/ 1,550",
+                    "texto_original":  "S/ 1.300 - S/ 1.550",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Bartender - Mozo Resumen del Puesto Buscamos un profesional dinámico y con experiencia para cubrir el puesto de Bartender - Mozo . El candidato ideal poseerá habilidades en la preparación de bebidas y un excelente trato al cliente, demostrando responsabilidad y buena comunicación. Responsabilidades Preparación y servicio de una variedad de bebidas. Atención a los clientes en barra y mesas. Mantenimiento del orden y la limpieza del área de trabajo. Colaboración con el equipo para asegurar una experiencia positiva del cliente. Requisitos Experiencia previa comprobable en roles de bartender, mozo o similares. Experiencia en atención al cliente. Conocimientos en la preparación y servicio de bebidas. Habilidades de comunicación y trato cordial. Capacidad para trabajar en un entorno dinámico.",
     "requisitos":  [
-
+                       "Experiencia previa comprobable en roles de bartender, mozo o similares",
+                       "Experiencia en atención al cliente",
+                       "Conocimientos en la preparación y servicio de bebidas",
+                       "Habilidades de comunicación y trato cordial",
+                       "Capacidad para trabajar en un entorno dinámico"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/bartender-mozo-brasas-del-centro-1118466286.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/bartender-mozo-brasas-del-centro-1118466286.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eBartender - Mozo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un profesional dinámico y con experiencia para cubrir el puesto de \u003cstrong\u003eBartender - Mozo\u003c/strong\u003e. El candidato ideal poseerá habilidades en la preparación de bebidas y un excelente trato al cliente, demostrando responsabilidad y buena comunicación.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePreparación y servicio de una variedad de bebidas.\u003c/li\u003e \u003cli\u003eAtención a los clientes en barra y mesas.\u003c/li\u003e \u003cli\u003eMantenimiento del orden y la limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para asegurar una experiencia positiva del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa comprobable en roles de bartender, mozo o similares.\u003c/li\u003e \u003cli\u003eExperiencia en atención al cliente.\u003c/li\u003e \u003cli\u003eConocimientos en la preparación y servicio de bebidas.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trato cordial.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno dinámico.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Camareros",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

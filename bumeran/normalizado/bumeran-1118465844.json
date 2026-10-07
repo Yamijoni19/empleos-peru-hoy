@@ -6,37 +6,48 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-ventas-inmobiliarias-remax-renova-1118465844.html",
-                   "capturadoEn":  "2026-10-07T07:15:18+00:00"
+                   "capturadoEn":  "2026-10-07T09:10:39-05:00"
                },
     "titulo":  "Especialista en Ventas Inmobiliarias",
     "empresa":  "REMAX RENOVA",
     "ubicacion":  "Lima - San Isidro",
     "ciudad":  "San Isidro",
     "region":  "Lima",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  1500,
                     "max":  2500,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,500 - S/ 2,500",
+                    "texto_original":  "S/ 1.500 - S/ 2.500",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "¡Únete a nuestra familia inmobiliaria! Buscamos personas de 3 0 años a más, con actitud comercial, buena comunicación y ganas de crecer profesionalmente. No necesitas experiencia en bienes raíces; nosotros te capacitamos. ¿Qué harás? Prospectar y captar clientes y propiedades. Asesorar en la compra, venta y alquiler de inmuebles. Realizar visitas a propiedades. Acompañar y gestionar negociaciones. Hacer seguimiento a clientes y cartera comercial. Promocionar inmuebles en plataformas digitales. ¿Qué ofrecemos? Capacitación inicial y formación continua. Acompañamiento y mentoría. Herramientas y soporte comercial. Flexibilidad para organizar tus horarios.",
     "requisitos":  [
-
+                       null
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/especialista-en-ventas-inmobiliarias-remax-renova-1118465844.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-ventas-inmobiliarias-remax-renova-1118465844.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Únete a nuestra familia inmobiliaria!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos personas de \u0026#x33; \u0026#x30; años a más, con actitud comercial, buena comunicación y ganas de crecer profesionalmente. No necesitas experiencia en bienes raíces; nosotros te capacitamos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué harás?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProspectar y captar clientes y propiedades.\u003c/li\u003e \u003cli\u003eAsesorar en la compra, venta y alquiler de inmuebles.\u003c/li\u003e \u003cli\u003eRealizar visitas a propiedades.\u003c/li\u003e \u003cli\u003eAcompañar y gestionar negociaciones.\u003c/li\u003e \u003cli\u003eHacer seguimiento a clientes y cartera comercial.\u003c/li\u003e \u003cli\u003ePromocionar inmuebles en plataformas digitales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCapacitación inicial y formación continua.\u003c/li\u003e \u003cli\u003eAcompañamiento y mentoría.\u003c/li\u003e \u003cli\u003eHerramientas y soporte comercial.\u003c/li\u003e \u003cli\u003eFlexibilidad para organizar tus horarios.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +55,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

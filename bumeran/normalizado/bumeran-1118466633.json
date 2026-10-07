@@ -6,37 +6,51 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-auxiliar-de-produccion-horas-extras-cenas-grupo-diseda-s.a.c.-1118466633.html",
-                   "capturadoEn":  "2026-10-06T15:57:50+00:00"
+                   "capturadoEn":  "2026-10-07T09:16:21-05:00"
                },
     "titulo":  "OPERARIO AUXILIAR DE PRODUCCIÓN + HORAS EXTRAS + CENAS",
     "empresa":  "GRUPO DISEDA S.A.C.",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  1250,
                     "max":  1300,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,250 - S/ 1,300",
+                    "texto_original":  "S/ 1.250 - S/ 1.300",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Operario Auxiliar de Producción Resumen del Puesto Estamos en la búsqueda de Operarios Auxiliares de Producción para unirse a nuestro equipo. El candidato ideal tendrá experiencia en procesos productivos y la capacidad de trabajar de manera eficiente en un entorno de fabricación. Responsabilidades Realizar el doblado de planchas metálicas. Apoyar en el corte y pegado de materiales. Participar en el armado y acondicionamiento de equipos. Utilizar herramientas de mano y maquinaria de producción. Colaborar en otras actividades asignadas para el buen funcionamiento del área. Requisitos Experiencia mínima de 6 meses en producción, metalmecánica o puestos similares. Experiencia en el manejo de herramientas y maquinaria de producción. Responsabilidad, compromiso y disposición para trabajar en equipo. Capacidad para seguir instrucciones y procedimientos de trabajo. Condiciones de Trabajo Jornada laboral de lunes a viernes y sábados. Disponibilidad para realizar horas extras, las cuales serán remuneradas de acuerdo con la normativa vigente. Se ofrece remuneración mensual y beneficios de ley.",
     "requisitos":  [
-
+                       "Experiencia mínima de 6 meses en producción, metalmecánica o puestos similares",
+                       "Experiencia en el manejo de herramientas y maquinaria de producción",
+                       "Responsabilidad, compromiso y disposición para trabajar en equipo",
+                       "Capacidad para seguir instrucciones y procedimientos de trabajo"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       "de ley"
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/operario-auxiliar-de-produccion-horas-extras-cenas-grupo-diseda-s.a.c.-1118466633.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-auxiliar-de-produccion-horas-extras-cenas-grupo-diseda-s.a.c.-1118466633.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOperario Auxiliar de Producción\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de \u003cstrong\u003eOperarios Auxiliares de Producción\u003c/strong\u003e para unirse a nuestro equipo. El candidato ideal tendrá experiencia en procesos productivos y la capacidad de trabajar de manera eficiente en un entorno de fabricación.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar el doblado de planchas metálicas.\u003c/li\u003e \u003cli\u003eApoyar en el corte y pegado de materiales.\u003c/li\u003e \u003cli\u003eParticipar en el armado y acondicionamiento de equipos.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de mano y maquinaria de producción.\u003c/li\u003e \u003cli\u003eColaborar en otras actividades asignadas para el buen funcionamiento del área.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de \u0026#x36; meses en producción, metalmecánica o puestos similares.\u003c/li\u003e \u003cli\u003eExperiencia en el manejo de herramientas y maquinaria de producción.\u003c/li\u003e \u003cli\u003eResponsabilidad, compromiso y disposición para trabajar en equipo.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y procedimientos de trabajo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones de Trabajo\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eJornada laboral de lunes a viernes y sábados.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar horas extras, las cuales serán remuneradas de acuerdo con la normativa vigente.\u003c/li\u003e \u003cli\u003eSe ofrece remuneración mensual y beneficios de ley.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Producción",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +58,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

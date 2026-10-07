@@ -6,14 +6,14 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-soporte-tecnico-de-campo-jamtec-1118465862.html",
-                   "capturadoEn":  "2026-10-07T07:15:13+00:00"
+                   "capturadoEn":  "2026-10-07T09:10:47-05:00"
                },
     "titulo":  "Técnico de Soporte / Técnico de Campo",
     "empresa":  "JAMTEC",
     "ubicacion":  "Cuzco - Cusco",
     "ciudad":  "Cusco",
     "region":  "Cuzco",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  100,
@@ -25,18 +25,33 @@
                 },
     "descripcion":  "Técnico de Soporte / Técnico de Campo Resumen del Puesto Estamos en la búsqueda de personas interesadas en desarrollarse como Técnicos de Soporte / Técnicos de Campo para realizar atenciones eventuales, principalmente relacionadas con la renovación de equipos desktop. Buscamos personas responsables, proactivas y con interés en desarrollarse en el área de soporte informático. No es indispensable contar con experiencia previa, ya que se brinda capacitación y orientación para las actividades del servicio. También se consideran perfiles de practicantes de último ciclo de carreras relacionadas con Computación, Informática y Sistemas. Actividades Principales Realizar soporte técnico en campo. Instalar, configurar y reemplazar equipos informáticos. Realizar diagnósticos y resolución de incidencias técnicas. Documentar las intervenciones realizadas. Requisitos Formación técnica o Autodidacta de Computación, Informática, Sistemas o afines. Interés en el área de soporte informático. Capacidad para el trabajo en campo y resolución de problemas. Habilidades de comunicación y atención al usuario. Proactividad y responsabilidad.",
     "requisitos":  [
-
+                       "Formación técnica o Autodidacta de Computación, Informática, Sistemas o afines",
+                       "Interés en el área de soporte informático",
+                       "Capacidad para el trabajo en campo y resolución de problemas",
+                       "Habilidades de comunicación y atención al usuario",
+                       "Proactividad y responsabilidad"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2027-01-04",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-soporte-tecnico-de-campo-jamtec-1118465862.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-soporte-tecnico-de-campo-jamtec-1118465862.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eTécnico de Soporte / Técnico de Campo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de personas interesadas en desarrollarse como \u003cstrong\u003eTécnicos de Soporte / Técnicos de Campo\u003c/strong\u003e para realizar atenciones eventuales, principalmente relacionadas con la renovación de equipos desktop.\u003c/p\u003e\u003cp\u003eBuscamos personas responsables, proactivas y con interés en desarrollarse en el área de soporte informático. No es indispensable contar con experiencia previa, ya que se brinda capacitación y orientación para las actividades del servicio.\u003c/p\u003e\u003cp\u003eTambién se consideran perfiles de practicantes de último ciclo de carreras relacionadas con Computación, Informática y Sistemas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eActividades Principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar soporte técnico en campo.\u003c/li\u003e \u003cli\u003eInstalar, configurar y reemplazar equipos informáticos.\u003c/li\u003e \u003cli\u003eRealizar diagnósticos y resolución de incidencias técnicas.\u003c/li\u003e \u003cli\u003eDocumentar las intervenciones realizadas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación técnica o Autodidacta de Computación, Informática, Sistemas o afines.\u003c/li\u003e \u003cli\u003eInterés en el área de soporte informático.\u003c/li\u003e \u003cli\u003eCapacidad para el trabajo en campo y resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y atención al usuario.\u003c/li\u003e \u003cli\u003eProactividad y responsabilidad.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Soporte Técnico",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

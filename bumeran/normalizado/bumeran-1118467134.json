@@ -6,37 +6,53 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-playa-grande-1118467134.html",
-                   "capturadoEn":  "2026-10-05T03:19:02+00:00"
+                   "capturadoEn":  "2026-10-07T09:19:31-05:00"
                },
-    "titulo":  "Asistente de Facturaci�n",
+    "titulo":  "Asistente de Facturación",
     "empresa":  "PLAYA GRANDE",
     "ubicacion":  "Lima - Los Olivos",
     "ciudad":  "Los Olivos",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1200,
                     "max":  1500,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "texto_original":  "S/ 1.200 - S/ 1.500",
                     "fuente_salario":  "rango"
                 },
-    "descripcion":  "Asistente de Facturaci�n Resumen del Puesto Buscamos un Asistente de Facturaci�n para unirse a nuestro equipo. El rol principal ser� la gesti�n integral de la emisi�n y control de comprobantes de pago, validaci�n de informaci�n de clientes y operaciones, registro de pagos y mantenimiento actualizado de la documentaci�n de facturaci�n. Responsabilidades Elaborar, emitir, registrar y enviar comprobantes de pago: boletas, facturas y notas de cr�dito. Identificar y registrar pagos recibidos, manteniendo actualizados los controles de pago. Realizar el seguimiento de comprobantes emitidos, pagos pendientes y documentos observados. Atender consultas de clientes relacionadas con pagos, comprobantes y documentaci�n de facturaci�n. Requisitos Formaci�n t�cnica o universitaria en Contabilidad, Administraci�n, Finanzas o carreras afines. Experiencia m�nima de 1 a�o en facturaci�n, cobranzas o funciones similares. Manejo de sistemas de facturaci�n electr�nica. Se valorar� experiencia con Sauri ERP. Nivel intermedio en el manejo de Microsoft Excel. Conocimiento de operaciones y transacciones bancarias.",
+    "descripcion":  "Asistente de Facturación Resumen del Puesto Buscamos un Asistente de Facturación para unirse a nuestro equipo. El rol principal será la gestión integral de la emisión y control de comprobantes de pago, validación de información de clientes y operaciones, registro de pagos y mantenimiento actualizado de la documentación de facturación. Responsabilidades Elaborar, emitir, registrar y enviar comprobantes de pago: boletas, facturas y notas de crédito. Identificar y registrar pagos recibidos, manteniendo actualizados los controles de pago. Realizar el seguimiento de comprobantes emitidos, pagos pendientes y documentos observados. Atender consultas de clientes relacionadas con pagos, comprobantes y documentación de facturación. Requisitos Formación técnica o universitaria en Contabilidad, Administración, Finanzas o carreras afines. Experiencia mínima de 1 año en facturación, cobranzas o funciones similares. Manejo de sistemas de facturación electrónica. Se valorará experiencia con Sauri ERP. Nivel intermedio en el manejo de Microsoft Excel. Conocimiento de operaciones y transacciones bancarias.",
     "requisitos":  [
-
+                       "Formación técnica o universitaria en Contabilidad, Administración, Finanzas o carreras afines",
+                       "Experiencia mínima de 1 año en facturación, cobranzas o"
                    ],
     "funciones":  [
-
+                      "similares",
+                      "Manejo de sistemas de facturación electrónica",
+                      "Se valorará experiencia con Sauri ERP",
+                      "Nivel intermedio en el manejo de Microsoft Excel",
+                      "Conocimiento de operaciones y transacciones bancarias"
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2026-12-02",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-playa-grande-1118467134.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-playa-grande-1118467134.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Facturación\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Facturación\u003c/b\u003e para unirse a nuestro equipo. El rol principal será la gestión integral de la emisión y control de comprobantes de pago, validación de información de clientes y operaciones, registro de pagos y mantenimiento actualizado de la documentación de facturación.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eElaborar, emitir, registrar y enviar comprobantes de pago: boletas, facturas y notas de crédito.\u003c/li\u003e \u003cli\u003eIdentificar y registrar pagos recibidos, manteniendo actualizados los controles de pago.\u003c/li\u003e \u003cli\u003eRealizar el seguimiento de comprobantes emitidos, pagos pendientes y documentos observados.\u003c/li\u003e \u003cli\u003eAtender consultas de clientes relacionadas con pagos, comprobantes y documentación de facturación.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en Contabilidad, Administración, Finanzas o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en facturación, cobranzas o funciones similares.\u003c/li\u003e \u003cli\u003eManejo de sistemas de facturación electrónica.\u003c/li\u003e \u003cli\u003eSe valorará experiencia con Sauri ERP.\u003c/li\u003e \u003cli\u003eNivel intermedio en el manejo de Microsoft Excel.\u003c/li\u003e \u003cli\u003eConocimiento de operaciones y transacciones bancarias.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Facturación",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +60,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

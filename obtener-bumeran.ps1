@@ -280,19 +280,21 @@ foreach ($u in $pendientes) {
     $descripcion = ''
     if ($ld.description) { $descripcion = (Limpio ([string]$ld.description)) }
 
-    # secciones (requisitos/funciones) desde el JobPosting y desde el HTML visible
+    # secciones (requisitos/funciones): primero el parseo enriquecido (lineas
+    # del HTML/LD con saltos reales -> items separados), luego el texto plano.
     $requisitos = @(); $funciones = @(); $beneficios = @()
     . "$PSScriptRoot\lib\bumeran-parser.ps1"
-    $secDesc = Get-Secciones $descripcion
-    $requisitos = @(Get-Items $secDesc.requisitos)
-    $funciones   = @(Get-Items $secDesc.funciones)
-    $beneficios  = @(Get-Items $secDesc.beneficios)
-    if ($requisitos.Count -eq 0) { foreach ($sec in @($ld.qualifications, $ld.responsibilities, $ld.skills, $ld.experienceRequirements)) { if ($sec) { $requisitos += (Limpio ([string]$sec)) } } }
-
     $rich = Parse-Bumeran-Page $html $ld
-    if ($funciones.Count -eq 0) { $funciones = @($rich.funciones) }
-    if ($beneficios.Count -eq 0) { $beneficios = @($rich.beneficios) }
-    if ($requisitos.Count -eq 0) { $requisitos = @($rich.requisitos) }
+    $funciones  = @($rich.funciones)
+    $beneficios = @($rich.beneficios)
+    $requisitos = @($rich.requisitos)
+    if ($funciones.Count -eq 0 -or $requisitos.Count -eq 0 -or $beneficios.Count -eq 0) {
+        $secDesc = Get-Secciones $descripcion
+        if ($funciones.Count -eq 0)  { $funciones  = @(Get-Items $secDesc.funciones) }
+        if ($requisitos.Count -eq 0) { $requisitos = @(Get-Items $secDesc.requisitos) }
+        if ($beneficios.Count -eq 0) { $beneficios = @(Get-Items $secDesc.beneficios) }
+    }
+    if ($requisitos.Count -eq 0) { foreach ($sec in @($ld.qualifications, $ld.responsibilities, $ld.skills, $ld.experienceRequirements)) { if ($sec) { $requisitos += (Limpio ([string]$sec)) } } }
 
     $modalidad = ''
     if ($ld.jobLocationType) { $modalidad = [string]$ld.jobLocationType }   # TELECOMMUTE

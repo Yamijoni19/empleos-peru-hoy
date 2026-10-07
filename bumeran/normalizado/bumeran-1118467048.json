@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-rrhh-cyl-1118467048.html",
-                   "capturadoEn":  "2026-10-06T08:59:41+00:00"
+                   "capturadoEn":  "2026-10-07T09:16:53-05:00"
                },
     "titulo":  "Practicante de rrhh",
     "empresa":  "CYL",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,29 @@
                 },
     "descripcion":  "Estamos en la búsqueda de personas dinámicas y comprometidas que deseen iniciar su trayectoria profesional en el área de Recursos Humanos. Este programa de prácticas ofrece la oportunidad de involucrarse directamente en procesos críticos de adquisición de talento, brindando formación práctica en un entorno de aprendizaje continuo y flexibilidad.",
     "requisitos":  [
-
+                       null
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2026-12-02",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/practicante-de-rrhh-cyl-1118467048.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-rrhh-cyl-1118467048.html",
+    "descripcion_html":  "\u003cp\u003eEstamos en la búsqueda de personas dinámicas y comprometidas que deseen iniciar su trayectoria profesional en el área de Recursos Humanos. Este programa de prácticas ofrece la oportunidad de involucrarse directamente en procesos críticos de adquisición de talento, brindando formación práctica en un entorno de aprendizaje continuo y flexibilidad.\u003c/p\u003e",
+    "area":  "Selección",
+    "jornada":  "Full-time",
+    "nivel":  "Sin Experiencia",
+    "vacantes":  "2",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +55,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

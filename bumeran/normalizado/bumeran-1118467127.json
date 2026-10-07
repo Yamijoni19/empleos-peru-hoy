@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-mantenimiento-mina-alpayana-sac-1118467127.html",
-                   "capturadoEn":  "2026-10-05T03:19:10+00:00"
+                   "capturadoEn":  "2026-10-07T09:19:16-05:00"
                },
-    "titulo":  "T�cnico Electricista - Mantenimiento Mina",
+    "titulo":  "Técnico Electricista - Mantenimiento Mina",
     "empresa":  "ALPAYANA SAC",
     "ubicacion":  "Junin - Yauli",
     "ciudad":  "Yauli",
     "region":  "Junin",
-    "modalidad":  "",
-    "contrato":  "TEMPORARY",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -23,20 +23,35 @@
                     "texto_original":  "No especificado",
                     "fuente_salario":  ""
                 },
-    "descripcion":  "En Alpayana estamos en busqueda de un T�cnico Electricista para ejecutar, controlar e informar los trabajos de mantenimiento predictivo, preventivo y correctivo de los sistemas el�ctricos de equipos y maquinarias en superficie e interior mina (bombas de agua, compresoras, ventiladores, entre otros), as� como de la red de baja tensi�n y de los equipos convencionales (locomotoras, electrobombas y cargadores de bater�as). El objetivo es garantizar la operatividad continua de los equipos, cumpliendo las normas de Seguridad, Salud Ocupacional y Medio Ambiente. Requisitos T�cnico Superior completo en Electricidad o Electrotecnia. Estudios de especializaci�n afines al puesto. M�nimo 1 a�o de experiencia en puestos similares, de preferencia en instalaciones el�ctricas b�sicas e industriales. Conocimientos en Gesti�n de Seguridad y Salud Ocupacional (Ley N� 29783 y Reglamento de SSO en Miner�a). Lugar de trabajo: Unidad Minera Morococha � Jun�n.",
+    "descripcion":  "En Alpayana estamos en busqueda de un Técnico Electricista para ejecutar, controlar e informar los trabajos de mantenimiento predictivo, preventivo y correctivo de los sistemas eléctricos de equipos y maquinarias en superficie e interior mina (bombas de agua, compresoras, ventiladores, entre otros), así como de la red de baja tensión y de los equipos convencionales (locomotoras, electrobombas y cargadores de baterías). El objetivo es garantizar la operatividad continua de los equipos, cumpliendo las normas de Seguridad, Salud Ocupacional y Medio Ambiente. Requisitos Técnico Superior completo en Electricidad o Electrotecnia. Estudios de especialización afines al puesto. Mínimo 1 año de experiencia en puestos similares, de preferencia en instalaciones eléctricas básicas e industriales. Conocimientos en Gestión de Seguridad y Salud Ocupacional (Ley N° 29783 y Reglamento de SSO en Minería). Lugar de trabajo: Unidad Minera Morococha – Junín.",
     "requisitos":  [
-
+                       "Técnico Superior completo en Electricidad o Electrotecnia",
+                       "Estudios de especialización afines al puesto",
+                       "Mínimo 1 año de experiencia en puestos similares, de preferencia en instalaciones eléctricas básicas e industriales",
+                       "Conocimientos en Gestión de Seguridad y Salud Ocupacional (Ley N° 29783 y Reglamento de SSO en Minería)",
+                       "Lugar de trabajo: Unidad Minera Morococha – Junín"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2027-01-31",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-mantenimiento-mina-alpayana-sac-1118467127.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-mantenimiento-mina-alpayana-sac-1118467127.html",
+    "descripcion_html":  "\u003cp\u003eEn Alpayana estamos en busqueda de un Técnico Electricista para ejecutar, controlar e informar los trabajos de mantenimiento predictivo, preventivo y correctivo de los sistemas eléctricos de equipos y maquinarias en superficie e interior mina (bombas de agua, compresoras, ventiladores, entre otros), así como de la red de baja tensión y de los equipos convencionales (locomotoras, electrobombas y cargadores de baterías). El objetivo es garantizar la operatividad continua de los equipos, cumpliendo las normas de Seguridad, Salud Ocupacional y Medio Ambiente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico Superior completo en Electricidad o Electrotecnia.\u003c/li\u003e \u003cli\u003eEstudios de especialización afines al puesto.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia en puestos similares, de preferencia en instalaciones eléctricas básicas e industriales.\u003c/li\u003e \u003cli\u003eConocimientos en Gestión de Seguridad y Salud Ocupacional (Ley N° 29783 y Reglamento de SSO en Minería).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Unidad Minera Morococha – Junín.\u003c/p\u003e",
+    "area":  "Mineria/Petroleo/Gas",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

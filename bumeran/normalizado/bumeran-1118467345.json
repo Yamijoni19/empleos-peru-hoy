@@ -6,37 +6,52 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-ultraclean-1118467345.html",
-                   "capturadoEn":  "2026-10-05T19:48:26+00:00"
+                   "capturadoEn":  "2026-10-07T09:22:26-05:00"
                },
     "titulo":  "Personal de Limpieza",
     "empresa":  "ULTRACLEAN",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1130,
                     "max":  1500,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,130 - S/ 1,500",
+                    "texto_original":  "S/ 1.130 - S/ 1.500",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Personal de Limpieza Resumen del Puesto Buscamos incorporar Personal de Limpieza para unirse a nuestro equipo. El candidato ideal será una persona responsable, comprometida y con buena disposición para realizar labores de limpieza y mantenimiento en diversas instalaciones. Responsabilidades Realizar tareas de limpieza general en oficinas y otras áreas designadas. Mantener la pulcritud y el orden de las instalaciones. Colaborar en el mantenimiento general de las áreas de trabajo. Seguir los protocolos de limpieza establecidos. Requisitos Experiencia previa en puestos de limpieza es valorada. Capacidad para trabajar de forma autónoma y organizada. Actitud proactiva y atención al detalle. Responsabilidad y compromiso con las tareas asignadas. Disponibilidad para trabajar en horarios establecidos.",
     "requisitos":  [
-
+                       "Experiencia previa en puestos de limpieza es valorada",
+                       "Capacidad para trabajar de forma autónoma y organizada",
+                       "Actitud proactiva y atención al detalle",
+                       "Responsabilidad y compromiso con las tareas asignadas",
+                       "Disponibilidad para trabajar en horarios establecidos"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2026-12-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-ultraclean-1118467345.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-ultraclean-1118467345.html",
+    "descripcion_html":  "\u003cb\u003ePersonal de Limpieza\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar \u003cb\u003ePersonal de Limpieza\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal será una persona responsable, comprometida y con buena disposición para realizar labores de limpieza y mantenimiento en diversas instalaciones.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar tareas de limpieza general en oficinas y otras áreas designadas.\u003c/li\u003e \u003cli\u003eMantener la pulcritud y el orden de las instalaciones.\u003c/li\u003e \u003cli\u003eColaborar en el mantenimiento general de las áreas de trabajo.\u003c/li\u003e \u003cli\u003eSeguir los protocolos de limpieza establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de limpieza es valorada.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y organizada.\u003c/li\u003e \u003cli\u003eActitud proactiva y atención al detalle.\u003c/li\u003e \u003cli\u003eResponsabilidad y compromiso con las tareas asignadas.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios establecidos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Mantenimiento y Limpieza",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

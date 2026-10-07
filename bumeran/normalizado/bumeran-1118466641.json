@@ -6,37 +6,51 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-y-administrativo-shinpo-1118466641.html",
-                   "capturadoEn":  "2026-10-06T15:57:49+00:00"
+                   "capturadoEn":  "2026-10-07T09:16:27-05:00"
                },
     "titulo":  "Asesor Comercial y Administrativo",
     "empresa":  "SHINPO",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  1130,
                     "max":  1200,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,130 - S/ 1,200",
+                    "texto_original":  "S/ 1.130 - S/ 1.200",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "¡CONVOCATORIA LABORAL! RGA PROVEEDORES se encuentra en búsqueda de una SEÑORITA PARA EL ÁREA DE VENTAS Y OFICINA REQUISITOS: • Señoritas de 2 0 a 3 0 años • Facilidad de palabra y buena atención al cliente • Manejo básico de computadora y Office • Responsable, puntual y proactiva • Con disposición para aprender • Experiencia en ventas o atención al cliente (deseable) Lugar de trabajo: Plaza Ferretero – Las Malvinas, 2do piso, Stand 2 0 6 0. ¿Te interesa formar parte de nuestro equipo? Envíanos tu CV actualizado para coordinar una entrevista. ¡Únete al equipo de RGA PROVEEDORES",
     "requisitos":  [
-
+                       "• Señoritas de 2 0 a 3 0 años • Facilidad de palabra y buena atención al cliente • Manejo básico de computadora y Office • Responsable, puntual y proactiva • Con disposición para aprender • Experiencia en ventas o atención al cliente (deseable)",
+                       "Lugar de trabajo: Plaza Ferretero – Las Malvinas, 2do piso, Stand 2 0 6 0",
+                       "¿Te interesa formar parte de nuestro equipo? Envíanos tu CV actualizado para coordinar una entrevista",
+                       "¡Únete al equipo de RGA PROVEEDORES"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-y-administrativo-shinpo-1118466641.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-y-administrativo-shinpo-1118466641.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡CONVOCATORIA LABORAL!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRGA PROVEEDORES\u003c/strong\u003e se encuentra en búsqueda de una \u003cstrong\u003eSEÑORITA PARA EL ÁREA DE VENTAS Y OFICINA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS: \u003c/strong\u003e • Señoritas de \u003cstrong\u003e \u0026#x32; \u0026#x30; a \u0026#x33; \u0026#x30; años\u003c/strong\u003e • Facilidad de palabra y buena atención al cliente • Manejo básico de computadora y Office • Responsable, puntual y proactiva • Con disposición para aprender • Experiencia en ventas o atención al cliente (deseable)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Plaza Ferretero – Las Malvinas, \u0026#x32;do piso, Stand \u0026#x32; \u0026#x30; \u0026#x36; \u0026#x30;.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Te interesa formar parte de nuestro equipo?\u003c/strong\u003e Envíanos tu \u003cstrong\u003eCV actualizado\u003c/strong\u003e para coordinar una entrevista.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Únete al equipo de RGA PROVEEDORES\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +58,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

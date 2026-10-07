@@ -6,37 +6,53 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/representante-de-ventas-y-atencion-al-cliente-alex-quispe-suarez-1118467051.html",
-                   "capturadoEn":  "2026-10-06T08:59:39+00:00"
+                   "capturadoEn":  "2026-10-07T09:17:01-05:00"
                },
     "titulo":  "Representante de Ventas y Atención al Cliente",
     "empresa":  "Alex Quispe Suarez",
     "ubicacion":  "Lima - Cercado De Lima",
     "ciudad":  "Cercado De Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1300,
                     "max":  1500,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "texto_original":  "S/ 1.300 - S/ 1.500",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Representante de Ventas y Atención al Cliente Resumen del Puesto Estamos en la búsqueda de un Representante de Ventas y Atención al Cliente dinámico y orientado a resultados. El candidato ideal poseerá habilidades excepcionales para la comunicación, una actitud proactiva y un fuerte enfoque en el cierre de ventas y la satisfacción del cliente. Responsabilidades Gestionar el ciclo completo de ventas, desde la prospección hasta el cierre. Brindar atención al cliente de alta calidad, resolviendo consultas y ofreciendo soluciones. Identificar oportunidades de venta y alcanzar los objetivos establecidos. Mantener relaciones sólidas con los clientes existentes. Colaborar con otros equipos para asegurar una experiencia de cliente fluida. Documentar las interacciones con los clientes y las actividades de ventas. Requisitos Experiencia previa en ventas y/o atención al cliente. Habilidades de comunicación verbal y escrita sobresalientes. Actitud proactiva y orientada a la consecución de objetivos. Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades de negociación y persuasión. Capacidad para gestionar múltiples tareas y prioridades.",
     "requisitos":  [
-
+                       "Experiencia previa en ventas y/o atención al cliente",
+                       "Habilidades de comunicación verbal y escrita sobresalientes",
+                       "Actitud proactiva y orientada a la consecución de objetivos",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Excelentes habilidades de negociación y persuasión",
+                       "Capacidad para gestionar múltiples tareas y prioridades"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2026-12-02",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/representante-de-ventas-y-atencion-al-cliente-alex-quispe-suarez-1118467051.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/representante-de-ventas-y-atencion-al-cliente-alex-quispe-suarez-1118467051.html",
+    "descripcion_html":  "\u003cb\u003eRepresentante de Ventas y Atención al Cliente\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eRepresentante de Ventas y Atención al Cliente\u003c/b\u003e dinámico y orientado a resultados. El candidato ideal poseerá habilidades excepcionales para la comunicación, una actitud proactiva y un fuerte enfoque en el cierre de ventas y la satisfacción del cliente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar el ciclo completo de ventas, desde la prospección hasta el cierre.\u003c/li\u003e \u003cli\u003eBrindar atención al cliente de alta calidad, resolviendo consultas y ofreciendo soluciones.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de venta y alcanzar los objetivos establecidos.\u003c/li\u003e \u003cli\u003eMantener relaciones sólidas con los clientes existentes.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para asegurar una experiencia de cliente fluida.\u003c/li\u003e \u003cli\u003eDocumentar las interacciones con los clientes y las actividades de ventas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en ventas y/o atención al cliente.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación verbal y escrita sobresalientes.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientada a la consecución de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de negociación y persuasión.\u003c/li\u003e \u003cli\u003eCapacidad para gestionar múltiples tareas y prioridades.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +60,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

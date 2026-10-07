@@ -6,37 +6,55 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-call-center-outbound-talent-peru-mas-1118467297.html",
-                   "capturadoEn":  "2026-10-06T01:18:40+00:00"
+                   "capturadoEn":  "2026-10-07T09:21:34-05:00"
                },
     "titulo":  "Asesor de Ventas - Call Center Outbound",
     "empresa":  "TALENT PERU MAS",
     "ubicacion":  "Lima - San Borja",
     "ciudad":  "San Borja",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1300,
                     "max":  1301,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,300 - S/ 1,301",
+                    "texto_original":  "S/ 1.300 - S/ 1.301",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Asesor de Ventas - Call Center Outbound Resumen del Puesto Buscamos incorporar a nuestro equipo comercial a Asesores de Ventas dinámicos y proactivos. El rol principal será la captación de nuevos clientes a través de llamadas salientes, presentando nuestro portafolio de productos/servicios y cerrando ventas. Responsabilidades Realizar contacto comercial mediante llamadas a potenciales clientes. Presentar el portafolio de productos/servicios de manera efectiva. Manejar objeciones y cerrar ventas. Registrar datos y generar reportes en hojas de cálculo. Requisitos Experiencia previa en Call Center es valorada, pero no excluyente. Facilidad de palabra y excelente fluidez verbal. Actitud dinámica, orientada a resultados y proactiva. Manejo de herramientas ofimáticas (Excel básico/intermedio). Disponibilidad horaria para cubrir la jornada laboral establecida. Beneficios Remuneración fija más comisiones por ventas sin límite. Capacitaciones iniciales y continuas. Excelente ambiente de trabajo. Oportunidades de desarrollo profesional y crecimiento dentro de la organización.",
     "requisitos":  [
-
+                       "Experiencia previa en Call Center es valorada, pero no excluyente",
+                       "Facilidad de palabra y excelente fluidez verbal",
+                       "Actitud dinámica, orientada a resultados y proactiva",
+                       "Manejo de herramientas ofimáticas (Excel básico/intermedio)",
+                       "Disponibilidad horaria para cubrir la jornada laboral establecida"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       "Remuneración fija más comisiones por ventas sin límite",
+                       "Capacitaciones iniciales y continuas",
+                       "Excelente ambiente de trabajo",
+                       "Oportunidades de desarrollo profesional y crecimiento dentro de la organización"
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2026-12-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-call-center-outbound-talent-peru-mas-1118467297.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-call-center-outbound-talent-peru-mas-1118467297.html",
+    "descripcion_html":  "\u003cb\u003eAsesor de Ventas - Call Center Outbound\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar a nuestro equipo comercial a \u003cb\u003eAsesores de Ventas\u003c/b\u003e dinámicos y proactivos. El rol principal será la captación de nuevos clientes a través de llamadas salientes, presentando nuestro portafolio de productos/servicios y cerrando ventas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar contacto comercial mediante llamadas a potenciales clientes.\u003c/li\u003e \u003cli\u003ePresentar el portafolio de productos/servicios de manera efectiva.\u003c/li\u003e \u003cli\u003eManejar objeciones y cerrar ventas.\u003c/li\u003e \u003cli\u003eRegistrar datos y generar reportes en hojas de cálculo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en Call Center es valorada, pero no excluyente.\u003c/li\u003e \u003cli\u003eFacilidad de palabra y excelente fluidez verbal.\u003c/li\u003e \u003cli\u003eActitud dinámica, orientada a resultados y proactiva.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas (Excel básico/intermedio).\u003c/li\u003e \u003cli\u003eDisponibilidad horaria para cubrir la jornada laboral establecida.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración fija más comisiones por ventas sin límite.\u003c/li\u003e \u003cli\u003eCapacitaciones iniciales y continuas.\u003c/li\u003e \u003cli\u003eExcelente ambiente de trabajo.\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo profesional y crecimiento dentro de la organización.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Telemarketing",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +62,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

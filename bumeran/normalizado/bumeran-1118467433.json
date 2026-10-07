@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-planeamiento-1118467433.html",
-                   "capturadoEn":  "2026-10-05T10:26:31+00:00"
+                   "capturadoEn":  "2026-10-07T09:22:57-05:00"
                },
     "titulo":  "INGENIERO JUNIOR DE PLANEAMIENTO",
     "empresa":  "Confidencial",
     "ubicacion":  "Huancavelica - Castrovirreyna",
     "ciudad":  "Castrovirreyna",
     "region":  "Huancavelica",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,29 @@
                 },
     "descripcion":  "Propósito del cargo Apoyar en la planificación y control de todos los programas de trabajo a corto y mediano plazo (producción, preparación y desarrollo), de acuerdo a los marcos legales y organizacionales; con la finalidad de asegurar el cumplimiento del plan de producción anual establecido, de acuerdo a los costos presupuestados, cumpliendo las políticas y parámetros de seguridad, medio ambiente y calidad establecidos Principales Actividades Realizar el planeamiento del corto, mediano plazo y largo plazo. Estimar las reservas minerales según el NI 43-10. Planificar, organizar, dirigir y controlar la ejecución de los programas semanales, mensuales, anuales de minado. Manejar y aplicar el sistema de gestión integrado asegurando el cumplimiento de la normativa adoptada. Realizar los proyectos de corto plazo de desarrollos, infraestructura de ventilación, sistema de bombeo, drenaje y extracción, etc. Realizar los controles de las operaciones para gestionar mejoras operativas y reducción de costos. Gestión de la ventilación, geomecánica, costos y productividad, topografía y base topográfica, seguridad y medio ambiente para el fiel cumplimiento de los programas y metas. Realizar la evaluación y formulación de proyectos mineros. Cumplir y hacer cumplir los requisitos legales, políticas y normas que establezca la organización, así como requisitos de los sistemas de gestión aplicables a su unidad.",
     "requisitos":  [
-
+                       "de los sistemas de gestión aplicables a su unidad"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2027-02-01",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-planeamiento-1118467433.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-planeamiento-1118467433.html",
+    "descripcion_html":  "\u003col\u003e \u003cli\u003e\u003cstrong\u003ePropósito del cargo\u003c/strong\u003e\u003c/li\u003e\u003c/ol\u003e\u003cp\u003eApoyar en la planificación y control de todos los programas de trabajo a corto y mediano plazo (producción, preparación y desarrollo), de acuerdo a los marcos legales y organizacionales; con la finalidad de asegurar el cumplimiento del plan de producción anual establecido, de acuerdo a los costos presupuestados, cumpliendo las políticas y parámetros de seguridad, medio ambiente y calidad establecidos\u003c/p\u003e\u003col\u003e \u003cli\u003e\u003cstrong\u003ePrincipales Actividades\u003c/strong\u003e\u003c/li\u003e\u003c/ol\u003e\u003cul\u003e \u003cli\u003eRealizar el planeamiento del corto, mediano plazo y largo plazo.\u003c/li\u003e \u003cli\u003eEstimar las reservas minerales según el NI 43-10.\u003c/li\u003e \u003cli\u003ePlanificar, organizar, dirigir y controlar la ejecución de los programas semanales, mensuales, anuales de minado.\u003c/li\u003e \u003cli\u003eManejar y aplicar el sistema de gestión integrado asegurando el cumplimiento de la normativa adoptada.\u003c/li\u003e \u003cli\u003eRealizar los proyectos de corto plazo de desarrollos, infraestructura de ventilación, sistema de bombeo, drenaje y extracción, etc.\u003c/li\u003e \u003cli\u003eRealizar los controles de las operaciones para gestionar mejoras operativas y reducción de costos.\u003c/li\u003e \u003cli\u003eGestión de la ventilación, geomecánica, costos y productividad, topografía y base topográfica, seguridad y medio ambiente para el fiel cumplimiento de los programas y metas.\u003c/li\u003e \u003cli\u003eRealizar la evaluación y formulación de proyectos mineros.\u003c/li\u003e \u003cli\u003eCumplir y hacer cumplir los requisitos legales, políticas y normas que establezca la organización, así como requisitos de los sistemas de gestión aplicables a su unidad.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Otras Ingenierias",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +55,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

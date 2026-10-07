@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-planillas-1118467301.html",
-                   "capturadoEn":  "2026-10-05T19:49:15+00:00"
+                   "capturadoEn":  "2026-10-07T09:21:39-05:00"
                },
     "titulo":  "Asistente de Planillas",
     "empresa":  "Confidencial",
     "ubicacion":  "Lima - San Isidro",
     "ciudad":  "San Isidro",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "TEMPORARY",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,38 @@
                 },
     "descripcion":  "Requisitos Bachiller o titulado en Contabilidad, Administración o afines. Contar con 03 años de experiencia. Excel nivel intermedio Principales funciones Gestionar altas, bajas y modificaciones en T-Registro y sistemas relacionados. Mantener actualizados los legajos y documentos laborales. Procesar y controlar la planilla mensual y conceptos remunerativos. Calcular beneficios sociales y liquidaciones laborales. Elaborar boletas de pago, reportes y costos laborales. Elaborar y declarar PLAME, AFPnet y obligaciones laborales. Coordinar con Contabilidad la contabilización de planillas. Ofrecemos Ingreso a planilla. Trabajo presencial de lunes a viernes.",
     "requisitos":  [
-
+                       "Bachiller o titulado en Contabilidad, Administración o afines",
+                       "Contar con 03 años de experiencia",
+                       "Excel nivel intermedio",
+                       "Principales"
                    ],
     "funciones":  [
-
+                      "Gestionar altas, bajas y modificaciones en T-Registro y sistemas relacionados",
+                      "Mantener actualizados los legajos y documentos laborales",
+                      "Procesar y controlar la planilla mensual y conceptos remunerativos",
+                      "Calcular"
                   ],
     "beneficios":  [
-
+                       "sociales y liquidaciones laborales",
+                       "Elaborar boletas de pago, reportes y costos laborales",
+                       "Elaborar y declarar PLAME, AFPnet y obligaciones laborales",
+                       "Coordinar con Contabilidad la contabilización de planillas"
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2027-01-02",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asistente-de-planillas-1118467301.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-planillas-1118467301.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado en Contabilidad, Administración o afines.\u003c/li\u003e \u003cli\u003eContar con 03 años de experiencia.\u003c/li\u003e \u003cli\u003eExcel nivel intermedio\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar altas, bajas y modificaciones en T-Registro y sistemas relacionados.\u003c/li\u003e \u003cli\u003eMantener actualizados los legajos y documentos laborales.\u003c/li\u003e \u003cli\u003eProcesar y controlar la planilla mensual y conceptos remunerativos.\u003c/li\u003e \u003cli\u003eCalcular beneficios sociales y liquidaciones laborales.\u003c/li\u003e \u003cli\u003eElaborar boletas de pago, reportes y costos laborales.\u003c/li\u003e \u003cli\u003eElaborar y declarar PLAME, AFPnet y obligaciones laborales.\u003c/li\u003e \u003cli\u003eCoordinar con Contabilidad la contabilización de planillas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla.\u003c/li\u003e \u003cli\u003eTrabajo presencial de lunes a viernes.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Compensación y Planilla",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 03 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +64,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/enfermera-o-de-vigilancia-medica-1118453025.html",
-                   "capturadoEn":  "2026-10-05T19:48:36+00:00"
+                   "capturadoEn":  "2026-10-07T09:10:21-05:00"
                },
     "titulo":  "Enfermera (o) de Vigilancia Médica",
     "empresa":  "Confidencial",
     "ubicacion":  "Arequipa",
     "ciudad":  "Arequipa",
     "region":  "Arequipa",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,33 @@
                 },
     "descripcion":  "Ingeniero de SSOMA Resumen del Puesto Buscamos un profesional con experiencia en Enfermera (o) de Vigilancia Médica para unirse a nuestro equipo. El candidato ideal tendrá un sólido en construcción de PADs y movimiento de tierras. Responsabilidades Elaborar los resúmenes de resultados de las evaluaciones médicas. Auditar el cumplimiento de los perfiles de exámenes médicos según el sector, cliente y de acuerdo a condiciones del proyecto, por los Centros evaluadores. Elaborar resumen de resultados de monitoreo ocupacional de la sede. Elaborar registro de atenciones médicas y traslados de emergencia por parte del proyecto, haciendo el seguimiento hasta el alta de cada caso. Actualizar el registro de enfermedades ocupacionales de sede. Ejecutar actividades de capacitación, inspección, programación de evaluaciones y resguardo de entregables, para los programas preventivos (conservación auditiva, protección respiratoria, protección ergonómica, entre otros).s Requisitos Título profesional en Enfermeria. Experiencia mínima de 1 años en el puesto . Disponibilidad para laborar bajo un régimen de 14x7 Sólidas habilidades de liderazgo y comunicación. Soporte vital básico y avanzado en el trauma prehospitalario.",
     "requisitos":  [
-
+                       "Título profesional en Enfermeria",
+                       "Experiencia mínima de 1 años en el puesto",
+                       "Disponibilidad para laborar bajo un régimen de 14x7",
+                       "Sólidas habilidades de liderazgo y comunicación",
+                       "Soporte vital básico y avanzado en el trauma prehospitalario"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2027-02-01",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/enfermera-o-de-vigilancia-medica-1118453025.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/enfermera-o-de-vigilancia-medica-1118453025.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eIngeniero de SSOMA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un profesional con experiencia en \u003cstrong\u003eEnfermera (o) de Vigilancia Médica\u003c/strong\u003e para unirse a nuestro equipo. El candidato ideal tendrá un sólido en construcción de PADs y movimiento de tierras.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar los resúmenes de resultados de las evaluaciones médicas.\u003c/li\u003e \u003cli\u003eAuditar el cumplimiento de los perfiles de exámenes médicos según el sector, cliente y de acuerdo a condiciones del proyecto, por los Centros evaluadores.\u003c/li\u003e \u003cli\u003eElaborar resumen de resultados de monitoreo ocupacional de la sede.\u003c/li\u003e \u003cli\u003eElaborar registro de atenciones médicas y traslados de emergencia por parte del proyecto, haciendo el seguimiento hasta el alta de cada caso.\u003c/li\u003e \u003cli\u003eActualizar el registro de enfermedades ocupacionales de sede.\u003c/li\u003e \u003cli\u003eEjecutar actividades de capacitación, inspección, programación de evaluaciones y resguardo de entregables, para los programas preventivos (conservación auditiva, protección respiratoria, protección ergonómica, entre otros).s\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo profesional en Enfermeria.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 años en el puesto .\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar bajo un régimen de 14x7\u003c/li\u003e \u003cli\u003eSólidas habilidades de liderazgo y comunicación.\u003c/li\u003e \u003cli\u003eSoporte vital básico y avanzado en el trauma prehospitalario.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Seguridad Industrial",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-contratos-1118467421.html",
-                   "capturadoEn":  "2026-10-05T19:48:10+00:00"
+                   "capturadoEn":  "2026-10-07T09:22:45-05:00"
                },
     "titulo":  "ADMINISTRADOR DE CONTRATOS",
     "empresa":  "Confidencial",
     "ubicacion":  "Huancavelica - Castrovirreyna",
     "ciudad":  "Castrovirreyna",
     "region":  "Huancavelica",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,37 @@
                 },
     "descripcion":  "Funciones Principales Supervisión y control: Vigilar que los contratistas cumplan cada cláusula, plazos, presupuestos y especificaciones técnicas acordadas. Gestión de valorizaciones y pagos: Revisar, aprobar o cuestionar las valorizaciones, adelantos, multas y penalidades a proveedores. Mitigación de riesgos: Identificar a tiempo riesgos de incumplimiento, paralizaciones o sobrecostos y aplicar medidas para controlarlos. Gestión de cambios y reclamos: Negociar adendas, modificaciones de alcance y resolver disputas o reclamos durante la ejecución del servicio. Aplicar penalidades. Seguridad y cumplimiento normativo: Exigir que el personal externo cumpla estrictamente con las normas de Seguridad, Salud Ocupacional y Medio Ambiente (SSOMA) de la minera. Evaluación de desempeño: Medir periódicamente el rendimiento de los contratistas mediante indicadores clave (KPI). Cierre de contratos: Gestionar la liquidación final, la conformidad de los servicios y la devolución o ejecución de garantías. Asesoraría: en la gestión de TDR a las diferentes áreas, seguimiento a los procesos de licitaciones.",
     "requisitos":  [
-
+                       null
                    ],
     "funciones":  [
-
+                      "Principales",
+                      "Supervisión y control: Vigilar que los contratistas cumplan cada cláusula, plazos, presupuestos y especificaciones técnicas acordadas",
+                      "Gestión de valorizaciones y pagos: Revisar, aprobar o cuestionar las valorizaciones, adelantos, multas y penalidades a proveedores",
+                      "Mitigación de riesgos: Identificar a tiempo riesgos de incumplimiento, paralizaciones o sobrecostos y aplicar medidas para controlarlos",
+                      "Gestión de cambios y reclamos: Negociar adendas, modificaciones de alcance y resolver disputas o reclamos durante la ejecución del servicio. Aplicar penalidades",
+                      "Seguridad y cumplimiento normativo: Exigir que el personal externo cumpla estrictamente con las normas de Seguridad, Salud Ocupacional y Medio Ambiente (SSOMA) de la minera",
+                      "Evaluación de desempeño: Medir periódicamente el rendimiento de los contratistas mediante indicadores clave (KPI)",
+                      "Cierre de contratos: Gestionar la liquidación final, la conformidad de los servicios y la devolución o ejecución de garantías",
+                      "Asesoraría: en la gestión de TDR a las diferentes áreas, seguimiento a los procesos de licitaciones"
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2027-02-01",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/administrador-de-contratos-1118467421.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-contratos-1118467421.html",
+    "descripcion_html":  "\u003cp\u003eFunciones Principales\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eSupervisión y control:\u003c/strong\u003e Vigilar que los contratistas cumplan cada cláusula, plazos, presupuestos y especificaciones técnicas acordadas.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGestión de valorizaciones y pagos:\u003c/strong\u003e Revisar, aprobar o cuestionar las valorizaciones, adelantos, multas y penalidades a proveedores.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eMitigación de riesgos:\u003c/strong\u003e Identificar a tiempo riesgos de incumplimiento, paralizaciones o sobrecostos y aplicar medidas para controlarlos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGestión de cambios y reclamos:\u003c/strong\u003e Negociar adendas, modificaciones de alcance y resolver disputas o reclamos durante la ejecución del servicio. Aplicar penalidades.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSeguridad y cumplimiento normativo:\u003c/strong\u003e Exigir que el personal externo cumpla estrictamente con las normas de Seguridad, Salud Ocupacional y Medio Ambiente (SSOMA) de la minera.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eEvaluación de desempeño:\u003c/strong\u003e Medir periódicamente el rendimiento de los contratistas mediante indicadores clave (KPI).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCierre de contratos:\u003c/strong\u003e Gestionar la liquidación final, la conformidad de los servicios y la devolución o ejecución de garantías.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAsesoraría:\u003c/strong\u003e en la gestión de TDR a las diferentes áreas, seguimiento a los procesos de licitaciones.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Administración",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +63,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

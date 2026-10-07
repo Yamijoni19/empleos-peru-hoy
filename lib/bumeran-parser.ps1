@@ -56,7 +56,7 @@ function Get-Items {
     }
     if ($items.Count -eq 0) {
         # unico parrafo: split por '. ' sin mayus mas `-`
-        $parts = $texto -split '(?<=\.)\s+(?=[A-Za-z0-9¿*•·-(])'
+        $parts = $texto -split '(?<=\.)\s+(?=[A-Za-z0-9¿*•·\-(])'
         foreach ($p in $parts) {
             $v = $p.Trim(' ', '-', '*', '.', ';')
             if ($v -ne '' -and $v -match '[A-Za-z0-9]') { $items += $v }

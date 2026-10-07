@@ -6,37 +6,52 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/pasantia-profesional-en-industria-hotelera-hotels-1118467175.html",
-                   "capturadoEn":  "2026-10-05T03:10:14+00:00"
+                   "capturadoEn":  "2026-10-07T09:28:31-05:00"
                },
-    "titulo":  "Pasant�a Profesional en Industria Hotelera",
+    "titulo":  "Pasantía Profesional en Industria Hotelera",
     "empresa":  "HOTELS",
     "ubicacion":  "Lima - San Isidro",
     "ciudad":  "San Isidro",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1130,
                     "max":  1230,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,130 - S/ 1,230",
+                    "texto_original":  "S/ 1.130 - S/ 1.230",
                     "fuente_salario":  "rango"
                 },
-    "descripcion":  "Pasant�a Profesional en Industria Hotelera Resumen del Puesto Estamos buscando estudiantes o reci�n egresados para una pasant�a profesional en el �rea de industria hotelera . Esta es una excelente oportunidad para adquirir experiencia pr�ctica en un entorno din�mico y aprender sobre las operaciones de un establecimiento hotelero. Responsabilidades Apoyar en las operaciones diarias de los diferentes departamentos del hotel (recepci�n, alimentos y bebidas, alojamiento, etc.). Colaborar en la atenci�n al cliente y resoluci�n de consultas. Participar en la implementaci�n de procedimientos y est�ndares de calidad. Asistir en tareas administrativas y de organizaci�n seg�n sea necesario. Aprender y aplicar conocimientos te�ricos en situaciones pr�cticas. Requisitos Estudiante de �ltimos ciclos o egresado de carreras relacionadas a Hoteler�a, Turismo, Administraci�n o afines. Disponibilidad para realizar una pasant�a. Inter�s en desarrollarse profesionalmente en la industria hotelera. Proactividad, buena disposici�n y ganas de aprender. Habilidades de comunicaci�n y trabajo en equipo.",
+    "descripcion":  "Pasantía Profesional en Industria Hotelera Resumen del Puesto Estamos buscando estudiantes o recién egresados para una pasantía profesional en el área de industria hotelera . Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico y aprender sobre las operaciones de un establecimiento hotelero. Responsabilidades Apoyar en las operaciones diarias de los diferentes departamentos del hotel (recepción, alimentos y bebidas, alojamiento, etc.). Colaborar en la atención al cliente y resolución de consultas. Participar en la implementación de procedimientos y estándares de calidad. Asistir en tareas administrativas y de organización según sea necesario. Aprender y aplicar conocimientos teóricos en situaciones prácticas. Requisitos Estudiante de últimos ciclos o egresado de carreras relacionadas a Hotelería, Turismo, Administración o afines. Disponibilidad para realizar una pasantía. Interés en desarrollarse profesionalmente en la industria hotelera. Proactividad, buena disposición y ganas de aprender. Habilidades de comunicación y trabajo en equipo.",
     "requisitos":  [
-
+                       "Estudiante de últimos ciclos o egresado de carreras relacionadas a Hotelería, Turismo, Administración o afines",
+                       "Disponibilidad para realizar una pasantía",
+                       "Interés en desarrollarse profesionalmente en la industria hotelera",
+                       "Proactividad, buena disposición y ganas de aprender",
+                       "Habilidades de comunicación y trabajo en equipo"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2026-12-02",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/pasantia-profesional-en-industria-hotelera-hotels-1118467175.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/pasantia-profesional-en-industria-hotelera-hotels-1118467175.html",
+    "descripcion_html":  "\u003cb\u003ePasantía Profesional en Industria Hotelera\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos buscando estudiantes o recién egresados para una \u003cb\u003epasantía profesional\u003c/b\u003e en el área de \u003cb\u003eindustria hotelera\u003c/b\u003e. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico y aprender sobre las operaciones de un establecimiento hotelero.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en las operaciones diarias de los diferentes departamentos del hotel (recepción, alimentos y bebidas, alojamiento, etc.).\u003c/li\u003e \u003cli\u003eColaborar en la atención al cliente y resolución de consultas.\u003c/li\u003e \u003cli\u003eParticipar en la implementación de procedimientos y estándares de calidad.\u003c/li\u003e \u003cli\u003eAsistir en tareas administrativas y de organización según sea necesario.\u003c/li\u003e \u003cli\u003eAprender y aplicar conocimientos teóricos en situaciones prácticas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante de últimos ciclos o egresado de carreras relacionadas a Hotelería, Turismo, Administración o afines.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar una pasantía.\u003c/li\u003e \u003cli\u003eInterés en desarrollarse profesionalmente en la industria hotelera.\u003c/li\u003e \u003cli\u003eProactividad, buena disposición y ganas de aprender.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Pasantía / Trainee",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

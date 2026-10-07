@@ -6,37 +6,52 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-operaciones-de-transporte-talent-peru-mas-1118467296.html",
-                   "capturadoEn":  "2026-10-06T01:18:45+00:00"
+                   "capturadoEn":  "2026-10-07T09:21:30-05:00"
                },
     "titulo":  "Supervisor de Operaciones de Transporte",
     "empresa":  "TALENT PERU MAS",
     "ubicacion":  "Lima - La Victoria",
     "ciudad":  "La Victoria",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1600,
                     "max":  1800,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,600 - S/ 1,800",
+                    "texto_original":  "S/ 1.600 - S/ 1.800",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Supervisor de Operaciones de Transporte Resumen del Puesto Buscamos un Supervisor de Operaciones de Transporte con experiencia para unirse a nuestro equipo operativo. Si posees liderazgo, proactividad y pasión por la logística de transporte, esta oportunidad es para ti. Buscamos a alguien que pueda integrarse y aportar valor a nuestras operaciones. Responsabilidades Supervisar y coordinar al personal operativo en ruta y terminal. Verificar el cumplimiento de horarios, rutas y procedimientos establecidos. Controlar la documentación pertinente y elaborar reportes diarios de operación. Atender y gestionar incidencias que surjan durante la operación diaria. Garantizar la calidad del servicio y la seguridad de los pasajeros. Requisitos Formación técnica o universitaria en Administración, Transporte o áreas afines. Mínimo 1 año de experiencia en supervisión o puestos similares dentro del sector de transporte. Conocimientos sólidos en normativa de transporte y seguridad vial. Manejo de herramientas ofimáticas, especialmente Excel. Habilidades de liderazgo, comunicación efectiva y capacidad para trabajar en equipo. Condiciones Horario rotativo. Incorporación a planilla completa con beneficios de ley.",
     "requisitos":  [
-
+                       "Formación técnica o universitaria en Administración, Transporte o áreas afines",
+                       "Mínimo 1 año de experiencia en supervisión o puestos similares dentro del sector de transporte",
+                       "Conocimientos sólidos en normativa de transporte y seguridad vial",
+                       "Manejo de herramientas ofimáticas, especialmente Excel",
+                       "Habilidades de liderazgo, comunicación efectiva y capacidad para trabajar en equipo"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       "de ley"
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2026-12-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-operaciones-de-transporte-talent-peru-mas-1118467296.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-operaciones-de-transporte-talent-peru-mas-1118467296.html",
+    "descripcion_html":  "\u003cb\u003eSupervisor de Operaciones de Transporte\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eSupervisor de Operaciones de Transporte\u003c/b\u003e con experiencia para unirse a nuestro equipo operativo. Si posees liderazgo, proactividad y pasión por la logística de transporte, esta oportunidad es para ti. Buscamos a alguien que pueda integrarse y aportar valor a nuestras operaciones.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y coordinar al personal operativo en ruta y terminal.\u003c/li\u003e \u003cli\u003eVerificar el cumplimiento de horarios, rutas y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eControlar la documentación pertinente y elaborar reportes diarios de operación.\u003c/li\u003e \u003cli\u003eAtender y gestionar incidencias que surjan durante la operación diaria.\u003c/li\u003e \u003cli\u003eGarantizar la calidad del servicio y la seguridad de los pasajeros.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en Administración, Transporte o áreas afines.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia en supervisión o puestos similares dentro del sector de transporte.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en normativa de transporte y seguridad vial.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas, especialmente Excel.\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo, comunicación efectiva y capacidad para trabajar en equipo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones\u003c/b\u003e \u003cul\u003e \u003cli\u003eHorario rotativo.\u003c/li\u003e \u003cli\u003eIncorporación a planilla completa con beneficios de ley.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Transporte",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

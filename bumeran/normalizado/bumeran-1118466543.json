@@ -6,48 +6,59 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-enginner-isp-consulting-1118466543.html",
-                   "capturadoEn":  "2026-10-06T20:59:03+00:00"
+                   "capturadoEn":  "2026-10-07T09:15:23-05:00"
                },
     "titulo":  "Data Enginner",
     "empresa":  "ISP Consulting",
     "ubicacion":  "Lima - Miraflores",
     "ciudad":  "Miraflores",
     "region":  "Lima",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  5000,
                     "max":  5500,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 5,000 - S/ 5,500",
+                    "texto_original":  "S/ 5.000 - S/ 5.500",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Descripcion del puesto: Se requiere cubrir la posición de Data Engineer, para un proyecto de migración de datos a SAP. La persona debe contar con amplia experiencia en desarrollo de ETL, Limpieza, Transformación y validación de datos, así como en Arquitectura de Datos con Google GCP, Python, Power BI y Estructuras de datos SAP R 3 o S 4. Requisitos: Experiencia en manejo de bases de datos relacionales (PostgreSQL, MySQL, SQL Server, Oracle). Amplios conocimientos de sentencias SQL, Store Procedures y Funciones. Experiencia en limpieza, transformación y tratamiento de datos Experiencia en desarrollo con Python Experiencia en Arquitectura de Datos en Google Cloud (GCP) Conocimientos en estructuras y tablas SAP ERP (R 3 o S 4) Manejo de grandes volúmenes de información en bases de datos y Excel. Comunicación a todo nivel Trabajo en equipo y bajo presión Responsabilidades: Armado de estructuras para carga masiva de información Procesamiento de información para migración de datos. Participación en las reuniones de análisis y seguimiento",
     "requisitos":  [
-                       "Experiencia en manejo de bases de datos relacionales (PostgreSQL, MySQL, SQL Server, Oracle).",
-                       "Amplios conocimientos de sentencias SQL, Store Procedures y Funciones.",
-                       "Experiencia en limpieza, transformación y tratamiento de datos",
-                       "Experiencia en desarrollo con Python",
-                       "Experiencia en Arquitectura de Datos en Google Cloud (GCP)",
-                       "Conocimientos en estructuras y tablas SAP ERP (R 3 o S 4)",
-                       "Manejo de grandes volúmenes de información en bases de datos y Excel.",
-                       "Comunicación a todo nivel",
-                       "Trabajo en equipo y bajo presión"
+                       "Experiencia en manejo de bases de datos relacionales (PostgreSQL, MySQL, SQL Server, Oracle)",
+                       "Amplios conocimientos de sentencias SQL, Store Procedures y"
                    ],
     "funciones":  [
-                      "Se requiere cubrir la posición de Data Engineer, para un proyecto de migración de datos a SAP. La persona debe contar con amplia experiencia en desarrollo de ETL, Limpieza, Transformación y validación de datos, así como en Arquitectura de Datos con Google GCP, Python, Power BI y Estructuras de datos SAP R 3 o S 4.",
+                      "Experiencia en limpieza, transformación y tratamiento de datos",
+                      "Experiencia en desarrollo con Python",
+                      "Experiencia en Arquitectura de Datos en Google Cloud (GCP)",
+                      "Conocimientos en estructuras y tablas SAP ERP (R 3 o S 4)",
+                      "Manejo de grandes volúmenes de información en bases de datos y Excel",
+                      "Comunicación a todo nivel",
+                      "Trabajo en equipo y bajo presión",
+                      "Responsabilidades",
                       "Armado de estructuras para carga masiva de información",
-                      "Procesamiento de información para migración de datos.",
+                      "Procesamiento de información para migración de datos",
                       "Participación en las reuniones de análisis y seguimiento"
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/data-enginner-isp-consulting-1118466543.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-enginner-isp-consulting-1118466543.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eDescripcion del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSe requiere cubrir la posición de Data Engineer, para un proyecto de migración de datos a SAP. La persona debe contar con amplia experiencia en desarrollo de ETL, Limpieza, Transformación y validación de datos, así como en Arquitectura de Datos con Google GCP, Python, Power BI y Estructuras de datos SAP R \u0026#x33; o S \u0026#x34;.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en manejo de bases de datos relacionales (PostgreSQL, MySQL, SQL Server, Oracle).\u003c/li\u003e \u003cli\u003eAmplios conocimientos de sentencias SQL, Store Procedures y Funciones.\u003c/li\u003e \u003cli\u003eExperiencia en limpieza, transformación y tratamiento de datos\u003c/li\u003e \u003cli\u003eExperiencia en desarrollo con Python\u003c/li\u003e \u003cli\u003eExperiencia en Arquitectura de Datos en Google Cloud (GCP)\u003c/li\u003e \u003cli\u003eConocimientos en estructuras y tablas SAP ERP (R \u0026#x33; o S \u0026#x34;)\u003c/li\u003e \u003cli\u003eManejo de grandes volúmenes de información en bases de datos y Excel.\u003c/li\u003e \u003cli\u003eComunicación a todo nivel\u003c/li\u003e \u003cli\u003eTrabajo en equipo y bajo presión\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eArmado de estructuras para carga masiva de información\u003c/li\u003e \u003cli\u003eProcesamiento de información para migración de datos.\u003c/li\u003e \u003cli\u003eParticipación en las reuniones de análisis y seguimiento\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Análisis de Datos",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [

@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-crespo-s.a.c.-1118467294.html",
-                   "capturadoEn":  "2026-10-06T01:18:53+00:00"
+                   "capturadoEn":  "2026-10-07T09:21:21-05:00"
                },
     "titulo":  "Especialista en Relaciones Comunitarias",
     "empresa":  "COMPAÑIA MINERA CRESPO S.A.C.",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  100,
                     "max":  100,
@@ -25,18 +25,35 @@
                 },
     "descripcion":  "Especialista en Relaciones Comunitarias Resumen del Puesto Estamos en la búsqueda de un Especialista en Relaciones Comunitarias proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas. Responsabilidades Desarrollar e implementar estrategias para mejorar la percepción y el compromiso de la comunidad. Organizar y coordinar eventos y actividades comunitarias. Actuar como punto de contacto principal para consultas y colaboraciones comunitarias. Identificar oportunidades de participación y apoyo a iniciativas locales. Monitorear y responder a las necesidades y preocupaciones de la comunidad. Elaborar informes sobre el impacto y los resultados de las iniciativas comunitarias. Requisitos Formación en Comunicación, Relaciones Públicas, Sociología o campo afín. Experiencia demostrable en gestión de relaciones comunitarias o roles similares. Excelentes habilidades de comunicación verbal y escrita. Capacidad para establecer y mantener relaciones interpersonales efectivas. Habilidades de organización y gestión de proyectos. Proactividad y capacidad para trabajar de forma autónoma y en equipo. Conocimiento de las dinámicas y necesidades comunitarias.",
     "requisitos":  [
-
+                       "Formación en Comunicación, Relaciones Públicas, Sociología o campo afín",
+                       "Experiencia demostrable en gestión de relaciones comunitarias o roles similares",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad para establecer y mantener relaciones interpersonales efectivas",
+                       "Habilidades de organización y gestión de proyectos",
+                       "Proactividad y capacidad para trabajar de forma autónoma y en equipo",
+                       "Conocimiento de las dinámicas y necesidades comunitarias"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2026-12-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-crespo-s.a.c.-1118467294.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-crespo-s.a.c.-1118467294.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar e implementar estrategias para mejorar la percepción y el compromiso de la comunidad.\u003c/li\u003e \u003cli\u003eOrganizar y coordinar eventos y actividades comunitarias.\u003c/li\u003e \u003cli\u003eActuar como punto de contacto principal para consultas y colaboraciones comunitarias.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de participación y apoyo a iniciativas locales.\u003c/li\u003e \u003cli\u003eMonitorear y responder a las necesidades y preocupaciones de la comunidad.\u003c/li\u003e \u003cli\u003eElaborar informes sobre el impacto y los resultados de las iniciativas comunitarias.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Comunicación, Relaciones Públicas, Sociología o campo afín.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en gestión de relaciones comunitarias o roles similares.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para establecer y mantener relaciones interpersonales efectivas.\u003c/li\u003e \u003cli\u003eHabilidades de organización y gestión de proyectos.\u003c/li\u003e \u003cli\u003eProactividad y capacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eConocimiento de las dinámicas y necesidades comunitarias.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Relaciones Institucionales/Publicas",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +61,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

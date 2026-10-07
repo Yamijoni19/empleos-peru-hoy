@@ -6,37 +6,48 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-medicina-estetica-senseben-1118466576.html",
-                   "capturadoEn":  "2026-10-06T15:58:02+00:00"
+                   "capturadoEn":  "2026-10-07T09:15:57-05:00"
                },
     "titulo":  "Asesor Comercial - Medicina Estética",
     "empresa":  "Senseben",
     "ubicacion":  "Piura",
     "ciudad":  "Piura",
     "region":  "Piura",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  1200,
                     "max":  1500,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "texto_original":  "S/ 1.200 - S/ 1.500",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "\u0026#x1f4e2; ¡Buscamos Asesores Comerciales con Experiencia en Venta! Empresa distribuidora de productos de medicina estética está buscando vendedores para la zona norte del Perú: Piura, Trujillo y Chiclayo PERFIL REQUERIDO: ✔ Experiencia en ventas visitando: clínicas, centros estéticos y/o spas ✔ Prospección y apertura de nuevos clientes ✔ Gestión de cartera y seguimiento comercial ✔ Envío de reportes de visitas y proyección de ventas ✔ Cumplimiento de objetivos VALORAMOS: ✨ Experiencia en venta de: Bioestimuladores, Exosomas, PDRN, Etc. ✨ Red de contactos en el sector ✨ Perfil proactivo y orientado a resultados OFRECEMOS: ✔ Comisiones competitivas ✔ Línea de crecimiento ✔ Capacitación constante ✔ Horario completo, part-time, freelance. \u0026#x1f4e9; Postula enviando tu CV a: Si tienes experiencia en ventas y conoces el rubro, ¡queremos conocerte! #VentasPeru #VentasCampo #MedicinaEstetica #Cosmiatria #EmpleoPeru #Piura #Trujillo #Chiclayo",
     "requisitos":  [
-
+                       null
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2027-01-04",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-medicina-estetica-senseben-1118466576.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-medicina-estetica-senseben-1118466576.html",
+    "descripcion_html":  "\u003cp\u003e \u0026#x1f4e2; ¡Buscamos Asesores Comerciales con Experiencia en Venta!\u003c/p\u003e\u003cp\u003eEmpresa distribuidora de productos de medicina estética está buscando vendedores para la zona norte del Perú:\u003c/p\u003e\u003cp\u003ePiura, Trujillo y Chiclayo\u003c/p\u003e\u003cp\u003ePERFIL REQUERIDO:\u003c/p\u003e\u003cp\u003e \u0026#x2714; Experiencia en ventas visitando: clínicas, centros estéticos y/o spas\u003c/p\u003e\u003cp\u003e \u0026#x2714; Prospección y apertura de nuevos clientes\u003c/p\u003e\u003cp\u003e \u0026#x2714; Gestión de cartera y seguimiento comercial\u003c/p\u003e\u003cp\u003e \u0026#x2714; Envío de reportes de visitas y proyección de ventas\u003c/p\u003e\u003cp\u003e \u0026#x2714; Cumplimiento de objetivos\u003c/p\u003e\u003cp\u003eVALORAMOS:\u003c/p\u003e\u003cp\u003e \u0026#x2728; Experiencia en venta de: Bioestimuladores, Exosomas, PDRN, Etc.\u003c/p\u003e\u003cp\u003e \u0026#x2728; Red de contactos en el sector\u003c/p\u003e\u003cp\u003e \u0026#x2728; Perfil proactivo y orientado a resultados\u003c/p\u003e\u003cp\u003eOFRECEMOS:\u003c/p\u003e\u003cp\u003e \u0026#x2714; Comisiones competitivas\u003c/p\u003e\u003cp\u003e \u0026#x2714; Línea de crecimiento\u003c/p\u003e\u003cp\u003e \u0026#x2714; Capacitación constante\u003c/p\u003e\u003cp\u003e \u0026#x2714; Horario completo, part-time, freelance.\u003c/p\u003e\u003cp\u003e \u0026#x1f4e9; Postula enviando tu CV a: \u003c/p\u003e\u003cp\u003eSi tienes experiencia en ventas y conoces el rubro, ¡queremos conocerte!\u003c/p\u003e\u003cp\u003e \u0026#x23;VentasPeru \u0026#x23;VentasCampo \u0026#x23;MedicinaEstetica \u0026#x23;Cosmiatria \u0026#x23;EmpleoPeru \u0026#x23;Piura \u0026#x23;Trujillo \u0026#x23;Chiclayo\u003c/p\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +55,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

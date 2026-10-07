@@ -1,12 +1,12 @@
 {
     "id":  "bumeran-1118059145",
-    "clave":  "id:bumeran-1118059145",
+    "clave":  "id:1118059145",
     "sector":  "privado",
     "fuente":  {
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/enfermera-tecnica-turno-noche-centro-geriatrico-la-molina-1118059145.html",
-                   "capturadoEn":  "2026-10-07T08:05:11-05:00"
+                   "capturadoEn":  "2026-10-07T09:10:00-05:00"
                },
     "titulo":  "ENFERMERA TECNICA TURNO NOCHE -CENTRO GERIATRICO LA MOLINA",
     "empresa":  "Confidencial",
@@ -16,14 +16,14 @@
     "modalidad":  "Presencial",
     "contrato":  "Temporal",
     "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
                     "especificado":  false,
                     "texto_original":  "No especificado",
-                    "moneda":  "PEN",
-                    "fuente_salario":  "",
-                    "min":  null,
-                    "max":  null
+                    "fuente_salario":  ""
                 },
-    "descripcion":  "Estamos en la búsqueda de Técnicas de Enfermería para CASA DE REPOSO en el distrito de LA MOLINA, te integraras a un equipo de trabajo muy dinámico y profesional comprometido con el servicio y la calidad.\nTURNO NOCHE\nREQUISITOS\n \n* Experiencia de por lo menos 1 AÑO en el cuidado integral de Personas Adultas Mayores ya sea domicilio, en casa de reposo o en áreas geriátricas hospitalarias.\n \n* Tener el título de técnica de enfermería / enfermera\n \n* Tener paciencia, empatía, vocación de servicio.\n \n* Capacidad para trabajar en equipo\n \n* Proactividad y sensibilidad.\n \n* Turno fijo de 5 días a la semana a 6 días por semana",
+    "descripcion":  "Estamos en la búsqueda de Técnicas de Enfermería para CASA DE REPOSO en el distrito de LA MOLINA, te integraras a un equipo de trabajo muy dinámico y profesional comprometido con el servicio y la calidad. TURNO NOCHE REQUISITOS Experiencia de por lo menos 1 AÑO en el cuidado integral de Personas Adultas Mayores ya sea domicilio, en casa de reposo o en áreas geriátricas hospitalarias. Tener el título de técnica de enfermería / enfermera Tener paciencia, empatía, vocación de servicio. Capacidad para trabajar en equipo Proactividad y sensibilidad. Turno fijo de 5 días a la semana a 6 días por semana",
     "requisitos":  [
                        "Experiencia de por lo menos 1 AÑO en el cuidado integral de Personas Adultas Mayores ya sea domicilio, en casa de reposo o en áreas geriátricas hospitalarias",
                        "Tener el título de técnica de enfermería / enfermera",
@@ -32,9 +32,9 @@
                        "Proactividad y sensibilidad",
                        "Turno fijo de 5 días a la semana a 6 días por semana"
                    ],
-    "funciones":  {
-
-                  },
+    "funciones":  [
+                      null
+                  ],
     "beneficios":  [
                        null
                    ],
@@ -42,6 +42,7 @@
     "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/enfermera-tecnica-turno-noche-centro-geriatrico-la-molina-1118059145.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/enfermera-tecnica-turno-noche-centro-geriatrico-la-molina-1118059145.html",
+    "descripcion_html":  "\u003cp\u003eEstamos en la búsqueda de Técnicas de Enfermería para CASA DE REPOSO en el distrito de LA MOLINA, te integraras a un equipo de trabajo muy dinámico y profesional comprometido con el servicio y la calidad.\u003c/p\u003e\u003cp\u003eTURNO NOCHE\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia de por lo menos 1 AÑO en el cuidado integral de Personas Adultas Mayores ya sea domicilio, en casa de reposo o en áreas geriátricas hospitalarias.\u003c/li\u003e \u003cli\u003eTener el título de técnica de enfermería / enfermera\u003c/li\u003e \u003cli\u003eTener paciencia, empatía, vocación de servicio.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo\u003c/li\u003e \u003cli\u003eProactividad y sensibilidad.\u003c/li\u003e \u003cli\u003eTurno fijo de 5 días a la semana a 6 días por semana\u003c/li\u003e\u003c/ul\u003e",
     "area":  "Otra",
     "jornada":  "Full-time",
     "nivel":  "Semi Sr",
@@ -55,7 +56,16 @@
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
-                                       "titulo+empresa+contenido"
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
                                    ],
                        "motivos":  [
 

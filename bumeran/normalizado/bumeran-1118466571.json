@@ -6,37 +6,50 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-comercial-luo-enterprises-sac-1118466571.html",
-                   "capturadoEn":  "2026-10-06T15:58:07+00:00"
+                   "capturadoEn":  "2026-10-07T09:15:50-05:00"
                },
     "titulo":  "Practicante Comercial",
     "empresa":  "LUO ENTERPRISES SAC",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "FULL_TIME",
     "salario":  {
                     "min":  1200,
                     "max":  3000,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,200 - S/ 3,000",
+                    "texto_original":  "S/ 1.200 - S/ 3.000",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Practicante Comercial Resumen del Puesto Buscamos un Practicante Comercial proactivo y con gran potencial de aprendizaje para unirse a nuestro equipo. Esta es una excelente oportunidad para desarrollar habilidades en procesos comerciales, liderazgo y estrategias de crecimiento personal, formando parte de un entorno que valora el aprendizaje continuo, el compromiso y una actitud positiva. Responsabilidades Colaborar en la ejecución de procesos comerciales. Apoyar en el desarrollo de estrategias de crecimiento. Participar en actividades de liderazgo y desarrollo de equipos. Contribuir a un ambiente de trabajo positivo y colaborativo. Aprender y aplicar nuevos conocimientos en el área comercial. Requisitos Interés en el desarrollo de habilidades comerciales y de liderazgo. Actitud proactiva, orientada al aprendizaje y al trabajo en equipo. Capacidad para adaptarse a un entorno dinámico.",
     "requisitos":  [
-
+                       "Interés en el desarrollo de habilidades comerciales y de liderazgo",
+                       "Actitud proactiva, orientada al aprendizaje y al trabajo en equipo",
+                       "Capacidad para adaptarse a un entorno dinámico"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/practicante-comercial-luo-enterprises-sac-1118466571.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-comercial-luo-enterprises-sac-1118466571.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePracticante Comercial\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003ePracticante Comercial\u003c/strong\u003e proactivo y con gran potencial de aprendizaje para unirse a nuestro equipo. Esta es una excelente oportunidad para desarrollar habilidades en procesos comerciales, liderazgo y estrategias de crecimiento personal, formando parte de un entorno que valora el aprendizaje continuo, el compromiso y una actitud positiva.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eColaborar en la ejecución de procesos comerciales.\u003c/li\u003e \u003cli\u003eApoyar en el desarrollo de estrategias de crecimiento.\u003c/li\u003e \u003cli\u003eParticipar en actividades de liderazgo y desarrollo de equipos.\u003c/li\u003e \u003cli\u003eContribuir a un ambiente de trabajo positivo y colaborativo.\u003c/li\u003e \u003cli\u003eAprender y aplicar nuevos conocimientos en el área comercial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInterés en el desarrollo de habilidades comerciales y de liderazgo.\u003c/li\u003e \u003cli\u003eActitud proactiva, orientada al aprendizaje y al trabajo en equipo.\u003c/li\u003e \u003cli\u003eCapacidad para adaptarse a un entorno dinámico.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +57,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

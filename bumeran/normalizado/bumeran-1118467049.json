@@ -6,37 +6,51 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/baristas-san-isidro-la-mora-1118467049.html",
-                   "capturadoEn":  "2026-10-06T08:59:40+00:00"
+                   "capturadoEn":  "2026-10-07T09:16:57-05:00"
                },
     "titulo":  "Baristas - San Isidro",
     "empresa":  "La Mora",
     "ubicacion":  "Lima - San Isidro",
     "ciudad":  "San Isidro",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
-                    "min":  1500,
-                    "max":  1500,
+                    "min":  1230,
+                    "max":  1230,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "Remuneración S/ 1,500",
-                    "fuente_salario":  "html"
+                    "texto_original":  "S/ 1,230",
+                    "fuente_salario":  "descripcion"
                 },
     "descripcion":  "\u0026#x1f49c; ¡LA MORA BUSCA BARISTAS! ☕\u0026#x1f370; \u0026#x1f4cd; SAN ISIDRO ¿Tienes experiencia como barista y te apasiona brindar una excelente atención? ¡Únete a nuestro equipo! \u0026#x1f4b0; Te ofrecemos: • Sueldo básico S/ 1,230 • Recargo de consumo S/ 170 • Alimentación S/ 75 • Propinas semanales \u0026#x1f381; Beneficios: • Planilla desde el primer día • CTS, gratificaciones y utilidades • Beneficios corporativos • Línea de carrera y capacitaciones ⏰ Full time | Turnos rotativos 6:30 a. m. – 3:30 p. m. / 2:30 p. m. – 11:00 p. m. 1 día de descanso rotativo \u0026#x1f4f2; Postula por WhatsApp: 951 216 434 Buscamos personas con experiencia, buena atención al cliente y disponibilidad para trabajar en San Isidro.",
     "requisitos":  [
-
+                       null
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       "corporativos • Línea de carrera y capacitaciones",
+                       "⏰ Full time | Turnos rotativos 6:30 a. m. – 3:30 p. m. / 2:30 p. m. – 11:00 p. m. 1 día de descanso rotativo",
+                       "\u0026#x1f4f2; Postula por WhatsApp: 951 216 434",
+                       "Buscamos personas con experiencia, buena atención al cliente y disponibilidad para trabajar en San Isidro"
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2027-01-01",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/baristas-san-isidro-la-mora-1118467049.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/baristas-san-isidro-la-mora-1118467049.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f49c; \u003cstrong\u003e¡LA MORA BUSCA BARISTAS!\u003c/strong\u003e \u0026#x2615;\u0026#x1f370;\u003c/p\u003e\u003cp\u003e\u0026#x1f4cd; \u003cstrong\u003eSAN ISIDRO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e¿Tienes experiencia como barista y te apasiona brindar una excelente atención? ¡Únete a nuestro equipo!\u003c/p\u003e\u003cp\u003e\u0026#x1f4b0; \u003cstrong\u003eTe ofrecemos:\u003c/strong\u003e • Sueldo básico \u003cstrong\u003eS/ 1,230\u003c/strong\u003e • Recargo de consumo \u003cstrong\u003eS/ 170\u003c/strong\u003e • Alimentación \u003cstrong\u003eS/ 75\u003c/strong\u003e • Propinas semanales\u003c/p\u003e\u003cp\u003e\u0026#x1f381; \u003cstrong\u003eBeneficios:\u003c/strong\u003e • Planilla desde el primer día • \u003cstrong\u003eCTS, gratificaciones y utilidades\u003c/strong\u003e • Beneficios corporativos • Línea de carrera y capacitaciones\u003c/p\u003e\u003cp\u003e\u0026#x23f0; \u003cstrong\u003eFull time | Turnos rotativos\u003c/strong\u003e 6:30 a. m. – 3:30 p. m. / 2:30 p. m. – 11:00 p. m. 1 día de descanso rotativo\u003c/p\u003e\u003cp\u003e\u0026#x1f4f2; \u003cstrong\u003ePostula por WhatsApp: 951 216 434\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBuscamos personas con experiencia, buena atención al cliente y disponibilidad para trabajar en San Isidro.\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "Gastronomia",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "2",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +58,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

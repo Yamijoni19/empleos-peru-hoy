@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/repsol-vendedor-de-tienda-repsol-1118444551.html",
-                   "capturadoEn":  "2026-10-06T04:12:09-05:00"
+                   "capturadoEn":  "2026-10-07T09:10:17-05:00"
                },
     "titulo":  "REPSOL: Vendedor de Tienda",
     "empresa":  "REPSOL",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1229,
                     "max":  1230,
@@ -23,34 +23,45 @@
                     "texto_original":  "S/ 1.229 - S/ 1.230",
                     "fuente_salario":  "rango"
                 },
-    "descripcion":  "��nete al equipo Repsol! Con m�s de 30 a�os de presencia en el Per� , estamos en b�squeda de Vendedores(as) de Tienda para nuestras Estaciones de Servicio. FUNCIONES: Responsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos. Realizar cobros, emisi�n de comprobantes, manejo de efectivo y tarjetas, as� como cierres operativos y control de Kardex. Reponer mercader�a, colocar precios y retirar productos vencidos. Cumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control. Verificar y relevar los equipos asignados de la estaci�n durante cada turno. Cumplir con los objetivos de ventas y control de gastos. Mantener la limpieza y orden de las �reas asignadas. Brindar una atenci�n y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa. Cumplir con los est�ndares de imagen y presentaci�n personal establecidos. REQUISITOS: Estudios secundarios completos. Disponibilidad para laborar inmediata. Experiencia en atenci�n al cliente (deseable). Disponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos. BENEFICIOS: Ingreso a planilla desde el primer d�a con todos los beneficios de ley Sueldo acorde al mercado Bonos por meta de ventas Oportunidad de crecimiento",
+    "descripcion":  "¡Únete al equipo Repsol! Con más de 30 años de presencia en el Perú , estamos en búsqueda de Vendedores(as) de Tienda para nuestras Estaciones de Servicio. FUNCIONES: Responsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos. Realizar cobros, emisión de comprobantes, manejo de efectivo y tarjetas, así como cierres operativos y control de Kardex. Reponer mercadería, colocar precios y retirar productos vencidos. Cumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control. Verificar y relevar los equipos asignados de la estación durante cada turno. Cumplir con los objetivos de ventas y control de gastos. Mantener la limpieza y orden de las áreas asignadas. Brindar una atención y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa. Cumplir con los estándares de imagen y presentación personal establecidos. REQUISITOS: Estudios secundarios completos. Disponibilidad para laborar inmediata. Experiencia en atención al cliente (deseable). Disponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos. BENEFICIOS: Ingreso a planilla desde el primer día con todos los beneficios de ley Sueldo acorde al mercado Bonos por meta de ventas Oportunidad de crecimiento",
     "requisitos":  [
-                       "Estudios secundarios completos.",
-                       "Disponibilidad para laborar inmediata.",
-                       "Experiencia en atenci�n al cliente (deseable).",
-                       "Disponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos."
+                       "Estudios secundarios completos",
+                       "Disponibilidad para laborar inmediata",
+                       "Experiencia en atención al cliente (deseable)",
+                       "Disponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos"
                    ],
     "funciones":  [
-                      "Responsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos.",
-                      "Realizar cobros, emisi�n de comprobantes, manejo de efectivo y tarjetas, as� como cierres operativos y control de Kardex.",
-                      "Reponer mercader�a, colocar precios y retirar productos vencidos.",
-                      "Cumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control.",
-                      "Verificar y relevar los equipos asignados de la estaci�n durante cada turno.",
-                      "Cumplir con los objetivos de ventas y control de gastos.",
-                      "Mantener la limpieza y orden de las �reas asignadas.",
-                      "Brindar una atenci�n y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa.",
-                      "Cumplir con los est�ndares de imagen y presentaci�n personal establecidos."
+                      "Responsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos",
+                      "Realizar cobros, emisión de comprobantes, manejo de efectivo y tarjetas, así como cierres operativos y control de Kardex",
+                      "Reponer mercadería, colocar precios y retirar productos vencidos",
+                      "Cumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control",
+                      "Verificar y relevar los equipos asignados de la estación durante cada turno",
+                      "Cumplir con los objetivos de ventas y control de gastos",
+                      "Mantener la limpieza y orden de las áreas asignadas",
+                      "Brindar una atención y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa",
+                      "Cumplir con los estándares de imagen y presentación personal establecidos"
                   ],
     "beneficios":  [
-                       "Ingreso a planilla desde el primer d�a con todos los beneficios de ley",
+                       "de ley",
                        "Sueldo acorde al mercado",
                        "Bonos por meta de ventas",
                        "Oportunidad de crecimiento"
                    ],
-    "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2027-01-02",
+    "fecha_publicacion":  "2026-10-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/repsol-vendedor-de-tienda-repsol-1118444551.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/repsol-vendedor-de-tienda-repsol-1118444551.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Únete al equipo Repsol!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eCon más de \u003cstrong\u003e30 años de presencia en el Perú\u003c/strong\u003e, estamos en búsqueda de \u003cstrong\u003eVendedores(as) de Tienda\u003c/strong\u003e para nuestras Estaciones de Servicio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eResponsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos.\u003c/li\u003e \u003cli\u003eRealizar cobros, emisión de comprobantes, manejo de efectivo y tarjetas, así como cierres operativos y control de Kardex.\u003c/li\u003e \u003cli\u003eReponer mercadería, colocar precios y retirar productos vencidos.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control.\u003c/li\u003e \u003cli\u003eVerificar y relevar los equipos asignados de la estación durante cada turno.\u003c/li\u003e \u003cli\u003eCumplir con los objetivos de ventas y control de gastos.\u003c/li\u003e \u003cli\u003eMantener la limpieza y orden de las áreas asignadas.\u003c/li\u003e \u003cli\u003eBrindar una atención y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de imagen y presentación personal establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios secundarios completos.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar inmediata.\u003c/li\u003e \u003cli\u003eExperiencia en atención al cliente (deseable).\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla desde el primer día con todos los beneficios de ley\u003c/li\u003e \u003cli\u003eSueldo acorde al mercado\u003c/li\u003e \u003cli\u003eBonos por meta de ventas\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Atención al Cliente",
+    "jornada":  "Full-time",
+    "nivel":  "Sin Experiencia",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "05/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [

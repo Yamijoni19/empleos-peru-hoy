@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/biologo-a-compania-minera-crespo-s.a.c.-1118467295.html",
-                   "capturadoEn":  "2026-10-06T01:18:49+00:00"
+                   "capturadoEn":  "2026-10-07T09:21:26-05:00"
                },
     "titulo":  "Biólogo/a",
     "empresa":  "COMPAÑIA MINERA CRESPO S.A.C.",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  100,
                     "max":  100,
@@ -25,18 +25,34 @@
                 },
     "descripcion":  "Biólogo/a Resumen del Puesto Estamos en la búsqueda de un/a Biólogo/a para integrarse a nuestro equipo. El/la candidato/a ideal poseerá un sólido conocimiento en ciencias biológicas y la capacidad de aplicar dicho conocimiento en proyectos de investigación y desarrollo. Responsabilidades Realizar investigaciones y experimentos en el área de la biología. Analizar datos biológicos y elaborar informes técnicos. Colaborar con otros profesionales en el diseño y ejecución de proyectos. Mantenerse actualizado/a sobre los avances científicos y tecnológicos en biología. Participar en la redacción de publicaciones científicas. Requisitos Título universitario en Biología o disciplina afín. Se valorará experiencia previa en investigación o en el ámbito profesional relacionado. Conocimientos sólidos en metodologías de investigación biológica. Capacidad para el análisis crítico y la resolución de problemas. Habilidades de comunicación y trabajo en equipo. Proactividad y autonomía en la gestión de tareas.",
     "requisitos":  [
-
+                       "Título universitario en Biología o disciplina afín",
+                       "Se valorará experiencia previa en investigación o en el ámbito profesional relacionado",
+                       "Conocimientos sólidos en metodologías de investigación biológica",
+                       "Capacidad para el análisis crítico y la resolución de problemas",
+                       "Habilidades de comunicación y trabajo en equipo",
+                       "Proactividad y autonomía en la gestión de tareas"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-04",
-    "fecha_cierre":  "2026-12-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/biologo-a-compania-minera-crespo-s.a.c.-1118467295.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/biologo-a-compania-minera-crespo-s.a.c.-1118467295.html",
+    "descripcion_html":  "\u003cb\u003eBiólogo/a\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un/a \u003cb\u003eBiólogo/a\u003c/b\u003e para integrarse a nuestro equipo. El/la candidato/a ideal poseerá un sólido conocimiento en ciencias biológicas y la capacidad de aplicar dicho conocimiento en proyectos de investigación y desarrollo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar investigaciones y experimentos en el área de la biología.\u003c/li\u003e \u003cli\u003eAnalizar datos biológicos y elaborar informes técnicos.\u003c/li\u003e \u003cli\u003eColaborar con otros profesionales en el diseño y ejecución de proyectos.\u003c/li\u003e \u003cli\u003eMantenerse actualizado/a sobre los avances científicos y tecnológicos en biología.\u003c/li\u003e \u003cli\u003eParticipar en la redacción de publicaciones científicas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Biología o disciplina afín.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa en investigación o en el ámbito profesional relacionado.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en metodologías de investigación biológica.\u003c/li\u003e \u003cli\u003eCapacidad para el análisis crítico y la resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eProactividad y autonomía en la gestión de tareas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Salud",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +60,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

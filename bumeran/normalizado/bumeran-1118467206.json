@@ -6,37 +6,53 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/mecanico-de-motos-mas-motos-pe-sac-1118467206.html",
-                   "capturadoEn":  "2026-10-05T03:09:46+00:00"
+                   "capturadoEn":  "2026-10-07T09:29:11-05:00"
                },
-    "titulo":  "Mec�nico de Motos",
+    "titulo":  "Mecánico de Motos",
     "empresa":  "MAS MOTOS PE SAC",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1800,
                     "max":  2000,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "texto_original":  "S/ 1.800 - S/ 2.000",
                     "fuente_salario":  "rango"
                 },
-    "descripcion":  "Mec�nico de Motos Resumen del Puesto Buscamos un Mec�nico de Motos para unirse a nuestro equipo. El candidato ideal tendr� pasi�n por las motocicletas y un buen entendimiento de los sistemas mec�nicos y el�ctricos. Se valorar� la experiencia previa, pero se considerar�n tambi�n perfiles con gran motivaci�n y ganas de aprender. Responsabilidades Realizar diagn�sticos y reparaciones de motocicletas. Efectuar el mantenimiento preventivo y correctivo de los veh�culos. Identificar y solucionar fallos mec�nicos y el�ctricos. Gestionar el inventario de repuestos y materiales. Mantener un espacio de trabajo ordenado y seguro. Requisitos Conocimientos s�lidos en mec�nica de motocicletas. Capacidad para el diagn�stico y la resoluci�n de problemas. Habilidad para el manejo de herramientas y equipos de diagn�stico. Proactividad y atenci�n al detalle. Capacidad para trabajar de forma aut�noma y en equipo. Disponibilidad para aprender y adaptarse a nuevas tecnolog�as.",
+    "descripcion":  "Mecánico de Motos Resumen del Puesto Buscamos un Mecánico de Motos para unirse a nuestro equipo. El candidato ideal tendrá pasión por las motocicletas y un buen entendimiento de los sistemas mecánicos y eléctricos. Se valorará la experiencia previa, pero se considerarán también perfiles con gran motivación y ganas de aprender. Responsabilidades Realizar diagnósticos y reparaciones de motocicletas. Efectuar el mantenimiento preventivo y correctivo de los vehículos. Identificar y solucionar fallos mecánicos y eléctricos. Gestionar el inventario de repuestos y materiales. Mantener un espacio de trabajo ordenado y seguro. Requisitos Conocimientos sólidos en mecánica de motocicletas. Capacidad para el diagnóstico y la resolución de problemas. Habilidad para el manejo de herramientas y equipos de diagnóstico. Proactividad y atención al detalle. Capacidad para trabajar de forma autónoma y en equipo. Disponibilidad para aprender y adaptarse a nuevas tecnologías.",
     "requisitos":  [
-
+                       "Conocimientos sólidos en mecánica de motocicletas",
+                       "Capacidad para el diagnóstico y la resolución de problemas",
+                       "Habilidad para el manejo de herramientas y equipos de diagnóstico",
+                       "Proactividad y atención al detalle",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Disponibilidad para aprender y adaptarse a nuevas tecnologías"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-03",
-    "fecha_cierre":  "2026-12-02",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/mecanico-de-motos-mas-motos-pe-sac-1118467206.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/mecanico-de-motos-mas-motos-pe-sac-1118467206.html",
+    "descripcion_html":  "\u003cb\u003eMecánico de Motos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eMecánico de Motos\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal tendrá pasión por las motocicletas y un buen entendimiento de los sistemas mecánicos y eléctricos. Se valorará la experiencia previa, pero se considerarán también perfiles con gran motivación y ganas de aprender.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar diagnósticos y reparaciones de motocicletas.\u003c/li\u003e \u003cli\u003eEfectuar el mantenimiento preventivo y correctivo de los vehículos.\u003c/li\u003e \u003cli\u003eIdentificar y solucionar fallos mecánicos y eléctricos.\u003c/li\u003e \u003cli\u003eGestionar el inventario de repuestos y materiales.\u003c/li\u003e \u003cli\u003eMantener un espacio de trabajo ordenado y seguro.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eConocimientos sólidos en mecánica de motocicletas.\u003c/li\u003e \u003cli\u003eCapacidad para el diagnóstico y la resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de herramientas y equipos de diagnóstico.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para aprender y adaptarse a nuevas tecnologías.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Servicios",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +60,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",
