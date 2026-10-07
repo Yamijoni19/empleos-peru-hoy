@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118304268",
+    "clave":  "id:1118304268",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/teleoperadores-call-center-vendedores-en-linea-escuela-sudamericana-de-extension-cultural-para-peru-s.a.-1118304268.html",
+                   "capturadoEn":  "2026-10-07T14:33:25+00:00"
+               },
+    "titulo":  "TELEOPERADORES, CALL CENTER, VENDEDORES EN LINEA",
+    "empresa":  "ESCUELA SUDAMERICANA DE EXTENSION CULTURAL PARA PERU S.A.",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "1800 soles",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Perfil profesional:buenas relaciones sociales, gusto e identificación con las labores comerciales de negocios; personalidad altamente emprendedora, 100% pro activo. Carácter extrovertido, alegre, dinámico, gran disposición para el aprendizaje y la formacion ejecutiva que tenga grandes ambiciones de progreso personal y profesional alta autoestima,gran fuerza mental. Perfil laboral;Desarrollar la labor de atención personalizada y asesoria comercial a ejecutivos, Profesionales y estudiantes,prospectos de usuarios a nuestro programa \"PREMIUM ENGLISH PROGRAM\", orientar , sus ventajas competitivas, su ingenieria de servicios, valores agregados, garantias, comodidades y el portafolio de posibilidades para el desarrollo del programa que otorga nuestra empresa. Beneficios;capacitación para ocupar el cargo,relaciones publicas, marketing personal, marketing empresarial,publicidad directa, publicidad masiva,promociones, asesoria comercial,comunicacion y clima organizacional.Contratación directa,beneficios de ley y beneficios corporativos, bonos, premios,comisiones,incentivos, sueldo basico ,1800 soles mensuales. Requisitos;con experiencia.full time, edad 18 a 30años",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/teleoperadores-call-center-vendedores-en-linea-escuela-sudamericana-de-extension-cultural-para-peru-s.a.-1118304268.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/teleoperadores-call-center-vendedores-en-linea-escuela-sudamericana-de-extension-cultural-para-peru-s.a.-1118304268.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

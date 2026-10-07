@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118471292",
+    "clave":  "id:1118471292",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-gestion-proyectos-rubro-industrial-laboratorios-smasac-1118471292.html",
+                   "capturadoEn":  "2026-10-07T14:33:03+00:00"
+               },
+    "titulo":  "Analista de Gestión Proyectos - Rubro Industrial",
+    "empresa":  "LABORATORIOS SMASAC",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  2500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "2500 soles",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "¡Únete a la Familia SMASAC y haz crecer tu futuro con nosotros! Con 41 años de trayectoria, Laboratorios SMASAC se ha consolidado como una empresa líder en la fabricación y envasado de productos de cuidado personal, hogar, alimentos y envases plásticos para las marcas más reconocidas del mercado. Nos encontramos en la búsqueda del mejor talento para el cargo de Analista de Gestión de Proyectos. ¿Qué Valoramos de ti ? Profesional en Administración de Empresas, Ingeniería o campo relacionado. Experiencia mínima de 2 años en el área de Proyectos en la industria farmacéutica, cosmética, doméstica o afín. Experiencia en el uso de herramientas de gestión de proyectos (MS Project, Jira, etc.). Conocimientos en normativas y regulaciones farmacéuticas (GMP, GCP, etc.). Disponibilidad para laborar en modalidad presencial en Ate ¿Cuáles serán tus responsabilidades? Desarrollar y mantener planes de proyectos, incluidos cronogramas, presupuestos y recursos asignados. Identificar y gestionar riesgos y cuellos de botella en los proyectos. Colaborar estrechamente con equipos multifuncionales para garantizar la entrega oportuna y de calidad de los proyectos. Realizar análisis de datos y presentar informes periódicos sobre el progreso de los proyectos. Asegurar el cumplimiento de los procedimientos y políticas de gestión de proyectos. ¿Qué ofrecemos? Planilla de régimen general con todos los beneficios de ley Subvención de alimentos Convenios educativos con institutos y universidades Participación de Utilidades Día libre por cumpleaños Aguinaldo por navidad Vales de escolaridad Descuentos corporativos en productos Si buscas un entorno dinámico, oportunidades de desarrollo y el respaldo de una empresa con proyección global, ¡ este es tu lugar! ¡ Postula ahora y sé parte de nuestra Familia SMASAC!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-07",
+    "fecha_cierre":  "2027-01-05",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-gestion-proyectos-rubro-industrial-laboratorios-smasac-1118471292.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-gestion-proyectos-rubro-industrial-laboratorios-smasac-1118471292.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118471289",
+    "clave":  "id:1118471289",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefea-de-gestion-humana-tienda-retail-1118471289.html",
+                   "capturadoEn":  "2026-10-07T14:33:10+00:00"
+               },
+    "titulo":  "Jefe(a) de Gestión Humana - Tienda Retail",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa del sector Retail: Actualmente se encuentra en búsqueda del mejor talento para desarrollarse como: Jefe(a) de Gestion Humana - Tienda Misión: Ser responsable de acompañar a la operación en la gestión integral de personas, brindando soporte a los líderes y promoviendo iniciativas que contribuyan al desarrollo de los equipos, un adecuado clima laboral y el cumplimiento de los lineamientos laborales y organizacionales. ¿Cuales seran tus funciones? Acompañar a los líderes de la operación en la toma de decisiones relacionadas con personas y brindarles orientación en materia de Gestión Humana. Velar por una adecuada gestión de los colaboradores, desde su incorporación hasta las diferentes etapas de su experiencia en la organización. Gestionar y atender situaciones relacionadas con relaciones laborales, brindando soporte a líderes y colaboradores. Asegurar la correcta aplicación de los lineamientos internos y de la normativa laboral vigente. Impulsar acciones orientadas a fortalecer el clima, bienestar, cultura y compromiso de los equipos. Coordinar y dar seguimiento a iniciativas de desarrollo, capacitación y evaluación del desempeño. Analizar información e indicadores de Gestión Humana para identificar oportunidades y plantear acciones de mejora. Brindar seguimiento a la planificación de dotación, asistencia, vacaciones y otros procesos vinculados a la gestión de personas. Participar en la gestión de situaciones disciplinarias y en la aplicación de las medidas correspondientes, de acuerdo con los lineamientos establecidos. Coordinar la atención de inspecciones, auditorías y requerimientos de entidades externas relacionados con la gestión laboral. Proponer y desarrollar iniciativas que contribuyan a los objetivos del negocio y a una mejor experiencia de los colaboradores. Otras funciones relacionadas con la posición. ¿Que esperamos de ti? Bachiller Universitario en las carreras de Administración de Empresas, Psicología, Ingeniería Industrial o carreras afines. Experiencia mínima de 2 años en posiciones o funciones relacionadas con Gestión Humana, Recursos Humanos. Experiencia en relaciones laborales y manejo de organizaciones sindicales . (Indispensable) Conocimiento y aplicación de la normativa laboral vigente . (Indispensable) Experiencia gestionando situaciones laborales y brindando asesoría a líderes y colaboradores. Manejo de Excel a nivel intermedio. Conocimientos de SAP. Disponibilidad para trabajar de manera presencial en tiendas. Disponibilidad para laborar de lunes a viernes de 8:30 a. m. a 6:15 p. m. Vivir en distritos aledaños a nuestras tiendas de Miraflores, Aramburú, Ate o San Martín de Porres. ¿Que te ofrecemos? Ingreso a planilla con todos los beneficios de ley. Beneficios corporativos. Cuponeras de días libres Ubicación: Contamos con vacantes disponibles en diferentes tiendas de Lima Metropolitana: Miraflores, Aramburú, Ate y San Martín de Porres.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/jefea-de-gestion-humana-tienda-retail-1118471289.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefea-de-gestion-humana-tienda-retail-1118471289.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118471265",
+    "clave":  "id:1118471265",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-trafico-internacional-1118471265.html",
+                   "capturadoEn":  "2026-10-07T14:33:38+00:00"
+               },
+    "titulo":  "Coordinador de Tráfico Internacional",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Tienes experiencia coordinando operaciones internacionales de principio a fin? Esta oportunidad es para ti. Por encargo de nuestro cliente, una empresa especializada en mudanzas internacionales y logística, un/a Coordinador/a de Tráfico Internacional para su equipo en Callao. Serás el principal punto de contacto del cliente en cada mudanza internacional: coordinarás con navieras, aerolíneas, agentes de aduanas y partners en el extranjero, gestionarás reservas de fletes y harás seguimiento a cada operación hasta la entrega en destino. Buscamos: ✅ Formación en Negocios Internacionales, Comercio Exterior o afines ✅ Aprox. 8 años en agentes de carga, freight forwarders, agencias de aduanas o empresas de importación/exportación ✅ Dominio de fletes marítimos y aéreos y procesos aduaneros ✅ Inglés avanzado (indispensable) y Excel intermedio Ofrecemos: \u0026#x1f4bc; Planilla con beneficios de ley \u0026#x1f557; Lunes a viernes de 8:30 a.m. a 5:30 p.m. (seguimiento eventual los sábados) \u0026#x1f4cd; Callao, límite con Cercado de Lima",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-trafico-internacional-1118471265.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-trafico-internacional-1118471265.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

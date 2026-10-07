@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118471257",
+    "clave":  "id:1118471257",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-logistico-manpowergroup-peru-1118471257.html",
+                   "capturadoEn":  "2026-10-07T14:33:45+00:00"
+               },
+    "titulo":  "Asistente Administrativo Logistico",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima - Lurigancho",
+    "ciudad":  "Lurigancho",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Manpower Perú estamos buscando al mejor talento para asumir el reto como Asistente Administrativo Logistico para nuestro cliente. ¡La oportunidad de tener un futuro mejor está aquí! Funciones: Elaboración y presentación de reportes para la jefatura inmediata y, de ser necesario, para niveles ejecutivos. Soporte estratégico a las operaciones de almacén. Seguimiento y control del avance de carga y descarga de unidades (camiones). Monitoreo y control de inventarios y procesos de almacén. Seguimiento de indicadores de gestión de almacén. Requisitos: Bachiller de las carreras de Ingeniería Industrial, Administración, Logística o afines Excel intermedio Power BI basico SAP deseable Disponibilidad para laborar en horarios de Lunes a Viernes de 08:00 am a 05:00 pm y Sabados de 08:00 am a 12:00 pm Disponibilidad para rotar entre Chaclacayo y Cajamarquilla Beneficios: Ingreso a planilla Manpower con todos los beneficios de ley desde el primer día. EPPs y uniforme proporcionados por la empresa. “En Manpower Perú promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. ¡Todos los talentos son bienvenidos!”",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-logistico-manpowergroup-peru-1118471257.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-logistico-manpowergroup-peru-1118471257.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
