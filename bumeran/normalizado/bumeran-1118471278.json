@@ -6,14 +6,14 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-reclutamiento-y-seleccion-1118471278.html",
-                   "capturadoEn":  "2026-10-07T14:33:36+00:00"
+                   "capturadoEn":  "2026-10-07T09:54:32-05:00"
                },
     "titulo":  "Practicante profesional de reclutamiento y selección",
     "empresa":  "Confidencial",
     "ubicacion":  "Gobierno Regional del Callao",
     "ciudad":  "Gobierno Regional del Callao",
     "region":  "Gobierno Regional del Callao",
-    "modalidad":  "",
+    "modalidad":  "Presencial",
     "contrato":  "INTERN",
     "salario":  {
                     "min":  null,
@@ -25,18 +25,30 @@
                 },
     "descripcion":  "Importante empresa transnacional, líder en el rubro energético, requiere incorporar a un Practicante Profesional de Reclutamiento y Selección para nuestra sede en el Callao ¿Qué buscamos? Formación: Egresado en psicología, administración o carreras afines Experiencia: 3 meses realizando procesos de reclutamiento y selección. Conocimientos: Manejo de Excel a nivel intermedio. Competencias: Orientado a resultados, proactivo, perfil analítico, trabajo bajo presión Disponibilidad: Disposición para trabajar de manera presencial en el Callao de Lunes a Viernes ¿Cuál es tu reto? Soporte en llamadas de filtro de postulantes Programar examenes médicos Programar inducción y cursos de capacitación al personal nuevo Otras funciones asignadas por jefatura ¿Qué ofrecemos? Convenio de prácticas. Oportunidad de línea de carrera.",
     "requisitos":  [
-
+                       null
                    ],
     "funciones":  [
-
+                      "asignadas por jefatura",
+                      "¿Qué"
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2027-02-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-reclutamiento-y-seleccion-1118471278.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-reclutamiento-y-seleccion-1118471278.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa transnacional, líder en el rubro energético, requiere incorporar a un Practicante Profesional de Reclutamiento y Selección para nuestra sede en el Callao\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eFormación:\u003c/strong\u003e Egresado en psicología, administración o carreras afines\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e 3 meses realizando procesos de reclutamiento y selección.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eConocimientos:\u003c/strong\u003e Manejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCompetencias:\u003c/strong\u003e Orientado a resultados, proactivo, perfil analítico, trabajo bajo presión\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDisponibilidad:\u003c/strong\u003e Disposición para trabajar de manera presencial en el Callao de Lunes a Viernes\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál es tu reto?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSoporte en llamadas de filtro de postulantes\u003c/li\u003e \u003cli\u003eProgramar examenes médicos\u003c/li\u003e \u003cli\u003eProgramar inducción y cursos de capacitación al personal nuevo\u003c/li\u003e \u003cli\u003eOtras funciones asignadas por jefatura\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConvenio de prácticas.\u003c/li\u003e \u003cli\u003eOportunidad de línea de carrera.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Selección",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Egresado en psicología, administración o carreras afines",
+    "herramientas":  "Manejo de Excel a nivel intermedio",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +56,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

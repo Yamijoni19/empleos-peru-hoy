@@ -6,37 +6,48 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/damas-universitarias-para-trabajar-atencion-al-cliente-asesora-comercial-escuela-sudamericana-de-extension-cultural-para-peru-s.a.-1118304266.html",
-                   "capturadoEn":  "2026-10-07T14:33:29+00:00"
+                   "capturadoEn":  "2026-10-07T09:53:55-05:00"
                },
     "titulo":  "DAMAS UNIVERSITARIAS PARA TRABAJAR/ATENCION AL CLIENTE/ASESORA COMERCIAL",
     "empresa":  "ESCUELA SUDAMERICANA DE EXTENSION CULTURAL PARA PERU S.A.",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Híbrido",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  1130,
                     "max":  1800,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 1,130 - S/ 1,800",
+                    "texto_original":  "S/ 1.130 - S/ 1.800",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Perfil profesional:buenas relaciones sociales, gusto e identificación con las labores comerciales de negocios; personalidad altamente emprendedora, 100% pro activo. Carácter extrovertido, alegre, dinámico, gran disposición para el aprendizaje y la formacion ejecutiva que tenga grandes ambiciones de progreso personal y profesional alta autoestima,gran fuerza mental. Perfil laboral;Desarrollar la labor de atención personalizada y asesoria comercial a ejecutivos, Profesionales y estudiantes,prospectos de usuarios a nuestro programa \"PREMIUM ENGLISH PROGRAM\", orientar , sus ventajas competitivas, su ingenieria de servicios, valores agregados, garantias, comodidades y el portafolio de posibilidades para el desarrollo del programa que otorga nuestra empresa. Beneficios;capacitación para ocupar el cargo,relaciones publicas, marketing personal, marketing empresarial,publicidad directa, publicidad masiva,promociones, asesoria comercial,comunicacion y clima organizacional.Contratación directa,beneficios de ley y beneficios corporativos, bonos, premios,comisiones,incentivos, basico, 1800 soles mensuales. Requisitos;full time, edad 18 a 30 años",
     "requisitos":  [
-
+                       "full time, edad 18 a 30 años"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       "corporativos, bonos, premios,comisiones,incentivos, basico, 1800 soles mensuales"
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2027-01-04",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/damas-universitarias-para-trabajar-atencion-al-cliente-asesora-comercial-escuela-sudamericana-de-extension-cultural-para-peru-s.a.-1118304266.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/damas-universitarias-para-trabajar-atencion-al-cliente-asesora-comercial-escuela-sudamericana-de-extension-cultural-para-peru-s.a.-1118304266.html",
+    "descripcion_html":  "\u003cul\u003e \u003cli\u003ePerfil profesional:buenas relaciones sociales, gusto e identificación con las labores comerciales de negocios; personalidad altamente emprendedora, 100% pro activo. Carácter extrovertido, alegre, dinámico, gran disposición para el aprendizaje y la formacion ejecutiva que tenga grandes ambiciones de progreso personal y profesional alta autoestima,gran fuerza mental.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003ePerfil laboral;Desarrollar la labor de atención personalizada y asesoria comercial a ejecutivos, Profesionales y estudiantes,prospectos de usuarios a nuestro programa \u0026quot;PREMIUM ENGLISH PROGRAM\u0026quot;, orientar , sus ventajas competitivas, su ingenieria de servicios, valores agregados, garantias, comodidades y el portafolio de posibilidades para el desarrollo del programa que otorga nuestra empresa.\u003c/p\u003e\u003cp\u003eBeneficios;capacitación para ocupar el cargo,relaciones publicas, marketing personal, marketing empresarial,publicidad directa, publicidad masiva,promociones, asesoria comercial,comunicacion y clima organizacional.Contratación directa,beneficios de ley y beneficios corporativos, bonos, premios,comisiones,incentivos, basico, 1800 soles mensuales.\u003c/p\u003e\u003cp\u003eRequisitos;full time, edad 18 a 30 años\u003c/p\u003e",
+    "area":  "Telemarketing",
+    "jornada":  "Full-time",
+    "nivel":  "Otro",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +55,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

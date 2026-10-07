@@ -6,37 +6,52 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-bilingue-ingles-espanol-remoto-creations-catering-1118471282.html",
-                   "capturadoEn":  "2026-10-07T14:33:21+00:00"
+                   "capturadoEn":  "2026-10-07T09:54:36-05:00"
                },
     "titulo":  "Asesora de Ventas Bilingüe (Inglés/Español) - Remoto",
     "empresa":  "Creations Catering",
     "ubicacion":  "Lima",
     "ciudad":  "Lima",
     "region":  "Lima",
-    "modalidad":  "REMOTE",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  2500,
                     "max":  4000,
                     "moneda":  "PEN",
                     "especificado":  true,
-                    "texto_original":  "S/ 2,500 - S/ 4,000",
+                    "texto_original":  "S/ 2.500 - S/ 4.000",
                     "fuente_salario":  "rango"
                 },
     "descripcion":  "Asesora de Ventas Bilingüe (Inglés/Español) - Remoto Resumen del Puesto Estamos en la búsqueda de una Asesora de Ventas Bilingüe proactiva y orientada a resultados para unirse a nuestro equipo comercial en modalidad remota. Si posees excelentes habilidades de comunicación en inglés y español, y te apasiona el mundo de las ventas, esta oportunidad es para ti. Responsabilidades Gestionar la comunicación con clientes potenciales y existentes a través de diversos canales, ofreciendo un trato cordial, claro y profesional. Elaborar y enviar cotizaciones de manera ágil y precisa. Realizar seguimiento de ventas para asegurar la satisfacción del cliente y fomentar la recompra. Alcanzar y superar los objetivos de ventas establecidos. Mantener un registro detallado y organizado de clientes, cotizaciones y transacciones. Requisitos Dominio avanzado del idioma inglés (nivel B2, C1 o C2), tanto oral como escrito. Excelentes habilidades de comunicación y negociación. Capacidad demostrada para trabajar de forma autónoma y gestionar el tiempo eficazmente en un entorno remoto. Orientación a la consecución de objetivos y al logro de resultados. Experiencia previa en roles de ventas o atención al cliente es valorada.",
     "requisitos":  [
-
+                       "Dominio avanzado del idioma inglés (nivel B2, C1 o C2), tanto oral como escrito",
+                       "Excelentes habilidades de comunicación y negociación",
+                       "Capacidad demostrada para trabajar de forma autónoma y gestionar el tiempo eficazmente en un entorno remoto",
+                       "Orientación a la consecución de objetivos y al logro de resultados",
+                       "Experiencia previa en roles de ventas o atención al cliente es valorada"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       null
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2026-12-05",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-bilingue-ingles-espanol-remoto-creations-catering-1118471282.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-bilingue-ingles-espanol-remoto-creations-catering-1118471282.html",
+    "descripcion_html":  "\u003cb\u003eAsesora de Ventas Bilingüe (Inglés/Español) - Remoto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una \u003cb\u003eAsesora de Ventas Bilingüe\u003c/b\u003e proactiva y orientada a resultados para unirse a nuestro equipo comercial en modalidad remota. Si posees excelentes habilidades de comunicación en inglés y español, y te apasiona el mundo de las ventas, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar la comunicación con clientes potenciales y existentes a través de diversos canales, ofreciendo un trato cordial, claro y profesional.\u003c/li\u003e \u003cli\u003eElaborar y enviar cotizaciones de manera ágil y precisa.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de ventas para asegurar la satisfacción del cliente y fomentar la recompra.\u003c/li\u003e \u003cli\u003eAlcanzar y superar los objetivos de ventas establecidos.\u003c/li\u003e \u003cli\u003eMantener un registro detallado y organizado de clientes, cotizaciones y transacciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDominio avanzado del idioma inglés (nivel B2, C1 o C2), tanto oral como escrito.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y negociación.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para trabajar de forma autónoma y gestionar el tiempo eficazmente en un entorno remoto.\u003c/li\u003e \u003cli\u003eOrientación a la consecución de objetivos y al logro de resultados.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles de ventas o atención al cliente es valorada.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +59,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

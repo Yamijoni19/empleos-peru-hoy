@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-almak-1118471299.html",
-                   "capturadoEn":  "2026-10-07T14:32:51+00:00"
+                   "capturadoEn":  "2026-10-07T09:55:15-05:00"
                },
     "titulo":  "Asistente Contable",
     "empresa":  "ALMAK",
     "ubicacion":  "Lima - Santiago de Surco",
     "ciudad":  "Santiago de Surco",
     "region":  "Lima",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,18 +25,38 @@
                 },
     "descripcion":  "Asistente Contable Resumen del Puesto Buscamos un Asistente Contable proactivo y detallista para integrarse a nuestro equipo. El rol es fundamental para la ejecución y control de los procesos contables, asegurando la precisión en registros, provisiones, conciliaciones y análisis de cuentas, así como en el cierre mensual. Responsabilidades Principales Registro en sistema ERP y seguimiento del cierre contable. Análisis de cuentas y elaboración de anexos de balance. Registro de provisiones, devengados y ajustes. Revisión de planillas, beneficios sociales y vacaciones. Validación de documentación y sustento de gastos. Control de compras, bancos, detracciones y honorarios. Validación de centros de costo y responsabilidad. Requisitos del Puesto Formación académica: Bachiller o Titulado/a en Contabilidad. Experiencia de 2 a 3 años en Contabilidad General y en procesos de cierre contable. Dominio de sistemas ERP contables. Sólida capacidad analítica y de resolución de problemas. Atención al detalle y organización. Habilidades de comunicación y trabajo en equipo.",
     "requisitos":  [
-
+                       "del Puesto",
+                       "Formación académica: Bachiller o Titulado/a en Contabilidad",
+                       "Experiencia de 2 a 3 años en Contabilidad General y en procesos de cierre contable",
+                       "Dominio de sistemas ERP contables",
+                       "Sólida capacidad analítica y de resolución de problemas",
+                       "Atención al detalle y organización",
+                       "Habilidades de comunicación y trabajo en equipo"
                    ],
     "funciones":  [
-
+                      null
                   ],
     "beneficios":  [
-
+                       "sociales y vacaciones",
+                       "Validación de documentación y sustento de gastos",
+                       "Control de compras, bancos, detracciones y honorarios",
+                       "Validación de centros de costo y responsabilidad"
                    ],
     "fecha_publicacion":  "2026-10-07",
-    "fecha_cierre":  "2026-12-06",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-almak-1118471299.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-almak-1118471299.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente Contable\u003c/b\u003e proactivo y detallista para integrarse a nuestro equipo. El rol es fundamental para la ejecución y control de los procesos contables, asegurando la precisión en registros, provisiones, conciliaciones y análisis de cuentas, así como en el cierre mensual.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eRegistro en sistema ERP y seguimiento del cierre contable.\u003c/li\u003e \u003cli\u003eAnálisis de cuentas y elaboración de anexos de balance.\u003c/li\u003e \u003cli\u003eRegistro de provisiones, devengados y ajustes.\u003c/li\u003e \u003cli\u003eRevisión de planillas, beneficios sociales y vacaciones.\u003c/li\u003e \u003cli\u003eValidación de documentación y sustento de gastos.\u003c/li\u003e \u003cli\u003eControl de compras, bancos, detracciones y honorarios.\u003c/li\u003e \u003cli\u003eValidación de centros de costo y responsabilidad.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos del Puesto\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica: Bachiller o Titulado/a en Contabilidad.\u003c/li\u003e \u003cli\u003eExperiencia de 2 a 3 años en Contabilidad General y en procesos de cierre contable.\u003c/li\u003e \u003cli\u003eDominio de sistemas ERP contables.\u003c/li\u003e \u003cli\u003eSólida capacidad analítica y de resolución de problemas.\u003c/li\u003e \u003cli\u003eAtención al detalle y organización.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Contabilidad",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
@@ -44,6 +64,8 @@
                                        "puesto/titulo",
                                        "empresa",
                                        "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
                                        "ubicacion",
                                        "modalidad",
                                        "fecha",

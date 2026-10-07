@@ -6,15 +6,15 @@
                    "id":  "bumeran",
                    "nombre":  "Bumeran Peru",
                    "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-oficina-tecnica-mina-regimen-1118471258.html",
-                   "capturadoEn":  "2026-10-07T14:33:42+00:00"
+                   "capturadoEn":  "2026-10-07T09:54:16-05:00"
                },
     "titulo":  "Ingeniero de Oficina Técnica Mina Regimen",
     "empresa":  "Confidencial",
     "ubicacion":  "Ancash - Huaraz",
     "ciudad":  "Huaraz",
     "region":  "Ancash",
-    "modalidad":  "",
-    "contrato":  "FULL_TIME",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
     "salario":  {
                     "min":  null,
                     "max":  null,
@@ -25,26 +25,37 @@
                 },
     "descripcion":  "Importante transnacional, líder en su rubro de ingeniería, está en búsqueda de personal para que forma parte de nuestro equipo. FUNCIONES: Revisar y validar la consistencia de la información de los planos generados. Asegurar que se cuantifiquen las cantidades realmente ejecutadas en el periodo de valorización. Entregar los planos para construcción al personal de Producción. REQUISITOS: Ingeniero Civil - Titulado. Experiencia mínima de 3 años dentro del área Oficina Técnica, experiencia en gestión de proyectos (de preferencia bajo la metodología PMI). Excel Nivel Intermedio (Indispensable), Project, CAD, S10 y Primavera. Disponibilidad para poder viajar a provincia, bajo régimen. BENEFICIOS: Ingreso a planilla con todos los beneficios de ley. Oportunidad de línea de carrera. Estabilidad laboral. Pertenecer a una reconocida empresa.",
     "requisitos":  [
-                       "Ingeniero Civil - Titulado.",
-                       "Experiencia mínima de 3 años dentro del área Oficina Técnica, experiencia en gestión de proyectos (de preferencia bajo la metodología PMI).",
-                       "Excel Nivel Intermedio (Indispensable), Project, CAD, S10 y Primavera.",
-                       "Disponibilidad para poder viajar a provincia, bajo régimen."
+                       "Ingeniero Civil - Titulado",
+                       "Experiencia mínima de 3 años dentro del área Oficina Técnica, experiencia en gestión de proyectos (de preferencia bajo la metodología PMI)",
+                       "Excel Nivel Intermedio (Indispensable), Project, CAD, S10 y Primavera",
+                       "Disponibilidad para poder viajar a provincia, bajo régimen"
                    ],
     "funciones":  [
-                      "Revisar y validar la consistencia de la información de los planos generados.",
-                      "Asegurar que se cuantifiquen las cantidades realmente ejecutadas en el periodo de valorización.",
-                      "Entregar los planos para construcción al personal de Producción."
+                      "Revisar y validar la consistencia de la información de los planos generados",
+                      "Asegurar que se cuantifiquen las cantidades realmente ejecutadas en el periodo de valorización",
+                      "Entregar los planos para construcción al personal de Producción"
                   ],
     "beneficios":  [
-                       "Ingreso a planilla con todos los beneficios de ley.",
-                       "Oportunidad de línea de carrera.",
-                       "Estabilidad laboral.",
-                       "Pertenecer a una reconocida empresa."
+                       "de ley",
+                       "Oportunidad de línea de carrera",
+                       "Estabilidad laboral",
+                       "Pertenecer a una reconocida empresa"
                    ],
     "fecha_publicacion":  "2026-10-06",
-    "fecha_cierre":  "2027-02-03",
+    "fecha_cierre":  "",
     "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-oficina-tecnica-mina-regimen-1118471258.html",
     "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-oficina-tecnica-mina-regimen-1118471258.html",
+    "descripcion_html":  "\u003cp\u003eImportante transnacional, líder en su rubro de ingeniería, está en búsqueda de personal para que forma parte de nuestro equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRevisar y validar la consistencia de la información de los planos generados.\u003c/li\u003e \u003cli\u003eAsegurar que se cuantifiquen las cantidades realmente ejecutadas en el periodo de valorización.\u003c/li\u003e \u003cli\u003eEntregar los planos para construcción al personal de Producción.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero Civil - Titulado.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años dentro del área Oficina Técnica, experiencia en gestión de proyectos (de preferencia bajo la metodología PMI).\u003c/li\u003e \u003cli\u003eExcel Nivel Intermedio (Indispensable), Project, CAD, S10 y Primavera.\u003c/li\u003e \u003cli\u003eDisponibilidad para poder viajar a provincia, bajo régimen.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eOportunidad de línea de carrera.\u003c/li\u003e \u003cli\u003eEstabilidad laboral.\u003c/li\u003e \u003cli\u003ePertenecer a una reconocida empresa.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Construcción",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
     "validacion":  {
                        "estado":  "VALIDADA",
                        "senales":  [
