@@ -4,16 +4,13 @@
                       {
                           "value":  [
                                         {
-                                            "fecha":  "2026-10-06T04:14:57.1861103-05:00",
-                                            "publicadas":  2,
-                                            "errores":  0,
-                                            "encoladas":  0,
-                                            "maxPorCorrida":  2
+                                            "value":  " ",
+                                            "Count":  2
                                         },
                                         {
-                                            "fecha":  "2026-10-07T15:20:57.9746957+00:00",
-                                            "publicadas":  5,
-                                            "errores":  1,
+                                            "fecha":  "2026-10-07T17:15:42.4001258+00:00",
+                                            "publicadas":  23,
+                                            "errores":  0,
                                             "encoladas":  0,
                                             "maxPorCorrida":  25
                                         }
@@ -21,20 +18,20 @@
                           "Count":  2
                       },
                       {
-                          "fecha":  "2026-10-07T17:15:42.4001258+00:00",
-                          "publicadas":  23,
+                          "fecha":  "2026-10-07T13:50:03.9213438-05:00",
+                          "publicadas":  1,
                           "errores":  0,
                           "encoladas":  0,
-                          "maxPorCorrida":  25
+                          "maxPorCorrida":  3
                       }
                   ],
         "Count":  2
     },
     {
-        "fecha":  "2026-10-07T13:50:03.9213438-05:00",
-        "publicadas":  1,
+        "fecha":  "2026-10-07T20:51:40.4584281+00:00",
+        "publicadas":  21,
         "errores":  0,
         "encoladas":  0,
-        "maxPorCorrida":  3
+        "maxPorCorrida":  25
     }
 ]

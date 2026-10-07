@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118471132",
+    "clave":  "id:1118471132",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-1118471132.html",
+                   "capturadoEn":  "2026-10-07T20:38:08+00:00"
+               },
+    "titulo":  "Asistente de Administración de Personal",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa retail se encuentra en busca de los mejores talentos para la posición de Asistente de Administración de Personal. Funciones: Gestión e intermediación de la plataforma de control de asistencia corporativa. Análisis y procesamiento integral del ciclo de vida del colaborador. Control de inconsistencias y generación de informes de cumplimiento de jornada. Confirmación de ausentismos e incorporación efectiva de candidatos. Depuración de base de datos de personal y actualización de accesos. Programación de la inducción de nuevos ingresos en el sistema. Requisitos: Egresado(a) de la carrera de Administración o Ingeniería Industrial o afines. Manejo de Excel a nivel avanzado (indispensable). Manejo de plataformas de gestión de asistencia. Experiencia mínima de 1 año en el área de Administración de Personal o como HRBP.",
+    "requisitos":  [
+                       "Egresado(a) de la carrera de Administración o Ingeniería Industrial o afines",
+                       "Manejo de Excel a nivel avanzado (indispensable)",
+                       "Manejo de plataformas de gestión de asistencia",
+                       "Experiencia mínima de 1 año en el área de Administración de Personal o como HRBP"
+                   ],
+    "funciones":  [
+                      "Gestión e intermediación de la plataforma de control de asistencia corporativa",
+                      "Análisis y procesamiento integral del ciclo de vida del colaborador",
+                      "Control de inconsistencias y generación de informes de cumplimiento de jornada",
+                      "Confirmación de ausentismos e incorporación efectiva de candidatos",
+                      "Depuración de base de datos de personal y actualización de accesos",
+                      "Programación de la inducción de nuevos ingresos en el sistema"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-1118471132.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-1118471132.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa retail se encuentra en busca de los mejores talentos para la posición de Asistente de Administración de Personal.\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestión e intermediación de la plataforma de control de asistencia corporativa.\u003c/li\u003e \u003cli\u003eAnálisis y procesamiento integral del ciclo de vida del colaborador.\u003c/li\u003e \u003cli\u003eControl de inconsistencias y generación de informes de cumplimiento de jornada.\u003c/li\u003e \u003cli\u003eConfirmación de ausentismos e incorporación efectiva de candidatos.\u003c/li\u003e \u003cli\u003eDepuración de base de datos de personal y actualización de accesos.\u003c/li\u003e \u003cli\u003eProgramación de la inducción de nuevos ingresos en el sistema.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) de la carrera de Administración o Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel avanzado (indispensable).\u003c/li\u003e \u003cli\u003eManejo de plataformas de gestión de asistencia.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en el área de Administración de Personal o como HRBP.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Administración de Personal",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

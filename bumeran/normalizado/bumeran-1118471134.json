@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118471134",
+    "clave":  "id:1118471134",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-hidraulico-typsa-1118471134.html",
+                   "capturadoEn":  "2026-10-07T20:38:07+00:00"
+               },
+    "titulo":  "Ingeniero Hidráulico",
+    "empresa":  "TYPSA",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡TYPSA PERÚ sigue creciendo y buscamos al mejor talento! Nos encontramos en la búsqueda de un Ingeniero Hidráulico - diseñador y modelador de drenaje pluvial y/o saneamiento. Formación académica: Ingeniero(a) Civil, Hidráulico, Mecánico de Fluidos, Agrícola, Sanitario, titulado, colegiado y habilitado. Experiencia: Mínimo 3 años de experiencia profesional desde la titulación. Experiencia específica como diseñador y/o modelador hidráulico en proyectos de drenaje pluvial urbano, saneamiento urbano (con componente de alcantarillado), defensas ribereñas u obras hidráulicas, desempeñándose como ingeniero diseñador y/o modelador hidráulico. Se valorará experiencia en modelación 1D y 2D con Infoworks Conocimientos técnicos: Indispensable: Diseño y/o modelamiento hidráulico de redes de drenaje pluvial urbano y/o alcantarillado urbano. Deseable: Análisis de inundaciones y diseño de soluciones para el control de avenidas. Manejo de Softwares: Indispensable: SewerGEMS y AutoCAD / Civil 3D. Deseable: SWMM, HEC-RAS 2D e InfoWorks ICM. Idiomas: Inglés (intermedio-avanzado)",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-hidraulico-typsa-1118471134.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-hidraulico-typsa-1118471134.html",
+    "descripcion_html":  "\u003cp\u003e¡TYPSA PERÚ sigue creciendo y buscamos al mejor talento! \u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un Ingeniero Hidráulico - diseñador y modelador de drenaje pluvial y/o saneamiento.\u003c/p\u003e\u003cp\u003eFormación académica: \u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero(a) Civil, Hidráulico, Mecánico de Fluidos, Agrícola, Sanitario, titulado, colegiado y habilitado. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003eExperiencia: \u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 3 años de experiencia profesional desde la titulación. \u003c/li\u003e \u003cli\u003eExperiencia específica como diseñador y/o modelador hidráulico en proyectos de drenaje pluvial urbano, saneamiento urbano (con componente de alcantarillado), defensas ribereñas u obras hidráulicas, desempeñándose como ingeniero diseñador y/o modelador hidráulico. \u003c/li\u003e \u003cli\u003eSe valorará experiencia en modelación 1D y 2D con Infoworks \u003c/li\u003e\u003c/ul\u003e\u003cp\u003eConocimientos técnicos: \u003c/p\u003e\u003cul\u003e \u003cli\u003eIndispensable: Diseño y/o modelamiento hidráulico de redes de drenaje pluvial urbano y/o alcantarillado urbano. \u003c/li\u003e \u003cli\u003eDeseable: Análisis de inundaciones y diseño de soluciones para el control de avenidas. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e Manejo de Softwares: \u003c/p\u003e\u003cul\u003e \u003cli\u003eIndispensable: SewerGEMS y AutoCAD / Civil 3D. \u003c/li\u003e \u003cli\u003eDeseable: SWMM, HEC-RAS 2D e InfoWorks ICM. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003eIdiomas: \u003c/p\u003e\u003cul\u003e \u003cli\u003eInglés (intermedio-avanzado)\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

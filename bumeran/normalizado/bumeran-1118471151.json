@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118471151",
+    "clave":  "id:1118471151",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-cobranza-judicial-huanuco-ref-1688-2026-caja-cusco-1118471151.html",
+                   "capturadoEn":  "2026-10-07T20:37:55+00:00"
+               },
+    "titulo":  "PRACTICANTE PROFESIONAL DE COBRANZA JUDICIAL / HUANUCO Ref 1688 2026",
+    "empresa":  "CAJA CUSCO",
+    "ubicacion":  "Huánuco",
+    "ciudad":  "Huánuco",
+    "region":  "Huánuco",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  1129,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,129 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Te estamos buscando! Somos Caja Cusco, entidad financiera líder en la región sur del Perú y con sedes a nivel nacional, especializada en microfinanzas, ahorros y servicios financieros. Con más de 4,500 colaboradores comprometidos y agencias a nivel nacional, ofreciendo alternativas financieras a la medida de nuestros clientes y futuros nuevos clientes. Actualmente estamos en búsqueda del mejor talento para el puesto de: PRACTICANTE PROFESIONAL DE COBRANZA JUDICIAL- HUANUCO Requisitos: Formacion Academica: Egresado o Bachiller de la carrera de Derecho Experiencia requerida: Sin Experiencia Responsabilidades: Cumplir de objetivos asignados. Afianzar la formación académica y profesional, alineado a los valores y principios de la Caja Cusco, aplicado estrategias que optimicen la recuperación de la cartera judicial. Desempeñar actividades formativas de apoyo en el área de Cobranza Judicial. Beneficios: Subvención económica de S/. 1,230.00 Seguro Privado de Salud Convenio de prácticas fecha maxima de postulacion 11/10/2026",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Subvención económica de S/. 1,230.00",
+                       "Seguro Privado de Salud",
+                       "Convenio de prácticas",
+                       "fecha maxima de postulacion 11/10/2026"
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-cobranza-judicial-huanuco-ref-1688-2026-caja-cusco-1118471151.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-cobranza-judicial-huanuco-ref-1688-2026-caja-cusco-1118471151.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Te estamos buscando!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSomos Caja Cusco, entidad financiera líder en la región sur del Perú y con sedes a nivel nacional, especializada en microfinanzas, ahorros y servicios financieros. Con más de 4,500 colaboradores comprometidos y agencias a nivel nacional, ofreciendo alternativas financieras a la medida de nuestros clientes y futuros nuevos clientes.\u003c/p\u003e\u003cp\u003eActualmente estamos en búsqueda del mejor talento para el puesto de: \u003cstrong\u003ePRACTICANTE PROFESIONAL DE COBRANZA JUDICIAL- HUANUCO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormacion Academica: Egresado o Bachiller de la carrera de Derecho\u003c/li\u003e \u003cli\u003eExperiencia requerida: Sin Experiencia\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCumplir de objetivos asignados.\u003c/li\u003e \u003cli\u003eAfianzar la formación académica y profesional, alineado a los valores y principios de la Caja Cusco, aplicado estrategias que optimicen la recuperación de la cartera judicial.\u003c/li\u003e \u003cli\u003eDesempeñar actividades formativas de apoyo en el área de Cobranza Judicial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSubvención económica de S/. 1,230.00\u003c/li\u003e \u003cli\u003eSeguro Privado de Salud\u003c/li\u003e \u003cli\u003eConvenio de prácticas\u003c/li\u003e\u003c/ul\u003e\u003cp\u003efecha maxima de postulacion 11/10/2026\u003c/p\u003e",
+    "area":  "Legal",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,19 +1,19 @@
 {
-    "generado":  "2026-10-07T13:49:14.3073104-05:00",
+    "generado":  "2026-10-07T20:40:41.8081508+00:00",
     "estado":  "EJECUTADA",
-    "maxPorCorrida":  3,
-    "candidatos":  5106,
+    "maxPorCorrida":  25,
+    "candidatos":  5172,
     "porEstado":  {
                       "EXPIRADA":  33,
-                      "NUEVA":  959,
+                      "NUEVA":  1025,
                       "HISTORICA":  4114
                   },
     "omitidos":  {
                      "EXPIRADA":  33,
                      "HISTORICA":  4114
                  },
-    "seleccionados":  1,
-    "diferidos":  956,
+    "seleccionados":  21,
+    "diferidos":  1000,
     "orden":  [
                   "NUEVA",
                   "ACTUALIZADA",
@@ -21,7 +21,7 @@
                   "EXPIRADA",
                   "HISTORICA"
               ],
-    "publicadas":  1,
+    "publicadas":  21,
     "simuladas":  0,
     "errores":  0,
     "nota":  "las historicas del baseline no se publican sin -Backfill; ACTUALIZADA/CORRECCION se encolan hasta tener mecanismo de actualizacion"
