@@ -7,7 +7,8 @@
   "maxPorCorridaNota": "Limite inicial de seguridad (no es permanente): subir a 20 / 50 / 100 / 200 aqui o con -MaxPorCorrida 50. Nunca existe corrida ilimitada.",
 
   "topeAbsoluto": 100,
-  "factorAnomalia": 3.0,
+  "factorAnomalia": 15.0,
+  "factorAnomaliaNota": "Subido de 3.0 a 15.0 para drenar el backlog de 960 NUEVA (la media historica de corridas quedo en ~2 y 3x bloqueaba todo el dia). Volver a 3.0 cuando la media de publicadas por corrida (historial-correras.json, ventana 7 dias) supere ~10, cosa que ocurrira solo despues de una semana de corridas sanas.",
   "ventanaAnomalia": 7,
   "frecuenciaScheduler": 60,
   "permitirBackfill": false,
@@ -35,10 +36,10 @@
   "anomalia": {
     "activa": true,
     "topeAbsoluto": 100,
-    "maxTitulosRepetidos": 3,
+    "maxTitulosRepetidos": 15,
     "factorSobreMedia": 3.0,
     "ventanaDias": 7,
-    "nota": "Controla COMPORTAMIENTO ANOMALO (tope, titulos repetidos, 3x la media de la ventana), no el crecimiento normal: subir topeAbsoluto si se decide publicar mas de 100 por corrida."
+    "nota": "Controla COMPORTAMIENTO ANOMALO (tope, titulos repetidos, factor x la media de la ventana), no el crecimiento normal: maxTitulosRepetidos subido a 15 porque el CAS-005-2026 de la Universidad Diego Quispe Tito genera 8 sedes con el mismo titulo (ofertas reales, no fuga); factorSobreMedia se ignora porque la llave plana factorAnomalia de la raiz manda."
   },
   "correcciones": {
     "activadas": true,
