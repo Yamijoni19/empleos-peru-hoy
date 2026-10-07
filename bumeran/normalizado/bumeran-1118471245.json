@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118471245",
+    "clave":  "id:1118471245",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-seguridad-regimen-1118471245.html",
+                   "capturadoEn":  "2026-10-07T15:00:49+00:00"
+               },
+    "titulo":  "Ingeniero de Seguridad Regimen",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Ancash - Huaraz",
+    "ciudad":  "Huaraz",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante transnacional, lider en su rubro de ingeniería, esta en búsqueda de un personal para que forma parte del staff de trabajadores: Requisitos: Ing. Civil, Ing. Geologo o ing. De Minas (Colegiado y Habilitado). 03 años de experiencia en trabajos en minería en el área de Seguridad. Preferencia experiencia en perforación e inyección. Preferencia experiencia en trabajo de estabilización o protección de taludes. Preferencia en trabajos en Antamina. Disponibilidad para trabajar en Huaraz, Ancash. Régimen Atípico. Movilidad de Lima a Huaraz. Beneficios: Salario acorde al mercado. Ingreso a planilla con todos los beneficios de ley. Disponibilidad inmediata.",
+    "requisitos":  [
+                       "Ing. Civil, Ing. Geologo o ing. De Minas (Colegiado y Habilitado)",
+                       "03 años de experiencia en trabajos en minería en el área de Seguridad",
+                       "Preferencia experiencia en perforación e inyección",
+                       "Preferencia experiencia en trabajo de estabilización o protección de taludes",
+                       "Preferencia en trabajos en Antamina",
+                       "Disponibilidad para trabajar en Huaraz, Ancash. Régimen Atípico. Movilidad de Lima a Huaraz"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Disponibilidad inmediata"
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-seguridad-regimen-1118471245.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-seguridad-regimen-1118471245.html",
+    "descripcion_html":  "\u003cp\u003eImportante transnacional, lider en su rubro de ingeniería, esta en búsqueda de un personal para que forma parte del staff de trabajadores:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIng. Civil, Ing. Geologo o ing. De Minas (Colegiado y Habilitado).\u003c/li\u003e \u003cli\u003e03 años de experiencia en trabajos en minería en el área de Seguridad.\u003c/li\u003e \u003cli\u003ePreferencia experiencia en perforación e inyección.\u003c/li\u003e \u003cli\u003ePreferencia experiencia en trabajo de estabilización o protección de taludes.\u003c/li\u003e \u003cli\u003ePreferencia en trabajos en Antamina.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en Huaraz, Ancash. Régimen Atípico. \u003cstrong\u003eMovilidad de Lima a Huaraz.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario acorde al mercado.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Seguridad e Higiene",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 03 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,26 +1,15 @@
 {
-    "generado":  "2026-10-06T04:14:33.9859594-05:00",
-    "estado":  "EJECUTADA",
-    "maxPorCorrida":  2,
-    "candidatos":  4203,
+    "generado":  "2026-10-07T15:01:45.0393759+00:00",
+    "estado":  "DETENIDA",
+    "maxPorCorrida":  25,
+    "candidatos":  5074,
+    "elegibles":  960,
+    "publicadas":  0,
     "porEstado":  {
-                      "NUEVA":  89,
                       "HISTORICA":  4114
                   },
-    "omitidos":  {
-                     "HISTORICA":  4114
-                 },
-    "seleccionados":  2,
-    "diferidos":  87,
-    "orden":  [
-                  "NUEVA",
-                  "ACTUALIZADA",
-                  "CORRECCION",
-                  "EXPIRADA",
-                  "HISTORICA"
-              ],
-    "publicadas":  2,
-    "simuladas":  0,
-    "errores":  0,
-    "nota":  "las historicas del baseline no se publican sin -Backfill; ACTUALIZADA/CORRECCION se encolan hasta tener mecanismo de actualizacion"
+    "alertas":  [
+                    "titulos repetidos mas de 3 veces (posible fuga del extractor): UNIVERSIDAD DIEGO QUISPE TITO: Asistente Administrativo x8 | GOBIERNO REGIONAL DE AMAZONAS: Orientador en formalización laboral x4 | UNIVERSIDAD DIEGO QUISPE TITO: Especialista Legal x4",
+                    "volumen a publicar 25 supera 3x la media de las ultimas corridas (2); backlog=960"
+                ]
 }

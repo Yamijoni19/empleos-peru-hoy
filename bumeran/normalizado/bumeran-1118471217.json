@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118471217",
+    "clave":  "id:1118471217",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-de-maquinaria-agricola-zona-norte-yamanija-amp-asociados-consultoria-sac-1118471217.html",
+                   "capturadoEn":  "2026-10-07T15:01:04+00:00"
+               },
+    "titulo":  "EJECUTIVO COMERCIAL DE MAQUINARIA AGRÍCOLA-ZONA NORTE",
+    "empresa":  "YAMANIJA \u0026amp; ASOCIADOS CONSULTORIA SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa internacional de venta de maquinaria agrícola está en búsqueda de un EJECUTIVO COMERCIAL para Piura y Lambayeque. Manejo de cartera de clientes agrícolas Seguimiento de los indicadores del área Trabajo de campo visitando a los clientes de manera constante Prospección de nuevos clientes del secotr Requisitos: Experiencia de 2 años como ejecutivo comercial en empresas de venta de productos al sector agrícola Disponibilidad para laborar en Piura o Lambayeque Manejo de excel intermedio Beneficios Sueldo fijo + variable Régimen general",
+    "requisitos":  [
+                       "Experiencia de 2 años como ejecutivo comercial en empresas de venta de productos al sector agrícola",
+                       "Disponibilidad para laborar en Piura o Lambayeque",
+                       "Manejo de excel intermedio"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Sueldo fijo + variable",
+                       "Régimen general"
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-de-maquinaria-agricola-zona-norte-yamanija-amp-asociados-consultoria-sac-1118471217.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-de-maquinaria-agricola-zona-norte-yamanija-amp-asociados-consultoria-sac-1118471217.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa internacional de venta de maquinaria agrícola está en búsqueda de un EJECUTIVO COMERCIAL para Piura y Lambayeque.\u003c/p\u003e \u003cul\u003e \u003cli\u003eManejo de cartera de clientes agrícolas\u003c/li\u003e \u003cli\u003eSeguimiento de los indicadores del área \u003c/li\u003e \u003cli\u003eTrabajo de campo visitando a los clientes de manera constante\u003c/li\u003e \u003cli\u003eProspección de nuevos clientes del secotr\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eExperiencia de 2 años como ejecutivo comercial en empresas de venta de productos al sector agrícola\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en Piura o Lambayeque\u003c/li\u003e \u003cli\u003eManejo de excel intermedio\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eSueldo fijo + variable \u003c/li\u003e \u003cli\u003eRégimen general\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
