@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466286",
+    "clave":  "id:1118466286",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/bartender-mozo-brasas-del-centro-1118466286.html",
+                   "capturadoEn":  "2026-10-07T00:42:36+00:00"
+               },
+    "titulo":  "Bartender - Mozo",
+    "empresa":  "BRASAS DEL CENTRO",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1550,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,550",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Bartender - Mozo Resumen del Puesto Buscamos un profesional dinámico y con experiencia para cubrir el puesto de Bartender - Mozo . El candidato ideal poseerá habilidades en la preparación de bebidas y un excelente trato al cliente, demostrando responsabilidad y buena comunicación. Responsabilidades Preparación y servicio de una variedad de bebidas. Atención a los clientes en barra y mesas. Mantenimiento del orden y la limpieza del área de trabajo. Colaboración con el equipo para asegurar una experiencia positiva del cliente. Requisitos Experiencia previa comprobable en roles de bartender, mozo o similares. Experiencia en atención al cliente. Conocimientos en la preparación y servicio de bebidas. Habilidades de comunicación y trato cordial. Capacidad para trabajar en un entorno dinámico.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/bartender-mozo-brasas-del-centro-1118466286.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/bartender-mozo-brasas-del-centro-1118466286.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

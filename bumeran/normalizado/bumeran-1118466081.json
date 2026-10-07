@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466081",
+    "clave":  "id:1118466081",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/chofer-almacenero-sino-supply-peru-1118466081.html",
+                   "capturadoEn":  "2026-10-07T00:42:59+00:00"
+               },
+    "titulo":  "Chofer - Almacenero",
+    "empresa":  "SINO SUPPLY PERÚ",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1599,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,599 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Vacante: Chofer Almacenero Empresa: SINO SUPPLY Ubicación: Cercado de Lima Área: Logística / Almacén Descripción del puesto En SINO SUPPLY nos encontramos en la búsqueda de un Chofer - Almacenero , que cuente con brevete A 1 responsable y organizado, que se encargue de la correcta recepción, almacenamiento y despacho de mercadería, garantizando el orden y control del inventario en el almacén. Funciones principales Carga Descarga Entrega de pedidos Requisitos Secundaria completa o estudios técnicos truncos o en curso. Responsable, organizado y con capacidad para trabajar en equipo. Salario S/ 1 6 0 0 Condiciones laborales Horario: Lunes a viernes de 9: 0 0 a 6: 0 0 y sábados de 9: 0 0 a 1: 0 0 Lugar de trabajo: Gamarra Buen ambiente laboral y oportunidad de crecimiento.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/chofer-almacenero-sino-supply-peru-1118466081.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/chofer-almacenero-sino-supply-peru-1118466081.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

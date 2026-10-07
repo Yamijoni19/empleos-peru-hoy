@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466127",
+    "clave":  "id:1118466127",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-a-de-produccion-smart-chemistry-peru-s.a.c-1118466127.html",
+                   "capturadoEn":  "2026-10-07T00:42:45+00:00"
+               },
+    "titulo":  "Operario/a de Producción",
+    "empresa":  "SMART CHEMISTRY PERÚ S.A.C",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1401,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,401",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Producción Resumen del Puesto Buscamos un Operario de Producción proactivo y responsable para integrarse a nuestro equipo. El rol principal será apoyar el proceso productivo mediante la operación de equipos y la ejecución de actividades conforme a los procedimientos establecidos, contribuyendo al cumplimiento de los estándares de calidad, seguridad y producción. Responsabilidades Operar equipos y maquinaria de producción de manera eficiente y segura. Realizar el montaje, etiquetado y acondicionamiento de productos según especificaciones. Verificar la calidad de los productos durante el proceso productivo, reportando desviaciones. Mantener el área de trabajo limpia, organizada y segura, cumpliendo con las normativas de higiene y seguridad. Registrar las actividades realizadas y reportar cualquier novedad o incidencia. Colaborar activamente con el equipo para alcanzar y superar los objetivos de producción establecidos. Requisitos Formación de Secundaria completa. Experiencia mínima de 1 año en áreas de producción o roles similares. Conocimientos básicos en procesos de producción, control de calidad y seguridad ocupacional. Capacidad demostrada para seguir instrucciones y trabajar de forma colaborativa en equipo. Actitud responsable y orientación hacia el logro de la calidad en las tareas asignadas. Disponibilidad para operar maquinaria y realizar tareas manuales. Licencia de conducir vigente.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-a-de-produccion-smart-chemistry-peru-s.a.c-1118466127.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-a-de-produccion-smart-chemistry-peru-s.a.c-1118466127.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

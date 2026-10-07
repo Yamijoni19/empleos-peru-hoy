@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466576",
+    "clave":  "id:1118466576",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-medicina-estetica-senseben-1118466576.html",
+                   "capturadoEn":  "2026-10-06T15:58:02+00:00"
+               },
+    "titulo":  "Asesor Comercial - Medicina Estética",
+    "empresa":  "Senseben",
+    "ubicacion":  "Piura",
+    "ciudad":  "Piura",
+    "region":  "Piura",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "\u0026#x1f4e2; ¡Buscamos Asesores Comerciales con Experiencia en Venta! Empresa distribuidora de productos de medicina estética está buscando vendedores para la zona norte del Perú: Piura, Trujillo y Chiclayo PERFIL REQUERIDO: ✔ Experiencia en ventas visitando: clínicas, centros estéticos y/o spas ✔ Prospección y apertura de nuevos clientes ✔ Gestión de cartera y seguimiento comercial ✔ Envío de reportes de visitas y proyección de ventas ✔ Cumplimiento de objetivos VALORAMOS: ✨ Experiencia en venta de: Bioestimuladores, Exosomas, PDRN, Etc. ✨ Red de contactos en el sector ✨ Perfil proactivo y orientado a resultados OFRECEMOS: ✔ Comisiones competitivas ✔ Línea de crecimiento ✔ Capacitación constante ✔ Horario completo, part-time, freelance. \u0026#x1f4e9; Postula enviando tu CV a: Si tienes experiencia en ventas y conoces el rubro, ¡queremos conocerte! #VentasPeru #VentasCampo #MedicinaEstetica #Cosmiatria #EmpleoPeru #Piura #Trujillo #Chiclayo",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-medicina-estetica-senseben-1118466576.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-medicina-estetica-senseben-1118466576.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,65 @@
+{
+    "id":  "bumeran-1118466035",
+    "clave":  "id:1118466035",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-a-call-center-de-cobranza-temprana-san-borja-nsoluciones-consulting-1118466035.html",
+                   "capturadoEn":  "2026-10-07T07:14:36+00:00"
+               },
+    "titulo":  "ASESOR (A) - CALL CENTER DE COBRANZA TEMPRANA - SAN BORJA",
+    "empresa":  "NSOLUCIONES CONSULTING",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  2600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 2,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa especializada en servicios financieros y gestión de cobranzas para entidades bancarias, nos encontramos en búsqueda de: Asesor (a) de Cobranzas Temprana - Call Center / Fijo 1,130 + (150) bono de presencialidad + (1,000) comisiones + tarjeta de alimentación + 3 días de capa (30 soles por día) Modalidad presencial – San Borja Requisitos: Experiencia mínima de 3 meses en cobranzas telefónicas en Call Center Disponibilidad para laborar de Lunes a Viernes de 8: 0 0 a 1 9: 0 0 (Primer día del mes libre) Estudios técnicos o universitarios en curso o truncos (deseable). Manejo básico de Office. Funciones: Gestión telefónica de cartera asignada en mora tardía. Negociación orientada a la recuperación de deuda. Seguimiento y registro de compromisos de pago. Cumplimiento de metas e indicadores. Ingreso a Planilla MYPE. Línea de Carrera. Primer día del mes libre. Tabla de comisiones con tope de 1,000 soles Tarjeta de alimentación Bono por modalidad presencial mensual: 150 soles Bono de Permanencia: 100 soles (por única vez al culminar 2do mes)",
+    "requisitos":  [
+                       "Experiencia mínima de 3 meses en cobranzas telefónicas en Call Center",
+                       "Disponibilidad para laborar de Lunes a Viernes de 8: 0 0 a 1 9: 0 0 (Primer día del mes libre)",
+                       "Estudios técnicos o universitarios en curso o truncos (deseable).",
+                       "Manejo básico de Office."
+                   ],
+    "funciones":  [
+                      "Gestión telefónica de cartera asignada en mora tardía.",
+                      "Negociación orientada a la recuperación de deuda.",
+                      "Seguimiento y registro de compromisos de pago.",
+                      "Cumplimiento de metas e indicadores."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-a-call-center-de-cobranza-temprana-san-borja-nsoluciones-consulting-1118466035.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-a-call-center-de-cobranza-temprana-san-borja-nsoluciones-consulting-1118466035.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

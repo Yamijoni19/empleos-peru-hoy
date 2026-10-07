@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467428",
+    "clave":  "id:1118467428",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-lurin-planta-1118467428.html",
+                   "capturadoEn":  "2026-10-05T10:26:34+00:00"
+               },
+    "titulo":  "Asistente de administración de personal/Lurín/Planta",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En nuestro equipo estamos buscando un(a) Asistente de Administración de Personal que contribuya a garantizar una gestión eficiente de los procesos administrativos de Recursos Humanos. Si te gusta el trabajo organizado, el contacto con las personas y deseas desarrollarte en el área de Gestión Humana, esta oportunidad es para ti. ¿Cuáles serán tus principales retos? Gestionar y dar seguimiento a contratos de personal nuevo y renovaciones. Registrar permisos, horas extras y novedades para el procesamiento de nómina. Elaborar reportes de asistencia, tardanzas, permisos y faltas. Mantener actualizados los legajos y files del personal activo y cesado. Brindar soporte en la administración de plataformas y sistemas de gestión humana. Realizar el control documentario relacionado con administración de personal. Dar seguimiento a descansos médicos y otras incidencias del personal. Apoyar en actividades e iniciativas promovidas por el área de Gestión Humana. Cumplir y promover los lineamientos de Seguridad, Salud Ocupacional y Medio Ambiente. ¿Qué buscamos? Egresado(a) técnico o universitario de Administración, Recursos Humanos, Contabilidad o carreras afines. Experiencia mínima de 1 año en posiciones similares de administración de personal, recursos humanos o administración. Conocimientos básicos de legislación laboral y procesos de contratación. Manejo de Microsoft Office a nivel básico. Deseable conocimiento de sistemas de nómina y gestión de RR.HH. Competencias que valoramos Organización y atención al detalle. Comunicación efectiva. Trabajo en equipo. Compromiso y responsabilidad. Honestidad e integridad. Orientación a la calidad y mejora continua. ¿Qué te ofrecemos? Oportunidad de aprendizaje y desarrollo profesional. Movilidad y alimentación en planta. Utilidades. Línea de carrera. Bono anual. Integrar un equipo dinámico y colaborativo. Participación activa en los procesos de Gestión Humana. Excelente clima laboral. ¡Postula y crece con nosotros! Buscamos personas comprometidas que quieran aportar al bienestar y desarrollo de nuestros colaboradores.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-lurin-planta-1118467428.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-lurin-planta-1118467428.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

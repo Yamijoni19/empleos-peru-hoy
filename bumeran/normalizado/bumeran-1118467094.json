@@ -1,0 +1,58 @@
+{
+    "id":  "bumeran-1118467094",
+    "clave":  "id:1118467094",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-planeamiento-financiero-tai-loy-s.-a.-1118467094.html",
+                   "capturadoEn":  "2026-10-06T01:19:33+00:00"
+               },
+    "titulo":  "Asistente de Planeamiento Financiero",
+    "empresa":  "Tai Loy S. A.",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "TAILOY, empresa líder en la distribución de útiles escolares, artículos de oficina, juguetería con mas de 60 años de participación en el mercado y continuo crecimiento. Nos encontramos en búsqueda del mejor talento para la posición de Asistente de Planeamiento Financiero y Presupuesto. ¿Cuáles son los retos? Elaboración del plan anual de los Estados Financieros del Grupo Tai Loy. Gestionar el módulo SAP FM (usuario responsable): Cargar del plan anual, realizar proyecto de inversiones, suplementos y traslados en el módulo SAP FM Seguimiento del cumplimiento de los covenants. Gestionar que el área y sirva de apoyo para el cumplimento del presupuesto anual. Gestionar las presentaciones para la gerencia y directores. Realizar reforecast mensuales del grupo Tai Loy. Enviar información financiera a la holding del grupo. Preparar información financiera para entidades bancarias. Analizar y preparar el avance del presupuesto de las áreas responsables. Otras funciones otorgadas por su jefe inmediato. ¿Qué buscamos? Graduado/a de la carrera de Finanzas, Contabilidad, Administración de Empresas o afines. Experiencia 2 años en la posición. Conocimiento SAP (deseable) Manejo de software. Excel intermedio/avanzado. Capacidad de análisis de base de datos. Beneficios: Ingreso a planilla desde el primer día de trabajo. Capacitaciones continuas y oportunidad de crecimiento. Pertenecer a una empresa Great Place to Work.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+                       "Ingreso a planilla desde el primer día de trabajo.",
+                       "Capacitaciones continuas y oportunidad de crecimiento.",
+                       "Pertenecer a una empresa Great Place to Work."
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-planeamiento-financiero-tai-loy-s.-a.-1118467094.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-planeamiento-financiero-tai-loy-s.-a.-1118467094.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

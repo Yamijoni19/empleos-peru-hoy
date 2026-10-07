@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466448",
+    "clave":  "id:1118466448",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/nexus-abogados-corporativo-requiere-practicante-en-derecho-nexus-abogados-corporativos-1118466448.html",
+                   "capturadoEn":  "2026-10-06T20:59:28+00:00"
+               },
+    "titulo":  "NEXUS ABOGADOS CORPORATIVO REQUIERE PRACTICANTE EN DERECHO",
+    "empresa":  "NEXUS ABOGADOS CORPORATIVOS",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  500,
+                    "max":  900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 500 - S/ 900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Perfil requerido: Estudiante de la carrera de Derecho, de preferencia a partir del 7° ciclo. Interés en Derecho Administrativo, Civil, Laboral y/o gestión pública. Conocimientos básicos en redacción de documentos jurídicos, búsqueda normativa y análisis de expedientes. Manejo de Microsoft Office a nivel usuario. Buena redacción, ortografía y capacidad de análisis. Persona responsable, organizada, proactiva y con disposición para aprender. Principales funciones: Apoyo en la revisión y seguimiento de expedientes y documentación legal. Búsqueda y actualización de normativa, jurisprudencia y doctrina. Apoyo en la elaboración de informes, escritos, cartas y otros documentos jurídicos. Organización y archivo de documentación. • Apoyo en trámites administrativos y seguimiento de procedimientos. Elaboración de cuadros de seguimiento y reportes. Otras actividades de apoyo jurídico vinculadas a su formación profesional. Competencias: Responsabilidad y puntualidad. Capacidad de organización. Atención al detalle. Buena comunicación. Capacidad para trabajar en equipo. Iniciativa y disposición para aprender. Se ofrece: • Aprendizaje y experiencia práctica en asuntos jurídicos. • Orientación y acompañamiento profesional. • Posibilidad de participar en la elaboración y revisión de documentos legales. • Certificado o constancia de prácticas, según corresponda. • Subvención económica mensual a tratar. Los interesados deberán enviar su CV actualizado, indicando en el asunto: “Practicante de Derecho”.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/nexus-abogados-corporativo-requiere-practicante-en-derecho-nexus-abogados-corporativos-1118466448.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/nexus-abogados-corporativo-requiere-practicante-en-derecho-nexus-abogados-corporativos-1118466448.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

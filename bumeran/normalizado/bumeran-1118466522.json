@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466522",
+    "clave":  "id:1118466522",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-comercial-ironmaxx-peru-1118466522.html",
+                   "capturadoEn":  "2026-10-06T20:59:05+00:00"
+               },
+    "titulo":  "Practicante Comercial",
+    "empresa":  "IRONMAXX PERÚ",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Comercial Resumen del Puesto En IRONMAXX PERÚ SAC , empresa en crecimiento ubicada en Surquillo, nos encontramos en la búsqueda de un Practicante Comercial con ganas de aprender, desarrollar sus habilidades y crecer profesionalmente en el área comercial. Si eres una persona proactiva, responsable y con interés en el rubro comercial, esta es tu oportunidad para adquirir experiencia y potenciar tu desarrollo profesional en un ambiente dinámico, con capacitación constante y aprendizaje continuo. Funciones Apoyar en el estudio, análisis y segmentación de mercado. Prospectar y contactar clientes potenciales. Brindar asesoría comercial y dar seguimiento a clientes durante el proceso de venta. Fidelizar la cartera de clientes mediante una atención personalizada. Ofrecer un excelente servicio postventa para fortalecer la satisfacción del cliente. Apoyar en el registro y llenado de documentación comercial y de ventas. Elaborar reportes semanales de actividades y resultados. Participar en capacitaciones comerciales y de desarrollo de habilidades de liderazgo. Requisitos Estudiantes universitarios de Administración, Negocios, Ingeniería Industrial, Marketing o carreras afines (a partir de 7mo ciclo). Buena comunicación verbal y escrita. Actitud comercial, organización y responsabilidad. Capacidad de aprendizaje y orientación a resultados. Manejo básico de Excel y herramientas digitales. Disponibilidad para realizar prácticas presenciales en Surquillo . Beneficios Subvención económica mensual de S/ 1, 1 3 0. Capacitación constante y acompañamiento en tu desarrollo profesional. Constancia y certificado de prácticas pre profesionales. Horario flexible de lunes a viernes.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-comercial-ironmaxx-peru-1118466522.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-comercial-ironmaxx-peru-1118466522.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

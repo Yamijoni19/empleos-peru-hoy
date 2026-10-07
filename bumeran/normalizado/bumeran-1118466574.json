@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466574",
+    "clave":  "id:1118466574",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-administracion-pet-friendly-1118466574.html",
+                   "capturadoEn":  "2026-10-06T15:58:06+00:00"
+               },
+    "titulo":  "Practicante de Administración",
+    "empresa":  "PET FRIENDLY",
+    "ubicacion":  "Lima - Barranco",
+    "ciudad":  "Barranco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Profesional Administrativo Resumen del Puesto Estamos en búsqueda de un(a) Practicante Profesional Administrativo para brindar apoyo en las actividades administrativas y operativas. El candidato ideal será una persona proactiva, organizada y con gran capacidad de aprendizaje, interesada en desarrollarse en un entorno dinámico. Responsabilidades Apoyo en la gestión y control de inventarios. Atención y seguimiento de los requerimientos de las áreas durante los turnos de día y tarde. Apoyo en la reposición de mercadería e insumos en las diferentes áreas de Internamiento y Consultorios de Medicina Interna . Apoyo en la gestión y registro del cobro de medicamentos de pacientes internos en el sistema. Otras funciones relacionadas con el área administrativa y operativa. Requisitos Estudiante o egresado de carreras técnicas o universitarias relacionadas a Administración, Secretariado, o afines. Conocimientos básicos de herramientas ofimáticas (procesador de texto, hojas de cálculo, presentaciones). Habilidades de organización y gestión del tiempo. Capacidad para trabajar en equipo y seguir instrucciones. Actitud proactiva y disposición para aprender.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-administracion-pet-friendly-1118466574.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-administracion-pet-friendly-1118466574.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

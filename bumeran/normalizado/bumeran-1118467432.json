@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467432",
+    "clave":  "id:1118467432",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/soporte-tecnico-n2-hitss-peru-1118467432.html",
+                   "capturadoEn":  "2026-10-05T10:26:32+00:00"
+               },
+    "titulo":  "Soporte tecnico N2",
+    "empresa":  "Hitss Perú",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  100,
+                    "max":  100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Sueldo en planilla 100",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Somos una empresa de Soluciones Digitales y Servicios de TI con 30 años de experiencia en el mercado. Contamos con más de 8 mil colaboradores en Latinoamérica, Estados Unidos y Europa. Te invitamos a ser parte de nuestro equipo ocupando el cargo de: OPERADOR DE MESA DE AYUDA N2 VIPS - LA POSITIVA Requisitos: -Egresado tecnico o Universitario de carrera de ing. de sistemas o afines -Conocimientos en Windows desktop (W7, W8.1, W10), Office , Office 365, Microsoft365 y networking nivel I. - 1 de año de experiencia en mesas de ayuda , servide desk , soporte tecnico con tickets Funciones: Atención y soporte técnico VIP a gerentes, subgerentes y usuarios de alta prioridad. Diagnóstico y solución de incidentes de hardware y software. Soporte a laptops, PCs, monitores, impresoras, celulares y periféricos. Instalación, configuración y actualización de sistemas y aplicaciones corporativas. Gestión y seguimiento de tickets mediante herramientas de mesa de ayuda. Coordinación con otras áreas de TI para la atención y solución de incidentes. Horarios: L- S ||| Lunes a Viernes rotativo entre 7 am - 7 pm ( 8 horas asignadas dentro de ese rango ) || Sabados: 7 am - 1 pm Lugar de trabajo : Edificio de la Positiva - san isidro (Presencial) Beneficios: Pertenecer al grupo América Móvil. Sueldo en planilla 100% desde el primer día. EPS corporativa (opcional). Convenios corporativos. “Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/soporte-tecnico-n2-hitss-peru-1118467432.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/soporte-tecnico-n2-hitss-peru-1118467432.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

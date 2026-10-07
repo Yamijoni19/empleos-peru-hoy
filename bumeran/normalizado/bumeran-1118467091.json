@@ -1,0 +1,58 @@
+{
+    "id":  "bumeran-1118467091",
+    "clave":  "id:1118467091",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-regional-de-recuperaciones-region-cajamarca-amazonas-ref-1716-2026-caja-cusco-1118467091.html",
+                   "capturadoEn":  "2026-10-06T01:19:34+00:00"
+               },
+    "titulo":  "SUPERVISOR REGIONAL DE RECUPERACIONES REGIÓN CAJAMARCA - AMAZONAS / REF 1716 2026",
+    "empresa":  "CAJA CUSCO",
+    "ubicacion":  "Cajamarca",
+    "ciudad":  "Cajamarca",
+    "region":  "Cajamarca",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Responsabilidades Dirigir, controlar y supervisar la ejecución de los procesos de recuperación de créditos en cartera vencida y extrajudicial otorgados por Caja Cusco en las Regiones y Agencias asignadas, así como del cumplimiento de las metas de recuperaciones en cartera vencida, extrajudicial y cuentas asignadas por la Jefatura de Recuperaciones. Analizar las carteras y coordinar con el Gerente Regional, Gerente de Agencia, Coordinadores de Crédito y Gestores de Cobranza las acciones de seguimiento, control y contención de mora a fin de contribuir con la disminución de las provisiones en las Agencias de la(s) Región(es) a su cargo. Evaluar los indicadores de morosidad de las Agencias y efectuar visitas a las Agencias con mayor indicador de mora para coordinar con el personal de la Agencia las acciones a ejecutar para la recuperación de créditos de la cartera vencida y extrajudicial Efectuar visitas a los principales clientes de la cartera de vencida y extrajudicial en coordinación con el Gerente Regional y Gestores de Cobranzas, a fin de contribuir en la efectiva recuperación de los créditos. Supervisar y evaluar la aplicación y el grado de cumplimiento de la normatividad vigente relativa a la gestión de recuperaciones al personal de la Agencia a fin de asegurar el cumplimiento estricto de la normativa y de las disposiciones emitidas por la Gerencia Central y la Gerencia de Recuperaciones. El presente no contempla todas las funciones y responsabilidades asignadas al trabajador . Competencias Desarrollo de Equipos Pensamiento Estrategico Capacidad de Gestión Orientación a Resultados Requisitos Mínimos Formación: Bachiller o Título Profesional Universitario (inscrito en SUNEDU)..-Derecho, Administración, Economía, Contabilidad, Ingeniería Económica, Ingeniería industrial u otras carreras afines al cargo que postula. Experiencia: Dos (2) años en el mismo cargo o tres (3) años en cargos de Gestor de Cobranza o puestos equivalentes desempeñando funciones relacionadas al cargo que postula. Conocimientos Poseer el menos un (1) curso de especialización en materias relacionadas al cargo. Fecha límite de postulación: Domingo 11 de Octubre del 2026.",
+    "requisitos":  [
+                       "Bachiller o Título Profesional Universitario (inscrito en SUNEDU)..-Derecho, Administración, Economía, Contabilidad, Ingeniería Económica, Ingeniería industrial u otras carreras afines al cargo que postula.",
+                       "Dos (2) años en el mismo cargo o tres (3) años en cargos de Gestor de Cobranza o puestos equivalentes desempeñando funciones relacionadas al cargo que postula."
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-regional-de-recuperaciones-region-cajamarca-amazonas-ref-1716-2026-caja-cusco-1118467091.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-regional-de-recuperaciones-region-cajamarca-amazonas-ref-1716-2026-caja-cusco-1118467091.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

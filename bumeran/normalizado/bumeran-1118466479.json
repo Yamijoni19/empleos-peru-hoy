@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466479",
+    "clave":  "id:1118466479",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-control-de-pinturas-y-materiales-pyp-sportwagen-1118466479.html",
+                   "capturadoEn":  "2026-10-06T20:59:17+00:00"
+               },
+    "titulo":  "OPERARIO DE CONTROL DE PINTURAS Y MATERIALES PyP",
+    "empresa":  "SPORTWAGEN",
+    "ubicacion":  "Lima - Manchay",
+    "ciudad":  "Manchay",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1301,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,301",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "\u0026#x1f4cd; Sede: Manchay, Lima \u0026#x1f3e2; Área: Planchado y Pintura \u0026#x1f4b0; Remuneración: S/ 1, 3 0 0 \u0026#x1f4c4; Régimen: MYPE ¿Qué buscamos? En Hyundai Sportwagen , buscamos incorporar un Operario de Control de Pinturas y Materiales PyP , responsable de gestionar y controlar el ingreso, almacenamiento, entrega y consumo de pinturas y materiales utilizados en el área de Planchado y Pintura, asegurando el correcto control de inventarios, consumos y mermas. Principales funciones Recepcionar, verificar y almacenar pinturas, materiales y suministros del área de Planchado y Pintura. Controlar la entrega de pinturas y materiales a los pintores según los requerimientos autorizados. Coordinar con el Matizador la preparación y entrega de pinturas de acuerdo con las órdenes de trabajo. Registrar diariamente los ingresos, salidas y consumos de materiales. Mantener actualizados los registros y planillas de control de consumo y valorización. Realizar inventarios diarios, selectivos y mensuales, identificando diferencias, faltantes, sobrantes y mermas. Controlar el consumo de materiales por Orden de Trabajo. Coordinar la liquidación de materiales utilizados en cada trabajo. Elaborar reportes de consumo, rotación, mermas y valorización de materiales. Mantener el área de almacenamiento ordenada, limpia y segura, cumpliendo las normas de seguridad correspondientes. Reportar oportunamente diferencias de inventario, consumos no sustentados, pérdidas o desviaciones. Requisitos Secundaria completa o estudios técnicos. Deseable formación técnica en Logística, Administración, Almacenes o procesos automotrices . Experiencia mínima de 1 año en control de inventarios, almacenes o talleres de Planchado y Pintura. Conocimientos en: Control de inventarios. Gestión de almacenes. Materiales de pintura automotriz. Control de consumos y costos. Manejo de Excel y Microsoft Office . Deseable manejo de sistemas ERP o WMS . Deseable conocimiento de repuestos y/o procesos automotrices. Competencias Orden y control. Atención al detalle. Organización y disciplina. Honestidad e integridad. Orientación a resultados. Trabajo en equipo. Capacidad analítica. ¿Qué ofrecemos? Ingreso a una empresa del sector automotriz. Desarrollo y aprendizaje en procesos de Planchado y Pintura . Integración a un equipo de trabajo orientado a la mejora continua. Buen ambiente laboral. Condiciones Remuneración: S/ 1, 3 0 0 mensuales. Régimen MYPE. Lugar de trabajo: Manchay, Lima. Si cuentas con experiencia en almacenes, inventarios o materiales de pintura automotriz y estás interesado en formar parte de nuestro equipo, ¡postula con nosotros!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-control-de-pinturas-y-materiales-pyp-sportwagen-1118466479.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-control-de-pinturas-y-materiales-pyp-sportwagen-1118466479.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

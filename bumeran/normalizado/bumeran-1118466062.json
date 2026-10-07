@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466062",
+    "clave":  "id:1118466062",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-y-compras-sinnens-s.r.l.-1118466062.html",
+                   "capturadoEn":  "2026-10-07T00:43:08+00:00"
+               },
+    "titulo":  "Asistente de Logística y Compras",
+    "empresa":  "SINNENS S.R.L.",
+    "ubicacion":  "Moquegua - Mariscal Nieto",
+    "ciudad":  "Mariscal Nieto",
+    "region":  "Moquegua",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Únete al equipo de SINNENS S.R.L. ! Somos una empresa sólida y en constante crecimiento, especializada en Construcción. Nos caracterizamos por nuestra innovación, calidad de servicio y, sobre todo, por apostar por nuestro talento humano. Si eres una persona proactiva y buscas desarrollarte en un entorno dinámico, ¡queremos conocerte! Asistente de Logística y Compras Resumen del Puesto Estamos en la búsqueda de un Asistente de Logística y Compras proactivo y organizado para integrarse a nuestro equipo. El candidato ideal poseerá habilidades sólidas en la gestión de procesos logísticos y de adquisición, con capacidad para trabajar tanto en entornos de oficina como en operaciones de campo. Responsabilidades Principales Gestionar el ciclo completo de compras, incluyendo la recepción de requerimientos, la elaboración de cotizaciones, análisis comparativos y la emisión y seguimiento de órdenes de compra y servicio. Establecer y mantener una comunicación fluida con proveedores para asegurar la entrega eficiente de suministros y servicios. Coordinar y ejecutar el transporte físico de materiales, ya sea para proyectos, almacenes o puntos de trabajo. Asegurar el control y la correcta documentación de todas las transacciones, incluyendo facturas, guías de remisión e inventarios. Colaborar en la planificación y optimización de rutas y entregas. Requisitos del Puesto Formación técnica o universitaria (egresado o bachiller) en Administración, Ingeniería Industrial, Logística o carreras afines. Experiencia previa de 1 a 2 años en funciones de logística y compras. Se valorará experiencia en sectores como minería, construcción o servicios. Dominio de Microsoft Excel a nivel intermedio. Se considerará deseable el manejo de sistemas ERP y la posesión de licencia de conducir vigente. Disponibilidad para un esquema de trabajo mixto, que incluye actividades de oficina y desplazamiento a campo para tareas operativas (recolección de materiales, visitas a proveedores, traslados). Capacidad para el trabajo en equipo y excelentes habilidades de organización. Lunes a Viernes: 8 - 5 Sábados: 8 - 1",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-y-compras-sinnens-s.r.l.-1118466062.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-y-compras-sinnens-s.r.l.-1118466062.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

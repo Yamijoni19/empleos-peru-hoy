@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118467431",
+    "clave":  "id:1118467431",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/teleoperador-de-atencion-mincetur-hitss-peru-1118467431.html",
+                   "capturadoEn":  "2026-10-05T10:26:33+00:00"
+               },
+    "titulo":  "teleoperador de atención - MINCETUR",
+    "empresa":  "Hitss Perú",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  100,
+                    "max":  100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Sueldo en planilla 100",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "En Hitss Perú SAC somos una empresa líder en soluciones digitales y servicios de TI, con más de 30 años de experiencia en el mercado. Formamos parte del Grupo América Móvil y contamos con más de 8,000 colaboradores en Latinoamérica, Estados Unidos y Europa. Actualmente nos encontramos en la búsqueda de perfiles en Atención al Cliente - Call center - MINCETUR . REQUISITOS: Habilidades de comunicación asertiva, trabajo en equipo y orientación al cliente. Experiencia mínima de 2 años como teleoperador , Call Center, asesor crosseling , televentas, Mesa de Ayuda, Soporte tecnico, Operación de Sistemas u Operaciónes. ( INDISPENSABLE ) FUNCIONES: Atender las llamadas y consultas de administradores, entidades y usuarios que se comuniquen con la Mesa de Ayuda. Derivar, escalar y dar seguimiento a tickets hacia otros niveles de atención, validando su correcta clasificación, registro y trazabilidad hasta el cierre. Orientar y atender consultas especializadas de acuerdo con los protocolos definidos por el cliente. Brindar asesoría técnica a los usuarios sobre los sistemas y plataformas correspondientes. MODALIDAD Y LUGAR: Modalidad: Presencial. Lugar de trabajo: Urb. Santa Catalina - La Victoria . BENEFICIOS: Pertenecer al grupo América Móvil. Sueldo en planilla 100% desde el primer día, con todos los beneficios de ley. EPS cubierta al 50% (opcional). Oportunidad de Linea de Carrera. Capacitación en uso de plataforma. Ambiente laboral agradable. Convenios corporativos. “Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web: http://www.globalhitss.com/",
+    "requisitos":  [
+                       "Habilidades de comunicación asertiva, trabajo en equipo y orientación al cliente.",
+                       "Experiencia mínima de 2 años como teleoperador , Call Center, asesor crosseling , televentas, Mesa de Ayuda, Soporte tecnico, Operación de Sistemas u Operaciónes. ( INDISPENSABLE )"
+                   ],
+    "funciones":  [
+                      "Atender las llamadas y consultas de administradores, entidades y usuarios que se comuniquen con la Mesa de Ayuda.",
+                      "Derivar, escalar y dar seguimiento a tickets hacia otros niveles de atención, validando su correcta clasificación, registro y trazabilidad hasta el cierre.",
+                      "Orientar y atender consultas especializadas de acuerdo con los protocolos definidos por el cliente.",
+                      "Brindar asesoría técnica a los usuarios sobre los sistemas y plataformas correspondientes."
+                  ],
+    "beneficios":  [
+                       "Pertenecer al grupo América Móvil.",
+                       "Sueldo en planilla 100% desde el primer día, con todos los beneficios de ley.",
+                       "EPS cubierta al 50% (opcional).",
+                       "Oportunidad de Linea de Carrera.",
+                       "Capacitación en uso de plataforma.",
+                       "Ambiente laboral agradable.",
+                       "Convenios corporativos."
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/teleoperador-de-atencion-mincetur-hitss-peru-1118467431.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/teleoperador-de-atencion-mincetur-hitss-peru-1118467431.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

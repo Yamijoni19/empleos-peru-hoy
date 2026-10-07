@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466034",
+    "clave":  "id:1118466034",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-y-comercial-distribuidora-ferretera-abar-1118466034.html",
+                   "capturadoEn":  "2026-10-07T07:14:40+00:00"
+               },
+    "titulo":  "Auxiliar Administrativo y Comercial",
+    "empresa":  "DISTRIBUIDORA FERRETERA ABAR",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1350,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,350",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar Administrativo y Comercial Resumen del Puesto Estamos en la búsqueda de un Auxiliar Administrativo y Comercial proactivo y organizado para brindar soporte integral a las áreas administrativa y de ventas. El candidato ideal poseerá habilidades de gestión, comunicación y una fuerte orientación al detalle. OBJETIVO DEL PUESTO Incorporar a una auxiliar administrativa y comercial responsable de dar soporte al área administrativa y de ventas. FUNCIONES PRINCIPALES - Realizar facturación y guía de pedidos. - Atención y asesoría a clientes (telefónica y digital). - Venta de productos ferreteros y seguimiento de pedidos. - Elaboración de cotizaciones. - Coordinación con logística para despacho de mercadería. - Seguimiento de pagos y cobranzas. - Captación de nuevos clientes y mantenimiento de cartera. - Cumplimiento de metas comerciales. -Elaboración de reportes que solicite su superior. REQUISITOS - Experiencia mínima de 6 meses en ventas, deseable en rubro ferretero o construcción, no excluyente. - Nivel de estudios, técnico/profesional culminado o en los últimos de las carrera de Administración, Ingeniería industrial o afines. (Horario de clases no interfiera con el laboral). - Manejo intermedio de Office y Excel. (Indispensable). - Buenas habilidades de comunicación y negociación. - Responsabilidad, proactividad y puntualidad. CONDICIONES LABORALES - Modalidad: Presencial en San Isidro - Horario: Lunes a viernes 8: 3 0am- 5: 3 0pm / Sábado 8: 3 0am- 1 2: 3 0pm - Tipo de contrato: 3 meses de prueba con renovación Adjuntar CV al correo: , ASUNTO: AUXILIAR ADMINISTRATIVA (ventas 1",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-y-comercial-distribuidora-ferretera-abar-1118466034.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-y-comercial-distribuidora-ferretera-abar-1118466034.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

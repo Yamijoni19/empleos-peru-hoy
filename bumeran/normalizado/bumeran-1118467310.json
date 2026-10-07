@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467310",
+    "clave":  "id:1118467310",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-full-stack-gmp-geoservices-sa-1118467310.html",
+                   "capturadoEn":  "2026-10-05T19:49:04+00:00"
+               },
+    "titulo":  "Desarrollador Full Stack",
+    "empresa":  "GMP Geoservices SA",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Desarrollador Full Stack Resumen del Puesto Buscamos un Desarrollador Full Stack con experiencia para unirse a nuestro equipo dinámico. El candidato ideal será responsable del desarrollo y mantenimiento de aplicaciones web, trabajando tanto en el frontend como en el backend. Se valorará la capacidad para diseñar, implementar y optimizar soluciones tecnológicas. Responsabilidades Desarrollo de interfaces de usuario interactivas y responsivas utilizando React y TypeScript. Implementación de APIs y lógica de negocio en el backend con Python y FastAPI. Gestión y optimización de bases de datos relacionales, incluyendo PostgreSQL y PostGIS. Integración y configuración de sistemas de información geográfica como GeoServer. Desarrollo y consumo de servicios utilizando librerías de mapas como MapLibre u OpenLayers. Contenerización de aplicaciones con Docker. Despliegue y gestión de infraestructura en entornos cloud como Azure o AWS. Colaboración en el control de versiones utilizando Git y plataformas como GitHub. Participación activa en todas las fases del ciclo de vida del desarrollo de software. Resolución de problemas técnicos y optimización del rendimiento de las aplicaciones. Requisitos Experiencia comprobada en desarrollo Full Stack. Dominio de React y TypeScript para el desarrollo frontend. Sólidos conocimientos de Python y FastAPI para el desarrollo backend. Experiencia trabajando con bases de datos, especialmente PostgreSQL y PostGIS. Conocimiento de herramientas y conceptos de Sistemas de Información Geográfica (SIG). Experiencia con Docker para la contenerización. Familiaridad con plataformas cloud como Azure o AWS. Experiencia en el uso de Git para el control de versiones. Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades de comunicación y resolución de problemas.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2026-12-03",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-full-stack-gmp-geoservices-sa-1118467310.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-full-stack-gmp-geoservices-sa-1118467310.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

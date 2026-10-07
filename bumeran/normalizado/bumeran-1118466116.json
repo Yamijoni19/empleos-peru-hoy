@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466116",
+    "clave":  "id:1118466116",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/egresado-de-ingenieria-mecatronica-o-biomedica-synergie-lab-sac-1118466116.html",
+                   "capturadoEn":  "2026-10-07T00:42:46+00:00"
+               },
+    "titulo":  "Egresado de Ingeniería Mecatrónica o Biomédica",
+    "empresa":  "synergie lab sac",
+    "ubicacion":  "Lima - San Martín de Porres",
+    "ciudad":  "San Martín de Porres",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Sobre el puesto Somos una empresa dedicada a la comercialización, mantenimiento y desarrollo de equipos y soluciones para laboratorios , atendiendo principalmente a universidades, instituciones educativas y empresas. Buscamos un egresado de Ingeniería Mecatrónica o Ingeniería Biomédica con interés en desarrollarse en las áreas de electrónica, mantenimiento, diseño 3D, prototipado y soporte técnico de equipos de laboratorio. Requisitos Egresado de Ingeniería Mecatrónica o Ingeniería Biomédica . Conocimientos de electrónica y programación de microcontroladores . Manejo de software de diseño 3D, como Autodesk Fusion y/o Blender. Conocimientos en impresión 3D y/o equipos de fabricación como CNC. Disponibilidad para realizar viajes a diferentes ciudades del país . Licencia de conducir vigente. Inglés a nivel intermedio . Capacidad para aprender rápidamente y resolver problemas técnicos. Principales funciones Instalación, entrega y capacitación a usuarios sobre los equipos vendidos . Mantenimiento preventivo y correctivo de equipos de laboratorio. Diagnóstico y solución de fallas electrónicas, mecánicas y eléctricas . Diseño y desarrollo de prototipos y componentes para equipos de laboratorio . Elaboración y modificación de piezas mediante diseño e impresión 3D. Elaboración de informes técnicos sobre los servicios y mantenimientos realizados. Atención de servicios técnicos y soporte a clientes. Realización de viajes para instalación, mantenimiento y capacitación de equipos. Ofrecemos Flexibilidad de horario . Beneficios de ley. Capacitación técnica constante. Participación en proyectos de diseño, prototipado y desarrollo de equipos . Oportunidad de adquirir experiencia en diferentes áreas de la ingeniería y tecnología aplicada.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/egresado-de-ingenieria-mecatronica-o-biomedica-synergie-lab-sac-1118466116.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/egresado-de-ingenieria-mecatronica-o-biomedica-synergie-lab-sac-1118466116.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466451",
+    "clave":  "id:1118466451",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/soldador-barrenador-abc-1118466451.html",
+                   "capturadoEn":  "2026-10-06T20:59:23+00:00"
+               },
+    "titulo":  "Soldador / Barrenador",
+    "empresa":  "ABC",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2500,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,500 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "⚠️\u0026#x1f4e2; ¡Atención! ABC MINERA Y METALMECÁNICA S.A.C. informa: Soldador / Barrenador Resumen del Puesto Buscamos un Soldador / Barrenador con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un fuerte conocimiento de las técnicas de soldadura y barrenado, y será capaz de trabajar de forma independiente y como parte de un equipo. Responsabilidades Realizar tareas de soldadura y barrenado según las especificaciones. Trabajar con diversos materiales y equipos. Asegurar la calidad y seguridad en cada proceso. Colaborar con otros miembros del equipo para cumplir los objetivos. Mantener el área de trabajo limpia y organizada. Requisitos Experiencia comprobada como Soldador / Barrenador. Conocimiento de diferentes técnicas de soldadura y barrenado. Capacidad para leer e interpretar planos y especificaciones técnicas. Habilidad para trabajar con herramientas y maquinaria especializada. Compromiso con la seguridad y la calidad. Capacidad para trabajar de forma independiente y como parte de un equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/soldador-barrenador-abc-1118466451.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/soldador-barrenador-abc-1118466451.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

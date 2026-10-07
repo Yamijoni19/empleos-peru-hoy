@@ -1,0 +1,58 @@
+{
+    "id":  "bumeran-1118466566",
+    "clave":  "id:1118466566",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-pre-para-el-area-de-ventas-ironmaxx-peru-1118466566.html",
+                   "capturadoEn":  "2026-10-06T15:58:11+00:00"
+               },
+    "titulo":  "Practicante Pre para el Área de Ventas",
+    "empresa":  "IRONMAXX PERÚ",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Preprofesional de Ventas Resumen del puesto: En IRONMAXX PERÚ nos encontramos en la búsqueda de un/a Practicante de Ventas con alta energía, orientación al cliente y enfoque en metas. Buscamos a un estudiante apasionado por las ventas comerciales que desee desarrollar habilidades efectivas de prospección, presentación de productos y cierre de negocios en un entorno dinámico. Requisitos Estudiantes universitarios o técnicos de la carrera de Administración, Marketing, Ingeniería Industrial, Negocios o carreras afines. Pasión por el área comercial y atención al cliente. Facilidad de palabra, dinamismo, capacidad de persuasión y orientación al logro de objetivos. Manejo de Excel a nivel básico y herramientas digitales para gestión comercial. Funciones Principales Identificar y filtrar a prospectos potenciales. Realizar el seguimiento continuo a las cotizaciones y propuestas comerciales enviadas. Apoyar en el proceso de venta, cierre de negociación y emisión de documentación comercial. Mantener actualizados la base de datos de clientes y el registro de seguimiento realizados. Elaborar reportes semanales de avance y gestión de prospectos. Participar activamente en los talleres de capacitación técnica. Beneficios Subvención económica. Convenio y certificado de prácticas preprofesionales. Capacitación constante en estrategias de prospección. Excelente clima laboral y acompañamiento constante por parte del equipo comercial.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+                      "En IRONMAXX PERÚ nos encontramos en la búsqueda de un/a Practicante de Ventas con alta energía, orientación al cliente y enfoque en metas. Buscamos a un estudiante apasionado por las ventas comerciales que desee desarrollar habilidades efectivas de prospección, presentación de productos y cierre de negocios en un entorno dinámico."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-pre-para-el-area-de-ventas-ironmaxx-peru-1118466566.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-pre-para-el-area-de-ventas-ironmaxx-peru-1118466566.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466036",
+    "clave":  "id:1118466036",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vendedora-de-tienda-de-ciclismo-lince-y-miraflores-brayan-manrique-1118466036.html",
+                   "capturadoEn":  "2026-10-07T07:14:32+00:00"
+               },
+    "titulo":  "Vendedor(a) de Tienda de Ciclismo Lince y Miraflores",
+    "empresa":  "Brayan Manrique",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Vendedor(a) de Tienda de Ciclismo Resumen del Puesto Buscamos un(a) Vendedor(a) de Tienda con una marcada orientación al cliente, excelentes habilidades de comunicación y una gran disposición para aprender sobre nuestros productos. Si te apasiona el trato con el público y buscas un entorno dinámico, ¡esta oportunidad es para ti! Responsabilidades Atender y asesorar a los clientes de manera personalizada. Trabajar activamente para alcanzar y superar las metas de venta establecidas. Gestionar cobros y procesos de facturación de manera eficiente. Asegurar que los productos se mantengan ordenados, exhibidos correctamente y con la rotulación adecuada. Colaborar en la reposición y control de inventario de mercadería. Proporcionar información detallada sobre las características y beneficios de los productos. Requisitos Experiencia previa en ventas o atención al cliente. Habilidades de comunicación destacadas y orientación comercial. Se valorará la responsabilidad, puntualidad y una buena presentación personal. Conocimientos básicos de manejo de computadora. Disponibilidad para desempeñar funciones en un entorno de tienda. Ofrecemos Capacitación continua sobre nuestros productos y técnicas de venta. Un excelente ambiente laboral. Remuneración competitiva (fija más incentivos). Oportunidades de crecimiento profesional dentro de la organización.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/vendedora-de-tienda-de-ciclismo-lince-y-miraflores-brayan-manrique-1118466036.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vendedora-de-tienda-de-ciclismo-lince-y-miraflores-brayan-manrique-1118466036.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466086",
+    "clave":  "id:1118466086",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-produccion-y-mantenimiento-industrias-oreber-1118466086.html",
+                   "capturadoEn":  "2026-10-07T00:42:58+00:00"
+               },
+    "titulo":  "Asistente de Producción y Mantenimiento",
+    "empresa":  "Industrias Oreber",
+    "ubicacion":  "Junin - Concepción",
+    "ciudad":  "Concepción",
+    "region":  "Junin",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ndustrias Oreber Somos una empresa líder en el sector metalmecánico especializada en la fabricación de carrocerías, semirremolques, alargado de chasis e importación de accesorios rodoviarios. Nos encontramos en búsqueda de un profesional proactivo, estructurado y con un sólido liderazgo para sumarse a nuestro equipo operativo en Concepción. Objetivo del Puesto: Liderar la planificación y ejecución de los planes semanales de fabricación, coordinar el mantenimiento preventivo y correctivo del taller, atención al cliente, y gestionar con rigor los registros e insumos necesarios para garantizar el cumplimiento de plazos y estándares de calidad. Funciones Principales: Gestión y Planificación de la Producción: Planificar y supervisar el plan semanal de producción en coordinación con las gerencias. Controlar las etapas de la cadena de producción metalmecánica para garantizar entregas en los plazos fijados. Coordinación con clientes requerimientos o especificaciones durante el proceso productivo. Liderar y coordinar el personal operativo a cargo (con voz de mando, comunicación asertiva y gestión directa). Mantenimiento Técnico y Equipos: Coordinar y hacer seguimiento al programa de mantenimiento preventivo y correctivo de máquinas, equipos y herramientas de la planta. Velar por la disponibilidad operativa del equipamiento industrial. Control de Insumos y Registros: Gestionar el requerimiento de materiales y la entrega oportuna a los operarios en la línea de producción. Completar y archivar los registros operativos bajo lineamientos del sistema de gestión de calidad (estándar ISO 9 0 0 1). Requisitos: IFormación: Egresado o bachiller en Ingeniería Industrial, Ingeniería Mecánica, Ingeniería Mecatrónica, Ingeniería Electrónica o Técnico titulado en Mecánica Industrial, Mecánica de mantenimiento, Mecánica automotriz, Mecatrónica industrial o Administración Industrial. Experiencia: Experiencia en supervisión o coordinación de líneas/cadenas de producción. Experiencia demostrable en gestión de mantenimiento de maquinarias, equipos y herramientas industriales. Deseable experiencia en el diligenciamiento de registros ISO 9 0 0 1. Competencias y Habilidades: Liderazgo, voz de mando y habilidad para la dirección de equipos de trabajo. Capacidad de organización, manejo de tiempos y orientación al detalle. Residencia: Disponibilidad para laborar de forma presencial en Concepción, Junín. Jornada: Presencial | Lunes a Viernes de 8: 0 0 AM. a 6: 0 0 y Sábados de 8: 0 0 AM a 2: 0 0 PM ¿Qué ofrecemos? Remuneración de S/ 1, 5 0 0. 0 0 PEN. Pertenecer a una empresa consolidada en el sector metalmecánico y de fabricación industrial. Oportunidad de asumir responsabilidades clave en planificación y gestión de taller.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-produccion-y-mantenimiento-industrias-oreber-1118466086.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-produccion-y-mantenimiento-industrias-oreber-1118466086.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

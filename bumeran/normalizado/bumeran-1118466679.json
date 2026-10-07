@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466679",
+    "clave":  "id:1118466679",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-secretaria-comercial-estudio-contable-prado-cuzcano-1118466679.html",
+                   "capturadoEn":  "2026-10-06T15:57:42+00:00"
+               },
+    "titulo":  "Asistente Administrativa / Secretaria Comercial",
+    "empresa":  "ESTUDIO CONTABLE PRADO \u0026 CUZCANO",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativa / Secretaria Comercial Somos un estudio contable y nos encontramos en la busqueda de una profesional proactiva y organizada para desempeñar funciones de Asistente Administrativa / Secretaria Comercial . La candidata ideal poseerá habilidades sólidas en gestión administrativa y un entendimiento básico de procesos contables, con una fuerte orientación al servicio y la atención al detalle. Requisitos Formación técnica o universitaria en Secretariado, Administración, Contabilidad o áreas afines. Experiencia (mínimo 6 meses) en roles de secretariado, recepción o asistencia administrativa. Dominio Word y Excel a nivel intermedio. Excelentes habilidades de comunicación, fluidez verbal, orientación al cliente y amabilidad. Capacidad para manejar información con discreción y alta organización. Responsabilidad, compromiso y permanencia. Responsabilidades Gestionar el envío mensual de documentación, constancias de presentación, declaraciones a los clientes, asegurando claridad y orden. Emitir comprobantes de pagos y monitorear los depósitos de los clientes, manteniendo actualizado el registro de cuentas por cobrar. Gestionar el envío oportuno, amable y diplomático de recordatorios de pago y alertas de vencimiento vía WhatsApp. Revisar buzón electrónico de SUNAT de los clientes para identificar y gestionar notificaciones o requerimientos. Efectuar el seguimiento de registros de clientes, para verificar sus deudas y reportar hallazgos. Apoyo en coordinar, programar y hacer seguimiento de las reuniones virtuales/presenciales y llamadas de clientes con el contador. Participar en la difusión de información y campañas de servicio en vivo (Live) vía TikTok, transmitiendo dinamismo a la audiencia. Recibir, clasificar y registrar de manera ordenada la documentación e información enviada por los clientes para los trámites correspondientes. Otras gestiones durante el día solicitadas por el(la) contador(a). Horarios Lunes a Viernes: 9: 0 0 - 6: 3 0 pm / Sabados: 9: 0 0 am - 1: 0 0 pm Trabajo presencial: Residir cerca a Surco",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-secretaria-comercial-estudio-contable-prado-cuzcano-1118466679.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-secretaria-comercial-estudio-contable-prado-cuzcano-1118466679.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

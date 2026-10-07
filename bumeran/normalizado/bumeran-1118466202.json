@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466202",
+    "clave":  "id:1118466202",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-almma-consciente-1118466202.html",
+                   "capturadoEn":  "2026-10-07T00:42:40+00:00"
+               },
+    "titulo":  "Asistente de Logística",
+    "empresa":  "Almma Consciente",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1100,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,100 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Logística Resumen del Puesto Estamos en la búsqueda de un Asistente de Logística para integrarse a nuestro equipo. El rol principal será brindar soporte en diversas tareas administrativas y operativas dentro del área de logística. Responsabilidades Colaborar en el control y seguimiento de inventarios. Asistir en la preparación, revisión y despacho de pedidos. Participar en la organización y optimización del espacio de almacén. Realizar el registro y control de mercadería entrante y saliente. Apoyar en las tareas de carga y movilización de productos. Requisitos Formación secundaria completa o estudios técnicos en curso relacionados con logística, administración o áreas afines. Se valorará experiencia previa en roles similares. Habilidades organizativas y atención al detalle. Capacidad para trabajar de manera proactiva y con iniciativa. Actitud positiva y disposición para el aprendizaje continuo. Habilidad para trabajar eficientemente tanto de forma autónoma como en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-almma-consciente-1118466202.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-almma-consciente-1118466202.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

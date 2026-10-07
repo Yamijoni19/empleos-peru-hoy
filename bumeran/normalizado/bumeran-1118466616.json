@@ -1,0 +1,60 @@
+{
+    "id":  "bumeran-1118466616",
+    "clave":  "id:1118466616",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-de-licitaciones-llamkayku-1118466616.html",
+                   "capturadoEn":  "2026-10-06T15:57:54+00:00"
+               },
+    "titulo":  "Asistente Comercial de Licitaciones",
+    "empresa":  "LLAMKAYKU",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Objetivo del Puesto Apoyar administrativamente en la búsqueda, recopilación de información, armado de expedientes y seguimiento integral de propuestas para licitaciones públicas y privadas, garantizando el cumplimiento de los plazos y requisitos normativos. Funciones Principales Identificar y monitorear oportunidades de negocio en portales de contratación públicos y privados. Descargar y revisar pliegos, bases administrativas y especificaciones técnicas. Recopilar, actualizar y organizar la documentación legal, financiera y técnica de la empresa. Armar y presentar los expedientes de contratación en tiempo y forma. Dar seguimiento al proceso (consultas, subsanaciones, adjudicación y contratación). Requisitos del Perfil Educación: Técnico o Egresado en Administración, Derecho, Comercio Exterior, Contabilidad o afines. Experiencia: Mínimo de 1 año en gestión o apoyo en licitaciones públicas/privadas. Conocimientos Técnicos: Uso y manejo fluido de los sistemas y plataformas de contratación del Estado (ej., PLADICOP, SEACE, PERUCOMPRAS, Mercado Público u otros según el país) y plataformas electrónicas de licitación del sector privado. Manejo de Microsoft Office (Excel intermedio para análisis de precios e insumos). Manejo de herramientas de firma digital y gestión documental electrónica. Competencias: Alta atención al detalle, excelente organización, capacidad para trabajar bajo presión y estricto cumplimiento de plazos.",
+    "requisitos":  [
+                       "Uso y manejo fluido de los sistemas y plataformas de contratación del Estado (ej., PLADICOP, SEACE, PERUCOMPRAS, Mercado Público u otros según el país) y plataformas electrónicas de licitación del sector privado.",
+                       "Manejo de Microsoft Office (Excel intermedio para análisis de precios e insumos).",
+                       "Manejo de herramientas de firma digital y gestión documental electrónica."
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-de-licitaciones-llamkayku-1118466616.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-de-licitaciones-llamkayku-1118466616.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

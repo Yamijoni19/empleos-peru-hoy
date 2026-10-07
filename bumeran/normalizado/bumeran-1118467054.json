@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467054",
+    "clave":  "id:1118467054",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-comercial-bbva-|-planilla-bbva-|-miraflores-san-isidro-surquillo-trust-consulting-1118467054.html",
+                   "capturadoEn":  "2026-10-06T08:59:33+00:00"
+               },
+    "titulo":  "Asesor(a) Comercial BBVA | Planilla BBVA | Miraflores / San Isidro / Surquillo",
+    "empresa":  "TRUST CONSULTING",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Transforma la banca con nosotros! En BBVA, estamos redefiniendo la experiencia bancaria y queremos que seas parte de este cambio. Te ofrecemos la oportunidad de desarrollar tu carrera comercial en una empresa innovadora y con visión de futuro, donde cada día representa una nueva oportunidad de crecimiento y aprendizaje. ¡Únete a nosotros y se parte de la evolución! ¿Qué harás como Asesor(a) Comercial (Asesor Universal II)? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. Ejecutar todo tipo de transacciones bancarias de manera precisa y ágil. ¿Qué perfil buscamos? Estudiantes desde el V ciclo de carreras técnicas o desde el IX ciclo de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines. Experiencia mínima de 1 año en atención al cliente, ventas de productos o servicios. Alta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo. Disponibilidad para laborar de lunes a viernes. Disponibilidad para laborar en los distritos de Miraflores, San Isidro, Surquillo y Magdalena. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos. Contrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. Utilidades superiores al promedio del mercado. Crecimiento y desarrollo profesional constante. Día libre por tu cumpleaños. Capacitación continua a través del Campus BBVA. Acceso a descuentos y convenios corporativos. Somos Trust Services, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional. ¡Postula ahora y únete a la planilla de uno de los mejores bancos a nivel global!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-comercial-bbva-|-planilla-bbva-|-miraflores-san-isidro-surquillo-trust-consulting-1118467054.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-comercial-bbva-|-planilla-bbva-|-miraflores-san-isidro-surquillo-trust-consulting-1118467054.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

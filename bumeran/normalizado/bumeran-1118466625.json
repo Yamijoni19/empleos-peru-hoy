@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466625",
+    "clave":  "id:1118466625",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-restaurante-restoinvestments-s.a.c.-1118466625.html",
+                   "capturadoEn":  "2026-10-06T15:57:52+00:00"
+               },
+    "titulo":  "Auxiliar de almacén - Restaurante",
+    "empresa":  "RESTOINVESTMENTS S.A.C.",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En Grupo JV (Restaurantes Amore y Cielo Rosso) nos encontramos en búsqueda del mejor talento para cubrir la posición de un Auxiliar de almacén . Requisitos: Estudios técnicos y/o universitarios. Experiencia mínima de 3 meses en el puesto o afines. Excel intermedio indispensable. Conocimiento en inforest (No excluyente). Disponibilidad para realizar actividades que demanden esfuerzo físico. Disponibilidad para trabajar de Lunes a Sábado de 9: 0 0 am a 6: 0 0 pm ( 4 5 min refrigerio). Disponibilidad para laborar en Miraflores. Funciones: Almacenar los ingresos de materiales, equipos, insumos y otros según los procedimientos internos. Registrar los ingresos y salidas del almacén en sistema InfoRest. De ser necesario, actualizar los Kardex físicos. Destinar la ubicación del material dentro del espacio físico de trabajo; así como mantener el orden y limpieza del almacén Despachar los materiales para las areas o locales de la empresa, con el documento autorizado. Dar apoyo en la toma de inventarios. Seguir las indicaciones de sus superiores y jefes. Beneficios: Ingreso a planilla MYPE desde el primer día, con todos los beneficios sociales de acuerdo con ley. Sueldo S/ 1 5 0 0. 0 0 Alimentación Buen clima laboral",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-restaurante-restoinvestments-s.a.c.-1118466625.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-restaurante-restoinvestments-s.a.c.-1118466625.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

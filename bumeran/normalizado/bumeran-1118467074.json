@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467074",
+    "clave":  "id:1118467074",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-de-tiendas-sector-moda-textil-detalles-textiles-s.a.c-1118467074.html",
+                   "capturadoEn":  "2026-10-06T08:59:13+00:00"
+               },
+    "titulo":  "Asistente Comercial y de Tiendas - Sector Moda/Textil",
+    "empresa":  "Detalles Textiles S.A.C",
+    "ubicacion":  "Lima - Lurigancho",
+    "ciudad":  "Lurigancho",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Comercial y de Tiendas - Sector Moda/Textil Resumen del Puesto Buscamos un(a) Asistente Comercial y de Tiendas proactivo(a) y organizado(a) para integrarse a nuestro equipo. El rol es fundamental para apoyar en la gestión, seguimiento y control de nuestras tiendas físicas, contribuyendo al éxito comercial del área de moda y textil. Responsabilidades Apoyar en la gestión integral de las tiendas físicas. Realizar seguimiento de ventas, inventarios y desempeño del personal de tienda. Elaborar reportes, indicadores comerciales y dashboards. Analizar KPIs de ventas, inventarios, metas y desempeño comercial. Coordinar con el personal de tiendas para asegurar la correcta operación. Contribuir a la mejora continua de los procesos comerciales y de tienda. Requisitos Estudios técnicos o universitarios en Administración, Gestión Comercial, Ingeniería Industrial o carreras afines. Experiencia mínima deseable de 1 año en puestos comerciales, administrativos, retail o tiendas de ropa. Experiencia en seguimiento de ventas, gestión de inventarios y supervisión de personal de tienda. Manejo avanzado de Excel. Manejo avanzado de Power BI. Conocimiento en elaboración de reportes e indicadores comerciales. Comprensión de KPIs de ventas, inventarios, metas y desempeño comercial. Sólida capacidad de análisis, organización y seguimiento. Habilidades de comunicación y coordinación.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-de-tiendas-sector-moda-textil-detalles-textiles-s.a.c-1118467074.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-de-tiendas-sector-moda-textil-detalles-textiles-s.a.c-1118467074.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

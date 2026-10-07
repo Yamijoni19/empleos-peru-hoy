@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466545",
+    "clave":  "id:1118466545",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-comercial.-enertry-s.a.c.-1118466545.html",
+                   "capturadoEn":  "2026-10-06T15:58:18+00:00"
+               },
+    "titulo":  "Asesora Comercial.",
+    "empresa":  "ENERTRY S.A.C.",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,700 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Funciones Atender consultas de clientes a través de llamadas telefónicas, WhatsApp, redes sociales y otros canales digitales. Elaborar y realizar seguimiento a cotizaciones, proformas y oportunidades de venta. Identificar necesidades de los clientes y brindar asesoría comercial. Gestionar el cierre de ventas y mantener una adecuada atención postventa. Cumplir con las metas comerciales establecidas por la empresa Requisitos Experiencia en ventas, atención al cliente o puestos similares (deseable). Facilidad de comunicación y negociación. Orientación a resultados y cumplimiento de metas. Manejo básico de herramientas informáticas y redes sociales. Responsabilidad, organización y compromiso. Beneficios Sueldo: S/ 1, 8 0 0. 0 0 Ingreso a planilla. Excelente ambiente laboral. Oportunidad de crecimiento y desarrollo profesional en un sector con alta proyección. Horario Lunes a viernes: 9: 0 0 a 6: 0 0 Sábados: 9: 0 0 a 1: 0 0",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-comercial.-enertry-s.a.c.-1118466545.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-comercial.-enertry-s.a.c.-1118466545.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

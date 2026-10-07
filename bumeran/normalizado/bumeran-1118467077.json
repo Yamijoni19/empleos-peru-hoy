@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467077",
+    "clave":  "id:1118467077",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-montacarguista-comas-1118467077.html",
+                   "capturadoEn":  "2026-10-06T08:59:12+00:00"
+               },
+    "titulo":  "ASISTENTE de Almacén MONTACARGUISTA - COMAS",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Comas",
+    "ciudad":  "Comas",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Estamos en la búsqueda del mejor talento para ocupar la posición de AUXILIAR DE ALMACÉN para nuestra tienda ubicada en Comas que cumpla con el siguiente perfil: PERFIL: - Estudios truncos en mecánica automotriz y/o carreras afines (Deseable). - Experiencia mínima de 1 año en manejo de montacargas (Indispensable) - Contar con certificado de capacitación operador de montacarga (Deseable) - Office a nivel usuario (Indispensable). - Disponibilidad para laborar en el Comas de lunes a sabado ( 48 horas semanales - según malla horaria en el rango de 8am - 6pm). FUNCIONES: - Mantener el ordenamiento y limpieza de su área de trabajo. - Realizar el conteo, revisión y verificación de la mercadería que ingresa a la tenda. - Cumplir con la ubicación y reubicación de la mercadería de la tienda. - Realizar el Picking a cabalidad asegurándose que sea el producto exacto y preciso. - Mantener el cuidado de los equipos o herramientas manuales, mecánicos o motorizados asignados a la tienda. - Participar de manera directa e involucrada en los inventarios de la tienda. - Realizar el registro diario de los montacargas y apiladores (Check List). - Trasladar mercadería de los racks. - Operar los montacargas, con prudencia en la conducción del vehículo, evitando poner en riesgo a sus compañeros y/o mercadería con la finalidad de dar ubicación a los productos según su área de trabajo. - Realizar la verificación del estado del montacarga al comienzo de las actividades. - Cumplir las normas de seguridad para la operación de montacargas, asimismo hacer uso de los implementos de seguridad, durante la jornada de trabajo. - Otras funciones asignadas por su jefe inmediato. BENEFICIOS: - Planilla desde el 1° día de labores. - Alimentación cubierta al 50%. - A partir del 6° mes cobertura de EPS al 50% - Utilidades ¡Te estamos buscando ¡ ! Postula y se parte de la gran familia Implementos Perú SAC ¡",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-montacarguista-comas-1118467077.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-montacarguista-comas-1118467077.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
