@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465853",
+    "clave":  "id:1118465853",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/aistente-de-almacen-inga-express-1118465853.html",
+                   "capturadoEn":  "2026-10-07T07:15:14+00:00"
+               },
+    "titulo":  "AISTENTE DE ALMACEN",
+    "empresa":  "INGA EXPRESS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1280,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,280 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ASISTENTE DE ALMACEN Resumen del Puesto Estamos en la búsqueda de un ASISTENTE DE ALMACEN proactivo y organizado para gestionar la recepción y despacho de mercadería. El candidato ideal poseerá habilidades para el conteo de bultos y un manejo competente de herramientas ofimáticas, especialmente en el uso de hojas de cálculo. Responsabilidades Recepción de mercadería, verificando cantidades y estado de los bultos. Despacho de mercadería, asegurando la correcta preparación de los pedidos. Conteo y registro de bultos y unidades. Requisitos Experiencia previa en roles de recepción, despacho o control de stock. Habilidad demostrable para el conteo y verificación de mercadería. Conocimiento de herramientas ofimáticas, con especial énfasis en Excel para tareas de registro y control.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/aistente-de-almacen-inga-express-1118465853.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/aistente-de-almacen-inga-express-1118465853.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

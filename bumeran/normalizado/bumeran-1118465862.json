@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465862",
+    "clave":  "id:1118465862",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-soporte-tecnico-de-campo-jamtec-1118465862.html",
+                   "capturadoEn":  "2026-10-07T07:15:13+00:00"
+               },
+    "titulo":  "Técnico de Soporte / Técnico de Campo",
+    "empresa":  "JAMTEC",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  100,
+                    "max":  100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.100",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Técnico de Soporte / Técnico de Campo Resumen del Puesto Estamos en la búsqueda de personas interesadas en desarrollarse como Técnicos de Soporte / Técnicos de Campo para realizar atenciones eventuales, principalmente relacionadas con la renovación de equipos desktop. Buscamos personas responsables, proactivas y con interés en desarrollarse en el área de soporte informático. No es indispensable contar con experiencia previa, ya que se brinda capacitación y orientación para las actividades del servicio. También se consideran perfiles de practicantes de último ciclo de carreras relacionadas con Computación, Informática y Sistemas. Actividades Principales Realizar soporte técnico en campo. Instalar, configurar y reemplazar equipos informáticos. Realizar diagnósticos y resolución de incidencias técnicas. Documentar las intervenciones realizadas. Requisitos Formación técnica o Autodidacta de Computación, Informática, Sistemas o afines. Interés en el área de soporte informático. Capacidad para el trabajo en campo y resolución de problemas. Habilidades de comunicación y atención al usuario. Proactividad y responsabilidad.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-soporte-tecnico-de-campo-jamtec-1118465862.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-soporte-tecnico-de-campo-jamtec-1118465862.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

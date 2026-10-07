@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118466031",
+    "clave":  "id:1118466031",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-veterinario-colegiado-con-experiencia-en-gatos-luhho-pets-luhho-pets-1118466031.html",
+                   "capturadoEn":  "2026-10-07T07:14:48+00:00"
+               },
+    "titulo":  "Médico Veterinario Colegiado - Con experiencia en gatos",
+    "empresa":  "LUHHO PETS LUHHO PETS",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,000 - S/ 4,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En LuhhoCoons nos encontramos en la búsqueda de un Médico Veterinario para incorporarse a nuestro equipo y formar parte de un espacio especializado en el bienestar y atención de pacientes felinos. Médico Veterinario - Medicina Felina Resumen del Puesto Buscamos un Médico Veterinario apasionado por la medicina felina para integrarse a nuestro equipo. El ambiente de trabajo es dinámico y enfocado en el bienestar animal, promoviendo un trato especializado y respetuoso hacia nuestros pacientes. Responsabilidades Brindar atención médica integral, incluyendo evaluaciones clínicas, diagnósticos y procedimientos quirúrgicos. Solicitar e interpretar exámenes auxiliares para un diagnóstico preciso. Asesorar y comunicarse directamente con los tutores sobre tratamientos, cuidados preventivos y manejo de sus mascotas. Aplicar protocolos de manejo específicos para pacientes felinos, asegurando su bienestar. Mantener un manejo responsable y respetuoso de todos los pacientes. Requisitos Título de Médico Veterinario. Licencia profesional vigente. Experiencia comprobada en la atención y manejo clínico de pacientes felinos. Experiencia previa en clínicas veterinarias, con preferencia en aquellas especializadas en gatos. Conocimiento y aplicación de protocolos de manejo Cat Friendly. Experiencia en procedimientos médicos y quirúrgicos. Excelentes habilidades de trato, comunicación y orientación al cliente. Capacidad demostrada para trabajar en equipo. Actitud proactiva, responsable y comprometida con la profesión.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-veterinario-colegiado-con-experiencia-en-gatos-luhho-pets-luhho-pets-1118466031.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-veterinario-colegiado-con-experiencia-en-gatos-luhho-pets-luhho-pets-1118466031.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

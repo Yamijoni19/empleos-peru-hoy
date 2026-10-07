@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465887",
+    "clave":  "id:1118465887",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-zumac-villalobos-morante-luis-felipe-1118465887.html",
+                   "capturadoEn":  "2026-10-07T07:15:09+00:00"
+               },
+    "titulo":  "Asistente Administrativo",
+    "empresa":  "Zumac - Villalobos Morante Luis Felipe",
+    "ubicacion":  "Lambayeque - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lambayeque",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Zumac - Tecnología de Informacion Asistente Administrativo Resumen del Puesto Estamos en la búsqueda de un Asistente Administrativo proactivo y organizado para brindar soporte esencial en nuestras operaciones diarias. El candidato ideal poseerá excelentes habilidades de gestión y comunicación, demostrando capacidad para manejar múltiples tareas de manera eficiente. Responsabilidades Elaborar informes, cartas, cotizaciones, solicitudes y otros documentos. Registrar y controlar gastos, comprobantes, facturas y pagos pendientes. Coordinar reuniones, citas, actividades y la agenda del equipo. Atender llamadas, correos electrónicos, consultas de clientes y proveedores. Realizar seguimiento a trámites, contratos, órdenes de servicio y documentación. Apoyar en procesos de contratación de servicios. Brindar soporte administrativo al área de tecnología. Preparar reportes periódicos sobre las actividades y tareas pendientes. Garantizar la confidencialidad y el adecuado manejo de la información de la empresa. Cumplir otras funciones administrativas asignadas por la jefatura. Requisitos Tecnico o profesional en administracion, o carreras a fines. Experiencia previa en roles de asistencia administrativa. Habilidades sólidas de organización, planificación y atención al detalle. Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades interpersonales y de comunicación. Experiencia en manejos de sistemas o ERP.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-zumac-villalobos-morante-luis-felipe-1118465887.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-zumac-villalobos-morante-luis-felipe-1118465887.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

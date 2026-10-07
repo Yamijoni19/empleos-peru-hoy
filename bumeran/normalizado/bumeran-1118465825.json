@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465825",
+    "clave":  "id:1118465825",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-apoyo-metalmecanico-sermeind-fabricaciones-industriales-sac-1118465825.html",
+                   "capturadoEn":  "2026-10-07T07:15:31+00:00"
+               },
+    "titulo":  "Personal de Apoyo Metalmecánico",
+    "empresa":  "SERMEIND FABRICACIONES INDUSTRIALES SAC",
+    "ubicacion":  "La Libertad - Moche",
+    "ciudad":  "Moche",
+    "region":  "La Libertad",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2250,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,250",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal de Apoyo Metalmecánico Resumen del Puesto Estamos buscando incorporar Personal de Apoyo a nuestro equipo de trabajo, enfocado en proyectos de fabricación y montaje de estructuras y equipos industriales. El candidato ideal poseerá conocimientos técnicos básicos y prácticos en el área metalmecánica, con una actitud proactiva y orientada al trabajo en equipo. Responsabilidades Principales Habilitación de materiales para el armado de máquinas industriales, incluyendo medición, trazado, taladrado, corte y apuntalado. Realización del acabado de equipos en proceso y terminados. Brindar apoyo en el montaje de estructuras. Ejecución de tareas operativas asignadas. Colaboración en diversas actividades del área de producción. Requisitos Conocimientos técnicos básicos y prácticos en metalmecánica. Experiencia mínima de 3 meses en posiciones similares. Manejo de herramientas mecánicas y de fuerza. Capacidad demostrada para trabajar en equipo. Disponibilidad para realizar labores operativas en taller y/o en proyectos. Beneficios Se ofrece ingreso con todos los beneficios correspondientes.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-apoyo-metalmecanico-sermeind-fabricaciones-industriales-sac-1118465825.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-apoyo-metalmecanico-sermeind-fabricaciones-industriales-sac-1118465825.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

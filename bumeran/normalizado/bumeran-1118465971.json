@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465971",
+    "clave":  "id:1118465971",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-sector-financiero-proyecta--1118465971.html",
+                   "capturadoEn":  "2026-10-07T07:14:50+00:00"
+               },
+    "titulo":  "Asesor Comercial - Sector Financiero",
+    "empresa":  "PROYECTA +",
+    "ubicacion":  "Arequipa - Cerro Colorado",
+    "ciudad":  "Cerro Colorado",
+    "region":  "Arequipa",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  10000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 10,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Comercial - Sector Financiero Resumen del Puesto Estamos en la búsqueda de Asesores Comerciales con una sólida actitud comercial, proactividad y responsabilidad, interesados en desarrollarse en el área de ventas y servicios financieros. El candidato ideal tendrá un fuerte enfoque en la generación de oportunidades y la satisfacción del cliente. Responsabilidades Promocionar y asesorar a clientes en productos de financiamiento vehicular e inmobiliario. Identificar potenciales clientes y generar nuevas oportunidades comerciales. Realizar seguimiento a prospectos y acompañarlos durante todo el proceso comercial. Utilizar redes sociales y herramientas digitales para la generación de contactos. Cumplir con los objetivos comerciales establecidos. Brindar una atención cercana y profesional al cliente. Requisitos Experiencia previa en ventas, preferentemente en el sector financiero. Sólida actitud comercial y orientación a resultados. Proactividad, responsabilidad y excelentes habilidades de comunicación. Capacidad para trabajar de forma autónoma y como parte de un equipo. Interés en el desarrollo profesional dentro del área comercial y financiera. IDEAL PARA ESTUDIANTES Si estás estudiando y buscas una oportunidad para generar ingresos mientras desarrollas experiencia profesional, podrás contar con horarios flexibles que se adapten a tus estudios y capacitación para fortalecer tus habilidades comerciales.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-sector-financiero-proyecta--1118465971.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-sector-financiero-proyecta--1118465971.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

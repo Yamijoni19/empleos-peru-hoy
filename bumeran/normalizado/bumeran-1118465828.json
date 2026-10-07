@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465828",
+    "clave":  "id:1118465828",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-b2b--tecnologia-|-sueldo-comisiones-merce-consulting-1118465828.html",
+                   "capturadoEn":  "2026-10-07T07:15:27+00:00"
+               },
+    "titulo":  "Ejecutivo Comercial B2B – Tecnología | Sueldo + Comisiones",
+    "empresa":  "Merce Consulting",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En Magnavoz , empresa especializada en soluciones tecnológicas y de comunicación para empresas, buscamos incorporar un Ejecutivo Comercial B 2B con experiencia en prospección, captación y desarrollo de nuevos clientes. Buscamos un perfil comercial, dinámico y con iniciativa, que disfrute generar nuevas oportunidades de negocio y trabajar directamente con clientes. ¿Cuáles serán tus funciones? Prospectar y captar nuevos clientes empresariales. Realizar visitas comerciales y prospección en frío. Elaborar y cumplir un plan diario de visitas. Agendar reuniones con potenciales clientes. Identificar necesidades y presentar soluciones comerciales. Realizar seguimiento a propuestas y oportunidades hasta concretar el cierre. Visitar y desarrollar clientes actuales y potenciales. Reportar avances y resultados al Jefe de Ventas. ¿Qué buscamos? Estudios técnicos o universitarios. Experiencia en ventas directas, comerciales o B 2B. Experiencia realizando prospección y captación de clientes. Disponibilidad para realizar trabajo de campo y visitas comerciales. Deseable experiencia en tecnología, telecomunicaciones, software, VoIP, SMS, CRM, servicios digitales o similares. Disponibilidad para movilizarse por Lima Norte y Lima Centro. Disponibilidad para realizar viajes a nivel nacional cuando se requiera. Orientación a resultados, negociación y cierre de ventas. ¿Qué ofrecemos? Sueldo fijo de hasta S/ 2, 0 0 0 , de acuerdo con experiencia. Comisiones por clientes cerrados. Capacitación en nuestras soluciones tecnológicas. Desarrollo profesional en ventas B 2B. Oportunidad de crecimiento dentro del área comercial. Si tienes experiencia prospectando clientes y te interesa desarrollarte comercialmente en el sector tecnológico, queremos conocerte. ¡Postula!",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-b2b--tecnologia-|-sueldo-comisiones-merce-consulting-1118465828.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-b2b--tecnologia-|-sueldo-comisiones-merce-consulting-1118465828.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

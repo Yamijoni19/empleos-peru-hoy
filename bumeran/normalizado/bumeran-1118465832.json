@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118465832",
+    "clave":  "id:1118465832",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/sector-inmobiliario-|-captacion-de-propiedades-y-clientes-remax-renova-1118465832.html",
+                   "capturadoEn":  "2026-10-07T07:15:23+00:00"
+               },
+    "titulo":  "Sector Inmobiliario | Captación de Propiedades y Clientes",
+    "empresa":  "REMAX RENOVA",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos Asesores(as) Inmobiliarios(as) de 3 0 años a más, con actitud comercial, buena comunicación y ganas de crecer. No necesitas experiencia en el rubro; te brindamos capacitación y acompañamiento. Tu principal función será captar propiedades y clientes, asesorar en operaciones de compra, venta y alquiler, y realizar seguimiento comercial.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2026-12-05",
+    "url":  "https://www.bumeran.com.pe/empleos/sector-inmobiliario-|-captacion-de-propiedades-y-clientes-remax-renova-1118465832.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/sector-inmobiliario-|-captacion-de-propiedades-y-clientes-remax-renova-1118465832.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
