@@ -122,5 +122,6 @@ if ($Simular) { $pPub.Simular = $true }
 if ($MaxPorCorrida -gt 0) { $pPub.MaxPorCorrida = $MaxPorCorrida }
 [void](Paso 'PUBLICAR BLOGGER' 'publicar-blogger.ps1' $pPub)
 
-Log ("FLUJO TERMINADO en " + ((Get-Date) - $Inicio).ToString('mm\\:ss') + " | errores=" + $script:errores)
+$tsTotal = (Get-Date) - $Inicio
+Log ("FLUJO TERMINADO en " + ("{0:00}:{1:00}:{2:00}" -f [int][math]::Floor($tsTotal.TotalHours), $tsTotal.Minutes, $tsTotal.Seconds) + " | errores=" + $script:errores)
 exit $script:errores
