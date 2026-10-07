@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118471296",
+    "clave":  "id:1118471296",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-contable-miraflores-1118471296.html",
+                   "capturadoEn":  "2026-10-07T14:32:53+00:00"
+               },
+    "titulo":  "Practicante Profesional Contable - Miraflores",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  1950,
+                    "max":  1950,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Remuneración mensual: S/ 1950",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, reconocida empresa RETAIL líder en el mercado, nos encontramos en la búsqueda de: PRACTICANTE PROFESIONAL CONTABLE. REQUISITOS: - Egresado(a) de la carrera de Contabilidad. - Experiencia de 6 meses en el SECTOR RETAIL : Tiendas por departamento, supermercados, conveniencia, moda, calzado, tecnología, electrodomésticos, mejoramiento del hogar, farmacias y boticas, etc. - Manejo de Excel a nivel intermedio. - Inglés nivel básico. OBJETIVO DEL PUESTO: Brindar soporte en el registro y control de las operaciones contables de la compañía, asegurando la confiabilidad de la información financiera, el cumplimiento de las normas contables y tributarias, y la aplicación de los controles internos establecidos. FUNCIONES: Registrar y controlar gastos relacionados con servicios públicos, consultorías, seguridad, mantenimiento, entre otros. Registrar comprobantes de pago correspondientes a arrendamientos, fondos de promoción y mantenimiento de centros comerciales. Realizar el control y devengo de gastos diferidos; así como la conciliación de ventas de los diferentes canales de comercialización. Registrar otros gastos relacionados con las tiendas y áreas administrativas. Registrar y controlar los gastos correspondientes a tributos municipales. Validar la determinación de regalías por el uso de marcas. Apoyar en la elaboración y actualización de libros tributarios. COMPETENCIAS: - Capacidad analítica - Capacidad de adaptación - Trabajo en equipo - Buena comunicación oral y escrita - Alto grado de responsabilidad BENEFICIOS Y CONDICIONES LABORALES: - Remuneración mensual: S/ 1950 (Planilla Practicante). - Trabajo presencial en Miraflores - Periodo de contrato: 6 meses",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-07",
+    "fecha_cierre":  "2027-01-05",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-contable-miraflores-1118471296.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-contable-miraflores-1118471296.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118471291",
+    "clave":  "id:1118471291",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-atencion-al-cliente-marketing-y-ventas-espacio-20-sac-1118471291.html",
+                   "capturadoEn":  "2026-10-07T14:33:04+00:00"
+               },
+    "titulo":  "ASISTENTE DE ATENCIÓN AL CLIENTE MARKETING Y VENTAS",
+    "empresa":  "ESPACIO 20 SAC",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "ASISTENTE DE ATENCIÓN AL CLIENTE MARKETING Y VENTAS Empresa del sector inmobiliario busca incorporar un(a) Asistente de Atención al Cliente para gestionar y dar seguimiento a las consultas que recibimos a través de nuestros canales digitales. Buscamos una persona amable, ágil, organizada y orientada a resultados , con excelente comunicación y vocación de servicio. \u0026#x1f3af; TU MISIÓN Brindar una atención rápida, cercana y profesional , comprendiendo la necesidad de cada cliente, registrándola correctamente y derivándola al especialista indicado. \u0026#x1f539; PRINCIPALES FUNCIONES Atender consultas por WhatsApp, teléfono, correo y canales digitales . Identificar y calificar las necesidades de cada cliente. Registrar y mantener actualizados clientes y requerimientos en el CRM . Derivar las oportunidades al consultor correspondiente y coordinar citas. Realizar seguimiento a clientes y oportunidades pendientes , apoyándose en herramientas digitales e IA. Otras funciones acordes con el area de marketing o ventas. \u0026#x1f50e; ¿QUÉ BUSCAMOS? Estudiante de últimos ciclos o egresado(a) de Administración, Comunicaciones, Marketing, Gestión de Servicios o afines . Deseable experiencia en atención al cliente presencial o virtual . Excelente comunicación, redacción y ortografía. Facilidad para utilizar CRM, WhatsApp, herramientas digitales e IA . ⭐ TU PERFIL Persona responsable, trabajadora, cumplida y muy organizada , con iniciativa, criterio, empatía y capacidad para trabajar en equipo. Buscamos alguien que sepa escuchar, comprender y hacer seguimiento , con genuino interés por brindar una excelente experiencia al cliente. \u0026#x1f4bb; CONDICIONES Full Time . 48 horas. Lunes a Viernes de 8:30 am a 6pm y sábado de 8:30am a 1pm. Sueldo: acorde al mercado Bonos por logros de objetivos \u0026#x1f449; IMPORTE : Responder las preguntamos de pre-filtro que dejamos en Bumeran.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "2027-01-04",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-atencion-al-cliente-marketing-y-ventas-espacio-20-sac-1118471291.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-atencion-al-cliente-marketing-y-ventas-espacio-20-sac-1118471291.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118471294",
+    "clave":  "id:1118471294",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-business-partner-peru-1118471294.html",
+                   "capturadoEn":  "2026-10-07T14:33:00+00:00"
+               },
+    "titulo":  "Auxiliar Contable",
+    "empresa":  "Business Partner Peru",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Auxiliar Contable Resumen del Puesto Buscamos un Auxiliar Contable proactivo y organizado para integrarse al equipo. El candidato ideal poseerá conocimientos sólidos en registros contables y un buen manejo de herramientas ofimáticas y sistemas de gestión. Responsabilidades Realizar el registro de compras, ventas y comprobantes contables. Llevar a cabo el archivo y control documentario, así como las provisiones y asientos contables básicos. Ejecutar conciliaciones bancarias, manejo de caja chica, arqueos y rendiciones. Dar seguimiento a cuentas por rendir, pagos a proveedores, cobranzas y vencimientos. Gestionar detracciones y retenciones. Se valorará conocimiento de impuestos y declaraciones mensuales. Se valorará experiencia con documentación de transporte, viáticos, combustible y liquidaciones. Requisitos Formación técnica o universitaria egresada en Contabilidad. Dominio de Microsoft Excel a nivel intermedio. Experiencia en el manejo de sistemas de gestión. Capacidad para trabajar de forma organizada y metódica. Habilidades de comunicación y trabajo en equipo.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-07",
+    "fecha_cierre":  "2026-12-06",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-business-partner-peru-1118471294.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-business-partner-peru-1118471294.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
