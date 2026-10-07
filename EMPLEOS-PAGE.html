@@ -1,4 +1,4 @@
-<style>/*fix-parpadeo: el portal re-renderiza el grid cada 150 posts del feed en segundo plano y la animacion de entrada se repetia; con esto las tarjetas quedan estables. No quitar. */.empleo-card{animation:none !important}</style>
+<style>/*fix-parpadeo: el portal re-renderiza el grid cada 150 posts del feed en segundo plano y la animacion de entrada se repetia; con esto las tarjetas quedan estables. No quitar. */.empleo-card{animation:none !important}html,#empleosGrid{overflow-anchor:none !important}</style><script id="fix-ui-empleos">(function(){if(window.__fixAutoCarga){return}window.__fixAutoCarga=true;var ultimoClick=0,seguidos=0;function visibles(){return Array.prototype.filter.call(document.querySelectorAll("#empleosGrid .empleo-card"),function(c){return c.style.display!=="none"}).length}function revisar(){var b=document.getElementById("cargarMasOfertas");if(!b||b.style.display==="none"||b.disabled){seguidos=0;return}var ahora=Date.now();if(ahora-ultimoClick>10000){seguidos=0}if(visibles()>=12||seguidos>=8||ahora-ultimoClick<900){return}ultimoClick=ahora;seguidos++;b.click()}function observar(){var g=document.getElementById("empleosGrid");if(!g){return}new MutationObserver(function(){revisar()}).observe(g,{childList:true,subtree:true});revisar()}if(document.readyState==="loading"){document.addEventListener("DOMContentLoaded",function(){setTimeout(observar,1500)})}else{setTimeout(observar,1500)}setInterval(revisar,4000)})();</script>
 <!-- =========================================================
      PAGINA DE EMPLEOS (se pega en Blogger: Paginas > empleos)
      ========================================================= -->
@@ -22,8 +22,8 @@
   <p>Miles de ofertas de empleo en Lima y regiones. Elige <strong>Privado</strong> o <strong>Estado</strong>: cada modo muestra sus propios filtros.</p>
 
    <div class="sector-switch" id="sectorSwitch" aria-label="Sector del empleo">
-      <button type="button" class="sector-btn activa" data-sector="privado">Privado <span class="sector-num" data-sector-num="privado" data-sector-total="117" style="display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;background:#0f4c81;color:#fff;font-size:10px;font-weight:800;letter-spacing:.3px;">117</span></button>
-      <button type="button" class="sector-btn" data-sector="estado">Estado <span class="sector-num" data-sector-num="estado" data-sector-total="2632" style="display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;background:#0f4c81;color:#fff;font-size:10px;font-weight:800;letter-spacing:.3px;">2632</span></button>
+      <button type="button" class="sector-btn activa" data-sector="privado">Privado <span class="sector-num" data-sector-num="privado" data-sector-total="139" style="display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;background:#0f4c81;color:#fff;font-size:10px;font-weight:800;letter-spacing:.3px;">139</span></button>
+      <button type="button" class="sector-btn" data-sector="estado">Estado <span class="sector-num" data-sector-num="estado" data-sector-total="2441" style="display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;background:#0f4c81;color:#fff;font-size:10px;font-weight:800;letter-spacing:.3px;">2441</span></button>
     </div>
 
   <!-- ENCABEZADO DE RESULTADOS -->

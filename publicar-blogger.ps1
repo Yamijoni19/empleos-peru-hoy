@@ -464,6 +464,24 @@ function Hash-Archivo([string]$ruta) {
     finally { $sha.Dispose() }
 }
 
+# Vigencia: fecha de cierre del HTML (dd/MM/yyyy o yyyy-MM-dd). $null = sin fecha util.
+$rixCierre = [regex]'(?is)Fecha\s+(?:de\s+)?cierre\s*:\s*</?[^>]*>?\s*([^\r\n<]{1,40})'
+function ExtraerFechaCierre([string]$html) {
+    $m = $rixCierre.Match($html)
+    if (-not $m.Success) { return $null }
+    $v = $m.Groups[1].Value.Trim()
+    if ($v -match '(?i)no\s+espec') { return $null }
+    $md = [regex]::Match($v, '(\d{1,2})/(\d{1,2})/(\d{4})')
+    if ($md.Success) {
+        try { return (Get-Date -Year ([int]$md.Groups[3].Value) -Month ([int]$md.Groups[2].Value) -Day ([int]$md.Groups[1].Value)) } catch { return $null }
+    }
+    $mi = [regex]::Match($v, '(\d{4})-(\d{2})-(\d{2})')
+    if ($mi.Success) {
+        try { return (Get-Date -Year ([int]$mi.Groups[1].Value) -Month ([int]$mi.Groups[2].Value) -Day ([int]$mi.Groups[3].Value)) } catch { return $null }
+    }
+    return $null
+}
+
 # ============================================================ COLA SEGURA (FASE 3)
 # Regla: "HTML existente" NO es lo mismo que "publicacion nueva".
 # 1) baseline: todo lo que exista ahora y no este publicado queda HISTORICA (congelada).
@@ -493,7 +511,8 @@ $colaClasificada = @()
 foreach ($f in $archivos) {
     $hash = Hash-Archivo $f.FullName
     $reg  = $registro[$f.Name]
-    $tit  = ExtraerTitulo ([IO.File]::ReadAllText($f.FullName))
+    $htmlF = [IO.File]::ReadAllText($f.FullName)
+    $tit  = ExtraerTitulo $htmlF
     $estado = ''
     $motivo = ''
     if ($reg -and [string]$reg.estado -eq 'PUBLICADA') {
@@ -508,6 +527,14 @@ foreach ($f in $archivos) {
         $estado = 'HISTORICA'; $motivo = 'pertenece al baseline congelado (backfill solo explicito)'
     } else {
         $estado = 'NUEVA'; $motivo = 'detectada despues del baseline'
+    }
+    # Vigencia: una oferta cuya fecha de cierre ya paso se marca EXPIRADA y NO
+    # se publica (la pagina la ocultaria igual: tarjeta invisible = publicacion inutil).
+    if ($estado -eq 'NUEVA') {
+        $cierre = ExtraerFechaCierre $htmlF
+        if ($cierre -and $cierre.Date -lt (Get-Date).Date) {
+            $estado = 'EXPIRADA'; $motivo = 'fecha de cierre ' + $cierre.ToString('dd/MM/yyyy') + ' ya pasada'
+        }
     }
     $colaClasificada += [pscustomobject]@{
         archivo = $f.Name; item = $f; titulo = $tit; estado = $estado
@@ -538,6 +565,24 @@ foreach ($c in $colaClasificada) {
 $elegibles = @($elegibles | Sort-Object -Property `
     @{ Expression = { $o = 99; if ($orden.ContainsKey($_.estado.ToUpper())) { $o = $orden[$_.estado.ToUpper()] }; $o } }, `
     @{ Expression = { $_.archivo } })
+
+# Intercalado por familia de archivo (bum/bj/ct/oferta/oportunidad/...).
+# Sin esto el orden alfabetico dejaba al Sector Estado sin publicar NADA mientras
+# quedara un solo bum- pendiente (bum se recaptura cada hora: la cola nunca se
+# vaciaba y estado llevaba dias sin publicarse). Round-robin conserva el orden
+# interno de cada familia.
+$porFamilia = @($elegibles | Group-Object { ($_.archivo -split '-')[0] } | Sort-Object Name)
+$intercalado = @()
+$idxFam = 0
+while ($true) {
+    $avance = $false
+    foreach ($g in $porFamilia) {
+        if ($idxFam -lt $g.Group.Count) { $intercalado += $g.Group[$idxFam]; $avance = $true }
+    }
+    if (-not $avance) { break }
+    $idxFam++
+}
+$elegibles = $intercalado
 
 # ====================================================== PROTECCION CONTRA ANOMALIAS
 # Separada del limite: NO impide publicar mucho, detecta comportamiento anormal
@@ -626,6 +671,7 @@ Write-Host ("  COLA: candidatos=" + $colaClasificada.Count +
     " | NUEVA=" + $(if ($totales.ContainsKey('NUEVA')) { $totales['NUEVA'] } else { 0 }) +
     " ACTUALIZADA=" + $(if ($totales.ContainsKey('ACTUALIZADA')) { $totales['ACTUALIZADA'] } else { 0 }) +
     " CORRECCION=" + $(if ($totales.ContainsKey('CORRECCION')) { $totales['CORRECCION'] } else { 0 }) +
+    " EXPIRADA=" + $(if ($totales.ContainsKey('EXPIRADA')) { $totales['EXPIRADA'] } else { 0 }) +
     " HISTORICA=" + $(if ($totales.ContainsKey('HISTORICA')) { $totales['HISTORICA'] } else { 0 }))
 Write-Host ("  COLA: limite por corrida=" + $MaxEfectivo + " | se encolan " + $procesar.Count + " y se diferiden " + $congelados)
 foreach ($k in @($omitidos.Keys)) { Write-Host ("  COLA: fuera de esta corrida -> " + $k + " x" + $omitidos[$k]) }
