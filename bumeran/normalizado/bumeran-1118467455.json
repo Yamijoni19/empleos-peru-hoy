@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467455",
+    "clave":  "id:1118467455",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-sst-integratel-movistar-pigmalion-consultores-1118467455.html",
+                   "capturadoEn":  "2026-10-06T04:12:38-05:00"
+               },
+    "titulo":  "Practicante Profesional de SST - Integratel/ Movistar",
+    "empresa":  "Pigmalion Consultores",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Integratel Per� / Movistar nos encontramos en b�squeda de un(a) Practicante Profesional de Seguridad y Salud en el Trabajo que quiera seguir desarrollando su experiencia en gesti�n de SST, prevenci�n de riesgos y seguimiento de procesos. La posici�n brindar� apoyo en actividades del Sistema de Gesti�n de Seguridad y Salud en el Trabajo (SGSST) , incluyendo gesti�n documentaria, seguimiento de riesgos laborales, indicadores, actividades preventivas y cumplimiento de lineamientos internos y requisitos legales. Si est�s interesado/a en el puesto, manda tu CV al numero 968362454 o al correo aganoza(arroba)pigmalion.com.pe ; sino no se considerar� tu participacion en el proceso de selecci�n. Funciones asociadas al rol Tu d�a a d�a ser�: Apoyar en el seguimiento de las actividades del SGSST y en la organizaci�n de la documentaci�n correspondiente, bajo supervisi�n. Apoyar en la elaboraci�n y actualizaci�n de planes, programas, matrices, procedimientos, registros e informes de SST. Apoyar en la recopilaci�n de informaci�n para IPERC, inspecciones de seguridad y seguimiento de hallazgos y planes de acci�n. Apoyar en la recopilaci�n de informaci�n sobre accidentes e incidentes y en el seguimiento documentario de las medidas preventivas y correctivas. Apoyar en las actividades administrativas relacionadas con la vigilancia de la salud ocupacional y los EMO, en coordinaci�n con los responsables correspondientes. Apoyar en la organizaci�n y seguimiento de capacitaciones, campa�as y actividades preventivas de SST. Brindar soporte administrativo y documentario al Comit� de SST, bajo la orientaci�n del responsable del �rea. Apoyar en la preparaci�n de informaci�n y evidencias para auditor�as, fiscalizaciones, homologaciones y otros requerimientos de SST. Apoyar en el seguimiento documentario de proveedores y servicios especializados de SST. Apoyar en la organizaci�n de informaci�n relacionada con SCTR y otros procesos administrativos de SST. Apoyar en la consolidaci�n y seguimiento de indicadores y reportes de gesti�n de SST. Participar en actividades de mejora continua y proponer, a trav�s de su responsable, oportunidades de mejora identificadas durante su formaci�n. Requisitos indispensables: Egresado(a) de Ingenier�a Industrial, Ingenier�a Ambiental, Ingenier�a de Seguridad, o carreras afines vinculadas con las actividades de SST. Deseable con experiencia profesional previa. Conocimientos acad�micos en Seguridad y Salud en el Trabajo y normativa b�sica aplicable. Manejo de Microsoft Office a nivel intermedio, especialmente Excel y PowerPoint. Deseable conocimiento acad�mico de la Ley N.� 29783, su Reglamento y normas complementarias. Capacidad de an�lisis y organizaci�n de informaci�n. Inter�s por desarrollar conocimientos y experiencia pr�ctica en gesti�n de SST. Disponibilidad para desarrollar actividades bajo orientaci�n y supervisi�n del responsable del �rea Requisitos deseables: Conocimientos b�sicos en IPERC, inspecciones de seguridad e investigaci�n de incidentes. Manejo de Excel para consolidaci�n y an�lisis de informaci�n. Conocimiento b�sico de indicadores de SST. Deseable conocimiento de sistemas de gesti�n basados en ISO 45001. Inter�s en herramientas de mejora continua y automatizaci�n de procesos. Deseable familiaridad con Power BI o herramientas de visualizaci�n de datos.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2026-12-02",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-sst-integratel-movistar-pigmalion-consultores-1118467455.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-sst-integratel-movistar-pigmalion-consultores-1118467455.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

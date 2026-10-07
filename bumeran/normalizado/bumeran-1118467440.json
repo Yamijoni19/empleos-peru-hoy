@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467440",
+    "clave":  "id:1118467440",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/bcp-asesora-de-telemarketing-lima-centro-manpowergroup-1118467440.html",
+                   "capturadoEn":  "2026-10-06T04:12:57-05:00"
+               },
+    "titulo":  "BCP / Asesor(a) de Telemarketing / Lima Centro",
+    "empresa":  "MANPOWERGROUP",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En el BCP buscamos personas con actitud comercial, orientaci�n a resultados y ganas de asumir nuevos retos. Si te apasionan las ventas y quieres desarrollarte en una de las mejores empresas para trabajar en el Per�, esta oportunidad es para ti. Funciones Venta telef�nica de productos financieros del banco: tarjetas de cr�dito, pr�stamos personales, seguros, entre otros. Brindar una atenci�n de calidad y una experiencia WOW a los clientes. Cumplir con los objetivos comerciales y est�ndares de calidad establecidos. Gestionar y actualizar correctamente la informaci�n de los clientes en el sistema. Requisitos Estudios t�cnicos o universitarios desde 2.� ciclo en adelante (en curso, truncos o culminados). Experiencia m�nima de 6 meses en ventas presenciales o Call Center. Disponibilidad para trabajar presencialmente en Centro de Lima. Disponibilidad para laborar de lunes a s�bado. Beneficios Ingreso a planilla BCP desde el primer d�a. L�nea de carrera y capacitaci�n constante. Beneficios corporativos y productos financieros exclusivos. Excelente clima laboral y cultura de reconocimiento. En el BCP promovemos la igualdad de oportunidades y valoramos la diversidad en nuestro equipo. �Postula y crece con nosotros! \"Somos una organizaci�n comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selecci�n se rigen bajo una pol�tica donde nuestras/os postulantes son consideradas/os sin importar su origen, g�nero, raza o cualquier otra caracter�stica, condici�n o preferencia, promoviendo as� una cultura de respeto mutuo.\"",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/bcp-asesora-de-telemarketing-lima-centro-manpowergroup-1118467440.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/bcp-asesora-de-telemarketing-lima-centro-manpowergroup-1118467440.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,9 +1,9 @@
-{
+﻿{
   "comentario": "CONFIGURACION UNICA del flujo BUMERAN (privado) + convocatoriasdetrabajo.com (estado). Todo se cambia AQUI, sin tocar codigo.",
-  "modo": "local",
+  "modo": "nube",
   "modoNota": "local = ejecuta la PC (.cmd / tareas programadas). nube = ejecuta GitHub Actions y los .cmd locales se saltan (evita dos pipelines contra el mismo Blogger).",
 
-  "maxPorCorrida": 5,
+  "maxPorCorrida": 25,
   "maxPorCorridaNota": "Limite inicial de seguridad (no es permanente): subir a 20 / 50 / 100 / 200 aqui o con -MaxPorCorrida 50. Nunca existe corrida ilimitada.",
 
   "topeAbsoluto": 100,
@@ -13,8 +13,8 @@
   "permitirBackfill": false,
 
   "publicacion": {
-    "activada": false,
-    "nota": "SEGURO: Blogger responde 429 (cuota agotada). Para publicar cuando vuelva a aceptar escritura: poner activada=true AQUI. Sin activada=true NO se hace ni un GET/POST/PATCH/DELETE."
+    "activada": true,
+    "nota": "REACTIVADO tras volver la cuota (429 de 2026-10-04 resuelto). Si vuelve el 429 el corte automatico la vuelve a poner en pausa: poner activada=false AQUI. Sin activada=true NO se hace ni un GET/POST/PATCH/DELETE."
   },
   "backfill": {
     "activado": false,
@@ -41,9 +41,9 @@
     "nota": "Controla COMPORTAMIENTO ANOMALO (tope, titulos repetidos, 3x la media de la ventana), no el crecimiento normal: subir topeAbsoluto si se decide publicar mas de 100 por corrida."
   },
   "correcciones": {
-    "activadas": false,
+    "activadas": true,
     "maxPorCorrida": 10,
     "pausaMs": 2500,
-    "nota": "Mantenimiento historico de posts YA publicados (aplicar-correcciones.ps1). Mismo esquema de seguridad: activadas=true + sin cooldown 429 + limite por corrida + pausa + corte inmediato ante 429. Nunca se aplica sin -Aplicar."
+    "nota": "Mantenimiento historico de posts YA publicados (aplicar-correcciones.ps1). RETIRAR por defecto = BORRADOR via posts.revert (URL publica 404, recuperable); DELETE permanente solo con -RetirarComo Borrar. Mismo esquema de seguridad: activadas=true + sin cooldown 429 + limite por corrida + pausa + corte inmediato ante 429. Nunca se aplica sin -Aplicar."
   }
 }

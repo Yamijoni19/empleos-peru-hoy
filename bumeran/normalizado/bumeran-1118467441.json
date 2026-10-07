@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467441",
+    "clave":  "id:1118467441",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-seleccion-rubro-construccion-1118467441.html",
+                   "capturadoEn":  "2026-10-06T04:12:54-05:00"
+               },
+    "titulo":  "Analista de Selecci�n Rubro Construcci�n",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Lur�n",
+    "ciudad":  "Lur�n",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "�Estamos contratando! Somos una empresa del sector construcci�n ANALISTA DE SELECCI�N - Egresado o Bachiller en Psicolog�a, Administraci�n, Ingenier�a Industrial o afines - Experiencia en reclutamiento de personal staff para proyectos de construcci�n (deseable obras con el estado) - Al menos 02 a�os de experiencia en reclutamiento y selecci�n - Trabajo de lunes a viernes (presencial)",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-seleccion-rubro-construccion-1118467441.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-seleccion-rubro-construccion-1118467441.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

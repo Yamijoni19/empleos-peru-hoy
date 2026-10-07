@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467464",
+    "clave":  "id:1118467464",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-asia-los-portales-1118467464.html",
+                   "capturadoEn":  "2026-10-06T04:12:13-05:00"
+               },
+    "titulo":  "ASISTENTE DE ALMAC�N // ASIA",
+    "empresa":  "Los Portales",
+    "ubicacion":  "Lima - Asia",
+    "ciudad":  "Asia",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "�Haz historia con nosotros y lleva tu carrera al siguiente nivel! En Los Portales S.A. , con m�s de 60 a�os de trayectoria impulsando el desarrollo de negocios en el sector inmobiliario y hotelero, y brindando oportunidades para las familias peruanas, estamos en busca de un(a) Asistente de Almac�n para formar parte de nuestro equipo en Asia . Si eres una persona apasionada por los retos, el crecimiento, el cumplimiento de objetivos, esta es tu oportunidad de contribuir a nuestro legado de �xito. \u0026#x1f4a1;�Cu�les ser�n tus desaf�os? Recibir los materiales solicitados por los usuarios del proyecto, verificando su conformidad con las gu�as de remisi�n y �rdenes de compra correspondientes. Revisar el estado f�sico de los productos al momento de su recepci�n e informar cualquier diferencia, da�o o irregularidad detectada. Organizar y ubicar los materiales en las �reas de almacenamiento asignadas, asegurando su adecuada conservaci�n. Verificar que todos los productos cuenten con la codificaci�n SAP y el etiquetado correspondiente para facilitar su identificaci�n y ubicaci�n. Preparar y embalar los pedidos de acuerdo con las reservas y requerimientos recibidos. Operar equipos de traslado de materiales, como carretillas y estocas, respetando los procedimientos y normas de seguridad. \u0026#x1f4bc; �Qu� buscamos? Secundaria Completa (indispensable). Experiencia m�nima de 1 a�o desarrollando funciones similares. Conocimiento de office a nivel b�sico (indispensable). Horario de trabajo: Lunes a Viernes de 7:00am a 5pm y S�bados de 7am a 12pm. Disponibilidad para trabajar en Asia. ? �Como te recompensaremos? Ingreso a planilla desde el primer d�a con todos los beneficios de ley. Remuneraci�n acorde al mercado. Capacitaciones en una empresa en constante crecimiento. Buen clima laboral y objetivos retadores. ��nete a nuestro equipo y demuestra que t� tambi�n tienes la actitud portales! Las ofertas de empleo y acceso a medios de formaci�n educativa no podr�n contener requisitos que constituyan discriminaci�n, anulaci�n o alteraci�n de igualdad de oportunidades de trato. Ley N� 26772",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-asia-los-portales-1118467464.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-asia-los-portales-1118467464.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -282,35 +282,31 @@ foreach ($u in $pendientes) {
 
     # secciones (requisitos/funciones) desde el JobPosting y desde el HTML visible
     $requisitos = @(); $funciones = @(); $beneficios = @()
-    foreach ($sec in @($ld.qualifications, $ld.responsibilities, $ld.skills, $ld.experienceRequirements)) {
-        if ($sec) { $requisitos += (Limpio ([string]$sec)) }
-    }
-    foreach ($m in [regex]::Matches($html, '(?is)<p>\s*<strong>\s*([^<]{2,60}?)\s*:\s*</strong>\s*</p>\s*(?:<ul>|<p>)([\s\S]*?)(?:</ul>|</p>)')) {
-        $cab = ([Net.WebUtility]::HtmlDecode($m.Groups[1].Value)).Trim().ToLower()
-        $items = @()
-        if ($m.Value -match '(?is)<ul>') {
-            foreach ($li in [regex]::Matches($m.Groups[2].Value, '(?is)<li>([\s\S]*?)</li>')) {
-                $v = (Limpio $li.Groups[1].Value).Trim(); if ($v -ne '') { $items += $v }
-            }
-        } else { $v = (Limpio $m.Groups[2].Value).Trim(); if ($v -ne '') { $items = @($v) } }
-        if ($items.Count -eq 0) { continue }
-        if ($cab -match 'requisit|perfil|experiencia|formaci|estudio|conocimiento|competenc') { $requisitos += $items }
-        elseif ($cab -match 'funcion|actividad|responsab|tarea|descripci|puesto') { $funciones += $items }
-        elseif ($cab -match 'beneficio') { $beneficios += $items }
-    }
-    $requisitos = @($requisitos | Where-Object { $_ -ne '' } | Select-Object -Unique)
-    $funciones   = @($funciones   | Where-Object { $_ -ne '' } | Select-Object -Unique)
-    $beneficios  = @($beneficios  | Where-Object { $_ -ne '' } | Select-Object -Unique)
+    . "$PSScriptRoot\lib\bumeran-parser.ps1"
+    $secDesc = Get-Secciones $descripcion
+    $requisitos = @(Get-Items $secDesc.requisitos)
+    $funciones   = @(Get-Items $secDesc.funciones)
+    $beneficios  = @(Get-Items $secDesc.beneficios)
+    if ($requisitos.Count -eq 0) { foreach ($sec in @($ld.qualifications, $ld.responsibilities, $ld.skills, $ld.experienceRequirements)) { if ($sec) { $requisitos += (Limpio ([string]$sec)) } } }
+
+    $rich = Parse-Bumeran-Page $html $ld
+    if ($funciones.Count -eq 0) { $funciones = @($rich.funciones) }
+    if ($beneficios.Count -eq 0) { $beneficios = @($rich.beneficios) }
+    if ($requisitos.Count -eq 0) { $requisitos = @($rich.requisitos) }
 
     $modalidad = ''
     if ($ld.jobLocationType) { $modalidad = [string]$ld.jobLocationType }   # TELECOMMUTE
     if (-not $modalidad -and $descripcion -match '(?i)(trabajo remoto|100%\s*remoto|modalidad remota|esquema remoto)') { $modalidad = 'REMOTE' }
     $contrato = ''
     if ($ld.employmentType) { $contrato = [string]$ld.employmentType }
+    if ($rich.modalidad -ne '') { $modalidad = $rich.modalidad }
+    if ($rich.jornada -ne '' -and $ld.employmentType -eq $null) { $contrato = $rich.contrato }
+    elseif ($rich.contrato -ne '') { $contrato = $rich.contrato }
 
     $fPub = ''; $fCie = ''
-    if ($ld.datePosted)   { $fPub = ([datetime]$ld.datePosted).ToString('yyyy-MM-dd') }
-    if ($ld.validThrough) { $fCie = ([datetime]$ld.validThrough).ToString('yyyy-MM-dd') }
+    if ($ld.datePosted)   { $fPub = ([string]$ld.datePosted).Substring(0, 10) }
+    # NO inventar ni tomar validThrough artificial: la fecha de cierre es "No especificado" salvo dato explícito
+    $fCie = ''
 
     $salario = Extraer-Salario $ldJson $html $titulo $descripcion
 
@@ -335,6 +331,17 @@ foreach ($u in $pendientes) {
         fecha_cierre       = $fCie
         url                = $u
         url_postulacion    = $u
+        descripcion_html   = [string]$ld.description
+        area               = $rich.area
+        jornada            = $rich.jornada
+        nivel              = $rich.nivel
+        vacantes           = $rich.vacantes
+        turno              = $rich.turno
+        horario            = $rich.horario
+        experiencia        = $rich.experiencia
+        estudios           = $rich.estudios
+        herramientas       = $rich.herramientas
+        publicado_el       = $rich.publicado
     }
 
     # --- deduplicacion

@@ -1,0 +1,56 @@
+{
+    "id":  "bumeran-1118467467",
+    "clave":  "id:1118467467",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/senior-it-recruiter-por-proyecto-talent2win-1118467467.html",
+                   "capturadoEn":  "2026-10-06T04:12:05-05:00"
+               },
+    "titulo":  "Senior IT Recruiter (Por proyecto)",
+    "empresa":  "Talent2Win",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "SENIOR IT RECRUITER (Por proyecto) Talent2Win es una startup digital con sede en Lima (Per�) y en Massachusetts (EEUU). �Por qu� Talent2Win? Somos una Agencia de Soluciones basadas en Talento sin Fronteras. Talent2Win se especializa en Executive Search, Middle Management \u0026 Perfiles Especializados, y Adquisici�n de Talento Digital. Tenemos un amplio portafolio de servicios y nos especializamos en: - Permanent Placement - Recruitment Process Outsourcing (RPO) - Executive Search - Staff Augmentation Nuestro despliegue a lo largo del continente nos permite ofrecer soluciones de talento en pa�ses como: Per�, Estados Unidos, Canad�, M�xico, Colombia, Chile, Argentina, Ecuador, Panam�, entre otros. Parte de nuestro ADN es la interacci�n horizontal y cercana entre miembros de cada equipo. Nosotros sabemos que las mejores iniciativas surgen de esta interacci�n horizontal y de las ideas escuchadas y valoradas a todo nivel en la organizaci�n. Misi�n del Rol Asegurar la ejecuci�n y continuidad de los procesos de Reclutamiento \u0026 Selecci�n, gestionando vacantes de perfiles tecnol�gicos y Staff, incluyendo especialidades cr�ticas, bajo lineamientos y SLAs definidos. �Qu� buscamos en tu perfil? � Formaci�n universitaria completa en Psicolog�a, Recursos Humanos, Administraci�n o carreras afines. � +4 a�os de experiencia en Reclutamiento \u0026 Selecci�n, con foco en perfiles IT / digitales. � Experiencia reclutando posiciones como: Software, Cloud, Ciberseguridad, Infraestructura o Data. � Capacidad para evaluar seniority t�cnico y validar fit con l�deres t�cnicos. � Experiencia en headhunting activo y mapeo de talento en mercados competitivos. � Autonom�a, organizaci�n y manejo simult�neo de m�ltiples procesos bajo presi�n. � Manejo de ATS y procesos estructurados de R\u0026S (con foco en SLAs). � Experiencia trabajando con clientes internos exigentes (ideal en entornos RPO o consultoras). � Deseable experiencia en banca y/o consultoras de alto volumen. �Cu�les ser�n tus principales funciones? � Ejecutar y liderar los procesos de selecci�n asignados, desde inicio a fin. � Levantar y calibrar perfiles junto a l�deres de negocio y equipos t�cnicos. � Definir y ejecutar estrategias de b�squeda (interna, externa o mixta) seg�n la criticidad del perfil. � Realizar filtro curricular y conducir entrevistas por competencias. � Coordinar con l�deres, proveedores y candidatos a lo largo del proceso. � Monitorear y asegurar el cumplimiento de SLAs y una �ptima experiencia del candidato. � Escalar oportunamente casos y perfiles cr�ticos para su validaci�n. Otros datos de inter�s: � Modalidad de trabajo: h�brida. � Horario de trabajo: lunes a viernes � Duraci�n del proyecto: 3 meses",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/senior-it-recruiter-por-proyecto-talent2win-1118467467.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/senior-it-recruiter-por-proyecto-talent2win-1118467467.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

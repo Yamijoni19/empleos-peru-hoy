@@ -1,0 +1,57 @@
+{
+    "id":  "bumeran-1118467445",
+    "clave":  "id:1118467445",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/contadora-publico-colegiado-tiempo-parcial-resocusco-1118467445.html",
+                   "capturadoEn":  "2026-10-06T04:12:50-05:00"
+               },
+    "titulo":  "Contador(a) P�blico Colegiado - Tiempo Parcial",
+    "empresa":  "RESOCUSCO",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.200 - S/ 1.300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "�S� parte de RESOCUSCO! Somos una empresa cusque�a especializada en resonancia magn�tica, comprometida con una atenci�n segura, c�lida y de calidad. Buscamos personas responsables, comprometidas y con vocaci�n de servicio. Valoramos el respeto, el trabajo en equipo y la mejora continua. Crece con nosotros y forma parte de nuestro equipo. Contador(a) P�blico Colegiado - Tiempo Parcial Resumen del Puesto Buscamos un profesional Contador(a) P�blico Colegiado y habilitado para unirse a nuestro equipo en modalidad de tiempo parcial. El candidato ideal poseer� experiencia en contabilidad de empresas MYPE/REMYPE y un s�lido conocimiento de las normativas tributarias y laborales vigentes. Responsabilidades Gesti�n y mantenimiento de la informaci�n contable, tributaria y laboral actualizada. Manejo de sistemas tributarios, declaraciones mensuales, PLAME, T-Registro, y sistemas de pensiones (AFP/ONP). Elaboraci�n y presentaci�n de libros electr�nicos. Realizaci�n de conciliaciones bancarias y an�lisis de cuentas. Procesamiento de planillas y ejecuci�n de cierres contables mensuales. Presentaci�n de reportes peri�dicos a Gerencia. Requisitos T�tulo de Contador(a) P�blico Colegiado y habilitado. Experiencia comprobada en contabilidad de empresas MYPE/REMYPE. Dominio de sistemas tributarios y normativas laborales. Capacidad para trabajar de forma organizada, con criterio profesional y estricto cumplimiento de plazos. Habilidad para mantener la confidencialidad de la informaci�n. Se valorar� experiencia en el sector salud.",
+    "requisitos":  [
+
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-01",
+    "url":  "https://www.bumeran.com.pe/empleos/contadora-publico-colegiado-tiempo-parcial-resocusco-1118467445.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/contadora-publico-colegiado-tiempo-parcial-resocusco-1118467445.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

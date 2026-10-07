@@ -3461,11 +3461,24 @@ window.PORTAL_CONFIG = {
   dominio: "https://empleosperuhoy.blogspot.com"
 };
 
+/* El feed se pide en dos tamanos distintos:
+   - primer lote pequeno (FEED_LOTE_INICIAL) para pintar la pagina ya
+   - lotes grandes (FEED_LOTE) en segundo plano para filtros y sectores
+   El numero total de ofertas (contador real) viene en la PRIMERA respuesta,
+   no hace falta cargar todo el feed para mostrarlo. */
+var FEED_URL_BASE =
+"https://empleosperuhoy.blogspot.com/feeds/posts/default/-/Empleo?alt=json-in-script&orderby=published";
+var FEED_URL_INICIAL = 18;
+var FEED_URL_LOTE = 150;
+var FEED_CALLBACK = "empleosPeruHoyCallback";
 var FEED_URL =
-"https://empleosperuhoy.blogspot.com/feeds/posts/default/-/Empleo?alt=json-in-script&max-results=150&orderby=published&callback=empleosPeruHoyCallback";
+FEED_URL_BASE + "&max-results=" + FEED_URL_INICIAL + "&callback=" + FEED_CALLBACK;
 
 var empleos = [];
 var categoriaActiva = "Todos";
+
+var LIMITE_INICIAL_EMPLEOS = 18;
+var cantidadActualEMPLEOS = LIMITE_INICIAL_EMPLEOS;
 
 (function iniciarCategoriaSEO(){
   var portal = document.querySelector(".portal-empleos");
@@ -6861,12 +6874,59 @@ function render(){
     return;
   }
 
-  grid.innerHTML = "";
+  var hayFiltrosYBusqueda =
+    categoriaActiva !== "Todos" ||
+    busquedaActual ||
+    Object.keys(filtrosAplicados).some(function(k){
+      return k !== "contratante" &&
+        filtrosAplicados[k] &&
+        filtrosAplicados[k].length;
+    });
+
+  if(
+    hayFiltrosYBusqueda &&
+    !window.__feedCompleto &&
+    !(window.__feedEnVuelo || 0)
+  ){
+    arrancarCargaCompleta();
+  }
+
+  actualizarContadoresSector();
 
   var visibles =
     empleos.filter(
       ofertaVisible
     );
+
+  var visiblesMostradas =
+    visibles.slice(
+      0,
+      cantidadActualEMPLEOS
+    );
+
+  var firmaTarjetas =
+    visibles.length +
+    "|" +
+    cantidadActualEMPLEOS +
+    "|" +
+    visiblesMostradas
+      .map(function(e){
+
+        return e.url || e.title;
+
+      })
+      .join("|");
+
+  var seReescribeTarjeta =
+    window.__firmaTarjetas !== firmaTarjetas;
+
+  if(seReescribeTarjeta){
+
+    window.__firmaTarjetas = firmaTarjetas;
+    window.__ultimoEstadoVacio = "";
+    grid.innerHTML = "";
+
+  }
 
   var titulo =
     document.getElementById(
@@ -6915,41 +6975,59 @@ function render(){
 
   }
 
+  var sinFiltrosActivos =
+    categoriaActiva === "Todos" &&
+    !busquedaActual &&
+    Object.keys(filtrosAplicados).every(function(k){
+      return k === "contratante" ||
+        !filtrosAplicados[k] ||
+        !filtrosAplicados[k].length;
+    });
+
+  var totalSector = visibles.length;
+  var nodoSector =
+    document.querySelector(
+      '.sector-num[data-sector-num="' +
+      sectorActivo +
+      '"]'
+    );
+
+  if(nodoSector){
+    var desdeAtributo = parseInt(nodoSector.getAttribute("data-sector-total") || "", 10);
+    if(!isNaN(desdeAtributo)){
+      totalSector = desdeAtributo;
+    }else{
+      var desdeTexto = parseInt(nodoSector.textContent || "", 10);
+      if(!isNaN(desdeTexto)){
+        totalSector = desdeTexto;
+      }
+    }
+  }
+
+  var totalMostrado =
+    (sinFiltrosActivos && !window.__feedCompleto)
+      ? totalSector
+      : visibles.length;
+
   contador.textContent =
-    visibles.length +
+    totalMostrado +
     (
-      visibles.length === 1
-        ? " oferta"
-        : " ofertas"
+      totalMostrado === 1
+        ? " oferta encontrada"
+        : " ofertas encontradas"
     );
 
   if(!visibles.length){
 
+    /* REGLA: el sector activo NUNCA se cambia solo. El sitio abre en
+       Privado por defecto y, si ese sector no tiene ofertas visibles,
+       se dice tal cual en vez de saltar a Estado. */
     if(!window.__feedCargado){
-      grid.innerHTML =
-        '<div class="empleo-vacio">Cargando ofertas...</div>';
-      return;
-    }
-
-    if(
-      empleos.length &&
-      !window.__sectorAutoCambiado &&
-      (window.__portalTotalEmpleos || 0) > 0 &&
-      empleos.length >=
-        (window.__portalTotalEmpleos || 0) &&
-      categoriaActiva === "Todos" &&
-      !busquedaActual &&
-      !Object.keys(filtrosAplicados).some(function(k){
-        return k !== "contratante" &&
-          filtrosAplicados[k].length;
-      })
-    ){
-      window.__sectorAutoCambiado = true;
-      aplicarSector(
-        sectorActivo === "estado"
-          ? "privado"
-          : "estado"
-      );
+      if(window.__ultimoEstadoVacio !== "cargando"){
+        window.__ultimoEstadoVacio = "cargando";
+        grid.innerHTML =
+          '<div class="empleo-vacio">Cargando ofertas...</div>';
+      }
       return;
     }
 
@@ -6958,30 +7036,36 @@ function render(){
       (window.__portalTotalEmpleos || 0) >
         empleos.length
     ){
-      grid.innerHTML =
-        '<div class="empleo-vacio">Buscando ofertas... ' +
-        empleos.length +
-        ' de ' +
-        (window.__portalTotalEmpleos || 0) +
-        '</div>';
-      arrancarCargaCompleta();
+      /* Faltan datos: NO se sustituye la cuadricula por un texto de
+         "cargando"; el avance vive en la linea de contadores. */
+      programarCargaFondo();
       return;
     }
 
-    var vacio =
-      document.createElement(
-        "div"
+    if(window.__ultimoEstadoVacio !== "vacio"){
+
+      window.__ultimoEstadoVacio = "vacio";
+
+      var vacio =
+        document.createElement(
+          "div"
+        );
+
+      vacio.className =
+        "empleo-vacio";
+
+      vacio.textContent =
+        (sectorActivo === "estado"
+          ? "No hay convocatorias del Estado"
+          : "No hay ofertas del sector privado") +
+        " que coincidan con tu bǧsqueda.";
+
+      grid.innerHTML = "";
+      grid.appendChild(
+        vacio
       );
 
-    vacio.className =
-      "empleo-vacio";
-
-    vacio.textContent =
-      "No encontramos ofertas que coincidan con tu búsqueda.";
-
-    grid.appendChild(
-      vacio
-    );
+    }
 
     return;
 
@@ -6989,8 +7073,10 @@ function render(){
 
   var pasoAnuncios = pasoAnuncio(grid);
 
-  visibles.forEach(
-    function(empleo, indice){
+  if(seReescribeTarjeta){
+
+    visiblesMostradas.forEach(
+      function(empleo, indice){
 
       grid.appendChild(
         crearTarjeta(
@@ -7000,7 +7086,7 @@ function render(){
 
       if(
         (indice + 1) % pasoAnuncios === 0 &&
-        indice !== visibles.length - 1
+        indice !== visiblesMostradas.length - 1
       ){
 
         var huecoAnuncio =
@@ -7019,7 +7105,9 @@ function render(){
       }
 
     }
-  );
+    );
+
+  }
 
 }
 
@@ -7170,6 +7258,8 @@ function actualizarDepartamentos(){
    ========================================================= */
 
 function actualizarEstadoFiltros(){
+
+  cantidadActualEMPLEOS = LIMITE_INICIAL_EMPLEOS;
 
   document.querySelectorAll(
     ".filtro-grupo"
@@ -7537,6 +7627,7 @@ function ejecutarBusqueda(){
       ? campoBusqueda.value.trim()
       : "";
 
+  cantidadActualEMPLEOS = LIMITE_INICIAL_EMPLEOS;
   render();
 
 }
@@ -7610,6 +7701,7 @@ document.querySelectorAll(
           ) ||
           "Todos";
 
+        cantidadActualEMPLEOS = LIMITE_INICIAL_EMPLEOS;
         render();
 
         var seccion =
@@ -7894,7 +7986,7 @@ function(data){
     actualizarEstadoFiltros();
     render();
     if(window.__feedCargandoTodo){
-      arrancarCargaCompleta();
+      programarCargaFondo();
     }
     paginacionActualizarEstado();
 
@@ -7917,7 +8009,7 @@ function(data){
     render();
 
     if(window.__feedCargandoTodo){
-      arrancarCargaCompleta();
+      programarCargaFondo();
     }
     paginacionActualizarEstado();
 
@@ -7931,6 +8023,30 @@ function(data){
 
 function cargarOfertas(){
   cargarOfertasDesde(0);
+}
+
+/* La carga de fondo se aplaza un poco para que el primer lote pinte la
+   pagina sin competir con descargas grandes. Solo se programa UNA vez. */
+function programarCargaFondo(){
+
+  if(window.__feedCompleto){
+    return;
+  }
+
+  if(window.__feedProgramado){
+    return;
+  }
+
+  window.__feedProgramado = true;
+
+  setTimeout(
+    function(){
+      window.__feedProgramado = false;
+      arrancarCargaCompleta();
+    },
+    600
+  );
+
 }
 
 function arrancarCargaCompleta(){
@@ -7962,11 +8078,11 @@ function arrancarCargaCompleta(){
     window.__feedSiguiente = empleos.length + 1;
   }
 
-  var paso = 150;
+  var paso = FEED_URL_LOTE;
   var enVuelo = window.__feedEnVuelo || 0;
 
   while(
-    enVuelo < 4 &&
+    enVuelo < 3 &&
     window.__feedSiguiente <= total
   ){
 
@@ -7996,11 +8112,16 @@ function cargarOfertasDesde(desde){
       "script"
     );
 
+  var tamanoLote =
+    (desde && desde > 1)
+      ? FEED_URL_LOTE
+      : FEED_URL_INICIAL;
+
   script.src =
-    FEED_URL.replace(
-      "callback=",
-      "start-index=" + (desde || 1) + "&callback="
-    ) +
+    FEED_URL_BASE +
+    "&max-results=" + tamanoLote +
+    "&start-index=" + (desde || 1) +
+    "&callback=" + FEED_CALLBACK +
     "&_=" +
     new Date().getTime();
 
@@ -8056,6 +8177,91 @@ function cargarOfertasDesde(desde){
 
 }
 
+/* Contadores reales por sector:
+   - si el feed ya esta completo, se cuentan desde los datos cargados
+   - si no, se usan los totales precargados en la pagina
+     (data-sector-total="privado|estado", escritos por actualizar-contadores.ps1) */
+function actualizarContadoresSector(){
+
+  var nodos =
+    document.querySelectorAll(
+      "[data-sector-num]"
+    );
+
+  if(!nodos.length){
+    return;
+  }
+
+  var total =
+    window.__portalTotalEmpleos || 0;
+
+  if(
+    window.__feedCompleto &&
+    empleos.length
+  ){
+
+    var cuenta = { privado: 0, estado: 0 };
+
+    empleos.forEach(function(empleo){
+
+      var norm =
+        normalizar(
+          empleo.contratante || ""
+        );
+
+      if(
+        !norm ||
+        norm.indexOf("no especific") === 0 ||
+        norm === "no aplica"
+      ){
+        return;
+      }
+
+      if(
+        norm.indexOf("estado") !== -1 ||
+        norm.indexOf("publico") !== -1 ||
+        norm.indexOf("gobierno") !== -1
+      ){
+        cuenta.estado++;
+      }
+
+      if(
+        norm.indexOf("privado") !== -1 ||
+        norm.indexOf("empresa") !== -1 ||
+        norm.indexOf("particular") !== -1
+      ){
+        cuenta.privado++;
+      }
+
+    });
+
+    nodos.forEach(function(nodo){
+      var sector = nodo.getAttribute("data-sector-num");
+      if(cuenta[sector] !== undefined){
+        nodo.textContent = cuenta[sector];
+        nodo.removeAttribute("data-sector-total");
+      }
+    });
+
+    return;
+  }
+
+  nodos.forEach(function(nodo){
+    var precargado =
+      parseInt(
+        nodo.getAttribute("data-sector-total") || "",
+        10
+      );
+
+    if(!isNaN(precargado)){
+      nodo.textContent = precargado;
+    }else if(total){
+      nodo.textContent = total;
+    }
+  });
+
+}
+
 function paginacionActualizarEstado(){
 
   var contenedor =
@@ -8072,20 +8278,38 @@ function paginacionActualizarEstado(){
       "cargarMasEstado"
     );
 
+  var total =
+    window.__portalTotalEmpleos || 0;
+
+  var hayError =
+    !!window.__feedError &&
+    !window.__feedCompleto &&
+    total > empleos.length;
+
+  var completo =
+    !!window.__feedCompleto;
+
+  var visiblesTotal = 0;
+  try {
+    visiblesTotal = empleos.filter(ofertaVisible).length;
+  } catch(e) {}
+
+  var hayMas = visiblesTotal > cantidadActualEMPLEOS;
+  var hayFinal =
+    visiblesTotal > LIMITE_INICIAL_EMPLEOS &&
+    !hayMas;
+
   if(estado){
-    if(
-      window.__feedCargandoTodo &&
-      !window.__feedCompleto
-    ){
+    /* Mientras carga NO se pinta ningun texto de carga: los contadores
+       reales (por sector y totales) viven en sus propios huecos. */
+    if(hayError){
       estado.textContent =
-        "Cargando ofertas... " +
-        empleos.length +
-        " de " +
-        (window.__portalTotalEmpleos || 0);
+        "No pudimos cargar todas las ofertas.";
+    }else if(hayFinal){
+      estado.textContent =
+        "Has llegado al final de las ofertas";
     }else{
-      estado.textContent =
-        empleos.length +
-        " ofertas publicadas y cargadas";
+      estado.textContent = "";
     }
   }
 
@@ -8097,39 +8321,27 @@ function paginacionActualizarEstado(){
         filtrosAplicados[k].length;
     });
 
-  var total =
-    window.__portalTotalEmpleos || 0;
-
   var boton =
     document.getElementById(
       "cargarMasOfertas"
     );
 
-  if(
-    !hayFiltros &&
-    total > empleos.length &&
-    window.__feedError
-  ){
+  if(hayError || hayMas || hayFinal){
     contenedor.removeAttribute("hidden");
-    if(boton){
-      boton.disabled = false;
-      boton.style.display = "";
-    }
-  }else if(
-    !hayFiltros &&
-    !window.__feedCompleto &&
-    total > empleos.length
-  ){
-    contenedor.removeAttribute("hidden");
-    if(boton){
-      boton.style.display = "none";
-    }
   }else{
     contenedor.setAttribute("hidden", "");
-    if(boton){
+  }
+
+  if(boton){
+    if(hayMas){
+      boton.disabled = false;
+      boton.style.display = "";
+    }else{
       boton.style.display = "none";
     }
   }
+
+  actualizarContadoresSector();
 
 }
 
@@ -8167,13 +8379,10 @@ function paginacionActualizar(ocultar){
     "click",
     function(){
 
-      window.__feedError = false;
-      window.__feedReintentos = 0;
+      cantidadActualEMPLEOS +=
+        LIMITE_INICIAL_EMPLEOS;
 
-      boton.disabled =
-        true;
-
-      arrancarCargaCompleta();
+      render();
       paginacionActualizarEstado();
 
     }
@@ -12322,7 +12531,7 @@ ejecutarCorreccion();
 
       function _normalizarDestino(cobertura, zona, pais){
         function _n(s){
-          return String(s || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").trim();
+          return String(s || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
         }
         var z = _n(zona);
         var c = _n(cobertura);
@@ -12933,7 +13142,7 @@ ejecutarCorreccion();
             }
             if(ok && destinoActivo.length){
               var dAttr = (tarjeta.getAttribute("data-destino") || "").toLowerCase().trim();
-              var cOld = (tarjeta.getAttribute("data-cobertura") || "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g,"").trim();
+              var cOld = (tarjeta.getAttribute("data-cobertura") || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g,"").trim();
               var matchDest = false;
               if(dAttr){
                 matchDest = destinoActivo.indexOf(dAttr) !== -1;

@@ -6,8 +6,14 @@
 #
 # USO:
 #   .\aplicar-correcciones.ps1                    # SIMULACION (0 escrituras)
-#   .\aplicar-correcciones.ps1 -Aplicar           # aplicar de verdad (con candados)
+#   .\aplicar-correcciones.ps1 -Aplicar           # RETIRAR = BORRADOR (reversible) + correcciones
+#   .\aplicar-correcciones.ps1 -Aplicar -RetirarComo Borrar   # RETIRAR = DELETE permanente
 #   .\aplicar-correcciones.ps1 -Aplicar -MaxCorrecciones 5
+#
+# RETIRAR (por defecto Borrador): se usa posts.revert (POST .../posts/{id}/revert),
+#   que pasa el post publicado a DRAFT: deja de verse en el blog (URL publica 404)
+#   pero se recupera desde Blogger o con posts.publish. Con -RetirarComo Borrar
+#   se usa DELETE (borrado permanente, sin papelera en la API).
 #
 # CANDADOS (todos deben cumplirse para escribir):
 #   1) -Aplicar explícito           (sin él: solo simulación)
@@ -29,7 +35,9 @@ param(
     [switch]$Aplicar,
     [int]$MaxCorrecciones = -1,
     [int]$PausaMs = -1,
-    [string]$SoloId = ''
+    [string]$SoloId = '',
+    [ValidateSet('Borrador','Borrar')]
+    [string]$RetirarComo = 'Borrador'
 )
 
 $ErrorActionPreference = 'Stop'
@@ -116,7 +124,8 @@ Log ("=== PLAN DE MANTENIMIENTO ===")
 Log ("  modo            : " + $(if ($Aplicar) { 'APLICAR (escrituras reales)' } else { 'SIMULACION (0 escrituras)' }))
 Log ("  cola pendiente  : " + $pendientes.Count + "  (se procesarian hasta " + $MaxCorrecciones + ")")
 Log ("  actualizaciones : " + $actualizaciones.Count + " (ACTUALIZADA/CORRECCION de la cola comun)")
-Log ("  pausa           : " + $PausaMs + " ms entre operaciones")
+    Log ("  pausa           : " + $PausaMs + " ms entre operaciones")
+    Log ("  RETIRAR como    : " + $(if ($RetirarComo -eq 'Borrador') { 'BORRADOR (posts.revert -> DRAFT, reversible)' } else { 'DELETE permanente' }))
 foreach ($p in ($plan | Group-Object accion | Sort-Object Name)) { Log ("    " + $p.Name + ": " + $p.Count) }
 
 # ---------------------------------------------------------------- candados
@@ -143,7 +152,9 @@ if ($Aplicar) {
         $n++
         $extra = ''
         if ([string]$p.accion -eq 'RETIRAR' -and [string]$p.idConservado -ne '') { $extra = "  [duplicado de " + $p.idConservado + "]" }
-        Log ("  " + $p.accion.PadRight(8) + " | " + $p.id + " | " + ([string]$p.titulo).Substring(0, [Math]::Min(70, ([string]$p.titulo).Length)) + $extra)
+        $modo = ''
+        if ([string]$p.accion -eq 'RETIRAR') { $modo = '  [' + $RetirarComo + ']' }
+        Log ("  " + $p.accion.PadRight(8) + " | " + $p.id + " | " + ([string]$p.titulo).Substring(0, [Math]::Min(70, ([string]$p.titulo).Length)) + $extra + $modo)
     }
     if ($actualizaciones.Count -gt 0) {
         foreach ($a in $actualizaciones) { Log ("  ACTUALIZAR | " + $a.clave + " | " + ([string]$a.titulo).Substring(0, [Math]::Min(70, ([string]$a.titulo).Length))) }
@@ -160,6 +171,9 @@ try {
     $tk = Get-Content $RutaToken -Raw -Encoding UTF8 | ConvertFrom-Json
     $Token = [string]$tk.access_token; $Refresh = [string]$tk.refresh_token
     if ($tk.expiry_date) { $Expiry = [datetime]::FromFileTime([int64]$tk.expiry_date) }
+    elseif ($tk.expires_at) {
+        try { $Expiry = [datetime]::Parse([string]$tk.expires_at, $null, [Globalization.DateTimeStyles]::RoundtripKind).ToUniversalTime() } catch { }
+    }
 } catch { Log ("token ilegible: " + $_.Exception.Message); exit 1 }
 if (Test-Path $RutaCred) {
     try {
@@ -169,27 +183,48 @@ if (Test-Path $RutaCred) {
     } catch { }
 }
 function Refrescar-Token {
-    if (-not $Refresh -or -not $ClientId -or -not $ClientSecret) { return }
+    if (-not $Refresh -or -not $ClientId -or -not $ClientSecret) { return $false }
     try {
         $r = Invoke-RestMethod -Method Post -Uri 'https://oauth2.googleapis.com/token' -Body @{
             client_id = $ClientId; client_secret = $ClientSecret; refresh_token = $Refresh; grant_type = 'refresh_token'
         } -TimeoutSec 30
         $script:Token = [string]$r.access_token
         if ($r.expires_in) { $script:Expiry = (Get-Date).AddSeconds([int]$r.expires_in) }
-        $tk.access_token = $script:Token
-        $tk.expiry_date = $script:Expiry.ToFileTime()
+        # Add-Member -Force: el token puede no traer expiry_date (solo expires_at)
+        $tk | Add-Member -NotePropertyName access_token -NotePropertyValue $script:Token -Force
+        $tk | Add-Member -NotePropertyName expiry_date  -NotePropertyValue $script:Expiry.ToFileTime() -Force
+        $tk | Add-Member -NotePropertyName expires_at    -NotePropertyValue $script:Expiry.ToUniversalTime().ToString('o') -Force
         [IO.File]::WriteAllText($RutaToken, ($tk | ConvertTo-Json -Depth 6), $utf8)
+        $script:ultimaRecarga = Get-Date
         Log "  access_token refrescado"
-    } catch { Log ("  AVISO: refresh fallido (" + $_.Exception.Message + ")") }
+        return $true
+    } catch { Log ("  AVISO: refresh fallido (" + $_.Exception.Message + ")"); return $false }
 }
-if ($Expiry -ne [datetime]::MinValue -and $Expiry -lt (Get-Date).AddMinutes(-5)) { Refrescar-Token }
+$script:ultimaRecarga = [datetime]::MinValue
+# comparar SIEMPRE en UTC: un DateTime Kind=Utc comparado con hora local por ticks
+# (sin convertir) nunca detecta la caducidad cuando la fecha UTC ya cambio de dia.
+$expUtc = switch ($Expiry.Kind) {
+    ([DateTimeKind]::Utc) { $Expiry }
+    ([DateTimeKind]::Local) { $Expiry.ToUniversalTime() }
+    default { [DateTime]::SpecifyKind($Expiry, [DateTimeKind]::Local).ToUniversalTime() }
+}
+if ($Expiry -ne [datetime]::MinValue -and $expUtc -lt [datetime]::UtcNow.AddMinutes(-5)) { [void](Refrescar-Token) }
 if (-not $Token) { Log "no hay access_token: nada que aplicar"; exit 1 }
 
 $script:BlogId = $null
 function Obtener-BlogId {
     if ($script:BlogId) { return $script:BlogId }
     $u = [uri]::EscapeDataString('https://empleosperuhoy.blogspot.com/')
-    $r = Invoke-RestMethod -Uri ("https://www.googleapis.com/blogger/v3/blogs/byurl?accessToken=$u&key=$script:Token") -Headers @{ Authorization = "Bearer $script:Token" } -TimeoutSec 30
+    $url = "https://www.googleapis.com/blogger/v3/blogs/byurl?url=" + $u + "&fields=id,name,url"
+    $r = $null
+    try {
+        $r = Invoke-RestMethod -Uri $url -Headers @{ Authorization = "Bearer $script:Token" } -TimeoutSec 30
+    } catch {
+        $cod = 0; if ($_.Exception.Response) { $cod = [int]$_.Exception.Response.StatusCode }
+        if ($cod -eq 401 -and (Refrescar-Token)) {
+            $r = Invoke-RestMethod -Uri $url -Headers @{ Authorization = "Bearer $script:Token" } -TimeoutSec 30
+        } else { throw }
+    }
     $script:BlogId = [string]$r.id
     return $script:BlogId
 }
@@ -210,6 +245,14 @@ function Api([string]$metodo, [string]$uri, $cuerpo) {
             $script:hubo429 = $true
             throw [System.Exception]::new("429 " + $_.Exception.Message)
         }
+        if ($cod -eq 401) {
+            # token caducado en caliente: un refresco (con minimo 60 s entre
+            # intentos) y un solo reintento; si vuelve 401 se propaga el error
+            if (((Get-Date) - $script:ultimaRecarga).TotalSeconds -gt 60 -and (Refrescar-Token)) {
+                return Api $metodo $uri $cuerpo
+            }
+            throw [System.Exception]::new("401 " + $_.Exception.Message)
+        }
         if ($cod -in @(404, 410)) { return @{ ausente = $true; codigo = $cod } }
         throw
     }
@@ -223,7 +266,11 @@ foreach ($p in $plan) { $asignadas[[string]$p.id] = $p }
 
 function Marcar([string]$id, [string]$estado, [string]$nota) {
     foreach ($it in $items) {
-        if ([string]$it.id -eq $id) { $it.estado = $estado; $it.aplicadaEn = (Get-Date).ToString('o'); if ($nota) { $it.notaAplicacion = $nota } }
+        if ([string]$it.id -eq $id) {
+            $it | Add-Member -NotePropertyName estado -NotePropertyValue $estado -Force
+            $it | Add-Member -NotePropertyName aplicadaEn -NotePropertyValue ((Get-Date).ToString('o')) -Force
+            if ($nota) { $it | Add-Member -NotePropertyName notaAplicacion -NotePropertyValue $nota -Force }
+        }
     }
 }
 function Guardar-Cola {
@@ -254,20 +301,26 @@ foreach ($p in $plan) {
     $etiqueta = "[" + $idx + "/" + $plan.Count + "] " + $accion + " " + $pid_
     try {
         if ($accion -eq 'RETIRAR') {
-            $r = Api 'DELETE' ("https://www.googleapis.com/blogger/v3/blogs/$idBlog/posts/" + $pid_) $null
+            if ($RetirarComo -eq 'Borrador') {
+                # Blogger API v3: posts.revert = publicado -> borrador (PATCH status no funciona).
+                $r = Api 'POST' ("https://www.googleapis.com/blogger/v3/blogs/$idBlog/posts/" + $pid_ + "/revert") $null
+            } else {
+                $r = Api 'DELETE' ("https://www.googleapis.com/blogger/v3/blogs/$idBlog/posts/" + $pid_) $null
+            }
+            $modo = if ($RetirarComo -eq 'Borrador') { 'BORRADOR' } else { 'DELETE' }
             if ($r -is [hashtable] -and $r.ausente) {
                 Marcar $pid_ 'YA-AUSENTE' ("post no encontrado (HTTP " + $r.codigo + ")")
                 Registrar ("RETIRO | " + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss') + " | " + $pid_ + " | " + [string]$p.url + " | " + [string]$p.motivo + " | YA-AUSENTE")
                 $omitidas++
                 Log ("  " + $etiqueta + " -> ya no existe (OK)")
             } else {
-                Marcar $pid_ 'RETIRADA' ''
-                Registrar ("RETIRO | " + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss') + " | " + $pid_ + " | " + [string]$p.url + " | " + [string]$p.motivo)
+                Marcar $pid_ 'RETIRADA' $modo
+                Registrar ("RETIRO | " + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss') + " | " + $pid_ + " | " + [string]$p.url + " | " + [string]$p.motivo + " | MODO=" + $modo)
                 if ([string]$p.idConservado -ne '') {
                     Registrar ("DUPLICADO | " + (Get-Date -Format 'yyyy-MM-dd HH:mm:ss') + " | " + [string]$p.idConservado + " | " + $pid_ + " | " + [string]$p.motivo)
                 }
                 $retiradas++
-                Log ("  " + $etiqueta + " -> RETIRADO")
+                Log ("  " + $etiqueta + " -> RETIRADO (" + $modo + ")")
             }
         } elseif ($accion -eq 'CORREGIR') {
             $get = Api 'GET' ("https://www.googleapis.com/blogger/v3/blogs/$idBlog/posts/" + $pid_ + "?fields=id,title,content,labels,status") $null

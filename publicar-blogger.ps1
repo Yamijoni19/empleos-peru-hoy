@@ -741,7 +741,7 @@ foreach ($f in $archivos) {
         Guardar-Registro
         Write-Host ("[" + $n + "/" + $archivos.Count + "] OK   " + $titulo)
         Write-Host ("        " + $post.url)
-        Start-Sleep -Milliseconds 2000
+        Start-Sleep -Milliseconds 2500
     } catch {
         $fail++
         $msg = $_.Exception.Message

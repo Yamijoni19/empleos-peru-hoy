@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118444551",
+    "clave":  "id:1118444551",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/repsol-vendedor-de-tienda-repsol-1118444551.html",
+                   "capturadoEn":  "2026-10-06T04:12:09-05:00"
+               },
+    "titulo":  "REPSOL: Vendedor de Tienda",
+    "empresa":  "REPSOL",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1229,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.229 - S/ 1.230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "��nete al equipo Repsol! Con m�s de 30 a�os de presencia en el Per� , estamos en b�squeda de Vendedores(as) de Tienda para nuestras Estaciones de Servicio. FUNCIONES: Responsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos. Realizar cobros, emisi�n de comprobantes, manejo de efectivo y tarjetas, as� como cierres operativos y control de Kardex. Reponer mercader�a, colocar precios y retirar productos vencidos. Cumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control. Verificar y relevar los equipos asignados de la estaci�n durante cada turno. Cumplir con los objetivos de ventas y control de gastos. Mantener la limpieza y orden de las �reas asignadas. Brindar una atenci�n y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa. Cumplir con los est�ndares de imagen y presentaci�n personal establecidos. REQUISITOS: Estudios secundarios completos. Disponibilidad para laborar inmediata. Experiencia en atenci�n al cliente (deseable). Disponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos. BENEFICIOS: Ingreso a planilla desde el primer d�a con todos los beneficios de ley Sueldo acorde al mercado Bonos por meta de ventas Oportunidad de crecimiento",
+    "requisitos":  [
+                       "Estudios secundarios completos.",
+                       "Disponibilidad para laborar inmediata.",
+                       "Experiencia en atenci�n al cliente (deseable).",
+                       "Disponibilidad para trabajar en turno tarde de 2:00 PM a 10:00 PM o en horarios rotativos."
+                   ],
+    "funciones":  [
+                      "Responsable de la venta y ofrecimiento de productos de tienda, siguiendo los procedimientos establecidos.",
+                      "Realizar cobros, emisi�n de comprobantes, manejo de efectivo y tarjetas, as� como cierres operativos y control de Kardex.",
+                      "Reponer mercader�a, colocar precios y retirar productos vencidos.",
+                      "Cumplir con los protocolos de seguridad, uso de EPP y llenado de formatos de control.",
+                      "Verificar y relevar los equipos asignados de la estaci�n durante cada turno.",
+                      "Cumplir con los objetivos de ventas y control de gastos.",
+                      "Mantener la limpieza y orden de las �reas asignadas.",
+                      "Brindar una atenci�n y servicio de calidad al cliente, de acuerdo con los protocolos y la cultura de la empresa.",
+                      "Cumplir con los est�ndares de imagen y presentaci�n personal establecidos."
+                  ],
+    "beneficios":  [
+                       "Ingreso a planilla desde el primer d�a con todos los beneficios de ley",
+                       "Sueldo acorde al mercado",
+                       "Bonos por meta de ventas",
+                       "Oportunidad de crecimiento"
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/repsol-vendedor-de-tienda-repsol-1118444551.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/repsol-vendedor-de-tienda-repsol-1118444551.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

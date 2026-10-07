@@ -20,16 +20,23 @@
   <h1>Empleos en Per&#250;: ofertas de trabajo actualizadas</h1>
   <p>Miles de ofertas de empleo en Lima y regiones. Elige <strong>Privado</strong> o <strong>Estado</strong>: cada modo muestra sus propios filtros.</p>
 
+   <div class="sector-switch" id="sectorSwitch" aria-label="Sector del empleo">
+      <button type="button" class="sector-btn activa" data-sector="privado">Privado <span class="sector-num" data-sector-num="privado" data-sector-total="117" style="display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;background:#0f4c81;color:#fff;font-size:10px;font-weight:800;letter-spacing:.3px;">117</span></button>
+      <button type="button" class="sector-btn" data-sector="estado">Estado <span class="sector-num" data-sector-num="estado" data-sector-total="2632" style="display:inline-block;margin-left:6px;padding:1px 7px;border-radius:999px;background:#0f4c81;color:#fff;font-size:10px;font-weight:800;letter-spacing:.3px;">2632</span></button>
+    </div>
+
+  <!-- ENCABEZADO DE RESULTADOS -->
+  <div class="empleos-cabecera" style="max-width:900px;margin:14px auto 0;padding:10px 16px;border-top:1px solid rgba(255,255,255,.18);border-bottom:1px solid rgba(255,255,255,.18);">
+    <h2 id="tituloResultados" style="margin:0;color:#ffffff;">Empleos del sector privado</h2>
+    <span class="contador-resultados" id="contadorResultados" style="color:rgba(255,255,255,.75);"></span>
+  </div>
+
   <div class="buscador-contenedor">
     <input type="text" id="portalBusqueda" class="buscador-input" placeholder="Buscar por t&#237;tulo, empresa o departamento...">
     <button id="portalBuscar" class="buscador-boton">Buscar</button>
   </div>
 
   <div class="filtros-contenedor">
-    <div class="sector-switch" id="sectorSwitch" aria-label="Sector del empleo">
-      <button type="button" class="sector-btn activa" data-sector="privado">Privado</button>
-      <button type="button" class="sector-btn" data-sector="estado">Estado</button>
-    </div>
     <div class="filtros-grid">
       <div class="filtro-grupo filtro-solo-privado" data-filtro="modalidad">
         <div class="filtro-grupo-titulo">Modalidad <span class="flecha"></span></div>
@@ -108,12 +115,6 @@
       <button class="categoria-card categoria-otros" data-categoria="Otros"><span>Otros</span></button>
     </div>
     <button id="categoriaSiguiente" style="position:absolute;right:-6px;top:50%;transform:translateY(-50%);z-index:5;width:28px;height:28px;border-radius:50%;border:1px solid #d1d5db;background:#fff;cursor:pointer;font-size:14px;display:flex;align-items:center;justify-content:center;box-shadow:0 2px 6px rgba(0,0,0,.15);">&#8250;</button>
-  </div>
-
-  <!-- ENCABEZADO DE RESULTADOS -->
-  <div class="empleos-cabecera" style="max-width:900px;margin:18px auto 0;padding:0 16px;">
-    <h2 id="tituloResultados">Empleos del sector privado</h2>
-    <span class="contador-resultados" id="contadorResultados"></span>
   </div>
 
   <!-- GRID DE EMPLEOS -->

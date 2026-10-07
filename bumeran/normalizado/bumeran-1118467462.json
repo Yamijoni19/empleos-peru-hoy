@@ -1,0 +1,58 @@
+{
+    "id":  "bumeran-1118467462",
+    "clave":  "id:1118467462",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-gana-entre-s-1600-a-s-1800-san-borja-brena-surquillo-planilla-completa-manpowergroup-peru-1118467462.html",
+                   "capturadoEn":  "2026-10-06T04:12:22-05:00"
+               },
+    "titulo":  "Ayudante de Cocina/ gana entre s/1600 a s/1800 San Borja/ Bre�a/ Surquillo / Planilla completa",
+    "empresa":  "ManpowerGroup Per�",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "s/1600 a s/1800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Reconocida cadena del sector gastron�mico, nos encontramos en la b�squeda de los mejores talentos para sumarse a nuestro equipo de *Ayudante de Cocina* . Si eres una persona din�mica, con pasi�n por el servicio y ganas de crecer, �esta oportunidad es para ti! Requisitos del puesto: Experiencia: M�nimo 3 meses realizando funciones en cocina, producci�n de alimentos o puestos similares en el rubro gastron�mico. Disponibilidad: Para laborar en horarios rotativos de lunes a domingo, con un d�a de descanso semanal seg�n programaci�n. Jornada y Horarios Laborales (Rotativos): Turno Ma�ana: Rango de 8:00 a.m. a 4:00 p.m. / 9:00 a.m. a 5:00 p.m. Turno Tarde/Noche: Rango de 4:00 p.m. a 12:00 a.m. / 5:00 p.m. a 1:00 a.m. �Qu� te ofrecemos? Planilla completa de Chilis Alimentaci�n cubierta al 100%: Beneficios de ley: Horas extras totalmente remuneradas. Compensaci�n de feriados Crecimiento profesional: Oportunidad de desarrollo y l�nea de carrera dentro de una de las corporaciones gastron�micas m�s importantes del pa�s. Excelente clima laboral y estabilidad.",
+    "requisitos":  [
+                       "Experiencia: M�nimo 3 meses realizando funciones en cocina, producci�n de alimentos o puestos similares en el rubro gastron�mico."
+                   ],
+    "funciones":  [
+
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-04",
+    "fecha_cierre":  "2027-01-02",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-gana-entre-s-1600-a-s-1800-san-borja-brena-surquillo-planilla-completa-manpowergroup-peru-1118467462.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-gana-entre-s-1600-a-s-1800-san-borja-brena-surquillo-planilla-completa-manpowergroup-peru-1118467462.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

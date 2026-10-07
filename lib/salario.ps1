@@ -12,10 +12,16 @@ function Convertir-Monto([string]$s) {
     if ($t -eq '') { return $null }
     # 1.450 o 1.450,50 -> miles con punto
     if ($t -match '^\d{1,3}(\.\d{3})+(,\d{1,2})?$') { $t = ($t -replace '\.', '') -replace ',', '.' }
+    # 3.140.00 -> miles con punto y decimal con punto (3140.00, NO 314000)
+    elseif ($t -match '^\d{1,3}(?:\.\d{3})+\.\d{2}$') { $t = ($t -replace '\.', '') -replace '(\d{2})$', '.$1' }
     # 1,450 o 1,450.50 -> miles con coma
     elseif ($t -match '^\d{1,3}(,\d{3})+(\.\d{1,2})?$') { $t = ($t -replace ',', '') }
+    # 6,624,00 -> miles con coma y decimal con coma (6624.00, NO 662400)
+    elseif ($t -match '^\d{1,3}(?:,\d{3})+,\d{2}$') { $t = ($t -replace ',', '') -replace '(\d{2})$', '.$1' }
     # 2500,50 -> decimal con coma
     elseif ($t -match '^\d+,\d{1,2}$' -and $t.Length -le 6) { $t = $t -replace ',', '.' }
+    # 4500.00 -> decimal con punto (NO tratarlo como miles: 4500.00 != 450000)
+    elseif ($t -match '^\d+\.\d{1,2}$') { }
     else { $t = $t -replace '[^\d]', '' }
     if ($t -eq '') { return $null }
     $v = $null

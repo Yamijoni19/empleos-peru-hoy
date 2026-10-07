@@ -11,3 +11,6 @@ reporte/*.log
 config/_guard-test.json
 *.tmp
 Thumbs.db
+
+# ---- respaldos locales pesados ----
+RESPALDO/

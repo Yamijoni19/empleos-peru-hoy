@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118467459",
+    "clave":  "id:1118467459",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/enfermera-de-vigilancia-medica-proyecto-marcona-san-martin-contratistas-generales-1118467459.html",
+                   "capturadoEn":  "2026-10-06T04:12:22-05:00"
+               },
+    "titulo":  "Enfermera de Vigilancia M�dica - Proyecto Marcona",
+    "empresa":  "San Martin Contratistas Generales",
+    "ubicacion":  "Ica - San Juan de Marcona",
+    "ciudad":  "San Juan de Marcona",
+    "region":  "Ica",
+    "modalidad":  "",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nuestra organizaci�n, San Mart�n Contratistas , empresa del sector Miner�a y Construcci�n, se encuentra en la b�squeda de destacados profesionales para integrarse a nuestro equipo. Actualmente estamos en b�squeda de: ENFERMERA(O) DE VIGILANCIA M�DICA � PROYECTO MARCONA REQUISITOS: Profesional universitario titulado y colegiado en Enfermer�a. Experiencia m�nima de 1 a�o en funciones similares . Conocimientos en Salud Ocupacional . Conocimientos en Soporte Vital B�sico (BLS) o Soporte Vital B�sico y Avanzado en el Trauma Prehospitalario (PHTLS) . Manejo de ofim�tica . Deseable formaci�n en Salud Ocupacional . Disponibilidad para laborar bajo r�gimen 14x7 en Proyecto Marcona . FUNCIONES: Realizar seguimiento y control de los resultados de evaluaciones m�dicas y monitoreo ocupacional. Elaborar y actualizar registros de atenciones m�dicas, enfermedades ocupacionales, descansos m�dicos y ex�menes m�dicos. Ejecutar actividades de capacitaci�n, inspecci�n y seguimiento de los programas preventivos de salud ocupacional. Realizar an�lisis epidemiol�gicos y demogr�ficos, identificando y reportando alertas y desviaciones. Auditar y realizar seguimiento a centros evaluadores y centros m�dicos. Elaborar reportes y documentos de gesti�n de Salud Ocupacional. Participar en la elaboraci�n y ejecuci�n del Plan de Salud Ocupacional y Plan de Respuesta a Emergencias. Brindar talleres sobre primeros auxilios, higiene, h�bitos saludables y prevenci�n de riesgos. Participar en actividades de IPERC y ATS, cuando corresponda. �Al postular usted autoriza el uso de sus datos para verificaciones laborales y otros propios del proceso de Selecci�n, de conformidad a lo establecido en la Ley N.� 29733 � Ley de Protecci�n de Datos Personales y su Reglamento D.S. 003-2013-JUS.� �San Mart�n promueve pr�cticas de igualdad y no discriminaci�n de cualquier �ndole.� IMPORTANTE: San Mart�n no solicita ning�n pago y/o abono de dinero u otra especie por participar en nuestros procesos de selecci�n ni en ninguna etapa del mismo.",
+    "requisitos":  [
+                       "Profesional universitario titulado y colegiado en Enfermer�a.",
+                       "Experiencia m�nima de 1 a�o en funciones similares .",
+                       "Conocimientos en Salud Ocupacional .",
+                       "Conocimientos en Soporte Vital B�sico (BLS) o Soporte Vital B�sico y Avanzado en el Trauma Prehospitalario (PHTLS) .",
+                       "Manejo de ofim�tica .",
+                       "Deseable formaci�n en Salud Ocupacional .",
+                       "Disponibilidad para laborar bajo r�gimen 14x7 en Proyecto Marcona ."
+                   ],
+    "funciones":  [
+                      "Realizar seguimiento y control de los resultados de evaluaciones m�dicas y monitoreo ocupacional.",
+                      "Elaborar y actualizar registros de atenciones m�dicas, enfermedades ocupacionales, descansos m�dicos y ex�menes m�dicos.",
+                      "Ejecutar actividades de capacitaci�n, inspecci�n y seguimiento de los programas preventivos de salud ocupacional.",
+                      "Realizar an�lisis epidemiol�gicos y demogr�ficos, identificando y reportando alertas y desviaciones.",
+                      "Auditar y realizar seguimiento a centros evaluadores y centros m�dicos.",
+                      "Elaborar reportes y documentos de gesti�n de Salud Ocupacional.",
+                      "Participar en la elaboraci�n y ejecuci�n del Plan de Salud Ocupacional y Plan de Respuesta a Emergencias.",
+                      "Brindar talleres sobre primeros auxilios, higiene, h�bitos saludables y prevenci�n de riesgos.",
+                      "Participar en actividades de IPERC y ATS, cuando corresponda."
+                  ],
+    "beneficios":  [
+
+                   ],
+    "fecha_publicacion":  "2026-10-03",
+    "fecha_cierre":  "2027-01-31",
+    "url":  "https://www.bumeran.com.pe/empleos/enfermera-de-vigilancia-medica-proyecto-marcona-san-martin-contratistas-generales-1118467459.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/enfermera-de-vigilancia-medica-proyecto-marcona-san-martin-contratistas-generales-1118467459.html",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

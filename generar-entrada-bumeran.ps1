@@ -31,7 +31,7 @@ $Plantilla   = Join-Path $BaseDir 'plantilla-oferta-data.html'
 $Validador   = Join-Path $BaseDir 'validar-entrada.ps1'
 $LogPath     = Join-Path $BaseDir ('reporte\bumeran-entradas-{0}.log' -f (Get-Date -Format 'yyyyMMdd'))
 $utf8 = New-Object System.Text.UTF8Encoding($false)
-foreach ($d in @($DirSalida, $DirValid, (Join-Path $BaseDir 'reporte'))) { New-Item -ItemType Directory -Path $d -Force | Out-Null }
+foreach ($d in @($DirSalida, $DirValid, (Join-Path $BaseDir 'reporte'))) { New-Item -ItemType Directory -Path $d -Force  }
 
 function Log([string]$m) {
     $l = "[{0}] {1}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $m
@@ -85,6 +85,10 @@ function Quita-Vacio([string]$html, [string]$ph) {
     $html = [regex]::Replace($html, '(?is)\s*<p>\s*' + [regex]::Escape($ph) + '\s*</p>', '')
     return $html
 }
+function Quita-Seccion([string]$html, [string]$titulo) {
+    # quita la seccion completa <div class="empleo-seccion"> cuando no hay contenido real
+    return [regex]::Replace($html, '(?s)\s*<div class="empleo-seccion">\s*<h2>\s*' + [regex]::Escape($titulo) + '\s*</h2>.*?</div>', '')
+}
 
 if (-not (Test-Path $Plantilla)) { Write-Host ("ERROR: falta la plantilla " + $Plantilla); exit 1 }
 if (-not (Test-Path $DirNorm)) { Write-Host ("ERROR: no existe " + $DirNorm); exit 1 }
@@ -130,26 +134,37 @@ foreach ($fi in $fichas) {
     elseif ([string]$o.modalidad -ne '') { $modal = [string]$o.modalidad }
     $contrato = Limpiar $o.contrato
     if ($contrato -eq '') { $contrato = 'No especificado' }
-    $fPub = [string]$o.fecha_publicacion; if ($fPub -eq '') { $fPub = 'No especificado' }
-    $fCie = [string]$o.fecha_cierre;     if ($fCie -eq '') { $fCie = 'No especificado' }
+    $fPub = [string]$o.fecha_publicacion; if ($fPub -eq '') { $fPub = 'No especificado' } else { try { $fPub = ([datetime]$fPub).ToString('dd/MM/yyyy') } catch { } }
+    $fCie = [string]$o.fecha_cierre;     if ($fCie -eq '') { $fCie = 'No especificado' } else { try { $fCie = ([datetime]$fCie).ToString('dd/MM/yyyy') } catch { } }
 
-    $desc = Limpiar $o.descripcion
-    if ($desc -eq '') { $desc = 'No especificado' }
-    $p1 = ''; $p2 = ''
-    if ($desc -ne 'No especificado') {
-        if ($desc.Length -le 700) { $p1 = $desc }
-        else {
-            $corte = $desc.LastIndexOf('. ', 700)
-            if ($corte -lt 300) { $corte = 700 }
-            $p1 = $desc.Substring(0, $corte).Trim()
-            $p2 = $desc.Substring($corte).Trim()
-        }
-    }
+    # ---------------------------------------------------------------- resumen propio (no copiar literal)
+    $exp = Limpiar $o.experiencia; if ($exp -eq '') { $exp = 'No especificado' }
+    $jor = Limpiar $o.jornada;    if ($jor -eq '') { $jor = 'No especificado' }
+    $vca = Limpiar $o.vacantes;   if ($vca -eq '') { $vca = 'No especificado' }
+    $est = Limpiar $o.estudios;   if ($est -eq '') { $est = 'No especificado' }
+    $area = Limpiar $o.area;      if ($area -eq '') { $area = 'No especificado' }
+    $niv  = Limpiar $o.nivel;     if ($niv -eq '')  { $niv = 'No especificado' }
+    $turno = Limpiar $o.turno;    if ($turno -eq '') { $turno = 'No especificado' }
+    $horario = Limpiar $o.horario; if ($horario -eq '') { $horario = 'No especificado' }
+
+    $resumen1 = 'Se busca ' + $titulo + ' para ' + $(if ($empresa -ne 'No especificado') { $empresa } else { 'una empresa confidencial' }) + ' en ' + $ubi + '.'
+    $detalles = @()
+    if ($modal -ne 'No especificado') { $detalles += 'Modalidad: ' + $modal }
+    if ($jor -ne 'No especificado')  { $detalles += 'Jornada: ' + $jor }
+    if ($contrato -ne 'No especificado') { $detalles += 'Contrato: ' + $contrato }
+    if ($exp -ne 'No especificado')  { $detalles += 'Experiencia: ' + $exp }
+    if ($est -ne 'No especificado')  { $detalles += 'Estudios: ' + $est }
+    if ($turno -ne 'No especificado') { $detalles += 'Turno: ' + $turno }
+    if ($horario -ne 'No especificado') { $detalles += 'Horario: ' + $horario }
+
+    $p1 = $resumen1
+    $p2 = ''
+    if ($detalles.Count -gt 0) { $p2 = ($detalles -join '. ') + '.' }
+    if ($p2 -eq '') { $p2 = 'Los interesados aplican directamente en Bumeran a través del enlace de esta publicación.' }
 
     $funciones = @(); foreach ($x in @($o.funciones)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado') { $funciones += $x } }
-    if ($funciones.Count -eq 0) { foreach ($x in @($o.requisitos)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado') { $funciones += $x } } }
     $requisitos = @(); foreach ($x in @($o.requisitos)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado' -and $funciones -notcontains $x) { $requisitos += $x } }
-    $beneficios = @(); foreach ($x in @($o.beneficios)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado') { $beneficios += $x } }
+     $beneficios = @(); foreach ($x in @($o.beneficios)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado' -and $x -notmatch 'Sueldo|Salario|Remuneraci[o&]n') { $beneficios += $x } }
 
     # ---------------------------------------------------------------- plantilla
     $html = [IO.File]::ReadAllText($Plantilla, [Text.Encoding]::UTF8)
@@ -165,15 +180,19 @@ foreach ($fi in $fichas) {
         '@@SALARIO@@'           = $salTxt
         '@@DESCRIPCION_P1@@'    = $(if ($p1 -eq '') { '' } else { $p1 })
         '@@DESCRIPCION_P2@@'    = $(if ($p2 -eq '') { '' } else { $p2 })
-        '@@VACANTES@@'          = 'No especificado'
-        '@@JORNADA@@'           = 'No especificado'
+        '@@VACANTES@@'          = $vca
+        '@@JORNADA@@'           = $jor
         '@@CONTRATO2@@'         = $contrato
         '@@MODALIDAD2@@'        = $modal
-        '@@EXPERIENCIA@@'       = 'No especificado'
-        '@@ESTUDIOS@@'          = 'No especificado'
+        '@@EXPERIENCIA@@'       = $exp
+        '@@ESTUDIOS@@'          = $est
         '@@SALARIO2@@'          = $salTxt
         '@@FECHA_PUBLICACION@@' = $fPub
         '@@FECHA_CIERRE@@'      = $fCie
+        '@@AREA@@'              = $area
+        '@@NIVEL@@'             = $niv
+        '@@TURNO@@'             = $turno
+        '@@HORARIO@@'           = $horario
         '@@TIPO_CONTRATANTE@@'  = 'Privado'
         '@@TIPO_CONTRATO_ESTADO@@' = 'No especificado'
         '@@TIPO_ENTIDAD@@'      = 'Empresa privada'
@@ -189,7 +208,7 @@ foreach ($fi in $fichas) {
         $v = ''; if ($i -le $funciones.Count) { $v = $funciones[$i - 1] }
         if ($v -eq '') { $html = Quita-Vacio $html ('@@FUNCION' + $i + '@@') } else { $map['@@FUNCION' + $i + '@@'] = $v }
     }
-    for ($i = 1; $i -le 5; $i++) {
+    for ($i = 1; $i -le 6; $i++) {
         $v = ''; if ($i -le $requisitos.Count) { $v = $requisitos[$i - 1] }
         if ($v -eq '') { $html = Quita-Vacio $html ('@@REQUISITO' + $i + '@@') } else { $map['@@REQUISITO' + $i + '@@'] = $v }
     }
@@ -202,6 +221,9 @@ foreach ($fi in $fichas) {
 
     foreach ($k in $map.Keys) { $html = $html.Replace($k, (Escapar ([string]$map[$k]))) }
     $html = [regex]::Replace($html, '@@[A-Z0-9_]+@@', '')
+    if ($funciones.Count -eq 0)  { $html = Quita-Seccion $html 'Funciones' }
+    if ($requisitos.Count -eq 0) { $html = Quita-Seccion $html 'Requisitos' }
+    if ($beneficios.Count -eq 0) { $html = Quita-Seccion $html 'Beneficios' }
 
     $meta = "<!-- ETIQUETA_BLOGGER = Empleo`r`n     TITULO_BLOGGER = " + $titulo + " -->`r`n`r`n"
     $entrada = $meta + $html
@@ -216,12 +238,12 @@ foreach ($fi in $fichas) {
         if ($LASTEXITCODE -ne 0) { $ok = $false; $motivo = 'no paso validar-entrada.ps1' }
     }
     if (-not $ok) {
-        Remove-Item $rutaTmp -Force -ErrorAction SilentlyContinue
+        Remove-Item ($rutaTmp + '._keep') -ErrorAction SilentlyContinue
         Rechazar ([string]$o.url) $motivo
         $rechazadas++
         continue
     }
-    Remove-Item $rutaTmp -Force -ErrorAction SilentlyContinue
+    Remove-Item ($rutaTmp + '._keep') -ErrorAction SilentlyContinue
 
     [IO.File]::WriteAllText($ruta, $entrada, $utf8)
     $hechas++
