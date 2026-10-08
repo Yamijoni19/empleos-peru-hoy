@@ -7,11 +7,13 @@
 #   .\generar-entrada-bumeran.ps1 -Repasar        # regenera aunque exista
 #
 # REGLAS:
-#   - SIEMPRE valida con validar-entrada.ps1 antes de guardar.
-#   - Si la validacion falla: no se guarda la entrada y se registra
-#     RECHAZADA | fecha | URL | motivo  en datos\cola\rechazadas.txt.
+#   - SIEMPRE valida con validar-entrada.ps1 -Calidad antes de guardar.
+#   - Si la validacion falla o hay copia >=35% de la fuente: la entrada se
+#     guarda en datos\revision\ y se registra en datos\cola\rechazadas.txt
+#     (NUNCA se descarta en silencio, nunca queda en salida\).
 #   - Salario: si hay monto real se muestra; si no: "No especificado"
 #     (NUNCA "A convenir").
+#   - Categoria/salario/jornada/etc: formas canonicas de lib\ (Fase A).
 #   - Idempotente: no regenera lo ya generado (deduplicacion por id).
 
 param(
@@ -33,14 +35,24 @@ $LogPath     = Join-Path $BaseDir ('reporte\bumeran-entradas-{0}.log' -f (Get-Da
 $utf8 = New-Object System.Text.UTF8Encoding($false)
 foreach ($d in @($DirSalida, $DirValid, (Join-Path $BaseDir 'reporte'))) { New-Item -ItemType Directory -Path $d -Force  }
 
+# librerias Fase A: categoria canonica, glosario de campos, anti-copia
+. (Join-Path $BaseDir 'lib\categoria.ps1')
+. (Join-Path $BaseDir 'lib\estandar.ps1')
+. (Join-Path $BaseDir 'lib\reescritor.ps1')
+
 function Log([string]$m) {
     $l = "[{0}] {1}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $m
     try { [IO.File]::AppendAllText($LogPath, ($l + "`r`n"), $utf8) } catch { }
     Write-Host $l
 }
-function Rechazar([string]$url, [string]$motivo) {
+function Guardar-Revision([string]$nombreHtml, [string]$html, [string]$url, [string]$motivo) {
+    # decision Fase A: toda entrada que no pasa la puerta de calidad se guarda
+    # en datos\revision\ (para repararla a mano o descartarla despues)
+    $dirRev = Join-Path $BaseDir 'datos\revision'
+    if (-not (Test-Path $dirRev)) { New-Item -ItemType Directory -Path $dirRev -Force | Out-Null }
+    [IO.File]::WriteAllText((Join-Path $dirRev $nombreHtml), $html, $utf8)
     [IO.File]::AppendAllText($RutaRech, ("RECHAZADA | {0} | {1} | {2}" -f (Get-Date -Format 'yyyy-MM-dd HH:mm:ss'), $url, $motivo) + "`r`n", $utf8)
-    Log ("RECHAZADA: " + $motivo)
+    Log ("REVISION -> datos\revision\" + $nombreHtml + " | " + $motivo)
 }
 function Escapar([string]$t) {
     $s = [string]$t
@@ -52,23 +64,6 @@ function Escapar([string]$t) {
 function Limpiar([string]$t) {
     $s = ([string]$t) -replace '\s+', ' '
     return $s.Trim()
-}
-function Categoria-De([string]$t, [string]$e) {
-    $x = ($t + ' ' + $e).ToLower()
-    if ($x -match 'administrativ|contabl|contable|tesorer|cobranz|facturac|auxiliar') { return 'Administracion y Finanzas' }
-    if ($x -match 'recursos humanos|rrhh|seleccion|\brh\b') { return 'Recursos Humanos' }
-    if ($x -match 'desarroll|software|programad|sistem|data|devops|backend|frontend|tecnolog|soporte tecnico|informatic') { return 'Tecnologia' }
-    if ($x -match 'ventas|comercial|asesor|ejecutivo de cuenta|vendedor|promotor|telemarketing') { return 'Ventas' }
-    if ($x -match 'marketing|disen|graphic|community|publicid|comunicacion') { return 'Marketing y Diseno' }
-    if ($x -match 'salud|enfermer|medic|odontolog|farmac|nutricion|laboratorio|kinesi') { return 'Salud' }
-    if ($x -match 'abogad|legal|juridic|compliance') { return 'Legal' }
-    if ($x -match 'ingenier|industrial|produccion|calidad|mantenimiento|civil|mecanic|electric') { return 'Ingenieria' }
-    if ($x -match 'operador|operario|conductor|almacen|logistic|distribuc|repartidor|deposito') { return 'Operaciones y Logistica' }
-    if ($x -match 'call center|atencion al cliente|servicio al cliente|recepcion|cajero|caja') { return 'Atencion al Cliente' }
-    if ($x -match 'docente|profesor|educativ|instructor|capacitador') { return 'Educacion' }
-    if ($x -match 'limpieza|vigilanc|seguridad|aseo|conserje') { return 'Servicios Generales' }
-    if ($x -match 'hotel|restaurante|cocin|mesero|hostel|turismo') { return 'Hoteleria y Gastronomia' }
-    return 'Otros'
 }
 function Slug([string]$t) {
     $s = $t.ToLower()
@@ -99,6 +94,7 @@ if ($fichas.Count -eq 0) { Write-Host 'Bumeran: no hay fichas normalizadas.'; ex
 $hechas = 0
 $omitidas = 0
 $rechazadas = 0
+$revisiones = 0
 $n = 0
 foreach ($fi in $fichas) {
     $n++
@@ -113,13 +109,20 @@ foreach ($fi in $fichas) {
 
     # ---------------------------------------------------------------- salario
     $salTxt = 'No especificado'
+    $salMin = $null; $salMax = $null
     if ($o.salario -and $o.salario.especificado) {
         $salTxt = [string]$o.salario.texto_original
-        if ($salTxt -eq '') {
-            $mn = $o.salario.min; $mx = $o.salario.max
-            if ($null -ne $mn -and $null -ne $mx -and [double]$mn -ne [double]$mx) { $salTxt = ('S/ {0} - S/ {1}' -f ([double]$mn).ToString('N0'), ([double]$mx).ToString('N0')) }
-            elseif ($null -ne $mn) { $salTxt = ('S/ ' + ([double]$mn).ToString('N0')) }
-        }
+        if ($o.salario.min -ne $null) { try { $salMin = [double]$o.salario.min } catch { } }
+        if ($o.salario.max -ne $null) { try { $salMax = [double]$o.salario.max } catch { } }
+    }
+    if ($null -ne $salMin -and $null -ne $salMax -and $salMax -ge $salMin) {
+        $salTxt = Est-Salario -Min $salMin -Max $salMax
+    } elseif ($null -ne $salMin -and ($salTxt -eq '' -or $salTxt -eq 'No especificado')) {
+        $salTxt = Est-Salario -Min $salMin
+    } elseif ($salTxt -ne '' -and $salTxt -ne 'No especificado') {
+        $salTxt = Est-Salario -Texto $salTxt
+    } else {
+        $salTxt = 'No especificado'
     }
     if ($salTxt -eq '' -or $salTxt -eq 'A convenir') { $salTxt = 'No especificado' }
 
@@ -127,20 +130,27 @@ foreach ($fi in $fichas) {
     $titulo  = Limpiar $o.titulo
     $empresa = Limpiar $o.empresa
     if ($empresa -eq '') { $empresa = 'No especificado' }
-    $ubi     = Limpiar $o.ubicacion
-    if ($ubi -eq '') { $ubi = 'No especificado' } else { $ubi = $ubi + ', Peru' }
-    $modal   = 'No especificado'
-    if ([string]$o.modalidad -eq 'TELECOMMUTE') { $modal = 'Remoto' }
-    elseif ([string]$o.modalidad -ne '') { $modal = [string]$o.modalidad }
-    $contrato = Limpiar $o.contrato
-    if ($contrato -eq '') { $contrato = 'No especificado' }
-    $fPub = [string]$o.fecha_publicacion; if ($fPub -eq '') { $fPub = 'No especificado' } else { try { $fPub = ([datetime]$fPub).ToString('dd/MM/yyyy') } catch { } }
-    $fCie = [string]$o.fecha_cierre;     if ($fCie -eq '') { $fCie = 'No especificado' } else { try { $fCie = ([datetime]$fCie).ToString('dd/MM/yyyy') } catch { } }
+    $ubi     = Est-Ubicacion (Limpiar $o.ubicacion)
+    $ciudad  = Est-Ciudad ([string]$o.ciudad)
+    if ($ciudad -eq 'No especificado') { $ciudad = Est-Ciudad (Limpiar $o.ubicacion) }
+    $modal   = Est-Modalidad ([string]$o.modalidad)
+    $contrato = switch ([string]$o.contrato) {
+        'FULL_TIME' { 'Full-time' }
+        'PART_TIME' { 'Part-time' }
+        'TEMPORARY' { 'Temporal' }
+        'CONTRACT'  { 'Por contrato' }
+        'INTERN'    { 'Prácticas' }
+        'VOLUNTEER' { 'Voluntariado' }
+        default     { Est-Contrato ([string]$o.contrato) }
+    }
+    if ([string]::IsNullOrWhiteSpace([string]$contrato)) { $contrato = 'No especificado' }
+    $fPub = Est-Fecha ([string]$o.fecha_publicacion)
+    $fCie = Est-Fecha ([string]$o.fecha_cierre)
 
     # ---------------------------------------------------------------- resumen propio (no copiar literal)
     $exp = Limpiar $o.experiencia; if ($exp -eq '') { $exp = 'No especificado' }
-    $jor = Limpiar $o.jornada;    if ($jor -eq '') { $jor = 'No especificado' }
-    $vca = Limpiar $o.vacantes;   if ($vca -eq '') { $vca = 'No especificado' }
+    $jor = Est-Jornada ([string]$o.jornada)
+    $vca = Est-Vacantes ([string]$o.vacantes)
     $est = Limpiar $o.estudios;   if ($est -eq '') { $est = 'No especificado' }
     $area = Limpiar $o.area;      if ($area -eq '') { $area = 'No especificado' }
     $niv  = Limpiar $o.nivel;     if ($niv -eq '')  { $niv = 'No especificado' }
@@ -166,18 +176,24 @@ foreach ($fi in $fichas) {
     $requisitos = @(); foreach ($x in @($o.requisitos)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado' -and $funciones -notcontains $x) { $requisitos += $x } }
      $beneficios = @(); foreach ($x in @($o.beneficios)) { $x = Limpiar $x; if ($x -ne '' -and $x -ne 'No especificado' -and $x -notmatch 'Sueldo|Salario|Remuneraci[o&]n') { $beneficios += $x } }
 
+    # ---------------------------------------------------------------- categoria canonica (Fase A)
+    $categoria = Obtener-CategoriaExacta -Titulo $titulo -Texto ((@($o.funciones) + @($o.requisitos)) -join ' ')
+
     # ---------------------------------------------------------------- plantilla
     $html = [IO.File]::ReadAllText($Plantilla, [Text.Encoding]::UTF8)
     $map = @{
         '@@FUENTE@@'            = 'BUMERAN'
-        '@@CATEGORIA@@'         = (Categoria-De $titulo $empresa)
+        '@@CATEGORIA@@'         = $categoria
         '@@TITULO@@'            = $titulo
         '@@EMPRESA@@'           = $empresa
         '@@SALARIO_HEADER@@'    = $salTxt
         '@@UBICACION@@'         = $ubi
+        '@@CIUDAD@@'            = $ciudad
         '@@MODALIDAD@@'         = $modal
         '@@CONTRATO@@'          = $contrato
         '@@SALARIO@@'           = $salTxt
+        '@@DIRIGIDO_A@@'        = 'No especificado'
+        '@@COMO_POSTULAR@@'     = 'Completa el formulario de postulación con tus datos, adjunta tu CV en PDF y envía la solicitud con el botón de esta publicación; el proceso lo gestiona directamente Bumeran.'
         '@@DESCRIPCION_P1@@'    = $(if ($p1 -eq '') { '' } else { $p1 })
         '@@DESCRIPCION_P2@@'    = $(if ($p2 -eq '') { '' } else { $p2 })
         '@@VACANTES@@'          = $vca
@@ -216,6 +232,17 @@ foreach ($fi in $fichas) {
         $v = ''; if ($i -le $beneficios.Count) { $v = $beneficios[$i - 1] }
         if ($v -eq '') { $html = Quita-Vacio $html ('@@BENEFICIO' + $i + '@@') } else { $map['@@BENEFICIO' + $i + '@@'] = $v }
     }
+    # "¿Por qué postular?": bullets SOLO con datos reales ya extraidos (Fase A)
+    $porque = Est-Porque @{
+        titulo = $titulo; empresa = $empresa; sector = [string]$o.sector
+        ubicacion = $ubi; ciudad = $ciudad; modalidad = $modal
+        salario = $salTxt; contrato = $contrato; jornada = $jor
+        experiencia = $exp; beneficios = @($beneficios)
+    }
+    for ($i = 1; $i -le 4; $i++) {
+        $v = ''; if ($i -le $porque.Count) { $v = [string]$porque[$i - 1] }
+        if ($v -eq '') { $html = Quita-Vacio $html ('@@PORQUE' + $i + '@@') } else { $map['@@PORQUE' + $i + '@@'] = $v }
+    }
     if ($p1 -eq '') { $html = Quita-Vacio $html '@@DESCRIPCION_P1@@' }
     if ($p2 -eq '') { $html = Quita-Vacio $html '@@DESCRIPCION_P2@@' }
 
@@ -225,8 +252,61 @@ foreach ($fi in $fichas) {
     if ($requisitos.Count -eq 0) { $html = Quita-Seccion $html 'Requisitos' }
     if ($beneficios.Count -eq 0) { $html = Quita-Seccion $html 'Beneficios' }
 
+    # 'No especificado' visible fuera de los 4 recuadros (regla 5 del validador):
+    # se borran esas lineas de .empleo-destacado (oferta y empresa), la linea de
+    # salario de la cabecera y la de empresa si esta vacia
+    $html = [regex]::Replace($html, '(?s)<div class="empleo-destacado">.*?</div>', {
+        param($bl)
+        [regex]::Replace($bl.Value, '(?s)<p>\s*<strong>[^<]*:</strong>\s*No especificad[oa]\s*</p>', '')
+    })
+    if ($salTxt -eq 'No especificado') {
+        $html = [regex]::Replace($html, '(?m)^\s*<div class="empleo-salario-header">[\s\S]*?</div>\r?\n?', '')
+    }
+    if ($empresa -eq 'No especificado') {
+        $html = [regex]::Replace($html, '(?m)^\s*<div class="empleo-empresa">[\s\S]*?</div>\r?\n?', '')
+    }
+
     $meta = "<!-- ETIQUETA_BLOGGER = Empleo`r`n     TITULO_BLOGGER = " + $titulo + " -->`r`n`r`n"
     $entrada = $meta + $html
+
+    # ---------------------------------------------------------------- anti-copia (Fase A)
+    # parrafos/bullets de 15+ palabras con >=35% de n-gramas identicos a la
+    # ficha de origen: se reescriben hasta 3 veces; si aun asi persisten, la
+    # entrada va a datos\revision\ en vez de salida\
+    $fuenteAnti = [string]$o.descripcion_html
+    if ($fuenteAnti -eq '') { $fuenteAnti = [string]$o.descripcion }
+    $reintentos = 0
+    while ($reintentos -lt 3) {
+        $cop = @(Parrafos-Copiados -Html $entrada -Fuente $fuenteAnti -Umbral 0.35)
+        if ($cop.Count -eq 0) { break }
+        $reintentos++
+        foreach ($c in $cop) {
+            $tipo = 'p'; if ([string]$c.tipo -eq 'li') { $tipo = 'li' }
+            $viejo = [string]$c.texto
+            $nuevos = @(Reescribir-Copiado -texto $viejo -tipo $tipo -Fuente $fuenteAnti)
+            $rep = ''
+            if ($tipo -eq 'li') {
+                # reemplazar el <li> COMPLETO: N fragmentos => N <li> hermanos
+                # (nunca anidar <li> dentro de <li>)
+                foreach ($nv in $nuevos) { $rep += '<li>' + $nv + '</li>' }
+                if ($rep -eq '') { continue }
+                $rx = '<li[^>]*>' + [regex]::Escape($viejo) + '</li>'
+                if ([regex]::IsMatch($entrada, $rx)) {
+                    $entrada = [regex]::Replace($entrada, $rx, [System.Text.RegularExpressions.MatchEvaluator] { param($m) $rep })
+                } else { continue }
+            } else {
+                # 1 trozo => mismo parrafo; N trozos => parrafos hermanos
+                $rep = ($nuevos -join '</p><p>')
+                if ($rep -eq '') { continue }
+                if ($entrada.Contains($viejo)) { $entrada = $entrada.Replace($viejo, $rep) } else { continue }
+            }
+        }
+    }
+    if (@(Parrafos-Copiados -Html $entrada -Fuente $fuenteAnti -Umbral 0.35).Count -gt 0) {
+        Guardar-Revision $nombre $entrada ([string]$o.url) 'anti-copia: parrafos con >=35% de n-gramas de la fuente'
+        $revisiones++
+        continue
+    }
 
     # ---------------------------------------------------------------- validacion
     $rutaTmp = Join-Path $env:TEMP ('bum-' + $idNum + '-entrada.html')
@@ -234,13 +314,13 @@ foreach ($fi in $fichas) {
     $ok = $true
     $motivo = ''
     if (Test-Path $Validador) {
-        & powershell -NoProfile -ExecutionPolicy Bypass -File $Validador -Archivo $rutaTmp | Out-Null
-        if ($LASTEXITCODE -ne 0) { $ok = $false; $motivo = 'no paso validar-entrada.ps1' }
+        & powershell -NoProfile -ExecutionPolicy Bypass -File $Validador -Archivo $rutaTmp -Calidad | Out-Null
+        if ($LASTEXITCODE -ne 0) { $ok = $false; $motivo = 'no paso validar-entrada.ps1 -Calidad' }
     }
     if (-not $ok) {
         Remove-Item ($rutaTmp + '._keep') -ErrorAction SilentlyContinue
-        Rechazar ([string]$o.url) $motivo
-        $rechazadas++
+        Guardar-Revision $nombre $entrada ([string]$o.url) $motivo
+        $revisiones++
         continue
     }
     Remove-Item ($rutaTmp + '._keep') -ErrorAction SilentlyContinue
@@ -251,6 +331,6 @@ foreach ($fi in $fichas) {
 }
 
 Write-Host ''
-Write-Host ("== RESUMEN ENTRADAS BUMERAN ==  generadas: " + $hechas + " | ya existian: " + $omitidas + " | rechazadas: " + $rechazadas)
+Write-Host ("== RESUMEN ENTRADAS BUMERAN ==  generadas: " + $hechas + " | ya existian: " + $omitidas + " | a revision: " + $revisiones + " | rechazadas: " + $rechazadas)
 Write-Host ("  carpeta: " + $DirSalida)
 exit 0

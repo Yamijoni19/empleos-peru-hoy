@@ -18,6 +18,8 @@ param(
 
 $ErrorActionPreference = "Stop"
 $raiz = Split-Path -Parent $MyInvocation.MyCommand.Path
+# libreria Fase A: clasificador canonico compartido (7 categorias del tema)
+. (Join-Path $raiz 'lib\categoria.ps1')
 $hoy  = Get-Date
 
 try {
@@ -343,16 +345,11 @@ function Sin-Acentos([string]$s) {
     return $x
 }
 function Obtener-Categoria([string]$texto) {
-    $t = Sin-Acentos $texto
-    if ($t -match 'salud|farmac|medic|enfermer|odontolog|paciente|hospital|clinica|laboratorio') { return 'Salud' }
-    if ($t -match 'abogad|legal|juridic|derecho|notari') { return 'Derecho' }
-    if ($t -match 'ingenier|construccion|topograf|mina|electric|mecanic|ambiental|industrial|sistema|software|telecomunic|arquitect') { return 'Ingenieria' }
-    if ($t -match 'venta|comercial|marketing|cliente|publicidad|negocio|emprend|atencion al cliente') { return 'Ventas y Servicios' }
-    if ($t -match 'administr|contabil|finanz|recur.?humanos|rrhh|tesorer|almacen|logistic|compras|banco|contador|gestion') { return 'Administracion y Finanzas' }
-    if ($t -match 'docente|profesor|educacion|instituto|colegio|escolar|pedagog|tutor') { return 'Educacion' }
-    return 'Otros'
+    # Fase A: delega en el clasificador canonico compartido; el texto es el
+    # contexto (titulo principal se pasa aparte via $titulo en el llamado)
+    return (Obtener-CategoriaExacta -Titulo $titulo -Texto $texto)
 }
-$categoria = Obtener-Categoria ($titulo + " " + $estudios + " " + $dirigido)
+$categoria = Obtener-Categoria ($estudios + " " + $dirigido)
 
 # ------------------------------------------------------------------ textos propios
 $puesto = $titulo

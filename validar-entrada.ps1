@@ -3,17 +3,26 @@
 # USO (PowerShell):
 #   .\validar-entrada.ps1 -Archivo "entrada.html"
 #   .\validar-entrada.ps1 -Archivo "entrada.html" -Fuente "https://www.convocatoriasdetrabajo.com/....html"
+#   .\validar-entrada.ps1 -Archivo "entrada.html" -Calidad    # puerta Fase A
 #
 # Con -Fuente también comprueba que TODOS los enlaces (href) de la entrada
 # existan COPIADOS LITERALMENTE en la publicación original.
+# Con -Calidad añade la puerta de calidad Fase A: categoria canonica (7 del
+# tema), glosario de salario/vacantes/fechas, sin enums crudos (FULL_TIME...),
+# li <=200, parrafos <=5 oraciones, orden de secciones nuevas y anti-copia
+# (error >=35%, aviso >=20% — estos dos ultimos solo con -Fuente legible).
 # Devuelve exit code 0 = TODO OK, 1 = hay errores.
 
 param(
     [Parameter(Mandatory = $true)][string]$Archivo,
-    [string]$Fuente = ""
+    [string]$Fuente = "",
+    [switch]$Calidad
 )
 
 $ErrorActionPreference = "Stop"
+$raizLib = Split-Path -Parent $MyInvocation.MyCommand.Path
+. (Join-Path $raizLib 'lib\categoria.ps1')
+. (Join-Path $raizLib 'lib\reescritor.ps1')
 $errores = New-Object System.Collections.Generic.List[string]
 $avisos  = New-Object System.Collections.Generic.List[string]
 
@@ -45,8 +54,9 @@ if ($body -match '@@[A-Z0-9_]+@@') {
     $m = [regex]::Match($body, '@@[A-Z0-9_]+@@'); Err ("quedan marcadores sin rellenar: " + $m.Value)
 }
 
-# 2. sin CSS/JS inline
-if ($body -match '<style|<script|style="') { Err "la entrada contiene <style>, <script> o style= (prohibido)" }
+# 2. sin CSS/JS inline (se exceptua el bloque fix-parpadeo conocido de la plantilla)
+$chk2 = $body -replace '(?s)<style>/\*fix-parpadeo[^<]*</style>', ''
+if ($chk2 -match '<style|<script|style="') { Err "la entrada contiene <style>, <script> o style= (prohibido)" }
 
 # 2b. sin artefactos de citas de la IA
 if ($body -match ':contentReference\s*\[' -or $body -match 'oaicite\s*\[' -or $body -match '\[citation\]') {
@@ -214,6 +224,94 @@ if ($iBases -ge 0) {
     }
 }
 
+# 15. PUERTA DE CALIDAD (Fase A, solo con -Calidad)
+if ($Calidad) {
+    Write-Host "== PUERTA DE CALIDAD (-Calidad) =="
+
+    # 15a. categoria canonica (las 7 del tema, con tildes)
+    $mCat = [regex]::Match($body, '<div class="empleo-categoria">([^<]*)</div>')
+    if ($mCat.Success) {
+        $catVal = $mCat.Groups[1].Value.Trim()
+        if ($catVal -eq '') { Err "la categoria (.empleo-categoria) esta vacia" }
+        elseif (-not (Es-CategoriaCanonica $catVal)) { Err ("categoria no canonica: [$catVal] — debe ser una de las 7 del tema") }
+    } else { Aviso "no encontre <div class=\"empleo-categoria\">" }
+
+    # 15b. glosario de salario: todas las apariciones visibles y del bloque oculto
+    $salVals = @()
+    foreach ($mS in [regex]::Matches($body, '<div class="empleo-salario-header">\s*([^<]+?)\s*</div>')) { $salVals += $mS.Groups[1].Value.Trim() }
+    foreach ($mS in [regex]::Matches($body, '<strong>Salario:</strong>\s*([^<]*)</p>'))          { $salVals += $mS.Groups[1].Value.Trim() }
+    foreach ($mS in [regex]::Matches($body, '<div class="empleo-info-label">Salario</div>\s*<div class="empleo-info-value">([^<]*)</div>')) { $salVals += $mS.Groups[1].Value.Trim() }
+    foreach ($v in $salVals) {
+        if ($v -eq '') { continue }
+        if ($v -notmatch '^(No especificado|A convenir|Negociable|S/ \d{1,3}(,\d{3})*( - S/ \d{1,3}(,\d{3})*)?( por hora)?)$') {
+            Err ("salario fuera del glosario: [$v] (formato: 'S/ 1,800' | rango | 'por hora' | No especificado | A convenir | Negociable)")
+        }
+    }
+
+    # 15c. vacantes: 1..99 o No especificado
+    $vacVals = @()
+    foreach ($mV in [regex]::Matches($body, '<strong>Vacantes:</strong>\s*([^<]*)</p>')) { $vacVals += $mV.Groups[1].Value.Trim() }
+    foreach ($mV in [regex]::Matches($body, '<div class="empleo-info-label">Vacantes</div>\s*<div class="empleo-info-value">([^<]*)</div>')) { $vacVals += $mV.Groups[1].Value.Trim() }
+    foreach ($v in $vacVals) {
+        if ($v -eq '') { continue }
+        if ($v -notmatch '^([1-9][0-9]?|No especificado)$') { Err ("vacantes fuera del glosario: [$v] (esperado 1..99 o 'No especificado')") }
+    }
+
+    # 15d. fechas: dd/MM/yyyy o No especificado
+    foreach ($mF in [regex]::Matches($body, '<strong>Fecha[^<]*:</strong>\s*([^<]*)</p>')) {
+        $v = $mF.Groups[1].Value.Trim()
+        if ($v -eq '') { continue }
+        if ($v -notmatch '^(\d{2}/\d{2}/\d{4}|No especificado)$') { Err ("fecha fuera del glosario: [$v] (esperado dd/MM/yyyy o 'No especificado')") }
+    }
+
+    # 15e. sin enums crudos de la fuente (FULL_TIME, TELECOMMUTE, ...) en el
+    #      texto visible (dentro de etiquetas; los href no cuentan)
+    $textoVis = [regex]::Replace($body, '<[^>]+>', ' ')
+    foreach ($mE in [regex]::Matches($textoVis, '\b[A-Z]{3,}_[A-Z][A-Z_]{1,}\b')) {
+        Err ("enum crudo de la fuente filtrado al HTML: [" + $mE.Value + "] (debe ir por el glosario)")
+    }
+
+    # 15f. jornada/contrato/modalidad: sin enums y sin textos largos
+    foreach ($mJ in [regex]::Matches($body, '<strong>(Jornada|Contrato|Modalidad):</strong>\s*([^<]*)</p>')) {
+        $v = $mJ.Groups[2].Value.Trim()
+        if ($v -ne '' -and $v.Length -gt 60) { Err ($mJ.Groups[1].Value + " demasiado largo (>60): [" + $v + "]") }
+    }
+
+    # 15g. bullets <= 200 caracteres y parrafos <= 5 oraciones
+    foreach ($mLi in [regex]::Matches($body, '<li>([^<]*)</li>')) {
+        if ($mLi.Groups[1].Value.Length -gt 200) {
+            Err ("bullet >200 caracteres: ..." + $mLi.Groups[1].Value.Substring(0, 80))
+        }
+    }
+    foreach ($mP in [regex]::Matches($body, '<p[^>]*>([\s\S]*?)</p>')) {
+        $tP = (([regex]::Replace($mP.Groups[1].Value, '<[^>]+>', ' ')) -replace '\s+', ' ').Trim()
+        if ($tP.Length -lt 120) { continue }
+        $nOr = @($tP -split '(?<=[.!?])\s+').Count
+        if ($nOr -gt 5) { Err ("parrafo con $nOr oraciones (max 5): ..." + $tP.Substring(0, 70)) }
+    }
+
+    # 15h. orden de secciones nuevas (solo entradas de la plantilla data-only)
+    if ((-not $esEstado) -and $body.IndexOf('<h2>Información de la oferta</h2>') -ge 0) {
+        $ordenSecc = @('Descripción del puesto', 'Funciones', 'Requisitos', 'Beneficios',
+                       '¿Por qué postular?', '¿Cómo postular?',
+                       'Información de la oferta', 'Información de la empresa',
+                       'Consejos antes de postular')
+        $ultPos = -1
+        foreach ($s in $ordenSecc) {
+            $iS = $body.IndexOf('<h2>' + $s + '</h2>')
+            if ($iS -lt 0) {
+                if ($s -eq '¿Por qué postular?') { Err "falta la seccion obligatoria: ¿Por qué postular?" }
+                elseif ($s -eq 'Consejos antes de postular') { Err "falta la seccion: Consejos antes de postular" }
+                elseif ($s -in @('Funciones', 'Requisitos', 'Beneficios', '¿Cómo postular?')) { Aviso ("seccion omitida (sin contenido): " + $s) }
+                # 'Descripción' / 'Info oferta' / 'Info empresa': la regla base 7 ya las exige
+                continue
+            }
+            if ($ultPos -ge 0 -and $iS -lt $ultPos) { Err ("seccion fuera de orden: " + $s) }
+            $ultPos = $iS
+        }
+    }
+}
+
 if ($Fuente -ne "") {
     Write-Host "  leyendo la publicación original..."
     try {
@@ -254,6 +352,22 @@ if ($Fuente -ne "") {
         }
         if ($copiados -gt 3) {
             Aviso ("hay $copiados párrafos casi idénticos a la fuente; parafrasea el texto para que la entrada sea original")
+        }
+
+        # 13b. anti-copia Fase A (solo con -Calidad): error >=35%, aviso >=20%
+        if ($Calidad) {
+            $copErr = @(Parrafos-Copiados -Html $body -Fuente $src -Umbral 0.35)
+            foreach ($cc in $copErr) {
+                $tC = (([string]$cc.texto) -replace '\s+', ' ').Trim()
+                Err ("parrafo copiado >=35% de la fuente: ..." + $tC.Substring(0, [Math]::Min(70, $tC.Length)))
+            }
+            $copAv = @(Parrafos-Copiados -Html $body -Fuente $src -Umbral 0.20)
+            foreach ($cc in $copAv) {
+                if ([double]$cc.pct -lt 0.35) {
+                    $tC = (([string]$cc.texto) -replace '\s+', ' ').Trim()
+                    Aviso ("parrafo casi copiado (" + [int][Math]::Round([double]$cc.pct * 100) + "%): ..." + $tC.Substring(0, [Math]::Min(70, $tC.Length)))
+                }
+            }
         }
 
         # 14. la publicación trae varios documentos con enlace: la lista de Bases debe traerlos

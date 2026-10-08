@@ -21,6 +21,10 @@ param(
 
 $ErrorActionPreference = "Stop"
 $raiz = Split-Path -Parent $MyInvocation.MyCommand.Path
+# librerias Fase A: DEBEN cargarse antes de definir Parafrasear-Texto local
+. (Join-Path $raiz 'lib\categoria.ps1')
+. (Join-Path $raiz 'lib\estandar.ps1')
+. (Join-Path $raiz 'lib\reescritor.ps1')
 $hoy  = Get-Date
 
 try {
@@ -246,6 +250,8 @@ $hdrCampo = @{
   'experiencia'='experiencia'
   'estudios'='estudios'; 'formacion academica'='estudios'; 'formacion'='estudios'
   'sector'='sector'; 'ubicacion'='ubicacionPagina'
+  'area'='area'; 'nivel'='nivel'; 'turno'='turno'; 'horario'='horario'
+  'dirigido a'='dirigidoA'; 'publico objetivo'='dirigidoA'; 'perfil dirigido'='dirigidoA'
 }
 $funcs = New-Object System.Collections.Generic.List[string]
 $reqs  = New-Object System.Collections.Generic.List[string]
@@ -338,6 +344,7 @@ $partes = @()
 if ($ciudad -ne "") { $partes += $ciudad }
 if ($region -ne "" -and $region -ne $ciudad) { $partes += $region }
 if ($partes.Count -gt 0) { $ubi = ($partes -join ', ') + ', ' + $paisTxt }
+$ubi = Est-Ubicacion $ubi
 
 # ------------------------------------------------------------------ salario
 $salario = "No especificado"
@@ -392,6 +399,8 @@ if ($salario -eq "No especificado") {
         elseif ($mNum.Success -eq $false -and $sv.Length -ge 3 -and $sv.Length -le 40 -and $sv -notmatch '^0+([.,]0+)?$') { $salario = $sv }
     }
 }
+# forma canonica del glosario (Fase A): 'S/ 1,800' | rango | 'por hora' | catalogo
+$salario = Est-Salario -Texto $salario
 
 # ------------------------------------------------------------------ contrato
 $contrato = "No especificado"
@@ -407,7 +416,7 @@ switch ($et) {
 }
 if ($contrato -eq "No especificado") {
     $ct = (Campo @('tipoPuesto')).Trim()
-    if ($ct.Length -gt 2 -and $ct.Length -le 40) { $contrato = $ct }
+    if ($ct.Length -gt 2 -and $ct.Length -le 40) { $contrato = Est-Contrato $ct }
 }
 
 # ------------------------------------------------------------------ modalidad
@@ -427,6 +436,7 @@ if ($modalidad -eq "No especificado") {
     if ($mMo.Success) { $modalidad = (Get-Culture).TextInfo.ToTitleCase($mMo.Groups[1].Value.ToLower()) }
 }
 if ($modalidad -match '(?i)^h[ií]brido$') { $modalidad = 'Híbrido' }
+$modalidad = Est-Modalidad $modalidad
 
 # ------------------------------------------------------------------ vacantes / jornada / experiencia / estudios
 $vacantes = "No especificado"
@@ -442,6 +452,7 @@ if ($vacantes -eq "No especificado") {
 if ($vacantes -eq "No especificado" -and $ld.totalJobOpenings) {
     try { if ([int]$ld.totalJobOpenings -gt 0) { $vacantes = [string]([int]$ld.totalJobOpenings) } } catch { }
 }
+$vacantes = Est-Vacantes $vacantes
 
 $jornada = "No especificado"
 $mJ = Campo @('jornada')
@@ -454,6 +465,7 @@ if ($jornada -eq "No especificado") {
     $mJ2 = [regex]::Match($src, '(?is)Jornada\s*:\s*(?:<[^>]+>\s*){0,4}([^<\n]{2,60})')
     if ($mJ2.Success) { $j2 = (Limpio $mJ2.Groups[1].Value); if ($j2.Length -ge 2 -and $j2.Length -le 60) { $jornada = $j2 } }
 }
+$jornada = Est-Jornada $jornada
 
 $experiencia = "No especificado"
 $mEx = Campo @('experiencia')
@@ -499,21 +511,13 @@ $dc = Fecha-Date $fCie
 if ($dc -ne $null) { $fCieTxt = $dc.ToString('dd/MM/yyyy') }
 
 # ------------------------------------------------------------------ categoria
-function Obtener-Categoria([string]$texto) {
-    $t = Sin-Acentos $texto
-    if ($t -match 'salud|farmac|medic|enfermer|odontolog|paciente|hospital|clinica|laboratorio') { return 'Salud' }
-    if ($t -match 'abogad|legal|juridic|derecho|notari') { return 'Derecho' }
-    if ($t -match 'ingenier|construccion|topograf|mina|electric|mecanic|ambiental|industrial|sistema|software|telecomunic|arquitect|programad|analista de sistemas') { return 'Ingeniería' }
-    if ($t -match 'venta|comercial|marketing|cliente|publicidad|negocio|emprend|atencion al cliente|anfitriona|promotor|cajero|mozo|repartidor|chofer|seguridad|vigilante|cocinero|barista') { return 'Ventas y Servicios' }
-    if ($t -match 'administr|contabil|finanz|recur.?humanos|rrhh|tesorer|almacen|logistic|compras|banco|contador|gestion|data entry|secretar|oficinist|archivo|recepcion') { return 'Administración y Finanzas' }
-    if ($t -match 'docente|profesor|educacion|instituto|colegio|escolar|pedagog|tutor|estudiante|practicante') { return 'Educación' }
-    return 'Otros'
-}
+# Fase A: clasificador canonico compartido (lib\categoria.ps1). Debe resolver
+# el bug "Analista Contable" -> Otros/Ingenieria (ahora -> Administración y Finanzas).
 $industry = ""
 if ($ld.industry) { $industry = ((@($ld.industry) | ForEach-Object { [string]$_ }) -join ', ') }
 $skills = ""
 if ($ld.skills) { $skills = ([string]$ld.skills) }
-$categoria = Obtener-Categoria ($titulo + " " + $industry + " " + $skills + " " + (($intro | Select-Object -First 4) -join ' '))
+$categoria = Obtener-CategoriaExacta -Titulo $titulo -Texto ($industry + " " + $skills + " " + (($intro | Select-Object -First 4) -join ' '))
 
 # ------------------------------------------------------------------ empresa: resto de campos
 $sector = "No especificado"
@@ -646,6 +650,20 @@ if ($empresaOut -eq "") {
     $html = [regex]::Replace($html, '(?m)^\s*<div class="empleo-empresa">[\s\S]*?</div>\r?\n', '')
 }
 
+# campos extra del bloque oculto (Fase A): si la pagina no los trae o son
+# basura larga => 'No especificado' (las lineas del destacado se auto-borran)
+function Campo-Corto([string[]]$nombres, [int]$max = 60) {
+    $v = (Campo $nombres)
+    $v = ($v -replace '\s+', ' ').Trim()
+    if ($v.Length -gt $max) { $v = '' }
+    return $v
+}
+$dirTxt  = Campo-Corto @('dirigido a', 'publico objetivo', 'perfil dirigido')
+$areaTxt = Campo-Corto @('area')
+$nivTxt  = Campo-Corto @('nivel')
+$turnoTxt = Campo-Corto @('turno')
+$horTxt  = Campo-Corto @('horario')
+
 $map = @{
  '@@FUENTE@@'              = $portal
  '@@CATEGORIA@@'            = $categoria
@@ -656,6 +674,7 @@ $map = @{
  '@@SALARIO@@'              = $salario
  '@@SALARIO2@@'             = $salario
  '@@UBICACION@@'            = $ubi
+ '@@CIUDAD@@'               = $(if ($ciudad -ne '') { $ciudad } else { 'No especificado' })
  '@@MODALIDAD@@'            = $modalidad
  '@@MODALIDAD2@@'           = $modalidad
  '@@CONTRATO@@'             = $contrato
@@ -666,6 +685,11 @@ $map = @{
  '@@JORNADA@@'              = $jornada
  '@@EXPERIENCIA@@'          = $experiencia
  '@@ESTUDIOS@@'             = $estudios
+ '@@DIRIGIDO_A@@'           = $(if ($dirTxt -ne '') { $dirTxt } else { 'No especificado' })
+ '@@AREA@@'                 = $(if ($areaTxt -ne '') { $areaTxt } else { 'No especificado' })
+ '@@NIVEL@@'                = $(if ($nivTxt -ne '') { $nivTxt } else { 'No especificado' })
+ '@@TURNO@@'                = $(if ($turnoTxt -ne '') { $turnoTxt } else { 'No especificado' })
+ '@@HORARIO@@'              = $(if ($horTxt -ne '') { $horTxt } else { 'No especificado' })
  '@@FECHA_PUBLICACION@@'    = $fPubTxt
  '@@FECHA_CIERRE@@'         = $(if ($fCieTxt -ne "") { $fCieTxt } else { 'No especificado' })
  '@@TIPO_CONTRATANTE@@'     = 'Privado'
@@ -677,7 +701,26 @@ $map = @{
  '@@DESCRIPCION_EMPRESA@@'  = $descEmp
  '@@URL_POSTULAR@@'         = $urlPostular
  '@@PORTAL@@'               = $portal
+ '@@COMO_POSTULAR@@'        = "Completa el formulario de postulación en $portal con tus datos, adjunta tu CV en PDF y envía tu solicitud; el proceso se gestiona directamente en el portal de origen."
 }
+
+# "¿Por qué postular?" (Fase A): bullets SOLO con datos reales ya extraidos
+$porque = Est-Porque @{
+    titulo = $titulo; empresa = $empresaOut; sector = $sector
+    ubicacion = $ubi; ciudad = $(if ($ciudad -ne '') { $ciudad } else { 'No especificado' })
+    modalidad = $modalidad; salario = $salario; contrato = $contrato
+    jornada = $jornada; experiencia = $experiencia; beneficios = @($bens)
+}
+function Quita-Vacio([string]$h, [string]$ph) {
+    $h = [regex]::Replace($h, '(?is)\s*<li>\s*' + [regex]::Escape($ph) + '\s*</li>', '')
+    $h = [regex]::Replace($h, '(?is)\s*<p>\s*' + [regex]::Escape($ph) + '\s*</p>', '')
+    return $h
+}
+for ($i = 1; $i -le 4; $i++) {
+    $v = ''; if ($i -le $porque.Count) { $v = [string]$porque[$i - 1] }
+    if ($v -eq '') { $html = Quita-Vacio $html ('@@PORQUE' + $i + '@@') } else { $map['@@PORQUE' + $i + '@@'] = $v }
+}
+
 foreach ($k in $map.Keys) { $html = $html.Replace($k, [string]$map[$k]) }
 
 # "No especificado" fuera de los 4 recuadros: se borra ese <p> dentro de .empleo-destacado
@@ -730,6 +773,44 @@ if ($slug.Length -gt 70) {
 }
 if ($slug.Length -le $pref.Length) { $slug = $pref + (Get-Date -Format 'yyyyMMdd-HHmmss') }
 
+# ------------------------------------------------------------------ anti-copia (Fase A)
+# parrafos de 15+ palabras con >=35% de n-gramas identicos a la pagina de
+# origen: se reescriben hasta 3 veces; si persisten, a datos\revision\
+$reintentos = 0
+while ($reintentos -lt 3) {
+    $cop = @(Parrafos-Copiados -Html $html -Fuente $src -Umbral 0.35)
+    if ($cop.Count -eq 0) { break }
+    $reintentos++
+    foreach ($c in $cop) {
+        $tipo = 'p'; if ([string]$c.tipo -eq 'li') { $tipo = 'li' }
+        $viejo = [string]$c.texto
+        $nuevos = @(Reescribir-Copiado -texto $viejo -tipo $tipo -Fuente $src)
+        $rep = ''
+        if ($tipo -eq 'li') {
+            # reemplazar el <li> COMPLETO: N fragmentos => N <li> hermanos
+            # (nunca anidar <li> dentro de <li>)
+            foreach ($nv in $nuevos) { $rep += '<li>' + $nv + '</li>' }
+            if ($rep -eq '') { continue }
+            $rx = '<li[^>]*>' + [regex]::Escape($viejo) + '</li>'
+            if ([regex]::IsMatch($html, $rx)) {
+                $html = [regex]::Replace($html, $rx, [System.Text.RegularExpressions.MatchEvaluator] { param($m) $rep })
+            } else { continue }
+        } else {
+            # 1 trozo => mismo parrafo; N trozos => parrafos hermanos
+            $rep = ($nuevos -join '</p><p>')
+            if ($rep -eq '') { continue }
+            if ($html.Contains($viejo)) { $html = $html.Replace($viejo, $rep) } else { continue }
+        }
+    }
+}
+if (@(Parrafos-Copiados -Html $html -Fuente $src -Umbral 0.35).Count -gt 0) {
+    $dirRev = Join-Path $raiz 'datos\revision'
+    if (-not (Test-Path -LiteralPath $dirRev)) { New-Item -ItemType Directory -Path $dirRev -Force | Out-Null }
+    [System.IO.File]::WriteAllText((Join-Path $dirRev ($slug + '-entrada.html')), $html, [System.Text.UTF8Encoding]::new($false))
+    Write-Host "RESULTADO: REVISION - hay parrafos con >=35% de la fuente; entrada guardada en datos\revision\."
+    exit 0
+}
+
 $dirF = Join-Path $raiz 'fuentes'
 $dirS = Join-Path $raiz 'salida'
 if (-not (Test-Path -LiteralPath $dirF)) { New-Item -ItemType Directory -Path $dirF | Out-Null }
@@ -781,14 +862,19 @@ Write-Host ""
 $validar = Join-Path $raiz 'validar-entrada.ps1'
 # BuscoJobs bloquea la descarga del validador (403) - se omite -Fuente para no
 # duplicar peticiones; Computrabajo si la permite y se compara enlaces.
-if ($portal -eq 'BUSCOJOBS') { & powershell -NoProfile -ExecutionPolicy Bypass -File $validar -Archivo $pathS }
-else { & powershell -NoProfile -ExecutionPolicy Bypass -File $validar -Archivo $pathS -Fuente $Url }
+if ($portal -eq 'BUSCOJOBS') { & powershell -NoProfile -ExecutionPolicy Bypass -File $validar -Archivo $pathS -Calidad }
+else { & powershell -NoProfile -ExecutionPolicy Bypass -File $validar -Archivo $pathS -Fuente $Url -Calidad }
 $rc = $LASTEXITCODE
 
 Write-Host ""
 if ($rc -ne 0) {
-    Write-Host "RESULTADO: NO se genero la entrada. Corrige los errores de arriba."
-    exit 1
+    # decision Fase A: nunca dejar una entrada fallida en salida\ - va a datos\revision\
+    $dirRev = Join-Path $raiz 'datos\revision'
+    if (-not (Test-Path -LiteralPath $dirRev)) { New-Item -ItemType Directory -Path $dirRev -Force | Out-Null }
+    Move-Item -LiteralPath $pathS -Destination (Join-Path $dirRev ($slug + '-entrada.html')) -Force
+    if (Test-Path -LiteralPath $pathF) { Remove-Item -LiteralPath $pathF -Force }
+    Write-Host "RESULTADO: REVISION - no paso validar-entrada.ps1 -Calidad; entrada movida a datos\revision\."
+    exit 0
 }
 
 # verificacion rapida de datos contra la fuente
@@ -799,8 +885,12 @@ if ($ciudad -ne "" -and $cuerpo.IndexOf($ciudad) -lt 0)     { $fallos += "ciudad
 if ($salario -ne "No especificado" -and $cuerpo.IndexOf($salario) -lt 0) { $fallos += "salario ($salario)" }
 if ($fCieTxt -ne "" -and $cuerpo.IndexOf($fCieTxt) -lt 0)    { $fallos += "fecha de cierre ($fCieTxt)" }
 if ($fallos.Count -gt 0) {
-    Write-Host ("ERROR: el HTML generado no contiene estos datos de la fuente: " + ($fallos -join ', '))
-    exit 1
+    $dirRev = Join-Path $raiz 'datos\revision'
+    if (-not (Test-Path -LiteralPath $dirRev)) { New-Item -ItemType Directory -Path $dirRev -Force | Out-Null }
+    Move-Item -LiteralPath $pathS -Destination (Join-Path $dirRev ($slug + '-entrada.html')) -Force
+    if (Test-Path -LiteralPath $pathF) { Remove-Item -LiteralPath $pathF -Force }
+    Write-Host ("RESULTADO: REVISION - datos faltantes en el HTML (" + ($fallos -join ', ') + "); entrada movida a datos\revision\.")
+    exit 0
 }
 
 # clave registrada solo tras validacion OK
