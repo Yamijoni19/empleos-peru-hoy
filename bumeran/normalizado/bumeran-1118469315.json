@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118469315",
+    "clave":  "id:1118469315",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-freelance-mika-outdoors-1118469315.html",
+                   "capturadoEn":  "2026-10-08T15:37:14+00:00"
+               },
+    "titulo":  "Asesor Comercial Freelance",
+    "empresa":  "MIKA OUTDOORS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Comercial Freelance Resumen del Puesto Buscamos Asesores Comerciales Freelance con experiencia en ventas corporativas para impulsar la comercialización de servicios dirigidos al sector empresarial. La modalidad de trabajo es 1 0 0% virtual y a tiempo completo. Perfil Requerido Experiencia previa en ventas, asesoría comercial o atención al cliente. Habilidades de comunicación, negociación y seguimiento. Orientación al cumplimiento de objetivos. Proactividad, responsabilidad y capacidad de organización. Manejo de herramientas digitales. Disponibilidad para trabajar a tiempo completo. Ofrecemos Modalidad de trabajo 1 0 0% virtual. Jornada de tiempo completo. Ingresos variables de acuerdo con el cumplimiento de objetivos comerciales. Capacitación y acompañamiento durante el proceso de incorporación. Oportunidad de crecimiento.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-freelance-mika-outdoors-1118469315.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-freelance-mika-outdoors-1118469315.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesor Comercial Freelance\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos \u003cstrong\u003eAsesores Comerciales Freelance\u003c/strong\u003e con experiencia en ventas corporativas para impulsar la comercialización de servicios dirigidos al sector empresarial. La modalidad de trabajo es \u0026#x31; \u0026#x30; \u0026#x30;% virtual y a tiempo completo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePerfil Requerido\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en ventas, asesoría comercial o atención al cliente.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación, negociación y seguimiento.\u003c/li\u003e \u003cli\u003eOrientación al cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eProactividad, responsabilidad y capacidad de organización.\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad de trabajo \u0026#x31; \u0026#x30; \u0026#x30;% virtual.\u003c/li\u003e \u003cli\u003eJornada de tiempo completo.\u003c/li\u003e \u003cli\u003eIngresos variables de acuerdo con el cumplimiento de objetivos comerciales.\u003c/li\u003e \u003cli\u003eCapacitación y acompañamiento durante el proceso de incorporación.\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

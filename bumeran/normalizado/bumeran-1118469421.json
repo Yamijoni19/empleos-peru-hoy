@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469421",
+    "clave":  "id:1118469421",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistenta-de-ventas-y-redes-sociales-para-el-distrito-del-rimac-rumay-1118469421.html",
+                   "capturadoEn":  "2026-10-08T15:37:03+00:00"
+               },
+    "titulo":  "Asistenta de ventas y redes sociales para el distrito del Rimac",
+    "empresa":  "RUMAY",
+    "ubicacion":  "Lima - Rímac",
+    "ciudad":  "Rímac",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Somos DIGITAL BUSINESS RUMAY, consultora de sistema, para agilizar también pueden e scribirn os directo. Buscamos una persona para gestionar nuestras redes sociales, atender clientes interesados en nuestro sistema erp, enviar cotizaciones y cerrar oportunidades de venta. TUS RESPONSABILIDADES: Gestionar leads en redes sociales. Calificar interesados y entender las necesidades de sus negocios. Enviar cotizaciones y agendar reuniones. Cerrar ventas y dar seguimiento a los prospectos. REQUISITOS: Con/sin experiencia en redes sociales y ventas B 2B/tecnología. Excelente comunicación verbal y escrita. Nociones básicas de procesos de negocio (inventario, factura, etc.). Office intermedio (Word, Excel y PowerPoint). ¿QUÉ OFRECEMOS? Sueldo (Enviar pretensiones salariales). Capacitación en nuestro sistema y ventas de tecnología. Modalidad: Presencial en el distrito del Rímac - Lima - Perú. HORARIO: L-V 9am a 6pm | S- 9am a 1 2pm. DISPONIBILIDAD INMEDIATA.",
+    "requisitos":  [
+                       "Con/sin experiencia en redes sociales y ventas B 2B/tecnología",
+                       "Excelente comunicación verbal y escrita",
+                       "Nociones básicas de procesos de negocio (inventario, factura, etc.)",
+                       "Office intermedio (Word, Excel y PowerPoint)",
+                       "¿QUÉ"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistenta-de-ventas-y-redes-sociales-para-el-distrito-del-rimac-rumay-1118469421.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistenta-de-ventas-y-redes-sociales-para-el-distrito-del-rimac-rumay-1118469421.html",
+    "descripcion_html":  "\u003cp\u003eSomos DIGITAL BUSINESS RUMAY, consultora de sistema, para agilizar también pueden e scribirn os directo. Buscamos una persona para gestionar nuestras redes sociales, atender clientes interesados en nuestro sistema erp, enviar cotizaciones y cerrar oportunidades de venta.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTUS RESPONSABILIDADES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar leads en redes sociales.\u003c/li\u003e \u003cli\u003eCalificar interesados y entender las necesidades de sus negocios.\u003c/li\u003e \u003cli\u003eEnviar cotizaciones y agendar reuniones. \u003c/li\u003e \u003cli\u003eCerrar ventas y dar seguimiento a los prospectos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCon/sin experiencia en redes sociales y ventas B \u0026#x32;B/tecnología.\u003c/li\u003e \u003cli\u003eExcelente comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eNociones básicas de procesos de negocio (inventario, factura, etc.).\u003c/li\u003e \u003cli\u003eOffice intermedio (Word, Excel y PowerPoint).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ OFRECEMOS?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo (Enviar pretensiones salariales).\u003c/li\u003e \u003cli\u003eCapacitación en nuestro sistema y ventas de tecnología.\u003c/li\u003e \u003cli\u003eModalidad: Presencial en el distrito del Rímac - Lima - Perú.\u003c/li\u003e \u003cli\u003eHORARIO: L-V \u0026#x39;am a \u0026#x36;pm | S- \u0026#x39;am a \u0026#x31; \u0026#x32;pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDISPONIBILIDAD INMEDIATA.\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "L-V 9am a 6pm | S- 9am a 1 2pm.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

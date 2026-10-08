@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469426",
+    "clave":  "id:1118469426",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutiva-comercial-isabella-catalogo-1118469426.html",
+                   "capturadoEn":  "2026-10-08T15:37:02+00:00"
+               },
+    "titulo":  "Ejecutiva Comercial",
+    "empresa":  "Isabella Catalogo",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ejecutiva Comercial Resumen del Puesto Buscamos una Ejecutiva Comercial proactiva y orientada a resultados para unirse a nuestro equipo. El candidato ideal poseerá experiencia demostrable en ventas y una sólida habilidad para la atención al cliente. Responsabilidades Atender y gestionar la cartera de clientes asignada. Realizar seguimiento efectivo de oportunidades de venta. Cerrar operaciones comerciales y alcanzar los objetivos establecidos. Colaborar con el equipo para optimizar estrategias de venta. Mantener un alto nivel de satisfacción del cliente. Requisitos Experiencia previa comprobable en roles de ventas. Habilidades excepcionales en atención al cliente y comunicación. Capacidad demostrada para alcanzar y superar metas comerciales. Orientación a resultados y proactividad. Habilidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Experiencia previa comprobable en roles de ventas",
+                       "Habilidades excepcionales en atención al cliente y comunicación",
+                       "Capacidad demostrada para alcanzar y superar metas comerciales",
+                       "Orientación a resultados y proactividad",
+                       "Habilidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutiva-comercial-isabella-catalogo-1118469426.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutiva-comercial-isabella-catalogo-1118469426.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEjecutiva Comercial\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eEjecutiva Comercial\u003c/strong\u003e proactiva y orientada a resultados para unirse a nuestro equipo. El candidato ideal poseerá experiencia demostrable en ventas y una sólida habilidad para la atención al cliente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtender y gestionar la cartera de clientes asignada.\u003c/li\u003e \u003cli\u003eRealizar seguimiento efectivo de oportunidades de venta.\u003c/li\u003e \u003cli\u003eCerrar operaciones comerciales y alcanzar los objetivos establecidos.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para optimizar estrategias de venta.\u003c/li\u003e \u003cli\u003eMantener un alto nivel de satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa comprobable en roles de ventas.\u003c/li\u003e \u003cli\u003eHabilidades excepcionales en atención al cliente y comunicación.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para alcanzar y superar metas comerciales.\u003c/li\u003e \u003cli\u003eOrientación a resultados y proactividad.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

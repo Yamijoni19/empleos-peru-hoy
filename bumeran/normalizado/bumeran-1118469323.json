@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469323",
+    "clave":  "id:1118469323",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-marketing-digital-jiaang-global-trading-e.i.r.l.-1118469323.html",
+                   "capturadoEn":  "2026-10-08T15:37:12+00:00"
+               },
+    "titulo":  "Asistente Comercial y Marketing Digital",
+    "empresa":  "JIAANG GLOBAL TRADING E.I.R.L.",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Responsabilidades Apoyo en atención y seguimiento de clientes. Elaboración y seguimiento de cotizaciones. Actualización de cartera y base de datos. Apoyo en prospección y generación de leads. Coordinación de servicios, instalaciones y mantenimientos del taller. Seguimiento de postventa y requerimientos de repuestos. Apoyo en manejo de redes sociales y publicación de contenido. Seguimiento de consultas y leads provenientes de redes sociales. Apoyo en catálogos y material comercial. Requisitos Mínimo 1 año de experiencia en áreas comerciales, ventas, atención al cliente o marketing. Deseable experiencia en maquinaria pesada, línea amarilla o talleres . Manejo de Excel y Microsoft Office . Conocimiento de redes sociales / Social Media . Deseable manejo de herramientas de diseño. Perfil proactivo, organizado y con buena comunicación. Disponibilidad para trabajo presencial. Forma parte de ROKKEN y desarrolla tu experiencia en el sector de maquinaria pesada, minería y construcción. Modalidad: 1 0 0% presencial – Miraflores.",
+    "requisitos":  [
+                       "Mínimo 1 año de experiencia en áreas comerciales, ventas, atención al cliente o marketing",
+                       "Deseable experiencia en maquinaria pesada, línea amarilla o talleres",
+                       "Manejo de Excel y Microsoft Office",
+                       "Conocimiento de redes sociales / Social Media",
+                       "Deseable manejo de herramientas de diseño"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-marketing-digital-jiaang-global-trading-e.i.r.l.-1118469323.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-y-marketing-digital-jiaang-global-trading-e.i.r.l.-1118469323.html",
+    "descripcion_html":  "\u003cp\u003eResponsabilidades\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyo en atención y seguimiento de clientes.\u003c/li\u003e \u003cli\u003eElaboración y seguimiento de cotizaciones.\u003c/li\u003e \u003cli\u003eActualización de cartera y base de datos.\u003c/li\u003e \u003cli\u003eApoyo en prospección y generación de leads.\u003c/li\u003e \u003cli\u003eCoordinación de servicios, instalaciones y mantenimientos del taller.\u003c/li\u003e \u003cli\u003eSeguimiento de postventa y requerimientos de repuestos.\u003c/li\u003e \u003cli\u003eApoyo en manejo de redes sociales y publicación de contenido.\u003c/li\u003e \u003cli\u003eSeguimiento de consultas y leads provenientes de redes sociales.\u003c/li\u003e \u003cli\u003eApoyo en catálogos y material comercial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo \u003cstrong\u003e \u0026#x31; año de experiencia\u003c/strong\u003e en áreas comerciales, ventas, atención al cliente o marketing.\u003c/li\u003e \u003cli\u003eDeseable experiencia en \u003cstrong\u003emaquinaria pesada, línea amarilla o talleres\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eManejo de \u003cstrong\u003eExcel y Microsoft Office\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eConocimiento de \u003cstrong\u003eredes sociales / Social Media\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDeseable manejo de herramientas de diseño.\u003c/li\u003e \u003cli\u003ePerfil proactivo, organizado y con buena comunicación.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajo presencial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eForma parte de ROKKEN y desarrolla tu experiencia en el sector de maquinaria pesada, minería y construcción.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eModalidad: \u0026#x31; \u0026#x30; \u0026#x30;% presencial – Miraflores.\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

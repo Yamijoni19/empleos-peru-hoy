@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469268",
+    "clave":  "id:1118469268",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/pricing-mejias-catter-service-y-logistic-sac-1118469268.html",
+                   "capturadoEn":  "2026-10-08T15:37:17+00:00"
+               },
+    "titulo":  "Pricing",
+    "empresa":  "Mejias catter service y logistic sac",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Principales funciones: Elaborar y enviar cotizaciones de importación y exportación . Solicitar, comparar y negociar tarifas con navieras, aerolíneas, agentes de carga, transportistas y otros proveedores . Calcular costos de flete internacional, gastos locales, transporte, almacenaje y demás conceptos involucrados. Analizar márgenes y asegurar que cada cotización sea rentable para MECATT . Coordinar con el área comercial y operaciones para validar condiciones y alcances del servicio. Dar seguimiento a las cotizaciones enviadas y mantener actualizadas las tarifas. Apoyar en la atención de consultas relacionadas con operaciones de comercio exterior . Mantener una base ordenada de tarifas y proveedores.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Elaborar y enviar cotizaciones de importación y exportación",
+                      "Solicitar, comparar y negociar tarifas con navieras, aerolíneas, agentes de carga, transportistas y otros proveedores",
+                      "Calcular costos de flete internacional, gastos locales, transporte, almacenaje y demás conceptos involucrados",
+                      "Analizar márgenes y asegurar que cada cotización sea rentable para MECATT",
+                      "Coordinar con el área comercial y operaciones para validar"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/pricing-mejias-catter-service-y-logistic-sac-1118469268.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/pricing-mejias-catter-service-y-logistic-sac-1118469268.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar y enviar \u003cstrong\u003ecotizaciones de importación y exportación\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eSolicitar, comparar y negociar tarifas con \u003cstrong\u003enavieras, aerolíneas, agentes de carga, transportistas y otros proveedores\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eCalcular costos de flete internacional, gastos locales, transporte, almacenaje y demás conceptos involucrados.\u003c/li\u003e \u003cli\u003eAnalizar márgenes y asegurar que cada cotización sea \u003cstrong\u003erentable para MECATT\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eCoordinar con el área comercial y operaciones para validar condiciones y alcances del servicio.\u003c/li\u003e \u003cli\u003eDar seguimiento a las cotizaciones enviadas y mantener actualizadas las tarifas.\u003c/li\u003e \u003cli\u003eApoyar en la atención de consultas relacionadas con operaciones de \u003cstrong\u003ecomercio exterior\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eMantener una base ordenada de tarifas y proveedores.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Compras Internacionales/Importación",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

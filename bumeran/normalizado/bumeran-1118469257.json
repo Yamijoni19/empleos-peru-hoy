@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469257",
+    "clave":  "id:1118469257",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-veterinario-veterinaria-runa-luna-1118469257.html",
+                   "capturadoEn":  "2026-10-08T15:37:18+00:00"
+               },
+    "titulo":  "Médico Veterinario",
+    "empresa":  "VETERINARIA RUNA LUNA",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Médico Veterinario Resumen del Puesto Buscamos un profesional Médico Veterinario con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de la atención integral de pacientes, incluyendo diagnósticos, tratamientos y procedimientos preventivos. Responsabilidades Atención y tratamiento de pacientes. Elaboración y seguimiento de historias clínicas. Administración de vacunas y otros tratamientos preventivos. Realización de estudios de diagnóstico por imagen, como ecografías y radiografías. Colaboración con el equipo para garantizar la mejor atención al paciente. Requisitos Título de Médico Veterinario. Experiencia comprobable en atención clínica de animales. Conocimientos sólidos en ecografía y radiografía veterinaria. Capacidad para trabajar en un entorno dinámico y con disponibilidad horaria. Habilidades de comunicación y empatía con los animales y sus tutores.",
+    "requisitos":  [
+                       "Título de Médico Veterinario",
+                       "Experiencia comprobable en atención clínica de animales",
+                       "Conocimientos sólidos en ecografía y radiografía veterinaria",
+                       "Capacidad para trabajar en un entorno dinámico y con disponibilidad horaria",
+                       "Habilidades de comunicación y empatía con los animales y sus tutores"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-veterinario-veterinaria-runa-luna-1118469257.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-veterinario-veterinaria-runa-luna-1118469257.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eMédico Veterinario\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un profesional \u003cstrong\u003eMédico Veterinario\u003c/strong\u003e con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de la atención integral de pacientes, incluyendo diagnósticos, tratamientos y procedimientos preventivos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtención y tratamiento de pacientes.\u003c/li\u003e \u003cli\u003eElaboración y seguimiento de historias clínicas.\u003c/li\u003e \u003cli\u003eAdministración de vacunas y otros tratamientos preventivos.\u003c/li\u003e \u003cli\u003eRealización de estudios de diagnóstico por imagen, como ecografías y radiografías.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para garantizar la mejor atención al paciente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo de Médico Veterinario.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en atención clínica de animales.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en ecografía y radiografía veterinaria.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno dinámico y con disponibilidad horaria.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y empatía con los animales y sus tutores.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Veterinaria",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Médico Veterinario",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
