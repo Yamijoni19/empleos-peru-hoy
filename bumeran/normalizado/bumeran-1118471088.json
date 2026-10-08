@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118471088",
+    "clave":  "id:1118471088",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-comercio-exterior-empresa-industrial-grupo-tdm-1118471088.html",
+                   "capturadoEn":  "2026-10-08T07:24:56+00:00"
+               },
+    "titulo":  "Analista de Comercio Exterior - Empresa Industrial",
+    "empresa":  "Grupo TDM",
+    "ubicacion":  "Lima - Chorrillos",
+    "ciudad":  "Chorrillos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Fundada en 1992, TDM es una empresa de capitales peruanos y gestionada por peruanos, líder en Latinoamérica en soluciones de ingeniería, suministro e instalación de productos de construcción para grandes e importantes proyectos de infraestructura, minería y otros sectores. TDM basa su trabajo en pilares como innovación en aplicaciones, métodos y procesos; conocimiento y experiencia reconocida en Latinoamérica; confiabilidad y vínculos a largo plazo. Requisitos: Bachiller en Administración de Negocios Internacionales. Experiencia mínima de 3 años en importaciones y gestión aduanera. Se valora experiencia en exportaciones. Inglés y Excel avanzado. Manejo de SAP módulo MM, VUCE, Veritrade y plataforma SUNAT Funciones: Gestionar importaciones de cargas contenerizadas y/o carga suelta, desde la colocación de la OC hasta la entrega en almacén. Negociar precios, Incoterms, condiciones de pago, plazos de fabricación, cantidades mínimas y garantías con proveedores. Elaborar cuadros comparativos y calcular el costo total puesto en almacén, considerando flete, seguro, aranceles, gastos aduaneros y demás costos. Revisar la documentación correspondiente a las compras de importación. Realizar seguimiento a los pagos de proveedores estratégicos para asegurar la continuidad del abastecimiento. Realizar las demás funciones inherentes al cargo que le sean asignadas por su jefe.",
+    "requisitos":  [
+                       "Bachiller en Administración de Negocios Internacionales",
+                       "Experiencia mínima de 3 años en importaciones y gestión aduanera. Se valora experiencia en exportaciones",
+                       "Inglés y Excel avanzado",
+                       "Manejo de SAP módulo MM, VUCE, Veritrade y plataforma SUNAT"
+                   ],
+    "funciones":  [
+                      "inherentes al cargo que le sean asignadas por su jefe"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-comercio-exterior-empresa-industrial-grupo-tdm-1118471088.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-comercio-exterior-empresa-industrial-grupo-tdm-1118471088.html",
+    "descripcion_html":  "\u003cp\u003eFundada en 1992, TDM es una empresa de capitales peruanos y gestionada por peruanos, líder en Latinoamérica en soluciones de ingeniería, suministro e instalación de productos de construcción para grandes e importantes proyectos de infraestructura, minería y otros sectores. TDM basa su trabajo en pilares como innovación en aplicaciones, métodos y procesos; conocimiento y experiencia reconocida en Latinoamérica; confiabilidad y vínculos a largo plazo.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller en Administración de Negocios Internacionales.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en importaciones y gestión aduanera. Se valora experiencia en exportaciones.\u003c/li\u003e \u003cli\u003eInglés y Excel avanzado.\u003c/li\u003e \u003cli\u003eManejo de SAP módulo MM, VUCE, Veritrade y plataforma SUNAT\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003col\u003e \u003cli\u003eGestionar importaciones de cargas contenerizadas y/o carga suelta, desde la colocación de la OC hasta la entrega en almacén.\u003c/li\u003e \u003cli\u003eNegociar precios, Incoterms, condiciones de pago, plazos de fabricación, cantidades mínimas y garantías con proveedores.\u003c/li\u003e \u003cli\u003eElaborar cuadros comparativos y calcular el costo total puesto en almacén, considerando flete, seguro, aranceles, gastos aduaneros y demás costos.\u003c/li\u003e \u003cli\u003eRevisar la documentación correspondiente a las compras de importación.\u003c/li\u003e \u003cli\u003eRealizar seguimiento a los pagos de proveedores estratégicos para asegurar la continuidad del abastecimiento.\u003c/li\u003e \u003cli\u003eRealizar las demás funciones inherentes al cargo que le sean asignadas por su jefe.\u003c/li\u003e\u003c/ol\u003e",
+    "area":  "Consultorías Comercio Exterior",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

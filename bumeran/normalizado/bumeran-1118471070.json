@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118471070",
+    "clave":  "id:1118471070",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-contabilidad-presencial-yamanija-amp-asociados-consultoria-sac-1118471070.html",
+                   "capturadoEn":  "2026-10-08T07:25:35+00:00"
+               },
+    "titulo":  "ANALISTA DE CONTABILIDAD - PRESENCIAL",
+    "empresa":  "YAMANIJA \u0026amp; ASOCIADOS CONSULTORIA SAC",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa del rubro gastronómico Identificar, proponer e implementar mejoras en los procesos del área. Realizar conciliaciones bancarias y análisis de cuentas. Apoyo en la preparación de libros electrónicos en función al SIRE. Experiencia previa en registros contables, conciliaciones bancarias, manejo de libros electrónicos u obligaciones tributarias básicas. Elaboración de informes y reportes para Gerencia General. Requisitos: Estudios Superiores culminados en Contabilidad. Manejo de Sistema CONCAR. Disponibilidad para trabajar en el horario: Lunes a Sábado de manera Presencial.",
+    "requisitos":  [
+                       "Estudios Superiores culminados en Contabilidad",
+                       "Manejo de Sistema CONCAR",
+                       "Disponibilidad para trabajar en el horario: Lunes a Sábado de manera Presencial"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-contabilidad-presencial-yamanija-amp-asociados-consultoria-sac-1118471070.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-contabilidad-presencial-yamanija-amp-asociados-consultoria-sac-1118471070.html",
+    "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEmpresa del rubro gastronómico\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e \u003cul\u003e \u003cli\u003eIdentificar, proponer e implementar mejoras en los procesos del área.\u003c/li\u003e \u003cli\u003eRealizar conciliaciones bancarias y análisis de cuentas.\u003c/li\u003e \u003cli\u003eApoyo en la preparación de libros electrónicos en función al SIRE.\u003c/li\u003e \u003cli\u003eExperiencia previa en registros contables, conciliaciones bancarias, manejo de libros electrónicos u obligaciones tributarias básicas.\u003c/li\u003e \u003cli\u003eElaboración de informes y reportes para Gerencia General.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eEstudios Superiores culminados en Contabilidad.\u003c/li\u003e \u003cli\u003eManejo de Sistema CONCAR.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en el horario: Lunes a Sábado de manera Presencial.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e",
+    "area":  "Contabilidad",
+    "jornada":  "Full-time",
+    "nivel":  "Senior / Semi-Senior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "Lunes a Sábado de manera Presencial.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
