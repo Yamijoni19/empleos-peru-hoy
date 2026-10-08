@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118471112",
+    "clave":  "id:1118471112",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-biomedico-medfix-peru-1118471112.html",
+                   "capturadoEn":  "2026-10-08T01:00:41+00:00"
+               },
+    "titulo":  "Técnico Biomédico",
+    "empresa":  "Medfix peru",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Técnico Biomédico Resumen del Puesto Buscamos un Técnico Biomédico para unirse a nuestro equipo. El candidato ideal será responsable de asegurar la operatividad y el correcto funcionamiento de los equipos biomédicos, garantizando la seguridad y eficiencia en el entorno de salud. Responsabilidades Principales Ejecutar y supervisar el mantenimiento preventivo y correctivo de equipos biomédicos. Diagnosticar fallas y asegurar la operatividad de los equipos. Gestionar inventario, registros técnicos e informes relacionados con el mantenimiento. Coordinar servicios externos y garantizar el cumplimiento de los estándares de calidad y seguridad. Capacitar a usuarios en el manejo adecuado de los equipos y apoyar en la instalación de nuevos dispositivos. Requisitos Formación técnica, egresado o estudiante de últimos ciclos en carreras como Electrónica, Mecatrónica, Ingeniería Biomédica o afines. Experiencia mínima de 1 año en el sector salud, específicamente en mantenimiento de equipos biomédicos. Sólidos conocimientos en mantenimiento biomédico y manejo de instrumentos de medición. Se valorará experiencia con ventiladores mecánicos y máquinas de anestesia. Se requiere una persona proactiva, organizada y con clara orientación a resultados.",
+    "requisitos":  [
+                       "Formación técnica, egresado o estudiante de últimos ciclos en carreras como Electrónica, Mecatrónica, Ingeniería Biomédica o afines",
+                       "Experiencia mínima de 1 año en el sector salud, específicamente en mantenimiento de equipos biomédicos",
+                       "Sólidos conocimientos en mantenimiento biomédico y manejo de instrumentos de medición",
+                       "Se valorará experiencia con ventiladores mecánicos y máquinas de anestesia",
+                       "Se requiere una persona proactiva, organizada y con clara orientación a resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-biomedico-medfix-peru-1118471112.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-biomedico-medfix-peru-1118471112.html",
+    "descripcion_html":  "\u003cb\u003eTécnico Biomédico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico Biomédico\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal será responsable de asegurar la operatividad y el correcto funcionamiento de los equipos biomédicos, garantizando la seguridad y eficiencia en el entorno de salud.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eEjecutar y supervisar el mantenimiento preventivo y correctivo de equipos biomédicos.\u003c/li\u003e \u003cli\u003eDiagnosticar fallas y asegurar la operatividad de los equipos.\u003c/li\u003e \u003cli\u003eGestionar inventario, registros técnicos e informes relacionados con el mantenimiento.\u003c/li\u003e \u003cli\u003eCoordinar servicios externos y garantizar el cumplimiento de los estándares de calidad y seguridad.\u003c/li\u003e \u003cli\u003eCapacitar a usuarios en el manejo adecuado de los equipos y apoyar en la instalación de nuevos dispositivos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica, egresado o estudiante de últimos ciclos en carreras como Electrónica, Mecatrónica, Ingeniería Biomédica o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en el sector salud, específicamente en mantenimiento de equipos biomédicos.\u003c/li\u003e \u003cli\u003eSólidos conocimientos en mantenimiento biomédico y manejo de instrumentos de medición.\u003c/li\u003e \u003cli\u003eSe valorará experiencia con ventiladores mecánicos y máquinas de anestesia.\u003c/li\u003e \u003cli\u003eSe requiere una persona proactiva, organizada y con clara orientación a resultados.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118471097",
+    "clave":  "id:1118471097",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnica-en-enfermeria-sincronica-1118471097.html",
+                   "capturadoEn":  "2026-10-08T01:01:27+00:00"
+               },
+    "titulo":  "Técnica en Enfermería",
+    "empresa":  "SINCRONICA",
+    "ubicacion":  "Lima - Magdalena del Mar",
+    "ciudad":  "Magdalena del Mar",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "CENTRO ESPECIALIZADO DE GINECOLOGÍA Técnica en Enfermería Resumen del Puesto Buscamos una Técnica en Enfermería con vocación de servicio, trato cálido y proactividad para unirse a nuestro equipo. La candidata ideal deberá demostrar responsabilidad, excelente atención al paciente y experiencia en apoyo al área ginecológica, incluyendo el manejo de toma de muestras y asistencia en procedimientos. Responsabilidades Brindar atención de calidad a los pacientes. Apoyar en el área ginecológica. Realizar toma de muestras. Asistir en procedimientos médicos. Mantener un trato cálido y profesional con los pacientes. Requisitos Título de Técnica en Enfermería. Experiencia previa en el área ginecológica. Habilidad en la toma de muestras y asistencia en procedimientos. Excelentes habilidades interpersonales y de comunicación. Capacidad para trabajar de forma organizada y responsable. Vocación de servicio y compromiso con la atención al paciente.",
+    "requisitos":  [
+                       "Título de Técnica en Enfermería",
+                       "Experiencia previa en el área ginecológica",
+                       "Habilidad en la toma de muestras y asistencia en procedimientos",
+                       "Excelentes habilidades interpersonales y de comunicación",
+                       "Capacidad para trabajar de forma organizada y responsable",
+                       "Vocación de servicio y compromiso con la atención al paciente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnica-en-enfermeria-sincronica-1118471097.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnica-en-enfermeria-sincronica-1118471097.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eCENTRO ESPECIALIZADO DE GINECOLOGÍA\u003c/p\u003e\u003c/p\u003e \u003cb\u003eTécnica en Enfermería\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eTécnica en Enfermería\u003c/b\u003e con vocación de servicio, trato cálido y proactividad para unirse a nuestro equipo. La candidata ideal deberá demostrar responsabilidad, excelente atención al paciente y experiencia en apoyo al área ginecológica, incluyendo el manejo de toma de muestras y asistencia en procedimientos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar atención de calidad a los pacientes.\u003c/li\u003e \u003cli\u003eApoyar en el área ginecológica.\u003c/li\u003e \u003cli\u003eRealizar toma de muestras.\u003c/li\u003e \u003cli\u003eAsistir en procedimientos médicos.\u003c/li\u003e \u003cli\u003eMantener un trato cálido y profesional con los pacientes.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Técnica en Enfermería.\u003c/li\u003e \u003cli\u003eExperiencia previa en el área ginecológica.\u003c/li\u003e \u003cli\u003eHabilidad en la toma de muestras y asistencia en procedimientos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades interpersonales y de comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma organizada y responsable.\u003c/li\u003e \u003cli\u003eVocación de servicio y compromiso con la atención al paciente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Enfermería",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Técnica en Enfermería",
+    "herramientas":  "",
+    "publicado_el":  "06/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
