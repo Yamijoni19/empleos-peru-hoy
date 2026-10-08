@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118469201",
+    "clave":  "id:1118469201",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-logistica-e2e-logistics-group-s.a.c-1118469201.html",
+                   "capturadoEn":  "2026-10-08T21:20:28+00:00"
+               },
+    "titulo":  "Analista de logística",
+    "empresa":  "E2E Logistics Group S.A.C",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operador logístico Peruano busca analista de logística, de preferencia sexo mujer para gestión administrativa a clientes de la empresa. Se requiere personal con experiencia en almacén, logística distribución y transporte. Labores administrativas de facturación, control de estado de cuenta, etc. Lugar de residencia Callao, o lima Norte. Horario laboral de lunes a viernes de 0 8. 0 0 hrs a a 1 7. 0 0 hrs, sábados de 0 8. 0 0 hrs a 1 2. 0 0 hrs Interesados postular por esta vía.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-logistica-e2e-logistics-group-s.a.c-1118469201.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-logistica-e2e-logistics-group-s.a.c-1118469201.html",
+    "descripcion_html":  "\u003cp\u003eOperador logístico Peruano busca analista de logística, de preferencia sexo mujer para gestión administrativa a clientes de la empresa. \u003c/p\u003e\u003cp\u003eSe requiere personal con experiencia en almacén, logística distribución y transporte. \u003c/p\u003e\u003cp\u003eLabores administrativas de facturación, control de estado de cuenta, etc.\u003c/p\u003e\u003cp\u003eLugar de residencia Callao, o lima Norte.\u003c/p\u003e\u003cp\u003eHorario laboral de lunes a viernes de \u0026#x30; \u0026#x38;. \u0026#x30; \u0026#x30; hrs a a \u0026#x31; \u0026#x37;. \u0026#x30; \u0026#x30; hrs, sábados de \u0026#x30; \u0026#x38;. \u0026#x30; \u0026#x30; hrs a \u0026#x31; \u0026#x32;. \u0026#x30; \u0026#x30; hrs\u003c/p\u003e\u003cp\u003eInteresados postular por esta vía.\u003c/p\u003e",
+    "area":  "Almacén / Depósito / Expedición",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

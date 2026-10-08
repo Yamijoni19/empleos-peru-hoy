@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469134",
+    "clave":  "id:1118469134",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-csc-corrales-eirl-1118469134.html",
+                   "capturadoEn":  "2026-10-08T21:20:47+00:00"
+               },
+    "titulo":  "Operario de Almacén",
+    "empresa":  "Csc corrales eirl",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Almacén Resumen del Puesto Buscamos un Operario de Almacén responsable y comprometido para unirse a nuestro equipo. El rol principal implicará la gestión eficiente de las operaciones de almacén, incluyendo el embalaje, despacho y la preparación de mercadería para su distribución. Responsabilidades Realizar tareas de embalaje de productos de manera cuidadosa y eficiente. Preparar pedidos para su despacho, asegurando la exactitud y la integridad de la mercadería. Colaborar en la recepción y organización de inventario. Mantener el área de trabajo limpia y ordenada. Apoyar en las labores de distribución y reparto según sea necesario. Requisitos Experiencia previa en puestos similares. Capacidad para seguir instrucciones y procedimientos establecidos. Habilidad para trabajar en equipo y mantener una actitud proactiva. Responsabilidad y compromiso con las tareas asignadas. Disponibilidad para trabajar en horarios establecidos. Ofrecemos Remuneración acorde a las responsabilidades. Reconocimiento por el desempeño. Un ambiente de trabajo positivo y colaborativo.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares",
+                       "Capacidad para seguir instrucciones y procedimientos establecidos",
+                       "Habilidad para trabajar en equipo y mantener una actitud proactiva",
+                       "Responsabilidad y compromiso con las tareas asignadas",
+                       "Disponibilidad para trabajar en horarios establecidos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-csc-corrales-eirl-1118469134.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-csc-corrales-eirl-1118469134.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOperario de Almacén\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eOperario de Almacén\u003c/strong\u003e responsable y comprometido para unirse a nuestro equipo. El rol principal implicará la gestión eficiente de las operaciones de almacén, incluyendo el embalaje, despacho y la preparación de mercadería para su distribución.\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar tareas de embalaje de productos de manera cuidadosa y eficiente.\u003c/li\u003e \u003cli\u003ePreparar pedidos para su despacho, asegurando la exactitud y la integridad de la mercadería.\u003c/li\u003e \u003cli\u003eColaborar en la recepción y organización de inventario.\u003c/li\u003e \u003cli\u003eMantener el área de trabajo limpia y ordenada.\u003c/li\u003e \u003cli\u003eApoyar en las labores de distribución y reparto según sea necesario.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y mantener una actitud proactiva.\u003c/li\u003e \u003cli\u003eResponsabilidad y compromiso con las tareas asignadas.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eOfrecemos\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde a las responsabilidades.\u003c/li\u003e \u003cli\u003eReconocimiento por el desempeño.\u003c/li\u003e \u003cli\u003eUn ambiente de trabajo positivo y colaborativo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Almacén / Depósito / Expedición",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

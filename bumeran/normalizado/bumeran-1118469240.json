@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469240",
+    "clave":  "id:1118469240",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-corporacion-full-ventas-1118469240.html",
+                   "capturadoEn":  "2026-10-08T21:19:59+00:00"
+               },
+    "titulo":  "Asesora de Ventas",
+    "empresa":  "CORPORACION FULL VENTAS",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesora de Ventas Resumen del Puesto Buscamos una Asesora de Ventas proactiva y con gran orientación comercial para unirse a nuestro equipo. El candidato ideal poseerá facilidad de comunicación y un fuerte enfoque en la atención al cliente para impulsar el logro de objetivos comerciales. Responsabilidades Atender y asesorar a clientes interesados en nuestros productos. Gestionar consultas y concretar ventas a través de diversas plataformas de comunicación digital. Identificar las necesidades de los clientes y recomendar los productos más adecuados. Realizar seguimiento a clientes potenciales hasta el cierre de la venta. Cumplir con los objetivos comerciales establecidos. Requisitos Excelente comunicación verbal y habilidades de trato al cliente. Facilidad para la comunicación a través de medios digitales. Capacidad demostrada para atraer, asesorar y cerrar ventas. Responsabilidad, dinamismo y compromiso. Disponibilidad para trabajar en horarios rotativos.",
+    "requisitos":  [
+                       "Excelente comunicación verbal y habilidades de trato al cliente",
+                       "Facilidad para la comunicación a través de medios digitales",
+                       "Capacidad demostrada para atraer, asesorar y cerrar ventas",
+                       "Responsabilidad, dinamismo y compromiso",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-corporacion-full-ventas-1118469240.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-corporacion-full-ventas-1118469240.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesora de Ventas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eAsesora de Ventas\u003c/strong\u003e proactiva y con gran orientación comercial para unirse a nuestro equipo. El candidato ideal poseerá facilidad de comunicación y un fuerte enfoque en la atención al cliente para impulsar el logro de objetivos comerciales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtender y asesorar a clientes interesados en nuestros productos.\u003c/li\u003e \u003cli\u003eGestionar consultas y concretar ventas a través de diversas plataformas de comunicación digital.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades de los clientes y recomendar los productos más adecuados.\u003c/li\u003e \u003cli\u003eRealizar seguimiento a clientes potenciales hasta el cierre de la venta.\u003c/li\u003e \u003cli\u003eCumplir con los objetivos comerciales establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExcelente comunicación verbal y habilidades de trato al cliente.\u003c/li\u003e \u003cli\u003eFacilidad para la comunicación a través de medios digitales.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para atraer, asesorar y cerrar ventas.\u003c/li\u003e \u003cli\u003eResponsabilidad, dinamismo y compromiso.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Atención al Cliente",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

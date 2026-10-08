@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118469221",
+    "clave":  "id:1118469221",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-aire-acondicionado-air-master-cold-1118469221.html",
+                   "capturadoEn":  "2026-10-08T21:20:08+00:00"
+               },
+    "titulo":  "Técnico de Aire Acondicionado",
+    "empresa":  "AIR MASTER COLD",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Solicitando Técnico de Aire Acondicionado AIR MASTER COLD es un Empresa especializada en instalación y mantenimiento de equipos de aire acondicionado, sistema de extracción de aire, sistema contra incendios y sistemas de detección de humo. Requisitos: Técnico de Aire Acondicionado y Ventilación Mecánica Conocimientos en instalación, reparación y mantenimiento Conocimiento en sistemas de Agua Contra Incendio y Detección de Humos Conocimiento en sistemas de ductos de plancha galvanizada y plancha negra Experiencia en Fan Coil, VRV y split. Las funciones a cumplir son principalmente instalación y mantenimiento de sistemas contra incendio, aire acondicionado y ventilación. Además, diagnóstico de fallas y soluciones técnicas, mantenimiento preventivo y correctivo de sistemas de aire acondicionado y ventilación.",
+    "requisitos":  [
+                       "Técnico de Aire Acondicionado y Ventilación Mecánica",
+                       "Conocimientos en instalación, reparación y mantenimiento",
+                       "Conocimiento en sistemas de Agua Contra Incendio y Detección de Humos",
+                       "Conocimiento en sistemas de ductos de plancha galvanizada y plancha negra",
+                       "Experiencia en Fan Coil, VRV y split",
+                       "Las"
+                   ],
+    "funciones":  [
+                      "a cumplir son principalmente instalación y mantenimiento de sistemas contra incendio, aire acondicionado y ventilación. Además, diagnóstico de fallas y soluciones técnicas, mantenimiento preventivo y correctivo de sistemas de aire acondicionado y ventilación"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-aire-acondicionado-air-master-cold-1118469221.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-aire-acondicionado-air-master-cold-1118469221.html",
+    "descripcion_html":  "\u003cp\u003eSolicitando Técnico de Aire Acondicionado\u003c/p\u003e\u003cp\u003eAIR MASTER COLD es un Empresa especializada en instalación y mantenimiento de equipos de aire acondicionado, sistema de extracción de aire, sistema contra incendios y sistemas de detección de humo.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico de Aire Acondicionado y Ventilación Mecánica\u003c/li\u003e \u003cli\u003eConocimientos en instalación, reparación y mantenimiento\u003c/li\u003e \u003cli\u003eConocimiento en sistemas de Agua Contra Incendio y Detección de Humos\u003c/li\u003e \u003cli\u003eConocimiento en sistemas de ductos de plancha galvanizada y plancha negra\u003c/li\u003e \u003cli\u003eExperiencia en Fan Coil, VRV y split.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eLas funciones a cumplir son principalmente instalación y mantenimiento de sistemas contra incendio, aire acondicionado y ventilación. Además, diagnóstico de fallas y soluciones técnicas, mantenimiento preventivo y correctivo de sistemas de aire acondicionado y ventilación.\u003c/p\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

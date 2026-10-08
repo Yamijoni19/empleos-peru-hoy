@@ -1,0 +1,81 @@
+{
+    "id":  "bumeran-1118469119",
+    "clave":  "id:1118469119",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vigilante-alameda-calm-1118469119.html",
+                   "capturadoEn":  "2026-10-08T21:20:55+00:00"
+               },
+    "titulo":  "Vigilante",
+    "empresa":  "ALAMEDA CALM",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1030,
+                    "max":  1235,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,030 - S/ 1,235",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Vigilante Resumen del Puesto Buscamos un Vigilante responsable y proactivo para unirse a nuestro equipo. El candidato ideal deberá demostrar un alto sentido de la responsabilidad y compromiso en sus funciones. Responsabilidades Garantizar la seguridad y el orden en las instalaciones asignadas. Realizar rondas de vigilancia y supervisión. Controlar el acceso de personas y vehículos. Reportar cualquier incidencia o anomalía detectada. Mantener la calma y actuar con profesionalismo ante situaciones de emergencia. Requisitos Con o sin experiencia previa en puestos de vigilancia o seguridad. Alto sentido de la responsabilidad y compromiso. Capacidad para trabajar en turnos rotativos o turno tarde de 2pm a 1 0pm, incluyendo horario vespertino. Habilidades de observación y atención al detalle. Capacidad para trabajar de forma independiente y como parte de un equipo. Buenas habilidades de comunicación. De preferencia vivir aledaños a la molina",
+    "requisitos":  [
+                       "Con o sin experiencia previa en puestos de vigilancia o seguridad",
+                       "Alto sentido de la responsabilidad y compromiso",
+                       "Capacidad para trabajar en turnos rotativos o turno tarde de 2pm a 1 0pm, incluyendo horario vespertino",
+                       "Habilidades de observación y atención al detalle",
+                       "Capacidad para trabajar de forma independiente y como parte de un equipo",
+                       "Buenas habilidades de comunicación",
+                       "De preferencia vivir aledaños a la molina"
+                   ],
+    "funciones":  [
+                      "Responsabilidades",
+                      "Garantizar la seguridad y el orden en las instalaciones asignadas",
+                      "Realizar rondas de vigilancia y supervisión",
+                      "Controlar el acceso de personas y vehículos",
+                      "Reportar cualquier incidencia o anomalía detectada",
+                      "Mantener la calma y actuar con profesionalismo ante situaciones de emergencia"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/vigilante-alameda-calm-1118469119.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vigilante-alameda-calm-1118469119.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eVigilante\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eVigilante\u003c/strong\u003e responsable y proactivo para unirse a nuestro equipo. El candidato ideal deberá demostrar un alto sentido de la responsabilidad y compromiso en sus funciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGarantizar la seguridad y el orden en las instalaciones asignadas.\u003c/li\u003e \u003cli\u003eRealizar rondas de vigilancia y supervisión.\u003c/li\u003e \u003cli\u003eControlar el acceso de personas y vehículos.\u003c/li\u003e \u003cli\u003eReportar cualquier incidencia o anomalía detectada.\u003c/li\u003e \u003cli\u003eMantener la calma y actuar con profesionalismo ante situaciones de emergencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCon o sin experiencia previa en puestos de vigilancia o seguridad.\u003c/li\u003e \u003cli\u003eAlto sentido de la responsabilidad y compromiso.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en turnos rotativos o turno tarde de \u0026#x32;pm a \u0026#x31; \u0026#x30;pm, incluyendo horario vespertino.\u003c/li\u003e \u003cli\u003eHabilidades de observación y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y como parte de un equipo.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación.\u003c/li\u003e \u003cli\u003eDe preferencia vivir aledaños a la molina \u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Seguridad",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
