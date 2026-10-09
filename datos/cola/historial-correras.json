@@ -8,30 +8,30 @@
                                             "Count":  2
                                         },
                                         {
-                                            "fecha":  "2026-10-08T21:30:03.1204704+00:00",
-                                            "publicadas":  15,
+                                            "fecha":  "2026-10-09T16:35:03.3700785+00:00",
+                                            "publicadas":  40,
                                             "errores":  0,
                                             "encoladas":  0,
-                                            "maxPorCorrida":  25
+                                            "maxPorCorrida":  50
                                         }
                                     ],
                           "Count":  2
                       },
                       {
-                          "fecha":  "2026-10-09T02:19:58.2474378+00:00",
-                          "publicadas":  15,
+                          "fecha":  "2026-10-09T16:59:06.4181201+00:00",
+                          "publicadas":  39,
                           "errores":  0,
                           "encoladas":  0,
-                          "maxPorCorrida":  25
+                          "maxPorCorrida":  50
                       }
                   ],
         "Count":  2
     },
     {
-        "fecha":  "2026-10-09T09:13:52.0683207+00:00",
-        "publicadas":  15,
-        "errores":  0,
+        "fecha":  "2026-10-09T17:14:29.8893832+00:00",
+        "publicadas":  22,
+        "errores":  1,
         "encoladas":  0,
-        "maxPorCorrida":  25
+        "maxPorCorrida":  50
     }
 ]

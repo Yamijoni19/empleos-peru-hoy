@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118474323",
+    "clave":  "id:1118474323",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-chicharroneria-el-gordito-1118474323.html",
+                   "capturadoEn":  "2026-10-09T16:12:36+00:00"
+               },
+    "titulo":  "Ayudante de Cocina",
+    "empresa":  "CHICHARRONERIA EL GORDITO",
+    "ubicacion":  "Lima - San Luis",
+    "ciudad":  "San Luis",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "BUSCAMOS AYUDANTE DE COCINA, PAGOS DIARIOS Ayudante de Cocina Resumen del Puesto Buscamos un Ayudante de Cocina con experiencia y/o conocimientos en el rubro gastronómico para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades para el trabajo en un entorno dinámico y estar dispuesto a adaptarse a las necesidades operativas del local. Responsabilidades Asistir en la preparación de alimentos y platos. Colaborar en el mantenimiento de la limpieza y orden de la cocina y áreas de trabajo. Apoyar en la gestión de inventario y recepción de suministros. Cumplir con las normativas de higiene y seguridad alimentaria. Realizar tareas generales de apoyo según las necesidades del servicio. Requisitos Experiencia previa o conocimientos demostrables en cocina o gastronomía. Capacidad para trabajar en equipo y seguir instrucciones. Disponibilidad para trabajar en horario diurno. Proactividad y buena disposición para el aprendizaje. Habilidad para trabajar bajo presión y en un ritmo ágil.",
+    "requisitos":  [
+                       "Experiencia previa o conocimientos demostrables en cocina o gastronomía",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Disponibilidad para trabajar en horario diurno",
+                       "Proactividad y buena disposición para el aprendizaje",
+                       "Habilidad para trabajar bajo presión y en un ritmo ágil"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-chicharroneria-el-gordito-1118474323.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-chicharroneria-el-gordito-1118474323.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eBUSCAMOS AYUDANTE DE COCINA, PAGOS DIARIOS\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAyudante de Cocina\u003c/b\u003e con experiencia y/o conocimientos en el rubro gastronómico para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades para el trabajo en un entorno dinámico y estar dispuesto a adaptarse a las necesidades operativas del local.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en la preparación de alimentos y platos.\u003c/li\u003e \u003cli\u003eColaborar en el mantenimiento de la limpieza y orden de la cocina y áreas de trabajo.\u003c/li\u003e \u003cli\u003eApoyar en la gestión de inventario y recepción de suministros.\u003c/li\u003e \u003cli\u003eCumplir con las normativas de higiene y seguridad alimentaria.\u003c/li\u003e \u003cli\u003eRealizar tareas generales de apoyo según las necesidades del servicio.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa o conocimientos demostrables en cocina o gastronomía.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario diurno.\u003c/li\u003e \u003cli\u003eProactividad y buena disposición para el aprendizaje.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar bajo presión y en un ritmo ágil.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Gastronomia",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -3045,3 +3045,13 @@
 [2026-10-09 06:30:25]   en cola    : 993 pendientes de 3079
 [2026-10-09 06:30:25]   registro   : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\registro-historico.txt
 [2026-10-09 06:30:25] hecho.
+[2026-10-09 17:18:34] 
+[2026-10-09 17:18:34] === PLAN DE MANTENIMIENTO ===
+[2026-10-09 17:18:34]   modo            : APLICAR (escrituras reales)
+[2026-10-09 17:18:34]   cola pendiente  : 993  (se procesarian hasta 10)
+[2026-10-09 17:18:34]   actualizaciones : 0 (ACTUALIZADA/CORRECCION de la cola comun)
+[2026-10-09 17:18:34]   pausa           : 2500 ms entre operaciones
+[2026-10-09 17:18:34]   RETIRAR como    : BORRADOR (posts.revert -> DRAFT, reversible)
+[2026-10-09 17:18:34]     RETIRAR: 10
+[2026-10-09 17:18:34] CANCELADO: cooldown 429 activo hasta 2026-10-09 21:14
+[2026-10-09 17:18:34]   0 escrituras realizadas; la cola queda intacta.

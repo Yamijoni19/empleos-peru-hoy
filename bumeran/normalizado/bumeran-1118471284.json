@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118471284",
+    "clave":  "id:1118471284",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-biomedico-baruch-1118471284.html",
+                   "capturadoEn":  "2026-10-09T16:12:46+00:00"
+               },
+    "titulo":  "Tecnico Biomedico",
+    "empresa":  "BARUCH",
+    "ubicacion":  "Lima - Surco",
+    "ciudad":  "Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos un técnico biomédico o electrónico para el área de Ingeniería y Soporte Técnico, especializado en equipos de diagnóstico por imágenes, en particular ecógrafos. Brindará atención técnica a clientes del sector privado en [Lima y alrededores]. Responsabilidades Instalar y poner en marcha ecógrafos y colposcopios. Realizar mantenimientos preventivos y correctivos de ecógrafos y sus transductores. Evaluar técnicamente equipos para el programa Baruch Renueva y elaborar el informe de estado. Registrar cada servicio en la Orden de Trabajo de Mantenimiento (OTM). Coordinar con el equipo de ingeniería y dar seguimiento a los clientes atendidos. Requisitos Formación técnica o universitaria (egresado, bachiller o titulado) en Biomédica, Electrónica o afín. Experiencia en soporte técnico de equipos de imágenes [mínimo X años / deseable en ecografía]. Se brinda capacitación. Conocimientos de instalación, mantenimiento preventivo y correctivo. Disponibilidad para visitar clientes [horario y zonas]. Orden, responsabilidad y buena comunicación con el cliente.",
+    "requisitos":  [
+                       "Formación técnica o universitaria (egresado, bachiller o titulado) en Biomédica, Electrónica o afín",
+                       "Experiencia en soporte técnico de equipos de imágenes [mínimo X años / deseable en ecografía]. Se brinda capacitación",
+                       "Conocimientos de instalación, mantenimiento preventivo y correctivo",
+                       "Disponibilidad para visitar clientes [horario y zonas]",
+                       "Orden, responsabilidad y buena comunicación con el cliente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-biomedico-baruch-1118471284.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-biomedico-baruch-1118471284.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos un técnico biomédico o electrónico para el área de Ingeniería y Soporte Técnico, especializado en equipos de diagnóstico por imágenes, en particular ecógrafos. Brindará atención técnica a clientes del sector privado en [Lima y alrededores].\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInstalar y poner en marcha ecógrafos y colposcopios.\u003c/li\u003e \u003cli\u003eRealizar mantenimientos preventivos y correctivos de ecógrafos y sus transductores.\u003c/li\u003e \u003cli\u003eEvaluar técnicamente equipos para el programa Baruch Renueva y elaborar el informe de estado.\u003c/li\u003e \u003cli\u003eRegistrar cada servicio en la Orden de Trabajo de Mantenimiento (OTM).\u003c/li\u003e \u003cli\u003eCoordinar con el equipo de ingeniería y dar seguimiento a los clientes atendidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación técnica o universitaria (egresado, bachiller o titulado) en Biomédica, Electrónica o afín.\u003c/li\u003e \u003cli\u003eExperiencia en soporte técnico de equipos de imágenes [mínimo X años / deseable en ecografía]. Se brinda capacitación.\u003c/li\u003e \u003cli\u003eConocimientos de instalación, mantenimiento preventivo y correctivo.\u003c/li\u003e \u003cli\u003eDisponibilidad para visitar clientes [horario y zonas].\u003c/li\u003e \u003cli\u003eOrden, responsabilidad y buena comunicación con el cliente.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
