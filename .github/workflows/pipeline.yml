@@ -24,7 +24,7 @@ permissions:
 jobs:
   flujo:
     runs-on: windows-latest
-    timeout-minutes: 55
+    timeout-minutes: 120
 
     steps:
       - name: Checkout

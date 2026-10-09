@@ -15,6 +15,10 @@
 #   .\flujo-principal.ps1 -SoloPublicar     # solo publica lo ya encolado
 #   .\flujo-principal.ps1 -MaxBumeran 50 -MaxEstado 30
 #   .\flujo-principal.ps1 -MaxPorCorrida 50 # sube el limite por corrida sin editar config
+#   .\flujo-principal.ps1 -MinutosPublicacion 90 -PausaEntreTandas 240
+#     (publica en VARIAS TANDAS dentro de la misma corrida: ~90 min de
+#      presupuesto, esperando 4 min entre tandas - el job de Actions tarda
+#      poco y asi se aprovecha cada ejecucion al maximo: ~150 posts/corrida)
 #
 # REGLAS:
 #   - Privado = SOLO Bumeran (BuscoJobs queda congelado con sus historicos).
@@ -33,6 +37,8 @@ param(
     [int]$MaxPorCorrida = -1,
     [switch]$Simular,
     [switch]$Nube,
+    [int]$MinutosPublicacion = 90,
+    [int]$PausaEntreTandas = 240,
     [string]$BaseDir = (Split-Path -Parent $MyInvocation.MyCommand.Path)
 )
 
@@ -120,7 +126,33 @@ Log "== PUBLICACION =="
 $pPub = @{ Si = $true }
 if ($Simular) { $pPub.Simular = $true }
 if ($MaxPorCorrida -gt 0) { $pPub.MaxPorCorrida = $MaxPorCorrida }
-[void](Paso 'PUBLICAR BLOGGER' 'publicar-blogger.ps1' $pPub)
+
+# Varias tandas de publicacion dentro del MISMO job: aprovecha el presupuesto
+# del job de Actions (el cron horario de GitHub a veces se salta horas, y una
+# sola tanda por corrida dejaba el ritmo en ~15-50 posts/dia).
+# Seguridad: si hay cooldown 429 activo, o una tanda publica 0 (cola vacia,
+# publicacion desactivada, anomalia, SIMULACION), se corta el ciclo.
+$RutaColaAct    = Join-Path $BaseDir 'datos\cola\cola-actual.json'
+$RutaCooldown429= Join-Path $BaseDir 'datos\cola\cooldown-429.json'
+$fin   = (Get-Date).AddMinutes([Math]::Max(5, $MinutosPublicacion))
+$tanda = 0
+while ($true) {
+    if (Test-Path $RutaCooldown429) {
+        try {
+            $cd = Get-Content $RutaCooldown429 -Raw -Encoding UTF8 | ConvertFrom-Json
+            if ((Get-Date) -lt ([datetime]$cd.hasta)) { Log ("  cooldown 429 activo: fin de tandas"); break }
+        } catch { }
+    }
+    $tanda++
+    if (Test-Path $RutaColaAct) { try { Remove-Item -LiteralPath $RutaColaAct -Force } catch { } }
+    [void](Paso ("PUBLICAR BLOGGER (tanda " + $tanda + ")") 'publicar-blogger.ps1' $pPub)
+    $pub = 0
+    try { $ca = Get-Content $RutaColaAct -Raw -Encoding UTF8 | ConvertFrom-Json; $pub = [int]$ca.publicadas } catch { $pub = 0 }
+    Log ("  tanda " + $tanda + ": publicadas=" + $pub)
+    if ($pub -le 0) { Log "  tanda sin publicaciones: fin de tandas"; break }
+    if ((Get-Date) -ge $fin) { Log "  presupuesto de publicacion agotado (" + $MinutosPublicacion + " min)"; break }
+    Start-Sleep -Seconds ([Math]::Max(30, $PausaEntreTandas))
+}
 
 $tsTotal = (Get-Date) - $Inicio
 Log ("FLUJO TERMINADO en " + ("{0:00}:{1:00}:{2:00}" -f [int][math]::Floor($tsTotal.TotalHours), $tsTotal.Minutes, $tsTotal.Seconds) + " | errores=" + $script:errores)
