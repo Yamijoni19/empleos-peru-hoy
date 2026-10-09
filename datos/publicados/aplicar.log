@@ -2962,3 +2962,31 @@
 [2026-10-08 19:27:20]   en cola    : 0 pendientes de 2071
 [2026-10-08 19:27:20]   registro   : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\registro-historico.txt
 [2026-10-08 19:27:20] hecho.
+[2026-10-09 05:07:25] 
+[2026-10-09 05:07:25] === PLAN DE MANTENIMIENTO ===
+[2026-10-09 05:07:25]   modo            : APLICAR (escrituras reales)
+[2026-10-09 05:07:25]   cola pendiente  : 5  (se procesarian hasta 5)
+[2026-10-09 05:07:25]   actualizaciones : 0 (ACTUALIZADA/CORRECCION de la cola comun)
+[2026-10-09 05:07:25]   pausa           : 2500 ms entre operaciones
+[2026-10-09 05:07:25]   RETIRAR como    : BORRADOR (posts.revert -> DRAFT, reversible)
+[2026-10-09 05:07:25]     RETIRAR: 5
+[2026-10-09 05:07:26]   access_token refrescado
+[2026-10-09 05:07:26] 
+[2026-10-09 05:07:26] === ESCRITURA ===
+[2026-10-09 05:07:26]   limite efectivo: 5 operaciones, pausa 2500 ms
+[2026-10-09 05:07:28]   blog: 448950430489176641
+[2026-10-09 05:07:30]   [1/5] RETIRAR 8464650226421015568 -> RETIRADO (BORRADOR)
+[2026-10-09 05:07:35]   [2/5] RETIRAR 353066733646186829 -> RETIRADO (BORRADOR)
+[2026-10-09 05:07:40]   [3/5] RETIRAR 8319277255418345134 -> RETIRADO (BORRADOR)
+[2026-10-09 05:07:44]   [4/5] RETIRAR 3754082136463262012 -> RETIRADO (BORRADOR)
+[2026-10-09 05:07:49]   [5/5] RETIRAR 5837781571246346526 -> RETIRADO (BORRADOR)
+[2026-10-09 05:07:53] 
+[2026-10-09 05:07:53] === RESUMEN MANTENIMIENTO ===
+[2026-10-09 05:07:53]   CORREGIDOS : 0
+[2026-10-09 05:07:53]   RETIRADOS  : 5
+[2026-10-09 05:07:53]   YA AUSENTES: 0
+[2026-10-09 05:07:53]   ACTUALIZ.  : 0
+[2026-10-09 05:07:53]   ERRORES    : 0
+[2026-10-09 05:07:53]   en cola    : 0 pendientes de 2076
+[2026-10-09 05:07:53]   registro   : C:\Users\Dell G3 Gaming\Documents\Default Project\datos\publicados\registro-historico.txt
+[2026-10-09 05:07:53] hecho.
