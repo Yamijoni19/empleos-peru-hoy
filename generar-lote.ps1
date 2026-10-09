@@ -21,7 +21,8 @@ param(
     [int]$Maximo = 0,
     [switch]$Serial,
     [switch]$ReintentarFallidas,
-    [switch]$RepasarTodas
+    [switch]$RepasarTodas,
+    [string]$ArgsExtra = ""
 )
 
 $ErrorActionPreference = "Stop"
@@ -107,10 +108,12 @@ function Registrar($r) {
 }
 
 $bloque = {
-    param($ruta, $u)
+    param($ruta, $u, $argsExtra)
     $ErrorActionPreference = 'Continue'
     try {
-        $texto = (& $ruta -Url $u -SinPortapapeles *>&1 | Out-String)
+        $extraParams = @{}
+        if ($argsExtra) { foreach ($p in ($argsExtra -split '\s+')) { if ($p -match '^-') { $extraParams[($p.TrimStart('-').Split(' ')[0])] = $true } } }
+        $texto = (& $ruta @extraParams -Url $u -SinPortapapeles *>&1 | Out-String)
         [pscustomobject]@{ url = $u; rc = $LASTEXITCODE; texto = $texto }
     } catch {
         [pscustomobject]@{ url = $u; rc = 1; texto = ("ERROR: " + $_.Exception.Message) }
@@ -123,7 +126,7 @@ Write-Host ("Reporte: " + $reporte)
 Write-Host ""
 
 if ($Serial) {
-    foreach ($u in $todo) { Registrar (& $bloque $generar $u) }
+    foreach ($u in $todo) { Registrar (& $bloque $generar $u $ArgsExtra) }
 } else {
     $cola = New-Object System.Collections.Generic.Queue[string]
     foreach ($u in $todo) { $cola.Enqueue($u) }
@@ -131,7 +134,7 @@ if ($Serial) {
     while ($cola.Count -gt 0 -or $activos.Count -gt 0) {
         while ($activos.Count -lt $Paralelos -and $cola.Count -gt 0) {
             $u = $cola.Dequeue()
-            $activos += Start-Job -ScriptBlock $bloque -ArgumentList $generar, $u
+            $activos += Start-Job -ScriptBlock $bloque -ArgumentList $generar, $u, $ArgsExtra
             if ($PausaMs -gt 0) { Start-Sleep -Milliseconds $PausaMs }
         }
         $listos = @($activos | Where-Object { $_.State -ne 'Running' })

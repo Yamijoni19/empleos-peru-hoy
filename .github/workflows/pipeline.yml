@@ -69,6 +69,16 @@ jobs:
           powershell -NoProfile -ExecutionPolicy Bypass -File flujo-principal.ps1 -Nube @a
           exit $LASTEXITCODE
 
+      - name: Retiro gradual de vencidos (10 por corrida)
+        if: always()
+        shell: pwsh
+        continue-on-error: true
+        run: |
+          powershell -NoProfile -ExecutionPolicy Bypass -File encolar-vencidos.ps1
+          Write-Host "encolar-vencidos rc=$LASTEXITCODE"
+          powershell -NoProfile -ExecutionPolicy Bypass -File aplicar-correcciones.ps1 -Aplicar -MaxCorrecciones 10
+          exit $LASTEXITCODE
+
       - name: Actualizar contadores (solo ofertas vigentes)
         if: always()
         shell: pwsh

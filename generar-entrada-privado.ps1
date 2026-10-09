@@ -16,7 +16,8 @@ param(
     [string]$Url = "",
     [int]$DiasMax = 4,
     [switch]$SinParafrasear,
-    [switch]$SinPortapapeles
+    [switch]$SinPortapapeles,
+    [switch]$Repasar
 )
 
 $ErrorActionPreference = "Stop"
@@ -190,7 +191,7 @@ $fPub = ""; $fCie = ""
 if ($ld.datePosted)   { $fPub = [string]$ld.datePosted }
 if ($ld.validThrough) { $fCie = [string]$ld.validThrough }
 $dp = Fecha-Date $fPub
-if ($dp -ne $null -and $dp.Date -lt $hoy.Date.AddDays(-$DiasMax)) {
+if (-not $Repasar -and $dp -ne $null -and $dp.Date -lt $hoy.Date.AddDays(-$DiasMax)) {
     Write-Host ("RESULTADO: OK - fuera de la ventana (publicada " + $dp.ToString('dd/MM/yyyy') + "); no se genera.")
     exit 0
 }
@@ -605,7 +606,7 @@ $claves = New-Object 'System.Collections.Generic.HashSet[string]' ([StringCompar
 if (Test-Path $clavesPath) {
     foreach ($l in [IO.File]::ReadAllLines($clavesPath)) { $l = $l.Trim(); if ($l -ne '') { [void]$claves.Add($l) } }
 }
-if ($claves.Contains($clave)) {
+if (-not $Repasar -and $claves.Contains($clave)) {
     Write-Host "RESULTADO: OK - repetida en otro portal (misma clave); no se genera."
     exit 0
 }
