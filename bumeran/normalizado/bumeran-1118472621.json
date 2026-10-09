@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118472621",
+    "clave":  "id:1118472621",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-de-almacen-y-logistica-leveris-1118472621.html",
+                   "capturadoEn":  "2026-10-09T09:05:11+00:00"
+               },
+    "titulo":  "Asistente administrativo de Almacén y Logística",
+    "empresa":  "LEVERIS",
+    "ubicacion":  "Lima - Magdalena del Mar",
+    "ciudad":  "Magdalena del Mar",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Descripción del puesto Nos encontramos en la búsqueda del mejor talento para ocupar el puesto de Asistente de Administración, Almacén y Logística en una empresa del sector eléctrico industrial. Requisitos: Técnico egresado o titulado en Administración Industrial, Logística, Gestión de Logística Internacional, Mantenimiento, Procesos Industriales o afines. Experiencia de 1 a 2 años en almacén, control de inventarios o soporte logístico. Manejo de Excel a nivel intermedio. Conocimientos en Kardex, picking, packing y sistemas ERP/WMS. Conocimiento de guías de remisión y documentación de despacho. Proactividad, orden y orientación al detalle. Funciones: Validar el ingreso y salida de productos e insumos. Coordinar con proveedores y transportistas la carga y descarga. Registrar movimientos de almacén en el sistema y Kardex. Realizar inventarios y reportar diferencias o incidencias. Gestionar documentación de almacén.",
+    "requisitos":  [
+                       "Técnico egresado o titulado en Administración Industrial, Logística, Gestión de Logística Internacional, Mantenimiento, Procesos Industriales o afines",
+                       "Experiencia de 1 a 2 años en almacén, control de inventarios o soporte logístico",
+                       "Manejo de Excel a nivel intermedio",
+                       "Conocimientos en Kardex, picking, packing y sistemas ERP/WMS",
+                       "Conocimiento de guías de remisión y documentación de despacho",
+                       "Proactividad, orden y orientación al detalle"
+                   ],
+    "funciones":  [
+                      "Validar el ingreso y salida de productos e insumos",
+                      "Coordinar con proveedores y transportistas la carga y descarga",
+                      "Registrar movimientos de almacén en el sistema y Kardex",
+                      "Realizar inventarios y reportar diferencias o incidencias",
+                      "Gestionar documentación de almacén"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-de-almacen-y-logistica-leveris-1118472621.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-de-almacen-y-logistica-leveris-1118472621.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eDescripción del puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda del mejor talento para ocupar el puesto de Asistente de Administración, Almacén y Logística en una empresa del sector eléctrico industrial.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico egresado o titulado en Administración Industrial, Logística, Gestión de Logística Internacional, Mantenimiento, Procesos Industriales o afines.\u003c/li\u003e \u003cli\u003eExperiencia de 1 a 2 años en almacén, control de inventarios o soporte logístico.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eConocimientos en Kardex, picking, packing y sistemas ERP/WMS.\u003c/li\u003e \u003cli\u003eConocimiento de guías de remisión y documentación de despacho.\u003c/li\u003e \u003cli\u003eProactividad, orden y orientación al detalle.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eValidar el ingreso y salida de productos e insumos.\u003c/li\u003e \u003cli\u003eCoordinar con proveedores y transportistas la carga y descarga.\u003c/li\u003e \u003cli\u003eRegistrar movimientos de almacén en el sistema y Kardex.\u003c/li\u003e \u003cli\u003eRealizar inventarios y reportar diferencias o incidencias.\u003c/li\u003e \u003cli\u003eGestionar documentación de almacén.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Almacén / Depósito / Expedición",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

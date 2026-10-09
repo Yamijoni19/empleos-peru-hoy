@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118473193",
+    "clave":  "id:1118473193",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vendedor-de-ferreteria-ferrecentro-1118473193.html",
+                   "capturadoEn":  "2026-10-09T09:04:52+00:00"
+               },
+    "titulo":  "Vendedor de Ferretería",
+    "empresa":  "ferrecentro",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Vendedor de Ferretería Resumen del Puesto Estamos en la búsqueda de un Vendedor de Ferretería proactivo y con vocación de servicio para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades para la atención al cliente, organización y manejo de caja, además de contar con formación técnica. Responsabilidades Atender a los clientes de manera directa, brindando asesoramiento y soluciones. Gestionar el manejo de caja, asegurando la precisión en las transacciones. Mantener el orden y la limpieza del área de ventas y exhibición de productos. Colaborar en la organización y exhibición de la mercadería. Contribuir a un ambiente de trabajo positivo y colaborativo. Requisitos Formación técnica o secundaria completa. Experiencia previa en ventas, preferentemente en el rubro ferretero. Habilidad demostrada en el manejo de caja y sistemas de punto de venta. Excelentes habilidades de comunicación y trato interpersonal. Capacidad de organización y atención al detalle. Proactividad y disposición para el trabajo en equipo.",
+    "requisitos":  [
+                       "Formación técnica o secundaria completa",
+                       "Experiencia previa en ventas, preferentemente en el rubro ferretero",
+                       "Habilidad demostrada en el manejo de caja y sistemas de punto de venta",
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Capacidad de organización y atención al detalle",
+                       "Proactividad y disposición para el trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/vendedor-de-ferreteria-ferrecentro-1118473193.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vendedor-de-ferreteria-ferrecentro-1118473193.html",
+    "descripcion_html":  "\u003cb\u003eVendedor de Ferretería\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eVendedor de Ferretería\u003c/b\u003e proactivo y con vocación de servicio para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades para la atención al cliente, organización y manejo de caja, además de contar con formación técnica.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender a los clientes de manera directa, brindando asesoramiento y soluciones.\u003c/li\u003e \u003cli\u003eGestionar el manejo de caja, asegurando la precisión en las transacciones.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de ventas y exhibición de productos.\u003c/li\u003e \u003cli\u003eColaborar en la organización y exhibición de la mercadería.\u003c/li\u003e \u003cli\u003eContribuir a un ambiente de trabajo positivo y colaborativo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia previa en ventas, preferentemente en el rubro ferretero.\u003c/li\u003e \u003cli\u003eHabilidad demostrada en el manejo de caja y sistemas de punto de venta.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eProactividad y disposición para el trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
