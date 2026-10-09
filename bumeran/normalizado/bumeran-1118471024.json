@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118471024",
+    "clave":  "id:1118471024",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-remoto-amy-vargas-1118471024.html",
+                   "capturadoEn":  "2026-10-09T20:54:38+00:00"
+               },
+    "titulo":  "Asesor de Ventas Remoto",
+    "empresa":  "Amy Vargas",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor de Ventas Remoto Resumen del Puesto Buscamos un Asesor de Ventas Remoto proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. Si tienes experiencia en ventas o estás buscando una oportunidad para desarrollarte en este campo, esta posición es para ti. Ofrecemos un entorno de trabajo dinámico y oportunidades de crecimiento. Responsabilidades Gestionar y cerrar ventas de manera remota. Asesorar a los clientes sobre productos y servicios. Mantener una comunicación fluida y efectiva con los clientes. Requisitos Habilidades de comunicación y persuasión. Orientación a resultados y cumplimiento de objetivos. Capacidad para trabajar de forma autónoma y organizada. Beneficios Remuneración base competitiva. Comisiones ilimitadas por ventas. Pagos quincenales y mensuales. Ingreso a planilla con beneficios laborales. Bonos por referidos. Oportunidades de línea de carrera y crecimiento profesional. Capacitaciones remuneradas.",
+    "requisitos":  [
+                       "Habilidades de comunicación y persuasión",
+                       "Orientación a resultados y cumplimiento de objetivos",
+                       "Capacidad para trabajar de forma autónoma y organizada"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "laborales",
+                       "Bonos por referidos",
+                       "Oportunidades de línea de carrera y crecimiento profesional",
+                       "Capacitaciones remuneradas"
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-remoto-amy-vargas-1118471024.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-remoto-amy-vargas-1118471024.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesor de Ventas Remoto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAsesor de Ventas Remoto\u003c/strong\u003e proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. Si tienes experiencia en ventas o estás buscando una oportunidad para desarrollarte en este campo, esta posición es para ti. Ofrecemos un entorno de trabajo dinámico y oportunidades de crecimiento.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar y cerrar ventas de manera remota.\u003c/li\u003e \u003cli\u003eAsesorar a los clientes sobre productos y servicios.\u003c/li\u003e \u003cli\u003eMantener una comunicación fluida y efectiva con los clientes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eHabilidades de comunicación y persuasión.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y organizada.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración base competitiva.\u003c/li\u003e \u003cli\u003eComisiones ilimitadas por ventas.\u003c/li\u003e \u003cli\u003ePagos quincenales y mensuales.\u003c/li\u003e \u003cli\u003eIngreso a planilla con beneficios laborales.\u003c/li\u003e \u003cli\u003eBonos por referidos.\u003c/li\u003e \u003cli\u003eOportunidades de línea de carrera y crecimiento profesional.\u003c/li\u003e \u003cli\u003eCapacitaciones remuneradas.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Call Center",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

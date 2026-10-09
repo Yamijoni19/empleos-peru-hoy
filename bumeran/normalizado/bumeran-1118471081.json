@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118471081",
+    "clave":  "id:1118471081",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-multiservic-1118471081.html",
+                   "capturadoEn":  "2026-10-09T20:54:31+00:00"
+               },
+    "titulo":  "Personal de Limpieza",
+    "empresa":  "MULTISERVIC",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal de Limpieza para Edificio Residencial Jesús María Resumen del Puesto Buscamos personal de limpieza con experiencia para unirse a nuestro equipo con alto grado de responsabilidad. Responsabilidades Limpieza de áreas comunes: Barrer, trapear y desinfectar lobbies, pasadizos, escaleras, ascensores y zonas de acceso. Limpieza de cristales y superficies: Mantener limpios vidrios y otras superficies. Reporte de incidencias: Informar sobre necesidades de insumos o desperfectos en la infraestructura. Mantenimiento básico: Apoyo en tareas generales de mantenimiento según sea necesario. Requisitos Experiencia mínima de 6 meses en puestos similares. Disponibilidad inmediata. Capacidad para trabajar en equipo. Atención al detalle y proactividad.",
+    "requisitos":  [
+                       "Experiencia mínima de 6 meses en puestos similares",
+                       "Disponibilidad inmediata",
+                       "Capacidad para trabajar en equipo",
+                       "Atención al detalle y proactividad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-multiservic-1118471081.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-multiservic-1118471081.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePersonal de Limpieza para Edificio Residencial Jesús María\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos personal de limpieza con experiencia para unirse a nuestro equipo con alto grado de responsabilidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLimpieza de áreas comunes: Barrer, trapear y desinfectar lobbies, pasadizos, escaleras, ascensores y zonas de acceso.\u003c/li\u003e \u003cli\u003eLimpieza de cristales y superficies: Mantener limpios vidrios y otras superficies.\u003c/li\u003e \u003cli\u003eReporte de incidencias: Informar sobre necesidades de insumos o desperfectos en la infraestructura.\u003c/li\u003e \u003cli\u003eMantenimiento básico: Apoyo en tareas generales de mantenimiento según sea necesario.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de \u0026#x36; meses en puestos similares.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eAtención al detalle y proactividad.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Mantenimiento y Limpieza",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

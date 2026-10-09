@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118471022",
+    "clave":  "id:1118471022",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mozo-azafata-chifa-paolin-1118471022.html",
+                   "capturadoEn":  "2026-10-09T20:54:39+00:00"
+               },
+    "titulo":  "Mozo / Azafata",
+    "empresa":  "Chifa Paolin",
+    "ubicacion":  "Lima - Rímac",
+    "ciudad":  "Rímac",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  600,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 600 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡ÚNETE AL EQUIPO DE PAOLIN! Estamos en la búsqueda de jóvenes con energía para el puesto de Mozo / Azafata. Requisitos: Edad: 1 8 a 2 5 años. * Proactivo(a) y con facilidad para trabajar en equipo. * Excelente actitud y trato cordial. Tus funciones serán: * Atender a los clientes en mesa. * Recepcionar pedidos de delivery. * Mantener la limpieza del área de trabajo. * Vivir en el Rimac o cerca Beneficios: * 1 día de descanso a la semana. * Alimentación cubierta (almuerzo y cena). ¿Quieres formar parte de nuestro equipo? Envíanos tu CV",
+    "requisitos":  [
+                       "Edad: 1 8 a 2 5 años",
+                       "Proactivo(a) y con facilidad para trabajar en equipo",
+                       "Excelente actitud y trato cordial",
+                       "Tus"
+                   ],
+    "funciones":  [
+                      "serán",
+                      "Atender a los clientes en mesa",
+                      "Recepcionar pedidos de delivery",
+                      "Mantener la limpieza del área de trabajo",
+                      "Vivir en el Rimac o cerca"
+                  ],
+    "beneficios":  [
+                       "1 día de descanso a la semana",
+                       "Alimentación cubierta (almuerzo y cena)",
+                       "¿Quieres formar parte de nuestro equipo? Envíanos tu CV"
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mozo-azafata-chifa-paolin-1118471022.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mozo-azafata-chifa-paolin-1118471022.html",
+    "descripcion_html":  "\u003cp\u003e¡ÚNETE AL EQUIPO DE PAOLIN! \u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de jóvenes con energía para el puesto de Mozo / Azafata. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEdad: \u0026#x31; \u0026#x38; a \u0026#x32; \u0026#x35; años. \u003c/p\u003e\u003cp\u003e \u0026#x2a; Proactivo(a) y con facilidad para trabajar en equipo. \u003c/p\u003e\u003cp\u003e \u0026#x2a; Excelente actitud y trato cordial.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e Tus funciones serán: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e \u0026#x2a; Atender a los clientes en mesa. \u003c/p\u003e\u003cp\u003e \u0026#x2a; Recepcionar pedidos de delivery. \u003c/p\u003e\u003cp\u003e \u0026#x2a; Mantener la limpieza del área de trabajo.\u003c/p\u003e\u003cp\u003e \u0026#x2a; Vivir en el Rimac o cerca \u003c/p\u003e\u003cp\u003e \u003cstrong\u003eBeneficios: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e \u0026#x2a; \u0026#x31; día de descanso a la semana. \u003c/p\u003e\u003cp\u003e \u0026#x2a; Alimentación cubierta (almuerzo y cena).\u003c/p\u003e\u003cp\u003e ¿Quieres formar parte de nuestro equipo? Envíanos tu CV\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "Atención al Cliente",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

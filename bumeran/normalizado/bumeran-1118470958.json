@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118470958",
+    "clave":  "id:1118470958",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacen-potencia-v2-1118470958.html",
+                   "capturadoEn":  "2026-10-09T20:54:50+00:00"
+               },
+    "titulo":  "ALMACEN",
+    "empresa":  "POTENCIA V2",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  650,
+                    "max":  700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 650 - S/ 700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos un Almacenero Part Time responsable de apoyar en la gestión y organización del almacén, asegurando el adecuado control de los productos, mercadería y stock. Se requiere una persona organizada, responsable y proactiva, con capacidad para mantener un correcto orden y control de los productos. Horario de trabajo Horario: 7: 3 0 a. m. a 1 1: 3 0 a. m. Funciones principales Realizar el control de inventarios. Recepcionar e ingresar la mercadería. Verificar y organizar los productos recibidos. Realizar el despacho de productos. Mantener el orden y control del almacén. Administrar y actualizar el stock. Verificar el ingreso y salida de productos. Apoyar en las actividades relacionadas con la gestión del almacén. Requisitos Estudios técnicos o universitarios en Administración, Logística o carreras afines. Persona responsable, organizada y proactiva. Capacidad para trabajar de manera ordenada y responsable. Vivir en zonas cercanas a Umacollo. Puesto dirigido al público masculino.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios en Administración, Logística o carreras afines",
+                       "Persona responsable, organizada y proactiva",
+                       "Capacidad para trabajar de manera ordenada y responsable",
+                       "Vivir en zonas cercanas a Umacollo",
+                       "Puesto dirigido al público masculino"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Realizar el control de inventarios",
+                      "Recepcionar e ingresar la mercadería",
+                      "Verificar y organizar los productos recibidos",
+                      "Realizar el despacho de productos",
+                      "Mantener el orden y control del almacén",
+                      "Administrar y actualizar el stock",
+                      "Verificar el ingreso y salida de productos",
+                      "Apoyar en las actividades relacionadas con la gestión del almacén"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/almacen-potencia-v2-1118470958.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacen-potencia-v2-1118470958.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos un Almacenero Part Time responsable de apoyar en la gestión y organización del almacén, asegurando el adecuado control de los productos, mercadería y stock. Se requiere una persona organizada, responsable y proactiva, con capacidad para mantener un correcto orden y control de los productos.\u003c/p\u003e\u003cp\u003eHorario de trabajo\u003c/p\u003e\u003cp\u003eHorario: \u0026#x37;: \u0026#x33; \u0026#x30; a. m. a \u0026#x31; \u0026#x31;: \u0026#x33; \u0026#x30; a. m.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar el control de inventarios.\u003c/li\u003e \u003cli\u003eRecepcionar e ingresar la mercadería.\u003c/li\u003e \u003cli\u003eVerificar y organizar los productos recibidos.\u003c/li\u003e \u003cli\u003eRealizar el despacho de productos.\u003c/li\u003e \u003cli\u003eMantener el orden y control del almacén.\u003c/li\u003e \u003cli\u003eAdministrar y actualizar el stock.\u003c/li\u003e \u003cli\u003eVerificar el ingreso y salida de productos.\u003c/li\u003e \u003cli\u003eApoyar en las actividades relacionadas con la gestión del almacén.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios en Administración, Logística o carreras afines.\u003c/li\u003e \u003cli\u003ePersona responsable, organizada y proactiva.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de manera ordenada y responsable.\u003c/li\u003e \u003cli\u003eVivir en zonas cercanas a Umacollo.\u003c/li\u003e \u003cli\u003ePuesto dirigido al público masculino.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Otros",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "7: 3 0 a. m. a 1 1: 3 0 a. m.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

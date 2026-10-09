@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118471025",
+    "clave":  "id:1118471025",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-enfermeria-clinica-del-inca-1118471025.html",
+                   "capturadoEn":  "2026-10-09T20:54:37+00:00"
+               },
+    "titulo":  "Técnico de Enfermería",
+    "empresa":  "CLINICA DEL INCA",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.1,200",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Técnico(a) de Enfermería Resumen del Puesto Buscamos un Técnico(a) de Enfermería con vocación de servicio para unirse a nuestro equipo. El candidato ideal será responsable, puntual y estará comprometido con brindar atención de calidad a los pacientes. Responsabilidades Brindar atención y cuidados básicos de enfermería. Apoyar al personal de enfermería en procedimientos y actividades asistenciales. Mantener el orden y la adecuada disposición de los materiales del área. Cumplir con los protocolos de atención, bioseguridad y calidad establecidos. Requisitos Título de Técnico(a) de Enfermería. Experiencia mínima de 2 años. Responsabilidad, puntualidad y vocación de servicio. Disponibilidad para trabajar en turnos rotativos. Condiciones Laborales Horario de trabajo: Turnos de 2 4 horas. Bonos por productividad e incentivos por puntualidad. Ingreso a planilla desde el primer día trabajo - Régimen MYPE Contrato inicial de 6 meses, renovable según desempeño.",
+    "requisitos":  [
+                       "Título de Técnico(a) de Enfermería",
+                       "Experiencia mínima de 2 años",
+                       "Responsabilidad, puntualidad y vocación de servicio",
+                       "Disponibilidad para trabajar en turnos rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-enfermeria-clinica-del-inca-1118471025.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-enfermeria-clinica-del-inca-1118471025.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eTécnico(a) de Enfermería\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eTécnico(a) de Enfermería\u003c/strong\u003e con vocación de servicio para unirse a nuestro equipo. El candidato ideal será responsable, puntual y estará comprometido con brindar atención de calidad a los pacientes.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención y cuidados básicos de enfermería.\u003c/li\u003e \u003cli\u003eApoyar al personal de enfermería en procedimientos y actividades asistenciales.\u003c/li\u003e \u003cli\u003eMantener el orden y la adecuada disposición de los materiales del área.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de atención, bioseguridad y calidad establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo de Técnico(a) de Enfermería.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u0026#x32; años.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y vocación de servicio.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos rotativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones Laborales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eHorario de trabajo: Turnos de \u0026#x32; \u0026#x34; horas.\u003c/li\u003e \u003cli\u003eBonos por productividad e incentivos por puntualidad.\u003c/li\u003e \u003cli\u003eIngreso a planilla desde el primer día trabajo - Régimen MYPE\u003c/li\u003e \u003cli\u003eContrato inicial de \u0026#x36; meses, renovable según desempeño.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Enfermería",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "Título de Técnico(a) de Enfermería",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
