@@ -536,6 +536,20 @@ foreach ($f in $archivos) {
             $estado = 'EXPIRADA'; $motivo = 'fecha de cierre ' + $cierre.ToString('dd/MM/yyyy') + ' ya pasada'
         }
     }
+    # Puerta de calidad Fase A: solo entra al feed lo generado con la plantilla
+    # nueva (categoria + bloque oculto) y sin defectos conocidos. Lo que no
+    # pasa se regenera en local (regenerar-nuevas.ps1) y se reintenta; NUNCA
+    # se publica contenido viejo.
+    if ($estado -eq 'NUEVA' -or $estado -eq 'ACTUALIZADA' -or $estado -eq 'CORRECCION') {
+        $falta = @()
+        if ($htmlF -notmatch '<strong>Categor')      { $falta += 'sin-categoria' }
+        if ($htmlF -notmatch 'empleo-datos-ocultos') { $falta += 'sin-bloque-fasea' }
+        if ($tit -match '(?i)^(.+?):\s*\1:')         { $falta += 'titulo-duplicado' }
+        if ($falta.Count -gt 0) {
+            $estado = 'SIN-CALIDAD'
+            $motivo = 'puerta fase-a: ' + ($falta -join ', ')
+        }
+    }
     $colaClasificada += [pscustomobject]@{
         archivo = $f.Name; item = $f; titulo = $tit; estado = $estado
         hash = $hash; motivo = $motivo
@@ -553,6 +567,7 @@ $permisos = @{
     'CORRECCION'  = [bool]$PublicarCorrecciones               # explicita (encolada hoy)
     'EXPIRADA'    = $false                                    # nunca se publica
     'HISTORICA'   = [bool]$Backfill                           # solo proceso explicito
+    'SIN-CALIDAD' = $false                                    # plantilla vieja: regenerar antes
 }
 $elegibles = @()
 foreach ($c in $colaClasificada) {

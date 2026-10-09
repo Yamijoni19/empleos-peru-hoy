@@ -127,6 +127,21 @@ if ($titulo -eq "" -or $entidad -eq "") {
     exit 1
 }
 
+# ------------------------------------------- compilaciones (varias ofertas en 1 pagina)
+# El sitio de origen a veces junta varias convocatorias independientes en un
+# solo articulo ("INDECOPI: (18) Asistentes..." con CAS 126, 127, 128...).
+# Publicarlo como UNA oferta seria mentir al lector: >=2 encabezados "CAS N..."
+# en h2/h3 => la pagina es un digest y NO se genera entrada unica.
+$encDigest = 0
+foreach ($mh in [regex]::Matches($src, '(?is)<h([23])[^>]*>([\s\S]*?)</h\1>')) {
+    $txEnc = Limpio $mh.Groups[2].Value
+    if ($txEnc -match '(?i)^\s*C(?:AS|ONV)\b[^0-9]{0,12}[0-9]{2,4}') { $encDigest++ }
+}
+if ($encDigest -ge 2) {
+    Write-Host ("ERROR: COMPILACION - la pagina agrupa " + $encDigest + " convocatorias (encabezados CAS) en un solo articulo; no corresponde una oferta unica")
+    exit 1
+}
+
 # --------------------------------------------------------------- parafraseo
 # Cambia palabras y conectores de los textos LARGOS copiados de la fuente
 # (mismas ideas, otras palabras) para que la entrada no quede calco.
@@ -381,6 +396,10 @@ if ($entidad -ne "") {
     # repetir la entidad ni el verbo: "UGEL X: Ingeniero y ..." en vez de
     # "UGEL X: UGEL X requiere Ingeniero y ..."
     $puesto = $puesto -replace ('(?i)^\s*' + [regex]::Escape($entidad) + '\s+(?:requiere|solicita|busca|convoca|necesita|invita(?:\s+a)?)\s+'), ''
+    # la fuente tambien trae el prefijo con dos puntos: "INDECOPI: (18) ..." =>
+    # sin este strip salia "INDECOPI: INDECOPI: (18) ..."
+    $puesto = $puesto -replace ('(?i)^\s*' + [regex]::Escape($entidad) + '\s*[:\-|]\s*'), ''
+    $puesto = $puesto -replace ('(?i)^\s*' + [regex]::Escape($entidad) + '\s*[:\-|]\s*'), ''
 }
 $puesto = $puesto.Trim()
 if ($puesto -eq "") { $puesto = $titulo }

@@ -3,15 +3,15 @@
   "modo": "nube",
   "modoNota": "local = ejecuta la PC (.cmd / tareas programadas). nube = ejecuta GitHub Actions y los .cmd locales se saltan (evita dos pipelines contra el mismo Blogger).",
 
-  "maxPorCorrida": 25,
-  "maxPorCorridaNota": "Limite inicial de seguridad (no es permanente): subir a 20 / 50 / 100 / 200 aqui o con -MaxPorCorrida 50. Nunca existe corrida ilimitada.",
+  "maxPorCorrida": 50,
+  "maxPorCorridaNota": "Subido de 25 a 50 el 2026-10-09 tras regeneracion fase-a de toda la cola NUEVA (SIN-CALIDAD=0 en simulacion). Nunca existe corrida ilimitada.",
 
   "pausaPublicacionMs": 30000,
   "pausaPublicacionNota": "Pausa entre posts. 2500 ms hacia la nube disparaba 429 rateLimitExceeded de Google en el post ~6 (IP compartida de GitHub Actions); 30000 ms (~3 posts por ventana de 100 s) evita el corte. Si la nube vuelve a cortarse, subir a 45000-60000.",
 
   "topeAbsoluto": 100,
-  "factorAnomalia": 40.0,
-  "factorAnomaliaNota": "Temporal: 40.0 porque la media historica de publicadas por corrida bajo a ~1-2 por los cortes 429 de hoy y 25 <= media*40 sigue protegiendo contra fuga real. Volver a 3.0 cuando la media (historial-correras.json, ventana 7 dias) supere ~10.",
+  "factorAnomalia": 60.0,
+  "factorAnomaliaNota": "60.0 para que maxPorCorrida=50 pase siempre el gate cuando la media historical es >= ~0.83 (media*factor >= 50). Sigue cortando fuga real si la media se desploma a ~0. Volver a 3.0 cuando la media (historial-correras.json, ventana 7 dias) supere ~17.",
   "ventanaAnomalia": 7,
   "frecuenciaScheduler": 60,
   "permitirBackfill": false,
