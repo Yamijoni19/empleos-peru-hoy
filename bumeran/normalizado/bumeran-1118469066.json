@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118469066",
+    "clave":  "id:1118469066",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-empresa-de-maquinas-divermak-s.r.l.-1118469066.html",
+                   "capturadoEn":  "2026-10-09T02:09:58+00:00"
+               },
+    "titulo":  "Asistente de Logística",
+    "empresa":  "Empresa de Maquinas Divermak S.R.L.",
+    "ubicacion":  "Gran Buenos Aires - Lurigancho",
+    "ciudad":  "Lurigancho",
+    "region":  "Gran Buenos Aires",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Logística Resumen del Puesto Buscamos un(a) Asistente de Logística responsable y organizado(a) para unirse a nuestro equipo. El candidato ideal brindará apoyo en la coordinación de entregas, seguimiento de requerimientos, control de documentación y actualización de registros logísticos. Responsabilidades Mantener actualizados los registros, reportes y documentación del área. Organizar y archivar documentos logísticos. Coordinar con las distintas áreas involucradas en las operaciones. Apoyar en tareas administrativas relacionadas con logística. Contribuir al uso eficiente de los recursos y al cumplimiento de los tiempos de entrega. Requisitos Experiencia mínima de 6 meses en logística, almacén, distribución o puestos similares. Manejo básico de registros y documentación logística. Capacidad de organización, seguimiento y coordinación. Buena comunicación y trabajo en equipo. Disponibilidad para laborar en La Florida – Huachipa . Se aceptan practicantes o recién egresados con conocimientos afines al puesto.",
+    "requisitos":  [
+                       "Experiencia mínima de 6 meses en logística, almacén, distribución o puestos similares",
+                       "Manejo básico de registros y documentación logística",
+                       "Capacidad de organización, seguimiento y coordinación",
+                       "Buena comunicación y trabajo en equipo",
+                       "Disponibilidad para laborar en La Florida – Huachipa",
+                       "Se aceptan practicantes o recién egresados con conocimientos afines al puesto"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-empresa-de-maquinas-divermak-s.r.l.-1118469066.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-empresa-de-maquinas-divermak-s.r.l.-1118469066.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente de Logística\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un(a) \u003cstrong\u003eAsistente de Logística\u003c/strong\u003e responsable y organizado(a) para unirse a nuestro equipo. El candidato ideal brindará apoyo en la coordinación de entregas, seguimiento de requerimientos, control de documentación y actualización de registros logísticos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMantener actualizados los registros, reportes y documentación del área.\u003c/li\u003e \u003cli\u003eOrganizar y archivar documentos logísticos.\u003c/li\u003e \u003cli\u003eCoordinar con las distintas áreas involucradas en las operaciones.\u003c/li\u003e \u003cli\u003eApoyar en tareas administrativas relacionadas con logística.\u003c/li\u003e \u003cli\u003eContribuir al uso eficiente de los recursos y al cumplimiento de los tiempos de entrega.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de \u003cstrong\u003e \u0026#x36; meses\u003c/strong\u003e en logística, almacén, distribución o puestos similares.\u003c/li\u003e \u003cli\u003eManejo básico de registros y documentación logística.\u003c/li\u003e \u003cli\u003eCapacidad de organización, seguimiento y coordinación.\u003c/li\u003e \u003cli\u003eBuena comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en \u003cstrong\u003eLa Florida – Huachipa\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSe aceptan practicantes o recién egresados con conocimientos afines al puesto.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Logística",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

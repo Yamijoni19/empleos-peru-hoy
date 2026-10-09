@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118468960",
+    "clave":  "id:1118468960",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/chofer-administrativo-farmed-group-sac-1118468960.html",
+                   "capturadoEn":  "2026-10-09T02:10:07+00:00"
+               },
+    "titulo":  "Chofer Administrativo",
+    "empresa":  "FARMED GROUP SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1750,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,750",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Chofer Administrativo Resumen del Puesto Buscamos un Chofer Administrativo responsable, organizado y comprometido para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en labores administrativas y de conducción, demostrando proactividad y confiabilidad en sus funciones. Responsabilidades Brindar apoyo en labores administrativas y de oficina. Conducir vehículos de la organización, incluyendo camionetas. Trasladar documentación, materiales y personal según sea requerido. Realizar trámites, compras, depósitos y otras diligencias administrativas. Apoyar en la entrega y recepción de documentos. Verificar y contribuir al buen estado y mantenimiento del vehículo asignado. Requisitos Experiencia previa en labores administrativas y de oficina. Licencia de conducir vigente. Experiencia en conducción de vehículos, preferentemente camionetas. Conocimientos básicos de gestión documentaria, trámites y diligencias administrativas. Persona responsable, organizada, proactiva y confiable.",
+    "requisitos":  [
+                       "Experiencia previa en labores administrativas y de oficina",
+                       "Licencia de conducir vigente",
+                       "Experiencia en conducción de vehículos, preferentemente camionetas",
+                       "Conocimientos básicos de gestión documentaria, trámites y diligencias administrativas",
+                       "Persona responsable, organizada, proactiva y confiable"
+                   ],
+    "funciones":  [
+                      "Responsabilidades",
+                      "Brindar apoyo en labores administrativas y de oficina",
+                      "Conducir vehículos de la organización, incluyendo camionetas",
+                      "Trasladar documentación, materiales y personal según sea requerido",
+                      "Realizar trámites, compras, depósitos y otras diligencias administrativas",
+                      "Apoyar en la entrega y recepción de documentos",
+                      "Verificar y contribuir al buen estado y mantenimiento del vehículo asignado"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/chofer-administrativo-farmed-group-sac-1118468960.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/chofer-administrativo-farmed-group-sac-1118468960.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eChofer Administrativo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eChofer Administrativo\u003c/strong\u003e responsable, organizado y comprometido para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en labores administrativas y de conducción, demostrando proactividad y confiabilidad en sus funciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar apoyo en labores administrativas y de oficina.\u003c/li\u003e \u003cli\u003eConducir vehículos de la organización, incluyendo camionetas.\u003c/li\u003e \u003cli\u003eTrasladar documentación, materiales y personal según sea requerido.\u003c/li\u003e \u003cli\u003eRealizar trámites, compras, depósitos y otras diligencias administrativas.\u003c/li\u003e \u003cli\u003eApoyar en la entrega y recepción de documentos.\u003c/li\u003e \u003cli\u003eVerificar y contribuir al buen estado y mantenimiento del vehículo asignado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en labores administrativas y de oficina.\u003c/li\u003e \u003cli\u003eLicencia de conducir vigente.\u003c/li\u003e \u003cli\u003eExperiencia en conducción de vehículos, preferentemente camionetas.\u003c/li\u003e \u003cli\u003eConocimientos básicos de gestión documentaria, trámites y diligencias administrativas.\u003c/li\u003e \u003cli\u003ePersona responsable, organizada, proactiva y confiable.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Salud",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

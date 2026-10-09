@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118469106",
+    "clave":  "id:1118469106",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mercaderista-nuevas-tecnicas-educativas-s.a.c.-1118469106.html",
+                   "capturadoEn":  "2026-10-09T02:09:56+00:00"
+               },
+    "titulo":  "Mercaderista",
+    "empresa":  "Nuevas Tecnicas Educativas S.A.C.",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1397,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,397",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Estamos en Busqueda de nuevos Talentos para incorporar a nuestra Organización Mercaderista Resumen del Puesto Buscamos una Mercaderista proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de asegurar la correcta presentación y disponibilidad de nuestros productos en los puntos de venta, así como de mantener una comunicación fluida con los equipos comerciales. Responsabilidades Decorar y mantener la exhibición de productos limpia, ordenada y atractiva en los puntos de venta. Elaborar y ejecutar un rol de visitas eficiente, generando informes diarios detallados. Distribuir material publicitario y promocional en los establecimientos asignados. Adquirir un conocimiento profundo del catálogo de productos y mantenerse actualizado sobre novedades y cambios. Requisitos Experiencia previa en roles de Decoracion de Vitrinas. Capacidad para organizar y gestionar visitas y rutas de manera autónoma. Habilidades de comunicación para interactuar con personal de punto de venta. Orientación al detalle y compromiso con la calidad de la presentación del producto. Disponibilidad para trabajar de forma presencial.",
+    "requisitos":  [
+                       "Experiencia previa en roles de Decoracion de Vitrinas",
+                       "Capacidad para organizar y gestionar visitas y rutas de manera autónoma",
+                       "Habilidades de comunicación para interactuar con personal de punto de venta",
+                       "Orientación al detalle y compromiso con la calidad de la presentación del producto",
+                       "Disponibilidad para trabajar de forma presencial"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mercaderista-nuevas-tecnicas-educativas-s.a.c.-1118469106.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mercaderista-nuevas-tecnicas-educativas-s.a.c.-1118469106.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEstamos en Busqueda de nuevos Talentos para incorporar a nuestra Organización\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eMercaderista\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eMercaderista\u003c/strong\u003e proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de asegurar la correcta presentación y disponibilidad de nuestros productos en los puntos de venta, así como de mantener una comunicación fluida con los equipos comerciales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eDecorar\u003c/strong\u003e y mantener la exhibición de productos limpia, ordenada y atractiva en los puntos de venta.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eElaborar\u003c/strong\u003e y ejecutar un rol de visitas eficiente, generando informes diarios detallados.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDistribuir\u003c/strong\u003e material publicitario y promocional en los establecimientos asignados.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAdquirir\u003c/strong\u003e un conocimiento profundo del catálogo de productos y mantenerse actualizado sobre novedades y cambios.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en roles de Decoracion de Vitrinas.\u003c/li\u003e \u003cli\u003eCapacidad para organizar y gestionar visitas y rutas de manera autónoma.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación para interactuar con personal de punto de venta.\u003c/li\u003e \u003cli\u003eOrientación al detalle y compromiso con la calidad de la presentación del producto.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de forma presencial.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Comercial",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
