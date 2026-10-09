@@ -4719,6 +4719,24 @@ var ciudadADepartamento = {
   "huancavelica":"Huancavelica"
 };
 
+function contieneFrase(texto, frase){
+
+  if(!frase){
+    return false;
+  }
+
+  var escapada =
+    frase.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+  var re =
+    new RegExp(
+      "(^|[^a-z0-9])" + escapada + "([^a-z0-9]|$)"
+    );
+
+  return re.test(texto);
+
+}
+
 function detectarDepartamento(ubicacion, ciudad){
 
   var texto =
@@ -4745,23 +4763,27 @@ function detectarDepartamento(ubicacion, ciudad){
   for(var j=0;j<departamentosPeru.length;j++){
 
     if(
-      texto.indexOf(
+      contieneFrase(
+        texto,
         normalizar(departamentosPeru[j])
-      ) !== -1
+      )
     ){
       return departamentosPeru[j];
     }
 
   }
 
+  var deptFallback =
+    ciudadADepartamento[ciudadNorm] || "";
+
   if(
-    texto.indexOf(
-      normalizar(
-        ciudadADepartamento[ciudadNorm] || ""
-      )
-    ) !== -1
+    deptFallback &&
+    contieneFrase(
+      texto,
+      normalizar(deptFallback)
+    )
   ){
-    return ciudadADepartamento[ciudadNorm];
+    return deptFallback;
   }
 
   return "No especificado";
@@ -4776,11 +4798,10 @@ function detectarCiudad(ubicacion){
   for(var i=0;i<ciudadesPeru.length;i++){
 
     if(
-      texto.indexOf(
-        normalizar(
-          ciudadesPeru[i]
-        )
-      ) !== -1
+      contieneFrase(
+        texto,
+        normalizar(ciudadesPeru[i])
+      )
     ){
       return ciudadesPeru[i];
     }
@@ -6750,9 +6771,7 @@ function coincideFiltros(
 
       if(
         selTipoContrato &&
-        tipoContratoNorm.indexOf(
-          selTipoContrato
-        ) !== -1
+        tipoContratoNorm === selTipoContrato
       ){
 
         tipoContratoValido =
@@ -6821,6 +6840,43 @@ function coincideFiltros(
 
 }
 
+function ofertaVencida(
+  empleo
+){
+
+  if(
+    !empleo.fechaEntrada &&
+    !empleo.closingDate
+  ){
+    return false;
+  }
+
+  var fin = parseFechaOferta(
+    empleo.closingDate
+  );
+
+  if(!fin){
+    fin = new Date(
+      empleo.fechaEntrada
+    );
+    fin.setDate(
+      fin.getDate() + 30
+    );
+  }
+
+  if(isNaN(fin.getTime())){
+    return false;
+  }
+
+  fin.setHours(0,0,0,0);
+
+  var hoy = new Date();
+  hoy.setHours(0,0,0,0);
+
+  return fin.getTime() < hoy.getTime();
+
+}
+
 function ofertaVisible(
   empleo
 ){
@@ -6833,6 +6889,10 @@ function ofertaVisible(
 
     return false;
 
+  }
+
+  if(ofertaVencida(empleo)){
+    return false;
   }
 
   if(
@@ -7133,6 +7193,10 @@ function actualizarDepartamentos(){
 
   empleos.forEach(
     function(empleo){
+
+      if(ofertaVencida(empleo)){
+        return;
+      }
 
       var departamento =
         limpiarTexto(
@@ -8203,6 +8267,10 @@ function actualizarContadoresSector(){
     var cuenta = { privado: 0, estado: 0 };
 
     empleos.forEach(function(empleo){
+
+      if(ofertaVencida(empleo)){
+        return;
+      }
 
       var norm =
         normalizar(
@@ -12139,6 +12207,12 @@ ejecutarCorreccion();
       var contadorCallbacks = {};
 
       function contarSeccion(etiqueta, elemento){
+        /* data-fija: la cifra ya viene horneada en la pagina (solo ofertas
+           vigentes, escrita por actualizar-contadores.ps1) y NO se pisa con
+           openSearch$totalResults (que incluye las vencidas). */
+        if(elemento && elemento.getAttribute("data-fija")){
+          return;
+        }
         var nombre = "contadorPortal" + (etiqueta || "Default") + Math.floor(Math.random()*1e6);
         window[nombre] = function(data){
           try{

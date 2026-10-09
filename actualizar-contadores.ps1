@@ -50,6 +50,9 @@ $privado = 0
 $estado = 0
 $otro = 0
 $sinEtiqueta = 0
+$vigentes = 0
+$privadoV = 0
+$estadoV = 0
 $start = 1
 $sw = [Diagnostics.Stopwatch]::StartNew()
 
@@ -66,17 +69,34 @@ while ($true) {
   foreach ($e in $entries) {
     $html = ""
     if ($e.content) { $html = [string]$e.content.'$t' }
+
+    # --- vigente? (misma regla del tema ofertaVencida):
+    #     Fecha de cierre dd/MM/yyyy, y si no hay/parsea: publicacion + 30 dias
+    $cierre = $null
+    $mF = [regex]::Match($html, "Fecha de cierre\s*:\s*(?:</strong>)?\s*([^<\r\n]{1,30})", "IgnoreCase")
+    if ($mF.Success) {
+      try { $cierre = [datetime]::ParseExact($mF.Groups[1].Value.Trim(), "dd/MM/yyyy", [Globalization.CultureInfo]::InvariantCulture) } catch { $cierre = $null }
+    }
+    if ($null -eq $cierre -and $e.published) {
+      try { $cierre = [datetime]::Parse([string]$e.published.'$t').ToUniversalTime().Date.AddDays(30) } catch { $cierre = $null }
+    }
+    $esVigente = ($null -eq $cierre) -or ($cierre.Date -ge (Get-Date).Date)
+
+    $sec = "NoEspecificado"
     $m = [regex]::Match($html, "Tipo\s+(?:de\s+)?contratante\s*:\s*(?:</strong>)?\s*([^<\r\n]{1,60})", "IgnoreCase")
-    if ($m.Success) {
-      $sec = Clasificar-Contratante $m.Groups[1].Value
-      switch ($sec) {
-        "Privado"      { $privado++ }
-        "Estado"       { $estado++ }
-        "NoEspecificado" { $sinEtiqueta++ }
-        default        { $otro++ }
-      }
-    } else {
-      $sinEtiqueta++
+    if ($m.Success) { $sec = Clasificar-Contratante $m.Groups[1].Value }
+
+    switch ($sec) {
+      "Privado"      { $privado++ }
+      "Estado"       { $estado++ }
+      "NoEspecificado" { $sinEtiqueta++ }
+      default        { $otro++ }
+    }
+
+    if ($esVigente) {
+      $vigentes++
+      if ($sec -eq "Privado") { $privadoV++ }
+      elseif ($sec -eq "Estado") { $estadoV++ }
     }
   }
   if ($entries.Count -lt 150) { break }
@@ -92,6 +112,9 @@ $contadores = [ordered]@{
   fecha            = (Get-Date).ToString("yyyy-MM-dd HH:mm:ss")
   fuente           = "feed vivo /-Empleo (max-results=150)"
   totalEmpleo      = $totalEmpleo
+  vigentes         = $vigentes
+  privadoVigente   = $privadoV
+  estadoVigente    = $estadoV
   privado          = $privado
   estado           = $estado
   otrosContratante = $otro
@@ -104,8 +127,9 @@ if (-not (Test-Path (Split-Path $outJson))) { New-Item -ItemType Directory -Path
 $contadores | ConvertTo-Json | Set-Content -Path $outJson -Encoding UTF8
 
 Write-Output ("Total publicaciones con etiqueta Empleo: " + $totalEmpleo)
-Write-Output ("  Privado: " + $privado)
-Write-Output ("  Estado : " + $estado)
+Write-Output ("  Vigentes (no vencidas): " + $vigentes)
+Write-Output ("  Privado: " + $privado + " (vigente " + $privadoV + ")")
+Write-Output ("  Estado : " + $estado + " (vigente " + $estadoV + ")")
 Write-Output ("  Otro contratante: " + $otro)
 Write-Output ("  Sin contratante : " + $sinEtiqueta)
 Write-Output ("Guardado en " + $outJson)
@@ -127,31 +151,56 @@ $paginas = @(
 )
 
 $patron = '(?s)(data-sector-num="(?:privado|estado)"[^>]*?data-sector-total=")(\d+)("[^>]*?>)([^<]*)'
+$patronHub = '(?s)(data-conteo="Empleo">\s*<div class="portal-stats-numero")([^>]*)(>)([^<]*)'
 
 foreach ($p in $paginas) {
 
-  $rutaLocal = Join-Path $d $p.archivo
-  $html = [IO.File]::ReadAllText($rutaLocal, [Text.Encoding]::UTF8)
+    $rutaLocal = Join-Path $d $p.archivo
+    $html = [IO.File]::ReadAllText($rutaLocal, [Text.Encoding]::UTF8)
+    $cambio = $false
 
-  $coincidencias = [regex]::Matches($html, $patron)
-  if ($coincidencias.Count -eq 0) {
-    Write-Output ("  AVISO: " + $p.archivo + " no tiene huecos data-sector-num; no se modifica")
-    continue
-  }
+    if ($p.nombre -eq "Inicio") {
 
-  # reemplazar de atras hacia adelante para conservar los indices
-  for ($i = $coincidencias.Count - 1; $i -ge 0; $i--) {
-    $m = $coincidencias[$i]
-    $sector = if ($m.Groups[1].Value -match '"(privado|estado)') { $Matches[1] } else { "" }
-    if ($sector -eq "privado") { $numero = [string]$privado }
-    elseif ($sector -eq "estado") { $numero = [string]$estado }
-    else { continue }
-    $nuevo = $m.Groups[1].Value + $numero + $m.Groups[3].Value + $numero
-    $html = $html.Remove($m.Index, $m.Length).Insert($m.Index, $nuevo)
-  }
+      # hub: cifra fija de ofertas VIGENTES (el JS del tema la respeta con data-fija)
+      $m = [regex]::Match($html, $patronHub)
+      if (-not $m.Success) {
+        Write-Output ("  AVISO: " + $p.archivo + " no tiene el hueco portal-stats de Empleo; no se modifica")
+        continue
+      }
+      $attrs = $m.Groups[2].Value
+      if ($attrs -notmatch 'data-fija') { $attrs += ' data-fija="1"' }
+      $nuevo = $m.Groups[1].Value + $attrs + '>' + [string]$vigentes
+      $html = $html.Remove($m.Index, $m.Length).Insert($m.Index, $nuevo)
+      $cambio = $true
+      Write-Output ("  " + $p.archivo + ": hub Empleo -> vigentes=" + $vigentes)
 
-  [IO.File]::WriteAllText($rutaLocal, $html, $utf8)
-  Write-Output ("  " + $p.archivo + ": " + $coincidencias.Count + " hueco(s) -> privado=" + $privado + " estado=" + $estado)
+    } else {
+
+      $coincidencias = [regex]::Matches($html, $patron)
+      if ($coincidencias.Count -eq 0) {
+        Write-Output ("  AVISO: " + $p.archivo + " no tiene huecos data-sector-num; no se modifica")
+        continue
+      }
+
+      # reemplazar de atras hacia adelante para conservar los indices
+      # (los badges horneados cuentan solo ofertas VIGENTES, igual que el recalculo del tema)
+      for ($i = $coincidencias.Count - 1; $i -ge 0; $i--) {
+        $m = $coincidencias[$i]
+        $sector = if ($m.Groups[1].Value -match '"(privado|estado)') { $Matches[1] } else { "" }
+        if ($sector -eq "privado") { $numero = [string]$privadoV }
+        elseif ($sector -eq "estado") { $numero = [string]$estadoV }
+        else { continue }
+        $nuevo = $m.Groups[1].Value + $numero + $m.Groups[3].Value + $numero
+        $html = $html.Remove($m.Index, $m.Length).Insert($m.Index, $nuevo)
+      }
+      $cambio = $true
+      Write-Output ("  " + $p.archivo + ": " + $coincidencias.Count + " hueco(s) -> privado=" + $privadoV + " estado=" + $estadoV)
+
+    }
+
+    if (-not $cambio) { continue }
+
+    [IO.File]::WriteAllText($rutaLocal, $html, $utf8)
 
   $g = Blogger-Api 'GET' ("v3/blogs/$idBlog/pages/" + $p.id + "?fields=id,title,content") $null
   if (-not $g.ok) { Write-Output ("    ERROR al leer la pagina: " + $g.status + " " + $g.error); continue }

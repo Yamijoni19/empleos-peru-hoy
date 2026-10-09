@@ -69,6 +69,15 @@ jobs:
           powershell -NoProfile -ExecutionPolicy Bypass -File flujo-principal.ps1 -Nube @a
           exit $LASTEXITCODE
 
+      - name: Actualizar contadores (solo ofertas vigentes)
+        if: always()
+        shell: pwsh
+        continue-on-error: true
+        run: |
+          Write-Host "Recalculando contadores vigentes y publicandolos en Inicio/Empleos..."
+          powershell -NoProfile -ExecutionPolicy Bypass -File actualizar-contadores.ps1
+          exit $LASTEXITCODE
+
       - name: Guardar estado (cola, log, publicaciones)
         if: always()
         shell: pwsh

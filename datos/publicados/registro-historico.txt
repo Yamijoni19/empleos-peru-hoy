@@ -880,3 +880,1136 @@ CORRECCION | 2026-10-06 00:49:11 | 6755205695078798766 | salario: salario 'De S/
 CORRECCION | 2026-10-06 00:49:13 | 2583465947567007235 | salario: salario 'S/. 7.000,00 (Mensual)' -> 'S/ 7.000,00' ; campo Salario: 'S/. 7.000,00 (Mensual)' -> 'S/ 7.000,00' | OK
 CORRECCION | 2026-10-06 00:49:15 | 7370841422257245373 | salario: valor no numerico ('Remuneración acorde al mercado') ; campo Salario: 'Remuneración acorde al mercado' -> 'No especificado' | OK
 CORRECCION | 2026-10-06 00:49:18 | 9023297888160123527 | salario: valor no numerico ('Remuneración acorde al mercado') ; campo Salario: 'Remuneración acorde al mercado' -> 'No especificado' | OK
+CORRECCION | 2026-10-08 17:37:45 | 2581598562306371811 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:37:50 | 8000726182695696241 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:37:55 | 4527353302358788111 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:00 | 59507024560239108 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:05 | 2264539967239854544 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:10 | 2498473946273694356 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:14 | 5934861592819777296 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:19 | 1159707770171304935 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:24 | 1680420012165884816 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:32 | 3894220150731240956 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:37 | 4756576696876597544 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:38:54 | 51245880767592574 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:39:00 | 56170490303395167 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:39:03 | 150561336451358107 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:39:39 | 189195313096116020 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:39:43 | 228655957942460523 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:39:47 | 256678225107714522 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:39:52 | 326135343996638878 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:40:00 | 471532074609474742 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:40:05 | 524566260801398163 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:40:13 | 746239330843790936 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:40:18 | 747799016512953144 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:40:27 | 807139741766038650 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 17:40:31 | 940850193152830650 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:40:36 | 971435285933337473 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:40:41 | 1042759834504592146 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:40:44 | 1068767950988775753 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:40:49 | 1134061831361014770 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:40:53 | 1161136638862199688 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:40:58 | 1163605779891398223 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:03 | 1185049484039845189 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:06 | 1317870852833319947 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:11 | 1341179007279140051 | FASE-A: cat:Administracion y Finanzas->Educación | OK
+CORRECCION | 2026-10-08 17:41:14 | 1458273218938518241 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:41:18 | 1630203481783355079 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:41:22 | 1798684823623048573 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:41:27 | 1798901360154213710 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:30 | 1838011757217647137 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:37 | 2092912601753262773 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:41:41 | 2109498446784740486 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:41:45 | 2205357358045409161 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:50 | 2312594044448214205 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:41:54 | 2592634448036294370 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:41:58 | 2633406909114545971 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:02 | 2994800360773005611 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:05 | 3006606025062101913 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:42:13 | 3293872017893981370 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:16 | 3358102765050050454 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:42:23 | 3943677384970815591 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:27 | 5142007255232592405 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:31 | 5208876951411196746 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 17:42:34 | 5305853502563149999 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:42:38 | 5333297470835837298 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:41 | 5340010168707805547 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:42:46 | 5379313415564332198 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 17:42:51 | 5386769504359720644 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:55 | 5427003423328283108 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:42:59 | 5431496452232447198 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:43:03 | 5432654967524229782 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:43:06 | 5454179138143397368 | FASE-A: cat:Ingenieria->Salud | OK
+CORRECCION | 2026-10-08 17:43:10 | 5484077289938786249 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:13 | 5502558856104090503 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:43:17 | 5532384982655091449 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:21 | 5543463420189936915 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:25 | 5550372355743822819 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:43:29 | 5563859941724701386 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:38 | 5588134755873170075 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:42 | 5637263031162960343 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:46 | 5676592939482777008 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:43:52 | 5803814441868636005 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:43:58 | 5809387264667367347 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:44:02 | 5855363258892944016 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:08 | 5880332226845798710 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:12 | 5925796193000806958 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:15 | 5934713822561968015 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:44:20 | 5940204186541307166 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:44:23 | 5955530810318745149 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:44:27 | 6012958731302189923 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:33 | 6036421879496313474 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:44:43 | 6079644792748997269 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:46 | 6082004441766011627 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:50 | 6104438470341846572 | FASE-A: cat:Administracion y Finanzas->Educación | OK
+CORRECCION | 2026-10-08 17:44:53 | 6114020083912073379 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:44:57 | 6114590311368382928 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:00 | 6122779087099959563 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:45:04 | 6128759586096911745 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:08 | 6143331644685851075 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:45:12 | 6315528067015685608 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:15 | 6405629314054913630 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:19 | 6405757285183325689 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:45:23 | 6417324771689515892 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:45:27 | 6481200999267450629 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:45:31 | 6491467968715274995 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 17:45:34 | 6495569435262134045 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:42 | 6512727003324380194 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:45 | 6528868571415325694 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:49 | 6539275535761052827 | FASE-A: cat:Ingenieria->Salud | OK
+CORRECCION | 2026-10-08 17:45:52 | 6634039836790856641 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:45:56 | 6650226870027451605 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:00 | 6720370200446488481 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:46:08 | 6743905840870057239 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:12 | 6765189941878060433 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:17 | 6876484781816960211 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:46:22 | 7017547511844481455 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:25 | 7040947368896190441 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:46:31 | 7058016635609150865 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 17:46:39 | 7089252833781151099 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:48 | 7187729086339035580 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:53 | 7283309180124112524 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:46:57 | 7286412285287939730 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:47:03 | 7319630338589114568 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:07 | 7329084164130789602 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:12 | 7426267796546006298 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:47:17 | 7430653663794870588 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:47:22 | 7460767222325509656 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:26 | 7559939185098954586 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:47:30 | 7638634706899387017 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:33 | 7701632709607997987 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:38 | 7725126830248175032 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:41 | 7740308876486948054 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:47:46 | 7831593275598661820 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:47:54 | 8028977573708224992 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:47:58 | 8036889889813744792 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:48:02 | 8055724941614784834 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:05 | 8070022328544706996 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:48:09 | 8121951813145295911 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:48:14 | 8148975505759360206 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:17 | 8231190142684366077 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:23 | 8247941825243716152 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 17:48:29 | 8423386853985180070 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:48:33 | 8518541966652980469 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:37 | 8539074654973716242 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:48:41 | 8619092683164995266 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:45 | 8757568262499366792 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:48:49 | 8770085848214336572 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:53 | 8791725674899812834 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:48:56 | 8826538030644945181 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:49:00 | 8870477992323270376 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:07 | 9005126421378185042 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:12 | 9095958158695691868 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:16 | 9118511859700522918 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:49:20 | 9133976547402710998 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:24 | 9137949769298141793 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:28 | 9158568830749566739 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:49:31 | 34763795773178188 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:35 | 94657553858184642 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:39 | 105670267278852146 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:43 | 138096989233725256 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:47 | 176022731945009434 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 17:49:50 | 407818627783638260 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:49:54 | 442848623418089713 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:49:58 | 614580604035727783 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:01 | 664504385801399179 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:50:05 | 935294769574132147 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:50:08 | 1010747224309041485 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:50:13 | 1025930971286346645 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:17 | 1067083592322933293 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:20 | 1121756185873782159 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:50:25 | 1226619773583450482 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:29 | 1254267604286640033 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:33 | 1460007175373436028 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:37 | 1626240156811875011 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:41 | 2292918530871729961 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:44 | 2607729348903568931 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:49 | 2744439768830245964 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:50:53 | 2800854534709903276 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:50:56 | 3725644412085624502 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:00 | 3736792956229525656 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:04 | 3750552759044935154 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:07 | 3756677990722448222 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:11 | 3760987226352062569 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:51:14 | 3865763938176430875 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:51:18 | 3911492280859920780 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:22 | 3934911577188801005 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:51:25 | 3945550190343633436 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:51:30 | 3961069724289643711 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:34 | 4007652292166859507 | FASE-A: cat:Ingenieria->Educación | OK
+CORRECCION | 2026-10-08 17:51:38 | 4049624671389590223 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:51:42 | 4050404259146527622 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:46 | 4052073764272343565 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:49 | 4074409318249261632 | FASE-A: cat:Ingenieria->Educación | OK
+CORRECCION | 2026-10-08 17:51:53 | 4117144637478312477 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:51:56 | 4152158296288544147 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:01 | 4159286237008998118 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:04 | 4171099429160911977 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:52:09 | 4190638511229187357 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:52:12 | 4202169396492830499 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:52:17 | 4213024910115287039 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:52:20 | 4220567295830188677 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:52:24 | 4237080816275533254 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:27 | 4247956193704974221 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:52:31 | 4278360102730511898 | FASE-A: cat:Administracion y Finanzas->Educación | OK
+CORRECCION | 2026-10-08 17:52:35 | 4302099100843543317 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:38 | 4304376540657605447 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:43 | 4336665589923863393 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:52 | 4359929121735633379 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:52:57 | 4379573252081236010 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:53:02 | 4388559700722496780 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:07 | 4405212184667027810 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:53:12 | 4478767479986537098 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:16 | 4524870876196395207 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:53:22 | 4537761805319729425 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:26 | 4637680292959877162 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:31 | 4687202685327978659 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:36 | 4714201624031592333 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:41 | 4721293269961205726 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:53:46 | 4728193605367643962 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 17:53:51 | 4738864728289326174 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:53:55 | 4751464295472509822 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:00 | 4793775448297097060 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:05 | 4796823712744374123 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:08 | 4846559218007284564 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:13 | 4853454996342389292 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:16 | 4980944820951920556 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:20 | 5020521103224980080 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:24 | 5138704921107683780 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:29 | 5162890336736044551 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:33 | 5167916134098772780 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:37 | 5184625184621736740 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:40 | 5217288244392796880 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:44 | 5231485307323007771 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:48 | 5262233985171648241 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:54:52 | 5269651987508918178 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:54:56 | 5274936731211801028 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:55:00 | 5329226019266285354 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:04 | 5336047499236861286 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:09 | 5347925109857016721 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:14 | 5362407463733509203 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:17 | 5417432125329287011 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:22 | 5438874181845850622 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:55:26 | 5507922942367268447 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:31 | 5566455467751390170 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:36 | 5639724869639083162 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:55:40 | 5716074927971472180 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:44 | 5739749096367104101 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:47 | 5753828273037827017 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:55:51 | 5792916326144892007 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:55:56 | 5814876946859123186 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:00 | 5864398781958661669 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:04 | 5875167781948815192 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:09 | 5891364881951974289 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:13 | 5920128096915330965 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:17 | 5964557123780722452 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:21 | 6053051523639754608 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:25 | 6093484829057354468 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:29 | 6131718242298748132 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:33 | 6136376045278558318 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:36 | 6277973657091736628 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:56:40 | 6300120301436661818 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:43 | 6300158336499387382 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:48 | 6317336734680235496 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:52 | 6325272373631645008 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:56:56 | 6350691400333573266 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:57:00 | 6370042983967582123 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:04 | 6428400339059743440 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:07 | 6656531800761372125 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:57:11 | 6725356949703346356 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:15 | 6789899948234679328 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:19 | 6813230510477781103 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:25 | 6949109130843667081 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:57:29 | 7054915008084465738 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:57:33 | 7114216057783051116 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:37 | 7183951682207016765 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:57:41 | 7191430987026802935 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:57:45 | 7205917495296231091 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:49 | 7250627658896000515 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:52 | 7307200562975921242 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:57:57 | 7318691968171655690 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:00 | 7406308692922890446 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:04 | 7432569585463959008 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:58:07 | 7522820377121804877 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:58:11 | 7575062121124859518 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:15 | 7609192240242113956 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:58:18 | 7609459388703979589 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 17:58:22 | 7727462461975815873 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:58:25 | 7767822645861651199 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:29 | 7835099054974102423 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:32 | 7841665303493924763 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 17:58:36 | 7937657569391976247 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:40 | 8008716321612860165 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:58:43 | 8062250085178201022 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:47 | 8110468240686291560 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:50 | 8129862282911638526 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:54 | 8165020835732304042 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:58:58 | 8169282654694383237 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:59:01 | 8211140784217132424 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:05 | 8212177659003149485 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:08 | 8231413660855711319 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:12 | 8263334937717421725 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:16 | 8351034135473588199 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:19 | 8396626583696383526 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:59:23 | 8415692267292360029 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:26 | 8426526133771876248 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:30 | 8505421836862754267 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:59:39 | 8543444338898993665 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 17:59:44 | 8560278102822985613 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:59:49 | 8583189476499433394 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 17:59:54 | 8679966127701192639 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 17:59:59 | 8858046965987805261 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:00:04 | 8859630736464960863 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:00:09 | 8864115113584077248 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:00:14 | 8872118657903319452 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:00:18 | 8906529173026095431 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:00:24 | 8957606889310696330 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:00:28 | 8965595660843818261 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:00:33 | 9041834742263483561 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:00:38 | 9145682624814146850 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:00:43 | 9172939896413531546 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:00:47 | 86718170173623 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:00:51 | 28493759679944541 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:00:56 | 34362257305482375 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:01:00 | 88838959333717374 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:05 | 148122805012622668 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:01:11 | 240733183217569555 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:16 | 311730455943497432 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:01:21 | 455843561579621783 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:26 | 554341955173565915 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:31 | 685997041516121139 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:01:36 | 786265452254960297 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:41 | 900562529684238725 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:47 | 1103098319480937875 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:50 | 1169120078031272281 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:54 | 1230206253420567218 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:01:57 | 1253906933656540365 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:02 | 1330954539111700973 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:06 | 1377730217590796282 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:02:10 | 1759424304359459572 | FASE-A: cat:Educacion->Ventas y Servicios | OK
+CORRECCION | 2026-10-08 18:02:14 | 1795075838191258917 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:19 | 1821541235784602663 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:23 | 1903774724917796363 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:02:28 | 1923301969738383536 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:02:33 | 2120504574570448030 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:36 | 2264794289126118971 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:02:41 | 2510709672838108663 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:44 | 3860370077230228067 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:50 | 3909730549224402472 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:02:53 | 4020727286226312192 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:02:58 | 4028760617606536985 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:02 | 4046788635424332413 | FASE-A: cat:Ingenieria->Ventas y Servicios | OK
+CORRECCION | 2026-10-08 18:03:06 | 4051267197113884499 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:03:10 | 4086345818110248388 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:03:14 | 4185942656244955672 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:20 | 4199591806356480853 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:25 | 4208213313252069952 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:28 | 4214519826859735363 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:03:33 | 4256022648293431845 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:03:36 | 4311602280525839589 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:40 | 4321616800589196258 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:43 | 4331861314955696134 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:47 | 4374870065731420795 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:51 | 4436110879111907248 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:03:56 | 4437159211800820716 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:00 | 4449744825885701166 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:04 | 4472874420479770315 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:08 | 4509689734569469444 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:12 | 4509878022648417386 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:15 | 4554620077636261205 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:04:19 | 4555477279971813037 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:04:23 | 4570322344538636902 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:27 | 4575005292514533703 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:30 | 4598990890775549737 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:04:34 | 4601803766431286723 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:04:38 | 4608871413291558416 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:43 | 4615672993906810821 | FASE-A: cat:Ingenieria->Educación | OK
+CORRECCION | 2026-10-08 18:04:47 | 4624601359603270123 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:51 | 4634093958111285296 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:04:55 | 4646090358169847645 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:04:59 | 4647958221092306997 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:02 | 4664950155293726711 | FASE-A: cat:Educacion->Ventas y Servicios | OK
+CORRECCION | 2026-10-08 18:05:06 | 4686346876286401105 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:05:09 | 4705290606447395714 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:13 | 4712126968968944464 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:17 | 4750518213298912779 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:22 | 4797317273666084012 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:31 | 4807360924547614067 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:34 | 4809573266470672936 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:05:39 | 4839105614387563963 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:05:42 | 4865024013493565323 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:46 | 4866629196536502476 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:50 | 5027941163007947212 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:53 | 5031935474831912143 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:05:58 | 5054868888724687798 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:02 | 5092418489516583371 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:06:06 | 5098835945868173567 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:10 | 5152394650343825715 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:06:14 | 5155085876857937905 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:06:18 | 5183047669031309354 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:23 | 5191178806014985464 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:27 | 5206363275527216832 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:31 | 5223954365669644712 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:35 | 5227730111930579464 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:39 | 5245874596652874223 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:42 | 5269585546607039837 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:06:47 | 5302110838845872168 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:06:56 | 5370220071700987549 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:07:01 | 5373173966802211072 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:07:07 | 5425605858630889825 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:12 | 5446779626783195193 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:19 | 5468478614623775728 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:24 | 5472317311441647925 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:29 | 5487712408161720576 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:34 | 5509737065803070096 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:07:39 | 5510456974493432085 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:44 | 5524506327322390640 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:07:49 | 5528804465405955733 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:07:54 | 5550391611607101228 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:07:59 | 5554949646198419782 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:03 | 5560054674369438290 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:08:07 | 5571155687457469365 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:11 | 5630002535775173299 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:16 | 5654209384897256169 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:20 | 5678543328787248543 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:25 | 5679790700415965793 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:08:28 | 5686122951114922942 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:08:32 | 5705233873797609013 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:08:36 | 5706529034938827070 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:08:42 | 5709350788647886530 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:46 | 5732391321130260136 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:08:50 | 5733957126513940561 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:54 | 5746361367526417884 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:08:57 | 5783478564991398321 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:02 | 5885121374932094838 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:06 | 5903708642459747259 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:09:11 | 5919915587116745997 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:14 | 5919966242066424338 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:19 | 5920365186723700050 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:23 | 5939265537787146658 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:30 | 5955327233253245453 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:09:35 | 6002560146753089097 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:09:39 | 6018933363869876119 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:43 | 6055257707977550500 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:46 | 6072319814440536172 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:50 | 6073191314485465416 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:54 | 6118287039953265697 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:09:59 | 6123372104390353195 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:03 | 6123829596911170693 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:08 | 6187771136003548737 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:10:12 | 6251500881268250926 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:10:16 | 6261433761228172083 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:10:19 | 6279525421874727229 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:23 | 6299040560641694455 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:26 | 6324919143867012838 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:10:30 | 6328886812906124901 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:10:34 | 6370057516912716479 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:10:39 | 6404069210671380252 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:42 | 6416030612861117610 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:46 | 6444531124855522043 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:50 | 6503697308771768896 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:55 | 6562245159690235700 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:10:58 | 6562820504326750919 | FASE-A: cat:Administracion y Finanzas->Educación | OK
+CORRECCION | 2026-10-08 18:11:02 | 6604584555029517663 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:11:05 | 6613017220496017345 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:11:09 | 6649304045619863784 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:11:13 | 6680288544128142641 | FASE-A: cat:Ingenieria->Educación | OK
+CORRECCION | 2026-10-08 18:11:19 | 6684645675487602888 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:23 | 6709494749994886602 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:27 | 6820045967936022695 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:30 | 6837445910735484104 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:35 | 6849893276129652695 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:11:38 | 6936277738737003557 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:11:43 | 6952187466789961096 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:46 | 6952890690051442777 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:50 | 6964933558963082680 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:53 | 6975929967916191843 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:11:57 | 6999162443842423299 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:12:01 | 7069122382965927533 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:12:05 | 7092922593619903127 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:09 | 7101693366043023942 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:12 | 7120222319545991680 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:16 | 7136891148861462614 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:20 | 7182066941508191471 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:24 | 7253758676028914632 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:27 | 7344531100703952671 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:12:31 | 7370154488867316727 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:34 | 7427672800680340384 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:38 | 7445161131019064998 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:12:42 | 7446071013799271666 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:12:46 | 7526458674226034408 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:12:50 | 7555378114578497862 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:53 | 7596356558415143683 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:12:57 | 7624210610945106932 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:01 | 7637264579951513182 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:05 | 7655275179389024911 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:13:10 | 7669170255980231636 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:13 | 7684128685398218742 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:13:17 | 7756430978754015275 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:20 | 7757465570519377892 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:24 | 7810475550906941280 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:13:28 | 7967198884711478363 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:13:31 | 8084636934584273163 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:13:35 | 8134907714051385596 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:38 | 8164686421898236721 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:13:43 | 8172884503968391086 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:46 | 8201967751418406879 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:13:55 | 8248992703136378923 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:00 | 8292107294869781078 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:14:05 | 8382874195711035125 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:10 | 8407743804261169454 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:16 | 8414489338325379801 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:14:21 | 8419338886807389817 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:26 | 8500499789924476049 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:30 | 8511143599248915964 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:34 | 8543172585414412400 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:40 | 8581828555506155808 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:14:44 | 8678211357765518340 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:49 | 8686659778456105907 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:14:53 | 8721334821501234897 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:14:58 | 8802247630664536849 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 18:15:03 | 8881365076925543838 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:15:07 | 8924024395045822408 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:15:11 | 8945181446882989053 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:15:15 | 8948564061702197833 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:15:20 | 9101737791512877608 | FASE-A: cat:Administracion y Finanzas->Educación | OK
+CORRECCION | 2026-10-08 18:15:25 | 9111261070877199356 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:15:29 | 9161932279137138137 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:15:34 | 9185503019563488463 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:15:38 | 9219386191892826503 | FASE-A: cat:Ingenieria->Salud | OK
+CORRECCION | 2026-10-08 18:15:42 | 3072613000707183 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:15:46 | 39389764531201649 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:15:51 | 68954842455170671 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:15:55 | 72376357720320555 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:15:59 | 90867130142511099 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:03 | 103368690969440558 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:07 | 134541980636021600 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:16:12 | 136569361951448314 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:16 | 145615981867189137 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:21 | 178599501303995238 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:25 | 192292643249761698 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:28 | 234332984407497441 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:33 | 337936616210732434 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:16:37 | 406403948583112834 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:41 | 565243497853864402 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:45 | 569694451705383935 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:49 | 581546074058788980 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:16:55 | 601679694488567550 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:00 | 666297349412083250 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:04 | 769423237055671124 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:17:09 | 843699627509626993 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:17:12 | 907508432949301914 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:16 | 996334710079235616 | FASE-A: cat:Ingenieria->Salud | OK
+CORRECCION | 2026-10-08 18:17:20 | 1003149468849536305 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:24 | 1115163293106537642 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:28 | 1244998743893080221 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:31 | 1745074634732599839 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:17:35 | 1783130696525242321 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:38 | 1985007873124330976 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:42 | 2052439158854892141 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:47 | 2102039495971392831 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:50 | 2118796734235881234 | FASE-A: cat:Ingenieria->Salud | OK
+CORRECCION | 2026-10-08 18:17:55 | 2133665418903524919 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:17:59 | 2283541082304226609 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:18:03 | 2338314164794436003 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:06 | 2644169932930310428 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:18:10 | 3107972405085361068 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:13 | 3294766110761613545 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:17 | 3748673726658986997 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:18:21 | 4158854056068103430 | FASE-A: cat:Ingenieria->Salud | OK
+CORRECCION | 2026-10-08 18:18:25 | 4180232512848248793 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:29 | 4185609321706859786 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:33 | 4197185043313068572 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:37 | 4247079263891633876 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:18:41 | 4297649137140529565 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:18:45 | 4384096167095023333 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:49 | 4391363548058462307 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:18:53 | 4393036685290546863 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:18:57 | 4432266103822831710 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:01 | 4441931042927451580 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:05 | 4453615105872329030 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:09 | 4463702754036807018 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:14 | 4495017482732109916 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:17 | 4511391878519730111 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:21 | 4522769619098253878 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:25 | 4525127612365028203 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:28 | 4592489850060081775 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:32 | 4604148480511576326 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:35 | 4626449726402781724 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:39 | 4634669120372668418 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:44 | 4649362631125616528 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:47 | 4650650094306639375 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:19:51 | 4671754809318819428 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:55 | 4676174981480110874 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:19:58 | 4692628327662199146 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:02 | 4832240743228766318 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:20:05 | 4838256140509531410 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:10 | 4859962760165533654 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:13 | 4880736420890726269 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:20:17 | 4919990866791654583 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:20 | 4945524811193931357 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:20:24 | 4956264334996173746 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:28 | 5012911589917407455 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:20:32 | 5022521018030705382 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:20:36 | 5051056000790056630 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:39 | 5092266541374161060 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:43 | 5145508582071213377 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:52 | 5157168085800356286 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:20:57 | 5191973018288240907 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:02 | 5196653466241517151 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:07 | 5237939102833946966 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:12 | 5247360833654909767 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:17 | 5263073190903787694 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:22 | 5266276768746854508 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:21:28 | 5273157980514970317 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:33 | 5289860862666265713 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:37 | 5301694222222064291 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:42 | 5305133367192770622 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:47 | 5339095587730250033 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:52 | 5373286204151763028 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:21:57 | 5418292951353384663 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:22:02 | 5452455149108815838 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:07 | 5472985463014928657 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:12 | 5481850763803929072 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:17 | 5488003746608070829 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:22:22 | 5592159391847723574 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:28 | 5627137897163913912 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:31 | 5658044831304498805 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:37 | 5720648025684037736 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:41 | 5731041548674746531 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:47 | 5760980580962693165 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:51 | 5995325182867035053 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:22:59 | 6074417338876830218 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:04 | 6150722751824872243 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:08 | 6217462907640130974 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:23:13 | 6225476900250592965 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:18 | 6306428096104653189 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:23 | 6375899346494172318 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:23:28 | 6379508496747678032 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:32 | 6451199463675928079 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:23:37 | 6480717608989067518 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:23:41 | 6503845252508791392 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:45 | 6514138193379073805 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:23:48 | 6538710368911774695 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:53 | 6561113377564600064 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:23:56 | 6561373854389824532 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:01 | 6591586258137758274 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:05 | 6597083932838238225 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:09 | 6655389781967923875 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:24:13 | 6674540921815114735 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:24:17 | 6677449764901822154 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:21 | 6779683614824107529 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:25 | 6792265693509439428 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:24:30 | 6880271822428023156 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:36 | 6925104168173850656 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:24:41 | 6944501601995324536 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:24:45 | 6954889205620162253 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:49 | 6994810360151841524 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:53 | 7043159059704327476 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:24:57 | 7046044467923801635 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:02 | 7079629362209263020 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:07 | 7176070335343162405 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:12 | 7188181002418609017 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:16 | 7211839558527504091 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:20 | 7220348185522361241 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:24 | 7238995875245648669 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:28 | 7247382560417831337 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:32 | 7270262448089264732 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:37 | 7270971042861983296 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:42 | 7281415768719795320 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:45 | 7296891164577493045 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:25:50 | 7297830644315082902 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:25:53 | 7361862892401288475 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:25:57 | 7396691378957473327 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:26:02 | 7399335461285318959 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:06 | 7443778161903639137 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:26:09 | 7539701491904597509 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:14 | 7566491254137220337 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:26:17 | 7573117746033025497 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:21 | 7582754421151036445 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:24 | 7606104311925039091 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:28 | 7633486328021505608 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:38 | 7641453220964553515 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:26:41 | 7655369122186164331 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:45 | 7674275350409878671 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:49 | 7680898454460381999 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:26:52 | 7693156003593717981 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:56 | 7712624711717624320 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:26:59 | 7750667892780760955 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:03 | 7822883322381252191 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:07 | 7848381879406600587 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:11 | 7868644652321525813 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:15 | 7961598703574191589 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:19 | 7986828028742123753 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:23 | 8028241154115175931 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:27 | 8054490796396819048 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:31 | 8131736549492094881 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:35 | 8140511831777394504 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:27:39 | 8142706018479909113 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:42 | 8166051027514364809 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:46 | 8260732002023540714 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:27:50 | 8292557331462272114 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:27:54 | 8332376572241307485 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:28:00 | 8405780150052477940 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:28:04 | 8409534380907428828 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:28:09 | 8466288525133707585 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:28:17 | 8477099764814389192 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:28:21 | 8566985636190490629 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:28:26 | 8637731769635187877 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:28:31 | 8668455743050904674 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:28:36 | 8733189384816600596 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:28:41 | 8734690895451520057 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:28:46 | 8748680163997208783 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:28:52 | 8761798004911687102 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:28:56 | 9024536965825375655 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:01 | 9050802761822913793 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:29:06 | 9064979825236527992 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:29:11 | 9118926832743653321 | FASE-A: cat:Administracion y Finanzas->Salud | OK
+CORRECCION | 2026-10-08 18:29:16 | 18784763697184587 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:21 | 39620708599495525 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:29:25 | 40195735403677805 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:29 | 125418480505160316 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:36 | 219631651104524702 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:40 | 316276299906101639 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:48 | 552292355667638007 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:29:53 | 555520372113098740 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:00 | 642005982471725657 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:04 | 681070308002743662 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:09 | 818054931184996930 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:14 | 871567080093457951 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:18 | 913352124562304399 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:22 | 988160748671889233 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:30:29 | 1111303850076340877 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:30:33 | 1118572547897315332 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:30:37 | 1162379040465156262 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:42 | 1174937899873623272 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:47 | 1529602511762876701 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:30:51 | 1613719321685868635 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:54 | 1628343061683949482 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:30:58 | 1667279081793416706 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:31:03 | 1936743680764554525 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:31:07 | 2026345270784104979 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:31:11 | 2118888107183917577 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:31:14 | 2302699875132155297 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:31:19 | 2375232831351086961 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:31:30 | 2500869327036211406 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:31:34 | 2536348521219350723 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:31:38 | 2750918454671509018 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:31:42 | 3307089311811298757 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:31:47 | 3473793775227970738 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:31:53 | 4178329239585320531 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:00 | 4198828078988841433 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:32:05 | 4221783472377976068 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:09 | 4254981469442497824 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:32:12 | 4277053216898672891 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:16 | 4289380238403124226 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:22 | 4319684143318382699 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:28 | 4322249833636311261 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:31 | 4364624120903815674 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:36 | 4377904731425570073 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:32:42 | 4417637270032600858 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:32:46 | 4464269427161474074 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:32:49 | 4489232838135794175 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:32:53 | 4506207705417120432 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:32:56 | 4518133752338397164 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:00 | 4525269577100726751 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:03 | 4528758787990062686 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:07 | 4551505139478930526 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:11 | 4586353784885477089 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:14 | 4611920616274441771 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:18 | 4684290703322047250 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:21 | 4706292227839266159 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:25 | 4728365806142717628 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:28 | 4782466157091519344 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:33 | 4784891418557568155 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:39 | 4843604057479454143 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:43 | 4858302439622095699 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:46 | 4892376378099366271 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:33:50 | 4897852629610162682 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:54 | 4956379269208869073 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:33:57 | 4960068201828277562 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:04 | 5065908571753400202 | FASE-A: cat:Administracion y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:07 | 5069302822546729018 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:16 | 5080087596127084234 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:34:19 | 5087685333188203495 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:26 | 5175712957311343730 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:34:29 | 5177564748816766672 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:34:33 | 5195902582014229041 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:34:37 | 5205335937784299854 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:34:40 | 5206491386705285372 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:44 | 5223686891377161767 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:34:47 | 5242364033987103029 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:51 | 5244048382333963841 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:34:55 | 5280744826731369319 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:34:58 | 5291394418668767769 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:35:07 | 5292915591865591051 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:35:16 | 5345758629114315207 | FASE-A: cat:Ingenieria->Ventas y Servicios | OK
+CORRECCION | 2026-10-08 18:35:21 | 5444217982698184218 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:35:26 | 5459556801954081110 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:35:32 | 5491843498437685842 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:35:37 | 5499492023615982285 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:35:42 | 5511450502342740719 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:35:49 | 5522309283081548265 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:35:58 | 5571834860874877674 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:36:03 | 5725058210399019447 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:36:08 | 5739579078304868357 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:36:11 | 5780677027745975340 | FASE-A: cat:Educacion->Otros | OK
+CORRECCION | 2026-10-08 18:36:17 | 5834726446282838567 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:36:22 | 5928920649791863470 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:36:30 | 5980889548701060003 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:36:34 | 5997150322322604782 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:36:46 | 6257201873127126318 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:36:51 | 6315314825968318402 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:36:54 | 6359113460786501523 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:36:58 | 6426744621139450319 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:06 | 6504542885949216621 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:10 | 6523655296146702919 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:15 | 6551283347942745018 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:19 | 6555725967039933113 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:23 | 6567977793003327682 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:37:27 | 6631951314064251538 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:37:32 | 6672808746557617924 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:37:36 | 6700777278763155277 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:37:41 | 6715937260957483962 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:45 | 6744411741117923624 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:37:49 | 6758916294927718903 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:52 | 6824276669335402142 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:37:59 | 6910459654030826692 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:38:07 | 6948124519648894453 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:38:13 | 6985750555722492058 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:38:17 | 6986762045768978095 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:38:21 | 6992158738499477131 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:38:24 | 7019235507785909361 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:38:29 | 7108239945879680228 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:38:36 | 7139466164808094685 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:38:39 | 7146501055946455259 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:38:43 | 7196123181538812927 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:38:47 | 7365177255110250831 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:38:50 | 7424587129106291146 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:38:54 | 7450618978121656027 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:00 | 7464745994677657736 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:39:04 | 7505066757352119929 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:39:08 | 7543967492107023669 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:39:11 | 7568708392122950467 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:15 | 7595725312151626703 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:39:18 | 7650501004944257291 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:22 | 7657639960859023561 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:39:26 | 7659840869909688772 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:29 | 7708395639110173987 | FASE-A: cat:Ingenieria->Ventas y Servicios | OK
+CORRECCION | 2026-10-08 18:39:33 | 7828557360576693360 | FASE-A: cat:Ingenieria->Ventas y Servicios | OK
+CORRECCION | 2026-10-08 18:39:37 | 7981781370403899478 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:40 | 8079182054602445493 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:44 | 8080822213430726578 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:47 | 8153822515020821238 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:51 | 8168644422536086020 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:39:57 | 8253828105847440493 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:02 | 8314960767747357235 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:40:08 | 8400065616523472781 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:12 | 8419734106133423715 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:16 | 8451584793841898233 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:19 | 8588649259053039678 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:40:23 | 8671146540484008116 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:26 | 8708446860284367265 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:40:30 | 8924089345309216147 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:40:34 | 8934973206403520295 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:40 | 9037627019037191223 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:44 | 9047054862237249749 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:40:47 | 185196456659571752 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:40:54 | 255552088772962840 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:40:58 | 294672021449692818 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:41:02 | 1158279000866921656 | FASE-A: cat:Educacion->Ingeniería | OK
+CORRECCION | 2026-10-08 18:41:05 | 1183482359680771300 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:41:17 | 2052921351213869181 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:41:21 | 2193753421293528358 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:41:24 | 2864154723817481283 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:41:28 | 2900276637783700682 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:41:32 | 2990077317640705379 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:41:35 | 2993276663464077392 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:41:44 | 3509410304628559760 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:41:53 | 4370838694711710188 | FASE-A: cat:Educacion->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:41:58 | 4469641815720347412 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:42:03 | 5262972440759364011 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:42:08 | 6291856487994226203 | FASE-A: cat:Educacion->Educación | OK
+CORRECCION | 2026-10-08 18:42:14 | 3119627361353582559 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:42:19 | 8772587595092025904 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:42:24 | 6650227000925208593 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:42:30 | 5142090138280693459 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:42:34 | 3763448285631438615 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:42:39 | 7599494066591201107 | FASE-A: cat:Administracion y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:42:45 | 4113348798320799996 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:42:49 | 3823795752003345151 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:42:55 | 7195413281755317114 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:00 | 1899339178341039657 | FASE-A: cat:Ingenieria->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:05 | 4253547369891832067 | FASE-A: cat:Ingenieria->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:43:10 | 8486753131241043789 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:16 | 4833759692309164255 | FASE-A: cat:Administraci n y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:43:20 | 1239627401481472958 | FASE-A: cat:Administraci n y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:24 | 3677676773744416986 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:29 | 6516792947156027261 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:33 | 1341099686745659836 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:38 | 3685502841038259780 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:43 | 238408448659552289 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:46 | 8565195806290545947 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:51 | 7580647181023911590 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:43:55 | 4580972716779228016 | FASE-A: cat:Administraci n y Finanzas->Ingeniería | OK
+CORRECCION | 2026-10-08 18:44:00 | 3060998272451714655 | FASE-A: cat:Administraci n y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:44:05 | 2531643980008101502 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:44:10 | 7582418169168512060 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:44:15 | 2387631294091204101 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:44:18 | 2153058795995268953 | FASE-A: cat:Ingenier a->Ingeniería | OK
+CORRECCION | 2026-10-08 18:44:22 | 3600414466972345924 | FASE-A: cat:Administraci n y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:44:26 | 9161769845171145601 | FASE-A: cat:Administraci n y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 18:44:30 | 6342615513777640453 | FASE-A: cat:Administraci n y Finanzas->Administración y Finanzas | OK
+CORRECCION | 2026-10-08 19:08:24 | 2841922435103739538 | FASE-A-UB: ub-entidad:Huánuco, Perú | OK
+CORRECCION | 2026-10-08 19:08:30 | 63236093527870849 | FASE-A-UB: ub-entidad:Apurímac, Perú | OK
+CORRECCION | 2026-10-08 19:08:33 | 744301152536687315 | FASE-A-UB: ub-entidad:Ayacucho, Perú | OK
+CORRECCION | 2026-10-08 19:08:55 | 5452126199478112024 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:00 | 7571908513066515916 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:05 | 6043104383156717181 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:09 | 4235296057644120101 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:15 | 1815527873836135240 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:19 | 4275632395107642898 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:24 | 5908355092408353693 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:30 | 4321345775654490144 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:33 | 1194819881844186143 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:38 | 4965920457001797268 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:42 | 7226308557777373491 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:47 | 954466833646357902 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:51 | 2886295601589584433 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:09:55 | 2493028178420173174 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:00 | 8772073216554946674 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:06 | 2041068364304757280 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:10 | 4843329619858793223 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:14 | 655885918767144128 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:19 | 8726320091378100660 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:24 | 1357166468409025824 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:28 | 4009959380131181932 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:33 | 7638981913374569512 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:37 | 4260652857232521220 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:41 | 695318864827288129 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:48 | 2253592929049243451 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:52 | 4064436763631444024 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:10:56 | 7562783617105754380 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:01 | 8595909481940396482 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:04 | 8853641559690400444 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:08 | 849706014062558348 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:12 | 3583235084099855031 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:16 | 1204851652111838072 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:20 | 4490708123792479730 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:25 | 6069553936003531273 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:29 | 7621622013239660844 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:32 | 6619833730537527990 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:36 | 5900383560605214087 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:40 | 298812311732482381 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:44 | 560778743118797788 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:47 | 6559763862782723349 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:51 | 8962648498940388486 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:55 | 3719251158808077405 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:11:58 | 2287111381358946342 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:03 | 4950759944946372518 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:10 | 7698008718298029392 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:16 | 8648545001258092154 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:20 | 7577449142392658377 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:24 | 8486492548334722134 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:28 | 1646012418710249283 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:32 | 1989132127154734987 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:42 | 9180069787125447350 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:49 | 3435380337195924247 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:53 | 2623278944794664712 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:12:57 | 3391947721315838580 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:00 | 5783141738102588903 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:05 | 1132584317458564134 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:11 | 4030259022829016450 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:15 | 3061556542264839872 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:20 | 1214467948438869574 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:24 | 6229616562250400957 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:28 | 9043149523040813447 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:31 | 7300550267946336313 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:35 | 3747164277718925823 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:38 | 8943354874553631171 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:43 | 949481333789175308 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:49 | 4425977247872223819 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:53 | 6905977419302537579 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:13:57 | 6790571538054802456 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:03 | 8109260875442288346 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:07 | 845294660998511120 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:11 | 4912809727539612997 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:15 | 8956780714164400029 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:21 | 8792122456097563924 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:25 | 246252786933625795 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:29 | 6541637794996535675 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:35 | 4629848504681666745 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:39 | 1882461458753423243 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:43 | 5844187680448251487 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:46 | 6819943434571669540 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:51 | 9166308769107678895 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:55 | 7780778922822206064 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:14:59 | 5953619093799718393 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:15:31 | 580750704204989625 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:15:37 | 6177840431224097544 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:15:41 | 2581208896917909144 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:15:46 | 8935266676853246193 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:15:52 | 4003058498983596505 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:15:57 | 1591276864818882406 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:16:01 | 7420696834486619436 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:16:07 | 5577693091287400574 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:16:12 | 2976295975981038137 | FASE-A-UB: ins:2 | OK
+CORRECCION | 2026-10-08 19:16:17 | 3072613000707183 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:22 | 39389764531201649 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:26 | 68954842455170671 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:32 | 72376357720320555 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:37 | 90867130142511099 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:41 | 103368690969440558 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:46 | 136569361951448314 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:50 | 145615981867189137 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:16:55 | 178599501303995238 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:00 | 187187575579186948 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:05 | 192292643249761698 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:10 | 195161867665204883 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:14 | 258910892677491428 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:19 | 328399790639891350 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:23 | 337936616210732434 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:27 | 362041449918546914 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:31 | 392053127755400911 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:35 | 406403948583112834 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:40 | 565243497853864402 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:43 | 569694451705383935 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:48 | 581546074058788980 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:53 | 585297738633444173 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:17:58 | 594135931587221305 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:03 | 601679694488567550 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:07 | 632763837087103137 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:12 | 666293545723413500 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:17 | 702174248675139788 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:21 | 666297349412083250 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:24 | 743904088613311946 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:28 | 752818508692525664 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:32 | 827475911980645524 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:36 | 769423237055671124 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:41 | 990763493037453799 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:45 | 996334710079235616 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:49 | 1003149468849536305 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:54 | 1086550490225152442 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:18:58 | 1031713638131534295 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:03 | 1004182623736966845 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:08 | 1115163293106537642 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:12 | 1244998743893080221 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:16 | 1247421243232934047 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:21 | 1468712791131338141 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:25 | 1533538093301782520 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:28 | 1492168433258655645 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:32 | 1559972120234747037 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:37 | 1745074634732599839 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:41 | 1783130696525242321 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:45 | 1793801140650917983 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:49 | 1891181918401801840 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:52 | 1985007873124330976 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:56 | 2052439158854892141 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:19:59 | 2090045532739716560 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:03 | 2102039495971392831 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:07 | 2121955776955488521 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:10 | 2133665418903524919 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:15 | 2283541082304226609 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:21 | 2356637029015250241 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:25 | 2338314164794436003 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:29 | 2557002450132551762 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:34 | 2409914808673479712 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:41 | 2644169932930310428 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:45 | 3107972405085361068 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:50 | 3294766110761613545 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:54 | 3406326729520891750 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:20:58 | 3748673726658986997 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:02 | 159064431773510381 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:06 | 324625846830038819 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:10 | 379718038501032933 | FASE-A-UB: ciu-entidad:Virú, ins:1 | OK
+CORRECCION | 2026-10-08 19:21:13 | 498588190853890613 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:18 | 479346705939497113 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:22 | 878439700781566363 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:26 | 913352124562304399 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:30 | 1000038954509671828 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:35 | 1174937899873623272 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:39 | 1543479518295421613 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:43 | 1633135535487306450 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:46 | 1712163463227892490 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:50 | 2026345270784104979 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:54 | 2176998477570631612 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:21:58 | 2181054076074504270 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:02 | 2375232831351086961 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:05 | 2420841753143781006 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:09 | 2396901501933501373 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:12 | 2471888110983472949 | FASE-A-UB: ciu-entidad:Sullana, ins:1 | OK
+CORRECCION | 2026-10-08 19:22:16 | 2500869327036211406 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:20 | 2616190545365631874 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:23 | 3237305079553011739 | FASE-A-UB: ciu-entidad:Virú, ins:1 | OK
+CORRECCION | 2026-10-08 19:22:27 | 3295566551935300746 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:22:58 | 4576567418882033513 | FASE-A-UB: ub-entidad:Ilo, Perú, ciu-entidad:Ilo | OK
+CORRECCION | 2026-10-08 19:23:14 | 5847226944353013706 | FASE-A-UB: ub-entidad:Tacna, Perú | OK
+CORRECCION | 2026-10-08 19:23:22 | 74181736073476522 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:23:27 | 9158588902877350400 | FASE-A-UB: ub-entidad:Trujillo, Perú, ciu-entidad:Trujillo | OK
+CORRECCION | 2026-10-08 19:23:32 | 185196456659571752 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:23:39 | 255552088772962840 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:23:43 | 421541828732961470 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:23:49 | 336259772031818430 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:23:54 | 426233147498512827 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:23:59 | 674730370330758374 | FASE-A-UB: ciu-entidad:Puerto Maldonado, ins:1 | OK
+CORRECCION | 2026-10-08 19:24:03 | 892038681899192549 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:24:11 | 1183482359680771300 | FASE-A-UB: ciu-entidad:Bagua, ins:1 | OK
+CORRECCION | 2026-10-08 19:24:19 | 1442578790391668957 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:24:24 | 1694333859257041791 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:24:32 | 1974980556122736585 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:24:36 | 1888366293279433139 | FASE-A-UB: ciu-entidad:Huaraz, ins:1 | OK
+CORRECCION | 2026-10-08 19:24:46 | 2711970004807729296 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:24:50 | 2817035824411195791 | FASE-A-UB: ciu-entidad:Huacho, ins:1 | OK
+CORRECCION | 2026-10-08 19:24:55 | 2990077317640705379 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:00 | 3222271969115386617 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:04 | 4370838694711710188 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:09 | 4609017555206101772 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:12 | 4719401535115735648 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:18 | 5020689551345097649 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:22 | 5376236035920626802 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:27 | 5538142707190328753 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:31 | 5777632192848814453 | FASE-A-UB: ciu-entidad:Pisco, ins:1 | OK
+CORRECCION | 2026-10-08 19:25:35 | 6147623502610362036 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:43 | 3119627361353582559 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:46 | 8772587595092025904 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:50 | 4120664926335189479 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:55 | 6650227000925208593 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:25:59 | 6900077154657984698 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:04 | 5142090138280693459 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:07 | 4997404397148934735 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:11 | 3763448285631438615 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:16 | 7599494066591201107 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:19 | 4113348798320799996 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:24 | 7869511009882250646 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:29 | 8708894186034416961 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:33 | 4227439483819586378 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:37 | 6912208219956047508 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:41 | 3677676773744416986 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:45 | 6516792947156027261 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:50 | 4898577638523029018 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:26:56 | 1341099686745659836 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:27:01 | 2934666654914985201 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:27:05 | 3600414466972345924 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:27:10 | 6342615513777640453 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:27:13 | 4675251999119251591 | FASE-A-UB: ins:1 | OK
+CORRECCION | 2026-10-08 19:27:17 | 2279395444554114784 | FASE-A-UB: ins:1 | OK

@@ -1,0 +1,64 @@
+DIAGNOSTICO FASE A - 2026-10-08 17:26
+posts inventariados: 2833 | empleo: 2757 | estado: 2642 | con fuente resuelta: 1431
+
+== ESTADO ==
+  CIU_VACIA              300
+  CIUDAD_RARA            404
+  CT_BAJA_CAS            161
+  CT_DIFIERE_FUENTE      0
+  CT_PRAC                161
+  CT_VACIO_POST          0
+  DEPT_MISMATCH          217
+  REGION_RARA            0
+  UB_DIFIERE_FUENTE      0
+  UB_VACIA               532
+  UB_VACIA_SIN_FUENTE    401
+
+== CATEGORIA NO CANONICA ==
+  BUMERAN                0
+  ESTADO                 956
+  OTRO                   0
+
+== EJEMPLOS ==
+  [CAT_ESTADO]
+    - [Ingenieria] UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): Especialista Administrativo
+    - [Ingenieria] ENSAD: ANALISTA EN TERMINOS DE REFERENCIA Y ESPECIFICACIONES TÉCNICAS
+    - [Ingenieria] UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): TÉCNICO ADMINISTRATIVO EN CONTROL PATRIMONIAL
+    - [Ingenieria] UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): ESPECIALISTA EN LA GESTIÓN DE LA INVESTIGACIÓN
+    - [Ingenieria] UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): ELECTRICISTA
+  [CIU_VACIA]
+    - UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): (11) Especialistas, Asistentes y otros cargos | ubi=[No especificado] fuenteCIUDAD=[]
+    - UNIVERSIDAD NACIONAL DE CHUPACA: Jefes, analistas y especialista | ubi=[No especificado] fuenteCIUDAD=[]
+    - UNIVERSIDAD HERMILIO VALDIZAN: UNIVERSIDAD HERMILIO VALDIZAN: (12) Profesionales, técnicos, nutricionista y otros | ubi=[No especificado] fuenteCIUDAD=[]
+    - UGEL 6: UGEL 6: Solicita Secretaria, Trabajador de servicio y Técnico administrativo | ubi=[No especificado] fuenteCIUDAD=[]
+    - UGEL 4: UGEL 4: Solicita Coordinador de innovación Personal de Vigilancia | ubi=[No especificado] fuenteCIUDAD=[]
+  [CIUDAD_RARA]
+    - MUNICIPALIDAD DE HUÁNUCO: 728 N° 005: SERENO CHOFER | REGION=Huánuco CIUDAD=Huánuco
+    - DIRECCION DE EDUCACION(DRE) HUANCAVELICA: 276 N° 004: TÉCNICO ADMINISTRATIVO III | REGION=Huancavelica CIUDAD=Huancavelica
+    - DIRECCION DE EDUCACION(DRE) HUANCAVELICA: 276 N° 004: ESPECIALISTA ADMINISTRATIVO IV | REGION=Huancavelica CIUDAD=Huancavelica
+    - DIRECCION DE EDUCACION(DRE) HUANCAVELICA: 276 N° 004: ABOGADO III | REGION=Huancavelica CIUDAD=Huancavelica
+    - CUNA MÁS: Especialista Integral | REGION=Puno CIUDAD=Puno
+  [CT_BAJA_CAS]
+    - INSTITUTO GEOFISICO(IGP): Nº 002-2026: Practicante para la Unidad Funcional de Infraestructura | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - MINISTERIO DE LA MUJER (MIMP): N° 085-2026: Practicante para la Dirección de Protección Especial - UPE Madre de Dios | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - INDECOPI: N° 064-2026: Practicante para la Oficina de Estudios Económicos | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - OSINERGMIN: N° 030-2026: Practicante para la Secretaría Técnica de los Órganos Resolutivos | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - SAT LIMA: N° 017-2026: Practicante para la Oficina de Modernización | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+  [CT_PRAC]
+    - INSTITUTO GEOFISICO(IGP): Nº 002-2026: Practicante para la Unidad Funcional de Infraestructura | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - MINISTERIO DE LA MUJER (MIMP): N° 085-2026: Practicante para la Dirección de Protección Especial - UPE Madre de Dios | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - INDECOPI: N° 064-2026: Practicante para la Oficina de Estudios Económicos | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - OSINERGMIN: N° 030-2026: Practicante para la Secretaría Técnica de los Órganos Resolutivos | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+    - SAT LIMA: N° 017-2026: Practicante para la Oficina de Modernización | TipoEstado=[PRACTICAS] Contrato=[PRACTICAS]
+  [DEPT_MISMATCH]
+    - UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): (11) Especialistas, Asistentes y otros cargos | ubi=[No especificado] ciu=[No especificado] actual=Ica corregido=No especificado
+    - UNIVERSIDAD NACIONAL DE CHUPACA: Jefes, analistas y especialista | ubi=[No especificado] ciu=[No especificado] actual=Ica corregido=No especificado
+    - UNIVERSIDAD HERMILIO VALDIZAN: UNIVERSIDAD HERMILIO VALDIZAN: (12) Profesionales, técnicos, nutricionista y otros | ubi=[No especificado] ciu=[No especificado] actual=Ica corregido=No especificado
+    - UGEL 6: UGEL 6: Solicita Secretaria, Trabajador de servicio y Técnico administrativo | ubi=[No especificado] ciu=[No especificado] actual=Ica corregido=No especificado
+    - UGEL 4: UGEL 4: Solicita Coordinador de innovación Personal de Vigilancia | ubi=[No especificado] ciu=[No especificado] actual=Ica corregido=No especificado
+  [UB_VACIA]
+    - UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): UNIVERSIDAD TECNOLOGICA LIMA SUR(UNTELS): (11) Especialistas, Asistentes y otros cargos | post=[No especificado] fuente=[]
+    - UNIVERSIDAD NACIONAL DE CHUPACA: Jefes, analistas y especialista | post=[No especificado] fuente=[]
+    - UNIVERSIDAD HERMILIO VALDIZAN: UNIVERSIDAD HERMILIO VALDIZAN: (12) Profesionales, técnicos, nutricionista y otros | post=[No especificado] fuente=[]
+    - UGEL 6: UGEL 6: Solicita Secretaria, Trabajador de servicio y Técnico administrativo | post=[No especificado] fuente=[]
+    - UGEL 4: UGEL 4: Solicita Coordinador de innovación Personal de Vigilancia | post=[No especificado] fuente=[]

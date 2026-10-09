@@ -58,8 +58,8 @@ if ($ld) {
     if ($ld.hiringOrganization)   { $entidad     = [string]$ld.hiringOrganization.name }
     if ($ld.jobLocation) {
         $a = $ld.jobLocation.address
-        if ($a.addressLocality) { $ciudad = [string]$a.addressLocality }
-        if ($a.addressRegion)   { $region = [string]$a.addressRegion }
+        if ($a.addressLocality) { $ciudad = ([string]$a.addressLocality).Trim() }
+        if ($a.addressRegion)   { $region = ([string]$a.addressRegion).Trim() }
     }
     if ($ld.employmentType)      { $contrato    = [string]$ld.employmentType }
     if ($ld.baseSalary)          { $salarioJson = [string]$ld.baseSalary.value.value }
@@ -81,6 +81,28 @@ function Limpio([string]$t) {
     $s = $s -replace '&[a-z]+;', ' '
     $s = $s -replace '\s+', ' '
     return $s.Trim()
+}
+
+# ------------------------------------------- ubicacion: texto > JSON-LD
+# Las etiquetas de texto de la pagina (Ciudad/Departamento) mandan sobre
+# addressLocality/addressRegion del JSON-LD, que llegan vacios o con "Perú"
+# en varias convocatorias => post sin Ubicación util para el filtro.
+if ($ciudad -match '^(?i:perú|peru)\s*$') { $ciudad = "" }
+if ($region -match '^(?i:perú|peru)\s*$') { $region = "" }
+
+$plano = Limpio $src
+$mCiuTxt = [regex]::Match($plano, '(?i)\bCiudad\s*:\s*([A-ZÁÉÍÓÚÑ][\p{L}\s\-]{2,40}?)\s*(?:\.|,|;|$)')
+if ($mCiuTxt.Success) { $ciudad = $mCiuTxt.Groups[1].Value.Trim() }
+$mDepTxt = [regex]::Match($plano, '(?i)\bDepartamento\s*:\s*([A-ZÁÉÍÓÚÑ][\p{L}\s\-]{2,40}?)\s*(?:\.|,|;|$)')
+if ($mDepTxt.Success) { $region = $mDepTxt.Groups[1].Value.Trim() }
+
+if ($region -eq "") {
+    # respaldo: meta Description de CDT ("... Departamento Moquegua. ...")
+    $md = [regex]::Match($src, '(?is)<meta\s+name="(?:Description|description)"\s+content="([^"]+)"')
+    if ($md.Success) {
+        $mdpt = [regex]::Match($md.Groups[1].Value, 'Departamento\s+([A-ZÁÉÍÓÚÑ][\p{L}\s\-]{2,40}?)\.')
+        if ($mdpt.Success) { $region = $mdpt.Groups[1].Value.Trim() }
+    }
 }
 
 # ------------------------------------------------- fallbacks sin JSON-LD
