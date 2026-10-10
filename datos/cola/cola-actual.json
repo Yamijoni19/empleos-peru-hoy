@@ -1,8 +1,15 @@
 {
+<<<<<<< HEAD
     "generado":  "2026-10-10T01:43:03.2111297+00:00",
     "estado":  "CORTADA-429",
     "maxPorCorrida":  50,
     "candidatos":  5798,
+=======
+    "generado":  "2026-10-09T20:54:00.2355108-05:00",
+    "estado":  "ABIERTA",
+    "maxPorCorrida":  2,
+    "candidatos":  5778,
+>>>>>>> 40670b91 (publicar: reintenta x2 (60s) ante 429 antes de cortar con cooldown)
     "porEstado":  {
                       "EXPIRADA":  217,
                       "NUEVA":  4773,
@@ -12,8 +19,13 @@
                      "EXPIRADA":  217,
                      "HISTORICA":  808
                  },
+<<<<<<< HEAD
     "seleccionados":  38,
     "diferidos":  4723,
+=======
+    "seleccionados":  2,
+    "diferidos":  4914,
+>>>>>>> 40670b91 (publicar: reintenta x2 (60s) ante 429 antes de cortar con cooldown)
     "orden":  [
                   "NUEVA",
                   "ACTUALIZADA",
@@ -23,6 +35,11 @@
               ],
     "publicadas":  0,
     "simuladas":  0,
+<<<<<<< HEAD
     "errores":  1,
     "nota":  "429: corrida cortada, cola conservada, cooldown activo (datos\\cola\\cooldown-429.json)"
+=======
+    "errores":  0,
+    "nota":  "las historicas del baseline no se publican sin -Backfill; ACTUALIZADA/CORRECCION se encolan hasta tener mecanismo de actualizacion"
+>>>>>>> 40670b91 (publicar: reintenta x2 (60s) ante 429 antes de cortar con cooldown)
 }

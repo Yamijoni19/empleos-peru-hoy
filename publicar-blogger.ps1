@@ -757,7 +757,7 @@ $ok = 0
 $fail = 0
 $n = 0
 $encoladas = 0
-foreach ($f in $archivos) {
+:Publicar foreach ($f in $archivos) {
     $n++
     $html = [IO.File]::ReadAllText($f.FullName)
     $titulo = ExtraerTitulo $html
@@ -788,43 +788,51 @@ foreach ($f in $archivos) {
         continue
     }
 
-    try {
-        $post = Api POST ("https://www.googleapis.com/blogger/v3/blogs/" + $blogId + "/posts?fields=id,url") @{
-            title = $titulo; content = $html; labels = @($etiqueta)
-            status = $(if ($Draft) { "DRAFT" } else { "LIVE" })
-        }
-        $ok++
-        $script:seq429 = 0
-        [IO.File]::AppendAllText($logPath, ((Get-Date -Format 'yyyy-MM-dd HH:mm') + " | " + $titulo + " | " + $post.url + " | " + $f.Name + "`n"), (New-Object System.Text.UTF8Encoding($false)))
-        $registro[$f.Name] = [pscustomobject]@{
-            estado = 'PUBLICADA'; hash = (Hash-Archivo $f.FullName); titulo = $titulo
-            url = $post.url; fecha = (Get-Date).ToString('o'); intentos = 0
-            cola = $est
-        }
-        Guardar-Registro
-        Write-Host ("[" + $n + "/" + $archivos.Count + "] OK   " + $titulo)
-        Write-Host ("        " + $post.url)
-        Start-Sleep -Milliseconds ([int]$Cfg.pausaPublicacionMs)
-    } catch {
-        $fail++
-        $msg = $_.Exception.Message
-        $intentos = 1
-        if ($registro.ContainsKey($f.Name) -and $registro[$f.Name].intentos) { $intentos = [int]$registro[$f.Name].intentos + 1 }
-        [IO.File]::AppendAllText($logPath, ((Get-Date -Format 'yyyy-MM-dd HH:mm') + " | ERROR | " + $f.Name + " | " + $msg + "`n"), (New-Object System.Text.UTF8Encoding($false)))
-        $registro[$f.Name] = [pscustomobject]@{
-            estado = 'ERROR'; hash = (Hash-Archivo $f.FullName); titulo = $titulo
-            url = ''; fecha = (Get-Date).ToString('o'); intentos = $intentos
-            motivo = $msg; cola = $est
-        }
-        Guardar-Registro
-        Write-Host ("[" + $n + "/" + $archivos.Count + "] ERROR " + $f.Name + " - " + $msg)
-        if ($msg -match '429') {
-            # Cuota agotada: corto de inmediato (sin reintentos ni esperas),
-            # registro fecha/hora+error, activo cooldown y dejo la cola intacta.
-            Registrar-Cooldown429 $msg
-            $script:hubo429 = $true
+    $intentosPost = 0
+    while ($true) {
+        $intentosPost++
+        try {
+            $post = Api POST ("https://www.googleapis.com/blogger/v3/blogs/" + $blogId + "/posts?fields=id,url") @{
+                title = $titulo; content = $html; labels = @($etiqueta)
+                status = $(if ($Draft) { "DRAFT" } else { "LIVE" })
+            }
+            $ok++
+            $script:seq429 = 0
+            [IO.File]::AppendAllText($logPath, ((Get-Date -Format 'yyyy-MM-dd HH:mm') + " | " + $titulo + " | " + $post.url + " | " + $f.Name + "`n"), (New-Object System.Text.UTF8Encoding($false)))
+            $registro[$f.Name] = [pscustomobject]@{
+                estado = 'PUBLICADA'; hash = (Hash-Archivo $f.FullName); titulo = $titulo
+                url = $post.url; fecha = (Get-Date).ToString('o'); intentos = 0
+                cola = $est
+            }
+            Guardar-Registro
+            Write-Host ("[" + $n + "/" + $archivos.Count + "] OK   " + $titulo)
+            Write-Host ("        " + $post.url)
+            Start-Sleep -Milliseconds ([int]$Cfg.pausaPublicacionMs)
             break
-        } else { $script:seq429 = 0 }
+        } catch {
+            $fail++
+            $msg = $_.Exception.Message
+            $intentos = 1
+            if ($registro.ContainsKey($f.Name) -and $registro[$f.Name].intentos) { $intentos = [int]$registro[$f.Name].intentos + 1 }
+            [IO.File]::AppendAllText($logPath, ((Get-Date -Format 'yyyy-MM-dd HH:mm') + " | ERROR | " + $f.Name + " | " + $msg + "`n"), (New-Object System.Text.UTF8Encoding($false)))
+            $registro[$f.Name] = [pscustomobject]@{
+                estado = 'ERROR'; hash = (Hash-Archivo $f.FullName); titulo = $titulo
+                url = ''; fecha = (Get-Date).ToString('o'); intentos = $intentos
+                motivo = $msg; cola = $est
+            }
+            Guardar-Registro
+            Write-Host ("[" + $n + "/" + $archivos.Count + "] ERROR " + $f.Name + " - " + $msg)
+            if ($msg -match '429') {
+                if ($intentosPost -lt 3) {
+                    Write-Host ("        429 -> reintento " + $intentosPost + "/2 en 60s (antes de cortar)")
+                    Start-Sleep -Seconds 60
+                    continue
+                }
+                Registrar-Cooldown429 $msg
+                $script:hubo429 = $true
+                break Publicar
+            } else { $script:seq429 = 0; break }
+        }
     }
 }
 
