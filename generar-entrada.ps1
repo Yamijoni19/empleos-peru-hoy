@@ -20,6 +20,8 @@ $ErrorActionPreference = "Stop"
 $raiz = Split-Path -Parent $MyInvocation.MyCommand.Path
 # libreria Fase A: clasificador canonico compartido (7 categorias del tema)
 . (Join-Path $raiz 'lib\categoria.ps1')
+# detector de paginas-recopilatorio (varias ofertas en 1 articulo)
+. (Join-Path $raiz 'lib\catalogo.ps1')
 $hoy  = Get-Date
 
 try {
@@ -129,16 +131,12 @@ if ($titulo -eq "" -or $entidad -eq "") {
 
 # ------------------------------------------- compilaciones (varias ofertas en 1 pagina)
 # El sitio de origen a veces junta varias convocatorias independientes en un
-# solo articulo ("INDECOPI: (18) Asistentes..." con CAS 126, 127, 128...).
-# Publicarlo como UNA oferta seria mentir al lector: >=2 encabezados "CAS N..."
-# en h2/h3 => la pagina es un digest y NO se genera entrada unica.
-$encDigest = 0
-foreach ($mh in [regex]::Matches($src, '(?is)<h([23])[^>]*>([\s\S]*?)</h\1>')) {
-    $txEnc = Limpio $mh.Groups[2].Value
-    if ($txEnc -match '(?i)^\s*C(?:AS|ONV)\b[^0-9]{0,12}[0-9]{2,4}') { $encDigest++ }
-}
-if ($encDigest -ge 2) {
-    Write-Host ("ERROR: COMPILACION - la pagina agrupa " + $encDigest + " convocatorias (encabezados CAS) en un solo articulo; no corresponde una oferta unica")
+# solo articulo ("INDECOPI: (18) Asistentes..." con CAS 126, 127, 128..., o
+# "DIRESA PUNO: (680)..." con 90 sub-ofertas "276 N° 001 CÓDIGO...").
+# Publicarlo como UNA oferta seria mentir al lector: ver lib\catalogo.ps1.
+$cat = Test-EsCatalogoHtml $src
+if ($cat.EsCatalogo) {
+    Write-Host ("ERROR: COMPILACION - " + $cat.Motivo + "; la pagina agrupa varias convocatorias en un solo articulo, no corresponde una oferta unica")
     exit 1
 }
 
