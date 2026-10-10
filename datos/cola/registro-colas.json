@@ -1,4 +1,14 @@
 {
+    "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
+                                                                                               "estado":  "ERROR",
+                                                                                               "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",
+                                                                                               "titulo":  "Opportunities: Checker (Summer Works Period) (23 Weeks) (Porter\u0027S Lake)",
+                                                                                               "url":  "",
+                                                                                               "fecha":  "2026-10-10T00:54:14.4864567+00:00",
+                                                                                               "intentos":  1,
+                                                                                               "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
     "bum-1118059145-enfermera-tecnica-turno-noche-centro-geriatrico-la-molina-entrada.html":  {
                                                                                                   "estado":  "PUBLICADA",
                                                                                                   "hash":  "A72873943F928ACBB87EB344D6E22C1F0E2A707BB5084867FAF2A0DD51ED6340",

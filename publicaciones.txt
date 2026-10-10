@@ -4504,3 +4504,15 @@
       }
     ],
     "status": "RESOURCE_EXH
+2026-10-10 00:54 | ERROR | bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

@@ -1,19 +1,19 @@
 {
-    "generado":  "2026-10-09T17:03:11.1002605+00:00",
+    "generado":  "2026-10-10T00:54:06.4749651+00:00",
     "estado":  "CORTADA-429",
     "maxPorCorrida":  50,
-    "candidatos":  5494,
+    "candidatos":  5803,
     "porEstado":  {
-                      "EXPIRADA":  54,
-                      "NUEVA":  1329,
-                      "HISTORICA":  4111
+                      "EXPIRADA":  217,
+                      "NUEVA":  1565,
+                      "HISTORICA":  4021
                   },
     "omitidos":  {
-                     "EXPIRADA":  54,
-                     "HISTORICA":  4111
+                     "EXPIRADA":  217,
+                     "HISTORICA":  4021
                  },
     "seleccionados":  38,
-    "diferidos":  1279,
+    "diferidos":  1515,
     "orden":  [
                   "NUEVA",
                   "ACTUALIZADA",
@@ -21,7 +21,7 @@
                   "EXPIRADA",
                   "HISTORICA"
               ],
-    "publicadas":  22,
+    "publicadas":  0,
     "simuladas":  0,
     "errores":  1,
     "nota":  "429: corrida cortada, cola conservada, cooldown activo (datos\\cola\\cooldown-429.json)"
