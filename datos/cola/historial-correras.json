@@ -8,29 +8,29 @@
                                             "Count":  2
                                         },
                                         {
-                                            "fecha":  "2026-10-10T00:54:14.5038518+00:00",
-                                            "publicadas":  0,
-                                            "errores":  1,
+                                            "fecha":  "2026-10-09T20:17:35.1917107-05:00",
+                                            "publicadas":  1,
+                                            "errores":  0,
                                             "encoladas":  0,
-                                            "maxPorCorrida":  50
+                                            "maxPorCorrida":  1
                                         }
                                     ],
                           "Count":  2
                       },
                       {
-                          "fecha":  "2026-10-09T20:17:35.1917107-05:00",
-                          "publicadas":  1,
-                          "errores":  0,
+                          "fecha":  "2026-10-10T01:43:13.7434692+00:00",
+                          "publicadas":  0,
+                          "errores":  1,
                           "encoladas":  0,
-                          "maxPorCorrida":  1
+                          "maxPorCorrida":  50
                       }
                   ],
         "Count":  2
     },
     {
-        "fecha":  "2026-10-10T01:43:13.7434692+00:00",
+        "fecha":  "2026-10-10T02:01:45.6286673+00:00",
         "publicadas":  0,
-        "errores":  1,
+        "errores":  3,
         "encoladas":  0,
         "maxPorCorrida":  50
     }

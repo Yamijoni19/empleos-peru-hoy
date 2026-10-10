@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118474236",
+    "clave":  "id:1118474236",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/impulsadora-promotora-de-ventas-magnarf-sac-1118474236.html",
+                   "capturadoEn":  "2026-10-10T01:58:13+00:00"
+               },
+    "titulo":  "Impulsadora / Promotora de Ventas",
+    "empresa":  "magnarf sac",
+    "ubicacion":  "Junin - Huancayo",
+    "ciudad":  "Huancayo",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Impulsadora / Promotora de Ventas Resumen del Puesto Buscamos una Impulsadora / Promotora de Ventas proactiva y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal tendrá experiencia en promoción de productos y atención al cliente, con disponibilidad para trabajar de lunes a sábado. Responsabilidades Promover la compra efectiva de productos. Realizar la entrega de material promocional y obsequios. Gestionar la reposición de mercadería en punto de venta. Brindar una excelente atención al cliente. Beneficios Ingreso a planilla con todos los beneficios de ley. Salario competitivo acorde al mercado. Bonos por productividad. Subsidio de movilidad. Oportunidad de pertenecer a una organización líder en el mercado. Desarrollo de línea de carrera. Requisitos Educación mínima: Secundaria completa. Edad: Entre 20 y 40 años. Experiencia previa como impulsadora, promotora o en atención al cliente. Conocimientos en técnicas de negociación. Disponibilidad para trabajar de lunes a sábado.",
+    "requisitos":  [
+                       "Educación mínima: Secundaria completa",
+                       "Edad: Entre 20 y 40 años",
+                       "Experiencia previa como impulsadora, promotora o en atención al cliente",
+                       "Conocimientos en técnicas de negociación",
+                       "Disponibilidad para trabajar de lunes a sábado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Salario competitivo acorde al mercado",
+                       "Bonos por productividad",
+                       "Subsidio de movilidad",
+                       "Oportunidad de pertenecer a una organización líder en el mercado",
+                       "Desarrollo de línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/impulsadora-promotora-de-ventas-magnarf-sac-1118474236.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/impulsadora-promotora-de-ventas-magnarf-sac-1118474236.html",
+    "descripcion_html":  "\u003cb\u003eImpulsadora / Promotora de Ventas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eImpulsadora / Promotora de Ventas\u003c/b\u003e proactiva y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal tendrá experiencia en promoción de productos y atención al cliente, con disponibilidad para trabajar de lunes a sábado.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003ePromover la compra efectiva de productos.\u003c/li\u003e \u003cli\u003eRealizar la entrega de material promocional y obsequios.\u003c/li\u003e \u003cli\u003eGestionar la reposición de mercadería en punto de venta.\u003c/li\u003e \u003cli\u003eBrindar una excelente atención al cliente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eSalario competitivo acorde al mercado.\u003c/li\u003e \u003cli\u003eBonos por productividad.\u003c/li\u003e \u003cli\u003eSubsidio de movilidad.\u003c/li\u003e \u003cli\u003eOportunidad de pertenecer a una organización líder en el mercado.\u003c/li\u003e \u003cli\u003eDesarrollo de línea de carrera.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEducación mínima: Secundaria completa.\u003c/li\u003e \u003cli\u003eEdad: Entre 20 y 40 años.\u003c/li\u003e \u003cli\u003eExperiencia previa como impulsadora, promotora o en atención al cliente.\u003c/li\u003e \u003cli\u003eConocimientos en técnicas de negociación.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de lunes a sábado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Promotoras/es",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

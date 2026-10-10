@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118474231",
+    "clave":  "id:1118474231",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-contable-rubro-construccion-arequipa-eurofirms-group-1118474231.html",
+                   "capturadoEn":  "2026-10-10T01:58:24+00:00"
+               },
+    "titulo":  "Practicante contable rubro construcción -Arequipa",
+    "empresa":  "Eurofirms Group",
+    "ubicacion":  "Arequipa - Sabandía",
+    "ciudad":  "Sabandía",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Salario 1200",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "En Eurofirms Group, promovemos el liderazgo basado en valores y el desarrollo continuo de las personas, fomentando entornos de trabajo colaborativos y orientados al crecimiento profesional. Actualmente nos encontramos en búsqueda de Practicante profesional contable en una empresa especializada en soluciones de andamios y sistemas de acceso para construcción e industria Funciones principales Apoyar en el registro y control de comprobantes de pago. Realizar archivo y organización de documentación contable. Realizar los inventarios de los equipos. Brindar soporte en el control de rendiciones de gastos y caja chica. Apoyar en la preparación de reportes contables y financieros. Colaborar con el seguimiento de documentos relacionados con obras y proyectos Otras funciones que le asigne el jefe inmediato. Requisitos Egresado(a) técnico o universitario en Contabilidad Con o sin experiencia en áreas contables Manejo de Office Hoarario laboral: lunes a viernes 7:30 am a 5:30 pm Beneficios Convenio de practicas Salario 1200 + tarjeta de alimentos (250) + movilidad de acercamiento Excelente clima laboral",
+    "requisitos":  [
+                       "Egresado(a) técnico o universitario en Contabilidad",
+                       "Con o sin experiencia en áreas contables",
+                       "Manejo de Office",
+                       "Hoarario laboral: lunes a viernes 7:30 am a 5:30 pm"
+                   ],
+    "funciones":  [
+                      "que le asigne el jefe inmediato"
+                  ],
+    "beneficios":  [
+                       "Convenio de practicas",
+                       "Salario 1200 + tarjeta de alimentos (250) + movilidad de acercamiento",
+                       "Excelente clima laboral"
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-contable-rubro-construccion-arequipa-eurofirms-group-1118474231.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-contable-rubro-construccion-arequipa-eurofirms-group-1118474231.html",
+    "descripcion_html":  "\u003cp\u003eEn Eurofirms Group, promovemos el liderazgo basado en valores y el desarrollo continuo de las personas, fomentando entornos de trabajo colaborativos y orientados al crecimiento profesional.\u003c/p\u003e\u003cp\u003eActualmente nos encontramos en búsqueda de \u003cstrong\u003ePracticante profesional contable en\u003c/strong\u003e una empresa especializada en soluciones de andamios y sistemas de acceso para construcción e industria\u003c/p\u003e\u003cp\u003eFunciones principales\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en el registro y control de comprobantes de pago.\u003c/li\u003e \u003cli\u003eRealizar archivo y organización de documentación contable.\u003c/li\u003e \u003cli\u003eRealizar los inventarios de los equipos.\u003c/li\u003e \u003cli\u003eBrindar soporte en el control de rendiciones de gastos y caja chica.\u003c/li\u003e \u003cli\u003eApoyar en la preparación de reportes contables y financieros.\u003c/li\u003e \u003cli\u003eColaborar con el seguimiento de documentos relacionados con obras y proyectos\u003c/li\u003e \u003cli\u003eOtras funciones que le asigne el jefe inmediato.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) técnico o universitario en Contabilidad\u003c/li\u003e \u003cli\u003eCon o sin experiencia en áreas contables\u003c/li\u003e \u003cli\u003eManejo de Office\u003c/li\u003e \u003cli\u003eHoarario laboral: lunes a viernes 7:30 am a 5:30 pm\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003eConvenio de practicas\u003c/li\u003e \u003cli\u003eSalario 1200 + tarjeta de alimentos (250) + movilidad de acercamiento\u003c/li\u003e \u003cli\u003eExcelente clima laboral\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Contabilidad",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
