@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118475865",
+    "clave":  "id:1118475865",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-seleccion-1118475865.html",
+                   "capturadoEn":  "2026-10-10T22:32:07+00:00"
+               },
+    "titulo":  "Asistente de Selección",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de un importante cliente del rubro de servicios, nos encontramos en búsqueda de un/a Asistente de Selección Gestionar el ciclo completo de reclutamiento y selección end to end para posiciones operativos, técnicos y/o administrativos. Publicar convocatorias, realizar filtro curricular y screening telefónico. Realizar entrevistas, dinámicas, evaluaciones para identificar al candidato idóneo. Coordinar con las áreas solicitantes el levantamiento de perfil, el seguimiento del proceso y la presentación de candidatos finalistas. Gestionar el proceso de incorporación: coordinación de exámenes médicos, entrega y revisión de documentos. Ejecutar la inducción de RRHH al personal nuevo, asegurando su integración efectiva desde el primer día. Mantener actualizada la base de datos de candidatos e indicadores del área. ¿Qué buscamos? Egresado/a, Bachiller o Titulado/a en Psicología, Administración o carreras afines. Experiencia mínima de 2 años viendo procesos de selección. Manejo de procesos masivos operativos y/o administrativos. Excel nivel intermedio. Disponibilidad para trabajar presencialmente en la zona del Callao. Habilidad para gestionar múltiples procesos en paralelo con autonomía. ¿Qué ofrecemos? Ingreso a planilla con todos los beneficios de ley. Oportunidad de desarrollo en empresa sólida.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Oportunidad de desarrollo en empresa sólida"
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-seleccion-1118475865.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-seleccion-1118475865.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePor encargo de un importante cliente del rubro de servicios, nos encontramos en búsqueda de un/a Asistente de Selección \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar el ciclo completo de reclutamiento y selección end to end para posiciones operativos, técnicos y/o administrativos.\u003c/li\u003e \u003cli\u003ePublicar convocatorias, realizar filtro curricular y screening telefónico.\u003c/li\u003e \u003cli\u003eRealizar entrevistas, dinámicas, evaluaciones para identificar al candidato idóneo.\u003c/li\u003e \u003cli\u003eCoordinar con las áreas solicitantes el levantamiento de perfil, el seguimiento del proceso y la presentación de candidatos finalistas.\u003c/li\u003e \u003cli\u003eGestionar el proceso de incorporación: coordinación de exámenes médicos, entrega y revisión de documentos.\u003c/li\u003e \u003cli\u003eEjecutar la inducción de RRHH al personal nuevo, asegurando su integración efectiva desde el primer día.\u003c/li\u003e \u003cli\u003eMantener actualizada la base de datos de candidatos e indicadores del área.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado/a, Bachiller o Titulado/a en Psicología, Administración o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años viendo procesos de selección. \u003c/li\u003e \u003cli\u003eManejo de procesos masivos operativos y/o administrativos.\u003c/li\u003e \u003cli\u003eExcel nivel intermedio. \u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar presencialmente en la zona del Callao.\u003c/li\u003e \u003cli\u003eHabilidad para gestionar múltiples procesos en paralelo con autonomía.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollo en empresa sólida.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Selección",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

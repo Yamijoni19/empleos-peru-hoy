@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118475851",
+    "clave":  "id:1118475851",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-oficina-tecnica-rubro-construccion-1118475851.html",
+                   "capturadoEn":  "2026-10-10T22:32:18+00:00"
+               },
+    "titulo":  "ASISTENTE DE OFICINA TECNICA - RUBRO CONSTRUCCION",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente. Empresa líder del rubro de construcción, nos encontramos en búsqueda de un ASISTENTE DE OFICINA TÉCNICA. ¿Cuáles serán tus retos? Apoyo en la Ejecución y Seguimiento del Presupuesto Meta Gestión de Órdenes de Cambio y Análisis de Impacto Elaboración de Valorizaciones y Expedientes Mensuales Cálculo del Resultado Operativo de la Obra Redacción y Gestión de Contratos Soporte en la Facturación y Gestión de Servicios ¿Qué buscamos de ti? Bachiller de la carrera de Ing. Civil Experiencia mínima de 02 años en proyectos de edificaciones multifamiliares. Indispensable el manejo de Microsoft Office nivel Intermedio Beneficios Planilla Completa con beneficios acorde a ley Excelente lugar y condiciones de trabajo",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "acorde a ley",
+                       "Excelente lugar y"
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-oficina-tecnica-rubro-construccion-1118475851.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-oficina-tecnica-rubro-construccion-1118475851.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente. Empresa líder del rubro de construcción, nos encontramos en búsqueda de un\u003cstrong\u003e ASISTENTE DE OFICINA TÉCNICA.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyo en la Ejecución y Seguimiento del Presupuesto Meta\u003c/li\u003e \u003cli\u003eGestión de Órdenes de Cambio y Análisis de Impacto\u003c/li\u003e \u003cli\u003eElaboración de Valorizaciones y Expedientes Mensuales\u003c/li\u003e \u003cli\u003eCálculo del Resultado Operativo de la Obra\u003c/li\u003e \u003cli\u003eRedacción y Gestión de Contratos\u003c/li\u003e \u003cli\u003eSoporte en la Facturación y Gestión de Servicios\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller de la carrera de Ing. Civil\u003c/li\u003e \u003cli\u003eExperiencia mínima de 02 años en proyectos de edificaciones multifamiliares.\u003c/li\u003e \u003cli\u003eIndispensable el manejo de Microsoft Office nivel Intermedio\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla Completa con beneficios acorde a ley\u003c/li\u003e \u003cli\u003eExcelente lugar y condiciones de trabajo\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Ingeniería Oficina Técnica / Proyecto",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "6",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 02 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

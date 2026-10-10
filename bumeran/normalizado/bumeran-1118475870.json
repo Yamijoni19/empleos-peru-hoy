@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118475870",
+    "clave":  "id:1118475870",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-contabilidad-banco-de-credito-del-peru-1118475870.html",
+                   "capturadoEn":  "2026-10-10T22:32:05+00:00"
+               },
+    "titulo":  "Practicante Pre Profesional de Contabilidad",
+    "empresa":  "Banco de Crédito del Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f50e; ¿A quién buscamos? • Practicante Pre Profesional para Gerencia de Contabilidad con interés de asegurar el correcto y oportuno registro contable de los comprobantes de pago del Banco y de las comisiones de los Agentes BCP. Además de asegurar el control, análisis y revisión permanente de las cuentas a cargo del equipo, garantizando la integridad y confiabilidad de la información financiera. ☝ Requisitos: • Estudiantes de 8vo ciclo de la carrera Contabilidad. • Fecha mínima de Egreso 2027-II (Indispensable). • Experiencia previa- tener conocimiento en analisis contable - tributario de registro de comprobantes de pago (no excluyente). • Excel nivel intermedio (tablas dinámicas, filtros avanzados) – (Indispensable). • Power Apps/ Power Automate (Deseable). • Análisis de data en SQL (Deseable).",
+    "requisitos":  [
+                       "• Estudiantes de 8vo ciclo de la carrera Contabilidad",
+                       "• Fecha mínima de Egreso 2027-II (Indispensable)",
+                       "• Experiencia previa- tener conocimiento en analisis contable - tributario de registro de comprobantes de pago (no excluyente)",
+                       "• Excel nivel intermedio (tablas dinámicas, filtros avanzados) – (Indispensable)",
+                       "• Power Apps/ Power Automate (Deseable). • Análisis de data en SQL (Deseable)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-contabilidad-banco-de-credito-del-peru-1118475870.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-contabilidad-banco-de-credito-del-peru-1118475870.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f50e; ¿A quién buscamos? \u003cbr /\u003e\u003cbr /\u003e• Practicante Pre Profesional para Gerencia de Contabilidad con interés de asegurar el correcto y oportuno registro contable de los comprobantes de pago del Banco y de las comisiones de los Agentes BCP. Además de asegurar el control, análisis y revisión permanente de las cuentas a cargo del equipo, garantizando la integridad y confiabilidad de la información financiera. \u003cbr /\u003e\u003cbr /\u003e\u0026#x261d; Requisitos: \u003cbr /\u003e\u003cbr /\u003e• Estudiantes de 8vo ciclo de la carrera Contabilidad. \u003cbr /\u003e• Fecha mínima de Egreso 2027-II (Indispensable).\u003cbr /\u003e• Experiencia previa- tener conocimiento en analisis contable - tributario de registro de comprobantes de pago (no excluyente). \u003cbr /\u003e• Excel nivel intermedio (tablas dinámicas, filtros avanzados) – (Indispensable). \u003cbr /\u003e• Power Apps/ Power Automate (Deseable). • Análisis de data en SQL (Deseable).\u003c/p\u003e",
+    "area":  "Contabilidad",
+    "jornada":  "Full-time",
+    "nivel":  "Trainee / Pasante",
+    "vacantes":  "2",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

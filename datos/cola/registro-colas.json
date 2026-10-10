@@ -332,6 +332,15 @@
                                                                                         "intentos":  0,
                                                                                         "cola":  "NUEVA"
                                                                                     },
+    "bj-administrador-a-de-servicios-y-repuestos-temporal-en-callao-i-567f-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "E9DDBC2662963A8A2842BFA35A0EA85ED443C5BF7459697C30795BD22D4A6950",
+                                                                                               "titulo":  "Administrador/A De Servicios Y Repuestos - Temporal",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/administradora-de-servicios-y-repuestos.html",
+                                                                                               "fecha":  "2026-10-10T22:34:02.8920759+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
     "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",
@@ -1267,6 +1276,16 @@
                                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/apci-3-analistas.html",
                                                                                                "fecha":  "2026-10-07T20:40:51.2630567+00:00",
                                                                                                "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oferta-de-empleo-autoridad-nacional-infraestructura-busca-expert-0eaf-entrada.html":  {
+                                                                                               "estado":  "ERROR",
+                                                                                               "hash":  "8CE8E03BBCA66B343F32513A8502B5A10D61C06F46CC67867EAFB45DBDDE8407",
+                                                                                               "titulo":  "AUTORIDAD NACIONAL DE INFRAESTRUCTURA: Experto legal",
+                                                                                               "url":  "",
+                                                                                               "fecha":  "2026-10-10T22:36:33.9352890+00:00",
+                                                                                               "intentos":  3,
+                                                                                               "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
                                                                                                "cola":  "NUEVA"
                                                                                            },
     "oferta-de-empleo-biblioteca-nacional-bnp-busca-abogado-convocato-c5ba-entrada.html":  {

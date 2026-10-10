@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118475861",
+    "clave":  "id:1118475861",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-contratos-cia-minera-raura-s-a-1118475861.html",
+                   "capturadoEn":  "2026-10-10T22:32:12+00:00"
+               },
+    "titulo":  "Administrador de Contratos",
+    "empresa":  "CIA MINERA RAURA S A",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  999,
+                    "max":  1000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 999 - S/ 1,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Administrador de Contratos Resumen del Puesto Estamos en la búsqueda de un profesional proactivo y detallista para ocupar la posición de Administrador de Contratos . El candidato seleccionado será responsable de la gestión integral de los contratos, asegurando el cumplimiento de los términos y condiciones establecidos, y optimizando las relaciones contractuales. Responsabilidades Supervisar y gestionar el ciclo de vida completo de los contratos. Revisar y analizar la documentación contractual para identificar riesgos y oportunidades. Asegurar el cumplimiento de las cláusulas y obligaciones contractuales por todas las partes. Coordinar con los equipos internos y externos para la negociación y formalización de acuerdos. Mantener un registro actualizado de todos los contratos y sus modificaciones. Proporcionar soporte y asesoramiento en materia contractual a las diferentes áreas. Requisitos Formación universitaria en áreas como Derecho, Administración, Finanzas o carreras afines. Experiencia comprobable en administración y gestión de contratos. Conocimiento sólido de terminología legal y contractual. Capacidad para el análisis crítico y la resolución de problemas. Habilidades de negociación y comunicación efectiva. Organización, atención al detalle y capacidad para trabajar bajo presión. Autonomía y proactividad en la gestión de tareas.",
+    "requisitos":  [
+                       "Formación universitaria en áreas como Derecho, Administración, Finanzas o carreras afines",
+                       "Experiencia comprobable en administración y gestión de contratos",
+                       "Conocimiento sólido de terminología legal y contractual",
+                       "Capacidad para el análisis crítico y la resolución de problemas",
+                       "Habilidades de negociación y comunicación efectiva",
+                       "Organización, atención al detalle y capacidad para trabajar bajo presión",
+                       "Autonomía y proactividad en la gestión de tareas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/administrador-de-contratos-cia-minera-raura-s-a-1118475861.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-contratos-cia-minera-raura-s-a-1118475861.html",
+    "descripcion_html":  "\u003cb\u003eAdministrador de Contratos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional proactivo y detallista para ocupar la posición de \u003cb\u003eAdministrador de Contratos\u003c/b\u003e. El candidato seleccionado será responsable de la gestión integral de los contratos, asegurando el cumplimiento de los términos y condiciones establecidos, y optimizando las relaciones contractuales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y gestionar el ciclo de vida completo de los contratos.\u003c/li\u003e \u003cli\u003eRevisar y analizar la documentación contractual para identificar riesgos y oportunidades.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las cláusulas y obligaciones contractuales por todas las partes.\u003c/li\u003e \u003cli\u003eCoordinar con los equipos internos y externos para la negociación y formalización de acuerdos.\u003c/li\u003e \u003cli\u003eMantener un registro actualizado de todos los contratos y sus modificaciones.\u003c/li\u003e \u003cli\u003eProporcionar soporte y asesoramiento en materia contractual a las diferentes áreas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación universitaria en áreas como Derecho, Administración, Finanzas o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en administración y gestión de contratos.\u003c/li\u003e \u003cli\u003eConocimiento sólido de terminología legal y contractual.\u003c/li\u003e \u003cli\u003eCapacidad para el análisis crítico y la resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidades de negociación y comunicación efectiva.\u003c/li\u003e \u003cli\u003eOrganización, atención al detalle y capacidad para trabajar bajo presión.\u003c/li\u003e \u003cli\u003eAutonomía y proactividad en la gestión de tareas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Administración",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

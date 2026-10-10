@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118475845",
+    "clave":  "id:1118475845",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-amaras-restaurante-1118475845.html",
+                   "capturadoEn":  "2026-10-10T22:32:23+00:00"
+               },
+    "titulo":  "Ayudante de Cocina",
+    "empresa":  "Amarás Restaurante",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1000,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina Resumen del Puesto Buscamos un Ayudante de Cocina con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una sólida comprensión de las técnicas culinarias básicas y será capaz de trabajar de forma eficiente en un entorno de cocina dinámico. Responsabilidades Apoyar en la preparación de diversos platillos, incluyendo menús diarios, parrillas y platos a la carta. Realizar la preparación de ingredientes, guarniciones y salsas. Colaborar en el emplatado de los alimentos. Organizar y mantener el orden de los insumos y el área de trabajo. Asegurar la limpieza y el cumplimiento de las normativas de higiene en la cocina. Requisitos Experiencia previa en puestos de cocina. Conocimiento de técnicas culinarias básicas. Capacidad para trabajar en equipo y seguir instrucciones. Responsabilidad, puntualidad e iniciativa. Disponibilidad para trabajar en diferentes turnos.",
+    "requisitos":  [
+                       "Experiencia previa en puestos de cocina",
+                       "Conocimiento de técnicas culinarias básicas",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Responsabilidad, puntualidad e iniciativa",
+                       "Disponibilidad para trabajar en diferentes turnos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-amaras-restaurante-1118475845.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-amaras-restaurante-1118475845.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAyudante de Cocina\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una sólida comprensión de las técnicas culinarias básicas y será capaz de trabajar de forma eficiente en un entorno de cocina dinámico.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la preparación de diversos platillos, incluyendo menús diarios, parrillas y platos a la carta.\u003c/li\u003e \u003cli\u003eRealizar la preparación de ingredientes, guarniciones y salsas.\u003c/li\u003e \u003cli\u003eColaborar en el emplatado de los alimentos.\u003c/li\u003e \u003cli\u003eOrganizar y mantener el orden de los insumos y el área de trabajo.\u003c/li\u003e \u003cli\u003eAsegurar la limpieza y el cumplimiento de las normativas de higiene en la cocina.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de cocina.\u003c/li\u003e \u003cli\u003eConocimiento de técnicas culinarias básicas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad e iniciativa.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en diferentes turnos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Gastronomia",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

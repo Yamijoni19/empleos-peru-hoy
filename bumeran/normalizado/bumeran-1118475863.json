@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118475863",
+    "clave":  "id:1118475863",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-legal-cia-minera-raura-s-a-1118475863.html",
+                   "capturadoEn":  "2026-10-10T22:32:09+00:00"
+               },
+    "titulo":  "Asesor Legal",
+    "empresa":  "CIA MINERA RAURA S A",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  100,
+                    "max":  100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.100",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Asesor Legal Resumen del Puesto Estamos en la búsqueda de un profesional del derecho para desempeñarse como Asesor Legal . El candidato ideal poseerá un sólido conocimiento del marco normativo y la capacidad de brindar asesoramiento jurídico experto en diversas áreas. Se valorará la proactividad y la habilidad para la resolución de conflictos. Responsabilidades Proporcionar asesoramiento legal en materias diversas. Revisar y elaborar contratos y otros documentos legales. Investigar y analizar legislación y jurisprudencia relevante. Colaborar con diferentes áreas para asegurar el cumplimiento normativo. Mantenerse actualizado sobre las modificaciones legales y su impacto. Requisitos Título universitario en Derecho o carrera afín. Experiencia previa en funciones de asesoramiento legal (se considerará experiencia previa o se brindará formación). Conocimiento de la normativa aplicable. Capacidad de análisis, síntesis y argumentación. Habilidades de comunicación y negociación. Autonomía y capacidad para la toma de decisiones.",
+    "requisitos":  [
+                       "Título universitario en Derecho o carrera afín",
+                       "Experiencia previa en"
+                   ],
+    "funciones":  [
+                      "de asesoramiento legal (se considerará experiencia previa o se brindará formación)",
+                      "Conocimiento de la normativa aplicable",
+                      "Capacidad de análisis, síntesis y argumentación",
+                      "Habilidades de comunicación y negociación",
+                      "Autonomía y capacidad para la toma de decisiones"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-legal-cia-minera-raura-s-a-1118475863.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-legal-cia-minera-raura-s-a-1118475863.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Legal\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional del derecho para desempeñarse como \u003cb\u003eAsesor Legal\u003c/b\u003e. El candidato ideal poseerá un sólido conocimiento del marco normativo y la capacidad de brindar asesoramiento jurídico experto en diversas áreas. Se valorará la proactividad y la habilidad para la resolución de conflictos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eProporcionar asesoramiento legal en materias diversas.\u003c/li\u003e \u003cli\u003eRevisar y elaborar contratos y otros documentos legales.\u003c/li\u003e \u003cli\u003eInvestigar y analizar legislación y jurisprudencia relevante.\u003c/li\u003e \u003cli\u003eColaborar con diferentes áreas para asegurar el cumplimiento normativo.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las modificaciones legales y su impacto.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Derecho o carrera afín.\u003c/li\u003e \u003cli\u003eExperiencia previa en funciones de asesoramiento legal (se considerará experiencia previa o se brindará formación).\u003c/li\u003e \u003cli\u003eConocimiento de la normativa aplicable.\u003c/li\u003e \u003cli\u003eCapacidad de análisis, síntesis y argumentación.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y negociación.\u003c/li\u003e \u003cli\u003eAutonomía y capacidad para la toma de decisiones.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Legal",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
