@@ -25,7 +25,7 @@
     "nota": "Los 4.114 historicos del baseline quedan bloqueados. Solo se habilitan con permitirBackfill=true/activado=true Y ademas -Backfill en publicar-blogger.ps1."
   },
   "cooldown429": {
-    "minutos": 240,
+    "minutos": 45,
     "nota": "Tras un 429 se registra fecha/hora+error en datos/cola/registro-429.txt, se corta la corrida sin reintentos, se conserva la cola y NO se vuelve a intentar hasta cumplir este cooldown."
   },
   "scheduler": {
