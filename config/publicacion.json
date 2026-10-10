@@ -1,4 +1,4 @@
-﻿{
+{
   "comentario": "CONFIGURACION UNICA del flujo BUMERAN (privado) + convocatoriasdetrabajo.com (estado). Todo se cambia AQUI, sin tocar codigo.",
   "modo": "nube",
   "modoNota": "local = ejecuta la PC (.cmd / tareas programadas). nube = ejecuta GitHub Actions y los .cmd locales se saltan (evita dos pipelines contra el mismo Blogger).",
@@ -39,10 +39,10 @@
   "anomalia": {
     "activa": true,
     "topeAbsoluto": 100,
-    "maxTitulosRepetidos": 15,
+    "maxTitulosRepetidos": 20,
     "factorSobreMedia": 3.0,
     "ventanaDias": 7,
-    "nota": "Controla COMPORTAMIENTO ANOMALO (tope, titulos repetidos, factor x la media de la ventana), no el crecimiento normal: maxTitulosRepetidos subido a 15 porque el CAS-005-2026 de la Universidad Diego Quispe Tito genera 8 sedes con el mismo titulo (ofertas reales, no fuga); factorSobreMedia se ignora porque la llave plana factorAnomalia de la raiz manda."
+    "nota": "Controla COMPORTAMIENTO ANOMALO (tope, titulos repetidos, factor x la media de la ventana), no el crecimiento normal: maxTitulosRepetidos subido a 20: CAS-005-2026 (Diego Quispe) genera 8 sedes legitimas y CAS N 004-2026 Enfermero 15 vacantes regionales; 24 teletrabajo-encuestas duplicadas de BuscoJobs se rechazaron el 09/10. Motivo original: el CAS-005-2026 de la Universidad Diego Quispe Tito genera 8 sedes con el mismo titulo (ofertas reales, no fuga); factorSobreMedia se ignora porque la llave plana factorAnomalia de la raiz manda."
   },
   "correcciones": {
     "activadas": true,
