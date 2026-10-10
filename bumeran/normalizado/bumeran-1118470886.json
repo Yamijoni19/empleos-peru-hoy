@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118470886",
+    "clave":  "id:1118470886",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-y-logistica-ashkiwasi-1118470886.html",
+                   "capturadoEn":  "2026-10-09T19:22:30-05:00"
+               },
+    "titulo":  "Atención al Cliente y Logística",
+    "empresa":  "Ashkiwasi",
+    "ubicacion":  "Lima - Ate Vitarte",
+    "ciudad":  "Ate Vitarte",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.400 - S/ 1.600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Atención al Cliente y Logística Resumen del Puesto Buscamos incorporar a nuestro equipo personas proactivas y con vocación de servicio para el área de Atención al Cliente y Logística . El rol implica la gestión de consultas y la coordinación de procesos logísticos, asegurando la satisfacción del cliente y la eficiencia operativa. Horario: Rotativo con un día de descanso en la semana Lugar de trabajo: Presencial sede en Ate (a 5 minutos de la DIROES) Requisitos: 1.⁠ ⁠Con experiencia en atención al cliente y/o ventas mínimo de 6 meses. 2.⁠ ⁠Vivir en el distrito de ATE o aledaños.",
+    "requisitos":  [
+                       "1.⁠ ⁠Con experiencia en atención al cliente y/o ventas mínimo de 6 meses",
+                       "2.⁠ ⁠Vivir en el distrito de ATE o aledaños"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-y-logistica-ashkiwasi-1118470886.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-y-logistica-ashkiwasi-1118470886.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAtención al Cliente y Logística\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos incorporar a nuestro equipo personas proactivas y con vocación de servicio para el área de \u003cstrong\u003eAtención al Cliente y Logística\u003c/strong\u003e. El rol implica la gestión de consultas y la coordinación de procesos logísticos, asegurando la satisfacción del cliente y la eficiencia operativa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHorario:\u003c/strong\u003e Rotativo con un día de descanso en la semana \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Presencial sede en Ate (a \u0026#x35; minutos de la DIROES) \u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e \u0026#x31;.⁠ ⁠Con experiencia en atención al cliente y/o ventas mínimo de \u0026#x36; meses. \u003c/p\u003e\u003cp\u003e \u0026#x32;.⁠ ⁠Vivir en el distrito de ATE o aledaños.\u003c/p\u003e",
+    "area":  "Atención al Cliente",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "Rotativo con un día de descanso en la semana",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

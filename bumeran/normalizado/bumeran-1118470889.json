@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118470889",
+    "clave":  "id:1118470889",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-copelec-1118470889.html",
+                   "capturadoEn":  "2026-10-09T19:22:26-05:00"
+               },
+    "titulo":  "Técnico Electricista",
+    "empresa":  "COPELEC",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Técnico Electricista Resumen del Puesto Buscamos un Técnico Electricista responsable y comprometido, con experiencia comprobada, para incorporarse a nuestro equipo de trabajo. El candidato ideal poseerá sólidos conocimientos técnicos y habilidades prácticas en el área eléctrica. Responsabilidades Realizar trabajos eléctricos generales. Instalar y armar tableros eléctricos. Ejecutar instalaciones eléctricas en diversos entornos (residenciales, comerciales, industriales). Llevar a cabo mantenimiento preventivo y correctivo de sistemas eléctricos. Diagnosticar y solucionar fallas eléctricas. Interpretar planos y diagramas eléctricos. Manejar instrumentos de medición y herramientas eléctricas de forma segura y eficiente. Aplicar conocimientos de sistemas de puesta a tierra y protecciones eléctricas. Cumplir con las normas de seguridad eléctrica vigentes. Requisitos y Competencias Título técnico de electricista o formación equivalente. Experiencia demostrable en trabajos eléctricos. Capacidad para trabajar en equipo. Proactividad e iniciativa. Responsabilidad y puntualidad. Orden y disciplina en el desempeño de las tareas. Habilidad para la resolución de problemas.",
+    "requisitos":  [
+                       "y Competencias",
+                       "Título técnico de electricista o formación equivalente",
+                       "Experiencia demostrable en trabajos eléctricos",
+                       "Capacidad para trabajar en equipo",
+                       "Proactividad e iniciativa",
+                       "Responsabilidad y puntualidad",
+                       "Orden y disciplina en el desempeño de las tareas",
+                       "Habilidad para la resolución de problemas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-copelec-1118470889.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-copelec-1118470889.html",
+    "descripcion_html":  "\u003cb\u003eTécnico Electricista\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico Electricista\u003c/b\u003e responsable y comprometido, con experiencia comprobada, para incorporarse a nuestro equipo de trabajo. El candidato ideal poseerá sólidos conocimientos técnicos y habilidades prácticas en el área eléctrica.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar trabajos eléctricos generales.\u003c/li\u003e \u003cli\u003eInstalar y armar tableros eléctricos.\u003c/li\u003e \u003cli\u003eEjecutar instalaciones eléctricas en diversos entornos (residenciales, comerciales, industriales).\u003c/li\u003e \u003cli\u003eLlevar a cabo mantenimiento preventivo y correctivo de sistemas eléctricos.\u003c/li\u003e \u003cli\u003eDiagnosticar y solucionar fallas eléctricas.\u003c/li\u003e \u003cli\u003eInterpretar planos y diagramas eléctricos.\u003c/li\u003e \u003cli\u003eManejar instrumentos de medición y herramientas eléctricas de forma segura y eficiente.\u003c/li\u003e \u003cli\u003eAplicar conocimientos de sistemas de puesta a tierra y protecciones eléctricas.\u003c/li\u003e \u003cli\u003eCumplir con las normas de seguridad eléctrica vigentes.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos y Competencias\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo técnico de electricista o formación equivalente.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en trabajos eléctricos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eProactividad e iniciativa.\u003c/li\u003e \u003cli\u003eResponsabilidad y puntualidad.\u003c/li\u003e \u003cli\u003eOrden y disciplina en el desempeño de las tareas.\u003c/li\u003e \u003cli\u003eHabilidad para la resolución de problemas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Mantenimiento",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

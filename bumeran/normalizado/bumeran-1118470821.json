@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118470821",
+    "clave":  "id:1118470821",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/anfitriona-de-eventos-y-entretenimiento-latin-glow-agency-1118470821.html",
+                   "capturadoEn":  "2026-10-09T19:22:52-05:00"
+               },
+    "titulo":  "Anfitriona de Eventos y Entretenimiento",
+    "empresa":  "Latin Glow Agency",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.700 - S/ 1.800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Descripción del puesto: Estamos en búsqueda de anfitrionas con experiencia comprobada en discotecas, bares, lounges o establecimientos de entretenimiento nocturno para formar parte de nuestro equipo. Requisitos Secundaria completa. Excelente comunicación verbal. Desenvolvimiento frente a cámaras. Conocimiento y manejo de redes sociales. Creatividad y proactividad. Capacidad de adaptación. Responsabilidad y compromiso. Condiciones Jornada: Lunes a sábado. Horario: 1: 0 0 p. m. a 9: 0 0 p. m. Remuneración: S/ 1, 8 0 0 mensuales. Lugar de trabajo: San Isidro, Lima. Modalidad: Presencial.",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Excelente comunicación verbal",
+                       "Desenvolvimiento frente a cámaras",
+                       "Conocimiento y manejo de redes sociales",
+                       "Creatividad y proactividad",
+                       "Capacidad de adaptación",
+                       "Responsabilidad y compromiso"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/anfitriona-de-eventos-y-entretenimiento-latin-glow-agency-1118470821.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/anfitriona-de-eventos-y-entretenimiento-latin-glow-agency-1118470821.html",
+    "descripcion_html":  "\u003cp\u003eDescripción del puesto:\u003c/p\u003e\u003cp\u003eEstamos en búsqueda de anfitrionas con experiencia comprobada en discotecas, bares, lounges o establecimientos de entretenimiento nocturno para formar parte de nuestro equipo.\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eExcelente comunicación verbal.\u003c/li\u003e \u003cli\u003eDesenvolvimiento frente a cámaras.\u003c/li\u003e \u003cli\u003eConocimiento y manejo de redes sociales.\u003c/li\u003e \u003cli\u003eCreatividad y proactividad.\u003c/li\u003e \u003cli\u003eCapacidad de adaptación.\u003c/li\u003e \u003cli\u003eResponsabilidad y compromiso.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCondiciones\u003c/p\u003e\u003cul\u003e \u003cli\u003eJornada: Lunes a sábado.\u003c/li\u003e \u003cli\u003eHorario: \u0026#x31;: \u0026#x30; \u0026#x30; p. m. a \u0026#x39;: \u0026#x30; \u0026#x30; p. m.\u003c/li\u003e \u003cli\u003eRemuneración: S/ \u0026#x31;, \u0026#x38; \u0026#x30; \u0026#x30; mensuales.\u003c/li\u003e \u003cli\u003eLugar de trabajo: San Isidro, Lima.\u003c/li\u003e \u003cli\u003eModalidad: Presencial.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Promotoras/es",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "1: 0 0 p. m. a 9: 0 0 p. m.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

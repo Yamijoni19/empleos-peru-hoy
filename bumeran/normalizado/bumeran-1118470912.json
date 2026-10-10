@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118470912",
+    "clave":  "id:1118470912",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-grupo-alberca-asociados-1118470912.html",
+                   "capturadoEn":  "2026-10-09T19:22:18-05:00"
+               },
+    "titulo":  "Practicante Administrativo",
+    "empresa":  "GRUPO ALBERCA \u0026 ASOCIADOS",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1.230 - S/ 1.500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Administrativo -Surco OFERTA LABORAL PRACTICANTE ADMINISTRATIVO, Empresa dedicada a la vigilancia, nos encontramos en la búsqueda de un(a) Practicante Administrativo(a) proactivo(a), organizado(a) y con deseos de aprendizaje continuo, y con deseos de superación, fácil de integrarse al equipo y contribuir al desarrollo eficiente de los procesos administrativos. Funciones principales Realizar informes Realizar Cobranzas Emitir factura \u0026#x1f393; Requisitos Estudiante de últimos ciclos o egresado(a) de Administración, Ingeniería Industrial, Contabilidad o carreras afines. Manejo de herramientas ofimáticas a nivel intermedio. Capacidad de organización, atención al detalle y manejo de información confidencial. Habilidades de comunicación y trabajo en equipo. Beneficio Convenio de Prácticas Presencial de Lunes a viernes",
+    "requisitos":  [
+                       "Estudiante de últimos ciclos o egresado(a) de Administración, Ingeniería Industrial, Contabilidad o carreras afines",
+                       "Manejo de herramientas ofimáticas a nivel intermedio. Capacidad de organización, atención al detalle y manejo de información confidencial. Habilidades de comunicación y trabajo en equipo",
+                       "Beneficio",
+                       "Convenio de Prácticas",
+                       "Presencial de Lunes a viernes"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Realizar informes",
+                      "Realizar Cobranzas",
+                      "Emitir factura",
+                      "\u0026#x1f393"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-grupo-alberca-asociados-1118470912.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-grupo-alberca-asociados-1118470912.html",
+    "descripcion_html":  "\u003cp\u003ePracticante Administrativo -Surco\u003c/p\u003e\u003cp\u003eOFERTA LABORAL PRACTICANTE ADMINISTRATIVO, Empresa dedicada a la vigilancia, nos encontramos en la búsqueda de un(a) Practicante Administrativo(a) proactivo(a), organizado(a) y con deseos de aprendizaje continuo, y con deseos de superación, fácil de integrarse al equipo y contribuir al desarrollo eficiente de los procesos administrativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar informes\u003c/li\u003e \u003cli\u003eRealizar Cobranzas\u003c/li\u003e \u003cli\u003eEmitir factura\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e \u0026#x1f393; Requisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante de últimos ciclos o egresado(a) de Administración, Ingeniería Industrial, Contabilidad o carreras afines.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas a nivel intermedio. Capacidad de organización, atención al detalle y manejo de información confidencial. Habilidades de comunicación y trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficio\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eConvenio de Prácticas\u003c/p\u003e\u003cp\u003ePresencial de Lunes a viernes\u003c/p\u003e",
+    "area":  "Administración",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

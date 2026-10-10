@@ -212,8 +212,11 @@ foreach ($f in $archivos) {
     $prev = $null
     if ($prevPorArchivo.ContainsKey($f.Name)) { $prev = $prevPorArchivo[$f.Name] }
 
+    # Una entrada ya promovida a NUEVA (regenerada con promover-historicas.ps1)
+    # no vuelve a HISTORICA aunque su archivo este en el baseline congelado.
+    $promovida = ($null -ne $prev -and [string]$prev.estadoPublicacion -eq 'NUEVA')
     $estado = 'NUEVA'
-    if ($historico.Contains($f.Name)) { $estado = 'HISTORICA' }
+    if ($historico.Contains($f.Name) -and -not $promovida) { $estado = 'HISTORICA' }
     elseif ($fCie -ne '' -and $fCie -ne 'No especificado') {
         $d = $null
         foreach ($fmt in @('yyyy-MM-dd', 'dd/MM/yyyy', 'd/M/yyyy', 'dd-MM-yyyy')) {

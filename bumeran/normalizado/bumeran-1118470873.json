@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118470873",
+    "clave":  "id:1118470873",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-gestion-de-contenido-digital-paracas-entertainment-filming-1118470873.html",
+                   "capturadoEn":  "2026-10-09T19:22:42-05:00"
+               },
+    "titulo":  "Asistente de Gestión de Contenido Digital",
+    "empresa":  "Paracas Entertainment Filming",
+    "ubicacion":  "Ica - Pisco",
+    "ciudad":  "Pisco",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  600,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 600 - S/ 1.200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de YouTube ¿Eres organizado/a y te gusta YouTube? Busco a alguien que mantenga activos mis canales cada noche. Tus tareas principales: Revisar, subir y programar videos (mínimo 1 4 días por adelantado). Completar títulos, descripciones y etiquetas. Crear Shorts/Reels y lotes de videos con herramientas de IA. Enviar un resumen semanal de lo programado. Recibes los videos ya editados y guías paso a paso; no necesitas experiencia previa en edición. Ofrecemos: S/ 6 0 0 al mes fijo, PART TIME, de 6: 0 0 a 1 1: 0 0 Requisitos: disponibilidad en ese horario, y muchas ganas de aprender una habilidad nueva. Si eres responsable y quieres aprender cómo funcionan los canales de YouTube por dentro, postula.",
+    "requisitos":  [
+                       "disponibilidad en ese horario, y muchas ganas de aprender una habilidad nueva",
+                       "Si eres responsable y quieres aprender cómo funcionan los canales de YouTube por dentro, postula"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-gestion-de-contenido-digital-paracas-entertainment-filming-1118470873.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-gestion-de-contenido-digital-paracas-entertainment-filming-1118470873.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente de YouTube\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e¿Eres organizado/a y te gusta YouTube? Busco a alguien que mantenga activos mis canales cada noche. \u003c/p\u003e\u003cp\u003eTus tareas principales:\u003c/p\u003e\u003col\u003e \u003cli\u003eRevisar, subir y programar videos (mínimo \u0026#x31; \u0026#x34; días por adelantado).\u003c/li\u003e \u003cli\u003eCompletar títulos, descripciones y etiquetas.\u003c/li\u003e \u003cli\u003eCrear Shorts/Reels y lotes de videos con herramientas de IA.\u003c/li\u003e \u003cli\u003eEnviar un resumen semanal de lo programado.\u003c/li\u003e\u003c/ol\u003e\u003cp\u003eRecibes los videos ya editados y guías paso a paso; no necesitas experiencia previa en edición. \u003c/p\u003e\u003cp\u003eOfrecemos: S/ \u0026#x36; \u0026#x30; \u0026#x30; al mes fijo, PART TIME, de \u0026#x36;: \u0026#x30; \u0026#x30; \u003cdiv style=\"display:inline-block;\"\u003e\u003cimg width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"\u003e\u003c/div\u003e a \u0026#x31; \u0026#x31;: \u0026#x30; \u0026#x30; \u003cdiv style=\"display:inline-block;\"\u003e\u003cimg width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"\u003e\u003c/div\u003e Requisitos: disponibilidad en ese horario, y muchas ganas de aprender una habilidad nueva.\u003c/p\u003e\u003cp\u003eSi eres responsable y quieres aprender cómo funcionan los canales de YouTube por dentro, postula.\u003c/p\u003e",
+    "area":  "Community Management",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
