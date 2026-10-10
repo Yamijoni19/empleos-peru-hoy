@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118474314",
+    "clave":  "id:1118474314",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-slamm-design-1118474314.html",
+                   "capturadoEn":  "2026-10-10T01:41:27+00:00"
+               },
+    "titulo":  "Asistente Administrativa",
+    "empresa":  "Slamm Design",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativa Resumen del Puesto Buscamos una Asistente Administrativa proactiva y organizada para dar soporte a las operaciones de una oficina de arquitectura y la administración de un espacio de coworking. El candidato ideal poseerá sólidas habilidades de gestión, excelente trato con el cliente y conocimientos en administración y contabilidad. Responsabilidades Gestionar la administración general de la oficina y el coworking. Atender y dar soporte a clientes y usuarios del espacio. Manejar presupuestos y realizar seguimiento de gastos. Procesar pagos a proveedores y gestionar trámites administrativos (tributarios, etc.). Mantener registros financieros y contables actualizados. Utilizar herramientas de ofimática, especialmente Excel, de manera avanzada. Colaborar con diferentes áreas para asegurar la eficiencia operativa. Requisitos Formación en Administración, Negocios o Contabilidad. Experiencia previa en puestos administrativos. Conocimientos sólidos en manejo de presupuestos y administración financiera. Dominio de herramientas de ofimática, con énfasis en Excel. Habilidades de organización, proactividad y atención al detalle. Capacidad para interactuar eficazmente con clientes y proveedores. Conocimientos básicos de contabilidad.",
+    "requisitos":  [
+                       "Formación en Administración, Negocios o Contabilidad",
+                       "Experiencia previa en puestos administrativos",
+                       "Conocimientos sólidos en manejo de presupuestos y administración financiera",
+                       "Dominio de herramientas de ofimática, con énfasis en Excel",
+                       "Habilidades de organización, proactividad y atención al detalle",
+                       "Capacidad para interactuar eficazmente con clientes y proveedores",
+                       "Conocimientos básicos de contabilidad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-slamm-design-1118474314.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-slamm-design-1118474314.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Administrativa\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eAsistente Administrativa\u003c/b\u003e proactiva y organizada para dar soporte a las operaciones de una oficina de arquitectura y la administración de un espacio de coworking. El candidato ideal poseerá sólidas habilidades de gestión, excelente trato con el cliente y conocimientos en administración y contabilidad.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar la administración general de la oficina y el coworking.\u003c/li\u003e \u003cli\u003eAtender y dar soporte a clientes y usuarios del espacio.\u003c/li\u003e \u003cli\u003eManejar presupuestos y realizar seguimiento de gastos.\u003c/li\u003e \u003cli\u003eProcesar pagos a proveedores y gestionar trámites administrativos (tributarios, etc.).\u003c/li\u003e \u003cli\u003eMantener registros financieros y contables actualizados.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de ofimática, especialmente Excel, de manera avanzada.\u003c/li\u003e \u003cli\u003eColaborar con diferentes áreas para asegurar la eficiencia operativa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Administración, Negocios o Contabilidad.\u003c/li\u003e \u003cli\u003eExperiencia previa en puestos administrativos.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en manejo de presupuestos y administración financiera.\u003c/li\u003e \u003cli\u003eDominio de herramientas de ofimática, con énfasis en Excel.\u003c/li\u003e \u003cli\u003eHabilidades de organización, proactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para interactuar eficazmente con clientes y proveedores.\u003c/li\u003e \u003cli\u003eConocimientos básicos de contabilidad.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Administración",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -4517,3 +4517,15 @@
     ],
     "status": "RESOURCE_EXH
 2026-10-09 20:17 | Opportunities: Checker (Summer Works Period) (23 Weeks) (Porter'S Lake) | https://empleosperuhoy.blogspot.com/2026/10/opportunities-checker-summer-works.html | bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html
+2026-10-10 01:43 | ERROR | bj-100-agentes-de-seguridad-callao-en-callao-id-13202930-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

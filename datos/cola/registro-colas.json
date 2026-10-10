@@ -1,4 +1,14 @@
 {
+    "bj-100-agentes-de-seguridad-callao-en-callao-id-13202930-entrada.html":  {
+                                                                                  "estado":  "ERROR",
+                                                                                  "hash":  "8C79B929F98B638E7B18197873B7829C75BD95A015AD81E89B2A43F28AEEEF0B",
+                                                                                  "titulo":  "100 Agentes De Seguridad Callao",
+                                                                                  "url":  "",
+                                                                                  "fecha":  "2026-10-10T01:43:13.6504569+00:00",
+                                                                                  "intentos":  1,
+                                                                                  "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                  "cola":  "NUEVA"
+                                                                              },
     "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",

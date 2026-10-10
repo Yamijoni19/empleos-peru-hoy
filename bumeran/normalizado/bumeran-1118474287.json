@@ -1,0 +1,85 @@
+{
+    "id":  "bumeran-1118474287",
+    "clave":  "id:1118474287",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-asignacion-de-personal-ey-ernst-young-1118474287.html",
+                   "capturadoEn":  "2026-10-10T01:41:38+00:00"
+               },
+    "titulo":  "Técnico de Asignación de Personal",
+    "empresa":  "EY (Ernst \u0026 Young)",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Requisitos: Egresado técnico de las carreras de Administración, Ing. Industrial, Economía o afines. Deseable contar con experiencia en manejo de base de datos. Contar como mínimo con un 01 año de experiencia pre-profesional o profesional en áreas de administración. MS Office a nivel Avanzado (tablas dinámicas, fórmulas). Deseable manejo de Power BI a nivel Intermedio. Dominio del Outlook. Inglés a nivel intermedio. Responsabilidades: Control y administración de recursos y asignación de personal. Manejo de indicadores de gestión. Apoyar en la elaboración y análisis de reportes de gestión (vacaciones, descansos médicos, control de horas, etc.) Coordinación con líderes de equipo. Competencias: Responsabilidad / Compromiso Trabajo en equipo Iniciativa / Proactividad Comunicación a todo nivel.",
+    "requisitos":  [
+                       "Egresado técnico de las carreras de Administración, Ing. Industrial, Economía o afines",
+                       "Deseable contar con experiencia en manejo de base de datos",
+                       "Contar como mínimo con un 01 año de experiencia pre-profesional o profesional en áreas de administración",
+                       "MS Office a nivel Avanzado (tablas dinámicas, fórmulas)",
+                       "Deseable manejo de Power BI a nivel Intermedio",
+                       "Dominio del Outlook",
+                       "Inglés a nivel intermedio",
+                       "Responsabilidades",
+                       "Control y administración de recursos y asignación de personal",
+                       "Manejo de indicadores de gestión",
+                       "Apoyar en la elaboración y análisis de reportes de gestión (vacaciones, descansos médicos, control de horas, etc.)",
+                       "Coordinación con líderes de equipo",
+                       "Competencias",
+                       "Responsabilidad / Compromiso",
+                       "Trabajo en equipo",
+                       "Iniciativa / Proactividad",
+                       "Comunicación a todo nivel"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-asignacion-de-personal-ey-ernst-young-1118474287.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-asignacion-de-personal-ey-ernst-young-1118474287.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado técnico de las carreras de Administración, Ing. Industrial, Economía o afines.\u003c/li\u003e \u003cli\u003eDeseable contar con experiencia en manejo de base de datos.\u003c/li\u003e \u003cli\u003eContar como mínimo con un 01 año de experiencia pre-profesional o profesional en áreas de administración.\u003c/li\u003e \u003cli\u003eMS Office a nivel Avanzado (tablas dinámicas, fórmulas).\u003c/li\u003e \u003cli\u003eDeseable manejo de Power BI a nivel Intermedio.\u003c/li\u003e \u003cli\u003eDominio del Outlook.\u003c/li\u003e \u003cli\u003eInglés a nivel intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControl y administración de recursos y asignación de personal.\u003c/li\u003e \u003cli\u003eManejo de indicadores de gestión.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración y análisis de reportes de gestión (vacaciones, descansos médicos, control de horas, etc.)\u003c/li\u003e \u003cli\u003eCoordinación con líderes de equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eResponsabilidad / Compromiso\u003c/li\u003e \u003cli\u003eTrabajo en equipo\u003c/li\u003e \u003cli\u003eIniciativa / Proactividad\u003c/li\u003e \u003cli\u003eComunicación a todo nivel.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Administración",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

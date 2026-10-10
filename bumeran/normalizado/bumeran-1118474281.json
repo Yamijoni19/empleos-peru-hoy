@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118474281",
+    "clave":  "id:1118474281",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/labora-en-tai-loy-auxiliar-de-almacen-sin-experiencia-movilidad-ida-y-vuelta-ingreso-directo-manpowergroup-peru-1118474281.html",
+                   "capturadoEn":  "2026-10-10T01:41:41+00:00"
+               },
+    "titulo":  "Labora en TAI LOY! Auxiliar de Almacén / SIN Experiencia / Movilidad Ida y Vuelta / Ingreso Directo",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "SALARIO: s/1230",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Por encargo de nuestro cliente importante, empresa de rubro infraestructura, nos encontramos en búsqueda de personas para asumir el cargo de: AUXILIAR DE ALMACEN - TAILOY REQUISITOS: - Con o SIN EXPERIENCIA - Disponibilidad para laborar en Villa el Salvador - Secundaria completa (comprobada) - Disponibilidad para trabajar en horarios rotativos. BENEFICIOS: SALARIO: s/1230básico + bonos y MOVILIDAD DE ACERCAMIENTO PAGOS: 50% en 15na - 50% fin de mes con bonos y beneficios HORARIO: DESCANSO DOMINGO FIJON TURNO ROTATIVO: LUNES A SABADO 3 TURNOS LUNES A SABADO 7 AM A 3:15 PM LUNES A SABADO 3 PM A 11:15 PM LUNES A SABADO 11 PM A 7:15 AM “En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad.\"",
+    "requisitos":  [
+                       "Con o SIN EXPERIENCIA",
+                       "Disponibilidad para laborar en Villa el Salvador",
+                       "Secundaria completa (comprobada)",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "HORARIO: DESCANSO DOMINGO FIJON",
+                       "TURNO ROTATIVO: LUNES A SABADO 3 TURNOS",
+                       "LUNES A SABADO 7 AM A 3:15 PM",
+                       "LUNES A SABADO 3 PM A 11:15 PM",
+                       "LUNES A SABADO 11 PM A 7:15 AM",
+                       "“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad.\""
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/labora-en-tai-loy-auxiliar-de-almacen-sin-experiencia-movilidad-ida-y-vuelta-ingreso-directo-manpowergroup-peru-1118474281.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/labora-en-tai-loy-auxiliar-de-almacen-sin-experiencia-movilidad-ida-y-vuelta-ingreso-directo-manpowergroup-peru-1118474281.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente importante, empresa de rubro infraestructura, nos encontramos en búsqueda de personas para asumir el cargo de:\u003c/p\u003e\u003cp\u003eAUXILIAR DE ALMACEN - TAILOY\u003c/p\u003e\u003cp\u003eREQUISITOS:\u003c/p\u003e\u003cp\u003e- Con o SIN EXPERIENCIA\u003c/p\u003e\u003cp\u003e- Disponibilidad para laborar en Villa el Salvador\u003c/p\u003e\u003cp\u003e- Secundaria completa (comprobada)\u003c/p\u003e\u003cp\u003e- Disponibilidad para trabajar en horarios rotativos.\u003c/p\u003e\u003cp\u003eBENEFICIOS:\u003c/p\u003e\u003cp\u003eSALARIO: s/1230básico + bonos y MOVILIDAD DE ACERCAMIENTO\u003c/p\u003e\u003cp\u003ePAGOS: 50% en 15na - 50% fin de mes con bonos y beneficios\u003c/p\u003e\u003cp\u003eHORARIO: DESCANSO DOMINGO FIJON\u003c/p\u003e\u003cp\u003eTURNO ROTATIVO: LUNES A SABADO 3 TURNOS\u003c/p\u003e\u003cp\u003eLUNES A SABADO 7 AM A 3:15 PM\u003c/p\u003e\u003cp\u003eLUNES A SABADO 3 PM A 11:15 PM\u003c/p\u003e\u003cp\u003eLUNES A SABADO 11 PM A 7:15 AM\u003c/p\u003e\u003cp\u003e“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad.\u0026quot;\u003c/p\u003e",
+    "area":  "Almacén / Depósito / Expedición",
+    "jornada":  "Full-time",
+    "nivel":  "Otro",
+    "vacantes":  "30",
+    "turno":  "Rotativo",
+    "horario":  "DESCANSO DOMINGO FIJON",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

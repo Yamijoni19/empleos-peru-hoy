@@ -1,0 +1,1594 @@
+[
+    {
+        "id":  "bumeran-1118474314",
+        "clave":  "id:1118474314",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-slamm-design-1118474314.html",
+                       "capturadoEn":  "2026-10-10T01:41:27+00:00"
+                   },
+        "titulo":  "Asistente Administrativa",
+        "empresa":  "Slamm Design",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2400,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2,000 - S/ 2,400",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Asistente Administrativa Resumen del Puesto Buscamos una Asistente Administrativa proactiva y organizada para dar soporte a las operaciones de una oficina de arquitectura y la administración de un espacio de coworking. El candidato ideal poseerá sólidas habilidades de gestión, excelente trato con el cliente y conocimientos en administración y contabilidad. Responsabilidades Gestionar la administración general de la oficina y el coworking. Atender y dar soporte a clientes y usuarios del espacio. Manejar presupuestos y realizar seguimiento de gastos. Procesar pagos a proveedores y gestionar trámites administrativos (tributarios, etc.). Mantener registros financieros y contables actualizados. Utilizar herramientas de ofimática, especialmente Excel, de manera avanzada. Colaborar con diferentes áreas para asegurar la eficiencia operativa. Requisitos Formación en Administración, Negocios o Contabilidad. Experiencia previa en puestos administrativos. Conocimientos sólidos en manejo de presupuestos y administración financiera. Dominio de herramientas de ofimática, con énfasis en Excel. Habilidades de organización, proactividad y atención al detalle. Capacidad para interactuar eficazmente con clientes y proveedores. Conocimientos básicos de contabilidad.",
+        "requisitos":  [
+                           "Formación en Administración, Negocios o Contabilidad",
+                           "Experiencia previa en puestos administrativos",
+                           "Conocimientos sólidos en manejo de presupuestos y administración financiera",
+                           "Dominio de herramientas de ofimática, con énfasis en Excel",
+                           "Habilidades de organización, proactividad y atención al detalle",
+                           "Capacidad para interactuar eficazmente con clientes y proveedores",
+                           "Conocimientos básicos de contabilidad"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-09",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-slamm-design-1118474314.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-slamm-design-1118474314.html",
+        "descripcion_html":  "\u003cb\u003eAsistente Administrativa\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eAsistente Administrativa\u003c/b\u003e proactiva y organizada para dar soporte a las operaciones de una oficina de arquitectura y la administración de un espacio de coworking. El candidato ideal poseerá sólidas habilidades de gestión, excelente trato con el cliente y conocimientos en administración y contabilidad.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar la administración general de la oficina y el coworking.\u003c/li\u003e \u003cli\u003eAtender y dar soporte a clientes y usuarios del espacio.\u003c/li\u003e \u003cli\u003eManejar presupuestos y realizar seguimiento de gastos.\u003c/li\u003e \u003cli\u003eProcesar pagos a proveedores y gestionar trámites administrativos (tributarios, etc.).\u003c/li\u003e \u003cli\u003eMantener registros financieros y contables actualizados.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de ofimática, especialmente Excel, de manera avanzada.\u003c/li\u003e \u003cli\u003eColaborar con diferentes áreas para asegurar la eficiencia operativa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Administración, Negocios o Contabilidad.\u003c/li\u003e \u003cli\u003eExperiencia previa en puestos administrativos.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en manejo de presupuestos y administración financiera.\u003c/li\u003e \u003cli\u003eDominio de herramientas de ofimática, con énfasis en Excel.\u003c/li\u003e \u003cli\u003eHabilidades de organización, proactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para interactuar eficazmente con clientes y proveedores.\u003c/li\u003e \u003cli\u003eConocimientos básicos de contabilidad.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "Administración",
+        "jornada":  "Full-time",
+        "nivel":  "Semi Sr",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "09/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474311",
+        "clave":  "id:1118474311",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-sucursal-volante-1118474311.html",
+                       "capturadoEn":  "2026-10-10T01:41:29+00:00"
+                   },
+        "titulo":  "Administrador sucursal volante",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Cuzco - Cusco",
+        "ciudad":  "Cusco",
+        "region":  "Cuzco",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro Cliente, nos encontramos en la búsqueda del mejor talento para desempeñar el cargo de Administrador de Sede volante en las ciudades a nivel nacional y que cumpla con el siguiente perfil: ¿Qué buscamos? Egresado en Administración de Empresas, Finanzas, Contabilidad o carreras afines. Experiencia mínima de 02 años como Asistente Administrativo, Administrador o cargos similares. Disponibilidad para laborar de Lunes a Sábado. ¿Cuáles serán tus funciones principales? Planificar, organizar, dirigir y controlar las tareas de toda la Sucursal. Efectuar una adecuada planificación operativa y de monitoreo, con la finalidad de dirigir las acciones de su personal a cargo. Mantener operativo y actualizado el marcador de asistencia. Verificar que el despacho y traslado de los pedidos facturados cuenten con toda la documentación y demás exigencias. Emitir y actualizar la hoja de control de despacho. Solicitar el reembolso al área de Contabilidad y disponer del efectivo de la cobranza que realiza la FF.VV. Mantener activas y en correcto funcionamiento las cámaras de seguridad, alarmas y sensores de la sucursal. Supervisar y validar la realización de los inventarios aleatorios y las labores del personal de almacén. Realizar la salida de transferencia gratuita de material POP, que es entregado a la FF.VV. y en las activaciones. Realizar el buen control y archivo de los documentos de la FF.VV. Emitir las hojas de ruta, cuentas por cobrar, validación de cuentas y otros informes. Otras funciones que solicite el Jefe Inmediato. ¿Qué ofrecemos? Beneficios de Ley desde el primer día de gestión. Pagos quincena y fin de mes. Sueldo acorde al mercado. Beneficios corporativos y convenios educativos. Pertenecer a una empresa Líder en constante crecimiento.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "que solicite el Jefe Inmediato",
+                          "¿Qué"
+                      ],
+        "beneficios":  [
+                           "corporativos y convenios educativos",
+                           "Pertenecer a una empresa Líder en constante crecimiento"
+                       ],
+        "fecha_publicacion":  "2026-10-09",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/administrador-sucursal-volante-1118474311.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-sucursal-volante-1118474311.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro Cliente, nos encontramos en la búsqueda del mejor talento para desempeñar el cargo de \u003cstrong\u003eAdministrador de Sede volante \u003c/strong\u003een las ciudades a nivel nacional \u003cstrong\u003e \u003c/strong\u003ey que cumpla con el siguiente perfil:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado en Administración de Empresas, Finanzas, Contabilidad o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 02 años como Asistente Administrativo, Administrador o cargos similares.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de Lunes a Sábado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus funciones principales?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanificar, organizar, dirigir y controlar las tareas de toda la Sucursal.\u003c/li\u003e \u003cli\u003eEfectuar una adecuada planificación operativa y de monitoreo, con la finalidad de dirigir las acciones de su personal a cargo.\u003c/li\u003e \u003cli\u003eMantener operativo y actualizado el marcador de asistencia.\u003c/li\u003e \u003cli\u003eVerificar que el despacho y traslado de los pedidos facturados cuenten con toda la documentación y demás exigencias.\u003c/li\u003e \u003cli\u003eEmitir y actualizar la hoja de control de despacho.\u003c/li\u003e \u003cli\u003eSolicitar el reembolso al área de Contabilidad y disponer del efectivo de la cobranza que realiza la FF.VV.\u003c/li\u003e \u003cli\u003eMantener activas y en correcto funcionamiento las cámaras de seguridad, alarmas y sensores de la sucursal.\u003c/li\u003e \u003cli\u003eSupervisar y validar la realización de los inventarios aleatorios y las labores del personal de almacén.\u003c/li\u003e \u003cli\u003eRealizar la salida de transferencia gratuita de material POP, que es entregado a la FF.VV. y en las activaciones.\u003c/li\u003e \u003cli\u003eRealizar el buen control y archivo de los documentos de la FF.VV.\u003c/li\u003e \u003cli\u003eEmitir las hojas de ruta, cuentas por cobrar, validación de cuentas y otros informes.\u003c/li\u003e \u003cli\u003eOtras funciones que solicite el Jefe Inmediato.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBeneficios de Ley desde el primer día de gestión.\u003c/li\u003e \u003cli\u003ePagos quincena y fin de mes.\u003c/li\u003e \u003cli\u003eSueldo acorde al mercado.\u003c/li\u003e \u003cli\u003eBeneficios corporativos y convenios educativos.\u003c/li\u003e \u003cli\u003ePertenecer a una empresa Líder en constante crecimiento.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Administración",
+        "jornada":  "Full-time",
+        "nivel":  "Semi Sr",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 02 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "09/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474309",
+        "clave":  "id:1118474309",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitectoa-o-ingenieroa-residente-de-obra--etapa-de-acabados-1118474309.html",
+                       "capturadoEn":  "2026-10-10T01:41:30+00:00"
+                   },
+        "titulo":  "Arquitecto(a) o Ingeniero(a) Residente de Obra – Etapa de Acabados",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Temporal",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Oficina de Arquitectura y Construcción Arquitecto(a) o Ingeniero(a) Residente de Obra – Etapa de Acabados Resumen del Puesto Buscamos un(a) Arquitecto(a) o Ingeniero(a) Civil con experiencia para supervisar y administrar la etapa de acabados de un proyecto de construcción residencial de 500m2 (terreno) en San Isidro Responsabilidades Planificar, dirigir y supervisar la ejecución de los trabajos de acabados. Coordinar y controlar a contratistas, subcontratistas, proveedores y personal de obra. Elaborar, actualizar y realizar seguimiento al cronograma general del proyecto. Integrar el cronograma de acabados con el cronograma vigente de casco, estableciendo secuencias, liberación de frentes, restricciones, hitos, recursos y ruta crítica. Preparar cronogramas semanales, lookahead y planes de recuperación ante desviaciones. Revisar metrados, presupuestos, valorizaciones y avances de los contratistas. Requisitos Título de Arquitecto(a) o Ingeniero(a) Civil. Experiencia comprobada en la supervisión y gestión de obras, específicamente en etapas de acabados. Conocimiento en planificación y control de proyectos de construcción. Capacidad para coordinar equipos y contratistas. Habilidades sólidas en análisis y resolución de problemas. Excelentes habilidades de comunicación y liderazgo.",
+        "requisitos":  [
+                           "Título de Arquitecto(a) o Ingeniero(a) Civil",
+                           "Experiencia comprobada en la supervisión y gestión de obras, específicamente en etapas de acabados",
+                           "Conocimiento en planificación y control de proyectos de construcción",
+                           "Capacidad para coordinar equipos y contratistas",
+                           "Habilidades sólidas en análisis y resolución de problemas",
+                           "Excelentes habilidades de comunicación y liderazgo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-09",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/arquitectoa-o-ingenieroa-residente-de-obra--etapa-de-acabados-1118474309.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitectoa-o-ingenieroa-residente-de-obra--etapa-de-acabados-1118474309.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003eOficina de Arquitectura y Construcción\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eArquitecto(a) o Ingeniero(a) Residente de Obra – Etapa de Acabados\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un(a) \u003cstrong\u003eArquitecto(a) o Ingeniero(a) Civil\u003c/strong\u003e con experiencia para supervisar y administrar la etapa de acabados de un proyecto de construcción residencial de 500m2 (terreno) en San Isidro\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanificar, dirigir y supervisar la ejecución de los trabajos de acabados.\u003c/li\u003e \u003cli\u003eCoordinar y controlar a contratistas, subcontratistas, proveedores y personal de obra.\u003c/li\u003e \u003cli\u003eElaborar, actualizar y realizar seguimiento al cronograma general del proyecto.\u003c/li\u003e \u003cli\u003eIntegrar el cronograma de acabados con el cronograma vigente de casco, estableciendo secuencias, liberación de frentes, restricciones, hitos, recursos y ruta crítica.\u003c/li\u003e \u003cli\u003ePreparar cronogramas semanales, lookahead y planes de recuperación ante desviaciones.\u003c/li\u003e \u003cli\u003eRevisar metrados, presupuestos, valorizaciones y avances de los contratistas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo de Arquitecto(a) o Ingeniero(a) Civil.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en la supervisión y gestión de obras, específicamente en etapas de acabados.\u003c/li\u003e \u003cli\u003eConocimiento en planificación y control de proyectos de construcción.\u003c/li\u003e \u003cli\u003eCapacidad para coordinar equipos y contratistas.\u003c/li\u003e \u003cli\u003eHabilidades sólidas en análisis y resolución de problemas.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y liderazgo.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Arquitectura",
+        "jornada":  "Full-time",
+        "nivel":  "Semi Sr",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "Título de Arquitecto(a) o Ingeniero(a) Civil",
+        "herramientas":  "",
+        "publicado_el":  "09/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474308",
+        "clave":  "id:1118474308",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-costos-ancon-nogasa-s.a.c.-1118474308.html",
+                       "capturadoEn":  "2026-10-10T01:41:31+00:00"
+                   },
+        "titulo":  "ASISTENTE DE COSTOS - ANCON",
+        "empresa":  "NOGASA S.A.C.",
+        "ubicacion":  "Lima - Ancón",
+        "ciudad":  "Ancón",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro cliente, una empresa dedicada a la producción y comercialización de productos Derivados de hidrocarburos con planes de crecimiento en el mercado local e internacional Requiere un Asistente de Costos- Ancón: REQUISITOS : Egresados de la carrera de Administración Industrial, contabilidad y/o carreras a fines Con 1 año de experiencia en el área de costos. Manejo de Excel a nivel intermedio. Vivir en zonas cercanas al distrito de Ancón (Puente Piedra, Zapallal, Santa Rosa, Comas, Los Olivos.) RESPONSABILIDAD: Encargado del control de inventarios físicos y valorizados Determinación de los costos de producción Elaboración de Asientos contables de costos Elaboración de Estados de Costos de Producción Apoyo en las diferentes tareas a los supervisores de costos HABILIDADES - Pro actividad y flexibilidad - Responsable - Empática(o) BENEFICIOS: - Sueldo acorde al mercado - Línea de carrera",
+        "requisitos":  [
+                           "Egresados de la carrera de Administración Industrial, contabilidad y/o carreras a fines",
+                           "Con 1 año de experiencia en el área de costos",
+                           "Manejo de Excel a nivel intermedio",
+                           "Vivir en zonas cercanas al distrito de Ancón (Puente Piedra, Zapallal, Santa Rosa, Comas, Los Olivos.)",
+                           "RESPONSABILIDAD",
+                           "Encargado del control de inventarios físicos y valorizados",
+                           "Determinación de los costos de producción",
+                           "Elaboración de Asientos contables de costos",
+                           "Elaboración de Estados de Costos de Producción",
+                           "Apoyo en las diferentes tareas a los supervisores de costos",
+                           "HABILIDADES",
+                           "Pro actividad y flexibilidad",
+                           "Responsable",
+                           "Empática(o)"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Sueldo acorde al mercado",
+                           "Línea de carrera"
+                       ],
+        "fecha_publicacion":  "2026-10-09",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-costos-ancon-nogasa-s.a.c.-1118474308.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-costos-ancon-nogasa-s.a.c.-1118474308.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, una empresa dedicada a la producción y comercialización de productos\u003c/p\u003e\u003cp\u003eDerivados de hidrocarburos con planes de crecimiento en el mercado local e internacional\u003c/p\u003e\u003cp\u003eRequiere un \u003cem\u003e\u003cstrong\u003eAsistente de Costos- Ancón:\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/u\u003e:\u003c/p\u003e\u003cp\u003eEgresados de la carrera de Administración Industrial, contabilidad y/o carreras a fines\u003c/p\u003e\u003cp\u003eCon 1 año de experiencia en el área de costos.\u003c/p\u003e\u003cp\u003eManejo de Excel a nivel intermedio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVivir en zonas cercanas al distrito de Ancón (Puente Piedra, Zapallal, Santa Rosa, Comas, Los Olivos.)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRESPONSABILIDAD:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEncargado del control de inventarios físicos y valorizados\u003c/li\u003e \u003cli\u003eDeterminación de los costos de producción\u003c/li\u003e \u003cli\u003eElaboración de Asientos contables de costos\u003c/li\u003e \u003cli\u003eElaboración de Estados de Costos de Producción\u003c/li\u003e \u003cli\u003eApoyo en las diferentes tareas a los supervisores de costos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eHABILIDADES\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003e- Pro actividad y flexibilidad\u003c/p\u003e\u003cp\u003e- Responsable\u003c/p\u003e\u003cp\u003e- Empática(o)\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003e- Sueldo acorde al mercado\u003c/p\u003e\u003cp\u003e- Línea de carrera\u003c/p\u003e",
+        "area":  "Contabilidad",
+        "jornada":  "Full-time",
+        "nivel":  "Semi Sr",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "09/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474307",
+        "clave":  "id:1118474307",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-comunicacion-de-marca-|-sanna-salud-sanna-1118474307.html",
+                       "capturadoEn":  "2026-10-10T01:41:32+00:00"
+                   },
+        "titulo":  "Analista de Comunicación de Marca | SANNA Salud",
+        "empresa":  "SANNA",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Sé nuestro(a) próximo(a) Analista de Comunicación de Marca en SANNA Salud ! En SANNA Salud , la red privada de salud líder en el Perú, ofrecemos una experiencia de salud integral, donde la excelencia médica se une con la sensibilidad humana en nuestras clínicas y centros a nivel nacional. Hoy, buscamos talento como tú que quiera ponerle el corazón en todo lo que hacemos con vocación, compromiso y pasión por cuidar. Personas que sueñen con un trabajo que tenga un impacto real y humano, y que quieran ser parte de un propósito : “Cuidar la salud de las familias del Perú, porque la salud no puede esperar.” Si estás listo(a) para marcar la diferencia, crecer profesionalmente y ser parte de una organización que valora a las personas, ¡esta es tu oportunidad! ¿Qué buscamos en nuestro(a) Analista de Comunicación de Marca? Si tu perfil se alinea con lo siguiente, estás un paso más cerca de poder ser parte de esta experiencia: Bachiller o licenciado(a) en Comunicaciones, Comunicación Audiovisual, Marketing, Publicidad o afines. Deseable: cursos o diplomados en branding, marketing digital o gestión de proyectos. De 3 a 4 años en comunicación de marca, contenidos o branding. Experiencia comprobable en gestión de producción audiovisual, preferentemente del lado cliente. Experiencia gestionando agencias, proveedores y presupuestos de producción. Deseable: experiencia en sector salud, seguros o servicios. Procesos de producción audiovisual: guion, casting, locaciones, plan de rodaje, edición y formatos por plataforma. Manejo de redes sociales y métricas orgánicas (Meta Business Suite, TikTok, LinkedIn, YouTube). Manejo de herramientas de diseño (Adobe Photoshop, Illustrator, InDesign o Canva) para adaptar piezas de su propio frente (RRSS, blog, circuito cerrado) y dar feedback técnico a agencias. Deseable . Nociones de edición de video (Premiere, CapCut o similares). Excel intermedio para control presupuestal y reportería. Gestión de proyectos y cronogramas (Asana, Trello, Monday o similares). Tus Desafíos Diarios Incluirán: Custodia de la identidad de marca: Definir y asegurar la consistencia de los mensajes, el tono y la identidad visual de SANNA de manera transversal, validando las piezas de comunicación generadas por otros equipos. Estrategia y ejecución de contenidos: Planificar, coordinar y ejecutar la parrilla de contenidos para redes sociales, el blog corporativo y el circuito cerrado de TV en las sedes, asegurando el cumplimiento de fechas y estándares de calidad. Análisis y optimización: Evaluar el desempeño del contenido publicado e interpretar los reportes de agencias para extraer insights que impulsen oportunidades de mejora continua en la comunicación. Dirección de rodajes: Liderar integralmente la preproducción (briefs, guiones, casting , locaciones) y supervisar las grabaciones en set para garantizar la ejecución creativa y el cumplimiento de los lineamientos de la marca. Supervisión de postproducción: Gestionar la edición, color y sonido, asegurando los requerimientos técnicos por plataforma y el estricto cumplimiento de los derechos de imagen y música. Gestión de activos visuales: Organizar, mantener y administrar el banco de material fotográfico y audiovisual de la empresa. Control presupuestal y administrativo: Administrar el presupuesto de producción corporativo y de producto, gestionando el ciclo completo de proveedores (cotizaciones, órdenes de compra, facturación y pagos) en coordinación con Compras y Finanzas. Gestión de proyectos y alianzas: Controlar los cronogramas de producción, anticipar riesgos operativos y evaluar el desempeño de agencias y proveedores en términos de calidad, tiempos y costos. Reporte operativo: Elaborar informes periódicos de avance, ejecución de gastos y resultados operativos para la toma de decisiones de la jefatura. ¿Qué te ofrecemos en SANNA? En SANNA, valoramos tu bienestar y tu crecimiento profesional. Por eso, te brindamos: Salario competitivo en planilla, con todos los beneficios de ley desde el primer día. Descuento del 50% en tus almuerzos en nuestra cafetería. Acceso a “Mi Beneficio Salud” , con costos preferenciales en servicios médicos para ti y tu familia en toda la Red SANNA. ¡Tu día libre por cumpleaños para que lo celebres como se debe! Acceso a nuestra línea psicológica gratuita para tu bienestar emocional. Beneficios corporativos exclusivos por ser parte del prestigioso Grupo Credicorp. Tendrás la oportunidad de adelantar tu salario para las situaciones que requieras. En Sanna Salud estamos comprometidos con la inclusión y equidad de género . En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos por ser parte del prestigioso Grupo Credicorp",
+                           "Tendrás la oportunidad de adelantar tu salario para las situaciones que requieras",
+                           "En Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-comunicacion-de-marca-|-sanna-salud-sanna-1118474307.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-comunicacion-de-marca-|-sanna-salud-sanna-1118474307.html",
+        "descripcion_html":  "\u003cp\u003e¡Sé nuestro(a) próximo(a) \u003cstrong\u003eAnalista de Comunicación de Marca \u003c/strong\u003een \u003cstrong\u003eSANNA Salud\u003c/strong\u003e!\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eSANNA Salud\u003c/strong\u003e, la red privada de salud líder en el Perú, ofrecemos una experiencia de salud integral, donde la excelencia médica se une con la sensibilidad humana en nuestras clínicas y centros a nivel nacional.\u003c/p\u003e\u003cp\u003eHoy, buscamos talento como tú que quiera ponerle el corazón en todo lo que hacemos con vocación, compromiso y pasión por cuidar. Personas que sueñen con un trabajo que tenga un impacto real y humano, y que quieran ser parte de un \u003cstrong\u003epropósito\u003c/strong\u003e:\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003e“Cuidar la salud de las familias del Perú, porque la salud no puede esperar.”\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003cp\u003eSi estás listo(a) para marcar la diferencia, crecer profesionalmente y ser parte de una organización que valora a las personas, ¡esta es tu oportunidad!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos en nuestro(a) Analista de Comunicación de Marca?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSi tu perfil se alinea con lo siguiente, estás un paso más cerca de poder ser parte de esta experiencia:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o licenciado(a) en Comunicaciones, Comunicación Audiovisual, Marketing, Publicidad o afines.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseable:\u003c/strong\u003e cursos o diplomados en branding, marketing digital o gestión de proyectos.\u003c/li\u003e \u003cli\u003eDe 3 a 4 años en comunicación de marca, contenidos o branding.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en gestión de producción audiovisual, preferentemente del lado cliente.\u003c/li\u003e \u003cli\u003eExperiencia gestionando agencias, proveedores y presupuestos de producción.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseable: \u003c/strong\u003eexperiencia en sector salud, seguros o servicios.\u003c/li\u003e \u003cli\u003eProcesos de producción audiovisual: guion, casting, locaciones, plan de rodaje, edición y formatos por plataforma.\u003c/li\u003e \u003cli\u003eManejo de redes sociales y métricas orgánicas (Meta Business Suite, TikTok, LinkedIn, YouTube).\u003c/li\u003e \u003cli\u003eManejo de herramientas de diseño (Adobe Photoshop, Illustrator, InDesign o Canva) para adaptar piezas de su propio frente (RRSS, blog, circuito cerrado) y dar feedback técnico a agencias. \u003cstrong\u003eDeseable\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eNociones de edición de video (Premiere, CapCut o similares).\u003c/li\u003e \u003cli\u003eExcel intermedio para control presupuestal y reportería.\u003c/li\u003e \u003cli\u003eGestión de proyectos y cronogramas (Asana, Trello, Monday o similares).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eTus Desafíos Diarios Incluirán:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eCustodia de la identidad de marca:\u003c/strong\u003e Definir y asegurar la consistencia de los mensajes, el tono y la identidad visual de SANNA de manera transversal, validando las piezas de comunicación generadas por otros equipos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eEstrategia y ejecución de contenidos:\u003c/strong\u003e Planificar, coordinar y ejecutar la parrilla de contenidos para redes sociales, el blog corporativo y el circuito cerrado de TV en las sedes, asegurando el cumplimiento de fechas y estándares de calidad.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAnálisis y optimización:\u003c/strong\u003e Evaluar el desempeño del contenido publicado e interpretar los reportes de agencias para extraer \u003cem\u003einsights\u003c/em\u003e que impulsen oportunidades de mejora continua en la comunicación. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDirección de rodajes:\u003c/strong\u003e Liderar integralmente la preproducción (briefs, guiones, \u003cem\u003ecasting\u003c/em\u003e, locaciones) y supervisar las grabaciones en set para garantizar la ejecución creativa y el cumplimiento de los lineamientos de la marca.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSupervisión de postproducción:\u003c/strong\u003e Gestionar la edición, color y sonido, asegurando los requerimientos técnicos por plataforma y el estricto cumplimiento de los derechos de imagen y música.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGestión de activos visuales:\u003c/strong\u003e Organizar, mantener y administrar el banco de material fotográfico y audiovisual de la empresa.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eControl presupuestal y administrativo:\u003c/strong\u003e Administrar el presupuesto de producción corporativo y de producto, gestionando el ciclo completo de proveedores (cotizaciones, órdenes de compra, facturación y pagos) en coordinación con Compras y Finanzas.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGestión de proyectos y alianzas:\u003c/strong\u003e Controlar los cronogramas de producción, anticipar riesgos operativos y evaluar el desempeño de agencias y proveedores en términos de calidad, tiempos y costos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eReporte operativo:\u003c/strong\u003e Elaborar informes periódicos de avance, ejecución de gastos y resultados operativos para la toma de decisiones de la jefatura.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos en SANNA?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn SANNA, valoramos tu bienestar y tu crecimiento profesional. Por eso, te brindamos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario competitivo en planilla, con todos los beneficios de ley desde el primer día.\u003c/li\u003e \u003cli\u003eDescuento del 50% en tus almuerzos en nuestra cafetería.\u003c/li\u003e \u003cli\u003eAcceso a \u003cstrong\u003e“Mi Beneficio Salud”\u003c/strong\u003e, con costos preferenciales en servicios médicos para ti y tu familia en toda la Red SANNA.\u003c/li\u003e \u003cli\u003e¡Tu \u003cstrong\u003edía libre por cumpleaños\u003c/strong\u003e para que lo celebres como se debe!\u003c/li\u003e \u003cli\u003eAcceso a nuestra \u003cstrong\u003elínea psicológica gratuita\u003c/strong\u003e para tu bienestar emocional.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eBeneficios corporativos exclusivos\u003c/strong\u003e por ser parte del prestigioso Grupo Credicorp.\u003c/li\u003e \u003cli\u003eTendrás la oportunidad de adelantar tu salario para las situaciones que requieras.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn Sanna Salud\u003cstrong\u003e estamos comprometidos con la inclusión y equidad de género\u003c/strong\u003e. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas.\u003c/p\u003e",
+        "area":  "Marketing",
+        "jornada":  "Full-time",
+        "nivel":  "Jefe / Supervisor / Responsable",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474304",
+        "clave":  "id:1118474304",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-prospeccion-comercial-lurin-manpowergroup-peru-1118474304.html",
+                       "capturadoEn":  "2026-10-10T01:41:33+00:00"
+                   },
+        "titulo":  "Ejecutivo de Prospección Comercial/ Lurin",
+        "empresa":  "ManpowerGroup Perú",
+        "ubicacion":  "Lima - Lurín",
+        "ciudad":  "Lurín",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En Manpower Perú buscamos al mejor talento para asumir un nuevo reto laboral como Ejecutivo Comercial en el rubro Automotriz en la ciudad de Lima. ¡La oportunidad de un futuro mejor, está aquí! Funciones: Realizar prospección activa de nuevos clientes y oportunidades de negocio en el mercado de equipos de construcción. Ejecutar visitas comerciales en campo a empresas, obras, proyectos y potenciales clientes dentro de la zona asignada. Identificar proyectos actuales y futuros que puedan generar demanda de maquinaria y equipos de construcción. Mapear clientes potenciales y ampliar permanentemente la base de prospectos del negocio. Identificar las necesidades del cliente: tipo de equipo requerido, aplicación, proyecto, plazo estimado de compra y principales criterios de decisión. Coordinar con los Consultores de Negocios / equipo comercial la transferencia y seguimiento de las oportunidades calificadas. Acompañar el desarrollo de los leads generados hasta su evolución a cotización y eventual cierre de venta. Mantener actualizada la información de visitas, prospectos, oportunidades y avances comerciales en las herramientas definidas por la compañía. Realizar seguimiento permanente a los prospectos contactados. Recoger información del mercado durante las visitas: proyectos, competidores, equipos utilizados, necesidades de clientes y nuevas oportunidades. Cumplir con los indicadores de actividad y generación de oportunidades establecidos para la posición. Requisitos: Superior técnica completa administración, Marketing, Ingeniería Industrial, Mecánica, Maquinaria Pesada o carreras afines. Experiencia de 2 años a más en posiciones comerciales, prospección, ventas de campo, desarrollo de negocios generación de leads o cobranza. Deseable experiencia en maquinaria pesada, equipos de construcción, automotriz, minería, construcción, industria o negocios B2B. Experiencia realizando visitas comerciales y desarrollando clientes en campo. Conocimiento de Power BI (deseable) Manejo de herramientas digitales y registro de información comercial (Redes sociales, CRM). Disponibilidad para laborar de lunes a viernes de 8:00am a 5:00pm. (según programación y cumplimiento de visitas). Contar con vehículo y licencia Disponibilidad para laborar en zonas de Lurin: Panamericana Sur Km. 23.88 Beneficios: Pagos mensuales y planilla régimen general a nombre de Manpower. Sueldo acorde al mercado Únete a una empresa líder a nivel global. Comisiones Contrato renovable Disfruta de beneficios corporativos como descuentos especiales, acceso a actividades. Capacitaciones constantes. En Manpower Perú, promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. Por ello ¡Todos los talentos son bienvenidos!",
+        "requisitos":  [
+                           "Superior técnica completa administración, Marketing, Ingeniería Industrial, Mecánica, Maquinaria Pesada o carreras afines",
+                           "Experiencia de 2 años a más en posiciones comerciales, prospección, ventas de campo, desarrollo de negocios generación de leads o cobranza",
+                           "Deseable experiencia en maquinaria pesada, equipos de construcción, automotriz, minería, construcción, industria o negocios B2B",
+                           "Experiencia realizando visitas comerciales y desarrollando clientes en campo",
+                           "Conocimiento de Power BI (deseable)",
+                           "Manejo de herramientas digitales y registro de información comercial (Redes sociales, CRM)",
+                           "Disponibilidad para laborar de lunes a viernes de 8:00am a 5:00pm. (según programación y cumplimiento de visitas)",
+                           "Contar con vehículo y licencia",
+                           "Disponibilidad para laborar en zonas de Lurin: Panamericana Sur Km. 23.88"
+                       ],
+        "funciones":  [
+                          "Realizar prospección activa de nuevos clientes y oportunidades de negocio en el mercado de equipos de construcción",
+                          "Ejecutar visitas comerciales en campo a empresas, obras, proyectos y potenciales clientes dentro de la zona asignada",
+                          "Identificar proyectos actuales y futuros que puedan generar demanda de maquinaria y equipos de construcción",
+                          "Mapear clientes potenciales y ampliar permanentemente la base de prospectos del negocio",
+                          "Identificar las necesidades del cliente: tipo de equipo requerido, aplicación, proyecto, plazo estimado de compra y principales criterios de decisión",
+                          "Coordinar con los Consultores de Negocios / equipo comercial la transferencia y seguimiento de las oportunidades calificadas",
+                          "Acompañar el desarrollo de los leads generados hasta su evolución a cotización y eventual cierre de venta",
+                          "Mantener actualizada la información de visitas, prospectos, oportunidades y avances comerciales en las herramientas definidas por la compañía",
+                          "Realizar seguimiento permanente a los prospectos contactados",
+                          "Recoger información del mercado durante las visitas: proyectos, competidores, equipos utilizados, necesidades de clientes y nuevas oportunidades",
+                          "Cumplir con los indicadores de actividad y generación de oportunidades establecidos para la posición"
+                      ],
+        "beneficios":  [
+                           "corporativos como descuentos especiales, acceso a actividades",
+                           "Capacitaciones constantes",
+                           "En Manpower Perú, promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. Por ello ¡Todos los talentos son bienvenidos!"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-prospeccion-comercial-lurin-manpowergroup-peru-1118474304.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-prospeccion-comercial-lurin-manpowergroup-peru-1118474304.html",
+        "descripcion_html":  "\u003cp\u003eEn Manpower Perú buscamos al mejor talento para asumir un nuevo reto laboral como\u003cstrong\u003e Ejecutivo Comercial \u003c/strong\u003een el \u003cstrong\u003erubro Automotriz\u003c/strong\u003e en la ciudad de Lima.\u003c/p\u003e\u003cp\u003e¡La oportunidad de un futuro mejor, está aquí!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar prospección activa de nuevos clientes y oportunidades de negocio en el mercado de equipos de construcción.\u003c/li\u003e \u003cli\u003eEjecutar visitas comerciales en campo a empresas, obras, proyectos y potenciales clientes dentro de la zona asignada.\u003c/li\u003e \u003cli\u003eIdentificar proyectos actuales y futuros que puedan generar demanda de maquinaria y equipos de construcción.\u003c/li\u003e \u003cli\u003eMapear clientes potenciales y ampliar permanentemente la base de prospectos del negocio.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades del cliente: tipo de equipo requerido, aplicación, proyecto, plazo estimado de compra y principales criterios de decisión.\u003c/li\u003e \u003cli\u003eCoordinar con los Consultores de Negocios / equipo comercial la transferencia y seguimiento de las oportunidades calificadas.\u003c/li\u003e \u003cli\u003eAcompañar el desarrollo de los leads generados hasta su evolución a cotización y eventual cierre de venta.\u003c/li\u003e \u003cli\u003eMantener actualizada la información de visitas, prospectos, oportunidades y avances comerciales en las herramientas definidas por la compañía.\u003c/li\u003e \u003cli\u003eRealizar seguimiento permanente a los prospectos contactados.\u003c/li\u003e \u003cli\u003eRecoger información del mercado durante las visitas: proyectos, competidores, equipos utilizados, necesidades de clientes y nuevas oportunidades.\u003c/li\u003e \u003cli\u003eCumplir con los indicadores de actividad y generación de oportunidades establecidos para la posición.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSuperior técnica completa administración, Marketing, Ingeniería Industrial, Mecánica, Maquinaria Pesada o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia de 2 años a más en posiciones comerciales, prospección, ventas de campo, desarrollo de negocios generación de leads o cobranza.\u003c/li\u003e \u003cli\u003eDeseable experiencia en maquinaria pesada, equipos de construcción, automotriz, minería, construcción, industria o negocios B2B.\u003c/li\u003e \u003cli\u003eExperiencia realizando visitas comerciales y desarrollando clientes en campo.\u003c/li\u003e \u003cli\u003eConocimiento de Power BI (deseable)\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales y registro de información comercial (Redes sociales, CRM).\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a viernes de 8:00am a 5:00pm. (según programación y cumplimiento de visitas).\u003c/li\u003e \u003cli\u003eContar con vehículo y licencia\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en zonas de Lurin: Panamericana Sur Km. 23.88\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePagos mensuales y planilla régimen general a nombre de Manpower.\u003c/li\u003e \u003cli\u003eSueldo acorde al mercado\u003c/li\u003e \u003cli\u003eÚnete a una empresa líder a nivel global.\u003c/li\u003e \u003cli\u003eComisiones\u003c/li\u003e \u003cli\u003eContrato renovable\u003c/li\u003e \u003cli\u003eDisfruta de beneficios corporativos como descuentos especiales, acceso a actividades.\u003c/li\u003e \u003cli\u003eCapacitaciones constantes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn Manpower Perú, promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. Por ello ¡Todos los talentos son bienvenidos!\u003c/p\u003e",
+        "area":  "Ventas",
+        "jornada":  "Full-time",
+        "nivel":  "Semi Sr",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474297",
+        "clave":  "id:1118474297",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-divemotor-grupo-divemotor-1118474297.html",
+                       "capturadoEn":  "2026-10-10T01:41:34+00:00"
+                   },
+        "titulo":  "Auxiliar de Almacén - Divemotor",
+        "empresa":  "GRUPO DIVEMOTOR",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Divemotor Empresa peruana con más de 30 años de experiencia en el mercado automotriz. Dedicada a la comercialización de autos, camiones, buses y a brindar soporte y servicio Post Venta. Marcas que representamos: Mercedes Benz, Freightliner, Jeep , Dodge, RAM y Fiat. Durante los últimos años, DIVEMOTOR ha logrado posicionarse en el mercado como una empresa sólida y confiable, asumiendo cada vez nuevos retos y cumpliendo las metas más altas. ¡Acelera tu carrera con nosotros! En el Grupo Divemotor , nos enorgullece promover un entorno de trabajo inclusivo donde valoramos la diversidad y fomentamos la igualdad de oportunidades para todo el equipo. Nos comprometemos a seleccionar a nuestr @ s colaborador @ s basándonos en sus competencias y habilidades, sin discriminación por motivos de raza, género, orientación sexual, religión, discapacidad o cualquier otra condición protegida por la ley vigente N° 29973. Nos encontramos en la búsqueda del mejor talento para cubrir la vacante de: Auxiliar de Almacén Misión: Realizar el proceso de almacenamiento desde la solicitud, recepción, almacenamiento y despacho de la mercancía del almacén de repuestos; mantenimiento la documentación y el registro actualizado en el sistema de gestión, considerando los procedimientos de gestión y seguridad de la empresa; con la finalidad de mantener el control del ingreso y salida de mercancías del almacén. Funciones: Solicitar la reposición de mercancía del almacén (Ordenes de pedidos) a fin de mantener el stock de repuestos requeridos. Recepcionar, ingresar en el Sistema y almacenar mercancía según el mapa de distribución en el almacén para mantener el control del ingreso y la trazabilidad de los productos. Despachar la mercancía solicitada con el fin de mantener el control de la salida de productos y cerrar las Órdenes de despacho. Elaborar los reportes de ingreso y salida de mercancía del almacén e inventario para proveer de información al área venta de Repuestos. Elaborar reportes de liquidación de mercancías consumidas por el cliente con el fin de informar la correspondencia entre los niveles de stock, salida de mercancía y consumos.. Canalizar información relacionada a la atención, reclamos, y necesidades del cliente para facilitar su resolución por el personal de ventas. Requisitos: Secundaria Completa - exigible Tiempo sugerido de experiencia laboral: 1 año Tiempo sugerido de experiencia en puestos similares: 6 meses Conocimiento de Microsoft Office (nivel básico) - deseable Conocimiento del SAP - deseable Beneficios Cubrimos la Alimentación principal (almuerzo) al 100%. Preocupados en tu salud, cubrimos un % de cobertura EPS. Te ofrecemos una larga lista de Convenios educativos donde podrás escoger la mejor opción para seguir capacitándote y desarrollándote Vivirás un excelente clima laboral y participarás de programas de reconocimiento. Te brindamos oportunidades de crecimiento y desarrollo profesional Podrás participar en nuestro programa de talento (según política vigente). Tendrás acceso a descuentos en productos que ofrecemos. Te brindamos cuponera de horas libres Formarás parte de una de las empresas líderes en el rubro automotriz.",
+        "requisitos":  [
+                           "Secundaria Completa - exigible",
+                           "Tiempo sugerido de experiencia laboral: 1 año",
+                           "Tiempo sugerido de experiencia en puestos similares: 6 meses",
+                           "Conocimiento de Microsoft Office (nivel básico) - deseable",
+                           "Conocimiento del SAP - deseable"
+                       ],
+        "funciones":  [
+                          "Solicitar la reposición de mercancía del almacén (Ordenes de pedidos) a fin de mantener el stock de repuestos requeridos",
+                          "Recepcionar, ingresar en el Sistema y almacenar mercancía según el mapa de distribución en el almacén para mantener el control del ingreso y la trazabilidad de los productos",
+                          "Despachar la mercancía solicitada con el fin de mantener el control de la salida de productos y cerrar las Órdenes de despacho",
+                          "Elaborar los reportes de ingreso y salida de mercancía del almacén e inventario para proveer de información al área venta de Repuestos",
+                          "Elaborar reportes de liquidación de mercancías consumidas por el cliente con el fin de informar la correspondencia entre los niveles de stock, salida de mercancía y consumos",
+                          "Canalizar información relacionada a la atención, reclamos, y necesidades del cliente para facilitar su resolución por el personal de ventas"
+                      ],
+        "beneficios":  [
+                           "Cubrimos la Alimentación principal (almuerzo) al 100%",
+                           "Preocupados en tu salud, cubrimos un % de cobertura EPS",
+                           "Te"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-divemotor-grupo-divemotor-1118474297.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-divemotor-grupo-divemotor-1118474297.html",
+        "descripcion_html":  "\u003cp style=\"\"\u003e\u003cstrong style=\"\"\u003e\u003cspan style=\"\"\u003eDivemotor\u003c/span\u003e\u003c/strong\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEmpresa peruana con más de 30 años de experiencia en el mercado automotriz. Dedicada a la comercialización de autos, camiones, buses y a brindar soporte y servicio Post Venta.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eMarcas que representamos: Mercedes Benz, Freightliner, \u003c/span\u003e\u003cspan style=\"\"\u003eJeep\u003c/span\u003e\u003cspan style=\"\"\u003e, Dodge, RAM y Fiat.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eDurante los últimos años, DIVEMOTOR ha logrado posicionarse en el mercado como una empresa sólida y confiable, asumiendo cada vez nuevos retos y cumpliendo las metas más altas. \u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e \u003c/p\u003e\u003cp style=\"\"\u003e\u003cstrong style=\"\"\u003e\u003cspan style=\"\"\u003e¡Acelera tu carrera con nosotros!\u003c/span\u003e\u003c/strong\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e \u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEn el Grupo \u003c/span\u003e\u003cspan style=\"\"\u003eDivemotor\u003c/span\u003e\u003cspan style=\"\"\u003e, nos enorgullece promover un entorno de trabajo inclusivo donde valoramos la diversidad y fomentamos la igualdad de oportunidades para todo el equipo. Nos comprometemos a seleccionar a \u003c/span\u003e\u003cspan style=\"\"\u003enuestr\u003c/span\u003e\u003cspan style=\"\"\u003e@\u003c/span\u003e\u003cspan style=\"\"\u003es\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003cspan style=\"\"\u003ecolaborador\u003c/span\u003e\u003cspan style=\"\"\u003e@\u003c/span\u003e\u003cspan style=\"\"\u003es\u003c/span\u003e\u003cspan style=\"\"\u003e basándonos en sus competencias y habilidades, sin discriminación por motivos de raza, género, orientación sexual, religión, discapacidad o cualquier otra condición protegida por la ley vigente \u003c/span\u003e\u003cspan style=\"\"\u003eN°\u003c/span\u003e\u003cspan style=\"\"\u003e 29973.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eNos encontramos en la búsqueda del mejor talento para cubrir la vacante de: Auxiliar de Almacén \u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003eMisión:\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003eRealizar el proceso de almacenamiento desde la solicitud, recepción, almacenamiento y despacho de la mercancía del almacén de repuestos; mantenimiento la documentación y el registro actualizado en el sistema de gestión, considerando los procedimientos de gestión y seguridad de la empresa; con la finalidad de mantener el control del ingreso y salida de mercancías del almacén.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e \u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003eSolicitar la reposición de mercancía del almacén (Ordenes de pedidos) a fin de mantener el stock de repuestos requeridos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003eRecepcionar, ingresar en el Sistema y almacenar mercancía según el mapa de distribución en el almacén para mantener el control del ingreso y la trazabilidad de los productos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003eDespachar la mercancía solicitada con el fin de mantener el control de la salida de productos y cerrar las Órdenes de despacho. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003eElaborar los reportes de ingreso y salida de mercancía del almacén e inventario para proveer de información al área venta de Repuestos.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eElaborar reportes de liquidación de mercancías consumidas por el cliente con el fin de informar la correspondencia entre los niveles de stock, salida de mercancía y consumos..\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eCanalizar información relacionada a la atención, reclamos, y necesidades del cliente para facilitar su resolución por el personal de ventas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eSecundaria Completa - exigible\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eTiempo sugerido de experiencia laboral: \u003c/span\u003e1 año\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eTiempo sugerido de experiencia en puestos similares: \u003c/span\u003e6 meses\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eConocimiento de Microsoft Office (nivel básico) - deseable\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003eConocimiento del SAP - deseable\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u003c/p\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eCubrimos la Alimentación principal (almuerzo) al 100%.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003ePreocupados en tu salud, cubrimos un % de cobertura EPS.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTe ofrecemos una larga lista de Convenios educativos donde podrás escoger la mejor opción para seguir capacitándote y desarrollándote\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eVivirás un excelente clima laboral y participarás de programas de reconocimiento.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTe brindamos oportunidades de crecimiento y desarrollo profesional\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003ePodrás participar en nuestro programa de talento (según política vigente).\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTendrás acceso a descuentos en productos que ofrecemos.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTe brindamos cuponera\u003c/span\u003e\u003cspan style=\"\"\u003e de \u003c/span\u003e\u003cspan style=\"\"\u003ehoras libres\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eFormarás parte de una de las empresas líderes en el rubro automotriz.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Logística",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 30 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474294",
+        "clave":  "id:1118474294",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-administrativo-de-taller-divemotor-grupo-divemotor-1118474294.html",
+                       "capturadoEn":  "2026-10-10T01:41:35+00:00"
+                   },
+        "titulo":  "Practicante Profesional Administrativo de Taller - Divemotor",
+        "empresa":  "GRUPO DIVEMOTOR",
+        "ubicacion":  "Lima - La Victoria",
+        "ciudad":  "La Victoria",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Divemotor Empresa peruana con más de 30 años de experiencia en el mercado automotriz. Dedicada a la comercialización de autos, camiones, buses y a brindar soporte y servicio Post Venta. Marcas que representamos: Mercedes Benz, Freightliner, Jeep , Dodge, RAM y Fiat. Durante los últimos años, DIVEMOTOR ha logrado posicionarse en el mercado como una empresa sólida y confiable, asumiendo cada vez nuevos retos y cumpliendo las metas más altas. ¡Acelera tu carrera con nosotros! En el Grupo Divemotor , nos enorgullece promover un entorno de trabajo inclusivo donde valoramos la diversidad y fomentamos la igualdad de oportunidades para todo el equipo. Nos comprometemos a seleccionar a nuestr @ s colaborador @ s basándonos en sus competencias y habilidades, sin discriminación por motivos de raza, género, orientación sexual, religión, discapacidad o cualquier otra condición protegida por la ley vigente N° 29973. Nos encontramos en la búsqueda del mejor talento para cubrir la vacante de: Practicante Profesional - Taller Misión de la posición: Brindar apoyo en tareas administrativas al área de Taller en la recopilación de información para el tratamiento de garantías, elaboración de reporte para el seguimiento de garantías (aprobación y rechazos) con la finalidad de contribuir con la operatividad y la reducción de tiempos de ciclo de vida útil de la OT. Funciones: Apoyo en la recopilación de información necesaria para elevar las garantías (Informes Diagnóstico Taller completos, Informe Técnico de Producto, fotos y evidencia necesaria para el tratamiento de la garantía). Elaboración de reporte para el control y seguimiento de OTAS de garantías. Seguimiento y actualización de estatus de los casos de garantías. Mantener comunicación activa con el área de Garantías para la facturación y cierre de OT’s. Seguimiento y control a los requerimientos de herramientas y equipamiento de Taller realizado al área de Operaciones. Requisitos: Carrera Universitaria en Ingenieria Industrial, Ing. Automotriz, Mecánica Automotriz, Electricidad Automotriz, Mecatrónica - exigible Poder realizar practicas profesionales. Conocimiento de Microsoft Office nivel intermedio - deseable Beneficios Cubrimos la Alimentación principal (almuerzo) al 100%. Bus de acercamiento (panamericana) Preocupados en tu salud, cubrimos un % de cobertura EPS. Te ofrecemos una larga lista de Convenios educativos donde podrás escoger la mejor opción para seguir capacitándote y desarrollándote Vivirás un excelente clima laboral y participarás de programas de reconocimiento. Te brindamos oportunidades de crecimiento y desarrollo profesional Podrás participar en nuestro programa de talento (según política vigente). Tendrás acceso a descuentos en productos que ofrecemos. Te brindamos cuponera de horas libres Formarás parte de una de las empresas líderes en el rubro automotriz.",
+        "requisitos":  [
+                           "Carrera Universitaria en Ingenieria Industrial, Ing. Automotriz, Mecánica Automotriz, Electricidad Automotriz, Mecatrónica - exigible",
+                           "Poder realizar practicas profesionales",
+                           "Conocimiento de Microsoft Office nivel intermedio - deseable"
+                       ],
+        "funciones":  [
+                          "Apoyo en la recopilación de información necesaria para elevar las garantías (Informes Diagnóstico Taller completos, Informe Técnico de Producto, fotos y evidencia necesaria para el tratamiento de la garantía)",
+                          "Elaboración de reporte para el control y seguimiento de OTAS de garantías",
+                          "Seguimiento y actualización de estatus de los casos de garantías",
+                          "Mantener comunicación activa con el área de Garantías para la facturación y cierre de OT’s",
+                          "Seguimiento y control a los requerimientos de herramientas y equipamiento de Taller realizado al área de Operaciones"
+                      ],
+        "beneficios":  [
+                           "Cubrimos la Alimentación principal (almuerzo) al 100%",
+                           "Bus de acercamiento (panamericana)",
+                           "Preocupados en tu salud, cubrimos un % de cobertura EPS",
+                           "Te"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-administrativo-de-taller-divemotor-grupo-divemotor-1118474294.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-administrativo-de-taller-divemotor-grupo-divemotor-1118474294.html",
+        "descripcion_html":  "\u003cp style=\"\"\u003e\u003cstrong style=\"\"\u003e\u003cspan style=\"\"\u003eDivemotor\u003c/span\u003e\u003c/strong\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEmpresa peruana con más de 30 años de experiencia en el mercado automotriz. Dedicada a la comercialización de autos, camiones, buses y a brindar soporte y servicio Post Venta.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eMarcas que representamos: Mercedes Benz, Freightliner, \u003c/span\u003e\u003cspan style=\"\"\u003eJeep\u003c/span\u003e\u003cspan style=\"\"\u003e, Dodge, RAM y Fiat.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eDurante los últimos años, DIVEMOTOR ha logrado posicionarse en el mercado como una empresa sólida y confiable, asumiendo cada vez nuevos retos y cumpliendo las metas más altas. \u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e \u003c/p\u003e\u003cp style=\"\"\u003e\u003cstrong style=\"\"\u003e\u003cspan style=\"\"\u003e¡Acelera tu carrera con nosotros!\u003c/span\u003e\u003c/strong\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e \u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEn el Grupo \u003c/span\u003e\u003cspan style=\"\"\u003eDivemotor\u003c/span\u003e\u003cspan style=\"\"\u003e, nos enorgullece promover un entorno de trabajo inclusivo donde valoramos la diversidad y fomentamos la igualdad de oportunidades para todo el equipo. Nos comprometemos a seleccionar a \u003c/span\u003e\u003cspan style=\"\"\u003enuestr\u003c/span\u003e\u003cspan style=\"\"\u003e@\u003c/span\u003e\u003cspan style=\"\"\u003es\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003cspan style=\"\"\u003ecolaborador\u003c/span\u003e\u003cspan style=\"\"\u003e@\u003c/span\u003e\u003cspan style=\"\"\u003es\u003c/span\u003e\u003cspan style=\"\"\u003e basándonos en sus competencias y habilidades, sin discriminación por motivos de raza, género, orientación sexual, religión, discapacidad o cualquier otra condición protegida por la ley vigente \u003c/span\u003e\u003cspan style=\"\"\u003eN°\u003c/span\u003e\u003cspan style=\"\"\u003e 29973.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eNos encontramos en la búsqueda del mejor talento para cubrir la vacante de: \u003c/span\u003e\u003c/span\u003ePracticante Profesional - Taller\u003c/p\u003e\u003cp\u003eMisión de la posición:\u003c/p\u003e\u003cp style=\"\"\u003eBrindar apoyo en tareas administrativas al área de Taller en la recopilación de información para el tratamiento de garantías, elaboración de reporte para el seguimiento de garantías (aprobación y rechazos) con la finalidad de contribuir con la operatividad y la reducción de tiempos de ciclo de vida útil de la OT.\u003c/p\u003e\u003cp style=\"\"\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eApoyo en la recopilación de información necesaria para elevar las garantías (Informes Diagnóstico Taller completos, Informe Técnico de Producto, fotos y evidencia necesaria para el tratamiento de la garantía).\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eElaboración de reporte para el control y seguimiento de OTAS de garantías.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eSeguimiento y actualización de estatus de los casos de garantías.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eMantener comunicación activa con el área de Garantías para la facturación y cierre de OT’s.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eSeguimiento y control a los requerimientos de herramientas y equipamiento de Taller realizado al área de Operaciones.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli style=\"\"\u003eCarrera Universitaria en Ingenieria Industrial, Ing. Automotriz, Mecánica Automotriz, Electricidad Automotriz, Mecatrónica - exigible\u003c/li\u003e \u003cli style=\"\"\u003ePoder realizar practicas profesionales.\u003c/li\u003e \u003cli style=\"\"\u003eConocimiento de Microsoft Office nivel intermedio - deseable\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eCubrimos la Alimentación principal (almuerzo) al 100%.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003eBus de acercamiento (panamericana)\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003ePreocupados en tu salud, cubrimos un % de cobertura EPS.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTe ofrecemos una larga lista de Convenios educativos donde podrás escoger la mejor opción para seguir capacitándote y desarrollándote\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eVivirás un excelente clima laboral y participarás de programas de reconocimiento.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTe brindamos oportunidades de crecimiento y desarrollo profesional\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003ePodrás participar en nuestro programa de talento (según política vigente).\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTendrás acceso a descuentos en productos que ofrecemos.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eTe brindamos cuponera\u003c/span\u003e\u003cspan style=\"\"\u003e de \u003c/span\u003e\u003cspan style=\"\"\u003ehoras libres\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eFormarás parte de una de las empresas líderes en el rubro automotriz.\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Mantenimiento",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 30 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474293",
+        "clave":  "id:1118474293",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-campana-cyber-grupo-ripley-1118474293.html",
+                       "capturadoEn":  "2026-10-10T01:41:36+00:00"
+                   },
+        "titulo":  "Asistente de Campaña Cyber",
+        "empresa":  "GRUPO RIPLEY",
+        "ubicacion":  "Puno - Juliaca",
+        "ciudad":  "Juliaca",
+        "region":  "Puno",
+        "modalidad":  "Presencial",
+        "contrato":  "Temporal",
+        "salario":  {
+                        "min":  1130,
+                        "max":  1230,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,130 - S/ 1,230",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Funciones principales Reponer mercadería en los espacios de exhibición y venta. Verificar que los productos estén correctamente ubicados y exhibidos. Mantener el orden y la limpieza del área asignada. Identificar productos agotados o con bajo stock e informar al responsable. Apoyar en el traslado y acomodo de mercadería, siguiendo los procedimientos de seguridad. Orientar a los clientes sobre la ubicación de productos, promociones y ofertas vigentes. Resolver consultas básicas y derivar aquellas que requieran atención especializada. Apoyar a los clientes durante su experiencia de compra. Mantener un trato cordial, amable y oportuno, especialmente en momentos de alta afluencia. Formación Secundaria completa o estudios técnicos/universitarios en curso Experiencia Deseable 3 a 6 meses en atención al cliente, retail, operaciones Competencias Organización, proactividad, rapidez y orientación al cliente Disponibilidad Para trabajar durante la campaña Cyber, según el horario establecido - SEDE JULIACA",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Reponer mercadería en los espacios de exhibición y venta",
+                          "Verificar que los productos estén correctamente ubicados y exhibidos",
+                          "Mantener el orden y la limpieza del área asignada",
+                          "Identificar productos agotados o con bajo stock e informar al responsable",
+                          "Apoyar en el traslado y acomodo de mercadería, siguiendo los procedimientos de seguridad",
+                          "Orientar a los clientes sobre la ubicación de productos, promociones y ofertas vigentes",
+                          "Resolver consultas básicas y derivar aquellas que requieran atención especializada",
+                          "Apoyar a los clientes durante su experiencia de compra",
+                          "Mantener un trato cordial, amable y oportuno, especialmente en momentos de alta afluencia",
+                          "Formación",
+                          "Secundaria completa o estudios técnicos/universitarios en curso",
+                          "Experiencia",
+                          "Deseable 3 a 6 meses en atención al cliente, retail, operaciones",
+                          "Competencias",
+                          "Organización, proactividad, rapidez y orientación al cliente",
+                          "Disponibilidad",
+                          "Para trabajar durante la campaña Cyber, según el horario establecido - SEDE JULIACA"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-campana-cyber-grupo-ripley-1118474293.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-campana-cyber-grupo-ripley-1118474293.html",
+        "descripcion_html":  "\u003cp\u003eFunciones principales\u003c/p\u003e\u003cul\u003e \u003cli\u003eReponer mercadería en los espacios de exhibición y venta.\u003c/li\u003e \u003cli\u003eVerificar que los productos estén correctamente ubicados y exhibidos.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área asignada.\u003c/li\u003e \u003cli\u003eIdentificar productos agotados o con bajo stock e informar al responsable.\u003c/li\u003e \u003cli\u003eApoyar en el traslado y acomodo de mercadería, siguiendo los procedimientos de seguridad.\u003c/li\u003e \u003cli\u003eOrientar a los clientes sobre la ubicación de productos, promociones y ofertas vigentes.\u003c/li\u003e \u003cli\u003eResolver consultas básicas y derivar aquellas que requieran atención especializada.\u003c/li\u003e \u003cli\u003eApoyar a los clientes durante su experiencia de compra.\u003c/li\u003e \u003cli\u003eMantener un trato cordial, amable y oportuno, especialmente en momentos de alta afluencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e Formación\u003c/p\u003e\u003cp\u003eSecundaria completa o estudios técnicos/universitarios en curso\u003c/p\u003e\u003cp\u003eExperiencia\u003c/p\u003e\u003cp\u003eDeseable 3 a 6 meses en atención al cliente, retail, operaciones\u003c/p\u003e\u003cp\u003eCompetencias\u003c/p\u003e\u003cp\u003eOrganización, proactividad, rapidez y orientación al cliente\u003c/p\u003e\u003cp\u003eDisponibilidad\u003c/p\u003e\u003cp\u003ePara trabajar durante la campaña Cyber, según el horario establecido - SEDE JULIACA \u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+        "area":  "Ventas",
+        "jornada":  "Full-time",
+        "nivel":  "Otro",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474290",
+        "clave":  "id:1118474290",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/business-intelligence-ingeniero-especialista-de-datos-comerciales-carabayllo-peru-productos-agricolas-1118474290.html",
+                       "capturadoEn":  "2026-10-10T01:41:37+00:00"
+                   },
+        "titulo":  "Business Intelligence / Ingeniero Especialista de Datos Comerciales– Carabayllo",
+        "empresa":  "Peru Productos Agricolas",
+        "ubicacion":  "Lima - Carabayllo",
+        "ciudad":  "Carabayllo",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Súmate al equipo de Inveragro! En Inveragro somos una empresa peruana con más de 30 años liderando el sector agro, dedicada a la comercialización y distribución de agroquímicos, semillas, fertilizantes, tecnología y soluciones integrales para el desarrollo del campo a nivel nacional. Creemos en la innovación, la excelencia operativa y el talento de nuestra gente para seguir transformando el agro peruano. Linkdln : INVERAGRO Peru Productos Agrícolas S.A.C. OBEJETIVO DEL PUESTO Diseñar, desarrollar y optimizar soluciones para integrar, limpiar, estructurar y centralizar información proveniente de distintas fuentes de la empresa, implementando procesos automatizados que mejoren la calidad de los datos, reduzcan tareas manuales y faciliten la gestión y toma de decisiones en todas las áreas del negocio. FUNCIONES: Gestionar las bases de datos comerciales, asegurando disponibilidad, calidad y trazabilidad de la información. Identificar, conectar e integrar fuentes de información de las diferentes áreas de la empresa. Extraer, limpiar, depurar, transformar y estructurar datos provenientes de archivos Excel, sistemas empresariales, bases de datos y otras fuentes. Construir y mantener bases de datos centralizadas, asegurando la calidad, consistencia e integridad de la información. Automatizar procesos operativos y administrativos mediante scripts, herramientas de integración, APIs y plataformas de automatización. Identificar tareas manuales, duplicidades y cuellos de botella para proponer e implementar mejoras tecnológicas. Implementar controles de calidad, trazabilidad y actualización de los datos. Desarrollar soluciones que permitan disponer de información confiable para reportes, indicadores y dashboards. Documentar los procesos, integraciones y soluciones implementadas. Brindar soporte técnico y capacitar a los usuarios en el uso de las soluciones desarrolladas. Requisitos: Egresado o bachiller de Ingeniería de Sistemas, Ingeniería Informática, Ciencia de Datos, Ingeniería de Software o carreras afines. Mínimo 2 años de experiencia en procesamiento de data y automatización de reportería (SQL, Power BI, Visual Studio, Excel avanzado u otras). Mínimo 2 años de experiencia en monitoreo y análisis de indicadores comerciales o de gestión de ventas, con enfoque en cumplimiento de metas. Dominio avanzado de herramientas de extracción, procesamiento y visualización de reportes: SQL, T-SQL, SSIS, Power BI, Python (deseable). Python para procesamiento de datos y automatización de tareas. Excel avanzado y manejo de archivos de datos. APIs y conexión entre sistemas. Power BI para la explotación y visualización de la información. Manejo de bases de datos comerciales. Disponibilidad para trabajar presencial en Carabayllo. Beneficios Sueldo acorde al mercado Ingreso a planilla completa desde el primer día Seguro Vida Ley desde el primer día Línea de carrera Excelente clima laboral",
+        "requisitos":  [
+                           "Egresado o bachiller de Ingeniería de Sistemas, Ingeniería Informática, Ciencia de Datos, Ingeniería de Software o carreras afines",
+                           "Mínimo 2 años de experiencia en procesamiento de data y automatización de reportería (SQL, Power BI, Visual Studio, Excel avanzado u otras)",
+                           "Mínimo 2 años de experiencia en monitoreo y análisis de indicadores comerciales o de gestión de ventas, con enfoque en cumplimiento de metas",
+                           "Dominio avanzado de herramientas de extracción, procesamiento y visualización de reportes: SQL, T-SQL, SSIS, Power BI, Python (deseable)",
+                           "Python para procesamiento de datos y automatización de tareas",
+                           "Excel avanzado y manejo de archivos de datos. APIs y conexión entre sistemas",
+                           "Power BI para la explotación y visualización de la información",
+                           "Manejo de bases de datos comerciales",
+                           "Disponibilidad para trabajar presencial en Carabayllo"
+                       ],
+        "funciones":  [
+                          "Gestionar las bases de datos comerciales, asegurando disponibilidad, calidad y trazabilidad de la información",
+                          "Identificar, conectar e integrar fuentes de información de las diferentes áreas de la empresa. Extraer, limpiar, depurar, transformar y estructurar datos provenientes de archivos Excel, sistemas empresariales, bases de datos y otras fuentes",
+                          "Construir y mantener bases de datos centralizadas, asegurando la calidad, consistencia e integridad de la información",
+                          "Automatizar procesos operativos y administrativos mediante scripts, herramientas de integración, APIs y plataformas de automatización",
+                          "Identificar tareas manuales, duplicidades y cuellos de botella para proponer e implementar mejoras tecnológicas. Implementar controles de calidad, trazabilidad y actualización de los datos",
+                          "Desarrollar soluciones que permitan disponer de información confiable para reportes, indicadores y dashboards",
+                          "Documentar los procesos, integraciones y soluciones implementadas",
+                          "Brindar soporte técnico y capacitar a los usuarios en el uso de las soluciones desarrolladas"
+                      ],
+        "beneficios":  [
+                           "Sueldo acorde al mercado",
+                           "Ingreso a planilla completa desde el primer día",
+                           "Seguro Vida Ley desde el primer día",
+                           "Línea de carrera",
+                           "Excelente clima laboral"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/business-intelligence-ingeniero-especialista-de-datos-comerciales-carabayllo-peru-productos-agricolas-1118474290.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/business-intelligence-ingeniero-especialista-de-datos-comerciales-carabayllo-peru-productos-agricolas-1118474290.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003e¡Súmate al equipo de Inveragro!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eInveragro\u003c/strong\u003e somos una empresa peruana con más de 30 años liderando el sector agro, dedicada a la comercialización y distribución de agroquímicos, semillas, fertilizantes, tecnología y soluciones integrales para el desarrollo del campo a nivel nacional.\u003c/p\u003e\u003cp\u003eCreemos en la innovación, la excelencia operativa y el talento de nuestra gente para seguir transformando el agro peruano.    \u003cstrong\u003eLinkdln\u003c/strong\u003e: INVERAGRO Peru Productos Agrícolas S.A.C.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eOBEJETIVO DEL PUESTO\u003c/strong\u003eDiseñar, desarrollar y optimizar soluciones para integrar, limpiar, estructurar y centralizar información proveniente de distintas fuentes de la empresa, implementando procesos automatizados que mejoren la calidad de los datos, reduzcan tareas manuales y faciliten la gestión y toma de decisiones en todas las áreas del negocio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar las bases de datos comerciales, asegurando disponibilidad, calidad y trazabilidad de la información.\u003c/li\u003e \u003cli\u003eIdentificar, conectar e integrar fuentes de información de las diferentes áreas de la empresa. Extraer, limpiar, depurar, transformar y estructurar datos provenientes de archivos Excel, sistemas empresariales, bases de datos y otras fuentes. \u003c/li\u003e \u003cli\u003eConstruir y mantener bases de datos centralizadas, asegurando la calidad, consistencia e integridad de la información. \u003c/li\u003e \u003cli\u003eAutomatizar procesos operativos y administrativos mediante scripts, herramientas de integración, APIs y plataformas de automatización.\u003c/li\u003e \u003cli\u003eIdentificar tareas manuales, duplicidades y cuellos de botella para proponer e implementar mejoras tecnológicas. Implementar controles de calidad, trazabilidad y actualización de los datos.\u003c/li\u003e \u003cli\u003eDesarrollar soluciones que permitan disponer de información confiable para reportes, indicadores y dashboards. \u003c/li\u003e \u003cli\u003eDocumentar los procesos, integraciones y soluciones implementadas. \u003c/li\u003e \u003cli\u003eBrindar soporte técnico y capacitar a los usuarios en el uso de las soluciones desarrolladas. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado o bachiller de Ingeniería de Sistemas, Ingeniería Informática, Ciencia de Datos, Ingeniería de Software o carreras afines. \u003c/li\u003e \u003cli\u003eMínimo 2 años de experiencia en procesamiento de data y automatización de reportería (SQL, Power BI, Visual Studio, Excel avanzado u otras).\u003c/li\u003e \u003cli\u003eMínimo 2 años de experiencia en monitoreo y análisis de indicadores comerciales o de gestión de ventas, con enfoque en cumplimiento de metas.\u003c/li\u003e \u003cli\u003eDominio avanzado de herramientas de extracción, procesamiento y visualización de reportes: SQL, T-SQL, SSIS, Power BI, Python (deseable).\u003c/li\u003e \u003cli\u003ePython para procesamiento de datos y automatización de tareas.\u003c/li\u003e \u003cli\u003eExcel avanzado y manejo de archivos de datos. APIs y conexión entre sistemas. \u003c/li\u003e \u003cli\u003ePower BI para la explotación y visualización de la información. \u003c/li\u003e \u003cli\u003eManejo de bases de datos comerciales.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar presencial en Carabayllo. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo acorde al mercado\u003c/li\u003e \u003cli\u003eIngreso a planilla completa desde el primer día\u003c/li\u003e \u003cli\u003eSeguro Vida Ley desde el primer día\u003c/li\u003e \u003cli\u003eLínea de carrera\u003c/li\u003e \u003cli\u003eExcelente clima laboral\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+        "area":  "Análisis de Datos",
+        "jornada":  "Full-time",
+        "nivel":  "No especificado",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474287",
+        "clave":  "id:1118474287",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-asignacion-de-personal-ey-ernst-young-1118474287.html",
+                       "capturadoEn":  "2026-10-10T01:41:38+00:00"
+                   },
+        "titulo":  "Técnico de Asignación de Personal",
+        "empresa":  "EY (Ernst \u0026 Young)",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Requisitos: Egresado técnico de las carreras de Administración, Ing. Industrial, Economía o afines. Deseable contar con experiencia en manejo de base de datos. Contar como mínimo con un 01 año de experiencia pre-profesional o profesional en áreas de administración. MS Office a nivel Avanzado (tablas dinámicas, fórmulas). Deseable manejo de Power BI a nivel Intermedio. Dominio del Outlook. Inglés a nivel intermedio. Responsabilidades: Control y administración de recursos y asignación de personal. Manejo de indicadores de gestión. Apoyar en la elaboración y análisis de reportes de gestión (vacaciones, descansos médicos, control de horas, etc.) Coordinación con líderes de equipo. Competencias: Responsabilidad / Compromiso Trabajo en equipo Iniciativa / Proactividad Comunicación a todo nivel.",
+        "requisitos":  [
+                           "Egresado técnico de las carreras de Administración, Ing. Industrial, Economía o afines",
+                           "Deseable contar con experiencia en manejo de base de datos",
+                           "Contar como mínimo con un 01 año de experiencia pre-profesional o profesional en áreas de administración",
+                           "MS Office a nivel Avanzado (tablas dinámicas, fórmulas)",
+                           "Deseable manejo de Power BI a nivel Intermedio",
+                           "Dominio del Outlook",
+                           "Inglés a nivel intermedio",
+                           "Responsabilidades",
+                           "Control y administración de recursos y asignación de personal",
+                           "Manejo de indicadores de gestión",
+                           "Apoyar en la elaboración y análisis de reportes de gestión (vacaciones, descansos médicos, control de horas, etc.)",
+                           "Coordinación con líderes de equipo",
+                           "Competencias",
+                           "Responsabilidad / Compromiso",
+                           "Trabajo en equipo",
+                           "Iniciativa / Proactividad",
+                           "Comunicación a todo nivel"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-asignacion-de-personal-ey-ernst-young-1118474287.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-asignacion-de-personal-ey-ernst-young-1118474287.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado técnico de las carreras de Administración, Ing. Industrial, Economía o afines.\u003c/li\u003e \u003cli\u003eDeseable contar con experiencia en manejo de base de datos.\u003c/li\u003e \u003cli\u003eContar como mínimo con un 01 año de experiencia pre-profesional o profesional en áreas de administración.\u003c/li\u003e \u003cli\u003eMS Office a nivel Avanzado (tablas dinámicas, fórmulas).\u003c/li\u003e \u003cli\u003eDeseable manejo de Power BI a nivel Intermedio.\u003c/li\u003e \u003cli\u003eDominio del Outlook.\u003c/li\u003e \u003cli\u003eInglés a nivel intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControl y administración de recursos y asignación de personal.\u003c/li\u003e \u003cli\u003eManejo de indicadores de gestión.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración y análisis de reportes de gestión (vacaciones, descansos médicos, control de horas, etc.)\u003c/li\u003e \u003cli\u003eCoordinación con líderes de equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eResponsabilidad / Compromiso\u003c/li\u003e \u003cli\u003eTrabajo en equipo\u003c/li\u003e \u003cli\u003eIniciativa / Proactividad\u003c/li\u003e \u003cli\u003eComunicación a todo nivel.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Administración",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474286",
+        "clave":  "id:1118474286",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistentea-de-planeamiento-de-abastecimiento-1118474286.html",
+                       "capturadoEn":  "2026-10-10T01:41:39+00:00"
+                   },
+        "titulo":  "Asistente(a) de Planeamiento de Abastecimiento",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - La Molina",
+        "ciudad":  "La Molina",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "Temporal",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Nos encontramos en la búsqueda del mejor talento para ocupar la posición de: Asistente de Planeamiento de Abastecimiento Funciones: Monitorear, analizar el avance de demanda para generar acciones correctivas. Elaborar plan de abastecimiento interregional para asegurar el abasto oportuno. Elaborar, monitorear lanzamiento de nuevos productos para asegurar su abastecimiento oportuno. Elaborar los planes de abastecimiento a nivel diario (sem1) y semanal (Sem 2-Sem 06) para asegurar atención bajo el nivel de servicio asignado. Planificar y ejecutar las actividades operativas de la gestión de abastecimiento e interactuar con las áreas de S\u0026OP con el fin de garantizar el cumplimiento de actividades y presupuestos. Analizar edad de productos en los almacenes para evitar vencimientos.. Coordinación de cierre de la preventa diaria, canal tradicional y moderno. Requisitos: Bachiller de las carreras de Ingeniería Industrial, Administración de Empresas y afines. Experiencia previa mínima de 02 años. Manejo de Power Bi nivel intermedio (deseable) Manejo de SAP",
+        "requisitos":  [
+                           "Bachiller de las carreras de Ingeniería Industrial, Administración de Empresas y afines",
+                           "Experiencia previa mínima de 02 años",
+                           "Manejo de Power Bi nivel intermedio (deseable)",
+                           "Manejo de SAP"
+                       ],
+        "funciones":  [
+                          "Monitorear, analizar el avance de demanda para generar acciones correctivas. Elaborar plan de abastecimiento interregional para asegurar el abasto oportuno. Elaborar, monitorear lanzamiento de nuevos productos para asegurar su abastecimiento oportuno",
+                          "Elaborar los planes de abastecimiento a nivel diario (sem1) y semanal (Sem 2-Sem 06) para asegurar atención bajo el nivel de servicio asignado",
+                          "Planificar y ejecutar las actividades operativas de la gestión de abastecimiento e interactuar con las áreas de S\u0026OP con el fin de garantizar el cumplimiento de actividades y presupuestos",
+                          "Analizar edad de productos en los almacenes para evitar vencimientos",
+                          "Coordinación de cierre de la preventa diaria, canal tradicional y moderno"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistentea-de-planeamiento-de-abastecimiento-1118474286.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistentea-de-planeamiento-de-abastecimiento-1118474286.html",
+        "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda del mejor talento para ocupar la posición de:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAsistente de Planeamiento de Abastecimiento\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMonitorear, analizar el avance de demanda para generar acciones correctivas. Elaborar plan de abastecimiento interregional para asegurar el abasto oportuno. Elaborar, monitorear lanzamiento de nuevos productos para asegurar su abastecimiento oportuno.\u003c/li\u003e \u003cli\u003eElaborar los planes de abastecimiento a nivel diario (sem1) y semanal (Sem 2-Sem 06) para asegurar atención bajo el nivel de servicio asignado.\u003c/li\u003e \u003cli\u003ePlanificar y ejecutar las actividades operativas de la gestión de abastecimiento e interactuar con las áreas de S\u0026OP con el fin de garantizar el cumplimiento de actividades y presupuestos.\u003c/li\u003e \u003cli\u003eAnalizar edad de productos en los almacenes para evitar vencimientos..\u003c/li\u003e \u003cli\u003eCoordinación de cierre de la preventa diaria, canal tradicional y moderno.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller de las carreras de Ingeniería Industrial, Administración de Empresas y afines.\u003c/li\u003e \u003cli\u003eExperiencia previa mínima de 02 años.\u003c/li\u003e \u003cli\u003eManejo de Power Bi nivel intermedio (deseable)\u003c/li\u003e \u003cli\u003eManejo de SAP\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Logística",
+        "jornada":  "Full-time",
+        "nivel":  "Semi Sr",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 02 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474284",
+        "clave":  "id:1118474284",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-escuela-idat-sede-ate-grupo-intercorp-inlearning-escuelas-de-educacion-superior-1118474284.html",
+                       "capturadoEn":  "2026-10-10T01:41:40+00:00"
+                   },
+        "titulo":  "Asesor(a) de Ventas - Escuela Idat Sede Ate Grupo Intercorp",
+        "empresa":  "inLearning Escuelas de Educación Superior",
+        "ubicacion":  "Lima - Ate",
+        "ciudad":  "Ate",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "CONTRACTOR",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Idat, empresa de educación superior del grupo Intercorp, que valora y promueve la diversidad, inclusión y equidad de género, se encuentra en la búsqueda de Asesor(a) de Ventas para la sede de Ate Propósito: Impulsar el cierre de ventas a través de una gestión comercial activa, asesorando a potenciales estudiantes sobre nuestra oferta educativa (carreras, cursos y diplomados), con foco en convertir oportunidades en matrículas y superar de manera consistente los objetivos comerciales. TUS FUNCIONES: Gestionar de manera proactiva los leads asignados a través de canales digitales y telefónicos (web, WhatsApp, call center, módulos), con enfoque en generar conversión y cierre efectivo. Asesorar al cliente identificando sus necesidades y dirigiendo la conversación hacia el cierre de la venta. Realizar seguimiento constante a los prospectos, manejando objeciones y acelerando el proceso de decisión. Cumplir y superar las metas comerciales individuales, manteniendo un alto nivel de productividad. Ejecutar estrategias de recontacto y recuperación de oportunidades para maximizar la conversión. Asegurar una experiencia positiva del cliente, sin perder el foco en el resultado comercial. ¿QUÉ BUSCAMOS? Experiencia mínima de 1 año en ventas telefónicas o call center, con cumplimiento de metas (deseable). Experiencia en ventas mediante canal escrito (deseable) Manejo básico de MS Office. (deseable) Disponibilidad presencial (Ate) : Lunes y viernes (9:00 am - 8pm) Martes, Miercoles y Jueves (9:00 am - 6:00 pm) sábados (9:00am - 1:00 pm). NUESTROS BENEFICIOS: Sueldo básico + Comisiones ILIMITADAS + Bonos e incentivos. Ingreso a planilla con todos los beneficios de ley. Beneficios Intercorp: Descuentos en todas las empresas del grupo. Ser parte de una de las empresas del grupo Intercorp. Atractivos descuentos en las instituciones educativas del grupo. Cuponera de tiempo libre En inLearning Escuelas (Zegel, Idat, Corriente Alterna e Innova Teaching School) estamos comprometidos con promover la igualdad de género, diversidad e inclusión en nuestros procesos de atracción y selección del talento, brindando igualdad de oportunidades laborales para los/las postulantes, asegurando ambientes saludables, equitativos y seguros. Además, queremos que sepas que este cargo admite postulaciones para personas con discapacidad de acuerdo al marco de la Ley de Inclusión Laboral en el Perú. ¡Únete al equipo y crece con nosotros!",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Gestionar de manera proactiva los leads asignados a través de canales digitales y telefónicos (web, WhatsApp, call center, módulos), con enfoque en generar conversión y cierre efectivo",
+                          "Asesorar al cliente identificando sus necesidades y dirigiendo la conversación hacia el cierre de la venta",
+                          "Realizar seguimiento constante a los prospectos, manejando objeciones y acelerando el proceso de decisión",
+                          "Cumplir y superar las metas comerciales individuales, manteniendo un alto nivel de productividad",
+                          "Ejecutar estrategias de recontacto y recuperación de oportunidades para maximizar la conversión",
+                          "Asegurar una experiencia positiva del cliente, sin perder el foco en el resultado comercial",
+                          "¿QUÉ BUSCAMOS?",
+                          "Experiencia mínima de 1 año en ventas telefónicas o call center, con cumplimiento de metas (deseable)",
+                          "Experiencia en ventas mediante canal escrito (deseable)",
+                          "Manejo básico de MS Office. (deseable)",
+                          "Disponibilidad presencial (Ate): Lunes y viernes (9:00 am - 8pm) Martes, Miercoles y Jueves (9:00 am - 6:00 pm) sábados (9:00am - 1:00 pm)",
+                          "NUESTROS"
+                      ],
+        "beneficios":  [
+                           "Intercorp: Descuentos en todas las empresas del grupo",
+                           "Ser parte de una de las empresas del grupo Intercorp",
+                           "Atractivos descuentos en las instituciones educativas del grupo",
+                           "Cuponera de tiempo libre",
+                           "En inLearning Escuelas (Zegel, Idat, Corriente Alterna e Innova Teaching School) estamos comprometidos con promover la igualdad de género, diversidad e inclusión en nuestros procesos de atracción y selección del talento, brindando igualdad de oportunidades laborales para los/las postulantes, asegurando ambientes saludables, equitativos y seguros",
+                           "Además, queremos que sepas que este cargo admite postulaciones para personas con discapacidad de acuerdo al marco de la Ley de Inclusión Laboral en el Perú. ¡Únete al equipo y crece con nosotros!"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-escuela-idat-sede-ate-grupo-intercorp-inlearning-escuelas-de-educacion-superior-1118474284.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-escuela-idat-sede-ate-grupo-intercorp-inlearning-escuelas-de-educacion-superior-1118474284.html",
+        "descripcion_html":  "\u003cp\u003eIdat, empresa de educación superior del grupo Intercorp, que valora y promueve la diversidad, inclusión y equidad de género, se encuentra en la búsqueda de Asesor(a) de Ventas para la sede de Ate\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePropósito:\u003c/strong\u003e Impulsar el cierre de ventas a través de una gestión comercial activa, asesorando a potenciales estudiantes sobre nuestra oferta educativa (carreras, cursos y diplomados), con foco en convertir oportunidades en matrículas y superar de manera consistente los objetivos comerciales. \u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eTUS FUNCIONES: \u003c/strong\u003e Gestionar de manera proactiva los leads asignados a través de canales digitales y telefónicos (web, WhatsApp, call center, módulos), con enfoque en generar conversión y cierre efectivo.\u003c/li\u003e \u003cli\u003eAsesorar al cliente identificando sus necesidades y dirigiendo la conversación hacia el cierre de la venta.\u003c/li\u003e \u003cli\u003eRealizar seguimiento constante a los prospectos, manejando objeciones y acelerando el proceso de decisión. \u003c/li\u003e \u003cli\u003eCumplir y superar las metas comerciales individuales, manteniendo un alto nivel de productividad.\u003c/li\u003e \u003cli\u003eEjecutar estrategias de recontacto y recuperación de oportunidades para maximizar la conversión.\u003c/li\u003e \u003cli\u003eAsegurar una experiencia positiva del cliente, sin perder el foco en el resultado comercial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ BUSCAMOS?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 1 año en ventas telefónicas o call center, con cumplimiento de metas (deseable).\u003c/li\u003e \u003cli\u003eExperiencia en ventas mediante canal escrito (deseable)\u003c/li\u003e \u003cli\u003eManejo básico de MS Office. (deseable)\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDisponibilidad presencial (Ate)\u003c/strong\u003e: Lunes y viernes (9:00 am - 8pm) Martes, Miercoles y Jueves (9:00 am - 6:00 pm) sábados (9:00am - 1:00 pm).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eNUESTROS BENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo básico + \u003cstrong\u003eComisiones ILIMITADAS\u003c/strong\u003e + Bonos e incentivos.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eBeneficios Intercorp:\u003c/strong\u003e Descuentos en todas las empresas del grupo.\u003c/li\u003e \u003cli\u003eSer parte de una de las empresas del grupo Intercorp.\u003c/li\u003e \u003cli\u003eAtractivos descuentos en las instituciones educativas del grupo.\u003c/li\u003e \u003cli\u003eCuponera de tiempo libre\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn inLearning Escuelas (Zegel, Idat, Corriente Alterna e Innova Teaching School) estamos comprometidos con promover la igualdad de género, diversidad e inclusión en nuestros procesos de atracción y selección del talento, brindando igualdad de oportunidades laborales para los/las postulantes, asegurando ambientes saludables, equitativos y seguros.\u003c/p\u003e\u003cp\u003eAdemás, queremos que sepas que este cargo admite postulaciones para personas con discapacidad de acuerdo al marco de la Ley de Inclusión Laboral en el Perú. \u003cstrong\u003e¡Únete al equipo y crece con nosotros!\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "Comercial",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "5",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474281",
+        "clave":  "id:1118474281",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/labora-en-tai-loy-auxiliar-de-almacen-sin-experiencia-movilidad-ida-y-vuelta-ingreso-directo-manpowergroup-peru-1118474281.html",
+                       "capturadoEn":  "2026-10-10T01:41:41+00:00"
+                   },
+        "titulo":  "Labora en TAI LOY! Auxiliar de Almacén / SIN Experiencia / Movilidad Ida y Vuelta / Ingreso Directo",
+        "empresa":  "ManpowerGroup Perú",
+        "ubicacion":  "Lima - Villa El Salvador",
+        "ciudad":  "Villa El Salvador",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1230,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "SALARIO: s/1230",
+                        "fuente_salario":  "html"
+                    },
+        "descripcion":  "Por encargo de nuestro cliente importante, empresa de rubro infraestructura, nos encontramos en búsqueda de personas para asumir el cargo de: AUXILIAR DE ALMACEN - TAILOY REQUISITOS: - Con o SIN EXPERIENCIA - Disponibilidad para laborar en Villa el Salvador - Secundaria completa (comprobada) - Disponibilidad para trabajar en horarios rotativos. BENEFICIOS: SALARIO: s/1230básico + bonos y MOVILIDAD DE ACERCAMIENTO PAGOS: 50% en 15na - 50% fin de mes con bonos y beneficios HORARIO: DESCANSO DOMINGO FIJON TURNO ROTATIVO: LUNES A SABADO 3 TURNOS LUNES A SABADO 7 AM A 3:15 PM LUNES A SABADO 3 PM A 11:15 PM LUNES A SABADO 11 PM A 7:15 AM “En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad.\"",
+        "requisitos":  [
+                           "Con o SIN EXPERIENCIA",
+                           "Disponibilidad para laborar en Villa el Salvador",
+                           "Secundaria completa (comprobada)",
+                           "Disponibilidad para trabajar en horarios rotativos"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "HORARIO: DESCANSO DOMINGO FIJON",
+                           "TURNO ROTATIVO: LUNES A SABADO 3 TURNOS",
+                           "LUNES A SABADO 7 AM A 3:15 PM",
+                           "LUNES A SABADO 3 PM A 11:15 PM",
+                           "LUNES A SABADO 11 PM A 7:15 AM",
+                           "“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad.\""
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/labora-en-tai-loy-auxiliar-de-almacen-sin-experiencia-movilidad-ida-y-vuelta-ingreso-directo-manpowergroup-peru-1118474281.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/labora-en-tai-loy-auxiliar-de-almacen-sin-experiencia-movilidad-ida-y-vuelta-ingreso-directo-manpowergroup-peru-1118474281.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente importante, empresa de rubro infraestructura, nos encontramos en búsqueda de personas para asumir el cargo de:\u003c/p\u003e\u003cp\u003eAUXILIAR DE ALMACEN - TAILOY\u003c/p\u003e\u003cp\u003eREQUISITOS:\u003c/p\u003e\u003cp\u003e- Con o SIN EXPERIENCIA\u003c/p\u003e\u003cp\u003e- Disponibilidad para laborar en Villa el Salvador\u003c/p\u003e\u003cp\u003e- Secundaria completa (comprobada)\u003c/p\u003e\u003cp\u003e- Disponibilidad para trabajar en horarios rotativos.\u003c/p\u003e\u003cp\u003eBENEFICIOS:\u003c/p\u003e\u003cp\u003eSALARIO: s/1230básico + bonos y MOVILIDAD DE ACERCAMIENTO\u003c/p\u003e\u003cp\u003ePAGOS: 50% en 15na - 50% fin de mes con bonos y beneficios\u003c/p\u003e\u003cp\u003eHORARIO: DESCANSO DOMINGO FIJON\u003c/p\u003e\u003cp\u003eTURNO ROTATIVO: LUNES A SABADO 3 TURNOS\u003c/p\u003e\u003cp\u003eLUNES A SABADO 7 AM A 3:15 PM\u003c/p\u003e\u003cp\u003eLUNES A SABADO 3 PM A 11:15 PM\u003c/p\u003e\u003cp\u003eLUNES A SABADO 11 PM A 7:15 AM\u003c/p\u003e\u003cp\u003e“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad.\u0026quot;\u003c/p\u003e",
+        "area":  "Almacén / Depósito / Expedición",
+        "jornada":  "Full-time",
+        "nivel":  "Otro",
+        "vacantes":  "30",
+        "turno":  "Rotativo",
+        "horario":  "DESCANSO DOMINGO FIJON",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474268",
+        "clave":  "id:1118474268",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/sub-gerente-de-post-venta-zona-norte-divemotor-grupo-divemotor-1118474268.html",
+                       "capturadoEn":  "2026-10-10T01:41:45+00:00"
+                   },
+        "titulo":  "Sub Gerente de Post Venta Zona Norte - Divemotor",
+        "empresa":  "GRUPO DIVEMOTOR",
+        "ubicacion":  "La Libertad - Trujillo",
+        "ciudad":  "Trujillo",
+        "region":  "La Libertad",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2400,
+                        "max":  2400,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "Sueldo S/2400",
+                        "fuente_salario":  "html"
+                    },
+        "descripcion":  "Empresa peruana con más de 30 años de experiencia en el mercado automotriz. Dedicada a la comercialización de autos, camiones, buses y a brindar soporte y servicio Post Venta. Marcas que representamos: Mercedes Benz, Freightliner, Jeep, Dodge, RAM y Fiat. Durante los últimos años, DIVEMOTOR ha logrado posicionarse en el mercado como una empresa sólida y confiable, asumiendo cada vez nuevos retos y cumpliendo las metas más altas. ¡Acelera tu carrera con nosotros! En el Grupo Divemotor , nos enorgullece promover un entorno de trabajo inclusivo donde valoramos la diversidad y fomentamos la igualdad de oportunidades para todo el equipo. Nos comprometemos a seleccionar a nuestr os/as colaborador es/as basándonos en sus competencias y habilidades, sin discriminación por motivos de raza, género, orientación sexual, religión, discapacidad o cualquier otra condición protegida por la ley vigente N° 29973. Nos encontramos en la búsqueda del mejor talento para cubrir la vacante de: Sub Gerente de Operaciones Zona Norte Mision : Gestionar y controlar los procesos de atención y operaciones en los Talleres y Operaciones Remotas del área de Servicios Post Venta, cumpliendo con las políticas y lineamiento corporativos, a fin de garantizar una atención adecuada y oportuna, mejorando permanentemente la satisfacción de clientes de la región y logrando los resultados planteados por la Gerencia. Funciones: Gestionar con los Jefes de Servicio el cumplimiento de la facturación mensual, paso vehicular, estadía, permanencia y nivel de servicio para lograr los objetivos, estrategias y planes generales en la Región. Gestionar conjuntamente con los Talleres y Operaciones Remotas, acciones que aseguren la Satisfacción de los Clientes y la operatividad de su vehículos. Coordinar y estructurar con los Jefes de Servicio y Jefes de Contratos de Mantenimiento el plan de trabajo operativo, con la finalidad de garantizar una atención oportuna de los vehículos de cada cliente. Coordinar con los equipos de soporte técnico, operaciones y procesos acciones que aseguren una atención de calidad, el equipamiento adecuado de los talleres y operaciones remotas y cubrir todas las necesidades identificadas a fin de garantizar un servicio de calidad, fidelizar a los clientes y cumplir con los objetivos de Servicio. Evaluar constantemente la Gestión de los Jefes de Servicio de la Región y coordinar con las Sucursales los movimientos del personal de taller y operaciones remotas. Verificar el cumplimiento de las Políticas, prácticas operativas y los procesos establecidos para los Talleres a fin de garantizar los estándares de calidad y seguridad en todos los talleres de la Región. Controlar la ejecución de las Acciones de Fábrica, promover y gestionar la mejora continua en los procesos del Taller a fin de garantizar el cumplimiento de las mejoras del área de Post Venta en los plazos establecidos. Participar en la elaboración del Presupuesto de Servicio de la Región a fin de contribuir con la proyección de los objetivos y planes de la Región. Requisitos: Carrera profesional culminada Profesional con más de 5 años liderando equipos multifuncionales del sector automotriz y/o maquinarias. Manejo de indicadores Experiencia manejando equipos. Disponibilidad para viajes. Beneficios Cubrimos la Alimentación principal (almuerzo) al 100%. Preocupados en tu salud, cubrimos un % de cobertura EPS. Te ofrecemos una larga lista de Convenios educativos donde podrás escoger la mejor opción para seguir capacitándote y desarrollándote Vivirás un excelente clima laboral y participarás de programas de reconocimiento. Te brindamos oportunidades de crecimiento y desarrollo profesional Podrás participar en nuestro programa de talento (según política vigente). Tendrás acceso a descuentos en productos que ofrecemos. Te brindamos cuponera de horas libres Formarás parte de una de las empresas líderes en el rubro automotriz.",
+        "requisitos":  [
+                           "Carrera profesional culminada",
+                           "Profesional con más de 5 años liderando equipos multifuncionales del sector automotriz y/o maquinarias",
+                           "Manejo de indicadores",
+                           "Experiencia manejando equipos",
+                           "Disponibilidad para viajes"
+                       ],
+        "funciones":  [
+                          "Gestionar con los Jefes de Servicio el cumplimiento de la facturación mensual, paso vehicular, estadía, permanencia y nivel de servicio para lograr los objetivos, estrategias y planes generales en la Región",
+                          "Gestionar conjuntamente con los Talleres y Operaciones Remotas, acciones que aseguren la Satisfacción de los Clientes y la operatividad de su vehículos",
+                          "Coordinar y estructurar con los Jefes de Servicio y Jefes de Contratos de Mantenimiento el plan de trabajo operativo, con la finalidad de garantizar una atención oportuna de los vehículos de cada cliente",
+                          "Coordinar con los equipos de soporte técnico, operaciones y procesos acciones que aseguren una atención de calidad, el equipamiento adecuado de los talleres y operaciones remotas y cubrir todas las necesidades identificadas a fin de garantizar un servicio de calidad, fidelizar a los clientes y cumplir con los objetivos de Servicio",
+                          "Evaluar constantemente la Gestión de los Jefes de Servicio de la Región y coordinar con las Sucursales los movimientos del personal de taller y operaciones remotas",
+                          "Verificar el cumplimiento de las Políticas, prácticas operativas y los procesos establecidos para los Talleres a fin de garantizar los estándares de calidad y seguridad en todos los talleres de la Región",
+                          "Controlar la ejecución de las Acciones de Fábrica, promover y gestionar la mejora continua en los procesos del Taller a fin de garantizar el cumplimiento de las mejoras del área de Post Venta en los plazos establecidos",
+                          "Participar en la elaboración del Presupuesto de Servicio de la Región a fin de contribuir con la proyección de los objetivos y planes de la Región"
+                      ],
+        "beneficios":  [
+                           "Cubrimos la Alimentación principal (almuerzo) al 100%",
+                           "Preocupados en tu salud, cubrimos un % de cobertura EPS",
+                           "Te"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/sub-gerente-de-post-venta-zona-norte-divemotor-grupo-divemotor-1118474268.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/sub-gerente-de-post-venta-zona-norte-divemotor-grupo-divemotor-1118474268.html",
+        "descripcion_html":  "\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEmpresa peruana con más de 30 años de experiencia en el mercado automotriz. Dedicada a la comercialización de autos, camiones, buses y a brindar soporte y servicio Post Venta.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eMarcas que representamos: Mercedes Benz, Freightliner, Jeep, Dodge, RAM y Fiat.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eDurante los últimos años, DIVEMOTOR ha logrado posicionarse en el mercado como una empresa sólida y confiable, asumiendo cada vez nuevos retos y cumpliendo las metas más altas.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cstrong style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e¡Acelera tu carrera con nosotros!\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/strong\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e \u003c/p\u003e \u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eEn el Grupo\u003cspan\u003e \u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003eDivemotor\u003c/span\u003e\u003cspan style=\"\"\u003e, nos enorgullece promover un entorno de trabajo inclusivo donde valoramos la diversidad y fomentamos la igualdad de oportunidades para todo el equipo. Nos comprometemos a seleccionar a nuestr\u003c/span\u003e\u003cspan style=\"\"\u003eos/as\u003c/span\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e \u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003ecolaborador\u003c/span\u003e\u003cspan style=\"\"\u003ees/as\u003c/span\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e \u003c/span\u003ebasándonos en sus competencias y habilidades, sin discriminación por motivos de raza, género, orientación sexual, religión, discapacidad o cualquier otra condición protegida por la ley vigente\u003cspan\u003e \u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003eN°\u003c/span\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e \u003c/span\u003e29973.\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eNos encontramos en la búsqueda del mejor talento para cubrir la vacante de: \u003c/span\u003e\u003c/span\u003e\u003cstrong\u003eSub Gerente de Operaciones Zona Norte\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMision\u003c/strong\u003e:\u003c/p\u003e\u003cp\u003eGestionar y controlar los procesos de atención y operaciones en los Talleres y Operaciones Remotas del área de Servicios Post Venta, cumpliendo con las políticas y lineamiento corporativos, a fin de garantizar una atención adecuada y oportuna, mejorando permanentemente la satisfacción de clientes de la región y logrando los resultados planteados por la Gerencia.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eGestionar con los Jefes de Servicio el cumplimiento de la facturación mensual, paso vehicular, estadía, permanencia y nivel de servicio para lograr los objetivos, estrategias y planes generales en la Región. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eGestionar conjuntamente con los Talleres y Operaciones Remotas, acciones que aseguren la Satisfacción de los Clientes y la operatividad de su vehículos. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eCoordinar y estructurar con los Jefes de Servicio y Jefes de Contratos de Mantenimiento el plan de trabajo operativo, con la finalidad de garantizar una atención oportuna de los vehículos de cada cliente.\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eCoordinar con los equipos de soporte técnico, operaciones y procesos acciones que aseguren una atención de calidad, el equipamiento adecuado de los talleres y operaciones remotas y cubrir todas las necesidades identificadas a fin de garantizar un servicio de calidad, fidelizar a los clientes y cumplir con los objetivos de Servicio. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eEvaluar constantemente la Gestión de los Jefes de Servicio de la Región y coordinar con las Sucursales los movimientos del personal de taller y operaciones remotas. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eVerificar el cumplimiento de las Políticas, prácticas operativas y los procesos establecidos para los Talleres a fin de garantizar los estándares de calidad y seguridad en todos los talleres de la Región. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eControlar la ejecución de las Acciones de Fábrica, promover y gestionar la mejora continua en los procesos del Taller a fin de garantizar el cumplimiento de las mejoras del área de Post Venta en los plazos establecidos. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan\u003e\u003cspan\u003eParticipar en la elaboración del Presupuesto de Servicio de la Región a fin de contribuir con la proyección de los objetivos y planes de la Región. \u003c/span\u003e\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eCarrera profesional culminada\u003c/li\u003e \u003cli\u003eProfesional con más de 5 años liderando equipos multifuncionales del sector automotriz y/o maquinarias.\u003c/li\u003e \u003cli\u003eManejo de indicadores\u003c/li\u003e \u003cli\u003eExperiencia manejando equipos.\u003c/li\u003e \u003cli\u003eDisponibilidad para viajes.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eCubrimos la Alimentación principal (almuerzo) al 100%.\u003c/li\u003e \u003cli\u003ePreocupados en tu salud, cubrimos un % de cobertura EPS.\u003c/li\u003e \u003cli\u003eTe ofrecemos una larga lista de Convenios educativos donde podrás escoger la mejor opción para seguir capacitándote y desarrollándote\u003c/li\u003e \u003cli\u003eVivirás un excelente clima laboral y participarás de programas de reconocimiento.\u003c/li\u003e \u003cli\u003eTe brindamos oportunidades de crecimiento y desarrollo profesional\u003c/li\u003e \u003cli\u003ePodrás participar en nuestro programa de talento (según política vigente).\u003c/li\u003e \u003cli\u003eTendrás acceso a descuentos en productos que ofrecemos.\u003c/li\u003e \u003cli\u003eTe brindamos cuponera de horas libres\u003c/li\u003e \u003cli\u003eFormarás parte de una de las empresas líderes en el rubro automotriz.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Comercial",
+        "jornada":  "Full-time",
+        "nivel":  "Senior / Semi-Senior",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 30 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474265",
+        "clave":  "id:1118474265",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-lima-hv-salfacorp-1118474265.html",
+                       "capturadoEn":  "2026-10-10T01:41:48+00:00"
+                   },
+        "titulo":  "ASISTENTE DE ALMACÉN - LIMA",
+        "empresa":  "HV SALFACORP",
+        "ubicacion":  "Lima - Jesús María",
+        "ciudad":  "Jesús María",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Temporal",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "HV SALFACORP, es una empresa con 75 años brindando servicios de ingeniería y construcción. A la fecha, nos encontramos en la búsqueda de un Asistente de almacen REQUISITOS: Técnico o Bachiller de la carrera de Administración, Logística o carreras afines (deseable). Experiencia mínima de 1 o 2 años en el cargo o puestos similares en proyectos de construcción. Conocimientos en SAP (indispensable). Disponibilidad inmediata para laborar en Lima. BENEFICIOS: EPS cubierto al 100% Contrato renovable. Beneficios acorde a Ley. Trabajo presencial de lunes a sabado.",
+        "requisitos":  [
+                           "Técnico o Bachiller de la carrera de Administración, Logística o carreras afines (deseable)",
+                           "Experiencia mínima de 1 o 2 años en el cargo o puestos similares en proyectos de construcción",
+                           "Conocimientos en SAP (indispensable)",
+                           "Disponibilidad inmediata para laborar en Lima"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "acorde a Ley",
+                           "Trabajo presencial de lunes a sabado"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-lima-hv-salfacorp-1118474265.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-lima-hv-salfacorp-1118474265.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003eHV SALFACORP, es una empresa con 75 años brindando servicios de ingeniería y construcción. A la fecha, nos encontramos en la búsqueda de un \u003cstrong\u003eAsistente de almacen\u003c/strong\u003e\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cu\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico o Bachiller de la carrera de Administración, Logística o carreras afines (deseable).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 o 2 años en el cargo o puestos similares en proyectos de construcción.\u003c/li\u003e \u003cli\u003eConocimientos en SAP (indispensable).\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata para laborar en Lima.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEPS cubierto al 100%\u003c/li\u003e \u003cli\u003eContrato renovable.\u003c/li\u003e \u003cli\u003eBeneficios acorde a Ley.\u003c/li\u003e \u003cli\u003eTrabajo presencial de lunes a sabado.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "Almacén / Depósito / Expedición",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "1",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474261",
+        "clave":  "id:1118474261",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/trabaja-en-lima-centro-asesora-educativoa-ventas-por-call-center-utp-contact-center-utp-contact-center-1118474261.html",
+                       "capturadoEn":  "2026-10-10T01:41:49+00:00"
+                   },
+        "titulo":  "¡Trabaja en Lima Centro! Asesor(a) Educativo(a) / Ventas por Call Center / UTP Contact Center",
+        "empresa":  "UTP CONTACT CENTER",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "La Universidad Tecnológica del Perú, que forma parte del Grupo Intercorp y es parte del ranking de las mejores empresas para trabajar en el Perú según Great Place to Work* , se encuentra en búsqueda del mejor talento, para ocupar la posición de “ Asesor(a) Educativo (Telemarketing) ” para nuestra sede de Lima Centro a continuación, los detalles: ¿A quiénes buscamos? Personas con secundaria completa. Experiencia mínima de 3 meses en campañas de ventas presenciales y/o call center (Deseable en sector educativo, seguros, banca, productos intangibles complejo. Tener disponibilidad para trabajar de manera presencial en Lima Centro (Ref: cerca al estadio Nacional). ¿Qué funciones realizarías? Contactar potenciales estudiantes y asesorarlos sobre nuestras carreras y programas. Gestionar y dar seguimiento a prospectos hasta concretar su matrícula. Realizar ventas consultivas y cumplir objetivos comerciales. Registrar la gestión en las plataformas de la universidad. Participar en campañas y actividades orientadas al cierre de ventas. ¿Cuál sería tu horario de trabajo? Turno Fijo de Lunes a sábado de 10:00 am a 7:00 pm. o 11:00 am a 8:00 pm. ¿Por qué unirte a la UTP? Atractivo salario: Reconocemos tu talento con una compensación por encima del mercado. Disfruta de todos los beneficios de ley que te corresponden por ingresar al corporativo, en planilla desde el primer día. Crecimiento profesional y capacitación constante: Desarrolla tu carrera en un entorno de aprendizaje continuo, con oportunidades de ascenso en UTP y Grupo Intercorp. Descuentos corporativos y educativos: Beneficios exclusivos Intercorp y descuentos en programas de posgrado y formación continua. Excelente clima laboral: Somos una empresa reconocida como Great Place To Work. Trabajar con un equipo altamente calificado, con una infraestructura moderna y equipada con la mejor tecnología. La UTP es una universidad inclusiva y libre de discriminación, que respeta la diversidad y autenticidad de cada uno de los colaboradores.” ¡Más diversos, mejores equipos! *Según resultados GPTW 2026",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "realizarías?",
+                          "Contactar potenciales estudiantes y asesorarlos sobre nuestras carreras y programas",
+                          "Gestionar y dar seguimiento a prospectos hasta concretar su matrícula",
+                          "Realizar ventas consultivas y cumplir objetivos comerciales",
+                          "Registrar la gestión en las plataformas de la universidad",
+                          "Participar en campañas y actividades orientadas al cierre de ventas",
+                          "¿Cuál sería tu horario de trabajo?",
+                          "Turno Fijo de Lunes a sábado de 10:00 am a 7:00 pm. o 11:00 am a 8:00 pm",
+                          "¿Por qué unirte a la UTP?",
+                          "Atractivo salario: Reconocemos tu talento con una compensación por encima del mercado",
+                          "Disfruta de todos los"
+                      ],
+        "beneficios":  [
+                           "exclusivos Intercorp y descuentos en programas de posgrado y formación continua",
+                           "Excelente clima laboral: Somos una empresa reconocida como Great Place To Work",
+                           "Trabajar con un equipo altamente calificado, con una infraestructura moderna y equipada con la mejor tecnología",
+                           "La UTP es una universidad inclusiva y libre de discriminación, que respeta la diversidad y autenticidad de cada uno de los colaboradores.”",
+                           "¡Más diversos, mejores equipos!",
+                           "Según resultados GPTW 2026"
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/trabaja-en-lima-centro-asesora-educativoa-ventas-por-call-center-utp-contact-center-utp-contact-center-1118474261.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/trabaja-en-lima-centro-asesora-educativoa-ventas-por-call-center-utp-contact-center-utp-contact-center-1118474261.html",
+        "descripcion_html":  "\u003cp\u003eLa \u003cstrong\u003eUniversidad Tecnológica del Perú,\u003c/strong\u003e que forma parte del \u003cstrong\u003eGrupo Intercorp \u003c/strong\u003ey es parte del ranking de las mejores empresas para trabajar en el Perú según \u003cstrong\u003eGreat Place to Work*\u003c/strong\u003e, se encuentra en búsqueda del mejor talento, para ocupar la posición de “\u003cstrong\u003eAsesor(a) Educativo (Telemarketing)\u003c/strong\u003e” para nuestra sede de \u003cstrong\u003eLima Centro \u003c/strong\u003ea continuación, los detalles:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿A quiénes buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePersonas con secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 meses en campañas de ventas presenciales y/o call center (Deseable en sector educativo, seguros, banca, productos intangibles complejo.\u003c/li\u003e \u003cli\u003eTener disponibilidad para trabajar de manera presencial en Lima Centro (Ref: cerca al estadio Nacional).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué funciones realizarías?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eContactar potenciales estudiantes y asesorarlos sobre nuestras carreras y programas.\u003c/li\u003e \u003cli\u003eGestionar y dar seguimiento a prospectos hasta concretar su matrícula.\u003c/li\u003e \u003cli\u003eRealizar ventas consultivas y cumplir objetivos comerciales.\u003c/li\u003e \u003cli\u003eRegistrar la gestión en las plataformas de la universidad.\u003c/li\u003e \u003cli\u003eParticipar en campañas y actividades orientadas al cierre de ventas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál sería tu horario de trabajo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTurno Fijo de Lunes a sábado de 10:00 am a 7:00 pm. o 11:00 am a 8:00 pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a la UTP?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eAtractivo salario:\u003c/strong\u003e Reconocemos tu talento con una compensación por encima del mercado.\u003c/li\u003e \u003cli\u003eDisfruta de todos los beneficios de ley que te corresponden por ingresar al corporativo, en planilla desde el primer día.\u003c/li\u003e \u003cli\u003e\u003cem\u003eCrecimiento profesional y capacitación constante:\u003c/em\u003e Desarrolla tu carrera en un entorno de aprendizaje continuo, con oportunidades de ascenso en UTP y Grupo Intercorp.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDescuentos corporativos y educativos:\u003c/strong\u003e Beneficios exclusivos Intercorp y descuentos en programas de posgrado y formación continua.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExcelente clima laboral:\u003c/strong\u003e Somos una empresa reconocida como Great Place To Work.\u003c/li\u003e \u003cli\u003eTrabajar con un equipo altamente calificado, con una infraestructura moderna y equipada con la mejor tecnología.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eLa UTP es una universidad inclusiva y libre de discriminación, que respeta la diversidad y autenticidad de cada uno de los colaboradores.”\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Más diversos, mejores equipos!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e*Según resultados GPTW 2026\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "Telemarketing",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "10",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474257",
+        "clave":  "id:1118474257",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/trabaja-en-mina-subterranea-14x7-mina-chungar-consorcio-gm-s.a.c.-1118474257.html",
+                       "capturadoEn":  "2026-10-10T01:41:53+00:00"
+                   },
+        "titulo":  "Trabaja en mina subterranea 14x7 mina chungar",
+        "empresa":  "Consorcio G\u0026M S.A.C.",
+        "ubicacion":  "Amazonas - Bellavista",
+        "ciudad":  "Bellavista",
+        "region":  "Amazonas",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "UNIDAD OPERATIVA CHUNGAR- ENVIAR DOCUMENTOS AL TELEFONO PARA INGRESAR EN PROCESO \u0026#x1f4cd; Lugar de trabajo: Unidad Operativa Chungar – Pasco \u0026#x1f504; Régimen: 14x7 \u0026#x1f3d7;️ \u0026#x1f4cc; Modalidad: Trabajo en interior mina \u0026#x1f4cb; REQUISITOS Secundaria completa. Mínimo 1 año de experiencia en puestos similares a lo que buscas IMPORTANTE : Mínimo 1 año de experiencia en minería (deseable subterranea) \u0026#x1f9e0; COMPETENCIAS Buscamos personas con: ✅ Responsabilidad y compromiso. ✅ Orden y control. ✅ Capacidad para trabajar bajo presión. ✅ Trabajo en equipo. ✅ Orientación a la seguridad. ✅ Cumplimiento de procedimientos y estándares. \u0026#x1f4e9; POSTULACIÓN Si cumples con el perfil solicitado y estás interesado en formar parte de nuestra operación minera: Envía tu CV actualizado + Certiadulto a: \u0026#x1f4f2; 953429320",
+        "requisitos":  [
+                           "Secundaria completa",
+                           "Mínimo 1 año de experiencia en puestos similares a lo que buscas",
+                           "IMPORTANTE : Mínimo 1 año de experiencia en minería (deseable subterranea)",
+                           "\u0026#x1f9e0; COMPETENCIAS",
+                           "Buscamos personas con",
+                           "✅ Responsabilidad y compromiso. ✅ Orden y control. ✅ Capacidad para trabajar bajo presión. ✅ Trabajo en equipo. ✅ Orientación a la seguridad. ✅ Cumplimiento de procedimientos y estándares",
+                           "\u0026#x1f4e9; POSTULACIÓN",
+                           "Si cumples con el"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/trabaja-en-mina-subterranea-14x7-mina-chungar-consorcio-gm-s.a.c.-1118474257.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/trabaja-en-mina-subterranea-14x7-mina-chungar-consorcio-gm-s.a.c.-1118474257.html",
+        "descripcion_html":  "\u003cp\u003eUNIDAD OPERATIVA CHUNGAR- ENVIAR DOCUMENTOS AL TELEFONO PARA INGRESAR EN PROCESO\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cd; Lugar de trabajo:\u003c/strong\u003e Unidad Operativa Chungar – Pasco\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f504; Régimen:\u003c/strong\u003e 14x7 \u003cstrong\u003e\u0026#x1f3d7;\u0026#xfe0f;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cc; Modalidad:\u003c/strong\u003e Trabajo en interior mina\u003c/p\u003e\u003cp\u003e\u0026#x1f4cb; REQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia en puestos similares a lo que buscas\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eIMPORTANTE : Mínimo 1 año de experiencia en minería (deseable subterranea)\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f9e0; COMPETENCIAS\u003c/p\u003e\u003cp\u003eBuscamos personas con:\u003c/p\u003e\u003cp\u003e\u0026#x2705; Responsabilidad y compromiso. \u0026#x2705; Orden y control. \u0026#x2705; Capacidad para trabajar bajo presión. \u0026#x2705; Trabajo en equipo. \u0026#x2705; Orientación a la seguridad. \u0026#x2705; Cumplimiento de procedimientos y estándares.\u003c/p\u003e\u003cp\u003e\u0026#x1f4e9; POSTULACIÓN\u003c/p\u003e\u003cp\u003eSi cumples con el perfil solicitado y estás interesado en formar parte de nuestra operación minera:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEnvía tu CV actualizado + Certiadulto a:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x1f4f2; \u003cstrong\u003e953429320\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "Otra",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "20",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474256",
+        "clave":  "id:1118474256",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/trabaja-en-mina-subterranea-14x7-mina-chungar-consorcio-gm-s.a.c.-1118474256.html",
+                       "capturadoEn":  "2026-10-10T01:41:57+00:00"
+                   },
+        "titulo":  "Trabaja en mina subterranea 14x7 mina chungar",
+        "empresa":  "Consorcio G\u0026M S.A.C.",
+        "ubicacion":  "Pasco - Cerro De Pasco",
+        "ciudad":  "Cerro De Pasco",
+        "region":  "Pasco",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "UNIDAD OPERATIVA CHUNGAR- ENVIAR DOCUMENTOS AL TELEFONO PARA INGRESAR EN PROCESO \u0026#x1f4cd; Lugar de trabajo: Unidad Operativa Chungar – Pasco \u0026#x1f504; Régimen: 14x7 \u0026#x1f3d7;️ \u0026#x1f4cc; Modalidad: Trabajo en interior mina \u0026#x1f4cb; REQUISITOS Secundaria completa. Mínimo 1 año de experiencia en puestos similares a lo que buscas IMPORTANTE : Mínimo 1 año de experiencia en minería (deseable subterranea) \u0026#x1f9e0; COMPETENCIAS Buscamos personas con: ✅ Responsabilidad y compromiso. ✅ Orden y control. ✅ Capacidad para trabajar bajo presión. ✅ Trabajo en equipo. ✅ Orientación a la seguridad. ✅ Cumplimiento de procedimientos y estándares. \u0026#x1f4e9; POSTULACIÓN Si cumples con el perfil solicitado y estás interesado en formar parte de nuestra operación minera: Envía tu CV actualizado + Certiadulto a: \u0026#x1f4f2; 953429320",
+        "requisitos":  [
+                           "Secundaria completa",
+                           "Mínimo 1 año de experiencia en puestos similares a lo que buscas",
+                           "IMPORTANTE : Mínimo 1 año de experiencia en minería (deseable subterranea)",
+                           "\u0026#x1f9e0; COMPETENCIAS",
+                           "Buscamos personas con",
+                           "✅ Responsabilidad y compromiso. ✅ Orden y control. ✅ Capacidad para trabajar bajo presión. ✅ Trabajo en equipo. ✅ Orientación a la seguridad. ✅ Cumplimiento de procedimientos y estándares",
+                           "\u0026#x1f4e9; POSTULACIÓN",
+                           "Si cumples con el"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/trabaja-en-mina-subterranea-14x7-mina-chungar-consorcio-gm-s.a.c.-1118474256.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/trabaja-en-mina-subterranea-14x7-mina-chungar-consorcio-gm-s.a.c.-1118474256.html",
+        "descripcion_html":  "\u003cp\u003eUNIDAD OPERATIVA CHUNGAR- ENVIAR DOCUMENTOS AL TELEFONO PARA INGRESAR EN PROCESO\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cd; Lugar de trabajo:\u003c/strong\u003e Unidad Operativa Chungar – Pasco\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f504; Régimen:\u003c/strong\u003e 14x7 \u003cstrong\u003e\u0026#x1f3d7;\u0026#xfe0f;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cc; Modalidad:\u003c/strong\u003e Trabajo en interior mina\u003c/p\u003e\u003cp\u003e\u0026#x1f4cb; REQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia en puestos similares a lo que buscas\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eIMPORTANTE : Mínimo 1 año de experiencia en minería (deseable subterranea)\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f9e0; COMPETENCIAS\u003c/p\u003e\u003cp\u003eBuscamos personas con:\u003c/p\u003e\u003cp\u003e\u0026#x2705; Responsabilidad y compromiso. \u0026#x2705; Orden y control. \u0026#x2705; Capacidad para trabajar bajo presión. \u0026#x2705; Trabajo en equipo. \u0026#x2705; Orientación a la seguridad. \u0026#x2705; Cumplimiento de procedimientos y estándares.\u003c/p\u003e\u003cp\u003e\u0026#x1f4e9; POSTULACIÓN\u003c/p\u003e\u003cp\u003eSi cumples con el perfil solicitado y estás interesado en formar parte de nuestra operación minera:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEnvía tu CV actualizado + Certiadulto a:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x1f4f2; \u003cstrong\u003e953429320\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "Otra",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "20",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118474255",
+        "clave":  "id:1118474255",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/chofer-de-camioneta-mina-chungar-14x7-consorcio-gm-s.a.c.-1118474255.html",
+                       "capturadoEn":  "2026-10-10T01:42:00+00:00"
+                   },
+        "titulo":  "Chofer de Camioneta Mina Chungar 14x7",
+        "empresa":  "Consorcio G\u0026M S.A.C.",
+        "ubicacion":  "Pasco - Cerro De Pasco",
+        "ciudad":  "Cerro De Pasco",
+        "region":  "Pasco",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "UNIDAD OPERATIVA CHUNGAR- ENVIAR DOCUMENTOS AL TELEFONO PARA INGRESAR EN PROCESO \u0026#x1f4cd; Lugar de trabajo: Unidad Operativa Chungar – Pasco \u0026#x1f504; Régimen: 14x7 \u0026#x1f3d7;️ \u0026#x1f4cc; Modalidad: Trabajo en interior mina \u0026#x1f4cb; REQUISITOS Secundaria completa. Licencia AII-B 2 años de experiencia como chofer de mina IMPORTANTE: Experiencia en mina subterránea Récord de conductor. No registrar antecedentes policiales, penales ni judiciales. \u0026#x1f9e0; COMPETENCIAS Buscamos personas con: ✅ Responsabilidad y compromiso. ✅ Orden y control. ✅ Capacidad para trabajar bajo presión. ✅ Trabajo en equipo. ✅ Orientación a la seguridad. ✅ Cumplimiento de procedimientos y estándares. \u0026#x1f4e9; POSTULACIÓN Si cumples con el perfil solicitado y estás interesado en formar parte de nuestra operación minera: Envía tu CV actualizado + Certiadulto a: \u0026#x1f4f2; 953429320",
+        "requisitos":  [
+                           "Secundaria completa",
+                           "Licencia AII-B",
+                           "2 años de experiencia como chofer de mina",
+                           "IMPORTANTE: Experiencia en mina subterránea",
+                           "Récord de conductor",
+                           "No registrar antecedentes policiales, penales ni judiciales",
+                           "\u0026#x1f9e0; COMPETENCIAS",
+                           "Buscamos personas con",
+                           "✅ Responsabilidad y compromiso. ✅ Orden y control. ✅ Capacidad para trabajar bajo presión. ✅ Trabajo en equipo. ✅ Orientación a la seguridad. ✅ Cumplimiento de procedimientos y estándares",
+                           "\u0026#x1f4e9; POSTULACIÓN",
+                           "Si cumples con el"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-08",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/chofer-de-camioneta-mina-chungar-14x7-consorcio-gm-s.a.c.-1118474255.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/chofer-de-camioneta-mina-chungar-14x7-consorcio-gm-s.a.c.-1118474255.html",
+        "descripcion_html":  "\u003cp\u003eUNIDAD OPERATIVA CHUNGAR- ENVIAR DOCUMENTOS AL TELEFONO PARA INGRESAR EN PROCESO\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cd; Lugar de trabajo:\u003c/strong\u003e Unidad Operativa Chungar – Pasco\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f504; Régimen:\u003c/strong\u003e 14x7 \u003cstrong\u003e\u0026#x1f3d7;\u0026#xfe0f;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cc; Modalidad:\u003c/strong\u003e Trabajo en interior mina\u003c/p\u003e\u003cp\u003e\u0026#x1f4cb; REQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eLicencia AII-B\u003c/li\u003e \u003cli\u003e\u003cstrong\u003e2 años de experiencia como chofer de mina\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eIMPORTANTE: Experiencia en mina subterránea\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eRécord de conductor.\u003c/li\u003e \u003cli\u003eNo registrar antecedentes policiales, penales ni judiciales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f9e0; COMPETENCIAS\u003c/p\u003e\u003cp\u003eBuscamos personas con:\u003c/p\u003e\u003cp\u003e\u0026#x2705; Responsabilidad y compromiso. \u0026#x2705; Orden y control. \u0026#x2705; Capacidad para trabajar bajo presión. \u0026#x2705; Trabajo en equipo. \u0026#x2705; Orientación a la seguridad. \u0026#x2705; Cumplimiento de procedimientos y estándares.\u003c/p\u003e\u003cp\u003e\u0026#x1f4e9; POSTULACIÓN\u003c/p\u003e\u003cp\u003eSi cumples con el perfil solicitado y estás interesado en formar parte de nuestra operación minera:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEnvía tu CV actualizado + Certiadulto a:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x1f4f2; \u003cstrong\u003e953429320\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "Otra",
+        "jornada":  "Full-time",
+        "nivel":  "Junior",
+        "vacantes":  "10",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "08/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]
