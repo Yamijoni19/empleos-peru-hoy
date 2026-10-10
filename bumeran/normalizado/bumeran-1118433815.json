@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118433815",
+    "clave":  "id:1118433815",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mozo-mesera-para-restaurante-en-barranco-unno-trattoria-1118433815.html",
+                   "capturadoEn":  "2026-10-10T07:07:37+00:00"
+               },
+    "titulo":  "Mozo/mesera para restaurante en Barranco",
+    "empresa":  "Unno trattoria",
+    "ubicacion":  "Lima - Barranco",
+    "ciudad":  "Barranco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal de Servicio al Cliente para Restaurante Resumen del Puesto Estamos buscando personas entusiastas y extrovertidas, apasionadas por el servicio al cliente, para unirse a nuestro equipo en un restaurante de alta calidad. Responsabilidades Ser un embajador de la marca, explicando con entusiasmo las opciones del menú. Brindar un servicio de alta calidad, anticipando las necesidades del cliente y asegurando una experiencia excepcional de inicio a fin. Asegurar que el ritmo del servicio sea fluido y profesional. Requisitos Experiencia previa en servicio al cliente, preferiblemente en el sector de la restauración. Excelentes habilidades de comunicación y trato interpersonal. Actitud positiva, proactiva y orientada al cliente. Capacidad para trabajar en equipo y bajo presión.",
+    "requisitos":  [
+                       "Experiencia previa en servicio al cliente, preferiblemente en el sector de la restauración",
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Actitud positiva, proactiva y orientada al cliente",
+                       "Capacidad para trabajar en equipo y bajo presión"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mozo-mesera-para-restaurante-en-barranco-unno-trattoria-1118433815.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mozo-mesera-para-restaurante-en-barranco-unno-trattoria-1118433815.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePersonal de Servicio al Cliente para Restaurante\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos buscando personas entusiastas y extrovertidas, apasionadas por el servicio al cliente, para unirse a nuestro equipo en un restaurante de alta calidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer un embajador de la marca, explicando con entusiasmo las opciones del menú.\u003c/li\u003e \u003cli\u003eBrindar un servicio de alta calidad, anticipando las necesidades del cliente y asegurando una experiencia excepcional de inicio a fin.\u003c/li\u003e \u003cli\u003eAsegurar que el ritmo del servicio sea fluido y profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en servicio al cliente, preferiblemente en el sector de la restauración.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eActitud positiva, proactiva y orientada al cliente.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y bajo presión.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Camareros",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

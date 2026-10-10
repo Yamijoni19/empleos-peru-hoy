@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118474217",
+    "clave":  "id:1118474217",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajeroa-part-time-tienda-ripley-arequipa-grupo-ripley-1118474217.html",
+                   "capturadoEn":  "2026-10-10T07:06:56+00:00"
+               },
+    "titulo":  "Cajero(a) PART TIME - Tienda Ripley - Arequipa",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "MISIÓN Hacemos de la experiencia de compra de nuestros clientes una experiencia agradable e inolvidable, por ello el Cajero(a) es el encargado de atender y asistir al cliente, buscando siempre brindarles una solución integral a sus necesidades en los ambientes de caja. DESAFÍOS ATENDER Y OPERAR LA CAJA para ejecutar todas las transacciones que requiera el cliente o la empresa de acuerdo a los procedimientos vigentes. OFRECER Y VENDER productos financieros que en asociación con Banco Ripley se encuentran disponibles para los clientes; logrando que el cliente identifique los Beneficios de los productos. RESGUARDAR los efectos de la compañía, manejando con honradez y cuidado todos los valores asignados, siguiendo los procesos y rutinas de caja que sean instruidos. REQUISITOS Universitario/Técnico en Formación Bancaria, Computación, Contabilidad o Administración. Experiencia mínima de 6 meses en puestos similares. Conocimiento de computación e informática y manejo de caja.",
+    "requisitos":  [
+                       "Universitario/Técnico en Formación Bancaria, Computación, Contabilidad o Administración",
+                       "Experiencia mínima de 6 meses en puestos similares",
+                       "Conocimiento de computación e informática y manejo de caja"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de los productos",
+                       "RESGUARDAR los efectos de la compañía, manejando con honradez y cuidado todos los valores asignados, siguiendo los procesos y rutinas de caja que sean instruidos"
+                   ],
+    "fecha_publicacion":  "2026-10-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cajeroa-part-time-tienda-ripley-arequipa-grupo-ripley-1118474217.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajeroa-part-time-tienda-ripley-arequipa-grupo-ripley-1118474217.html",
+    "descripcion_html":  "\u003cp\u003eMISIÓN\u003c/p\u003e\u003cp\u003eHacemos de la experiencia de compra de nuestros clientes una experiencia agradable e inolvidable, por ello el Cajero(a) es el encargado de atender y asistir al cliente, buscando siempre brindarles una solución integral a sus necesidades en los ambientes de caja.\u003c/p\u003e\u003cp\u003eDESAFÍOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eATENDER Y OPERAR LA CAJA para ejecutar todas las transacciones que requiera el cliente o la empresa de acuerdo a los procedimientos vigentes.\u003c/li\u003e \u003cli\u003eOFRECER Y VENDER productos financieros que en asociación con Banco Ripley se encuentran disponibles para los clientes; logrando que el cliente identifique los Beneficios de los productos.\u003c/li\u003e \u003cli\u003eRESGUARDAR los efectos de la compañía, manejando con honradez y cuidado todos los valores asignados, siguiendo los procesos y rutinas de caja que sean instruidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eREQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eUniversitario/Técnico en Formación Bancaria, Computación, Contabilidad o Administración.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento de computación e informática y manejo de caja.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Tesorería",
+    "jornada":  "",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
