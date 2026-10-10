@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118448459",
+    "clave":  "id:1118448459",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-bilingue-ingles--miraflores-manpowergroup-peru-1118448459.html",
+                   "capturadoEn":  "2026-10-10T13:41:45+00:00"
+               },
+    "titulo":  "Asesor Comercial Bilingüe (Inglés) – Miraflores",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1230",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "En Manpower Perú estamos buscando al mejor talento para asumir la posición de Asesor de Ventas Requisitos: Experiencia en ventas . Nivel de inglés intermedio o avanzado. Excelente comunicación y orientación al cliente. Facilidad de palabra, persuasión y negociación. Actitud proactiva y dinámica. Disponibilidad para laborar en el Aeropuerto Jorge Chávez Funciones: Brindar soporte y atención presencial a clientes. Resolver consultas y requerimientos siguiendo los protocolos establecidos. Promocionar y vender servicios de telefonía móvil. Captar potenciales clientes nacionales y extranjeros. Brindar atención personalizada en español e inglés. Cumplir objetivos de ventas y servicio. Apoyar en otras funciones asignadas por el supervisor. Beneficios: Remuneración acorde al mercado. Pagos mensuales. En Manpower Perú, promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. Por ello ¡Todos los talentos son bienvenidos!",
+    "requisitos":  [
+                       "Experiencia en ventas",
+                       "Nivel de inglés intermedio o avanzado",
+                       "Excelente comunicación y orientación al cliente",
+                       "Facilidad de palabra, persuasión y negociación",
+                       "Actitud proactiva y dinámica",
+                       "Disponibilidad para laborar en el Aeropuerto Jorge Chávez"
+                   ],
+    "funciones":  [
+                      "asignadas por el supervisor"
+                  ],
+    "beneficios":  [
+                       "Remuneración acorde al mercado",
+                       "Pagos mensuales",
+                       "En Manpower Perú, promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. Por ello ¡Todos los talentos son bienvenidos!"
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-bilingue-ingles--miraflores-manpowergroup-peru-1118448459.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-bilingue-ingles--miraflores-manpowergroup-peru-1118448459.html",
+    "descripcion_html":  "\u003cp\u003eEn Manpower Perú estamos buscando al mejor talento para asumir la posición de Asesor de Ventas\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas .\u003c/li\u003e \u003cli\u003eNivel de inglés intermedio o avanzado.\u003c/li\u003e \u003cli\u003eExcelente comunicación y orientación al cliente.\u003c/li\u003e \u003cli\u003eFacilidad de palabra, persuasión y negociación.\u003c/li\u003e \u003cli\u003eActitud proactiva y dinámica.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en el Aeropuerto Jorge Chávez\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte y atención presencial a clientes.\u003c/li\u003e \u003cli\u003eResolver consultas y requerimientos siguiendo los protocolos establecidos.\u003c/li\u003e \u003cli\u003ePromocionar y vender servicios de telefonía móvil.\u003c/li\u003e \u003cli\u003eCaptar potenciales clientes nacionales y extranjeros.\u003c/li\u003e \u003cli\u003eBrindar atención personalizada en español e inglés.\u003c/li\u003e \u003cli\u003eCumplir objetivos de ventas y servicio.\u003c/li\u003e \u003cli\u003eApoyar en otras funciones asignadas por el supervisor.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003ePagos mensuales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn Manpower Perú, promovemos la inclusión e inserción laboral sin distinción por razón de discapacidad, género, orientación, identidad y expresión de género, lugar de origen o generación. Por ello ¡Todos los talentos son bienvenidos!\u003c/p\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

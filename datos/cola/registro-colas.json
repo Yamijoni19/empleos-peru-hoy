@@ -4,8 +4,8 @@
                                                                                   "hash":  "8C79B929F98B638E7B18197873B7829C75BD95A015AD81E89B2A43F28AEEEF0B",
                                                                                   "titulo":  "100 Agentes De Seguridad Callao",
                                                                                   "url":  "",
-                                                                                  "fecha":  "2026-10-10T07:11:09.5676471+00:00",
-                                                                                  "intentos":  7,
+                                                                                  "fecha":  "2026-10-10T13:45:20.8126337+00:00",
+                                                                                  "intentos":  10,
                                                                                   "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
                                                                                   "cola":  "NUEVA"
                                                                               },
