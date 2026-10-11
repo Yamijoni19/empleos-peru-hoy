@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118475788",
+    "clave":  "id:1118475788",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-mantenimiento-jmt-outdoors-1118475788.html",
+                   "capturadoEn":  "2026-10-11T08:50:59+00:00"
+               },
+    "titulo":  "Operario de mantenimiento",
+    "empresa":  "JMT OUTDOORS",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa líder en el mercado se encuentra en la búsqueda de: OPERARIO DE MANTENIMIENTO Funciones: Realizar las Instalaciones de lonas en paneles publicitarios, con lona y vinil • Realizar mantenimiento de elementos publicitarios y pantallas digitales • Fabricación de troqueles • Realizar labores de limpieza de la lona (parte posterior de la pantalla) y de los logos JMT en los puntos publicitarios. • Realizar labores de limpieza de ser necesario de la estructura de la pantalla. • Informar el estado de la estructura para su mantenimiento de ser caso. • Reportar al jefe directo toda incidencia antes, durante y después de las actividades en campo. • Traslado de materiales sobrantes para la devolución al almacén. • Otras funciones y/o responsabilidades encomendadas por su Jefe inmediato. Requisitos: - Experiencia en trabajo en altura - Instalador de lonas, banderolas Beneficios: - Planilla Régimen General - Utilidades - Línea de carrera",
+    "requisitos":  [
+                       "Experiencia en trabajo en altura",
+                       "Instalador de lonas, banderolas"
+                   ],
+    "funciones":  [
+                      "y/o responsabilidades encomendadas por su Jefe inmediato"
+                  ],
+    "beneficios":  [
+                       "Planilla Régimen General",
+                       "Utilidades",
+                       "Línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-10-09",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-mantenimiento-jmt-outdoors-1118475788.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-mantenimiento-jmt-outdoors-1118475788.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa líder en el mercado se encuentra en la búsqueda de: \u003c/p\u003e\u003cp\u003e OPERARIO DE MANTENIMIENTO\u003c/p\u003e\u003cp\u003eFunciones: \u003c/p\u003e\u003cp\u003eRealizar las Instalaciones de lonas en paneles publicitarios, con lona y vinil • Realizar mantenimiento de elementos publicitarios y pantallas digitales • Fabricación de troqueles • Realizar labores de limpieza de la lona (parte posterior de la pantalla) y de los logos JMT en los puntos publicitarios. • Realizar labores de limpieza de ser necesario de la estructura de la pantalla. • Informar el estado de la estructura para su mantenimiento de ser caso. • Reportar al jefe directo toda incidencia antes, durante y después de las actividades en campo. • Traslado de materiales sobrantes para la devolución al almacén. • Otras funciones y/o responsabilidades encomendadas por su Jefe inmediato.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003eRequisitos: \u003c/p\u003e\u003cp\u003e- Experiencia en trabajo en altura\u003c/p\u003e\u003cp\u003e- Instalador de lonas, banderolas\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cp\u003e- Planilla Régimen General\u003c/p\u003e\u003cp\u003e- Utilidades\u003c/p\u003e\u003cp\u003e- Línea de carrera\u003c/p\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "09/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

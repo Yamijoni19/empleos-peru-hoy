@@ -346,8 +346,8 @@
                                                                                      "hash":  "B9F75B634DE9D80354BB00BF043E732F57D25C45C943A049FFDB2F0DAC8C8ED9",
                                                                                      "titulo":  "Administradora De Tienda / Practicante",
                                                                                      "url":  "",
-                                                                                     "fecha":  "2026-10-11T01:57:44.4224926+00:00",
-                                                                                     "intentos":  3,
+                                                                                     "fecha":  "2026-10-11T08:54:57.3486731+00:00",
+                                                                                     "intentos":  6,
                                                                                      "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
                                                                                      "cola":  "NUEVA"
                                                                                  },
