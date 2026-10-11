@@ -746,6 +746,16 @@
                                                                                                "intentos":  0,
                                                                                                "cola":  "NUEVA"
                                                                                            },
+    "bj-agentes-armados-para-ves-12-horas-rotativas-villa-el-salvador-6d2e-entrada.html":  {
+                                                                                               "estado":  "ERROR",
+                                                                                               "hash":  "71918E620EB6F317CF97B15E204EB81817DE54B60466C58A25F551D722CC69EA",
+                                                                                               "titulo":  "Agentes Armados Para Ves 12 Horas Rotativas (Villa El Salvador)",
+                                                                                               "url":  "",
+                                                                                               "fecha":  "2026-10-11T23:48:17.6570112+00:00",
+                                                                                               "intentos":  3,
+                                                                                               "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
     "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",

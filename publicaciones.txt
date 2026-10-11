@@ -5056,3 +5056,39 @@
       }
     ],
     "status": "RESOURCE_EXH
+2026-10-11 23:46 | ERROR | bj-agentes-armados-para-ves-12-horas-rotativas-villa-el-salvador-6d2e-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-11 23:47 | ERROR | bj-agentes-armados-para-ves-12-horas-rotativas-villa-el-salvador-6d2e-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-11 23:48 | ERROR | bj-agentes-armados-para-ves-12-horas-rotativas-villa-el-salvador-6d2e-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

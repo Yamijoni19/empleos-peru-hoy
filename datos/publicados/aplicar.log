@@ -3175,3 +3175,13 @@
 [2026-10-11 21:24:39]     RETIRAR: 10
 [2026-10-11 21:24:39] CANCELADO: cooldown 429 activo hasta 2026-10-11 22:05
 [2026-10-11 21:24:39]   0 escrituras realizadas; la cola queda intacta.
+[2026-10-11 23:48:22] 
+[2026-10-11 23:48:22] === PLAN DE MANTENIMIENTO ===
+[2026-10-11 23:48:22]   modo            : APLICAR (escrituras reales)
+[2026-10-11 23:48:22]   cola pendiente  : 993  (se procesarian hasta 10)
+[2026-10-11 23:48:22]   actualizaciones : 0 (ACTUALIZADA/CORRECCION de la cola comun)
+[2026-10-11 23:48:22]   pausa           : 2500 ms entre operaciones
+[2026-10-11 23:48:22]   RETIRAR como    : BORRADOR (posts.revert -> DRAFT, reversible)
+[2026-10-11 23:48:22]     RETIRAR: 10
+[2026-10-11 23:48:22] CANCELADO: cooldown 429 activo hasta 2026-10-12 00:33
+[2026-10-11 23:48:22]   0 escrituras realizadas; la cola queda intacta.
