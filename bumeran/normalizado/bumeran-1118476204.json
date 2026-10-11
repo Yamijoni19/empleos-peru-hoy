@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118476204",
+    "clave":  "id:1118476204",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-planta-mg-plastic-s.a.c.-1118476204.html",
+                   "capturadoEn":  "2026-10-11T15:40:57+00:00"
+               },
+    "titulo":  "OPERARIO DE PLANTA",
+    "empresa":  "M\u0026G Plastic S.A.C.",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una empresa peruana dedicada a la fabricación de productos plásticos mediante procesos de inyección, comprometida con la calidad, la eficiencia y el trabajo en equipo FUNCIONES: Apoyar en las actividades de producción, selección, revisión y embalaje de productos plásticos. Realizar labores de orden, almacenamiento y movimiento de materiales y productos terminados. Brindar apoyo en la carga, descarga y transporte de mercadería cuando se requiera. Mantener el orden y la limpieza del área de trabajo. Cumplir con los procedimientos de seguridad y las indicaciones del supervisor. REQUISITOS Secundaria completa. Con o sin Experiencia Disponibilidad para laborar en turnos rotativos (día, noche) Responsabilidad, puntualidad y capacidad para trabajar en equipo. Conocimientos en procesos de inyección o soplado (deseable) Ofrecemos: Ingreso a planilla bajo el régimen laboral MYPE. Pago de horas extras conforme a ley, cuando corresponda. Capacitación en las funciones del puesto. Oportunidad de aprendizaje y desarrollo dentro de la operación. Lugar de trabajo: Ate, Lima.",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Con o sin Experiencia",
+                       "Disponibilidad para laborar en turnos rotativos (día, noche)",
+                       "Responsabilidad, puntualidad y capacidad para trabajar en equipo",
+                       "Conocimientos en procesos de inyección o soplado (deseable)"
+                   ],
+    "funciones":  [
+                      "del puesto",
+                      "Oportunidad de aprendizaje y desarrollo dentro de la operación",
+                      "Lugar de trabajo: Ate, Lima"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-planta-mg-plastic-s.a.c.-1118476204.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-planta-mg-plastic-s.a.c.-1118476204.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eSomos una empresa peruana dedicada a la fabricación de productos plásticos mediante procesos de inyección, comprometida con la calidad, la eficiencia y el trabajo en equipo\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eFUNCIONES: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en las actividades de producción, selección, revisión y embalaje de productos plásticos.\u003c/li\u003e \u003cli\u003eRealizar labores de orden, almacenamiento y movimiento de materiales y productos terminados.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la carga, descarga y transporte de mercadería cuando se requiera.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003eCumplir con los procedimientos de seguridad y las indicaciones del supervisor.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eCon o sin Experiencia \u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en turnos rotativos (día, noche)\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eConocimientos en procesos de inyección o soplado (deseable)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla bajo el régimen laboral MYPE.\u003c/li\u003e \u003cli\u003ePago de horas extras conforme a ley, cuando corresponda.\u003c/li\u003e \u003cli\u003eCapacitación en las funciones del puesto.\u003c/li\u003e \u003cli\u003eOportunidad de aprendizaje y desarrollo dentro de la operación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Ate, Lima.\u003c/p\u003e",
+    "area":  "Producción",
+    "jornada":  "Full-time",
+    "nivel":  "Otro",
+    "vacantes":  "3",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

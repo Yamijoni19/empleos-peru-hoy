@@ -4883,3 +4883,39 @@
       }
     ],
     "status": "RESOURCE_EXH
+2026-10-11 15:42 | ERROR | bj-administradora-de-tienda-practicante-en-lima-id-13202961-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-11 15:43 | ERROR | bj-administradora-de-tienda-practicante-en-lima-id-13202961-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-11 15:44 | ERROR | bj-administradora-de-tienda-practicante-en-lima-id-13202961-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

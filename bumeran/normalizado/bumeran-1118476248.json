@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118476248",
+    "clave":  "id:1118476248",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-hotel-casa-porta-boutique-1118476248.html",
+                   "capturadoEn":  "2026-10-11T15:40:47+00:00"
+               },
+    "titulo":  "Personal de Limpieza",
+    "empresa":  "HOTEL CASA PORTA BOUTIQUE",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Hotel Casa Porta ( Miraflores ) Personal de Limpieza Resumen del Puesto Estamos en la búsqueda de personal de limpieza proactivo y detallista para mantener la higiene y el orden en nuestras instalaciones. El candidato ideal deberá demostrar compromiso con la calidad del servicio y capacidad para trabajar de manera eficiente. Responsabilidades Realizar tareas de limpieza general en diversas áreas. Mantener la pulcritud de espacios comunes y privados. Gestionar y reponer materiales de limpieza necesarios. Asegurar el cumplimiento de los estándares de higiene. Colaborar con el equipo para garantizar un ambiente limpio y agradable. Requisitos Experiencia previa en puestos de limpieza es valorada. Atención al detalle y rigurosidad en las tareas asignadas. Capacidad para seguir instrucciones y procedimientos. Habilidad para trabajar de forma autónoma y en equipo. Actitud proactiva y responsable.",
+    "requisitos":  [
+                       "Experiencia previa en puestos de limpieza es valorada",
+                       "Atención al detalle y rigurosidad en las tareas asignadas",
+                       "Capacidad para seguir instrucciones y procedimientos",
+                       "Habilidad para trabajar de forma autónoma y en equipo",
+                       "Actitud proactiva y responsable"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-hotel-casa-porta-boutique-1118476248.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-limpieza-hotel-casa-porta-boutique-1118476248.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eHotel Casa Porta ( Miraflores )\u003c/p\u003e\u003c/p\u003e \u003cb\u003ePersonal de Limpieza\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de personal de limpieza proactivo y detallista para mantener la higiene y el orden en nuestras instalaciones. El candidato ideal deberá demostrar compromiso con la calidad del servicio y capacidad para trabajar de manera eficiente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar tareas de limpieza general en diversas áreas.\u003c/li\u003e \u003cli\u003eMantener la pulcritud de espacios comunes y privados.\u003c/li\u003e \u003cli\u003eGestionar y reponer materiales de limpieza necesarios.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los estándares de higiene.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para garantizar un ambiente limpio y agradable.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de limpieza es valorada.\u003c/li\u003e \u003cli\u003eAtención al detalle y rigurosidad en las tareas asignadas.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y procedimientos.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eActitud proactiva y responsable.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Mantenimiento y Limpieza",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

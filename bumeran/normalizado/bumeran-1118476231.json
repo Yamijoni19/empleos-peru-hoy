@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118476231",
+    "clave":  "id:1118476231",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-finanzas-1118476231.html",
+                   "capturadoEn":  "2026-10-11T15:40:51+00:00"
+               },
+    "titulo":  "Practicante profesional de finanzas",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Practicante Profesional de Finanzas ¿Qué buscamos? * Egresado/a o últimos ciclos en Administración, Ingeniería Industrial, Economía, Contabilidad, Finanzas o carreras afines. * Manejo de Excel a nivel intermedio/avanzado * *Deseable conocimiento en elaboración y análisis de flujos de caja. * Deseable manejo de Power BI y conocimientos básicos de ERP. * Deseable experiencia previa como practicante en Finanzas, Administración, Planeamiento, Control de Gestión o áreas afines. \u0026#x1f4bc; Principales Funciones: * Apoyar en la elaboración y actualización de flujos de caja y proyecciones financieras. * Realizar seguimiento de ingresos, egresos y movimientos financieros. * Elaborar reportes y cuadros de control para la gestión. * Realizar cruces y validaciones de información de distintas fuentes. * Dar seguimiento a KPI financieros y operativos. * Apoyar en el análisis de variaciones entre lo presupuestado y lo ejecutado. * Identificar inconsistencias y oportunidades de mejora en procesos y flujos de información. * Mantener actualizadas las bases de datos y herramientas de control del área.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Apoyar en la elaboración y actualización de flujos de caja y proyecciones financieras",
+                      "Realizar seguimiento de ingresos, egresos y movimientos financieros",
+                      "Elaborar reportes y cuadros de control para la gestión",
+                      "Realizar cruces y validaciones de información de distintas fuentes",
+                      "Dar seguimiento a KPI financieros y operativos",
+                      "Apoyar en el análisis de variaciones entre lo presupuestado y lo ejecutado",
+                      "Identificar inconsistencias y oportunidades de mejora en procesos y flujos de información",
+                      "Mantener actualizadas las bases de datos y herramientas de control del área"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-finanzas-1118476231.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-finanzas-1118476231.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePracticante Profesional de Finanzas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e* Egresado/a o últimos ciclos en Administración, Ingeniería Industrial, Economía, Contabilidad, Finanzas o carreras afines.\u003c/p\u003e\u003cp\u003e* Manejo de Excel a nivel intermedio/avanzado *\u003c/p\u003e\u003cp\u003e*Deseable conocimiento en elaboración y análisis de flujos de caja.\u003c/p\u003e\u003cp\u003e* Deseable manejo de Power BI y conocimientos básicos de ERP.\u003c/p\u003e\u003cp\u003e* Deseable experiencia previa como practicante en Finanzas, Administración, Planeamiento, Control de Gestión o áreas afines. \u0026#x1f4bc; Principales\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e* Apoyar en la elaboración y actualización de flujos de caja y proyecciones financieras.\u003c/p\u003e\u003cp\u003e* Realizar seguimiento de ingresos, egresos y movimientos financieros.\u003c/p\u003e\u003cp\u003e* Elaborar reportes y cuadros de control para la gestión.\u003c/p\u003e\u003cp\u003e* Realizar cruces y validaciones de información de distintas fuentes.\u003c/p\u003e\u003cp\u003e* Dar seguimiento a KPI financieros y operativos.\u003c/p\u003e\u003cp\u003e* Apoyar en el análisis de variaciones entre lo presupuestado y lo ejecutado.\u003c/p\u003e\u003cp\u003e* Identificar inconsistencias y oportunidades de mejora en procesos y flujos de información.\u003c/p\u003e\u003cp\u003e* Mantener actualizadas las bases de datos y herramientas de control del área.\u003c/p\u003e",
+    "area":  "Finanzas",
+    "jornada":  "Full-time",
+    "nivel":  "Trainee / Pasante",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
