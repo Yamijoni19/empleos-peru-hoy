@@ -341,6 +341,16 @@
                                                                                                "intentos":  0,
                                                                                                "cola":  "NUEVA"
                                                                                            },
+    "bj-administradora-de-tienda-practicante-en-lima-id-13202961-entrada.html":  {
+                                                                                     "estado":  "ERROR",
+                                                                                     "hash":  "B9F75B634DE9D80354BB00BF043E732F57D25C45C943A049FFDB2F0DAC8C8ED9",
+                                                                                     "titulo":  "Administradora De Tienda / Practicante",
+                                                                                     "url":  "",
+                                                                                     "fecha":  "2026-10-11T01:57:44.4224926+00:00",
+                                                                                     "intentos":  3,
+                                                                                     "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                     "cola":  "NUEVA"
+                                                                                 },
     "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",
