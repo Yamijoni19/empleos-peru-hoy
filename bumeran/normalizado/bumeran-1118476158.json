@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118476158",
+    "clave":  "id:1118476158",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenador-grafico-multiservicios-llo-mar-s.a.c-1118476158.html",
+                   "capturadoEn":  "2026-10-11T20:16:38+00:00"
+               },
+    "titulo":  "Diseñador Gráfico",
+    "empresa":  "MULTISERVICIOS LLO \u0026 MAR S.A.C",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Diseñador Gráfico Resumen del Puesto Buscamos un Diseñador Gráfico creativo y con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de la creación de diseños y piezas gráficas para diversos proyectos. Responsabilidades Elaboración de diseños y planos utilizando Corel Draw. Manejo de máquinas de corte (plotter) y software asociado para la preparación de materiales. Gestión del tiempo para la entrega de materiales a otros equipos. Cumplimiento de plazos de entrega para materiales de impresión y cortes. Requisitos Dominio de Corel Draw. Experiencia en el manejo de máquinas de corte (plotter). Habilidades de observación, innovación y creatividad. Orientación a la calidad del servicio, puntualidad y lealtad.",
+    "requisitos":  [
+                       "Dominio de Corel Draw",
+                       "Experiencia en el manejo de máquinas de corte (plotter)",
+                       "Habilidades de observación, innovación y creatividad",
+                       "Orientación a la calidad del servicio, puntualidad y lealtad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/disenador-grafico-multiservicios-llo-mar-s.a.c-1118476158.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenador-grafico-multiservicios-llo-mar-s.a.c-1118476158.html",
+    "descripcion_html":  "\u003cb\u003eDiseñador Gráfico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDiseñador Gráfico\u003c/b\u003e creativo y con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de la creación de diseños y piezas gráficas para diversos proyectos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eElaboración de diseños y planos utilizando Corel Draw.\u003c/li\u003e \u003cli\u003eManejo de máquinas de corte (plotter) y software asociado para la preparación de materiales.\u003c/li\u003e \u003cli\u003eGestión del tiempo para la entrega de materiales a otros equipos.\u003c/li\u003e \u003cli\u003eCumplimiento de plazos de entrega para materiales de impresión y cortes.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDominio de Corel Draw.\u003c/li\u003e \u003cli\u003eExperiencia en el manejo de máquinas de corte (plotter).\u003c/li\u003e \u003cli\u003eHabilidades de observación, innovación y creatividad.\u003c/li\u003e \u003cli\u003eOrientación a la calidad del servicio, puntualidad y lealtad.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Diseño Gráfico",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

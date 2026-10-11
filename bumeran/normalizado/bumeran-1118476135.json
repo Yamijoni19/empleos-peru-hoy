@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118476135",
+    "clave":  "id:1118476135",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-mecanica-automotriz-practicas-isidro-toro-julca-1118476135.html",
+                   "capturadoEn":  "2026-10-11T20:16:58+00:00"
+               },
+    "titulo":  "Técnico de Mecánica Automotriz (Prácticas)",
+    "empresa":  "ISIDRO TORO JULCA",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico de Mecánica Automotriz (Prácticas) Resumen del Puesto Buscamos estudiantes o egresados recientes de Mecánica Automotriz con gran entusiasmo por aprender y desarrollarse en el área. El candidato ideal será proactivo, responsable y estará dispuesto a colaborar activamente en un entorno de taller. Responsabilidades Principales Asistencia Técnica: Apoyar en los servicios de mantenimiento preventivo y correctivo de vehículos, siguiendo las directrices establecidas. Diagnóstico Mecánico: Colaborar en la identificación de fallas mecánicas, eléctricas y electrónicas. Control Operativo: Reportar incidencias, registrar el uso de repuestos y dar seguimiento a las órdenes de trabajo bajo supervisión. Orden y Seguridad: Mantener el área de trabajo limpia y ordenada, y cuidar las herramientas y equipos especializados. Requisitos Estudiante activo de los últimos ciclos o egresado reciente de la carrera de Mecánica Automotriz. Proactividad, responsabilidad y ganas de aprender. Capacidad para trabajar en equipo y seguir instrucciones. Interés en el área de mantenimiento y diagnóstico automotriz.",
+    "requisitos":  [
+                       "Estudiante activo de los últimos ciclos o egresado reciente de la carrera de Mecánica Automotriz",
+                       "Proactividad, responsabilidad y ganas de aprender",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Interés en el área de mantenimiento y diagnóstico automotriz"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-mecanica-automotriz-practicas-isidro-toro-julca-1118476135.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-mecanica-automotriz-practicas-isidro-toro-julca-1118476135.html",
+    "descripcion_html":  "\u003cb\u003eTécnico de Mecánica Automotriz (Prácticas)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos estudiantes o egresados recientes de Mecánica Automotriz con gran entusiasmo por aprender y desarrollarse en el área. El candidato ideal será proactivo, responsable y estará dispuesto a colaborar activamente en un entorno de taller.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003eAsistencia Técnica:\u003c/b\u003e Apoyar en los servicios de mantenimiento preventivo y correctivo de vehículos, siguiendo las directrices establecidas.\u003c/li\u003e \u003cli\u003e\u003cb\u003eDiagnóstico Mecánico:\u003c/b\u003e Colaborar en la identificación de fallas mecánicas, eléctricas y electrónicas.\u003c/li\u003e \u003cli\u003e\u003cb\u003eControl Operativo:\u003c/b\u003e Reportar incidencias, registrar el uso de repuestos y dar seguimiento a las órdenes de trabajo bajo supervisión.\u003c/li\u003e \u003cli\u003e\u003cb\u003eOrden y Seguridad:\u003c/b\u003e Mantener el área de trabajo limpia y ordenada, y cuidar las herramientas y equipos especializados.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante activo de los últimos ciclos o egresado reciente de la carrera de Mecánica Automotriz.\u003c/li\u003e \u003cli\u003eProactividad, responsabilidad y ganas de aprender.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eInterés en el área de mantenimiento y diagnóstico automotriz.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Ingeniería Automotriz",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

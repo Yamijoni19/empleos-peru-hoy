@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118476131",
+    "clave":  "id:1118476131",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-yesenia-castillo-sanchez-1118476131.html",
+                   "capturadoEn":  "2026-10-11T20:17:06+00:00"
+               },
+    "titulo":  "Auxiliar de Almacén",
+    "empresa":  "YESENIA CASTILLO SANCHEZ",
+    "ubicacion":  "Piura - Castilla Piura",
+    "ciudad":  "Castilla Piura",
+    "region":  "Piura",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Almacén Resumen del Puesto Estamos en la búsqueda de un Auxiliar de Almacén proactivo y con gran capacidad para el trabajo físico. El candidato ideal poseerá experiencia en tareas de carga y descarga, y en la gestión de inventarios en entornos de distribución. Responsabilidades Realizar tareas de carga y descarga de mercancía de manera eficiente y segura. Colaborar en la recepción, almacenamiento y expedición de productos. Mantener el orden y la limpieza del área de almacén. Participar en el control de inventario y la verificación de stock. Apoyar en otras funciones operativas del almacén según sea necesario. Requisitos Experiencia previa comprobable en puestos similares, preferentemente en logística o distribución. Capacidad física para realizar tareas de carga y descarga de manera continua. Habilidad para trabajar en equipo y seguir instrucciones. Actitud proactiva y responsable. Disponibilidad para trabajar en horarios rotativos si fuera necesario.",
+    "requisitos":  [
+                       "Experiencia previa comprobable en puestos similares, preferentemente en logística o distribución",
+                       "Capacidad física para realizar tareas de carga y descarga de manera continua",
+                       "Habilidad para trabajar en equipo y seguir instrucciones",
+                       "Actitud proactiva y responsable",
+                       "Disponibilidad para trabajar en horarios rotativos si fuera necesario"
+                   ],
+    "funciones":  [
+                      "operativas del almacén según sea necesario"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-yesenia-castillo-sanchez-1118476131.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-yesenia-castillo-sanchez-1118476131.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar de Almacén\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAuxiliar de Almacén\u003c/b\u003e proactivo y con gran capacidad para el trabajo físico. El candidato ideal poseerá experiencia en tareas de carga y descarga, y en la gestión de inventarios en entornos de distribución.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar tareas de carga y descarga de mercancía de manera eficiente y segura.\u003c/li\u003e \u003cli\u003eColaborar en la recepción, almacenamiento y expedición de productos.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de almacén.\u003c/li\u003e \u003cli\u003eParticipar en el control de inventario y la verificación de stock.\u003c/li\u003e \u003cli\u003eApoyar en otras funciones operativas del almacén según sea necesario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa comprobable en puestos similares, preferentemente en logística o distribución.\u003c/li\u003e \u003cli\u003eCapacidad física para realizar tareas de carga y descarga de manera continua.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eActitud proactiva y responsable.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos si fuera necesario.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Almacén / Depósito / Expedición",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

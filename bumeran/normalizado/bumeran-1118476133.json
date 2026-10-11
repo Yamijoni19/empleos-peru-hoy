@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118476133",
+    "clave":  "id:1118476133",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-general-con-especializacion-en-ecografia-consultorio-medico-dr.-fernandez-1118476133.html",
+                   "capturadoEn":  "2026-10-11T20:17:01+00:00"
+               },
+    "titulo":  "Médico General con Especialización en Ecografía",
+    "empresa":  "Consultorio Médico Dr. Fernández",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  3500,
+                    "max":  4500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,500 - S/ 4,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Médico General con Especialización en Ecografía Resumen del Puesto Buscamos un Médico General con formación y experiencia comprobable en ecografía para integrarse a nuestro equipo. El candidato ideal poseerá un título profesional, colegiatura y habilidad vigentes, además de experiencia en la realización de diversos estudios ecográficos. Responsabilidades Realizar estudios ecográficos torácicos, abdominales, de articulaciones e intravaginales. Proporcionar diagnósticos precisos y oportunos basados en los hallazgos ecográficos. Colaborar con otros profesionales de la salud para asegurar la continuidad de la atención al paciente. Mantenerse actualizado sobre los avances y técnicas en ecografía diagnóstica. Requisitos Título profesional, colegiatura y habilidad vigentes. Formación documentada y experiencia demostrable en ecografía. Capacidad para trabajar de forma independiente y como parte de un equipo. Excelentes habilidades de comunicación y trato con el paciente. Condiciones de Contratación Se considerará una condición inicial de contratación por recibos por honorarios durante los primeros tres meses.",
+    "requisitos":  [
+                       "Título profesional, colegiatura y habilidad vigentes",
+                       "Formación documentada y experiencia demostrable en ecografía",
+                       "Capacidad para trabajar de forma independiente y como parte de un equipo",
+                       "Excelentes habilidades de comunicación y trato con el paciente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-general-con-especializacion-en-ecografia-consultorio-medico-dr.-fernandez-1118476133.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-general-con-especializacion-en-ecografia-consultorio-medico-dr.-fernandez-1118476133.html",
+    "descripcion_html":  "\u003cb\u003eMédico General con Especialización en Ecografía\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eMédico General\u003c/b\u003e con formación y experiencia comprobable en ecografía para integrarse a nuestro equipo. El candidato ideal poseerá un título profesional, colegiatura y habilidad vigentes, además de experiencia en la realización de diversos estudios ecográficos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar estudios ecográficos torácicos, abdominales, de articulaciones e intravaginales.\u003c/li\u003e \u003cli\u003eProporcionar diagnósticos precisos y oportunos basados en los hallazgos ecográficos.\u003c/li\u003e \u003cli\u003eColaborar con otros profesionales de la salud para asegurar la continuidad de la atención al paciente.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre los avances y técnicas en ecografía diagnóstica.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo profesional, colegiatura y habilidad vigentes.\u003c/li\u003e \u003cli\u003eFormación documentada y experiencia demostrable en ecografía.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y como parte de un equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato con el paciente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones de Contratación\u003c/b\u003e \u003cp\u003eSe considerará una condición inicial de contratación por recibos por honorarios durante los primeros tres meses.\u003c/p\u003e",
+    "area":  "Medicina",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

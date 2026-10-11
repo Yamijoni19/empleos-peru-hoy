@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118476147",
+    "clave":  "id:1118476147",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-bi-suplencia-de-vacaciones-manpowergroup-peru-1118476147.html",
+                   "capturadoEn":  "2026-10-11T20:16:45+00:00"
+               },
+    "titulo":  "Analista BI / Suplencia de vacaciones",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  3500,
+                    "max":  3500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Salario: S/3500",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Funciones: Diseñar, actualizar y administrar dashboards analíticos dinámicos en Power BI. Elaborar y distribuir reportes diarios, semanales y mensuales de desempeño comercial y operativo. Generar alertas tempranas ante desviaciones en los KPIs clave para permitir acciones correctivas oportunas. Generar alertas tempranas ante desviaciones en los KPIs clave para permitir acciones correctivas oportunas. Brindar soporte analítico directo al equipo interno y al cliente. Garantizar la integridad, calidad y trazabilidad de toda la información consolidada y reportada. Asegurar el cumplimiento en tiempo y forma de los entregables. Elaborar reportes de status de contraprestaciones (arriendos de espacios), exhibiciones adicionales, promociones y precios. Requisitos: Egresado universitario: Ingeniería de Sistemas, Ingeniería Industrial, Estadística, Economía, Administración o carreras afines. Power BI - Avanzado Excel - Avanzado Aplicativos de relevo - Intermedio Mínimo 1 año desempeñando funciones de Analista de BI, Analista Comercial o Analista de Datos - Consumo Masivo (canal moderno), Retail, Trade Marketing. Horario: L - V 8:00 a.m. a 6:00 p.m. Salario: S/3500",
+    "requisitos":  [
+                       "Egresado universitario: Ingeniería de Sistemas, Ingeniería Industrial, Estadística, Economía, Administración o carreras afines",
+                       "Power BI - Avanzado",
+                       "Excel - Avanzado",
+                       "Aplicativos de relevo - Intermedio",
+                       "Mínimo 1 año desempeñando"
+                   ],
+    "funciones":  [
+                      "de Analista de BI, Analista Comercial o Analista de Datos - Consumo Masivo (canal moderno), Retail, Trade Marketing",
+                      "Horario: L - V 8:00 a.m. a 6:00 p.m",
+                      "Salario: S/3500"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-bi-suplencia-de-vacaciones-manpowergroup-peru-1118476147.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-bi-suplencia-de-vacaciones-manpowergroup-peru-1118476147.html",
+    "descripcion_html":  "\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar, actualizar y administrar dashboards analíticos dinámicos en Power BI. \u003c/li\u003e \u003cli\u003eElaborar y distribuir reportes diarios, semanales y mensuales de desempeño comercial y operativo. \u003c/li\u003e \u003cli\u003eGenerar alertas tempranas ante desviaciones en los KPIs clave para permitir acciones correctivas oportunas. \u003c/li\u003e \u003cli\u003eGenerar alertas tempranas ante desviaciones en los KPIs clave para permitir acciones correctivas oportunas. \u003c/li\u003e \u003cli\u003eBrindar soporte analítico directo al equipo interno y al cliente. \u003c/li\u003e \u003cli\u003eGarantizar la integridad, calidad y trazabilidad de toda la información consolidada y reportada. Asegurar el cumplimiento en tiempo y forma de los entregables. \u003c/li\u003e \u003cli\u003eElaborar reportes de status de contraprestaciones (arriendos de espacios), exhibiciones adicionales, promociones y precios.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado universitario: Ingeniería de Sistemas, Ingeniería Industrial, Estadística, Economía, Administración o carreras afines.\u003c/li\u003e \u003cli\u003ePower BI - Avanzado\u003c/li\u003e \u003cli\u003eExcel - Avanzado\u003c/li\u003e \u003cli\u003eAplicativos de relevo - Intermedio\u003c/li\u003e \u003cli\u003eMínimo 1 año desempeñando funciones de Analista de BI, Analista Comercial o Analista de Datos - Consumo Masivo (canal moderno), Retail, Trade Marketing.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eHorario: L - V 8:00 a.m. a 6:00 p.m.\u003c/p\u003e\u003cp\u003eSalario: S/3500\u003c/p\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "Senior",
+    "vacantes":  "1",
+    "turno":  "",
+    "horario":  "L - V 8:00 a.m. a 6:00 p.m.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
