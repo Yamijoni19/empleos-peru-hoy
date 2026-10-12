@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118476415",
+    "clave":  "id:1118476415",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-cocina-restaurante-1118476415.html",
+                   "capturadoEn":  "2026-10-12T15:24:23+00:00"
+               },
+    "titulo":  "Asistente de Cocina",
+    "empresa":  "Restaurante",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Cocina Resumen del Puesto Estamos en la búsqueda de un Asistente de Cocina dinámico y con gran vocación de servicio para integrarse a un equipo de trabajo en un entorno gastronómico. El candidato ideal deberá demostrar proactividad, capacidad de aprendizaje y un fuerte compromiso con la calidad y la higiene en la preparación de alimentos. Responsabilidades Colaborar en la preparación de ingredientes y platos bajo la supervisión del chef o cocinero principal. Mantener la limpieza y el orden en la cocina, incluyendo utensilios, superficies de trabajo y equipos. Asistir en la recepción y almacenamiento de suministros de cocina. Asegurar el cumplimiento de las normativas de seguridad e higiene alimentaria. Apoyar en la gestión de inventario de insumos. Participar en la elaboración de nuevos platillos y en la mejora de procesos existentes. Requisitos Experiencia previa en puestos similares es valorada, pero no excluyente. Conocimiento básico de técnicas de cocina y manipulación de alimentos. Capacidad para trabajar en un ambiente de ritmo rápido y bajo presión. Actitud positiva, ganas de aprender y trabajar en equipo. Compromiso con la limpieza y el orden. Disponibilidad para trabajar en horarios rotativos.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares es valorada, pero no excluyente",
+                       "Conocimiento básico de técnicas de cocina y manipulación de alimentos",
+                       "Capacidad para trabajar en un ambiente de ritmo rápido y bajo presión",
+                       "Actitud positiva, ganas de aprender y trabajar en equipo",
+                       "Compromiso con la limpieza y el orden",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-cocina-restaurante-1118476415.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-cocina-restaurante-1118476415.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente de Cocina\u003c/b\u003e dinámico y con gran vocación de servicio para integrarse a un equipo de trabajo en un entorno gastronómico. El candidato ideal deberá demostrar proactividad, capacidad de aprendizaje y un fuerte compromiso con la calidad y la higiene en la preparación de alimentos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación de ingredientes y platos bajo la supervisión del chef o cocinero principal.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en la cocina, incluyendo utensilios, superficies de trabajo y equipos.\u003c/li\u003e \u003cli\u003eAsistir en la recepción y almacenamiento de suministros de cocina.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las normativas de seguridad e higiene alimentaria.\u003c/li\u003e \u003cli\u003eApoyar en la gestión de inventario de insumos.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de nuevos platillos y en la mejora de procesos existentes.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares es valorada, pero no excluyente.\u003c/li\u003e \u003cli\u003eConocimiento básico de técnicas de cocina y manipulación de alimentos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un ambiente de ritmo rápido y bajo presión.\u003c/li\u003e \u003cli\u003eActitud positiva, ganas de aprender y trabajar en equipo.\u003c/li\u003e \u003cli\u003eCompromiso con la limpieza y el orden.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Gastronomia",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

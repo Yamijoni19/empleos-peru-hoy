@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118476417",
+    "clave":  "id:1118476417",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mesero-a-de-restaurante-restaurante-1118476417.html",
+                   "capturadoEn":  "2026-10-12T15:24:21+00:00"
+               },
+    "titulo":  "Mesero/a de Restaurante",
+    "empresa":  "Restaurante",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Mesero/a de Restaurante Resumen del Puesto Estamos en la búsqueda de un/a Mesero/a de Restaurante dinámico/a y con vocación de servicio para integrarse a nuestro equipo. El candidato/a ideal deberá poseer excelentes habilidades de comunicación y una actitud proactiva para garantizar una experiencia excepcional a nuestros comensales. Responsabilidades Atender a los clientes de manera cordial y eficiente, tomando sus pedidos con precisión. Servir alimentos y bebidas siguiendo los estándares de presentación y calidad. Gestionar las mesas, asegurando su limpieza y preparación para nuevos clientes. Resolver consultas y solicitudes de los clientes de manera oportuna. Colaborar con el equipo de cocina y barra para asegurar un servicio fluido. Mantener el área de trabajo limpia y ordenada. Requisitos Experiencia previa en roles de servicio al cliente o atención en establecimientos gastronómicos. Habilidades de comunicación interpersonal y capacidad para trabajar en equipo. Actitud positiva, energía y disposición para el aprendizaje. Capacidad para trabajar bajo presión en un entorno dinámico. Flexibilidad horaria para cubrir diferentes turnos.",
+    "requisitos":  [
+                       "Experiencia previa en roles de servicio al cliente o atención en establecimientos gastronómicos",
+                       "Habilidades de comunicación interpersonal y capacidad para trabajar en equipo",
+                       "Actitud positiva, energía y disposición para el aprendizaje",
+                       "Capacidad para trabajar bajo presión en un entorno dinámico",
+                       "Flexibilidad horaria para cubrir diferentes turnos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mesero-a-de-restaurante-restaurante-1118476417.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mesero-a-de-restaurante-restaurante-1118476417.html",
+    "descripcion_html":  "\u003cb\u003eMesero/a de Restaurante\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un/a \u003cb\u003eMesero/a de Restaurante\u003c/b\u003e dinámico/a y con vocación de servicio para integrarse a nuestro equipo. El candidato/a ideal deberá poseer excelentes habilidades de comunicación y una actitud proactiva para garantizar una experiencia excepcional a nuestros comensales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender a los clientes de manera cordial y eficiente, tomando sus pedidos con precisión.\u003c/li\u003e \u003cli\u003eServir alimentos y bebidas siguiendo los estándares de presentación y calidad.\u003c/li\u003e \u003cli\u003eGestionar las mesas, asegurando su limpieza y preparación para nuevos clientes.\u003c/li\u003e \u003cli\u003eResolver consultas y solicitudes de los clientes de manera oportuna.\u003c/li\u003e \u003cli\u003eColaborar con el equipo de cocina y barra para asegurar un servicio fluido.\u003c/li\u003e \u003cli\u003eMantener el área de trabajo limpia y ordenada.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de servicio al cliente o atención en establecimientos gastronómicos.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación interpersonal y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud positiva, energía y disposición para el aprendizaje.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión en un entorno dinámico.\u003c/li\u003e \u003cli\u003eFlexibilidad horaria para cubrir diferentes turnos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Camareros",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

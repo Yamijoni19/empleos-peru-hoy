@@ -747,15 +747,24 @@
                                                                                                "cola":  "NUEVA"
                                                                                            },
     "bj-agentes-armados-para-ves-12-horas-rotativas-villa-el-salvador-6d2e-entrada.html":  {
-                                                                                               "estado":  "ERROR",
+                                                                                               "estado":  "PUBLICADA",
                                                                                                "hash":  "71918E620EB6F317CF97B15E204EB81817DE54B60466C58A25F551D722CC69EA",
                                                                                                "titulo":  "Agentes Armados Para Ves 12 Horas Rotativas (Villa El Salvador)",
-                                                                                               "url":  "",
-                                                                                               "fecha":  "2026-10-12T06:01:09.0850839+00:00",
-                                                                                               "intentos":  6,
-                                                                                               "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/agentes-armados-para-ves-12-horas.html",
+                                                                                               "fecha":  "2026-10-12T15:27:06.0190640+00:00",
+                                                                                               "intentos":  0,
                                                                                                "cola":  "NUEVA"
                                                                                            },
+    "bj-agentes-de-cobranzas-sin-experiencia-desc-sabados-y-domingos-c97b-entrada.html":  {
+                                                                                              "estado":  "ERROR",
+                                                                                              "hash":  "F1AF548568AB9E2CC5216F6AEC8022683C74919560A187BBB5E2655B21E6E51A",
+                                                                                              "titulo":  "Agentes De Cobranzas Sin Experiencia Desc Sábados Y Domingos Jockey Plaza (Lima)",
+                                                                                              "url":  "",
+                                                                                              "fecha":  "2026-10-12T15:29:38.1776371+00:00",
+                                                                                              "intentos":  3,
+                                                                                              "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
     "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",
