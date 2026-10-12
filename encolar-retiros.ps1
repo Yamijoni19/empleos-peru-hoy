@@ -1,23 +1,15 @@
 ﻿param(
     [string[]]$Urls,
+    [string]$UrlsArchivo = '',
     [string]$Motivo = 'compilacion o prefijo doble (publicado con script pre-fase-a)'
 )
 $ErrorActionPreference = 'Stop'
 $BaseDir = Split-Path -Parent $MyInvocation.MyCommand.Path
 $utf8 = New-Object System.Text.UTF8Encoding($false)
-$RutaToken = Join-Path $BaseDir 'token-blogger.json'
-$RutaCred  = Join-Path $BaseDir 'credentials.json'
 $RutaCola  = Join-Path $BaseDir 'datos\publicados\cola-correcciones.jsonl'
-
-$tk = Get-Content $RutaToken -Raw -Encoding UTF8 | ConvertFrom-Json
-$cr = Get-Content $RutaCred -Raw -Encoding UTF8 | ConvertFrom-Json
-$clientId = [string]$cr.installed.client_id; if (-not $clientId) { $clientId = [string]$cr.web.client_id }
-$clientSec = [string]$cr.installed.client_secret; if (-not $clientSec) { $clientSec = [string]$cr.web.client_secret }
-$tok = Invoke-RestMethod -Method Post -Uri 'https://oauth2.googleapis.com/token' -Body @{
-    client_id = $clientId; client_secret = $clientSec; refresh_token = [string]$tk.refresh_token; grant_type = 'refresh_token'
-} -TimeoutSec 30
-$access = [string]$tok.access_token
-$blogId = '448950430489176641'
+if ($UrlsArchivo -ne '') {
+    $Urls = @([IO.File]::ReadAllLines($UrlsArchivo) | Where-Object { $_.Trim() -ne '' })
+}
 
 $existentes = @{}
 foreach ($l in [IO.File]::ReadAllLines($RutaCola)) {
@@ -25,17 +17,28 @@ foreach ($l in [IO.File]::ReadAllLines($RutaCola)) {
     try { $e = $l | ConvertFrom-Json; $existentes[[string]$e.url] = [string]$e.estado } catch { }
 }
 
+# Inventario de posts VIVOS via feed publico: el API posts.list IGNORA
+# startIndex (devolvio siempre los mismos 500 aunque hay ~2800 vivos) y los
+# retiros de posts antiguos quedaban perdidos con "NO ENCONTRADO EN BLOG".
 $porId = @{}
-$start = 1; $paginas = 0
-while ($paginas -lt 20) {
-    $r = Invoke-RestMethod -Headers @{ Authorization = "Bearer $access" } -Uri ("https://www.googleapis.com/blogger/v3/blogs/$blogId/posts?fetchBodies=false&maxResults=500&startIndex=$start&fields=items(id,url,title,status)") -TimeoutSec 60
-    $n = @($r.items).Count
-    foreach ($p in @($r.items)) { $porId[[string]$p.url] = $p }
+$si = 1; $paginas = 0; $total = 0
+while ($paginas -lt 40) {
+    $f = Invoke-RestMethod -Uri ("https://empleosperuhoy.blogspot.com/feeds/posts/default?alt=json&max-results=500&start-index=$si") -TimeoutSec 60
+    $entries = @($f.feed.entry)
+    foreach ($e in $entries) {
+        $url = ''
+        foreach ($lnk in @($e.link)) { if ([string]$lnk.rel -eq 'alternate') { $url = [string]$lnk.href; break } }
+        $id = ''
+        if ([string]$e.id.'$t' -match 'post-(\d+)$') { $id = $matches[1] }
+        if ($url) { $porId[$url] = [pscustomobject]@{ id = $id; url = $url; title = [string]$e.title.'$t' } }
+    }
     $paginas++
-    if ($n -eq 0) { break }
-    $start += $n
+    try { $total = [int]$f.feed.'opensearch$totalResults'.'$t' } catch { }
+    if ($entries.Count -eq 0) { break }
+    $si += $entries.Count
+    if ($si -gt $total) { break }
 }
-Write-Output ("posts en blog: " + $porId.Count)
+Write-Output ("posts vivos en blog: " + $porId.Count + " (total feed " + $total + ")")
 
 $nuevos = 0
 foreach ($u in $Urls) {
