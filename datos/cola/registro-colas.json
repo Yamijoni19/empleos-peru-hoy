@@ -756,15 +756,420 @@
                                                                                                "cola":  "NUEVA"
                                                                                            },
     "bj-agentes-de-cobranzas-sin-experiencia-desc-sabados-y-domingos-c97b-entrada.html":  {
-                                                                                              "estado":  "ERROR",
+                                                                                              "estado":  "PUBLICADA",
                                                                                               "hash":  "F1AF548568AB9E2CC5216F6AEC8022683C74919560A187BBB5E2655B21E6E51A",
                                                                                               "titulo":  "Agentes De Cobranzas Sin Experiencia Desc Sábados Y Domingos Jockey Plaza (Lima)",
-                                                                                              "url":  "",
-                                                                                              "fecha":  "2026-10-12T15:29:38.1776371+00:00",
-                                                                                              "intentos":  3,
-                                                                                              "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/agentes-de-cobranzas-sin-experiencia.html",
+                                                                                              "fecha":  "2026-10-12T23:05:30.9931661+00:00",
+                                                                                              "intentos":  0,
                                                                                               "cola":  "NUEVA"
                                                                                           },
+    "bj-agentes-de-seguridad-linea-2-tren-callao-12-horas-ingreso-inm-04c4-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "8CBAFD3287D1E917E975961A67AA8C1BC46D0A64D84DDAD1232D5C4BF1F049EC",
+                                                                                               "titulo":  "Agentes De Seguridad Linea 2 Tren Callao 12 Horas Ingreso Inmediato Planilla Desde El Primer Día",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/agentes-de-seguridad-linea-2-tren.html",
+                                                                                               "fecha":  "2026-10-12T23:06:02.3881983+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-agentic-ai-solutions-architect-remote-work-ref-304230-en-caja-84ce-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "E4533B525ED2902DECE6AB534267E3B4856224EDC494A56928743391B7794C88",
+                                                                                               "titulo":  "Agentic Ai Solutions Architect - Remote Work | Ref#304230",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/agentic-ai-solutions-architect-remote.html",
+                                                                                               "fecha":  "2026-10-12T23:07:04.4072094+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-agentic-generative-ai-engineer-remote-work-lima-en-lima-id-13204672-entrada.html":  {
+                                                                                                "estado":  "PUBLICADA",
+                                                                                                "hash":  "FB593B1F13C518824B7614B4D0E1324BB8E1FEBE4188581FA8515610CB0143F8",
+                                                                                                "titulo":  "Agentic Generative Ai Engineer Remote Work (Lima)",
+                                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/agentic-generative-ai-engineer-remote.html",
+                                                                                                "fecha":  "2026-10-12T23:07:35.4709058+00:00",
+                                                                                                "intentos":  0,
+                                                                                                "cola":  "NUEVA"
+                                                                                            },
+    "bj-agronomo-la-libertad-en-la-libertad-id-13203227-entrada.html":  {
+                                                                            "estado":  "PUBLICADA",
+                                                                            "hash":  "6680333B9EA22BC1BA47886C05744F1D38FE93D0DCE1C4123631EA81077F2E87",
+                                                                            "titulo":  "Agrónomo La Libertad",
+                                                                            "url":  "https://empleosperuhoy.blogspot.com/2026/10/agronomo-la-libertad.html",
+                                                                            "fecha":  "2026-10-12T23:08:06.3068248+00:00",
+                                                                            "intentos":  0,
+                                                                            "cola":  "NUEVA"
+                                                                        },
+    "bj-ai-adoption-enablement-specialist-en-lima-id-13204099-entrada.html":  {
+                                                                                  "estado":  "PUBLICADA",
+                                                                                  "hash":  "0A43D4A2E94B6E705B124131819DD65EE8AF54BC55A6929E6F2B679D139DF88A",
+                                                                                  "titulo":  "Ai Adoption \u0026 Enablement Specialist",
+                                                                                  "url":  "https://empleosperuhoy.blogspot.com/2026/10/ai-adoption-enablement-specialist.html",
+                                                                                  "fecha":  "2026-10-12T23:09:08.3944768+00:00",
+                                                                                  "intentos":  0,
+                                                                                  "cola":  "NUEVA"
+                                                                              },
+    "bj-aiassisted-full-stack-engineer-lima-en-lima-id-13204734-entrada.html":  {
+                                                                                    "estado":  "PUBLICADA",
+                                                                                    "hash":  "40C84B0062EADAE52ABBDD897C4AD31FB0BE0ED7DB357365EEEE69E3ABDF55D3",
+                                                                                    "titulo":  "Aiassisted Full Stack Engineer (Lima)",
+                                                                                    "url":  "https://empleosperuhoy.blogspot.com/2026/10/aiassisted-full-stack-engineer-lima.html",
+                                                                                    "fecha":  "2026-10-12T23:10:10.1014410+00:00",
+                                                                                    "intentos":  0,
+                                                                                    "cola":  "NUEVA"
+                                                                                },
+    "bj-ai-automation-analyst-peru-en-peru-id-13204505-entrada.html":  {
+                                                                           "estado":  "PUBLICADA",
+                                                                           "hash":  "89E9CE5C99EC9F9CEA275977208AF6C8F22949D3154C56D5DFDF2192AC224EB4",
+                                                                           "titulo":  "Ai Automation Analyst (Perú)",
+                                                                           "url":  "https://empleosperuhoy.blogspot.com/2026/10/ai-automation-analyst-peru.html",
+                                                                           "fecha":  "2026-10-12T23:11:11.8301607+00:00",
+                                                                           "intentos":  0,
+                                                                           "cola":  "NUEVA"
+                                                                       },
+    "bj-ai-prototyper-en-lima-id-13203864-entrada.html":  {
+                                                              "estado":  "PUBLICADA",
+                                                              "hash":  "E21D05E1E0CF0C9E55A9AC4E78847DE82BDFB496652D8D6EA228273776C2277F",
+                                                              "titulo":  "Ai Prototyper",
+                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/ai-prototyper.html",
+                                                              "fecha":  "2026-10-12T23:12:13.6609919+00:00",
+                                                              "intentos":  0,
+                                                              "cola":  "NUEVA"
+                                                          },
+    "bj-alianzas-ferias-en-peru-id-13201661-entrada.html":  {
+                                                                "estado":  "PUBLICADA",
+                                                                "hash":  "4DBF8F7F8D972C06D512674D328702B406044AEEF2F22E51C411750B2C2C8125",
+                                                                "titulo":  "Alianzas / Ferias",
+                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/alianzas-ferias.html",
+                                                                "fecha":  "2026-10-12T23:13:15.5256035+00:00",
+                                                                "intentos":  0,
+                                                                "cola":  "NUEVA"
+                                                            },
+    "bj-allocation-executive-en-lima-id-13203902-entrada.html":  {
+                                                                     "estado":  "PUBLICADA",
+                                                                     "hash":  "F31F568AC94321E6D14690D2DBE5F9735398F7960554E3A66687A1B5697A1A07",
+                                                                     "titulo":  "Allocation Executive",
+                                                                     "url":  "https://empleosperuhoy.blogspot.com/2026/10/allocation-executive.html",
+                                                                     "fecha":  "2026-10-12T23:14:17.1083142+00:00",
+                                                                     "intentos":  0,
+                                                                     "cola":  "NUEVA"
+                                                                 },
+    "bj-almacenero-despacho-y-reparto-en-piura-id-13202856-entrada.html":  {
+                                                                               "estado":  "PUBLICADA",
+                                                                               "hash":  "BAB8C9847C80A87BB541AC9FDE01CF32B7E96C4C8D8B522E9ECDD597E1DE8D1B",
+                                                                               "titulo":  "Almacenero - Despacho Y Reparto",
+                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-despacho-y-reparto.html",
+                                                                               "fecha":  "2026-10-12T23:15:49.6497429+00:00",
+                                                                               "intentos":  0,
+                                                                               "cola":  "NUEVA"
+                                                                           },
+    "bj-almacenero-de-tienda-full-time-callao-minka-y-outlet-faucett-0aad-entrada.html":  {
+                                                                                              "estado":  "PUBLICADA",
+                                                                                              "hash":  "8F422D143A3521E339BE9596E5C0296F19C179E03EABEAD2ED94673A8737427C",
+                                                                                              "titulo":  "Almacenero De Tienda Full Time / Callao Minka Y Outlet Faucett",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-de-tienda-full-time-callao.html",
+                                                                                              "fecha":  "2026-10-12T23:17:23.1404125+00:00",
+                                                                                              "intentos":  0,
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
+    "bj-almacenero-empaquetador-de-pedidos-la-victoria-en-lima-id-13202127-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "26130C73057001DE8F13155290126B2E3BE4B78662EBE24945005BE9EA385586",
+                                                                                               "titulo":  "Almacenero Empaquetador De Pedidos La Victoria",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-empaquetador-de-pedidos-la.html",
+                                                                                               "fecha":  "2026-10-12T23:18:55.6778516+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-almacenero-en-lima-id-13202894-entrada.html":  {
+                                                           "estado":  "PUBLICADA",
+                                                           "hash":  "77FEA4679C04DF44F197348C35AEB88BDBDD1F286AC178B1E538656A9746BBDC",
+                                                           "titulo":  "Almacenero",
+                                                           "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero.html",
+                                                           "fecha":  "2026-10-12T23:20:28.0602432+00:00",
+                                                           "intentos":  0,
+                                                           "cola":  "NUEVA"
+                                                       },
+    "bj-almacenero-en-lima-id-13205157-entrada.html":  {
+                                                           "estado":  "PUBLICADA",
+                                                           "hash":  "5D1DF59D57AB00E439EE9EE5BF8DE79FB098F62D75EA536A109D77DF3D1F50EA",
+                                                           "titulo":  "Almacenero",
+                                                           "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero_0385616061.html",
+                                                           "fecha":  "2026-10-12T23:22:00.3237039+00:00",
+                                                           "intentos":  0,
+                                                           "cola":  "NUEVA"
+                                                       },
+    "bj-almacenero-estibador-en-lima-id-13205247-entrada.html":  {
+                                                                     "estado":  "PUBLICADA",
+                                                                     "hash":  "2D11A2710A9CE5F204BD19D25EB4B3D0A126A40A22267BDE7313E867813E29E4",
+                                                                     "titulo":  "Almacenero -Estibador",
+                                                                     "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-estibador.html",
+                                                                     "fecha":  "2026-10-12T23:27:52.2110306+00:00",
+                                                                     "intentos":  0,
+                                                                     "cola":  "NUEVA"
+                                                                 },
+    "bj-almacenero-full-time-real-plaza-huancayo-en-junin-id-13202131-entrada.html":  {
+                                                                                          "estado":  "PUBLICADA",
+                                                                                          "hash":  "20D814AE98E9BB6643CCA5BD07EC8A5647420B14363FF78693C6ABC3AB83E521",
+                                                                                          "titulo":  "Almacenero Full Time / Real Plaza Huancayo",
+                                                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-full-time-real-plaza-huancayo.html",
+                                                                                          "fecha":  "2026-10-12T23:28:22.9787921+00:00",
+                                                                                          "intentos":  0,
+                                                                                          "cola":  "NUEVA"
+                                                                                      },
+    "bj-almacenero-mina-en-ancash-id-13203867-entrada.html":  {
+                                                                  "estado":  "PUBLICADA",
+                                                                  "hash":  "B1E46428E9E47AB9F8D1725643B46806C9F854D0689C5417786A113A4DAB5885",
+                                                                  "titulo":  "Almacenero Mina",
+                                                                  "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-mina.html",
+                                                                  "fecha":  "2026-10-12T23:28:53.8057893+00:00",
+                                                                  "intentos":  0,
+                                                                  "cola":  "NUEVA"
+                                                              },
+    "bj-almacenero-sueldo-s-1-bono-s-carmen-de-legua-ingreso-inmediat-0649-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "FAA91117B7EAF902274C2FECBC7ECDF29747A73361C68916BF2BD7239D43BF49",
+                                                                                               "titulo":  "Almacenero Sueldo S 1, Bono S Carmen De Legua Ingreso Inmediato Auxiliar De Almacen (Carmen De La Legua Reynoso)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/almacenero-sueldo-s-1-bono-s-carmen-de.html",
+                                                                                               "fecha":  "2026-10-12T23:29:25.0637787+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-amarrador-en-satipo-id-13202693-entrada.html":  {
+                                                            "estado":  "PUBLICADA",
+                                                            "hash":  "2D84092000483950A7F5596A180EF86B883A20EBB88E3DEDC3E6E45979844C99",
+                                                            "titulo":  "Amarrador",
+                                                            "url":  "https://empleosperuhoy.blogspot.com/2026/10/amarrador.html",
+                                                            "fecha":  "2026-10-12T23:29:55.9086848+00:00",
+                                                            "intentos":  0,
+                                                            "cola":  "NUEVA"
+                                                        },
+    "bj-analista-bi-facturacion-en-lima-id-13202340-entrada.html":  {
+                                                                        "estado":  "PUBLICADA",
+                                                                        "hash":  "029689F95121E327912B924AC8865E711204557506A3F6C52E3B3B50FD7CF7B5",
+                                                                        "titulo":  "Analista Bi Facturación",
+                                                                        "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-bi-facturacion.html",
+                                                                        "fecha":  "2026-10-12T23:30:57.9812385+00:00",
+                                                                        "intentos":  0,
+                                                                        "cola":  "NUEVA"
+                                                                    },
+    "bj-analista-bi-senior-sanna-clinica-el-golf-en-huancavelica-id-1-f5ba-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "F1FBA740E633B6DAE2664F2132474BC9D50396A2481A0B63CF455064681AB076",
+                                                                                               "titulo":  "Analista Bi Senior / Sanna Clínica El Golf",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-bi-senior-sanna-clinica-el-golf.html",
+                                                                                               "fecha":  "2026-10-12T23:31:59.8359380+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-analista-comercial-trujillo-peru-en-peru-id-13204652-entrada.html":  {
+                                                                                 "estado":  "PUBLICADA",
+                                                                                 "hash":  "83C0EF5FC295D2D498417FC9704A209FDE2DD8F0C9D5766D2E93E4644248B482",
+                                                                                 "titulo":  "Analista Comercial Trujillo (Perú)",
+                                                                                 "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-comercial-trujillo-peru.html",
+                                                                                 "fecha":  "2026-10-12T23:33:01.7530065+00:00",
+                                                                                 "intentos":  0,
+                                                                                 "cola":  "NUEVA"
+                                                                             },
+    "bj-analista-comercio-exterior-en-lima-id-13203317-entrada.html":  {
+                                                                           "estado":  "PUBLICADA",
+                                                                           "hash":  "5077B903CEFDE90069E7933C1D8FE944DEE8C088D13CEA1044E3CC0566561F63",
+                                                                           "titulo":  "Analista Comercio Exterior",
+                                                                           "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-comercio-exterior.html",
+                                                                           "fecha":  "2026-10-12T23:34:03.6069682+00:00",
+                                                                           "intentos":  0,
+                                                                           "cola":  "NUEVA"
+                                                                       },
+    "bj-analista-contable-chorrillos-pantanos-de-villa-en-lima-id-13204878-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "27A425F24AE8E1B9E10147FDC6AD982BF6CEBC1C8C6AADD41B372347006484EE",
+                                                                                               "titulo":  "Analista Contable / Chorrillos - Pantanos De Villa",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-chorrillos-pantanos.html",
+                                                                                               "fecha":  "2026-10-12T23:35:05.7270550+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-analista-contable-contabilidad-y-finanzas-en-lima-id-13203519-entrada.html":  {
+                                                                                          "estado":  "PUBLICADA",
+                                                                                          "hash":  "647B8A9469CB5729E2554188085FEC2FFBF94A325272685E08BC20B4CDB4551E",
+                                                                                          "titulo":  "Analista Contable Contabilidad Y Finanzas",
+                                                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-contabilidad-y.html",
+                                                                                          "fecha":  "2026-10-12T23:36:38.3503580+00:00",
+                                                                                          "intentos":  0,
+                                                                                          "cola":  "NUEVA"
+                                                                                      },
+    "bj-analista-contable-de-planillas-magdalena-del-mar-en-lima-id-1-8e58-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "257B423D6863EC78CC375DA9145CA8B3DC02578D7F10A95CD69F2BCC3867BD5D",
+                                                                                               "titulo":  "Analista Contable De Planillas (Magdalena Del Mar)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-de-planillas.html",
+                                                                                               "fecha":  "2026-10-12T23:38:10.6044100+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-analista-contable-junior-en-lima-id-13202909-entrada.html":  {
+                                                                         "estado":  "PUBLICADA",
+                                                                         "hash":  "F624692091C3200EE46051AF489B6D5AFC8F32A1E7F3C6788A62EA4ED801267B",
+                                                                         "titulo":  "Analista Contable Junior",
+                                                                         "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-junior.html",
+                                                                         "fecha":  "2026-10-12T23:41:46.5938466+00:00",
+                                                                         "intentos":  0,
+                                                                         "cola":  "NUEVA"
+                                                                     },
+    "bj-analista-contable-licencia-por-maternidad-5-meses-en-lima-id-24b3-entrada.html":  {
+                                                                                              "estado":  "PUBLICADA",
+                                                                                              "hash":  "85A2B9C9F3045C91AF5528CAEB198016EBF7C5650FB3329DFC3F6146A49698C0",
+                                                                                              "titulo":  "Analista Contable (Licencia Por Maternidad 5 Meses)",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-licencia-por.html",
+                                                                                              "fecha":  "2026-10-12T23:43:19.2717379+00:00",
+                                                                                              "intentos":  0,
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
+    "bj-analista-contable-rubro-minero-transporte-nasca-en-ica-id-13205515-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "F515BDE1F7BC8CDFC062E9E8A7E97B6D0862CEA0BF907C349DCC0AEAC64DAB7D",
+                                                                                               "titulo":  "Analista Contable Rubro Minero Transporte (Nasca)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-rubro-minero.html",
+                                                                                               "fecha":  "2026-10-12T23:49:11.8380247+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-analista-contable-senior-activos-costos-y-reportes-en-ica-id-9cdf-entrada.html":  {
+                                                                                              "estado":  "PUBLICADA",
+                                                                                              "hash":  "B2550BB704A88F002DC3709E82CE8D17E7EF0111ED0EFB70380BD5260E0610B0",
+                                                                                              "titulo":  "Analista Contable Senior – Activos, Costos Y Reportes",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-senior-activos-costos.html",
+                                                                                              "fecha":  "2026-10-12T23:49:42.7468276+00:00",
+                                                                                              "intentos":  0,
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
+    "bj-analista-contable-senior-en-ancash-id-13203849-entrada.html":  {
+                                                                           "estado":  "PUBLICADA",
+                                                                           "hash":  "B714E98D76627B18FE00A9B316640EAF1FEF214E26B5303D13029805A52ED321",
+                                                                           "titulo":  "Analista Contable Senior",
+                                                                           "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-senior.html",
+                                                                           "fecha":  "2026-10-12T23:50:14.0824788+00:00",
+                                                                           "intentos":  0,
+                                                                           "cola":  "NUEVA"
+                                                                       },
+    "bj-analista-contable-senior-en-lambayeque-id-13202349-entrada.html":  {
+                                                                               "estado":  "PUBLICADA",
+                                                                               "hash":  "13925CA712010DCF10D37370AEFC47BDE4915696940E9F6B4CC4DAB4791A1583",
+                                                                               "titulo":  "Analista Contable Senior",
+                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-senior_0921843567.html",
+                                                                               "fecha":  "2026-10-12T23:51:15.7701592+00:00",
+                                                                               "intentos":  0,
+                                                                               "cola":  "NUEVA"
+                                                                           },
+    "bj-analista-contable-senior-en-lima-id-13202400-entrada.html":  {
+                                                                         "estado":  "PUBLICADA",
+                                                                         "hash":  "F7426DA76957C89672BEAAAEF3B7E4D41A64863F180BEC68B8480C98FA2534E0",
+                                                                         "titulo":  "Analista Contable Senior",
+                                                                         "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-senior_01736578382.html",
+                                                                         "fecha":  "2026-10-12T23:52:17.7678187+00:00",
+                                                                         "intentos":  0,
+                                                                         "cola":  "NUEVA"
+                                                                     },
+    "bj-analista-contable-senior-especialista-en-costos-en-lima-id-13203432-entrada.html":  {
+                                                                                                "estado":  "PUBLICADA",
+                                                                                                "hash":  "3C9C00899044199E6BD4EF19FFC4659459B95C05AD6C9C147A4CDF3E9D3D765A",
+                                                                                                "titulo":  "Analista Contable Senior Especialista En Costos",
+                                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-contable-senior-especialista.html",
+                                                                                                "fecha":  "2026-10-12T23:53:19.7102942+00:00",
+                                                                                                "intentos":  0,
+                                                                                                "cola":  "NUEVA"
+                                                                                            },
+    "bj-analista-corporativo-de-planeamiento-estrategico-lima-en-lima-1ba0-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "C0DD66DCD5E99202BDB32B4B8932D1C980280B661FA214EF699D2B4124BE33C8",
+                                                                                               "titulo":  "Analista Corporativo De Planeamiento Estratégico (Lima)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-corporativo-de-planeamiento.html",
+                                                                                               "fecha":  "2026-10-12T23:54:21.5214555+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-analista-de-acompanamiento-social-en-lima-id-13203657-entrada.html":  {
+                                                                                  "estado":  "PUBLICADA",
+                                                                                  "hash":  "D51933CCA51F2C42C9DB709CAA6E7B98F77B3CB97F7FF06BAA80AA9A43350F3E",
+                                                                                  "titulo":  "Analista De Acompañamiento Social",
+                                                                                  "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-acompanamiento-social.html",
+                                                                                  "fecha":  "2026-10-12T23:55:23.7954349+00:00",
+                                                                                  "intentos":  0,
+                                                                                  "cola":  "NUEVA"
+                                                                              },
+    "bj-analista-de-acreditacion-institucional-en-lima-id-13205043-entrada.html":  {
+                                                                                       "estado":  "PUBLICADA",
+                                                                                       "hash":  "15637FC02FCAB005454145EE330436D77B4E520411BD6FDCF91C0D24050A3766",
+                                                                                       "titulo":  "Analista De Acreditación Institucional",
+                                                                                       "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-acreditacion-institucional.html",
+                                                                                       "fecha":  "2026-10-12T23:56:56.5000863+00:00",
+                                                                                       "intentos":  0,
+                                                                                       "cola":  "NUEVA"
+                                                                                   },
+    "bj-analista-de-administracion-de-rrhh-en-peru-id-13201640-entrada.html":  {
+                                                                                   "estado":  "PUBLICADA",
+                                                                                   "hash":  "05BBF4D17592C10B8AE2F85AA6E62322D8DF99B5B7D7BD10C7708F7969E5F26F",
+                                                                                   "titulo":  "Analista De Administracion De Rrhh",
+                                                                                   "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-administracion-de-rrhh.html",
+                                                                                   "fecha":  "2026-10-12T23:58:29.4314527+00:00",
+                                                                                   "intentos":  0,
+                                                                                   "cola":  "NUEVA"
+                                                                               },
+    "bj-analista-de-administracion-tecnica-en-peru-id-13201544-entrada.html":  {
+                                                                                   "estado":  "PUBLICADA",
+                                                                                   "hash":  "34390EACBAFD7023B8FD2EA561955BB26FA0631A45D50B9704BBABF0F6722786",
+                                                                                   "titulo":  "Analista De Administración Técnica",
+                                                                                   "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-administracion-tecnica.html",
+                                                                                   "fecha":  "2026-10-13T00:00:02.0505492+00:00",
+                                                                                   "intentos":  0,
+                                                                                   "cola":  "NUEVA"
+                                                                               },
+    "bj-analista-de-administracion-y-control-documentario-en-lima-id-baa4-entrada.html":  {
+                                                                                              "estado":  "PUBLICADA",
+                                                                                              "hash":  "4CDED63F046946B3A0D1BF0A8395743786B6F69B87174F41D641130DB496AB23",
+                                                                                              "titulo":  "Analista De Administración Y Control Documentario",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-administracion-y-control.html",
+                                                                                              "fecha":  "2026-10-13T00:01:34.6154718+00:00",
+                                                                                              "intentos":  0,
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
+    "bj-analista-de-administracion-y-servicios-generales-lima-en-lima-6485-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "5EA4A1A048EE878102570D02A491F4EA517C3E8C5D0F9F1AA9390DEA66B4F44E",
+                                                                                               "titulo":  "Analista De Administración Y Servicios Generales - Lima",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-administracion-y-servicios.html",
+                                                                                               "fecha":  "2026-10-13T00:03:07.2425799+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "bj-analista-de-adquisiciones-en-lima-id-13205018-entrada.html":  {
+                                                                          "estado":  "PUBLICADA",
+                                                                          "hash":  "C12C80BE5CA6E3C8675B3F502C22F6B2C75E3CDBE1E53E1474F77B04070EE48B",
+                                                                          "titulo":  "Analista De Adquisiciones",
+                                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-adquisiciones.html",
+                                                                          "fecha":  "2026-10-13T00:04:08.9278411+00:00",
+                                                                          "intentos":  0,
+                                                                          "cola":  "NUEVA"
+                                                                      },
+    "bj-analista-de-aplicaciones-n-2-en-lima-id-13203223-entrada.html":  {
+                                                                             "estado":  "PUBLICADA",
+                                                                             "hash":  "D50CC56A8E5C6F0DC76C3B72BDF7CF574C53713EB165C3517F0B6B99EE14D1B7",
+                                                                             "titulo":  "Analista De Aplicaciones N2",
+                                                                             "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-aplicaciones-n2.html",
+                                                                             "fecha":  "2026-10-13T00:10:00.3914679+00:00",
+                                                                             "intentos":  0,
+                                                                             "cola":  "NUEVA"
+                                                                         },
+    "bj-analista-de-aplicaciones-senior-en-lima-id-13203426-entrada.html":  {
+                                                                                "estado":  "ERROR",
+                                                                                "hash":  "DFDFBA269D37FBB47845494731D3D5B0F2B8950BC2454C4EAC4BAE5029EABB52",
+                                                                                "titulo":  "Analista De Aplicaciones Senior",
+                                                                                "url":  "",
+                                                                                "fecha":  "2026-10-13T00:12:31.8328907+00:00",
+                                                                                "intentos":  3,
+                                                                                "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                "cola":  "NUEVA"
+                                                                            },
     "bj-opportunities-checker-summer-works-period-23-weeks-porters-la-56f9-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "56C5B9C197AB6CA6292548132F7869924CE82E463EA1E346DB1DBF7D1FCCB5D1",
@@ -873,6 +1278,15 @@
                                                                                  "intentos":  0,
                                                                                  "cola":  "NUEVA"
                                                                              },
+    "bum-1118422887-jefe-de-marketing-entrada.html":  {
+                                                          "estado":  "PUBLICADA",
+                                                          "hash":  "AC09222B288DDA93A14D1088E7774B8B4FEA92CB25284DABE420F56298717DE1",
+                                                          "titulo":  "Jefe de Marketing",
+                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/jefe-de-marketing.html",
+                                                          "fecha":  "2026-10-12T23:06:33.2016694+00:00",
+                                                          "intentos":  0,
+                                                          "cola":  "NUEVA"
+                                                      },
     "bum-1118426050-asistente-de-gerencia-general-recepci-n-entrada.html":  {
                                                                                 "estado":  "PUBLICADA",
                                                                                 "hash":  "D7BDE36E04D3DC07D7BFB7D0B06BCF4EE84DFD2E1FCA6C7B365E98E2BE6A7541",
@@ -1837,6 +2251,177 @@
                                                                              "intentos":  0,
                                                                              "cola":  "NUEVA"
                                                                          },
+    "bum-1118467096-analista-de-cr-ditos-con-experiencia-jaen-ref-1717-2026-entrada.html":  {
+                                                                                                "estado":  "PUBLICADA",
+                                                                                                "hash":  "93AE27EB3DD40051F0CC2A13B7FCE763327F34150E9CBE28DC96EBDC00584CDD",
+                                                                                                "titulo":  "ANALISTA DE CRÉDITOS CON EXPERIENCIA JAEN/ REF 1717 2026",
+                                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-creditos-con-experiencia.html",
+                                                                                                "fecha":  "2026-10-12T23:14:47.9463335+00:00",
+                                                                                                "intentos":  0,
+                                                                                                "cola":  "NUEVA"
+                                                                                            },
+    "bum-1118467097-jefe-de-planificaci-n-vehicular-pdi-divemoto-entrada.html":  {
+                                                                                     "estado":  "PUBLICADA",
+                                                                                     "hash":  "80C1379B3FB71F77ECEA7AD16E3716549AECF716016484BD1E601187B3487D50",
+                                                                                     "titulo":  "Jefe de Planificación Vehicular PDI - Divemoto",
+                                                                                     "url":  "https://empleosperuhoy.blogspot.com/2026/10/jefe-de-planificacion-vehicular-pdi.html",
+                                                                                     "fecha":  "2026-10-12T23:16:20.6439316+00:00",
+                                                                                     "intentos":  0,
+                                                                                     "cola":  "NUEVA"
+                                                                                 },
+    "bum-1118467099-supervisor-de-seguridad-y-salud-en-el-trabajo-entrada.html":  {
+                                                                                      "estado":  "PUBLICADA",
+                                                                                      "hash":  "BE61CB113AA739269715F75B9B22CC31F9021CD79D8826FC2B0FC1E6EAA1AA24",
+                                                                                      "titulo":  "Supervisor de Seguridad y Salud en el Trabajo",
+                                                                                      "url":  "https://empleosperuhoy.blogspot.com/2026/10/supervisor-de-seguridad-y-salud-en-el.html",
+                                                                                      "fecha":  "2026-10-12T23:17:54.0076079+00:00",
+                                                                                      "intentos":  0,
+                                                                                      "cola":  "NUEVA"
+                                                                                  },
+    "bum-1118467105-administrador-de-grifo-entrada.html":  {
+                                                               "estado":  "PUBLICADA",
+                                                               "hash":  "FBD04CA029C2D7750A5D33A126C1A4C46C6A76B7D744107286564550ABE0658A",
+                                                               "titulo":  "Administrador de Grifo",
+                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/administrador-de-grifo.html",
+                                                               "fecha":  "2026-10-12T23:19:26.3516298+00:00",
+                                                               "intentos":  0,
+                                                               "cola":  "NUEVA"
+                                                           },
+    "bum-1118467109-asesor-de-tienda-retail-entrada.html":  {
+                                                                "estado":  "PUBLICADA",
+                                                                "hash":  "13C3744F4B0271B36D8BB9427539F2E244017FEA8B8F6C44B016F00B932D0CFB",
+                                                                "titulo":  "Asesor de tienda retail",
+                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/asesor-de-tienda-retail.html",
+                                                                "fecha":  "2026-10-12T23:20:58.8628414+00:00",
+                                                                "intentos":  0,
+                                                                "cola":  "NUEVA"
+                                                            },
+    "bum-1118467110-practicante-profesional-de-reclutamiento-y-selecci-n-arequip-entrada.html":  {
+                                                                                                     "estado":  "PUBLICADA",
+                                                                                                     "hash":  "EAF9BDB7BDB419D9D2C378F11F2C73CF4C5A335F660116A39BD6F994324CFD75",
+                                                                                                     "titulo":  "PRACTICANTE PROFESIONAL DE RECLUTAMIENTO Y SELECCIÓN / AREQUIPA",
+                                                                                                     "url":  "https://empleosperuhoy.blogspot.com/2026/10/practicante-profesional-de.html",
+                                                                                                     "fecha":  "2026-10-12T23:22:31.3482408+00:00",
+                                                                                                     "intentos":  0,
+                                                                                                     "cola":  "NUEVA"
+                                                                                                 },
+    "bum-1118467120-cuartelero-de-habitaciones-housekeeping-entrada.html":  {
+                                                                                "estado":  "PUBLICADA",
+                                                                                "hash":  "8A71800AAB06B3E6B3B5FDF13C6B50BA591571F8FDDACB2CE0CA0DE8725E8DA9",
+                                                                                "titulo":  "CUARTELERO DE HABITACIONES/ HOUSEKEEPING",
+                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/cuartelero-de-habitaciones-housekeeping.html",
+                                                                                "fecha":  "2026-10-12T23:35:36.9397125+00:00",
+                                                                                "intentos":  0,
+                                                                                "cola":  "NUEVA"
+                                                                            },
+    "bum-1118467121-mec-nico-de-equipos-menores-lur-n-entrada.html":  {
+                                                                          "estado":  "PUBLICADA",
+                                                                          "hash":  "3F8100FD5E15229AA0B16972F091A9E3962F6D9E56F47A47C28EA1054F79A632",
+                                                                          "titulo":  "Mecánico de Equipos Menores - Lurín",
+                                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/mecanico-de-equipos-menores-lurin.html",
+                                                                          "fecha":  "2026-10-12T23:37:09.1800264+00:00",
+                                                                          "intentos":  0,
+                                                                          "cola":  "NUEVA"
+                                                                      },
+    "bum-1118467123-administrador-windows-linux-en-entornos-cloud-entrada.html":  {
+                                                                                      "estado":  "PUBLICADA",
+                                                                                      "hash":  "981C8CA977214FD97061816FE7084084D350A37190B5F3A8DB879427A5E4A5BB",
+                                                                                      "titulo":  "Administrador Windows/Linux en entornos cloud",
+                                                                                      "url":  "https://empleosperuhoy.blogspot.com/2026/10/administrador-windowslinux-en-entornos.html",
+                                                                                      "fecha":  "2026-10-12T23:38:41.3707223+00:00",
+                                                                                      "intentos":  0,
+                                                                                      "cola":  "NUEVA"
+                                                                                  },
+    "bum-1118467127-t-cnico-electricista-mantenimiento-mina-entrada.html":  {
+                                                                                "estado":  "PUBLICADA",
+                                                                                "hash":  "8C54F1AE351AFF596586AC637021819ED4EDF1EE1B025AF42CAA76B4F6F14642",
+                                                                                "titulo":  "Técnico Electricista - Mantenimiento Mina",
+                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/tecnico-electricista-mantenimiento-mina.html",
+                                                                                "fecha":  "2026-10-12T23:39:42.8717107+00:00",
+                                                                                "intentos":  0,
+                                                                                "cola":  "NUEVA"
+                                                                            },
+    "bum-1118467129-analista-de-planeamiento-de-cadena-de-suministro-entrada.html":  {
+                                                                                         "estado":  "PUBLICADA",
+                                                                                         "hash":  "A37B0D35D33C35D464D36624475537126DEC2DBBC1BAEA1260E298CDFF27DC85",
+                                                                                         "titulo":  "Analista de Planeamiento de Cadena de Suministro",
+                                                                                         "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-planeamiento-de-cadena-de.html",
+                                                                                         "fecha":  "2026-10-12T23:40:45.0192325+00:00",
+                                                                                         "intentos":  0,
+                                                                                         "cola":  "NUEVA"
+                                                                                     },
+    "bum-1118467134-asistente-de-facturaci-n-entrada.html":  {
+                                                                 "estado":  "PUBLICADA",
+                                                                 "hash":  "9DBF7F1611D7D39D3815802D6141CC6A5AA5F4259B445A108404577FFFEE7697",
+                                                                 "titulo":  "Asistente de Facturación",
+                                                                 "url":  "https://empleosperuhoy.blogspot.com/2026/10/asistente-de-facturacion.html",
+                                                                 "fecha":  "2026-10-12T23:42:17.4429610+00:00",
+                                                                 "intentos":  0,
+                                                                 "cola":  "NUEVA"
+                                                             },
+    "bum-1118467138-abogado-con-experiencia-entrada.html":  {
+                                                                "estado":  "PUBLICADA",
+                                                                "hash":  "210377A87E4BA1D047F4C43BE98DBED100A235418AAD08A3D172A4B55156D8A5",
+                                                                "titulo":  "Abogado con Experiencia",
+                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/abogado-con-experiencia.html",
+                                                                "fecha":  "2026-10-12T23:43:50.0766638+00:00",
+                                                                "intentos":  0,
+                                                                "cola":  "NUEVA"
+                                                            },
+    "bum-1118467144-asistente-de-psicolog-a-admisi-n-instituto-toulouse-lautrec-entrada.html":  {
+                                                                                                    "estado":  "PUBLICADA",
+                                                                                                    "hash":  "0F449D18EAFAF10FA4FCC6FE4BA9C82CE6D019DFB63C010EB002A53459B3BBD1",
+                                                                                                    "titulo":  "Asistente de Psicología - Admisión/Instituto Toulouse Lautrec",
+                                                                                                    "url":  "https://empleosperuhoy.blogspot.com/2026/10/asistente-de-psicologia.html",
+                                                                                                    "fecha":  "2026-10-12T23:55:54.6063329+00:00",
+                                                                                                    "intentos":  0,
+                                                                                                    "cola":  "NUEVA"
+                                                                                                },
+    "bum-1118467147-facturador-a-control-de-pedidos-cercado-de-lima-entrada.html":  {
+                                                                                        "estado":  "PUBLICADA",
+                                                                                        "hash":  "C18494F4AA18138A348E85A78011B9CD37C01EF2CDED3B909BF1531E703735EF",
+                                                                                        "titulo":  "Facturador(a)/ Control de pedidos/ Cercado de lima",
+                                                                                        "url":  "https://empleosperuhoy.blogspot.com/2026/10/facturadora-control-de-pedidos-cercado.html",
+                                                                                        "fecha":  "2026-10-12T23:57:27.4387517+00:00",
+                                                                                        "intentos":  0,
+                                                                                        "cola":  "NUEVA"
+                                                                                    },
+    "bum-1118467148-analista-de-servicios-generales-unidad-minera-entrada.html":  {
+                                                                                      "estado":  "PUBLICADA",
+                                                                                      "hash":  "015BD7352D716276CE475AD6419A8AD66E224CA5655D01F13F46A8F4D8A2E633",
+                                                                                      "titulo":  "Analista de Servicios Generales - Unidad Minera",
+                                                                                      "url":  "https://empleosperuhoy.blogspot.com/2026/10/analista-de-servicios-generales-unidad.html",
+                                                                                      "fecha":  "2026-10-12T23:59:00.2514616+00:00",
+                                                                                      "intentos":  0,
+                                                                                      "cola":  "NUEVA"
+                                                                                  },
+    "bum-1118467150-agente-de-seguros-entrada.html":  {
+                                                          "estado":  "PUBLICADA",
+                                                          "hash":  "A53DD448BB85A402D40DEFE1F6F359F924CA333BFC5241DAD2823DA649133807",
+                                                          "titulo":  "Agente de Seguros",
+                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/agente-de-seguros.html",
+                                                          "fecha":  "2026-10-13T00:00:32.8229502+00:00",
+                                                          "intentos":  0,
+                                                          "cola":  "NUEVA"
+                                                      },
+    "bum-1118467151-dise-ador-de-interiores-asesor-de-ventas-entrada.html":  {
+                                                                                 "estado":  "PUBLICADA",
+                                                                                 "hash":  "9932379359E30A86121757B9D87A8ECA8A4BE0ECBED4A570F12B3CAA5A68900B",
+                                                                                 "titulo":  "Diseñador de Interiores / Asesor de Ventas",
+                                                                                 "url":  "https://empleosperuhoy.blogspot.com/2026/10/disenador-de-interiores-asesor-de-ventas.html",
+                                                                                 "fecha":  "2026-10-13T00:02:05.5521297+00:00",
+                                                                                 "intentos":  0,
+                                                                                 "cola":  "NUEVA"
+                                                                             },
+    "bum-1118467154-operario-de-producci-n-en-el-sector-de-calzado-sede-ate-entrada.html":  {
+                                                                                                "estado":  "PUBLICADA",
+                                                                                                "hash":  "148A5A804D2599D6282B140056932DED1F4A8B10F9707F3A480ACDBEBDAEA574",
+                                                                                                "titulo":  "OPERARIO DE PRODUCCIÓN EN EL SECTOR DE CALZADO -SEDE ATE",
+                                                                                                "url":  "https://empleosperuhoy.blogspot.com/2026/10/operario-de-produccion-en-el-sector-de.html",
+                                                                                                "fecha":  "2026-10-13T00:04:40.2513026+00:00",
+                                                                                                "intentos":  0,
+                                                                                                "cola":  "NUEVA"
+                                                                                            },
     "oferta-de-empleo-agua-tumbes-solicita-jefe-oficina-mantenimiento-e8b0-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "71790D98D3F42E585CC0D57625D6A664082860AD2DC47E7B4D9C08112AE3083C",
@@ -4113,6 +4698,330 @@
                                                                                                "fecha":  "2026-10-11T21:20:34.7534693+00:00",
                                                                                                "intentos":  3,
                                                                                                "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-contador-direccion-transportes-drtc-eeee-entrada.html":  {
+                                                                                              "estado":  "PUBLICADA",
+                                                                                              "hash":  "BF0DB6599D43043FE6DDA99C0CA03C0A3B86531F9796FE5C0CBD788D87774024",
+                                                                                              "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: CONTADOR/A IV",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0673631594.html",
+                                                                                              "fecha":  "2026-10-12T23:08:37.1902976+00:00",
+                                                                                              "intentos":  0,
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
+    "oportunidad-laboral-276-001-especialista-administrativo-direccio-2cbd-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "FF4993BE5ED81738EDB98BF85EE00FCB7A8C619E42E31D16857EEDEFBF30C04A",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001:ESPECIALISTA ADMINISTRATIVO/A IV",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0718648791.html",
+                                                                                               "fecha":  "2026-10-12T23:09:39.1966192+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-mecanico-iii-direccion-transportes-d-da44-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "6DC53C53C8181F581007EAC0B01AF11C1DC372777E92998FDD656DD3E26C9750",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: MECANICO III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_01444887290.html",
+                                                                                               "fecha":  "2026-10-12T23:10:40.9061878+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-operador-pad-direccion-transportes-d-147e-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "EE31B3CAA8A418D809ABFB2F88F22C185DC2047D2C60A8712D47FF8135C41F8A",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: OPERADOR(A) PAD II",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_01687142015.html",
+                                                                                               "fecha":  "2026-10-12T23:11:42.8805685+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-operador-pad-direccion-transportes-d-5e77-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "322EDCD41E2D41CC397FE12E0990146B7206C6AF982CFAC95F6D84FFFF7F64E5",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: OPERADOR PAD II",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_01113756242.html",
+                                                                                               "fecha":  "2026-10-12T23:12:44.8364385+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-tecnico-administrativo-direccion-tra-04d9-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "B9EC2895BF55C272819CC2796AD83C5E1832319F034A6A5C23D78F33F50BF6F5",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: TÉCNICO ADMINISTRATIVO(A) II",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0356723108.html",
+                                                                                               "fecha":  "2026-10-12T23:13:46.3125174+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-tecnico-administrativo-iii-direccion-1db8-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "C4F7A8E5126986E1AEA73E26B5E49D3B553D92FE46C315C57B7F6957FF529441",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: TECNICO ADMINISTRATIVO(A) III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0864975096.html",
+                                                                                               "fecha":  "2026-10-12T23:15:18.7666331+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-tecnico-administrativo-iii-direccion-335a-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "EC033222A2403D94AB4B17C647F051EC58ADEB460CCE5D1D200C0BFA8E0E88CB",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: TÉCNICO ADMINISTRATIVO(A) III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0755816425.html",
+                                                                                               "fecha":  "2026-10-12T23:16:51.9968138+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-tecnico-administrativo-iii-direccion-6624-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "5C1237744BE2D4E0BF36AEF436DBE74AC8BFC08CFFD3F969ECB48181EDEA5C72",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: TÉCNICO ADMINISTRATIVO(A) III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_01577540994.html",
+                                                                                               "fecha":  "2026-10-12T23:18:24.9715259+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-tecnico-administrativo-iii-direccion-da24-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "A68B49936042EE5F2BB9C13FEDD31E5EDCAACE43E768412618078FA281D6A7F8",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: TÉCNICO ADMINISTRATIVO(A) III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0302755585.html",
+                                                                                               "fecha":  "2026-10-12T23:19:57.0309785+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-001-tecnico-electricista-direccion-trans-e462-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "1BAAF4E96AE8FFE15D552CA16BC805F2C309BC139BE2FF4232E3741DE09C7A02",
+                                                                                               "titulo":  "DIRECCIÓN TRANSPORTES(DRTC) APURÍMAC: 276 N° 001: TECNICO ELECTRICISTA II",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-transportesdrtc-apurimac-276_0960492370.html",
+                                                                                               "fecha":  "2026-10-12T23:21:29.5839472+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-002-contador-ugel-lamas-san-martin-636398-entrada.html":  {
+                                                                                           "estado":  "PUBLICADA",
+                                                                                           "hash":  "A72232E91BBBAB640CA48510707EB5C798E4237E94E5D3FD769A5F6EF3AE7DBF",
+                                                                                           "titulo":  "UGEL LAMAS: 276 N° 002: CONTADOR I",
+                                                                                           "url":  "https://empleosperuhoy.blogspot.com/2026/10/ugel-lamas-276-n-002-contador-i.html",
+                                                                                           "fecha":  "2026-10-12T23:23:02.0588131+00:00",
+                                                                                           "intentos":  0,
+                                                                                           "cola":  "NUEVA"
+                                                                                       },
+    "oportunidad-laboral-276-002-tesorero-iii-ugel-lamas-san-martin-636399-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "839F0AB2292137986915349B1E1560C4F1920618B821014581C5B84883970AC9",
+                                                                                               "titulo":  "UGEL LAMAS: 276 N° 002: TESORERO III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/ugel-lamas-276-n-002-tesorero-iii.html",
+                                                                                               "fecha":  "2026-10-12T23:30:27.1730829+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-auxiliar-asistencial-hospital-j-cead-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "6EEC10698F4F5ED383D11269EF9F136DCC7EBA8F50DDCE90F67E2AEAAD2945E5",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Auxiliar Asistencial (P-10)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276.html",
+                                                                                               "fecha":  "2026-10-12T23:31:28.8541399+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-medico-especialista-cirugia-gen-4347-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "64D299AE74991B7F389BEDCB8454F612012F4ACAFA64C66B1B3A9F142BAACA6F",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Médico Especialista - Cirugía General (P-01)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01073760314.html",
+                                                                                               "fecha":  "2026-10-12T23:32:30.5649581+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-medico-especialista-cirugia-gen-a081-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "BF3FBE8856B37ED88548613951C087E90C508897529FFE14364E151C7C35C742",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Médico Especialista - Cirugía General (P-02)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_0524374002.html",
+                                                                                               "fecha":  "2026-10-12T23:33:32.5253805+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-medico-especialista-hospital-ju-7043-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "969CCB375DC18C9DDE3B9DD7B0E4F7D3B5DE9DE05F602CE383F5EDE0832B1056",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Médico Especialista (P-03)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_0300784641.html",
+                                                                                               "fecha":  "2026-10-12T23:34:34.7837639+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-obstetra-especialista-hospital-784c-entrada.html":  {
+                                                                                              "estado":  "PUBLICADA",
+                                                                                              "hash":  "7E7A15C8C79A7484737306042EFAE6B708AC146B74987F0E8DBAB8062C21823E",
+                                                                                              "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Obstetra Especialista (P-06)",
+                                                                                              "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01227540485.html",
+                                                                                              "fecha":  "2026-10-12T23:36:07.6422663+00:00",
+                                                                                              "intentos":  0,
+                                                                                              "cola":  "NUEVA"
+                                                                                          },
+    "oportunidad-laboral-276-003-2026-obstetra-suplencia-tmp-hospital-2dd1-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "A0EF97FF95847807DC44B762B97501F3C0D8B20B8E3AD5F334724FF7CE5829C3",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Obstetra - Suplencia TMP (P-07)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01685497421.html",
+                                                                                               "fecha":  "2026-10-12T23:37:39.9460104+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-piloto-ambulancia-hospital-juli-7f1e-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "839674D717495DF48A2B2C22CF042C8BD694E8509D4DC96DC6FA501FDC09A89F",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Piloto de Ambulancia (P-12)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01254301557.html",
+                                                                                               "fecha":  "2026-10-12T23:39:12.2023733+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-tecnico-asistencial-hospital-ju-336f-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "09BF3282249159D7CB1EA6C5CA8878277A2DA9FFCA2D77166EF4A9124BE47182",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Técnico Asistencial (P-13)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_0899888613.html",
+                                                                                               "fecha":  "2026-10-12T23:40:13.7387686+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-tecnico-enfermeria-hospital-jul-3e10-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "2BBCD8035795A1D4C37C57C0FF02524DEA66D685B6047D81982812DF533B368E",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Técnico/a en Enfermería I (P-05)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_0930079579.html",
+                                                                                               "fecha":  "2026-10-12T23:41:15.8418647+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-tecnico-enfermeria-hospital-jul-6748-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "490BB672CB3241F9D04A3956F9D1CA73ADA650F572BD6CDAB5034C498B7E1451",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Técnico en Enfermería II (P-04)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01270355700.html",
+                                                                                               "fecha":  "2026-10-12T23:42:48.1748187+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-tecnico-laboratorio-hospital-ju-6c57-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "CE22F67887001637F8788A062E0E3EAB6D39862909E8BBC7B557A9D101840AD1",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Técnico en Laboratorio II (P-08)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01129864723.html",
+                                                                                               "fecha":  "2026-10-12T23:44:20.8365653+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-tecnico-nutricion-hospital-juli-0784-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "6EFC9356E6AC3682F6058DD0A8B2FEF6C1B5B2BBD67EA5432A10D5355B704D14",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Técnico/a en Nutrición I (P-09)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01950520199.html",
+                                                                                               "fecha":  "2026-10-12T23:50:44.8606022+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-003-2026-trabajador-social-hospital-juli-c27e-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "98E53656BC826BEEF81DBE9BCF1301F66B30BB23F2D8DA608B515EA60F7A455D",
+                                                                                               "titulo":  "HOSPITAL JULIO CESAR DEMARINI CARO: 276 N° 003-2026: Trabajador/a Social (P-11)",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/hospital-julio-cesar-demarini-caro-276_01823620879.html",
+                                                                                               "fecha":  "2026-10-12T23:51:46.9772324+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-auxiliar-agropecuario-iii-guardian-d-c549-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "2AB75C52B74F25E4B5509A956FD86064412E5DD4252CCBA04BFA4EDABD8F7EFF",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: AUXILIAR AGROPECUARIO III - GUARDIAN",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006.html",
+                                                                                               "fecha":  "2026-10-12T23:52:48.8834046+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-auxiliar-ministerio-defensa-mindef-p-643f-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "7CCF7E327143536DD76E931FDE4162E33402F0BDC8D565310C4270846A544416",
+                                                                                               "titulo":  "MINISTERIO DE DEFENSA(MINDEF): 276 N° 006: AUXILIAR",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/ministerio-de-defensamindef-276-n-006.html",
+                                                                                               "fecha":  "2026-10-12T23:53:50.7272315+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-chofer-direccion-agraria-puno-636233-entrada.html":  {
+                                                                                          "estado":  "PUBLICADA",
+                                                                                          "hash":  "12052AE9B9B90FFBD0767631075EF19C52F8136315D0ADD524DC69CED77C800F",
+                                                                                          "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: CHOFER II",
+                                                                                          "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006-chofer.html",
+                                                                                          "fecha":  "2026-10-12T23:54:52.5320658+00:00",
+                                                                                          "intentos":  0,
+                                                                                          "cola":  "NUEVA"
+                                                                                      },
+    "oportunidad-laboral-276-006-especialista-administrativo-direccio-53a8-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "07CFAE350471680C830F9F323A32C1DA2758DE876CA90491030141058206E7CD",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: ESPECIALISTA ADMINISTRATIVO",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_0673121167.html",
+                                                                                               "fecha":  "2026-10-12T23:56:25.5843283+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-promotor-agropecuario-direccion-agra-4f9f-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "97D8C8FC8C41895A4A2A37BA46B79709F99C10F07653100E46665BD65DD546C3",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: PROMOTOR AGROPECUARIO I",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_01111207876.html",
+                                                                                               "fecha":  "2026-10-12T23:57:58.5498102+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-promotor-agropecuario-direccion-agra-c45b-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "435C61A7023769601CBD8C829FDF47FE7CCDAE38EAAAD08BC0CAEA6464D2ACFB",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: PROMOTOR AGROPECUARIO I",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_01878263826.html",
+                                                                                               "fecha":  "2026-10-12T23:59:31.2216322+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-secretaria-iii-direccion-agraria-pun-74d0-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "9F4C79027EF7B629E9A5A6E1D685C5496FCCBF47EC09781A70FC04C5B907F793",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: SECRETARIA III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_0510358580.html",
+                                                                                               "fecha":  "2026-10-13T00:01:03.7420518+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-tecnico-administrativo-iii-direccion-a053-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "EC5B7623FAC4EA2D2A8174067AFA23AB331C2C8E2AF38829815CD3C138F44DAC",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: TÉCNICO ADMINISTRATIVO III",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_0505153102.html",
+                                                                                               "fecha":  "2026-10-13T00:02:36.3251550+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-tecnico-estadistica-direccion-agrari-26f0-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "742A38D9CBBEEBCE59D4AC9CDC3F1563C715A31E26D4D9EBD8BF200AA68A04AE",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: TÉCNICO EN ESTADISTICA II",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_02075249012.html",
+                                                                                               "fecha":  "2026-10-13T00:03:38.0646780+00:00",
+                                                                                               "intentos":  0,
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
+    "oportunidad-laboral-276-006-tecnico-finanzas-direccion-agraria-p-6fb2-entrada.html":  {
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "20BF9E8B94EA5B432E0BBF2CCC3C4E4E7FF822E21E121C421EF5AA1DFD6E92C4",
+                                                                                               "titulo":  "DIRECCIÓN AGRARIA PUNO: 276 N° 006: TECNICO EN FINANZAS II",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/direccion-agraria-puno-276-n-006_0846449467.html",
+                                                                                               "fecha":  "2026-10-13T00:05:11.3789980+00:00",
+                                                                                               "intentos":  0,
                                                                                                "cola":  "NUEVA"
                                                                                            }
 }
