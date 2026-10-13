@@ -243,8 +243,10 @@ if ($Calidad) {
     foreach ($mS in [regex]::Matches($body, '<div class="empleo-info-label">Salario</div>\s*<div class="empleo-info-value">([^<]*)</div>')) { $salVals += $mS.Groups[1].Value.Trim() }
     foreach ($v in $salVals) {
         if ($v -eq '') { continue }
-        if ($v -notmatch '^(No especificado|A convenir|Negociable|S/ \d{1,3}(,\d{3})*( - S/ \d{1,3}(,\d{3})*)?( por hora)?)$') {
-            Err ("salario fuera del glosario: [$v] (formato: 'S/ 1,800' | rango | 'por hora' | No especificado | A convenir | Negociable)")
+        # Solo 'No especificado' o un monto real. 'A convenir' / 'Negociable' /
+        # texto vago RECHAZAN la entrada: un salario sin cifra no es publicable.
+        if ($v -notmatch '^(No especificado|S/ \d{1,3}(,\d{3})*( - S/ \d{1,3}(,\d{3})*)?( por hora)?)$') {
+            Err ("salario invalido: [$v] (solo 'No especificado' o monto real 'S/ 1,800'; texto vago como 'A convenir' no se publica)")
         }
     }
 

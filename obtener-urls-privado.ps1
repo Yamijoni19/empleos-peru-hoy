@@ -95,7 +95,11 @@ function Agregar([string]$u) {
 }
 
 # --------------------------------------------------------------- BUSCOJOBS
-if (-not $SoloComputrabajo) {
+# DESACTIVADO (2026-10-13): la fuente se descarto por calidad — 90% de sus
+# ofertas salian con salario 'A convenir' y 8-9 campos 'No especificado'.
+# No se captura nada nuevo. El bloque se conserva documentado por si se revierte.
+$CapturarBuscojobs = $false
+if ($CapturarBuscojobs -and -not $SoloComputrabajo) {
     Write-Host ''
     Write-Host '== BUSCOJOBS (sitemap-jobs.xml) =='
     $sm = Get2 'https://www.buscojobs.pe/sitemap/sitemaps/bjpe/sitemap-jobs.xml'

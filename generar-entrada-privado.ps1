@@ -398,6 +398,8 @@ if ($salario -eq "No especificado" -and $salarioPagina -ne "") {
     $mS = [regex]::Match($sp, '(?i)S/\s*\.?\s*([\d.,]+)')
     if ($mS.Success -and $mS.Groups[1].Value -notmatch '^0+([.,]0+)?$') { $salario = 'S/ ' + $mS.Groups[1].Value }
     elseif ($mS.Success -eq $false -and $sp.Length -gt 2 -and $sp.Length -le 40) { $salario = $sp }
+    # 'A convenir' / 'Negociable' / texto sin cifra jamas es salario publicable
+    if ($salario -match '(?i)^(a convenir|negociable|a definir|competitiv|por acordar|segun)') { $salario = "No especificado" }
 }
 if ($salario -eq "No especificado") {
     # busqueda ETIQUETADA en la pagina (con dos puntos); jamas un S/ suelto del sidebar
@@ -407,6 +409,7 @@ if ($salario -eq "No especificado") {
         $mNum = [regex]::Match($sv, '(?i)S/\s*\.?\s*([\d.,]+)')
         if ($mNum.Success -and $mNum.Groups[1].Value -notmatch '^0+([.,]0+)?$') { $salario = 'S/ ' + $mNum.Groups[1].Value }
         elseif ($mNum.Success -eq $false -and $sv.Length -ge 3 -and $sv.Length -le 40 -and $sv -notmatch '^0+([.,]0+)?$') { $salario = $sv }
+        if ($salario -match '(?i)^(a convenir|negociable|a definir|competitiv|por acordar|segun)') { $salario = "No especificado" }
     }
 }
 # forma canonica del glosario (Fase A): 'S/ 1,800' | rango | 'por hora' | catalogo

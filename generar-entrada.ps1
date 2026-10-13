@@ -244,11 +244,17 @@ if ($vals.Count -gt 0) {
 }
 
 # salario
+# El numero puede venir separado por etiquetas HTML, asi que se limpia el HTML
+# de la zona antes de casar. El grupo DEBE llevar al menos un digito: si no,
+# no hay salario y se queda 'No especificado' (nunca 'S/ .' ni 'S/ ' vacio).
 $salario = "No especificado"
-$ms = [regex]::Match($src, '(?is)Remuneraci(?:&#243;|&oacute;|ó|o)n:\s*(?:<[^>]+>\s*)*S/\s*([\d.,]+)')
-if (-not $ms.Success) { $ms = [regex]::Match($src, 'S/\s*([\d.,]{3,})') }
-if ($ms.Success)     { $salario = "S/ " + $ms.Groups[1].Value }
-elseif ($salarioJson -ne "") { $salario = "S/ " + $salarioJson }
+$srcPlano = [regex]::Replace($src, '<[^>]+>', ' ')
+$srcPlano = [Net.WebUtility]::HtmlDecode($srcPlano)
+$ms = [regex]::Match($srcPlano, '(?is)Remuneraci(?:ó|o)n:\s*S/\s*([\d][\d.,]*)')
+if (-not $ms.Success) { $ms = [regex]::Match($srcPlano, '(?i)S/\s*([\d][\d.,]{2,})') }
+if ($ms.Success -and $ms.Groups[1].Value -match '\d') { $salario = "S/ " + $ms.Groups[1].Value }
+elseif ($salarioJson -ne "" -and $salarioJson -match '\d') { $salario = "S/ " + $salarioJson }
+if ($salario -match '^S/\s*\.?$') { $salario = "No especificado" }
 $salarioHeader = $salario
 
 # segmentos de texto

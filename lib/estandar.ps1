@@ -88,11 +88,11 @@ function Est-Salario([string]$Texto, [double]$Min = -1, [double]$Max = -1, [swit
         return $s
     }
 
-    # 4) sin monto: catalogo cerrado de la fuente
-    if ($t -match '(?i)a convenir') { return 'A convenir' }
-    if ($t -match '(?i)negociable') { return 'Negociable' }
-    # la fuente habla de salario pero sin monto interpretable
-    if ($t -match '(?i)seg[uú]n convenio|seg[uú]n experiencia|competitiv|seg[uú]n perfil') { return 'A convenir' }
+    # 4) sin monto: catalogo cerrado de la fuente.
+    #    Ningun valor sin cifra es un salario valido para el lector: 'A convenir',
+    #    'Negociable', 'Competitivo' etc. se normalizan a 'No especificado' para no
+    #    ensuciar la entrada con texto vago. Solo se publica un salario con monto real.
+    if ($t -match '(?i)a convenir|negociable|seg[uú]n convenio|seg[uú]n experiencia|competitiv|seg[uú]n perfil|a definir|por acordar|segun perfil') { return 'No especificado' }
     return 'No especificado'
 }
 
