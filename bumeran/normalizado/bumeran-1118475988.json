@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118475988",
+    "clave":  "id:1118475988",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-pasteleria-y-panaderia-milan-pasteleria-fina-1118475988.html",
+                   "capturadoEn":  "2026-10-13T11:48:03+00:00"
+               },
+    "titulo":  "Ayudante de Pastelería y Panadería",
+    "empresa":  "Milan Pasteleria Fina",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1350,
+                    "max":  1470,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,350 - S/ 1,470",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Pastelería y Panadería Resumen del Puesto Buscamos un Ayudante de Pastelería y Panadería con entusiasmo y ganas de aprender para integrarse a nuestro equipo de producción. El candidato ideal tendrá interés en el mundo de la panadería y repostería, y estará dispuesto a colaborar en diversas tareas del obrador. Responsabilidades Encargado de elaboración y decoración de productos de pastelería y panadería. Mantener la limpieza y organización del área de trabajo. Apoyar en la recepción y almacenamiento de materias primas. Seguir las indicaciones del maestro pastelero/panadero para asegurar la calidad del producto. Requisitos Interés y vocación por la pastelería y panadería. Capacidad para seguir instrucciones y trabajar en equipo. Actitud proactiva y responsable. Habilidad para trabajar bajo presión y cumplir con los tiempos de producción.",
+    "requisitos":  [
+                       "Interés y vocación por la pastelería y panadería",
+                       "Capacidad para seguir instrucciones y trabajar en equipo",
+                       "Actitud proactiva y responsable",
+                       "Habilidad para trabajar bajo presión y cumplir con los tiempos de producción"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-pasteleria-y-panaderia-milan-pasteleria-fina-1118475988.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-pasteleria-y-panaderia-milan-pasteleria-fina-1118475988.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAyudante de Pastelería y Panadería\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAyudante de Pastelería y Panadería\u003c/strong\u003e con entusiasmo y ganas de aprender para integrarse a nuestro equipo de producción. El candidato ideal tendrá interés en el mundo de la panadería y repostería, y estará dispuesto a colaborar en diversas tareas del obrador.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEncargado de elaboración y decoración de productos de pastelería y panadería.\u003c/li\u003e \u003cli\u003eMantener la limpieza y organización del área de trabajo.\u003c/li\u003e \u003cli\u003eApoyar en la recepción y almacenamiento de materias primas.\u003c/li\u003e \u003cli\u003eSeguir las indicaciones del maestro pastelero/panadero para asegurar la calidad del producto.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInterés y vocación por la pastelería y panadería.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud proactiva y responsable.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar bajo presión y cumplir con los tiempos de producción.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Otra",
+    "jornada":  "Full-time",
+    "nivel":  "No especificado",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

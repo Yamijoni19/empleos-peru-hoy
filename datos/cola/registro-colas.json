@@ -1305,6 +1305,16 @@
                                                                          "intentos":  0,
                                                                          "cola":  "NUEVA"
                                                                      },
+    "bum-1118429621-call-center-cobranzas-banco-de-cr-dito-bcp-entrada.html":  {
+                                                                                   "estado":  "ERROR",
+                                                                                   "hash":  "26DA5AA17DA16A38684CAB3D9F1F1430DA34E96273038EB3884EA878ABB6165B",
+                                                                                   "titulo":  "Call Center – Cobranzas – Banco de Crédito BCP",
+                                                                                   "url":  "",
+                                                                                   "fecha":  "2026-10-13T11:52:11.3305330+00:00",
+                                                                                   "intentos":  3,
+                                                                                   "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                   "cola":  "NUEVA"
+                                                                               },
     "bum-1118430257-ejecutivo-a-comercial-interseguro-lima-san-isidro-entrada.html":  {
                                                                                           "estado":  "PUBLICADA",
                                                                                           "hash":  "BE70DE7B6F8962C0EC5C7BA35DBC1B37BFF1ADD5BCBFCF06BDEDE18CDFEF9E33",
@@ -2432,13 +2442,12 @@
                                                                                                "cola":  "NUEVA"
                                                                                            },
     "oferta-de-empleo-ana-requiere-vocales-integrantes-del-tribunal-n-2ca3-entrada.html":  {
-                                                                                               "estado":  "ERROR",
-                                                                                               "hash":  "74D959580D328526468BFD0F0288AAAA069C2BEF36DB4F130D20E89B89E3AE6A",
+                                                                                               "estado":  "PUBLICADA",
+                                                                                               "hash":  "EA793442CA95F86168E4884E47DB0641A560C651428F9564D3EC33FFAD4535CC",
                                                                                                "titulo":  "ANA: Vocales integrantes del tribunal nacional",
-                                                                                               "url":  "",
-                                                                                               "fecha":  "2026-10-13T03:39:35.7028872+00:00",
-                                                                                               "intentos":  3,
-                                                                                               "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                               "url":  "https://empleosperuhoy.blogspot.com/2026/10/ana-vocales-integrantes-del-tribunal.html",
+                                                                                               "fecha":  "2026-10-13T11:49:40.6909728+00:00",
+                                                                                               "intentos":  0,
                                                                                                "cola":  "NUEVA"
                                                                                            },
     "oferta-de-empleo-apci-requiere-especialista-logistica-convocator-4c09-entrada.html":  {
