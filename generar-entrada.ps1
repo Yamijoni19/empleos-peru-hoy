@@ -437,6 +437,12 @@ $descP2 += ". Antes de postular, descarga las bases oficiales de la sección sig
 
 $puesto = ($puesto.Trim() -replace '^(?i:para)\s+(?=\p{Lu})', '').Trim()
 $tituloBlog = "${entidad}: $puesto"
+# series CDT ("276 N° 006: PUESTO"): una plaza por URL, pero el nombre del
+# puesto se repite entre plazas (dos "PROMOTOR AGROPECUARIO I" con sueldos
+# distintos). La remuneracion en el titulo las desambigua.
+if ($tituloBlog -match '\d{2,4}\s*N[°º]?\s*\d{2,4}' -and $salario -ne '' -and $salario -ne 'No especificado' -and $tituloBlog -notmatch [regex]::Escape($salario)) {
+    $tituloBlog = "$tituloBlog - $salario"
+}
 
 # ------------------------------------------------------------------ plantilla
 $plantilla = Join-Path $raiz "plantilla-convocatoria-estado.html"

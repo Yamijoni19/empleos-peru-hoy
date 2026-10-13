@@ -347,6 +347,15 @@ if ($region -ne "" -and $region -ne $ciudad) { $partes += $region }
 if ($partes.Count -gt 0) { $ubi = ($partes -join ', ') + ', ' + $paisTxt }
 $ubi = Est-Ubicacion $ubi
 
+# titulo: anadir la ubicacion si no la trae. Sin esto, dos ofertas distintas
+# ("Analista Contable Senior" en Lima y en Lambayeque) generaban posts con el
+# mismo titulo y el blog publicaba copias identicas.
+if ($ciudad -ne "" -and $titulo -notmatch ('(?i)' + [regex]::Escape($ciudad))) {
+    $titulo = ($titulo.Trim() + " - " + $ciudad).Trim()
+} elseif ($ciudad -eq "" -and $region -ne "" -and $titulo -notmatch ('(?i)' + [regex]::Escape($region))) {
+    $titulo = ($titulo.Trim() + " - " + $region).Trim()
+}
+
 # ------------------------------------------------------------------ salario
 $salario = "No especificado"
 if ($ld.baseSalary) {

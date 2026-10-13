@@ -703,8 +703,10 @@ if ($procesar.Count -eq 0) {
 # ------------------------------------------------- comprobacion contra el blog
 # si el titulo de la entrada ya existe publicado en el blog, NO se vuelve a
 # publicar (evita duplicados). Con -Forzar se salta esta comprobacion.
+# $enBlog vive durante toda la tanda: cada post publicado anade su titulo,
+# asi un lote con N copias del mismo titulo publica SOLO la primera.
+$enBlog = New-Object 'System.Collections.Generic.HashSet[string]' ([StringComparer]::OrdinalIgnoreCase)
 if (-not $Forzar -and -not $Simular -and $archivos.Count -gt 0) {
-    $enBlog = New-Object 'System.Collections.Generic.HashSet[string]' ([StringComparer]::OrdinalIgnoreCase)
     $ini = 1
     $trTotal = 0
     $seg = 0
@@ -757,6 +759,7 @@ $ok = 0
 $fail = 0
 $n = 0
 $encoladas = 0
+$dupesTanda = 0
 :Publicar foreach ($f in $archivos) {
     $n++
     $html = [IO.File]::ReadAllText($f.FullName)
@@ -782,9 +785,19 @@ $encoladas = 0
         continue
     }
 
+    # titulo repetido (blog preexistente o ya publicado en ESTA tanda): se
+    # salta. Sin esto un lote con 3 "Analista Contable Senior" publicaba los
+    # 3, porque la comprobacion pre-tanda no veia los posters anteriores.
+    if (-not $Forzar -and $titulo -ne "" -and $enBlog.Contains($titulo)) {
+        Aviso ("titulo ya publicado (blog o esta tanda), lo salto: " + $titulo)
+        $dupesTanda++
+        continue
+    }
+
     if ($Simular) {
         Write-Host ("[" + $n + "/" + $archivos.Count + "] SIMULAR | " + $titulo + "  [" + $etiqueta + "]  <- " + $f.Name)
         $ok++
+        [void]$enBlog.Add($titulo)
         continue
     }
 
@@ -798,6 +811,7 @@ $encoladas = 0
             }
             $ok++
             $script:seq429 = 0
+            [void]$enBlog.Add($titulo)
             [IO.File]::AppendAllText($logPath, ((Get-Date -Format 'yyyy-MM-dd HH:mm') + " | " + $titulo + " | " + $post.url + " | " + $f.Name + "`n"), (New-Object System.Text.UTF8Encoding($false)))
             $registro[$f.Name] = [pscustomobject]@{
                 estado = 'PUBLICADA'; hash = (Hash-Archivo $f.FullName); titulo = $titulo
@@ -861,6 +875,7 @@ Write-Host ""
 Write-Host "== RESUMEN =="
 if ($Simular) { Write-Host ("  SIMULACION: " + $ok + " entradas revisadas, 0 POST reales | errores: " + $fail) }
 else { Write-Host ("  publicadas: " + $ok + " | errores: " + $fail + " | encoladas sin publicar: " + $encoladas + $(if ($Draft) { " (borradores)" } else { "" })) }
+if ($dupesTanda -gt 0) { Write-Host ("  titulos repetidos (blog o esta tanda) omitidos: " + $dupesTanda) }
 if ($script:hubo429) { Write-Host "  429: corrida cortada sin reintentos; cooldown activo; cola conservada" }
 Write-Host ("  limite por corrida: " + $MaxEfectivo + " (config\\publicacion.json o -MaxPorCorrida)")
 Write-Host ("  log: " + $logPath)
