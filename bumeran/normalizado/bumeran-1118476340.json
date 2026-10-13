@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118476340",
+    "clave":  "id:1118476340",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/contador-publico-colegiado-especialista-en-devolucion-de-impuestos-st-eternal-s.a.c-1118476340.html",
+                   "capturadoEn":  "2026-10-13T03:34:04+00:00"
+               },
+    "titulo":  "Contador Público Colegiado - Especialista en Devolución de Impuestos",
+    "empresa":  "ST ETERNAL S.A.C",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  3000,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,000 - S/ 4,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Contador Público Colegiado - Especialista en Devolución de Impuestos Resumen del Puesto Buscamos un profesional contable con Certificado de Contadora Pública Colegiada y experiencia demostrable en la gestión de trámites de devolución de impuestos. El candidato ideal poseerá certificaciones profesionales y un profundo conocimiento de las normativas fiscales aplicables a operaciones de exportación. Responsabilidades Gestionar y supervisar los procesos de solicitud de devolución de impuestos. Asegurar el cumplimiento de la normativa fiscal vigente en materia de devoluciones. Asesorar sobre las mejores prácticas para optimizar los procesos de devolución. Colaborar con otros departamentos para recopilar la documentación necesaria. Mantenerse actualizado sobre las modificaciones en las leyes fiscales. Requisitos Título de Contador Público Colegiado. Experiencia comprobada en la gestión de devoluciones de impuestos, especialmente en operaciones de exportación. Conocimiento profundo de las normativas fiscales y tributarias. Capacidad para el manejo de sistemas de gestión contable, se valorará experiencia con Conncar. Excelentes habilidades analíticas y de resolución de problemas. Capacidad para trabajar de forma autónoma y proactiva. Habilidades de comunicación efectiva.",
+    "requisitos":  [
+                       "Título de Contador Público Colegiado",
+                       "Experiencia comprobada en la gestión de devoluciones de impuestos, especialmente en operaciones de exportación",
+                       "Conocimiento profundo de las normativas fiscales y tributarias",
+                       "Capacidad para el manejo de sistemas de gestión contable, se valorará experiencia con Conncar",
+                       "Excelentes habilidades analíticas y de resolución de problemas",
+                       "Capacidad para trabajar de forma autónoma y proactiva",
+                       "Habilidades de comunicación efectiva"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/contador-publico-colegiado-especialista-en-devolucion-de-impuestos-st-eternal-s.a.c-1118476340.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/contador-publico-colegiado-especialista-en-devolucion-de-impuestos-st-eternal-s.a.c-1118476340.html",
+    "descripcion_html":  "\u003cb\u003eContador Público Colegiado - Especialista en Devolución de Impuestos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional contable con Certificado de Contadora Pública Colegiada y experiencia demostrable en la gestión de trámites de devolución de impuestos. El candidato ideal poseerá certificaciones profesionales y un profundo conocimiento de las normativas fiscales aplicables a operaciones de exportación.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar y supervisar los procesos de solicitud de devolución de impuestos.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de la normativa fiscal vigente en materia de devoluciones.\u003c/li\u003e \u003cli\u003eAsesorar sobre las mejores prácticas para optimizar los procesos de devolución.\u003c/li\u003e \u003cli\u003eColaborar con otros departamentos para recopilar la documentación necesaria.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las modificaciones en las leyes fiscales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Contador Público Colegiado.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en la gestión de devoluciones de impuestos, especialmente en operaciones de exportación.\u003c/li\u003e \u003cli\u003eConocimiento profundo de las normativas fiscales y tributarias.\u003c/li\u003e \u003cli\u003eCapacidad para el manejo de sistemas de gestión contable, se valorará experiencia con Conncar.\u003c/li\u003e \u003cli\u003eExcelentes habilidades analíticas y de resolución de problemas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y proactiva.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación efectiva.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Contabilidad",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Contador Público Colegiado",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

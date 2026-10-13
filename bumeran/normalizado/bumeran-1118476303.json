@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118476303",
+    "clave":  "id:1118476303",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cocinero-a-con-experiencia-en-cevicheria-ayne-restaurant-1118476303.html",
+                   "capturadoEn":  "2026-10-13T03:34:58+00:00"
+               },
+    "titulo":  "Cocinero/a con experiencia en Cevichería",
+    "empresa":  "AYNE RESTAURANT",
+    "ubicacion":  "Lima - Pueblo Libre",
+    "ciudad":  "Pueblo Libre",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cocinero/a con experiencia en Cevichería Resumen del Puesto Buscamos un profesional culinario con experiencia comprobada en la preparación de platos fríos y calientes, especialmente en el ámbito de la cevichería. El candidato ideal se integrará a nuestro equipo de cocina y contribuirá a la excelencia gastronómica. Responsabilidades Preparación de una variedad de platos fríos y calientes, con énfasis en especialidades de cevichería. Mantenimiento de altos estándares de calidad e higiene en la cocina. Colaboración con el equipo para asegurar una operación fluida y eficiente. Gestión de inventario y control de insumos. Cumplimiento de las normativas de seguridad alimentaria. Requisitos Formación en gastronomía o área afín. Experiencia previa demostrable en cocina, específicamente en cevichería. Disponibilidad para jornada laboral completa. Capacidad para trabajar bajo presión y en equipo. Conocimiento de técnicas culinarias y de manipulación de alimentos. Beneficios Incorporación a un equipo de trabajo dinámico. Oportunidades de desarrollo profesional. Compensación acorde a la experiencia y responsabilidades.",
+    "requisitos":  [
+                       "Formación en gastronomía o área afín",
+                       "Experiencia previa demostrable en cocina, específicamente en cevichería",
+                       "Disponibilidad para jornada laboral completa",
+                       "Capacidad para trabajar bajo presión y en equipo",
+                       "Conocimiento de técnicas culinarias y de manipulación de alimentos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Incorporación a un equipo de trabajo dinámico",
+                       "Oportunidades de desarrollo profesional",
+                       "Compensación acorde a la experiencia y responsabilidades"
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cocinero-a-con-experiencia-en-cevicheria-ayne-restaurant-1118476303.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cocinero-a-con-experiencia-en-cevicheria-ayne-restaurant-1118476303.html",
+    "descripcion_html":  "\u003cb\u003eCocinero/a con experiencia en Cevichería\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional culinario con experiencia comprobada en la preparación de platos fríos y calientes, especialmente en el ámbito de la cevichería. El candidato ideal se integrará a nuestro equipo de cocina y contribuirá a la excelencia gastronómica.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003ePreparación de una variedad de platos fríos y calientes, con énfasis en especialidades de cevichería.\u003c/li\u003e \u003cli\u003eMantenimiento de altos estándares de calidad e higiene en la cocina.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para asegurar una operación fluida y eficiente.\u003c/li\u003e \u003cli\u003eGestión de inventario y control de insumos.\u003c/li\u003e \u003cli\u003eCumplimiento de las normativas de seguridad alimentaria.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en gastronomía o área afín.\u003c/li\u003e \u003cli\u003eExperiencia previa demostrable en cocina, específicamente en cevichería.\u003c/li\u003e \u003cli\u003eDisponibilidad para jornada laboral completa.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y en equipo.\u003c/li\u003e \u003cli\u003eConocimiento de técnicas culinarias y de manipulación de alimentos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eIncorporación a un equipo de trabajo dinámico.\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo profesional.\u003c/li\u003e \u003cli\u003eCompensación acorde a la experiencia y responsabilidades.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Camareros",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

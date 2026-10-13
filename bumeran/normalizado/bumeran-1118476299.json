@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118476299",
+    "clave":  "id:1118476299",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-business-intelligence-outsourcing-1118476299.html",
+                   "capturadoEn":  "2026-10-13T03:35:13+00:00"
+               },
+    "titulo":  "Asesor Comercial",
+    "empresa":  "Business Intelligence Outsourcing",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  4000,
+                    "max":  5000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 5,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Comercial Resumen del Puesto Buscamos un Asesor Comercial proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas y estará enfocado en la consecución de objetivos comerciales. Responsabilidades Atender y asesorar a clientes en la oferta de productos y servicios. Identificar oportunidades de venta y generar nuevas oportunidades de negocio. Cumplir con las metas de ventas establecidas. Mantener una relación cercana y de confianza con los clientes. Gestionar y dar seguimiento a las operaciones comerciales. Requisitos Experiencia previa en roles de ventas o atención al cliente. Habilidades de negociación y persuasión. Orientación a resultados y cumplimiento de objetivos. Excelentes habilidades de comunicación y relaciones interpersonales. Capacidad para trabajar en equipo y de forma autónoma. Disponibilidad para trabajar en horarios establecidos.",
+    "requisitos":  [
+                       "Experiencia previa en roles de ventas o atención al cliente",
+                       "Habilidades de negociación y persuasión",
+                       "Orientación a resultados y cumplimiento de objetivos",
+                       "Excelentes habilidades de comunicación y relaciones interpersonales",
+                       "Capacidad para trabajar en equipo y de forma autónoma",
+                       "Disponibilidad para trabajar en horarios establecidos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-business-intelligence-outsourcing-1118476299.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-business-intelligence-outsourcing-1118476299.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsesor Comercial\u003c/b\u003e proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas y estará enfocado en la consecución de objetivos comerciales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y asesorar a clientes en la oferta de productos y servicios.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de venta y generar nuevas oportunidades de negocio.\u003c/li\u003e \u003cli\u003eCumplir con las metas de ventas establecidas.\u003c/li\u003e \u003cli\u003eMantener una relación cercana y de confianza con los clientes.\u003c/li\u003e \u003cli\u003eGestionar y dar seguimiento a las operaciones comerciales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de ventas o atención al cliente.\u003c/li\u003e \u003cli\u003eHabilidades de negociación y persuasión.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y de forma autónoma.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios establecidos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Ventas",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

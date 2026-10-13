@@ -5302,3 +5302,39 @@
       }
     ],
     "status": "RESOURCE_EXH
+2026-10-13 03:37 | ERROR | oferta-de-empleo-ana-requiere-vocales-integrantes-del-tribunal-n-2ca3-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-13 03:38 | ERROR | oferta-de-empleo-ana-requiere-vocales-integrantes-del-tribunal-n-2ca3-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-13 03:39 | ERROR | oferta-de-empleo-ana-requiere-vocales-integrantes-del-tribunal-n-2ca3-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118476301",
+    "clave":  "id:1118476301",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-farmacia-clinica-1118476301.html",
+                   "capturadoEn":  "2026-10-13T03:35:05+00:00"
+               },
+    "titulo":  "Técnico de Farmacia - Clínica",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "REQUISITOS: Técnico en farmacia egresado o titulado Experiencia laboral mínima de 01 años en el área de farmacia en hospital y/o clínica, deseable. Experiencia laboral dispensación de medicamentos con seguros (de preferencia) Conocimiento de Excel básico Disponibilidad para laborar en horarios rotativos, con un día de descanso. FUNCIONES: Seguimiento de pedidos y entregas, contacto frecuente con el paciente vía whatsapp y/o llamada. Seguimiento de pagos y consultas de pacientes vía virtual. Derivaciones y coordinación con el equipo médico, motorizado y Call center. Gestionar cotizaciones de recetas con nuestros principales proveedores. Reporte de incidencias semanales, mensuales. BENEFICIOS Remuneración de S/ 1, 600 Planilla régimen general, con todos los beneficios de ley al 100% EPS coberturado al 60% Beneficios corporativo.",
+    "requisitos":  [
+                       "Técnico en farmacia egresado o titulado",
+                       "Experiencia laboral mínima de 01 años en el área de farmacia en hospital y/o clínica, deseable",
+                       "Experiencia laboral dispensación de medicamentos con seguros (de preferencia)",
+                       "Conocimiento de Excel básico",
+                       "Disponibilidad para laborar en horarios rotativos, con un día de descanso"
+                   ],
+    "funciones":  [
+                      "Seguimiento de pedidos y entregas, contacto frecuente con el paciente vía whatsapp y/o llamada",
+                      "Seguimiento de pagos y consultas de pacientes vía virtual",
+                      "Derivaciones y coordinación con el equipo médico, motorizado y Call center",
+                      "Gestionar cotizaciones de recetas con nuestros principales proveedores",
+                      "Reporte de incidencias semanales, mensuales"
+                  ],
+    "beneficios":  [
+                       "corporativo"
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-farmacia-clinica-1118476301.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-farmacia-clinica-1118476301.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico en farmacia egresado o titulado\u003c/li\u003e \u003cli\u003eExperiencia laboral mínima de 01 años en el área de farmacia en hospital y/o clínica, deseable.\u003c/li\u003e \u003cli\u003eExperiencia laboral dispensación de medicamentos con seguros (de preferencia)\u003c/li\u003e \u003cli\u003eConocimiento de Excel básico\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en horarios rotativos, con un día de descanso.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSeguimiento de pedidos y entregas, contacto frecuente con el paciente vía whatsapp y/o llamada.\u003c/li\u003e \u003cli\u003eSeguimiento de pagos y consultas de pacientes vía virtual.\u003c/li\u003e \u003cli\u003eDerivaciones y coordinación con el equipo médico, motorizado y Call center.\u003c/li\u003e \u003cli\u003eGestionar cotizaciones de recetas con nuestros principales proveedores.\u003c/li\u003e \u003cli\u003eReporte de incidencias semanales, mensuales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración de S/ 1, 600\u003c/li\u003e \u003cli\u003ePlanilla régimen general, con todos los beneficios de ley al 100%\u003c/li\u003e \u003cli\u003eEPS coberturado al 60%\u003c/li\u003e \u003cli\u003eBeneficios corporativo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "Farmacia hospitalaria",
+    "jornada":  "Full-time",
+    "nivel":  "Junior",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118476339",
+    "clave":  "id:1118476339",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativa-st-eternal-s.a.c-1118476339.html",
+                   "capturadoEn":  "2026-10-13T03:34:07+00:00"
+               },
+    "titulo":  "Auxiliar Administrativa",
+    "empresa":  "ST ETERNAL S.A.C",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar Administrativa Resumen del Puesto Estamos en la búsqueda de una Auxiliar Administrativa proactiva y organizada para integrarse a nuestro equipo. El perfil ideal deberá contar con experiencia en tareas administrativas generales y poseer excelentes habilidades de comunicación y gestión del tiempo. Responsabilidades Brindar soporte en la gestión diaria de la oficina. Organizar y mantener archivos y registros. Atender consultas y comunicaciones internas y externas. Colaborar en la preparación de informes y presentaciones. Coordinar agendas y reuniones. Asistir en tareas de facturación y seguimiento de pagos. Requisitos Formación secundaria completa. Se valorará formación terciaria o universitaria en áreas administrativas o afines. Experiencia previa comprobable en puestos administrativos. Dominio de herramientas ofimáticas (procesador de texto, planillas de cálculo, presentaciones). Capacidad para la organización y priorización de tareas. Habilidades de comunicación efectiva y trato interpersonal. Proactividad y atención al detalle. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Formación secundaria completa. Se valorará formación terciaria o universitaria en áreas administrativas o afines",
+                       "Experiencia previa comprobable en puestos administrativos",
+                       "Dominio de herramientas ofimáticas (procesador de texto, planillas de cálculo, presentaciones)",
+                       "Capacidad para la organización y priorización de tareas",
+                       "Habilidades de comunicación efectiva y trato interpersonal",
+                       "Proactividad y atención al detalle",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativa-st-eternal-s.a.c-1118476339.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativa-st-eternal-s.a.c-1118476339.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar Administrativa\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una \u003cb\u003eAuxiliar Administrativa\u003c/b\u003e proactiva y organizada para integrarse a nuestro equipo. El perfil ideal deberá contar con experiencia en tareas administrativas generales y poseer excelentes habilidades de comunicación y gestión del tiempo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte en la gestión diaria de la oficina.\u003c/li\u003e \u003cli\u003eOrganizar y mantener archivos y registros.\u003c/li\u003e \u003cli\u003eAtender consultas y comunicaciones internas y externas.\u003c/li\u003e \u003cli\u003eColaborar en la preparación de informes y presentaciones.\u003c/li\u003e \u003cli\u003eCoordinar agendas y reuniones.\u003c/li\u003e \u003cli\u003eAsistir en tareas de facturación y seguimiento de pagos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación secundaria completa. Se valorará formación terciaria o universitaria en áreas administrativas o afines.\u003c/li\u003e \u003cli\u003eExperiencia previa comprobable en puestos administrativos.\u003c/li\u003e \u003cli\u003eDominio de herramientas ofimáticas (procesador de texto, planillas de cálculo, presentaciones).\u003c/li\u003e \u003cli\u003eCapacidad para la organización y priorización de tareas.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación efectiva y trato interpersonal.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Administración",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

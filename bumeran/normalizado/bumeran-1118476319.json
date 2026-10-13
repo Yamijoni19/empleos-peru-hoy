@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118476319",
+    "clave":  "id:1118476319",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenadora-de-interiores-junior-roxana-marquez-orellana-1118476319.html",
+                   "capturadoEn":  "2026-10-13T03:34:45+00:00"
+               },
+    "titulo":  "Diseñadora de Interiores Junior",
+    "empresa":  "ROXANA MARQUEZ ORELLANA",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Indeterminado",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Diseñadora de Interiores Junior Resumen del Puesto Buscamos una Diseñadora de Interiores Junior creativa y proactiva para unirse a nuestro equipo. El candidato ideal tendrá una sólida formación técnica y pasión por el diseño, con capacidad para desarrollar proyectos innovadores y funcionales. Responsabilidades Colaborar en el desarrollo de conceptos de diseño de interiores. Crear planos, renders y presentaciones visuales de los proyectos. Seleccionar materiales, mobiliario y acabados. Coordinar con proveedores y equipos de construcción. Asegurar la correcta ejecución de los diseños en obra. Requisitos Técnico egresado en Diseño de Interiores o campo afín. Experiencia previa en diseño de interiores. Dominio de software de diseño (AutoCAD, SketchUp, 3D Max o similares). Capacidad para trabajar de forma presencial. Excelentes habilidades de comunicación y presentación. Proactividad y atención al detalle. Se ofrece Contrato y beneficios laborales. Pagos quincenales. Estabilidad laboral.",
+    "requisitos":  [
+                       "Técnico egresado en Diseño de Interiores o campo afín",
+                       "Experiencia previa en diseño de interiores",
+                       "Dominio de software de diseño (AutoCAD, SketchUp, 3D Max o similares)",
+                       "Capacidad para trabajar de forma presencial",
+                       "Excelentes habilidades de comunicación y presentación",
+                       "Proactividad y atención al detalle",
+                       "Se ofrece",
+                       "Contrato y"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "laborales",
+                       "Pagos quincenales",
+                       "Estabilidad laboral"
+                   ],
+    "fecha_publicacion":  "2026-10-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/disenadora-de-interiores-junior-roxana-marquez-orellana-1118476319.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenadora-de-interiores-junior-roxana-marquez-orellana-1118476319.html",
+    "descripcion_html":  "\u003cb\u003eDiseñadora de Interiores Junior\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eDiseñadora de Interiores Junior\u003c/b\u003e creativa y proactiva para unirse a nuestro equipo. El candidato ideal tendrá una sólida formación técnica y pasión por el diseño, con capacidad para desarrollar proyectos innovadores y funcionales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en el desarrollo de conceptos de diseño de interiores.\u003c/li\u003e \u003cli\u003eCrear planos, renders y presentaciones visuales de los proyectos.\u003c/li\u003e \u003cli\u003eSeleccionar materiales, mobiliario y acabados.\u003c/li\u003e \u003cli\u003eCoordinar con proveedores y equipos de construcción.\u003c/li\u003e \u003cli\u003eAsegurar la correcta ejecución de los diseños en obra.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTécnico egresado en Diseño de Interiores o campo afín.\u003c/li\u003e \u003cli\u003eExperiencia previa en diseño de interiores.\u003c/li\u003e \u003cli\u003eDominio de software de diseño (AutoCAD, SketchUp, 3D Max o similares).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma presencial.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y presentación.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eSe ofrece\u003c/b\u003e \u003cul\u003e \u003cli\u003eContrato y beneficios laborales.\u003c/li\u003e \u003cli\u003ePagos quincenales.\u003c/li\u003e \u003cli\u003eEstabilidad laboral.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "Diseño de Interiores / Decoración",
+    "jornada":  "Full-time",
+    "nivel":  "Semi Sr",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
