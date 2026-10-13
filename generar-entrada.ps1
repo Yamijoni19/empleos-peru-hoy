@@ -252,6 +252,10 @@ $srcPlano = [regex]::Replace($src, '<[^>]+>', ' ')
 $srcPlano = [Net.WebUtility]::HtmlDecode($srcPlano)
 $ms = [regex]::Match($srcPlano, '(?is)Remuneraci(?:ó|o)n:\s*S/\s*([\d][\d.,]*)')
 if (-not $ms.Success) { $ms = [regex]::Match($srcPlano, '(?i)S/\s*([\d][\d.,]{2,})') }
+# monto en texto plano sin 'S/' junto a la remuneracion ("sera 1470 soles").
+# Acepta 1470 o 1,500. Minimo 4 digitos de monto total para no confundirlo
+# con anios (2026), codigos (147) o numeros de vacantes.
+if (-not $ms.Success) { $ms = [regex]::Match($srcPlano, '(?is)Remuneraci(?:ó|o)n[^.\d]{0,40}(\d{1,3}(?:,\d{3}){1,2}|\d{4,6})') }
 if ($ms.Success -and $ms.Groups[1].Value -match '\d') { $salario = "S/ " + $ms.Groups[1].Value }
 elseif ($salarioJson -ne "" -and $salarioJson -match '\d') { $salario = "S/ " + $salarioJson }
 if ($salario -match '^S/\s*\.?$') { $salario = "No especificado" }
