@@ -1,6 +1,6 @@
 {
-    "desde":  "2026-10-13T11:52:11.3497509+00:00",
-    "hasta":  "2026-10-13T12:37:11.3497509+00:00",
+    "desde":  "2026-10-13T19:24:53.0722763+00:00",
+    "hasta":  "2026-10-13T20:09:53.0722763+00:00",
     "minutos":  45,
     "motivo":  "429 Too Many Requests: { \"error\": { \"code\": 429, \"message\": \"Resource has been exhausted (e.g. check quota).\", \"errors\": [ { \"message\": \"Resource has been exhausted (e.g. check quota).\", \"domain\": \"global\", \"reason\": \"rateLimitExceeded\" } ], \"status\": \"RESOURCE_EXH"
 }

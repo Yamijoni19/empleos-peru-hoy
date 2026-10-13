@@ -5375,3 +5375,39 @@
       }
     ],
     "status": "RESOURCE_EXH
+2026-10-13 19:22 | ERROR | oferta-de-empleo-bcrp-requiere-tecnico-caja-especialista-convoca-0684-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-13 19:23 | ERROR | oferta-de-empleo-bcrp-requiere-tecnico-caja-especialista-convoca-0684-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH
+2026-10-13 19:24 | ERROR | oferta-de-empleo-bcrp-requiere-tecnico-caja-especialista-convoca-0684-entrada.html | 429 Too Many Requests: {
+  "error": {
+    "code": 429,
+    "message": "Resource has been exhausted (e.g. check quota).",
+    "errors": [
+      {
+        "message": "Resource has been exhausted (e.g. check quota).",
+        "domain": "global",
+        "reason": "rateLimitExceeded"
+      }
+    ],
+    "status": "RESOURCE_EXH

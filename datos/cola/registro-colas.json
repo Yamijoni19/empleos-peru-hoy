@@ -2477,6 +2477,16 @@
                                                                                                "intentos":  0,
                                                                                                "cola":  "NUEVA"
                                                                                            },
+    "oferta-de-empleo-bcrp-requiere-tecnico-caja-especialista-convoca-0684-entrada.html":  {
+                                                                                               "estado":  "ERROR",
+                                                                                               "hash":  "7ADFA909BD171D38E09EFC64C97D21F0AECA648AA3C38232746C023B36BB325A",
+                                                                                               "titulo":  "BCRP: Técnico de caja y especialista",
+                                                                                               "url":  "",
+                                                                                               "fecha":  "2026-10-13T19:24:53.0531717+00:00",
+                                                                                               "intentos":  3,
+                                                                                               "motivo":  "429 Too Many Requests: {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"Resource has been exhausted (e.g. check quota).\",\n    \"errors\": [\n      {\n        \"message\": \"Resource has been exhausted (e.g. check quota).\",\n        \"domain\": \"global\",\n        \"reason\": \"rateLimitExceeded\"\n      }\n    ],\n    \"status\": \"RESOURCE_EXH",
+                                                                                               "cola":  "NUEVA"
+                                                                                           },
     "oferta-de-empleo-biblioteca-nacional-bnp-busca-abogado-convocato-c5ba-entrada.html":  {
                                                                                                "estado":  "PUBLICADA",
                                                                                                "hash":  "34A68FAE5D6F44F1E94F1B2097A0B04E13C099582C8FFD5CBC354466308EBE5A",
