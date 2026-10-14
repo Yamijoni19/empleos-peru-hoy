@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118475705",
+    "clave":  "id:1118475705",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/orientador-de-aula-academia-briceno-1118475705.html",
+                   "capturadoEn":  "2026-10-14T10:13:05+00:00"
+               },
+    "titulo":  "Orientador de Aula",
+    "empresa":  "ACADEMIA BRICEÑO",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Orientador de Aula Resumen del Puesto Buscamos un Orientador de Aula con vocación y experiencia para apoyar el desarrollo integral de los estudiantes. El candidato ideal poseerá una sólida formación académica y habilidades interpersonales para fomentar un ambiente de aprendizaje positivo y constructivo. Responsabilidades Brindar orientación individual y grupal a estudiantes. Facilitar el desarrollo de habilidades socioemocionales y de convivencia. Colaborar con el personal docente y directivo en la identificación y abordaje de necesidades estudiantiles. Promover un clima escolar seguro y de respeto mutuo. Participar en la planificación e implementación de programas de apoyo estudiantil. Requisitos Estudios técnicos o universitarios en Educación, Psicología, Trabajo Social o carreras afines. Capacitación en tutoría, educación socioemocional, convivencia escolar o primeros auxilios psicológicos. Conocimiento del desarrollo emocional y conductual del adolescente. Habilidades de comunicación efectiva y empatía. Capacidad para trabajar en equipo y de forma autónoma.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios en Educación, Psicología, Trabajo Social o carreras afines",
+                       "Capacitación en tutoría, educación socioemocional, convivencia escolar o primeros auxilios psicológicos",
+                       "Conocimiento del desarrollo emocional y conductual del adolescente",
+                       "Habilidades de comunicación efectiva y empatía",
+                       "Capacidad para trabajar en equipo y de forma autónoma"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/orientador-de-aula-academia-briceno-1118475705.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/orientador-de-aula-academia-briceno-1118475705.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOrientador de Aula\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eOrientador de Aula\u003c/strong\u003e con vocación y experiencia para apoyar el desarrollo integral de los estudiantes. El candidato ideal poseerá una sólida formación académica y habilidades interpersonales para fomentar un ambiente de aprendizaje positivo y constructivo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar orientación individual y grupal a estudiantes.\u003c/li\u003e \u003cli\u003eFacilitar el desarrollo de habilidades socioemocionales y de convivencia.\u003c/li\u003e \u003cli\u003eColaborar con el personal docente y directivo en la identificación y abordaje de necesidades estudiantiles.\u003c/li\u003e \u003cli\u003ePromover un clima escolar seguro y de respeto mutuo.\u003c/li\u003e \u003cli\u003eParticipar en la planificación e implementación de programas de apoyo estudiantil.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios en Educación, Psicología, Trabajo Social o carreras afines.\u003c/li\u003e \u003cli\u003eCapacitación en tutoría, educación socioemocional, convivencia escolar o primeros auxilios psicológicos.\u003c/li\u003e \u003cli\u003eConocimiento del desarrollo emocional y conductual del adolescente.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación efectiva y empatía.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y de forma autónoma.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

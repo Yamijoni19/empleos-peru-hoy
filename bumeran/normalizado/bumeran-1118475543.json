@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118475543",
+    "clave":  "id:1118475543",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajera-multifuncional-con-experiencia-vivero-los-inkas-1118475543.html",
+                   "capturadoEn":  "2026-10-14T10:13:40+00:00"
+               },
+    "titulo":  "Cajera Multifuncional con experiencia",
+    "empresa":  "VIVERO LOS INKAS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1480,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,480",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cajera MultifuncionalResumen del Puesto Buscamos una Cajera Multifuncional para unirse a nuestro equipo. El candidato ideal tendrá experiencia comprobada en atención al cliente y manejo de dinero. Responsabilidades Procesar transacciones de venta y devolución. Manejar dinero en efectivo, tarjetas de crédito y débito. Proporcionar un excelente servicio al cliente. Mantener la caja registradora y el área de trabajo limpios y organizados. Realizar otras tareas asignadas por el supervisor. Requisitos Experiencia comprobada de 2 años como cajera. Manejo de sistemas de venta de caja + conocimiento de detección de billetes + manejo de POS.",
+    "requisitos":  [
+                       "Experiencia comprobada de 2 años como cajera",
+                       "Manejo de sistemas de venta de caja + conocimiento de detección de billetes + manejo de POS"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cajera-multifuncional-con-experiencia-vivero-los-inkas-1118475543.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajera-multifuncional-con-experiencia-vivero-los-inkas-1118475543.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eCajera MultifuncionalResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eCajera Multifuncional\u003c/strong\u003e para unirse a nuestro equipo. El candidato ideal tendrá experiencia comprobada en atención al cliente y manejo de dinero.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProcesar transacciones de venta y devolución.\u003c/li\u003e \u003cli\u003eManejar dinero en efectivo, tarjetas de crédito y débito.\u003c/li\u003e \u003cli\u003eProporcionar un excelente servicio al cliente.\u003c/li\u003e \u003cli\u003eMantener la caja registradora y el área de trabajo limpios y organizados.\u003c/li\u003e \u003cli\u003eRealizar otras tareas asignadas por el supervisor.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobada de \u0026#x32; años como cajera.\u003c/li\u003e \u003cli\u003eManejo de sistemas de venta de caja + conocimiento de detección de billetes + manejo de POS.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

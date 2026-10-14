@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118475735",
+    "clave":  "id:1118475735",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativa--laboratorio-clinico-pueblo-libre-sapienslab-1118475735.html",
+                   "capturadoEn":  "2026-10-14T10:12:53+00:00"
+               },
+    "titulo":  "Auxiliar administrativa – Laboratorio Clínico - Pueblo Libre",
+    "empresa":  "SAPIENSLAB",
+    "ubicacion":  "Lima - Pueblo Libre",
+    "ciudad":  "Pueblo Libre",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "SAPIENSLAB es un laboratorio clínico con sedes en Pueblo Libre y Callao. Buscamos incorporar un auxiliar administrativo para apoyar la gestión documental y los procesos administrativos de nuestra sede Pueblo Libre. En SAPIENSLAB buscamos un auxiliar administrativo para nuestra sede de Pueblo Libre, en modalidad presencial y a tiempo completo. Funciones: Recibir, revisar, registrar y archivar facturas, comprobantes y documentación administrativa. Verificar órdenes de compra y conformidades, y gestionar documentos faltantes. Apoyar el control de cuentas por pagar y el seguimiento de vencimientos bajo coordinación de Administración. Apoyar la coordinación de compras, proveedores y trámites administrativos. Elaborar reportes en Excel y mantener actualizados los controles y pendientes administrativos. Requisitos: Estudios técnicos o universitarios en Administración, Contabilidad o carreras afines. Experiencia mínima de 6 meses en funciones similares. Manejo de Excel: fórmulas básicas, ordenamiento y filtros. Manejo de herramientas de Office. Organización, atención al detalle y confidencialidad.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios en Administración, Contabilidad o carreras afines",
+                       "Experiencia mínima de 6 meses en"
+                   ],
+    "funciones":  [
+                      "similares",
+                      "Manejo de Excel: fórmulas básicas, ordenamiento y filtros",
+                      "Manejo de herramientas de Office",
+                      "Organización, atención al detalle y confidencialidad"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativa--laboratorio-clinico-pueblo-libre-sapienslab-1118475735.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativa--laboratorio-clinico-pueblo-libre-sapienslab-1118475735.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eSAPIENSLAB es un laboratorio clínico con sedes en Pueblo Libre y Callao. Buscamos incorporar un auxiliar administrativo para apoyar la gestión documental y los procesos administrativos de nuestra sede Pueblo Libre.\u003c/p\u003e\u003c/p\u003e \u003cp\u003eEn SAPIENSLAB buscamos un auxiliar administrativo para nuestra sede de Pueblo Libre, en modalidad presencial y a tiempo completo.\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecibir, revisar, registrar y archivar facturas, comprobantes y documentación administrativa.\u003c/li\u003e \u003cli\u003eVerificar órdenes de compra y conformidades, y gestionar documentos faltantes.\u003c/li\u003e \u003cli\u003eApoyar el control de cuentas por pagar y el seguimiento de vencimientos bajo coordinación de Administración.\u003c/li\u003e \u003cli\u003eApoyar la coordinación de compras, proveedores y trámites administrativos.\u003c/li\u003e \u003cli\u003eElaborar reportes en Excel y mantener actualizados los controles y pendientes administrativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios en Administración, Contabilidad o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u0026#x36; meses en funciones similares.\u003c/li\u003e \u003cli\u003eManejo de Excel: fórmulas básicas, ordenamiento y filtros.\u003c/li\u003e \u003cli\u003eManejo de herramientas de Office.\u003c/li\u003e \u003cli\u003eOrganización, atención al detalle y confidencialidad.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

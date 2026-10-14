@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118475673",
+    "clave":  "id:1118475673",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/dibujante-tecnico-junior-ccl-peru-sa-1118475673.html",
+                   "capturadoEn":  "2026-10-14T10:13:14+00:00"
+               },
+    "titulo":  "Dibujante Técnico Junior",
+    "empresa":  "CCL PERU SA",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Somos un grupo líder en soluciones de ingeniería especializadas para estructuras, con más de 80 años de experiencia y presencia en cinco continentes. Dibujante Técnico Junior Resumen del Puesto Buscamos un Dibujante Técnico Junior con formación en Dibujo Técnico y manejo de software de dibujo 2D, o con al menos 1 año de experiencia en áreas afines como ingeniería, arquitectura o instalaciones. El candidato ideal tendrá conocimientos en dibujo técnico y elaboración de planos de ingeniería, con disposición para aprender y un fuerte compromiso con la calidad del trabajo y atención al detalle. Responsabilidades Revisar planos de estructuras para la elaboración de planos de taller (dibujo y detallado). Interpretar diseños estructurales y plasmarlos en planos. Cumplir los plazos establecidos para la entrega de planos de taller. Requisitos Formación en Dibujo Técnico y manejo de software de dibujo 2D (AutoCAD) o 1 año de experiencia como dibujante técnico en ingeniería, arquitectura, instalaciones u otras áreas afines. Conocimientos en dibujo técnico y elaboración de planos de ingeniería. Deseable inglés a nivel básico (lectura de planos). Competencias Disposición para aprender. Responsabilidad y compromiso con la calidad del trabajo. Atención al detalle.",
+    "requisitos":  [
+                       "Formación en Dibujo Técnico y manejo de software de dibujo 2D (AutoCAD) o 1 año de experiencia como dibujante técnico en ingeniería, arquitectura, instalaciones u otras áreas afines",
+                       "Conocimientos en dibujo técnico y elaboración de planos de ingeniería",
+                       "Deseable inglés a nivel básico (lectura de planos)",
+                       "Competencias",
+                       "Disposición para aprender",
+                       "Responsabilidad y compromiso con la calidad del trabajo",
+                       "Atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/dibujante-tecnico-junior-ccl-peru-sa-1118475673.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/dibujante-tecnico-junior-ccl-peru-sa-1118475673.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eSomos un grupo líder en soluciones de ingeniería especializadas para estructuras, con más de 80 años de experiencia y presencia en cinco continentes.\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003c/p\u003e \u003cb\u003eDibujante Técnico Junior\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDibujante Técnico Junior\u003c/b\u003e con formación en Dibujo Técnico y manejo de software de dibujo 2D, o con al menos 1 año de experiencia en áreas afines como ingeniería, arquitectura o instalaciones. El candidato ideal tendrá conocimientos en dibujo técnico y elaboración de planos de ingeniería, con disposición para aprender y un fuerte compromiso con la calidad del trabajo y atención al detalle.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRevisar planos de estructuras para la elaboración de planos de taller (dibujo y detallado).\u003c/li\u003e \u003cli\u003eInterpretar diseños estructurales y plasmarlos en planos.\u003c/li\u003e \u003cli\u003eCumplir los plazos establecidos para la entrega de planos de taller.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Dibujo Técnico y manejo de software de dibujo 2D (AutoCAD) o 1 año de experiencia como dibujante técnico en ingeniería, arquitectura, instalaciones u otras áreas afines.\u003c/li\u003e \u003cli\u003eConocimientos en dibujo técnico y elaboración de planos de ingeniería.\u003c/li\u003e \u003cli\u003eDeseable inglés a nivel básico (lectura de planos).\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCompetencias\u003c/b\u003e \u003cul\u003e \u003cli\u003eDisposición para aprender.\u003c/li\u003e \u003cli\u003eResponsabilidad y compromiso con la calidad del trabajo.\u003c/li\u003e \u003cli\u003eAtención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 80 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

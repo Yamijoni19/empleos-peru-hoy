@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118475685",
+    "clave":  "id:1118475685",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-b2b-check-1118475685.html",
+                   "capturadoEn":  "2026-10-14T10:13:10+00:00"
+               },
+    "titulo":  "Ejecutivo Comercial B2B",
+    "empresa":  "CHECK",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Nuestro equipo comercial está creciendo! Ejecutivo Comercial B 2B Resumen del Puesto Buscamos profesionales con una marcada orientación a resultados y experiencia en el cierre de ventas B 2B. El candidato ideal será una persona proactiva, capaz de prospectar y gestionar su propia cartera de clientes, motivado por alcanzar metas y maximizar sus ingresos. Se valorarán excelentes habilidades de comunicación para comprender las necesidades de marketing de otras empresas. Responsabilidades Identificar y contactar potenciales clientes empresariales (B 2B). Gestionar y desarrollar una cartera de clientes asignada. Presentar y negociar soluciones comerciales adaptadas a las necesidades del cliente. Cerrar ventas y asegurar el cumplimiento de objetivos comerciales. Mantener relaciones sólidas y a largo plazo con los clientes. Realizar seguimiento post-venta para garantizar la satisfacción del cliente. Requisitos Experiencia comprobable en ventas B 2B. Habilidades demostradas en prospección y gestión de cartera de clientes. Orientación a resultados y capacidad para trabajar por objetivos. Excelentes habilidades de comunicación, negociación y cierre. Capacidad para comprender las necesidades del mercado y de los clientes. Proactividad y autonomía en la gestión del trabajo.",
+    "requisitos":  [
+                       "Experiencia comprobable en ventas B 2B",
+                       "Habilidades demostradas en prospección y gestión de cartera de clientes",
+                       "Orientación a resultados y capacidad para trabajar por objetivos",
+                       "Excelentes habilidades de comunicación, negociación y cierre",
+                       "Capacidad para comprender las necesidades del mercado y de los clientes",
+                       "Proactividad y autonomía en la gestión del trabajo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-b2b-check-1118475685.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-b2b-check-1118475685.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eNuestro equipo comercial está creciendo!\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eEjecutivo Comercial B \u0026#x32;B\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos profesionales con una marcada orientación a resultados y experiencia en el cierre de ventas B \u0026#x32;B. El candidato ideal será una persona proactiva, capaz de prospectar y gestionar su propia cartera de clientes, motivado por alcanzar metas y maximizar sus ingresos. Se valorarán excelentes habilidades de comunicación para comprender las necesidades de marketing de otras empresas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIdentificar y contactar potenciales clientes empresariales (B \u0026#x32;B).\u003c/li\u003e \u003cli\u003eGestionar y desarrollar una cartera de clientes asignada.\u003c/li\u003e \u003cli\u003ePresentar y negociar soluciones comerciales adaptadas a las necesidades del cliente.\u003c/li\u003e \u003cli\u003eCerrar ventas y asegurar el cumplimiento de objetivos comerciales.\u003c/li\u003e \u003cli\u003eMantener relaciones sólidas y a largo plazo con los clientes.\u003c/li\u003e \u003cli\u003eRealizar seguimiento post-venta para garantizar la satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en ventas B \u0026#x32;B.\u003c/li\u003e \u003cli\u003eHabilidades demostradas en prospección y gestión de cartera de clientes.\u003c/li\u003e \u003cli\u003eOrientación a resultados y capacidad para trabajar por objetivos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, negociación y cierre.\u003c/li\u003e \u003cli\u003eCapacidad para comprender las necesidades del mercado y de los clientes.\u003c/li\u003e \u003cli\u003eProactividad y autonomía en la gestión del trabajo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
