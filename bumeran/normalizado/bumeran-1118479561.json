@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118479561",
+    "clave":  "id:1118479561",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-grupo-tawa-1118479561.html",
+                   "capturadoEn":  "2026-10-14T23:14:02+00:00"
+               },
+    "titulo":  "Asistente contable",
+    "empresa":  "Grupo Tawa",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, empresa industrial distribuidora de valvulas y suministros, nos encontramos en la búsqueda de: 01 Asistente Contable: Requisitos: Estudios universitarios en contabilidad. Experiencia mínima de 2 años dentro de un rol de Auxiliar/Asistente en Contabilidad Corporativa, ideal que o que haya trabajado en un estudio contable atendiendo varios rubros de empresas. Dominio de ERP (Sap), MICROSOFT DINAMICS AX, etc. Funciones: Registros diarios de documentos. Analisis de cuenta contables, al detectar alguna inconsistencia Cierre contable mensual Cumplimiento de declaraciones mensuales al fisco y control de libros mensual Elaboración de reportes contables y financieros mensual (flujo de caja y control de presupuesto) Datos adicionales: Contrato de 3 meses, renovables. Beneficios de Ley, EPS Lugar de trabajo: Miraflores Horario: L - V de 8 am a 6 pm (presencial 100%)",
+    "requisitos":  [
+                       "Estudios universitarios en contabilidad",
+                       "Experiencia mínima de 2 años dentro de un rol de Auxiliar/Asistente en Contabilidad Corporativa, ideal que o que haya trabajado en un estudio contable atendiendo varios rubros de empresas",
+                       "Dominio de ERP (Sap), MICROSOFT DINAMICS AX, etc"
+                   ],
+    "funciones":  [
+                      "Registros diarios de documentos",
+                      "Analisis de cuenta contables, al detectar alguna inconsistencia",
+                      "Cierre contable mensual",
+                      "Cumplimiento de declaraciones mensuales al fisco y control de libros mensual",
+                      "Elaboración de reportes contables y financieros mensual (flujo de caja y control de presupuesto)",
+                      "Datos adicionales",
+                      "Contrato de 3 meses, renovables"
+                  ],
+    "beneficios":  [
+                       "de Ley, EPS",
+                       "Lugar de trabajo: Miraflores",
+                       "Horario: L - V de 8 am a 6 pm (presencial 100%)"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-grupo-tawa-1118479561.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-grupo-tawa-1118479561.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, empresa industrial distribuidora de valvulas y suministros, nos encontramos en la búsqueda de: 01 Asistente Contable:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios universitarios en contabilidad.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años dentro de un rol de Auxiliar/Asistente en Contabilidad Corporativa, ideal que o que haya trabajado en un estudio contable atendiendo varios rubros de empresas.\u003c/li\u003e \u003cli\u003eDominio de ERP (Sap), MICROSOFT DINAMICS AX, etc.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003col\u003e \u003cli\u003eRegistros diarios de documentos. \u003c/li\u003e \u003cli\u003eAnalisis de cuenta contables, al detectar alguna inconsistencia \u003c/li\u003e \u003cli\u003eCierre contable mensual \u003c/li\u003e \u003cli\u003eCumplimiento de declaraciones mensuales al fisco y control de libros mensual \u003c/li\u003e \u003cli\u003eElaboración de reportes contables y financieros mensual (flujo de caja y control de presupuesto)\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eDatos adicionales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eContrato de 3 meses, renovables.\u003c/li\u003e \u003cli\u003eBeneficios de Ley, EPS\u003c/li\u003e \u003cli\u003eLugar de trabajo: Miraflores\u003c/li\u003e \u003cli\u003eHorario: L - V de 8 am a 6 pm (presencial 100%)\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "L - V de 8 am a 6 pm (presencial 100%)",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

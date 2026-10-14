@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118479558",
+    "clave":  "id:1118479558",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/maquinista-de-confeccion-textil-santa-isabel-1118479558.html",
+                   "capturadoEn":  "2026-10-14T23:14:05+00:00"
+               },
+    "titulo":  "Maquinista de Confección Textil",
+    "empresa":  "Santa Isabel",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,100",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Maquinista de Confección Textil Resumen del Puesto Buscamos un Maquinista de Confección Textil con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de operar maquinaria de costura para la producción de prendas de vestir, asegurando la calidad y eficiencia en cada etapa del proceso. Responsabilidades Operar máquinas de coser rectas y remalladoras para la confección de prendas. Asegurar la calidad y la eficiencia en el manejo de la producción, especialmente en lotes pequeños. Colaborar con el equipo para mantener un flujo de trabajo óptimo. Mantener la maquinaria en buen estado de funcionamiento. Requisitos Experiencia comprobada en el manejo de máquina recta y remalladora. Mínimo de 3 años de experiencia en puestos similares. Habilidad para garantizar la calidad y la eficiencia en la producción. Capacidad para trabajar de forma organizada y metódica. Disponibilidad para trabajar a tiempo completo. Condiciones Laborales Horario de trabajo de lunes a viernes. Ambiente laboral positivo y colaborativo.",
+    "requisitos":  [
+                       "Experiencia comprobada en el manejo de máquina recta y remalladora",
+                       "Mínimo de 3 años de experiencia en puestos similares",
+                       "Habilidad para garantizar la calidad y la eficiencia en la producción",
+                       "Capacidad para trabajar de forma organizada y metódica",
+                       "Disponibilidad para trabajar a tiempo completo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/maquinista-de-confeccion-textil-santa-isabel-1118479558.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/maquinista-de-confeccion-textil-santa-isabel-1118479558.html",
+    "descripcion_html":  "\u003cb\u003eMaquinista de Confección Textil\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eMaquinista de Confección Textil\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de operar maquinaria de costura para la producción de prendas de vestir, asegurando la calidad y eficiencia en cada etapa del proceso.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eOperar máquinas de coser rectas y remalladoras para la confección de prendas.\u003c/li\u003e \u003cli\u003eAsegurar la calidad y la eficiencia en el manejo de la producción, especialmente en lotes pequeños.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para mantener un flujo de trabajo óptimo.\u003c/li\u003e \u003cli\u003eMantener la maquinaria en buen estado de funcionamiento.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobada en el manejo de máquina recta y remalladora.\u003c/li\u003e \u003cli\u003eMínimo de 3 años de experiencia en puestos similares.\u003c/li\u003e \u003cli\u003eHabilidad para garantizar la calidad y la eficiencia en la producción.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma organizada y metódica.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones Laborales\u003c/b\u003e \u003cul\u003e \u003cli\u003eHorario de trabajo de lunes a viernes.\u003c/li\u003e \u003cli\u003eAmbiente laboral positivo y colaborativo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

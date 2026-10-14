@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118479536",
+    "clave":  "id:1118479536",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/prevencionistas-para-empresa-constructora-de-edificaciones-m-g-infraestructura-sociedad-anonima-cerrada-1118479536.html",
+                   "capturadoEn":  "2026-10-14T23:14:11+00:00"
+               },
+    "titulo":  "PREVENCIONISTAS PARA EMPRESA CONSTRUCTORA DE EDIFICACIONES",
+    "empresa":  "M \u0026 G INFRAESTRUCTURA SOCIEDAD ANONIMA CERRADA",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "EMPRESA CONSTRUCTORA DE EDIFICACIONES ESTA EN BUSQUEDA DE: PREVENCIONISTAS DE RIESGO REQUISITOS: Bachiller o técnico experto en gestión de seguridad y salud en el trabajo (prevención de riesgos) Experiencia de 02 año como mínimo de trabajo en prevención de riesgos en Obras de construcción civil. Contar con Diplomado y cursos en Seguridad FUNCIONES DEL CARGO: Revisión y verificación del cumplimiento de los requisitos legales en materia de SST. Atención e investigación de los accidentes de trabajo Asesorar y capacitar al personal de obra en lo referente a seguridad ocupacional Implementación, control y seguimiento del SGSST de la obra Supervisar a las cuadrillas y frentes de trabajo Coordinar y realizar las charlas de inducción, capacitación, entrenamientos y motivación del personal Llevar el control de los SCTR, EPP, documentos y registros según los requerimientos legales vigentes. con disponibilidad inmediata par trabajar en San Isidro Lima.",
+    "requisitos":  [
+                       "legales en materia de SST",
+                       "Atención e investigación de los accidentes de trabajo",
+                       "Asesorar y capacitar al personal de obra en lo referente a seguridad ocupacional",
+                       "Implementación, control y seguimiento del SGSST de la obra",
+                       "Supervisar a las cuadrillas y frentes de trabajo",
+                       "Coordinar y realizar las charlas de inducción, capacitación, entrenamientos y motivación del personal",
+                       "Llevar el control de los SCTR, EPP, documentos y registros según los requerimientos legales vigentes",
+                       "con disponibilidad inmediata par trabajar en San Isidro Lima"
+                   ],
+    "funciones":  [
+                      "DEL CARGO",
+                      "Revisión y verificación del cumplimiento de los"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/prevencionistas-para-empresa-constructora-de-edificaciones-m-g-infraestructura-sociedad-anonima-cerrada-1118479536.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/prevencionistas-para-empresa-constructora-de-edificaciones-m-g-infraestructura-sociedad-anonima-cerrada-1118479536.html",
+    "descripcion_html":  "\u003cp\u003eEMPRESA CONSTRUCTORA DE EDIFICACIONES ESTA EN BUSQUEDA DE:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePREVENCIONISTAS DE RIESGO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o técnico experto en gestión de seguridad y salud en el trabajo (prevención de riesgos)\u003c/li\u003e \u003cli\u003eExperiencia de 02 año como mínimo de trabajo en prevención de riesgos en Obras de construcción civil.\u003c/li\u003e \u003cli\u003eContar con Diplomado y cursos en Seguridad\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES DEL CARGO:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRevisión y verificación del cumplimiento de los requisitos legales en materia de SST.\u003c/li\u003e \u003cli\u003eAtención e investigación de los accidentes de trabajo\u003c/li\u003e \u003cli\u003eAsesorar y capacitar al personal de obra en lo referente a seguridad ocupacional\u003c/li\u003e \u003cli\u003eImplementación, control y seguimiento del SGSST de la obra\u003c/li\u003e \u003cli\u003eSupervisar a las cuadrillas y frentes de trabajo\u003c/li\u003e \u003cli\u003eCoordinar y realizar las charlas de inducción, capacitación, entrenamientos y motivación del personal\u003c/li\u003e \u003cli\u003eLlevar el control de los SCTR, EPP, documentos y registros según los requerimientos legales vigentes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003econ disponibilidad inmediata par trabajar en San Isidro Lima.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

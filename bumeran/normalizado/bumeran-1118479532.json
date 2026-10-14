@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118479532",
+    "clave":  "id:1118479532",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/lider-de-mozos--lima-centro-grupo-rokys-1118479532.html",
+                   "capturadoEn":  "2026-10-14T23:14:14+00:00"
+               },
+    "titulo":  "Líder de Mozos – Lima Centro",
+    "empresa":  "GRUPO ROKYS",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2300,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,300 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Grupo Rokys, empresa líder en el rubro gastronómico, se encuentra en la búsqueda de profesionales del sector restaurantes para incorporarse a sus locales como Líder de Mozos. Buscamos personas con vocación de servicio, liderazgo operativo y enfoque en la excelencia de la atención al cliente. Funciones: Asegurar el cumplimiento de los estándares de atención y calidad de servicio definidos por la corporación y la normativa vigente. Capacitar y entrenar permanentemente al equipo de salón, reforzando estándares de servicio y técnicas de venta. Supervisar la atención al cliente y la venta sugestiva del personal a cargo. Supervisar y delegar las tareas operativas del equipo de salón. Supervisar las tiendas a cargo dentro de la zona encargada. Elaborar reportes semanales de avances y desempeño, así como otras funciones propias del cargo. Requisitos: Experiencia mínima de 1 año como líder de mozos, jefe de salón o posiciones afines en restaurantes (indispensable). Excelente actitud y trato tanto con clientes como con el personal. Beneficios: Todos los beneficios de ley. Sueldo básico S/.2,300 + bonos. Beneficios corporativos. Oportunidad de línea de carrera.",
+    "requisitos":  [
+                       "Experiencia mínima de 1 año como líder de mozos, jefe de salón o posiciones afines en restaurantes (indispensable)",
+                       "Excelente actitud y trato tanto con clientes como con el personal"
+                   ],
+    "funciones":  [
+                      "propias del cargo"
+                  ],
+    "beneficios":  [
+                       "corporativos",
+                       "Oportunidad de línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/lider-de-mozos--lima-centro-grupo-rokys-1118479532.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/lider-de-mozos--lima-centro-grupo-rokys-1118479532.html",
+    "descripcion_html":  "\u003cp\u003eGrupo Rokys, empresa líder en el rubro gastronómico, se encuentra en la búsqueda de profesionales del sector restaurantes para incorporarse a sus locales como Líder de Mozos. Buscamos personas con vocación de servicio, liderazgo operativo y enfoque en la excelencia de la atención al cliente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsegurar el cumplimiento de los estándares de atención y calidad de servicio definidos por la corporación y la normativa vigente.\u003c/li\u003e \u003cli\u003eCapacitar y entrenar permanentemente al equipo de salón, reforzando estándares de servicio y técnicas de venta.\u003c/li\u003e \u003cli\u003eSupervisar la atención al cliente y la venta sugestiva del personal a cargo.\u003c/li\u003e \u003cli\u003eSupervisar y delegar las tareas operativas del equipo de salón.\u003c/li\u003e \u003cli\u003eSupervisar las tiendas a cargo dentro de la zona encargada.\u003c/li\u003e \u003cli\u003eElaborar reportes semanales de avances y desempeño, así como otras funciones propias del cargo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 1 año como líder de mozos, jefe de salón o posiciones afines en restaurantes (indispensable).\u003c/li\u003e \u003cli\u003eExcelente actitud y trato tanto con clientes como con el personal.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTodos los beneficios de ley.\u003c/li\u003e \u003cli\u003eSueldo básico S/.2,300 + bonos.\u003c/li\u003e \u003cli\u003eBeneficios corporativos.\u003c/li\u003e \u003cli\u003eOportunidad de línea de carrera.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

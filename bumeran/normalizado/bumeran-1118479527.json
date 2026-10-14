@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118479527",
+    "clave":  "id:1118479527",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-ingenieria-sst-salud-ocupacional-cigemed-1118479527.html",
+                   "capturadoEn":  "2026-10-14T23:14:16+00:00"
+               },
+    "titulo":  "Practicante de Ingeniería SST - Salud Ocupacional",
+    "empresa":  "CIGEMED",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante de Ingeniería SST - Salud Ocupacional Resumen del Puesto Buscamos estudiantes de Ingeniería SST con un fuerte compromiso con la seguridad y salud en el trabajo para unirse a nuestro equipo. Esta es una excelente oportunidad para adquirir experiencia práctica y desarrollar tus habilidades en un entorno profesional. Responsabilidades Apoyar en la implementación y seguimiento de políticas y procedimientos de seguridad y salud ocupacional. Colaborar en la identificación de riesgos laborales y la propuesta de medidas preventivas. Participar en la elaboración de planes de capacitación y concientización en SST. Asistir en la supervisión de las condiciones de trabajo para garantizar el cumplimiento de la normativa vigente. Contribuir a la mejora continua de los sistemas de gestión de seguridad y salud en el trabajo. Requisitos Estudiante activo de Ingeniería SST o carrera afín. Experiencia previa de 6 meses a 1 año en áreas relacionadas con SST (deseable). No haber culminado la carrera universitaria. Interés y conocimiento básico en normativas de seguridad y salud ocupacional. Capacidad de aprendizaje, proactividad y buenas habilidades interpersonales. Disponibilidad para realizar prácticas profesionales. ¡Únete a nosotros y contribuye a crear entornos de trabajo más seguros y saludables!",
+    "requisitos":  [
+                       "Estudiante activo de Ingeniería SST o carrera afín",
+                       "Experiencia previa de 6 meses a 1 año en áreas relacionadas con SST (deseable)",
+                       "No haber culminado la carrera universitaria",
+                       "Interés y conocimiento básico en normativas de seguridad y salud ocupacional",
+                       "Capacidad de aprendizaje, proactividad y buenas habilidades interpersonales",
+                       "Disponibilidad para realizar prácticas profesionales",
+                       "¡Únete a nosotros y contribuye a crear entornos de trabajo más seguros y saludables!"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-ingenieria-sst-salud-ocupacional-cigemed-1118479527.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-ingenieria-sst-salud-ocupacional-cigemed-1118479527.html",
+    "descripcion_html":  "\u003cb\u003ePracticante de Ingeniería SST - Salud Ocupacional\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos estudiantes de Ingeniería SST con un fuerte compromiso con la seguridad y salud en el trabajo para unirse a nuestro equipo. Esta es una excelente oportunidad para adquirir experiencia práctica y desarrollar tus habilidades en un entorno profesional.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la implementación y seguimiento de políticas y procedimientos de seguridad y salud ocupacional.\u003c/li\u003e \u003cli\u003eColaborar en la identificación de riesgos laborales y la propuesta de medidas preventivas.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de planes de capacitación y concientización en SST.\u003c/li\u003e \u003cli\u003eAsistir en la supervisión de las condiciones de trabajo para garantizar el cumplimiento de la normativa vigente.\u003c/li\u003e \u003cli\u003eContribuir a la mejora continua de los sistemas de gestión de seguridad y salud en el trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante activo de Ingeniería SST o carrera afín.\u003c/li\u003e \u003cli\u003eExperiencia previa de 6 meses a 1 año en áreas relacionadas con SST (deseable).\u003c/li\u003e \u003cli\u003eNo haber culminado la carrera universitaria.\u003c/li\u003e \u003cli\u003eInterés y conocimiento básico en normativas de seguridad y salud ocupacional.\u003c/li\u003e \u003cli\u003eCapacidad de aprendizaje, proactividad y buenas habilidades interpersonales.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar prácticas profesionales.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003e¡Únete a nosotros y contribuye a crear entornos de trabajo más seguros y saludables!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
