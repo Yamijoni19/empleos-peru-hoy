@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118479630",
+    "clave":  "id:1118479630",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-gestion-tributaria-suplencia-alicorp-1118479630.html",
+                   "capturadoEn":  "2026-10-14T15:09:10+00:00"
+               },
+    "titulo":  "Analista de Gestión Tributaria - Suplencia",
+    "empresa":  "Alicorp",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Cuál será tu desafío? Brindar soporte en la ejecución y seguimiento de proyectos tributarios de la compañía, asegurando el cumplimiento de las obligaciones fiscales e identificando oportunidades de mejora y optimización de procesos que contribuyan a la eficiencia operativa. ¿Qué harás en tu rol? Analizar las cuentas contables y registrar asientos con efectos tributarios Realizar pagos de impuestos en la plataforma de SUNAT y trámites. Proponer mejoras a los procesos y servicios proporcionados por el área. Proporcionar la información solicitada en los requerimientos cursados por los auditores externos de empresas del grupo Alicorp. Participar en el cálculo de las declaraciones mensuales y anuales de impuestos, así como determinar el impuesto a la renta corriente y diferido. Elaborar los documentos de trabajo para la liquidación de impuestos con información extraída de los sistemas contables a fin de declararlos en las fechas establecidas por SUNAT. ¿Qué necesitamos de ti? Bacihller o Titulado en Contabilidad Disponibilidad para trabajar por un proyecto de 3 meses Experiencia coordinando información tributaria con consultores tributarios o consultores externos. Experiencia 3 años en el área financiera o tributaria.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-gestion-tributaria-suplencia-alicorp-1118479630.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-gestion-tributaria-suplencia-alicorp-1118479630.html",
+    "descripcion_html":  "\u003cp\u003e¿Cuál será tu desafío?\u003c/p\u003e\u003cp\u003eBrindar soporte en la ejecución y seguimiento de proyectos tributarios de la compañía, asegurando el cumplimiento de las obligaciones fiscales e identificando oportunidades de mejora y optimización de procesos que contribuyan a la eficiencia operativa.\u003c/p\u003e\u003cp\u003e¿Qué harás en tu rol?\u003c/p\u003e\u003cp\u003eAnalizar las cuentas contables y registrar asientos con efectos tributarios\u003c/p\u003e\u003cp\u003eRealizar pagos de impuestos en la plataforma de SUNAT y trámites. Proponer mejoras a los procesos y servicios proporcionados por el área.\u003c/p\u003e\u003cp\u003eProporcionar la información solicitada en los requerimientos cursados por los auditores externos de empresas del grupo Alicorp.\u003c/p\u003e\u003cp\u003eParticipar en el cálculo de las declaraciones mensuales y anuales de impuestos, así como determinar el impuesto a la renta corriente y diferido.\u003c/p\u003e\u003cp\u003eElaborar los documentos de trabajo para la liquidación de impuestos con información extraída de los sistemas contables a fin de declararlos en las fechas establecidas por SUNAT.\u003c/p\u003e\u003cp\u003e¿Qué necesitamos de ti?\u003c/p\u003e\u003cp\u003eBacihller o Titulado en Contabilidad\u003c/p\u003e\u003cp\u003eDisponibilidad para trabajar por un proyecto de 3 meses\u003c/p\u003e\u003cp\u003eExperiencia coordinando información tributaria con consultores tributarios o consultores externos.\u003c/p\u003e\u003cp\u003eExperiencia 3 años en el área financiera o tributaria.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
