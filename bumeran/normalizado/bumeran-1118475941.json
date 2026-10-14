@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118475941",
+    "clave":  "id:1118475941",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-desarrollo-de-sistemas-intelitech-peru-s.a.c.-1118475941.html",
+                   "capturadoEn":  "2026-10-14T04:53:08+00:00"
+               },
+    "titulo":  "Especialista en desarrollo de sistemas",
+    "empresa":  "INTELITECH PERU S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4500,
+                    "max":  5000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,500 - S/ 5,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Perfil: Especialista de desarrollo de sistemas con mas de 4 años de experiencia como consultor o desarrollador o programador o soporte o mantenimiento o implementación de aplicaciones con plataforma HCL Domino o IBM Lotus Domino/Notes. Actividades: -Encargado de ejecutar las actividades de relevamiento de requerimientos, verificación y aseguramiento de la atención de los requerimientos funcionales y no funcionales como parte de los sistemas de información del servicio. -Encargado de planificar, dirigir y ejecutar los trabajos trabajos de soporte y mantenimiento de los sistemas de información correspondientes al presente servicio.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-desarrollo-de-sistemas-intelitech-peru-s.a.c.-1118475941.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-desarrollo-de-sistemas-intelitech-peru-s.a.c.-1118475941.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePerfil:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEspecialista de desarrollo de sistemas con mas de \u0026#x34; años de experiencia como consultor o desarrollador o programador o soporte o mantenimiento o implementación de aplicaciones con plataforma HCL Domino o IBM Lotus Domino/Notes.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eActividades:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e-Encargado de ejecutar las actividades de relevamiento de requerimientos, verificación y aseguramiento de la atención de los requerimientos funcionales y no funcionales como parte de los sistemas de información del servicio.\u003c/p\u003e\u003cp\u003e-Encargado de planificar, dirigir y ejecutar los trabajos trabajos de soporte y mantenimiento de los sistemas de información correspondientes al presente servicio.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 4 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

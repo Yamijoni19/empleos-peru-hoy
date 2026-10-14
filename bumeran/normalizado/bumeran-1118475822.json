@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118475822",
+    "clave":  "id:1118475822",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cocina-y-atencion-al-cliente-d\u0027pedro-1118475822.html",
+                   "capturadoEn":  "2026-10-14T04:53:43+00:00"
+               },
+    "titulo":  "Cocina y Atención al Cliente",
+    "empresa":  "D\u0027Pedro",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cocinero y Atención al Cliente Resumen del Puesto NECESITO 2 PRACTICANTES UNO PARA COCINA Y OTRO UN PERSONAL PARA ATENCION EN MESA DE EXCELENTE TRATO Y FACILIDAD DE PALABRA, LOCAL FAST FOOD D’PEDRO, UBICADO EN CALLE RIO HUALLAGA Mz. O Lt. 2 0, EN LA ESQUINA CON CALLE RIO PUTUMAYO – REFERENCIA A LA ALTURA DE METRO CANTO REY – 9 8 4 9 7 3 9 3 2 Responsabilidades Cocina: Asistir en la preparación de ingredientes y platillos. Mantener la limpieza y el orden en las áreas de trabajo de la cocina. Colaborar con el equipo de cocina en las tareas diarias. Seguir las normas de higiene y seguridad alimentaria. Atención al Cliente: Recibir y atender a los clientes con amabilidad y profesionalismo. Tomar pedidos y asegurarse de que sean precisos. Resolver consultas y solicitudes de los clientes de manera eficiente. Mantener una actitud positiva y servicial en todo momento. Apoyar de vez en cuando a la cocina Requisitos Actitud proactiva y disposición para aprender. Excelentes habilidades de comunicación y trato interpersonal (para atención al cliente). Capacidad para trabajar en equipo. Responsabilidad y compromiso.",
+    "requisitos":  [
+                       "Actitud proactiva y disposición para aprender",
+                       "Excelentes habilidades de comunicación y trato interpersonal (para atención al cliente)",
+                       "Capacidad para trabajar en equipo",
+                       "Responsabilidad y compromiso"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cocina-y-atencion-al-cliente-d\u0027pedro-1118475822.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cocina-y-atencion-al-cliente-d\u0027pedro-1118475822.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eCocinero y Atención al Cliente\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNECESITO 2 PRACTICANTES UNO PARA COCINA Y OTRO UN PERSONAL PARA ATENCION EN MESA DE EXCELENTE TRATO Y FACILIDAD DE PALABRA, LOCAL FAST FOOD D’PEDRO, UBICADO EN CALLE RIO HUALLAGA Mz. O Lt. 2 0, EN LA ESQUINA CON CALLE RIO PUTUMAYO – REFERENCIA A LA ALTURA DE METRO CANTO REY – 9 8 4 9 7 3 9 3 2\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eCocina:\u003c/strong\u003eAsistir en la preparación de ingredientes y platillos. Mantener la limpieza y el orden en las áreas de trabajo de la cocina. Colaborar con el equipo de cocina en las tareas diarias. Seguir las normas de higiene y seguridad alimentaria. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAtención al Cliente:\u003c/strong\u003eRecibir y atender a los clientes con amabilidad y profesionalismo. Tomar pedidos y asegurarse de que sean precisos. Resolver consultas y solicitudes de los clientes de manera eficiente. Mantener una actitud positiva y servicial en todo momento. Apoyar de vez en cuando a la cocina \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eActitud proactiva y disposición para aprender.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal (para atención al cliente).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eResponsabilidad y compromiso.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
