@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118479587",
+    "clave":  "id:1118479587",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/instructor-de-equipos-unidad-minera-jrc-1118479587.html",
+                   "capturadoEn":  "2026-10-14T19:24:04+00:00"
+               },
+    "titulo":  "INSTRUCTOR DE EQUIPOS - UNIDAD MINERA",
+    "empresa":  "JRC",
+    "ubicacion":  "Junin - Junín",
+    "ciudad":  "Junín",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En JRC Ingeniería y Construcción nos encontramos en búsqueda de un(a) Instructor de Equipos , responsable de capacitar y desarrollar las competencias técnicas de operadores y ayudantes, promoviendo una operación segura y eficiente de los equipos. ¿Cuáles serán tus principales retos? Diseñar y ejecutar programas de capacitación teórico-prácticos para operadores y ayudantes. Entrenar y evaluar al personal en la operación segura de equipos pesados. Realizar seguimiento al desempeño y progreso de los participantes. Elaborar reportes e indicadores de capacitación. Promover el cumplimiento de los estándares de Seguridad, Salud, Medio Ambiente y Calidad. ¿Qué buscamos? Técnico o profesional en Mantenimiento de Maquinaria Pesada o carreras afines . Experiencia como Instructor de Equipos, Capacitador o Entrenador de Operadores en minería . Conocimiento en operación y mantenimiento de equipos pesados . Deseable experiencia en equipos de minería subterránea y sistemas de navegación . Disponibilidad para laborar bajo régimen minero en la UM San Cristobal - Yauli, Junin. ¡Únete a JRC y sé parte de nuestro equipo!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/instructor-de-equipos-unidad-minera-jrc-1118479587.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/instructor-de-equipos-unidad-minera-jrc-1118479587.html",
+    "descripcion_html":  "\u003cp\u003eEn \u003cstrong\u003eJRC Ingeniería y Construcción\u003c/strong\u003e nos encontramos en búsqueda de un(a) \u003cstrong\u003eInstructor de Equipos\u003c/strong\u003e, responsable de capacitar y desarrollar las competencias técnicas de operadores y ayudantes, promoviendo una operación segura y eficiente de los equipos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus principales retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar y ejecutar programas de capacitación teórico-prácticos para operadores y ayudantes.\u003c/li\u003e \u003cli\u003eEntrenar y evaluar al personal en la operación segura de equipos pesados.\u003c/li\u003e \u003cli\u003eRealizar seguimiento al desempeño y progreso de los participantes.\u003c/li\u003e \u003cli\u003eElaborar reportes e indicadores de capacitación.\u003c/li\u003e \u003cli\u003ePromover el cumplimiento de los estándares de Seguridad, Salud, Medio Ambiente y Calidad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico o profesional en \u003cstrong\u003eMantenimiento de Maquinaria Pesada o carreras afines\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eExperiencia como \u003cstrong\u003eInstructor de Equipos, Capacitador o Entrenador de Operadores en minería\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eConocimiento en \u003cstrong\u003eoperación y mantenimiento de equipos pesados\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDeseable experiencia en \u003cstrong\u003eequipos de minería subterránea y sistemas de navegación\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar bajo \u003cstrong\u003erégimen minero en la UM San Cristobal - Yauli, Junin.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Únete a JRC y sé parte de nuestro equipo!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

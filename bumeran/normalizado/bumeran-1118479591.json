@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118479591",
+    "clave":  "id:1118479591",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-geologo-x-terna-e.i.r.l.-1118479591.html",
+                   "capturadoEn":  "2026-10-14T19:24:01+00:00"
+               },
+    "titulo":  "Ingeniero Geólogo",
+    "empresa":  "X-TERNA E.I.R.L.",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa Carbonera se encuentra en busca de 01 Ingeniero Geólogo. Requisitos: Ingeniero Geólogo colegiado. Mínimo 03 años de experiencia en puestos afines. Disponibilidad para trabajar en Salaverry (Trujillo) Disponibilidad para viajar. Funciones: Levantamiento y actualización de mapas geológicos. Supervisión de muestreo y perforación. Análisis e interpretación de información geológica. Elaboración de reportes técnicos para proyectos mineros. Cualquier función que sea necesaria para cumplir con la misión del puesto. Otras funciones que su jefe inmediato le encargue. Beneficios: Planilla completa desde el 1º día de trabajo Pago de horas extras y quincenales. Sueldo de acuerdo al mercado",
+    "requisitos":  [
+                       "Ingeniero Geólogo colegiado",
+                       "Mínimo 03 años de experiencia en puestos afines",
+                       "Disponibilidad para trabajar en Salaverry (Trujillo)",
+                       "Disponibilidad para viajar"
+                   ],
+    "funciones":  [
+                      "que su jefe inmediato le encargue"
+                  ],
+    "beneficios":  [
+                       "Planilla completa desde el 1º día de trabajo",
+                       "Pago de horas extras y quincenales",
+                       "Sueldo de acuerdo al mercado"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-geologo-x-terna-e.i.r.l.-1118479591.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-geologo-x-terna-e.i.r.l.-1118479591.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa Carbonera se encuentra en busca de 01 Ingeniero Geólogo.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero Geólogo colegiado.\u003c/li\u003e \u003cli\u003eMínimo 03 años de experiencia en puestos afines.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en Salaverry (Trujillo)\u003c/li\u003e \u003cli\u003eDisponibilidad para viajar.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eLevantamiento y actualización de mapas geológicos. \u003c/li\u003e \u003cli\u003eSupervisión de muestreo y perforación.\u003c/li\u003e \u003cli\u003eAnálisis e interpretación de información geológica.\u003c/li\u003e \u003cli\u003eElaboración de reportes técnicos para proyectos mineros.\u003c/li\u003e \u003cli\u003eCualquier función que sea necesaria para cumplir con la misión del puesto.\u003c/li\u003e \u003cli\u003eOtras funciones que su jefe inmediato le encargue. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla completa desde el 1º día de trabajo\u003c/li\u003e \u003cli\u003ePago de horas extras y quincenales.\u003c/li\u003e \u003cli\u003eSueldo de acuerdo al mercado\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 03 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

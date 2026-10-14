@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118479588",
+    "clave":  "id:1118479588",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ft-pt-nixblix-tecnologia-1118479588.html",
+                   "capturadoEn":  "2026-10-14T19:24:02+00:00"
+               },
+    "titulo":  "Asesor de Ventas FT / PT Nixblix - Tecnología",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos Nixblix, nos encargamos de la venta de productos apple semi nuevos. Nos encontrámos en la búsqueda de personas que les apacione la atención al cliente y la tecnología! Propósito: Asesorar, orientar y guiar a los clientes en el momento de la compra de soluciones de tecnología, brindando la información necesaria con el fin de sobrepasar las expectativas del cliente, cumplir con las metas personales de venta y ayudar a cumplir las metas de la tienda. Requisitos: - Competencias desarrolladas de orientación al cliente, comunicación y manejo de relaciones interpersonales. - Deseable experiencia de un (01) año desempeñando cargos de Vendedor, experiencia en equipos de otras empresas o afines en el área de Comercial. - Disponibilidad para laborar en horario rotativos - Disponibilidad para laborar en las distintas sedes de NIXBLIX JOCKEY PLAZA y/o NIXBLIX REAL PLAZA PRIMAVERA. Beneficios: - Ingreso a planilla desde el primer día - Comisiones por ventas",
+    "requisitos":  [
+                       "Competencias desarrolladas de orientación al cliente, comunicación y manejo de relaciones interpersonales",
+                       "Deseable experiencia de un (01) año desempeñando cargos de Vendedor, experiencia en equipos de otras empresas o afines en el área de Comercial",
+                       "Disponibilidad para laborar en horario rotativos",
+                       "Disponibilidad para laborar en las distintas sedes de NIXBLIX JOCKEY PLAZA y/o NIXBLIX REAL PLAZA PRIMAVERA"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Ingreso a planilla desde el primer día",
+                       "Comisiones por ventas"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ft-pt-nixblix-tecnologia-1118479588.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ft-pt-nixblix-tecnologia-1118479588.html",
+    "descripcion_html":  "\u003cp\u003eSomos Nixblix, nos encargamos de la venta de productos apple semi nuevos. \u003c/p\u003e\u003cp\u003eNos encontrámos en la búsqueda de personas que les apacione la atención al cliente y la tecnología!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePropósito:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAsesorar, orientar y guiar a los clientes en el momento de la compra de soluciones de tecnología, brindando la información necesaria con el fin de sobrepasar las expectativas del cliente, cumplir con las metas personales de venta y ayudar a cumplir las metas de la tienda.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Competencias desarrolladas de orientación al cliente, comunicación y manejo de relaciones interpersonales.\u003c/p\u003e\u003cp\u003e- Deseable experiencia de un (01) año desempeñando cargos de Vendedor, experiencia en equipos de otras empresas o afines en el área de Comercial.\u003c/p\u003e\u003cp\u003e- Disponibilidad para laborar en horario rotativos\u003c/p\u003e\u003cp\u003e- Disponibilidad para laborar en las distintas sedes de \u003cstrong\u003eNIXBLIX JOCKEY PLAZA y/o NIXBLIX REAL PLAZA PRIMAVERA. \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Ingreso a planilla desde el primer día\u003c/p\u003e\u003cp\u003e- Comisiones por ventas\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
