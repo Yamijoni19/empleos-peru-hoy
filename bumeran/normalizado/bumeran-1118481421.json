@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118481421",
+    "clave":  "id:1118481421",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-1118481421.html",
+                   "capturadoEn":  "2026-10-15T13:26:03+00:00"
+               },
+    "titulo":  "Asistente Contable",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Lurigancho",
+    "ciudad":  "Lurigancho",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "ASISTENTE DE CONTABILIDAD FUNCIONES GENERALES:  Analizar y registrar las operaciones diarias de la empresa, teniendo en cuenta las NIC, NIIF, políticas internas de la empresa y Plan de cuentas. Lo cual incluye cuentas por cobrar, cuentas por pagar, obligaciones financieras, remuneraciones por pagar, entre otras.  Elaborar el estado financiero y notas a los EEFF • Elaborar el registro de compras y ventas • Elaborar y presentar libros electrónicos • Registrar gastos y ventas diferidas • Conciliación bancaria • Solicitud de Saldo a Favor del Exportador",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "GENERALES:  Analizar y registrar las operaciones diarias de la empresa, teniendo en cuenta las NIC, NIIF, políticas internas de la empresa y Plan de cuentas. Lo cual incluye cuentas por cobrar, cuentas por pagar, obligaciones financieras, remuneraciones por pagar, entre otras.  Elaborar el estado financiero y notas a los EEFF • Elaborar el registro de compras y ventas • Elaborar y presentar libros electrónicos • Registrar gastos y ventas diferidas • Conciliación bancaria • Solicitud de Saldo a Favor del Exportador"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-1118481421.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-1118481421.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eASISTENTE DE CONTABILIDAD\u003c/p\u003e\u003c/p\u003e \u003cp\u003eFUNCIONES GENERALES:  Analizar y registrar las operaciones diarias de la empresa, teniendo en cuenta las NIC, NIIF, políticas internas de la empresa y Plan de cuentas. Lo cual incluye cuentas por cobrar, cuentas por pagar, obligaciones financieras, remuneraciones por pagar, entre otras.  Elaborar el estado financiero y notas a los EEFF • Elaborar el registro de compras y ventas • Elaborar y presentar libros electrónicos • Registrar gastos y ventas diferidas • Conciliación bancaria • Solicitud de Saldo a Favor del Exportador\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

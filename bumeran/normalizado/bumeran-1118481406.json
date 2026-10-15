@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118481406",
+    "clave":  "id:1118481406",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-dental-nelly-cornelio-1118481406.html",
+                   "capturadoEn":  "2026-10-15T13:26:27+00:00"
+               },
+    "titulo":  "Asistente Dental",
+    "empresa":  "Nelly Cornelio",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Dental Resumen del Puesto Estamos en la búsqueda de un Asistente Dental proactivo y con experiencia para brindar soporte integral a nuestro equipo médico. El candidato ideal poseerá habilidades clínicas sólidas y una gran capacidad de organización para asegurar la eficiencia en la atención al paciente. Responsabilidades Asistir al profesional odontólogo durante los procedimientos. Preparar el material e instrumental necesario para cada tratamiento. Mantener la esterilización y el orden del área de trabajo. Gestionar la agenda de turnos y la documentación de los pacientes. Brindar información y orientación a los pacientes sobre cuidados bucales. Colaborar en la toma de radiografías y otros estudios diagnósticos. Requisitos Título de Asistente Dental o formación equivalente. Experiencia previa comprobable en roles similares. Conocimiento de técnicas de esterilización y control de infecciones. Habilidades de comunicación y trato interpersonal. Capacidad para trabajar en equipo y bajo presión. Organización y atención al detalle.",
+    "requisitos":  [
+                       "Título de Asistente Dental o formación equivalente",
+                       "Experiencia previa comprobable en roles similares",
+                       "Conocimiento de técnicas de esterilización y control de infecciones",
+                       "Habilidades de comunicación y trato interpersonal",
+                       "Capacidad para trabajar en equipo y bajo presión",
+                       "Organización y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-dental-nelly-cornelio-1118481406.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-dental-nelly-cornelio-1118481406.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Dental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente Dental\u003c/b\u003e proactivo y con experiencia para brindar soporte integral a nuestro equipo médico. El candidato ideal poseerá habilidades clínicas sólidas y una gran capacidad de organización para asegurar la eficiencia en la atención al paciente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir al profesional odontólogo durante los procedimientos.\u003c/li\u003e \u003cli\u003ePreparar el material e instrumental necesario para cada tratamiento.\u003c/li\u003e \u003cli\u003eMantener la esterilización y el orden del área de trabajo.\u003c/li\u003e \u003cli\u003eGestionar la agenda de turnos y la documentación de los pacientes.\u003c/li\u003e \u003cli\u003eBrindar información y orientación a los pacientes sobre cuidados bucales.\u003c/li\u003e \u003cli\u003eColaborar en la toma de radiografías y otros estudios diagnósticos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Asistente Dental o formación equivalente.\u003c/li\u003e \u003cli\u003eExperiencia previa comprobable en roles similares.\u003c/li\u003e \u003cli\u003eConocimiento de técnicas de esterilización y control de infecciones.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y bajo presión.\u003c/li\u003e \u003cli\u003eOrganización y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Asistente Dental o formación equivalente",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
