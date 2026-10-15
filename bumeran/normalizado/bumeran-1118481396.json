@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118481396",
+    "clave":  "id:1118481396",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/gestion-social-senior-minera-chinalco-1118481396.html",
+                   "capturadoEn":  "2026-10-15T18:18:09+00:00"
+               },
+    "titulo":  "Gestión Social Senior",
+    "empresa":  "Minera Chinalco",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  900,
+                    "max":  1000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 900 - S/ 1,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Gestión Social Senior Resumen del Puesto Buscamos un profesional experimentado en Gestión Social para un rol de liderazgo. El candidato ideal poseerá una profunda comprensión de las dinámicas sociales, experiencia en el desarrollo e implementación de estrategias de impacto social y la capacidad de liderar equipos multidisciplinarios. Responsabilidades Diseñar, planificar y ejecutar programas de gestión social alineados con los objetivos organizacionales. Supervisar y evaluar el impacto de las iniciativas sociales. Fomentar relaciones sólidas con las comunidades y otros actores relevantes. Gestionar presupuestos y recursos asignados a proyectos sociales. Liderar y mentorizar al equipo de gestión social. Identificar oportunidades de mejora y nuevas áreas de intervención social. Requisitos Título universitario en Trabajo Social, Sociología, Antropología, Ciencias Políticas o áreas afines. Experiencia comprobada en roles de gestión social, preferentemente en posiciones de liderazgo. Sólidos conocimientos en metodologías de investigación social y evaluación de impacto. Capacidad demostrada para la gestión de proyectos y equipos. Excelentes habilidades de comunicación, negociación y relaciones interpersonales. Orientación a resultados y capacidad para trabajar en entornos complejos.",
+    "requisitos":  [
+                       "Título universitario en Trabajo Social, Sociología, Antropología, Ciencias Políticas o áreas afines",
+                       "Experiencia comprobada en roles de gestión social, preferentemente en posiciones de liderazgo",
+                       "Sólidos conocimientos en metodologías de investigación social y evaluación de impacto",
+                       "Capacidad demostrada para la gestión de proyectos y equipos",
+                       "Excelentes habilidades de comunicación, negociación y relaciones interpersonales",
+                       "Orientación a resultados y capacidad para trabajar en entornos complejos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/gestion-social-senior-minera-chinalco-1118481396.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/gestion-social-senior-minera-chinalco-1118481396.html",
+    "descripcion_html":  "\u003cb\u003eGestión Social Senior\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional experimentado en \u003cb\u003eGestión Social\u003c/b\u003e para un rol de liderazgo. El candidato ideal poseerá una profunda comprensión de las dinámicas sociales, experiencia en el desarrollo e implementación de estrategias de impacto social y la capacidad de liderar equipos multidisciplinarios.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDiseñar, planificar y ejecutar programas de gestión social alineados con los objetivos organizacionales.\u003c/li\u003e \u003cli\u003eSupervisar y evaluar el impacto de las iniciativas sociales.\u003c/li\u003e \u003cli\u003eFomentar relaciones sólidas con las comunidades y otros actores relevantes.\u003c/li\u003e \u003cli\u003eGestionar presupuestos y recursos asignados a proyectos sociales.\u003c/li\u003e \u003cli\u003eLiderar y mentorizar al equipo de gestión social.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de mejora y nuevas áreas de intervención social.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Trabajo Social, Sociología, Antropología, Ciencias Políticas o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en roles de gestión social, preferentemente en posiciones de liderazgo.\u003c/li\u003e \u003cli\u003eSólidos conocimientos en metodologías de investigación social y evaluación de impacto.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para la gestión de proyectos y equipos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, negociación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eOrientación a resultados y capacidad para trabajar en entornos complejos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
