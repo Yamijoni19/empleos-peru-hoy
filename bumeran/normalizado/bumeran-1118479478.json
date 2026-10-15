@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118479478",
+    "clave":  "id:1118479478",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/comprador-corporativo-chile-y-brasil-incimmet-sa-1118479478.html",
+                   "capturadoEn":  "2026-10-15T07:27:06+00:00"
+               },
+    "titulo":  "Comprador Corporativo- Chile y Brasil",
+    "empresa":  "INCIMMET SA",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "INCIMMET S.A. importante empresa contratista minera. Actualmente, nos encontramos en la búsqueda de 01 COMPRADOR para brindar soporte a las operaciones corporativas de Chile y Brasil. Requisitos: Egresado en la carrera profesional de Ingeniería Industrial, Administración de Empresas o Negocios, Comercio Exterior, Ingeniería Mecánica u otras afines a estas. 3 años de experiencia en empresas del sector minería, construcción o industriales a cargo de la gestión de compras. Experiencia en elaboración de OC y OS Experiencia en procesos de importación, exportación y aduanas. Manejo de proveedores locales y extranjeros. Deseable manejo de inglés y/o portugués. Beneficios Planilla desde el 1er día con todos los beneficios de Ley. EPS con cobertura al 100%. SCTR y Vida Ley. Buen clima laboral ¡Si cumples los requisitos, postula con nosotros!",
+    "requisitos":  [
+                       ", postula con nosotros!"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de Ley",
+                       "EPS con cobertura al 100%",
+                       "SCTR y Vida Ley",
+                       "Buen clima laboral",
+                       "¡Si cumples los"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/comprador-corporativo-chile-y-brasil-incimmet-sa-1118479478.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/comprador-corporativo-chile-y-brasil-incimmet-sa-1118479478.html",
+    "descripcion_html":  "\u003cp\u003eINCIMMET S.A. importante empresa contratista minera. Actualmente, nos encontramos en la búsqueda de\u003cstrong\u003e 01 COMPRADOR\u003c/strong\u003e para brindar soporte a las operaciones corporativas de Chile y Brasil.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado en la carrera profesional de Ingeniería Industrial, Administración de Empresas o Negocios, Comercio Exterior, Ingeniería Mecánica u otras afines a estas.\u003c/li\u003e \u003cli\u003e3 años de experiencia en empresas del sector minería, construcción o industriales a cargo de la gestión de compras.\u003c/li\u003e \u003cli\u003eExperiencia en elaboración de OC y OS\u003c/li\u003e \u003cli\u003eExperiencia en procesos de importación, exportación y aduanas.\u003c/li\u003e \u003cli\u003eManejo de proveedores locales y extranjeros.\u003c/li\u003e \u003cli\u003eDeseable manejo de inglés y/o portugués.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla desde el 1er día con todos los beneficios de Ley.\u003c/li\u003e \u003cli\u003eEPS con cobertura al 100%.\u003c/li\u003e \u003cli\u003eSCTR y Vida Ley.\u003c/li\u003e \u003cli\u003eBuen clima laboral\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Si cumples los requisitos, postula con nosotros!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

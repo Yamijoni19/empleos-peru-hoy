@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118479474",
+    "clave":  "id:1118479474",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-ssoma-corporativo-surco-incimmet-sa-1118479474.html",
+                   "capturadoEn":  "2026-10-15T07:27:18+00:00"
+               },
+    "titulo":  "JEFE DE SSOMA CORPORATIVO - SURCO",
+    "empresa":  "INCIMMET SA",
+    "ubicacion":  "Lima - Surco",
+    "ciudad":  "Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante contratista minera posicionada en el mercado nacional e internacional. Nos encontramos en búsqueda de 01 Jefe de SSOMA Corporativo , para ser incorporado a nuestro equipo de trabajo. Requisitos: Profesional titulado, Colegiado y habilitado de la carrera de Ingeniería de Minas, Ing. Civil o Ing. Metalúrgica. Contar con Maestría en seguridad y salud minera y/o seguridad y medio ambiente. Deseable contar con MBA o Maestría en Gestión de Proyectos. Conocimientos en Power Business Intelligence (principalmente Power BI). Contar con al menos 7 años de experiencia laboral en empresas del sector minero y/o infraestructura. Contar con disponibilidad para viajar a Unidades Mineras. Beneficios: Planilla desde el primer día con todos los beneficios de ley. EPS al 100% para el titular y sus derechos habientes SCTR y Vida Ley Buen clima laboral. ¡Postula con Nosostros!",
+    "requisitos":  [
+                       "Profesional titulado, Colegiado y habilitado de la carrera de Ingeniería de Minas, Ing. Civil o Ing. Metalúrgica",
+                       "Contar con Maestría en seguridad y salud minera y/o seguridad y medio ambiente",
+                       "Deseable contar con MBA o Maestría en Gestión de Proyectos",
+                       "Conocimientos en Power Business Intelligence (principalmente Power BI)",
+                       "Contar con al menos 7 años de experiencia laboral en empresas del sector minero y/o infraestructura",
+                       "Contar con disponibilidad para viajar a Unidades Mineras"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "EPS al 100% para el titular y sus derechos habientes",
+                       "SCTR y Vida Ley",
+                       "Buen clima laboral",
+                       "¡Postula con Nosostros!"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-ssoma-corporativo-surco-incimmet-sa-1118479474.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-ssoma-corporativo-surco-incimmet-sa-1118479474.html",
+    "descripcion_html":  "\u003cp\u003eImportante contratista minera posicionada en el mercado nacional e internacional. Nos encontramos en búsqueda de \u003cstrong\u003e01 Jefe de SSOMA Corporativo\u003c/strong\u003e, para ser incorporado a nuestro equipo de trabajo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional titulado, Colegiado y habilitado de la carrera de Ingeniería de Minas, Ing. Civil o Ing. Metalúrgica.\u003c/li\u003e \u003cli\u003eContar con Maestría en seguridad y salud minera y/o seguridad y medio ambiente.\u003c/li\u003e \u003cli\u003eDeseable contar con MBA o Maestría en Gestión de Proyectos.\u003c/li\u003e \u003cli\u003eConocimientos en Power Business Intelligence (principalmente Power BI).\u003c/li\u003e \u003cli\u003eContar con al menos 7 años de experiencia laboral en empresas del sector minero y/o infraestructura.\u003c/li\u003e \u003cli\u003eContar con disponibilidad para viajar a Unidades Mineras.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla desde el primer día con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eEPS al 100% para el titular y sus derechos habientes\u003c/li\u003e \u003cli\u003eSCTR y Vida Ley\u003c/li\u003e \u003cli\u003eBuen clima laboral.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Postula con Nosostros!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 7 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118479485",
+    "clave":  "id:1118479485",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitecto-para-acabados-slamm-design-1118479485.html",
+                   "capturadoEn":  "2026-10-15T07:26:32+00:00"
+               },
+    "titulo":  "Arquitecto para Acabados",
+    "empresa":  "Slamm Design",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4000,
+                    "max":  5000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 5,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Se requiere un Arquitecto residente para la etapa de acabados de obra en un edificio de 5 pisos en San Isidro, se requiere que domine herramientas de programación de obra tipo last planner, look ahead , su labor sera elaborar un cronograma de acabados , supervision de la obra en etapa de acabados , se requiere experiencia en acabados de 4 años , manejo de personal , administrativo y de productividad",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/arquitecto-para-acabados-slamm-design-1118479485.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitecto-para-acabados-slamm-design-1118479485.html",
+    "descripcion_html":  "\u003cp\u003eSe requiere un Arquitecto residente para la etapa de acabados de obra en un edificio de \u0026#x35; pisos en San Isidro, se requiere que domine herramientas de programación de obra tipo last planner, look ahead , su labor sera elaborar un cronograma de acabados , supervision de la obra en etapa de acabados , se requiere experiencia en acabados de \u0026#x34; años , manejo de personal , administrativo y de productividad \u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
