@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118479504",
+    "clave":  "id:1118479504",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ft-jockey-plaza-tiendas-ishop-del-peru-sac-1118479504.html",
+                   "capturadoEn":  "2026-10-15T01:30:42+00:00"
+               },
+    "titulo":  "Asesor de Ventas FT - Jockey Plaza",
+    "empresa":  "TIENDAS ISHOP DEL PERU SAC",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Hola! En iShop Perú nos encontramos en la búsqueda de asesores de ventas FULL TIME para nuestra tienda en ubicada en JOCKEY PLAZA. Si te apasiona la tecnología, consideras que tienes una actitud positiva y quieres ser parte de nuestra familia, ¡postula! Propósito: Asesorar, orientar y guiar a los clientes en el momento de la compra de soluciones de tecnología, brindando la información necesaria con el fin de sobrepasar las expectativas del cliente, cumplir con las metas personales de venta y ayudar a cumplir las metas de la tienda. Requisitos: - Competencias desarrolladas de orientación al cliente, comunicación y manejo de relaciones interpersonales. - Deseable experiencia de un (01) año desempeñando cargos de Vendedor, experiencia en equipos de otras empresas o afines en el área de Comercial. - Disponibilidad para laborar en horarios rotativos. Beneficios: - Ingreso a planilla con beneficios de ley. - Comisiones por ventas",
+    "requisitos":  [
+                       "Competencias desarrolladas de orientación al cliente, comunicación y manejo de relaciones interpersonales",
+                       "Deseable experiencia de un (01) año desempeñando cargos de Vendedor, experiencia en equipos de otras empresas o afines en el área de Comercial",
+                       "Disponibilidad para laborar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Comisiones por ventas"
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ft-jockey-plaza-tiendas-ishop-del-peru-sac-1118479504.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ft-jockey-plaza-tiendas-ishop-del-peru-sac-1118479504.html",
+    "descripcion_html":  "\u003cp\u003e¡Hola! En iShop Perú nos encontramos en la búsqueda de asesores de ventas FULL TIME para nuestra tienda en ubicada en\u003cstrong\u003e JOCKEY PLAZA.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSi te apasiona la tecnología, consideras que tienes una actitud positiva y quieres ser parte de nuestra familia, ¡postula!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePropósito:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAsesorar, orientar y guiar a los clientes en el momento de la compra de soluciones de tecnología, brindando la información necesaria con el fin de sobrepasar las expectativas del cliente, cumplir con las metas personales de venta y ayudar a cumplir las metas de la tienda.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Competencias desarrolladas de orientación al cliente, comunicación y manejo de relaciones interpersonales.\u003c/p\u003e\u003cp\u003e- Deseable experiencia de un (01) año desempeñando cargos de Vendedor, experiencia en equipos de otras empresas o afines en el área de Comercial.\u003c/p\u003e\u003cp\u003e- Disponibilidad para laborar en horarios rotativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Ingreso a planilla con beneficios de ley.\u003c/p\u003e\u003cp\u003e- Comisiones por ventas\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118479500",
+    "clave":  "id:1118479500",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-recursos-humanos-contratista-minera-lima-1118479500.html",
+                   "capturadoEn":  "2026-10-15T01:30:53+00:00"
+               },
+    "titulo":  "Jefe de Recursos Humanos - Contratista Minera Lima",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Actualmente, nos encontramos en la búsqueda de 01 JEFE DE RECURSOS HUMANOS REQUISITOS Titulado de la carrera profesional de Psicología, Administración de Empresas, Ingeniería Industrial o afines. Contar con 6 años de experiencia en el área de recursos humanos o administración de personal, con más de 3 años de experiencia en el sector de minería y/ o construcción. De preferencia contar con especialización o diplomado de Gestión de Recursos Humanos Conocimiento de nóminas y temas laborales. Conocimiento de Gestión de Líneas de Carrera y Planes de Sucesión. Conocimiento de Gestión del Desempeño. Conocimiento de Indicadores de Gestión en Recursos Humanos. Proceso de Gestión del Clima Laboral. Contar con Disponibilidad para viajar. ¡Postula con nosotros!! ¡Únete a nuestro Equipo! Recuerda que solo se recibiran las postulaciones a traves del Portal de Bumeran.",
+    "requisitos":  [
+                       "Titulado de la carrera profesional de Psicología, Administración de Empresas, Ingeniería Industrial o afines",
+                       "Contar con 6 años de experiencia en el área de recursos humanos o administración de personal, con más de 3 años de experiencia en el sector de minería y/ o construcción",
+                       "De preferencia contar con especialización o diplomado de Gestión de Recursos Humanos",
+                       "Conocimiento de nóminas y temas laborales",
+                       "Conocimiento de Gestión de Líneas de Carrera y Planes de Sucesión. Conocimiento de Gestión del Desempeño",
+                       "Conocimiento de Indicadores de Gestión en Recursos Humanos. Proceso de Gestión del Clima Laboral",
+                       "Contar con Disponibilidad para viajar",
+                       "¡Postula con nosotros!!",
+                       "¡Únete a nuestro Equipo!",
+                       "Recuerda que solo se recibiran las postulaciones a traves del Portal de Bumeran"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-recursos-humanos-contratista-minera-lima-1118479500.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-recursos-humanos-contratista-minera-lima-1118479500.html",
+    "descripcion_html":  "\u003cp\u003eActualmente, nos encontramos en la búsqueda de \u003cstrong\u003e01 JEFE DE RECURSOS HUMANOS\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTitulado de la carrera profesional de Psicología, Administración de Empresas, Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003eContar con 6 años de experiencia en el área de recursos humanos o administración de personal, con más de 3 años de experiencia en el sector de minería y/ o construcción.\u003c/li\u003e \u003cli\u003eDe preferencia contar con especialización o diplomado de Gestión de Recursos Humanos\u003c/li\u003e \u003cli\u003eConocimiento de nóminas y temas laborales.\u003c/li\u003e \u003cli\u003eConocimiento de Gestión de Líneas de Carrera y Planes de Sucesión. Conocimiento de Gestión del Desempeño.\u003c/li\u003e \u003cli\u003eConocimiento de Indicadores de Gestión en Recursos Humanos. Proceso de Gestión del Clima Laboral.\u003c/li\u003e \u003cli\u003eContar con Disponibilidad para viajar.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Postula con nosotros!!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Únete a nuestro Equipo!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eRecuerda que solo se recibiran las postulaciones a traves del Portal de Bumeran.\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
