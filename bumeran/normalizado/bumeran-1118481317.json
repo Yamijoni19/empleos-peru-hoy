@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118481317",
+    "clave":  "id:1118481317",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-marketing-1118481317.html",
+                   "capturadoEn":  "2026-10-15T22:17:33+00:00"
+               },
+    "titulo":  "Jefe de Marketing",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Qué requisitos buscamos? Bachiller de las carreras en Marketing. Experiencia Laboral mínimo 02 años como jefe comercial en rubros de seguros, educación o salud (Indispensable) Especialización en marketing digital, deseable. Conocimiento en IA para marketing. Conocimiento en la elaboración de planes comerciales de marketing. Técnicos: Excel: Nivel intermedio, Power BI deseable. ¿Cuales serán sus principales funciones? Liderar, diseñar y ejecutar la estrategia integral de marketing, comunicaciones y posicionamiento de marcas. Dirigir la ejecución de campañas, el desarrollo de estrategias de contenido y gestionar la relación con agencias y proveedores externos. Evaluar indicadores clave de desempeño (KPIs) y rentabilidad en todo el proceso, analizando también el mercado y la competencia. ¿Qué ofrecemos? Planilla régimen general EPS cobertudado por la Empresa. Oportunidad de crecimiento profesional",
+    "requisitos":  [
+                       "buscamos?",
+                       "Bachiller de las carreras en Marketing",
+                       "Experiencia Laboral mínimo 02 años como jefe comercial en rubros de seguros, educación o salud (Indispensable)",
+                       "Especialización en marketing digital, deseable",
+                       "Conocimiento en IA para marketing",
+                       "Conocimiento en la elaboración de planes comerciales de marketing",
+                       "Técnicos: Excel: Nivel intermedio, Power BI deseable",
+                       "¿Cuales serán sus principales"
+                   ],
+    "funciones":  [
+                      "Liderar, diseñar y ejecutar la estrategia integral de marketing, comunicaciones y posicionamiento de marcas",
+                      "Dirigir la ejecución de campañas, el desarrollo de estrategias de contenido y gestionar la relación con agencias y proveedores externos",
+                      "Evaluar indicadores clave de desempeño (KPIs) y rentabilidad en todo el proceso, analizando también el mercado y la competencia",
+                      "¿Qué"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-marketing-1118481317.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-marketing-1118481317.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Qué requisitos buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller de las carreras en Marketing.\u003c/li\u003e \u003cli\u003eExperiencia Laboral mínimo 02 años como jefe comercial en rubros de seguros, educación o salud (Indispensable)\u003c/li\u003e \u003cli\u003eEspecialización en marketing digital, deseable.\u003c/li\u003e \u003cli\u003eConocimiento en IA para marketing.\u003c/li\u003e \u003cli\u003eConocimiento en la elaboración de planes comerciales de marketing.\u003c/li\u003e \u003cli\u003eTécnicos: Excel: Nivel intermedio, Power BI deseable.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuales serán sus principales funciones?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar, diseñar y ejecutar la estrategia integral de marketing, comunicaciones y posicionamiento de marcas.\u003c/li\u003e \u003cli\u003eDirigir la ejecución de campañas, el desarrollo de estrategias de contenido y gestionar la relación con agencias y proveedores externos.\u003c/li\u003e \u003cli\u003eEvaluar indicadores clave de desempeño (KPIs) y rentabilidad en todo el proceso, analizando también el mercado y la competencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla régimen general\u003c/li\u003e \u003cli\u003eEPS cobertudado por la Empresa.\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento profesional\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

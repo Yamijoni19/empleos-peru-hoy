@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118481318",
+    "clave":  "id:1118481318",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-contabilidad-1118481318.html",
+                   "capturadoEn":  "2026-10-15T22:17:32+00:00"
+               },
+    "titulo":  "Practicante profesional de contabilidad",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa Líder en su sector: Buscamos al mejor TALENTO para LA POSICION DE PRACTICANTE PROFESIONAL DE CONTABILIDAD. ¡Esta es tu oportunidad para formar parte de una empresa sólida, con prestigio y un ambiente de trabajo dinámico y gratificante! PERFIL DEL PUESTO: Egresado/a de la carrera de contabilidad (técnico o universitario). Capacidad para manejar alto volumen registros. Manejo de Excel intermedio. Disponibilidad para laborar en San Isidro de lunes a viernes. COMPETENCIAS: Resolución de problemas Trabajo en equipo Comunicación Técnica Proactividad Orientación a resultados. FUNCIONES PRINCIPALES: Apoyar en el registro de desembolsos. Apoyar en el registro y clasificación de transacciones contables. Archivar y organizar documentación contables. Entre otras. ¿Qué Ofrecemos? Ingreso a planilla regimen general bajo convenio de prácticas. Pagos mensuales. Seguro FOLA Beneficios corporativos para ti y tu familia.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "PRINCIPALES",
+                      "Apoyar en el registro de desembolsos",
+                      "Apoyar en el registro y clasificación de transacciones contables",
+                      "Archivar y organizar documentación contables",
+                      "Entre otras",
+                      "¿Qué"
+                  ],
+    "beneficios":  [
+                       "corporativos para ti y tu familia"
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-contabilidad-1118481318.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-contabilidad-1118481318.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa Líder en su sector:\u003c/p\u003e\u003cp\u003eBuscamos al mejor \u003cstrong\u003eTALENTO \u003c/strong\u003epara LA POSICION DE \u003cstrong\u003ePRACTICANTE PROFESIONAL DE CONTABILIDAD.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e¡Esta es tu oportunidad para formar parte de una empresa sólida, con prestigio y un ambiente de trabajo dinámico y gratificante!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePERFIL DEL PUESTO:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado/a de la carrera de contabilidad (técnico o universitario).\u003c/li\u003e \u003cli\u003eCapacidad para manejar alto volumen registros.\u003c/li\u003e \u003cli\u003eManejo de Excel intermedio.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en San Isidro de lunes a viernes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCOMPETENCIAS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eResolución de problemas\u003c/li\u003e \u003cli\u003eTrabajo en equipo\u003c/li\u003e \u003cli\u003eComunicación Técnica\u003c/li\u003e \u003cli\u003eProactividad\u003c/li\u003e \u003cli\u003eOrientación a resultados.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES PRINCIPALES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en el registro de desembolsos.\u003c/li\u003e \u003cli\u003eApoyar en el registro y clasificación de transacciones contables.\u003c/li\u003e \u003cli\u003eArchivar y organizar documentación contables.\u003c/li\u003e \u003cli\u003eEntre otras.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué Ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla regimen general bajo convenio de prácticas.\u003c/li\u003e \u003cli\u003ePagos mensuales.\u003c/li\u003e \u003cli\u003eSeguro FOLA\u003c/li\u003e \u003cli\u003eBeneficios corporativos para ti y tu familia.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
