@@ -1,0 +1,81 @@
+{
+    "id":  "bumeran-1118483270",
+    "clave":  "id:1118483270",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-ingenieria-y-construccion-sigdo-koppers-peru-s.a.c.-1118483270.html",
+                   "capturadoEn":  "2026-10-16T19:58:02+00:00"
+               },
+    "titulo":  "ASISTENTE ADMINISTRATIVO",
+    "empresa":  "INGENIERIA Y CONSTRUCCION SIGDO KOPPERS PERU S.A.C.",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En ICSK Equipos y Servicios , nos encontramos en búsqueda de un Asistente Administrativo para nuestra sede en San Isidro: Requisitos: Egresado de la carrera de Administración o afines. Conocimientos básicos en SAP. Conocimiento intermedio o avanzado en Excel (deseable). Responsabilidades: Gestión y regularización de procesos administrativos y documentarios en SAP. Administración y control de órdenes de servicio, HES y valorizaciones. Gestión de cuentas por centro de costo y asignación presupuestal. Control y seguimiento de pagos adelantados, fondos por rendir y cajas chicas. Administración de servicios corporativos de telefonía móvil y adquisición de equipos. Gestión de facturación y documentación para proveedores de telecomunicaciones. Coordinación de viajes corporativos (reservas de vuelos, hoteles y servicios de transporte). Beneficios: Sueldo acorde al mercado. Prestaciones Alimentarias. EPS",
+    "requisitos":  [
+                       "Egresado de la carrera de Administración o afines",
+                       "Conocimientos básicos en SAP",
+                       "Conocimiento intermedio o avanzado en Excel (deseable)",
+                       "Responsabilidades",
+                       "Gestión y regularización de procesos administrativos y documentarios en SAP",
+                       "Administración y control de órdenes de servicio, HES y valorizaciones",
+                       "Gestión de cuentas por centro de costo y asignación presupuestal",
+                       "Control y seguimiento de pagos adelantados, fondos por rendir y cajas chicas",
+                       "Administración de servicios corporativos de telefonía móvil y adquisición de equipos",
+                       "Gestión de facturación y documentación para proveedores de telecomunicaciones",
+                       "Coordinación de viajes corporativos (reservas de vuelos, hoteles y servicios de transporte)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Sueldo acorde al mercado",
+                       "Prestaciones Alimentarias",
+                       "EPS"
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-ingenieria-y-construccion-sigdo-koppers-peru-s.a.c.-1118483270.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-ingenieria-y-construccion-sigdo-koppers-peru-s.a.c.-1118483270.html",
+    "descripcion_html":  "\u003cp\u003eEn \u003cstrong\u003eICSK Equipos y Servicios\u003c/strong\u003e, nos encontramos en búsqueda de un \u003cstrong\u003eAsistente Administrativo\u003c/strong\u003e para nuestra sede en San Isidro:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEgresado de la carrera de Administración o afines.\u003c/p\u003e\u003cp\u003eConocimientos básicos en SAP.\u003c/p\u003e\u003cp\u003eConocimiento intermedio o avanzado en Excel (deseable).\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eGestión y regularización de procesos administrativos y documentarios en SAP.\u003c/p\u003e\u003cp\u003eAdministración y control de órdenes de servicio, HES y valorizaciones.\u003c/p\u003e\u003cp\u003eGestión de cuentas por centro de costo y asignación presupuestal.\u003c/p\u003e\u003cp\u003eControl y seguimiento de pagos adelantados, fondos por rendir y cajas chicas.\u003c/p\u003e\u003cp\u003eAdministración de servicios corporativos de telefonía móvil y adquisición de equipos.\u003c/p\u003e\u003cp\u003eGestión de facturación y documentación para proveedores de telecomunicaciones.\u003c/p\u003e\u003cp\u003eCoordinación de viajes corporativos (reservas de vuelos, hoteles y servicios de transporte).\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSueldo acorde al mercado.\u003c/p\u003e\u003cp\u003ePrestaciones Alimentarias.\u003c/p\u003e\u003cp\u003eEPS\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

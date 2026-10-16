@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118483257",
+    "clave":  "id:1118483257",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-operaciones-peru-mandomedio-peru-1118483257.html",
+                   "capturadoEn":  "2026-10-16T19:58:10+00:00"
+               },
+    "titulo":  "Jefe De Operaciones - Perú",
+    "empresa":  "MANDOMEDIO PERÚ",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Mandomedio nos encontramos en la búsqueda de un(a) Jefe(a) de Operaciones en Lima con perfil resolutivo, proactivo y de terreno. Será el responsable de liderar el desembarco de la marca en Perú. Inicialmente asumiendo la apertura y administración directa de la primera tienda propia en un centro comercial contratando, capacitando y operando en primera línea. Posteriormente, supervisando las franquicias, estandarizándolas y auditando los nuevos locales franquiciados, asegurando la calidad y el éxito del negocio en el país. Requisitos: Egresado, técnico, profesional en Administración o carreras afines (o perfil empírico con sólida experiencia demostrable en el rol). Experiencia como Jefe de Tienda, Supervisor de Zona o de Operaciones en cadenas de Fast Food, cafeterías o retail al paso en centros comerciales. Experiencia demostrable liderando equipos de tienda, control de inventarios y gestión de flujo de caja. Deseable experiencia previa proveniente del rubro de cadenas de cines, Food Service, comida rápida o retail. Conocimientos en gestión de tienda: dominio operativo de caja, manejo de facturas, crédito a proveedores, pagos y plazos de vencimiento. Manejo de Excel a nivel Intermedio Disponibilidad para trabajar presencial en Lima.",
+    "requisitos":  [
+                       "Egresado, técnico, profesional en Administración o carreras afines (o"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-operaciones-peru-mandomedio-peru-1118483257.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-operaciones-peru-mandomedio-peru-1118483257.html",
+    "descripcion_html":  "\u003cp\u003eEn Mandomedio nos encontramos en la búsqueda de un(a) Jefe(a) de Operaciones en Lima con perfil resolutivo, proactivo y de terreno. Será el responsable de liderar el desembarco de la marca en Perú. Inicialmente asumiendo la apertura y administración directa de la primera tienda propia en un centro comercial contratando, capacitando y operando en primera línea. Posteriormente, supervisando las franquicias, estandarizándolas y auditando los nuevos locales franquiciados, asegurando la calidad y el éxito del negocio en el país.\u003c/p\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eEgresado, técnico, profesional en Administración o carreras afines (o perfil empírico con sólida experiencia demostrable en el rol).\u003c/li\u003e \u003cli\u003eExperiencia como Jefe de Tienda, Supervisor de Zona o de Operaciones en cadenas de Fast Food, cafeterías o retail al paso en centros comerciales.\u003c/li\u003e \u003cli\u003eExperiencia demostrable liderando equipos de tienda, control de inventarios y gestión de flujo de caja.\u003c/li\u003e \u003cli\u003eDeseable experiencia previa proveniente del rubro de cadenas de cines, Food Service, comida rápida o retail.\u003c/li\u003e \u003cli\u003eConocimientos en gestión de tienda: dominio operativo de caja, manejo de facturas, crédito a proveedores, pagos y plazos de vencimiento.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel Intermedio\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar presencial en Lima.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

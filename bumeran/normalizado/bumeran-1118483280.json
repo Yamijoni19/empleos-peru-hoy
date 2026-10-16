@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118483280",
+    "clave":  "id:1118483280",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-ssoma-corporacion-life-sac-1118483280.html",
+                   "capturadoEn":  "2026-10-16T19:57:58+00:00"
+               },
+    "titulo":  "Practicante Profesional SSOMA",
+    "empresa":  "Corporación Life SAC",
+    "ubicacion":  "Lima - Chorrillos",
+    "ciudad":  "Chorrillos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Somos Life! Empresa líder en el rubro del cuidado y belleza del cabello con más de 35 años en el mercado y con presencia en más de 23 países a nivel internacional y nos encontramos en búsqueda del mejor talento. ¡Sé nuestro próximo Practicante Profesional de Seguridad y Salud en el Trabajo! Requisitos: Recién egresados en 2025 o 2026 de las carreras de Ingeniería: Industial, Ing. de Seguridad y Salud Ocupacional, Ing. SST, Ing. Industrial, Ing. Ambiental, Química o afines Con o sin experiencia Deseable con experiencia de 6 meses en SSOMA Deseable manejo de Excel nivel intermedio Disponibilidad para laborar en Chorrillos Con constancia de egreso como mínimo Beneficios: Sueldo acorde al mercado. Contrato bajo convenio de prácticas Beneficios de ley Seguro FOLA Línea de carrera",
+    "requisitos":  [
+                       "Recién egresados en 2025 o 2026 de las carreras de Ingeniería: Industial, Ing. de Seguridad y Salud Ocupacional, Ing. SST, Ing. Industrial, Ing. Ambiental, Química o afines",
+                       "Con o sin experiencia",
+                       "Deseable con experiencia de 6 meses en SSOMA",
+                       "Deseable manejo de Excel nivel intermedio",
+                       "Disponibilidad para laborar en Chorrillos",
+                       "Con constancia de egreso como mínimo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Seguro FOLA",
+                       "Línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-ssoma-corporacion-life-sac-1118483280.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-ssoma-corporacion-life-sac-1118483280.html",
+    "descripcion_html":  "\u003cp\u003e¡Somos Life! \u003c/p\u003e\u003cp\u003eEmpresa líder en el rubro del cuidado y belleza del cabello con más de 35 años en el mercado y con presencia en más de 23 países a nivel internacional y nos encontramos en búsqueda del mejor talento.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Sé nuestro próximo Practicante Profesional de Seguridad y Salud en el Trabajo!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecién egresados en 2025 o 2026 de las carreras de Ingeniería: Industial, Ing. de Seguridad y Salud Ocupacional, Ing. SST, Ing. Industrial, Ing. Ambiental, Química o afines\u003c/li\u003e \u003cli\u003eCon o sin experiencia \u003c/li\u003e \u003cli\u003eDeseable con experiencia de 6 meses en SSOMA\u003c/li\u003e \u003cli\u003eDeseable manejo de Excel nivel intermedio\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en Chorrillos\u003c/li\u003e \u003cli\u003eCon constancia de egreso como mínimo\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo acorde al mercado.\u003c/li\u003e \u003cli\u003eContrato bajo convenio de prácticas\u003c/li\u003e \u003cli\u003eBeneficios de ley\u003c/li\u003e \u003cli\u003eSeguro FOLA\u003c/li\u003e \u003cli\u003eLínea de carrera\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

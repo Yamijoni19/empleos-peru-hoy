@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118483265",
+    "clave":  "id:1118483265",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-ciberseguridad-c.a.c.-la-rehabilitadora-1118483265.html",
+                   "capturadoEn":  "2026-10-16T19:58:04+00:00"
+               },
+    "titulo":  "Especialista en Ciberseguridad",
+    "empresa":  "C.A.C. La Rehabilitadora",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Desarrollar el cuerpo documental requerido (normas, procesos, instructivos, formatos, catálogos y KPIs) que conforme el Marco de Ciberseguridad de Cooperativa La Rehabilitadora, alineado a las 6 funciones del NIST CSF 2.0 y a la normativa peruana aplicable al sector Cooperativo. Se busca contratar especialista para el diagnóstico, diseño, elaboración, validación y transferencia del marco documental de ciberseguridad de la organización, tomando como referencia metodológica las seis funciones del NIST CSF 2.0: Gobernar (GV), Identificar (ID), Proteger (PR), Detectar (DE), Responder (RS) y Recuperar (RC).",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "del NIST CSF 2.0: Gobernar (GV), Identificar (ID), Proteger (PR), Detectar (DE), Responder (RS) y Recuperar (RC)"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-ciberseguridad-c.a.c.-la-rehabilitadora-1118483265.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-ciberseguridad-c.a.c.-la-rehabilitadora-1118483265.html",
+    "descripcion_html":  "\u003cp\u003eDesarrollar el cuerpo documental requerido (normas, procesos, instructivos, formatos, catálogos y KPIs) que conforme el Marco de Ciberseguridad de Cooperativa La Rehabilitadora, alineado a las 6 funciones del NIST CSF 2.0 y a la normativa peruana aplicable al sector Cooperativo.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003eSe busca contratar especialista para el diagnóstico, diseño, elaboración, validación y transferencia del marco documental de ciberseguridad de la organización, tomando como referencia metodológica las seis funciones del NIST CSF 2.0: Gobernar (GV), Identificar (ID), Proteger (PR), Detectar (DE), Responder (RS) y Recuperar (RC).\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

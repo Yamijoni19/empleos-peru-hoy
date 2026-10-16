@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118483282",
+    "clave":  "id:1118483282",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-tienda-ripley-full-time-y-part-time-grupo-ripley-1118483282.html",
+                   "capturadoEn":  "2026-10-16T19:57:57+00:00"
+               },
+    "titulo":  "Asistente de Ventas - Tienda Ripley (full Time y part time)",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "MISIÓN Generar Experiencias Positivas en el Cliente, a través de una Excelente Atención y Asistencia durante su visita a nuestra tienda, mantener un correcto mercadeo y brindar soporte activo a la prevención de pérdidas o afectación a la mercadería. DESAFÍOS ATENDER AL CLIENTE y brindarle la información necesaria para ubicar los productos FACILITANDO su proceso de compra. MANTENER EL ORDEN DE LA TIENDA preparar y exhibir productos, instalar elementos de visual, colocar etiquetas, precios, marca de tallas, así como también la reposición de prendas. Bridar INFORMACIÓN OPORTUNA Y EFECTIVA a los clientes sobre las promociones vigentes, ubicación de áreas en tienda, ubicación de los servicios, etc. Apoyar en el TRASLADO DE PRODUCTOS desde las bodegas de tiendas hasta el lugar de venta. REQUISITOS Estudios de Secundaria Completa. Deseable contar con experiencia de mínimo 6 meses en atención al cliente, reposición de mercadería, inventarios en empresas comerciales y /o almacenes (no excluyente). Deseable conocimiento de Técnicas de Ventas.",
+    "requisitos":  [
+                       "Estudios de Secundaria Completa",
+                       "Deseable contar con experiencia de mínimo 6 meses en atención al cliente, reposición de mercadería, inventarios en empresas comerciales y /o almacenes (no excluyente)",
+                       "Deseable conocimiento de Técnicas de Ventas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-tienda-ripley-full-time-y-part-time-grupo-ripley-1118483282.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-tienda-ripley-full-time-y-part-time-grupo-ripley-1118483282.html",
+    "descripcion_html":  "\u003cp\u003eMISIÓN\u003c/p\u003e\u003cp\u003eGenerar Experiencias Positivas en el Cliente, a través de una Excelente Atención y Asistencia durante su visita a nuestra tienda, mantener un correcto mercadeo y brindar soporte activo a la prevención de pérdidas o afectación a la mercadería.\u003c/p\u003e\u003cp\u003eDESAFÍOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eATENDER AL CLIENTE y brindarle la información necesaria para ubicar los productos FACILITANDO su proceso de compra.\u003c/li\u003e \u003cli\u003eMANTENER EL ORDEN DE LA TIENDA preparar y exhibir productos, instalar elementos de visual, colocar etiquetas, precios, marca de tallas, así como también la reposición de prendas.\u003c/li\u003e \u003cli\u003eBridar INFORMACIÓN OPORTUNA Y EFECTIVA a los clientes sobre las promociones vigentes, ubicación de áreas en tienda, ubicación de los servicios, etc.\u003c/li\u003e \u003cli\u003eApoyar en el TRASLADO DE PRODUCTOS desde las bodegas de tiendas hasta el lugar de venta.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eREQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios de Secundaria Completa.\u003c/li\u003e \u003cli\u003eDeseable contar con experiencia de mínimo 6 meses en atención al cliente, reposición de mercadería, inventarios en empresas comerciales y /o almacenes (no excluyente).\u003c/li\u003e \u003cli\u003eDeseable conocimiento de Técnicas de Ventas.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
