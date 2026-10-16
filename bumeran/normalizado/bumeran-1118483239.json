@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118483239",
+    "clave":  "id:1118483239",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-cableado-estructurado-illapay-energy-sac-1118483239.html",
+                   "capturadoEn":  "2026-10-16T22:51:58+00:00"
+               },
+    "titulo":  "Técnico de Cableado Estructurado",
+    "empresa":  "ILLAPAY ENERGY SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico de Cableado Estructurado Resumen del Puesto Buscamos un Técnico de Cableado Estructurado comprometido y con experiencia para unirse a nuestro equipo en proyectos de infraestructura y telecomunicaciones. Si eres detallista, sigues las normas de calidad y buscas ganar experiencia profesional, esta oportunidad es para ti. Responsabilidades Instalación y canalización de tuberías, escalerillas y canaletas. Tendido de cableado estructurado en categorías 6, 6A y superiores. Peinado, conectorización y ponchado de racks, patch panels y jacks. Certificación de puntos de red utilizando equipos de medición. Fusión e instalación de fibra óptica (deseable). Requisitos Estudiantes, egresados o bachilleres de carreras Técnicas de electricidad, electrónica y afines. Mínima de 1 año de experiencia en el puesto. Se ofrece un sueldo competitivo y la posibilidad de desarrollo profesional.",
+    "requisitos":  [
+                       "Estudiantes, egresados o bachilleres de carreras Técnicas de electricidad, electrónica y afines",
+                       "Mínima de 1 año de experiencia en el puesto",
+                       "Se ofrece un sueldo competitivo y la posibilidad de desarrollo profesional"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-cableado-estructurado-illapay-energy-sac-1118483239.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-cableado-estructurado-illapay-energy-sac-1118483239.html",
+    "descripcion_html":  "\u003cb\u003eTécnico de Cableado Estructurado\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico de Cableado Estructurado\u003c/b\u003e comprometido y con experiencia para unirse a nuestro equipo en proyectos de infraestructura y telecomunicaciones. Si eres detallista, sigues las normas de calidad y buscas ganar experiencia profesional, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eInstalación y canalización de tuberías, escalerillas y canaletas.\u003c/li\u003e \u003cli\u003eTendido de cableado estructurado en categorías 6, 6A y superiores.\u003c/li\u003e \u003cli\u003ePeinado, conectorización y ponchado de racks, patch panels y jacks.\u003c/li\u003e \u003cli\u003eCertificación de puntos de red utilizando equipos de medición.\u003c/li\u003e \u003cli\u003eFusión e instalación de fibra óptica (deseable).\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiantes, egresados o bachilleres de carreras Técnicas de electricidad, electrónica y afines.\u003c/li\u003e \u003cli\u003eMínima de 1 año de experiencia en el puesto.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eSe ofrece un sueldo competitivo y la posibilidad de desarrollo profesional.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

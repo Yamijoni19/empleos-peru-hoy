@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118483229",
+    "clave":  "id:1118483229",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajeroa-surco-automotriz-rcs-capital-humano-1118483229.html",
+                   "capturadoEn":  "2026-10-16T22:52:12+00:00"
+               },
+    "titulo":  "Cajero(a) Surco Automotriz",
+    "empresa":  "RCS Capital Humano",
+    "ubicacion":  "Lima - Dpto. 401. Santiago De Surco.",
+    "ciudad":  "Dpto. 401. Santiago De Surco.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1230",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa líder en su rubro, nos encontramos en la búsqueda del mejor talento para cubrir la siguiente posición:Cajero(a) Requisitos Técnico Completo Experiencia de 1 año como Cajero de áreas de Administración y Finanzas Funciones Emitir facturas y boletas de pago según los requerimientos de las áreas de negocio. Registrar y gestionar operaciones de facturación, notas de crédito, anticipos y cancelaciones en Dynamics 365. Realizar cobros mediante efectivo, tarjetas, depósitos, transferencias y links de pago. Apoyar en conciliaciones bancarias y mantener ordenada la documentación contable. Administrar caja chica y fondo de sencillo. Realizar cierres diarios de caja y presentar el arqueo con los sustentos correspondientes. Preparar la documentación para el traslado del dinero recaudado mediante Hermes. Beneficios EPS Alimentación Seguro de vida Capacitaciones",
+    "requisitos":  [
+                       "Técnico Completo",
+                       "Experiencia de 1 año como Cajero de áreas de Administración y Finanzas"
+                   ],
+    "funciones":  [
+                      "Emitir facturas y boletas de pago según los requerimientos de las áreas de negocio",
+                      "Registrar y gestionar operaciones de facturación, notas de crédito, anticipos y cancelaciones en Dynamics 365",
+                      "Realizar cobros mediante efectivo, tarjetas, depósitos, transferencias y links de pago",
+                      "Apoyar en conciliaciones bancarias y mantener ordenada la documentación contable",
+                      "Administrar caja chica y fondo de sencillo",
+                      "Realizar cierres diarios de caja y presentar el arqueo con los sustentos correspondientes",
+                      "Preparar la documentación para el traslado del dinero recaudado mediante Hermes"
+                  ],
+    "beneficios":  [
+                       "EPS",
+                       "Alimentación",
+                       "Seguro de vida",
+                       "Capacitaciones"
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cajeroa-surco-automotriz-rcs-capital-humano-1118483229.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajeroa-surco-automotriz-rcs-capital-humano-1118483229.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa líder en su rubro, nos encontramos en la búsqueda del mejor talento para cubrir la siguiente posición:Cajero(a)\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico Completo\u003c/li\u003e \u003cli\u003eExperiencia de 1 año como Cajero de áreas de Administración y Finanzas\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones\u003c/p\u003e\u003cul\u003e \u003cli\u003eEmitir facturas y boletas de pago según los requerimientos de las áreas de negocio.\u003c/li\u003e \u003cli\u003eRegistrar y gestionar operaciones de facturación, notas de crédito, anticipos y cancelaciones en Dynamics 365.\u003c/li\u003e \u003cli\u003eRealizar cobros mediante efectivo, tarjetas, depósitos, transferencias y links de pago.\u003c/li\u003e \u003cli\u003eApoyar en conciliaciones bancarias y mantener ordenada la documentación contable.\u003c/li\u003e \u003cli\u003eAdministrar caja chica y fondo de sencillo.\u003c/li\u003e \u003cli\u003eRealizar cierres diarios de caja y presentar el arqueo con los sustentos correspondientes.\u003c/li\u003e \u003cli\u003ePreparar la documentación para el traslado del dinero recaudado mediante Hermes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003eEPS\u003c/li\u003e \u003cli\u003eAlimentación\u003c/li\u003e \u003cli\u003eSeguro de vida\u003c/li\u003e \u003cli\u003eCapacitaciones\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

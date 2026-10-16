@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118483235",
+    "clave":  "id:1118483235",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-daniel-alejandro-infantes-campos-1118483235.html",
+                   "capturadoEn":  "2026-10-16T22:52:02+00:00"
+               },
+    "titulo":  "Auxiliar Contable",
+    "empresa":  "DANIEL ALEJANDRO INFANTES CAMPOS",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "IMPORTADORA DE LUMINARIAS Auxiliar Contable Resumen del Puesto Estamos en la búsqueda de un Auxiliar Contable con experiencia para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en contabilidad y la capacidad de desenvolverse tanto de forma autónoma como colaborativa. Responsabilidades Colaborar en la elaboración de liquidaciones de impuestos. Participar en la preparación de estados financieros mensuales. Apoyar en tareas contables generales. Mantener registros financieros organizados y actualizados. Requisitos Experiencia previa de al menos 1 año en funciones contables. Conocimiento de herramientas de ofimática a nivel intermedio. Familiaridad con software de gestión contable. Habilidades analíticas y de organización. Capacidad para trabajar de forma independiente y en equipo.",
+    "requisitos":  [
+                       "Experiencia previa de al menos 1 año en"
+                   ],
+    "funciones":  [
+                      "contables",
+                      "Conocimiento de herramientas de ofimática a nivel intermedio",
+                      "Familiaridad con software de gestión contable",
+                      "Habilidades analíticas y de organización",
+                      "Capacidad para trabajar de forma independiente y en equipo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-daniel-alejandro-infantes-campos-1118483235.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-daniel-alejandro-infantes-campos-1118483235.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eIMPORTADORA DE LUMINARIAS\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAuxiliar Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAuxiliar Contable\u003c/b\u003e con experiencia para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en contabilidad y la capacidad de desenvolverse tanto de forma autónoma como colaborativa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la elaboración de liquidaciones de impuestos.\u003c/li\u003e \u003cli\u003eParticipar en la preparación de estados financieros mensuales.\u003c/li\u003e \u003cli\u003eApoyar en tareas contables generales.\u003c/li\u003e \u003cli\u003eMantener registros financieros organizados y actualizados.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa de al menos 1 año en funciones contables.\u003c/li\u003e \u003cli\u003eConocimiento de herramientas de ofimática a nivel intermedio.\u003c/li\u003e \u003cli\u003eFamiliaridad con software de gestión contable.\u003c/li\u003e \u003cli\u003eHabilidades analíticas y de organización.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
