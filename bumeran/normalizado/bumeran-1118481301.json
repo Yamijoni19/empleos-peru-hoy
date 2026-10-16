@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118481301",
+    "clave":  "id:1118481301",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-trade-marketing-y-redes-sociales-chocolates-gure-1118481301.html",
+                   "capturadoEn":  "2026-10-16T00:29:05+00:00"
+               },
+    "titulo":  "Asistente de Marketing - Trade Marketing y Redes Sociales",
+    "empresa":  "Chocolates gure",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Marketing - Trade Marketing y Redes Sociales Resumen del Puesto Buscamos un profesional creativo, proactivo y dinámico, con una fuerte pasión por las redes sociales y el trabajo de campo, para unirse a nuestro equipo. El candidato ideal será capaz de generar contenido atractivo y ejecutar estrategias de marketing efectivas. Responsabilidades Crear contenido para redes sociales, incluyendo piezas gráficas, reels y videos. Planificar la grilla de contenidos y campañas digitales. Analizar indicadores clave de rendimiento (KPIs) y presentar reportes periódicos. Organizar activaciones, degustaciones y promociones en puntos de venta. Supervisar personal de apoyo, material de punto de venta (POP) y exhibiciones. Realizar visitas a mercados, analizar la competencia y detectar oportunidades de negocio. Requisitos Formación en Marketing, Publicidad, Comunicaciones o áreas afines. Dominio de herramientas de diseño como Illustrator, Photoshop y edición de video como CapCut. Conocimientos sólidos en redes sociales y estrategias de Trade Marketing. Capacidad analítica, creatividad y disposición para el trabajo de campo.",
+    "requisitos":  [
+                       "Formación en Marketing, Publicidad, Comunicaciones o áreas afines",
+                       "Dominio de herramientas de diseño como Illustrator, Photoshop y edición de video como CapCut",
+                       "Conocimientos sólidos en redes sociales y estrategias de Trade Marketing",
+                       "Capacidad analítica, creatividad y disposición para el trabajo de campo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-trade-marketing-y-redes-sociales-chocolates-gure-1118481301.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-trade-marketing-y-redes-sociales-chocolates-gure-1118481301.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Marketing - Trade Marketing y Redes Sociales\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional creativo, proactivo y dinámico, con una fuerte pasión por las redes sociales y el trabajo de campo, para unirse a nuestro equipo. El candidato ideal será capaz de generar contenido atractivo y ejecutar estrategias de marketing efectivas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eCrear contenido para redes sociales, incluyendo piezas gráficas, reels y videos.\u003c/li\u003e \u003cli\u003ePlanificar la grilla de contenidos y campañas digitales.\u003c/li\u003e \u003cli\u003eAnalizar indicadores clave de rendimiento (KPIs) y presentar reportes periódicos.\u003c/li\u003e \u003cli\u003eOrganizar activaciones, degustaciones y promociones en puntos de venta.\u003c/li\u003e \u003cli\u003eSupervisar personal de apoyo, material de punto de venta (POP) y exhibiciones.\u003c/li\u003e \u003cli\u003eRealizar visitas a mercados, analizar la competencia y detectar oportunidades de negocio.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Marketing, Publicidad, Comunicaciones o áreas afines.\u003c/li\u003e \u003cli\u003eDominio de herramientas de diseño como Illustrator, Photoshop y edición de video como CapCut.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en redes sociales y estrategias de Trade Marketing.\u003c/li\u003e \u003cli\u003eCapacidad analítica, creatividad y disposición para el trabajo de campo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

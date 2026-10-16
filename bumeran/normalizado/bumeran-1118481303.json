@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118481303",
+    "clave":  "id:1118481303",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/laboratorista-textil-fullpima-1118481303.html",
+                   "capturadoEn":  "2026-10-16T00:28:55+00:00"
+               },
+    "titulo":  "Laboratorista Textil",
+    "empresa":  "FULLPIMA",
+    "ubicacion":  "Lima - El Agustino",
+    "ciudad":  "El Agustino",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Laboratorista Textil Resumen del Puesto Buscamos un Laboratorista Textil con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de formular y comprobar recetas de color, supervisando el proceso a nivel de laboratorio y asegurando la calidad de los tonos antes de su envío a producción. Responsabilidades Formular y comprobar recetas de color, supervisando el proceso a nivel de laboratorio. Preparar y desarrollar muestras de teñido en laboratorio, realizando las pruebas necesarias para validar los tonos. Asegurar la aprobación y envío de los tonos a producción. Realizar ajustes a las recetas formuladas y verificar su rendimiento en producción. Requisitos Técnico Textil, Ingeniero Textil o Químico. Mínimo de 2 años de experiencia en un puesto similar. Conocimientos de los procesos y flujos del material textil. Conocimiento de fibras textiles, colorantes, productos químicos y auxiliares de teñido. Conocimiento de colorimetría y procesos de teñido (reactivo-disperso). Manejo de software especializado como Data Color (DCMatch, Color Tools). Manejo de dispensadores automáticos como AUTOLAB. Liderazgo y aptitud para el manejo de personal.",
+    "requisitos":  [
+                       "Técnico Textil, Ingeniero Textil o Químico",
+                       "Mínimo de 2 años de experiencia en un puesto similar",
+                       "Conocimientos de los procesos y flujos del material textil",
+                       "Conocimiento de fibras textiles, colorantes, productos químicos y auxiliares de teñido",
+                       "Conocimiento de colorimetría y procesos de teñido (reactivo-disperso)",
+                       "Manejo de software especializado como Data Color (DCMatch, Color Tools)",
+                       "Manejo de dispensadores automáticos como AUTOLAB",
+                       "Liderazgo y aptitud para el manejo de personal"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/laboratorista-textil-fullpima-1118481303.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/laboratorista-textil-fullpima-1118481303.html",
+    "descripcion_html":  "\u003cb\u003eLaboratorista Textil\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eLaboratorista Textil\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de formular y comprobar recetas de color, supervisando el proceso a nivel de laboratorio y asegurando la calidad de los tonos antes de su envío a producción.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormular y comprobar recetas de color, supervisando el proceso a nivel de laboratorio.\u003c/li\u003e \u003cli\u003ePreparar y desarrollar muestras de teñido en laboratorio, realizando las pruebas necesarias para validar los tonos.\u003c/li\u003e \u003cli\u003eAsegurar la aprobación y envío de los tonos a producción.\u003c/li\u003e \u003cli\u003eRealizar ajustes a las recetas formuladas y verificar su rendimiento en producción.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTécnico Textil, Ingeniero Textil o Químico.\u003c/li\u003e \u003cli\u003eMínimo de 2 años de experiencia en un puesto similar.\u003c/li\u003e \u003cli\u003eConocimientos de los procesos y flujos del material textil.\u003c/li\u003e \u003cli\u003eConocimiento de fibras textiles, colorantes, productos químicos y auxiliares de teñido.\u003c/li\u003e \u003cli\u003eConocimiento de colorimetría y procesos de teñido (reactivo-disperso).\u003c/li\u003e \u003cli\u003eManejo de software especializado como Data Color (DCMatch, Color Tools).\u003c/li\u003e \u003cli\u003eManejo de dispensadores automáticos como AUTOLAB.\u003c/li\u003e \u003cli\u003eLiderazgo y aptitud para el manejo de personal.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

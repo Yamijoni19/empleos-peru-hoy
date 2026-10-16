@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118481297",
+    "clave":  "id:1118481297",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/editor-audiovisual-remoto-maxtom-agencia-digital-1118481297.html",
+                   "capturadoEn":  "2026-10-16T00:29:11+00:00"
+               },
+    "titulo":  "Editor Audiovisual - Remoto",
+    "empresa":  "Maxtom Agencia Digital",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  700,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 700 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Editor Audiovisual - Remoto Resumen del Puesto Buscamos un(a) Editor(a) Audiovisual con criterio, pasión por contar historias y una mirada creativa, capaz de transformar ideas en contenido que conecte y destaque en plataformas digitales. Si disfrutas construir narrativas visuales con ritmo, emoción y propósito, esta oportunidad es para ti. Responsabilidades Editar contenido audiovisual aplicando criterio narrativo, manteniendo ritmo, coherencia y estilo. Realizar tracking, composición y retoques finos en video. Adaptar contenido a las tendencias digitales, formatos virales y storytelling para redes sociales. Comprender y trabajar a partir de guiones o mensajes clave. Colaborar con equipos de diseño y marketing en la ejecución de briefs creativos. Asegurar la calidad y el impacto del contenido final. Requisitos Dominio intermedio o avanzado de software de edición como Premiere Pro, DaVinci Resolve y/o CapCut. Experiencia demostrable en edición audiovisual. Conocimiento actualizado de tendencias digitales y formatos para redes sociales. Habilidades de redacción y comprensión de guiones. Capacidad para trabajar de forma proactiva, con iniciativa y buen gusto estético. Habilidades de comunicación y trabajo en equipo. Capacidad para trabajar de forma remota.",
+    "requisitos":  [
+                       "Dominio intermedio o avanzado de software de edición como Premiere Pro, DaVinci Resolve y/o CapCut",
+                       "Experiencia demostrable en edición audiovisual",
+                       "Conocimiento actualizado de tendencias digitales y formatos para redes sociales",
+                       "Habilidades de redacción y comprensión de guiones",
+                       "Capacidad para trabajar de forma proactiva, con iniciativa y buen gusto estético",
+                       "Habilidades de comunicación y trabajo en equipo",
+                       "Capacidad para trabajar de forma remota"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/editor-audiovisual-remoto-maxtom-agencia-digital-1118481297.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/editor-audiovisual-remoto-maxtom-agencia-digital-1118481297.html",
+    "descripcion_html":  "\u003cb\u003eEditor Audiovisual - Remoto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eEditor(a) Audiovisual\u003c/b\u003e con criterio, pasión por contar historias y una mirada creativa, capaz de transformar ideas en contenido que conecte y destaque en plataformas digitales. Si disfrutas construir narrativas visuales con ritmo, emoción y propósito, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eEditar contenido audiovisual aplicando criterio narrativo, manteniendo ritmo, coherencia y estilo.\u003c/li\u003e \u003cli\u003eRealizar tracking, composición y retoques finos en video.\u003c/li\u003e \u003cli\u003eAdaptar contenido a las tendencias digitales, formatos virales y storytelling para redes sociales.\u003c/li\u003e \u003cli\u003eComprender y trabajar a partir de guiones o mensajes clave.\u003c/li\u003e \u003cli\u003eColaborar con equipos de diseño y marketing en la ejecución de briefs creativos.\u003c/li\u003e \u003cli\u003eAsegurar la calidad y el impacto del contenido final.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDominio intermedio o avanzado de software de edición como Premiere Pro, DaVinci Resolve y/o CapCut.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en edición audiovisual.\u003c/li\u003e \u003cli\u003eConocimiento actualizado de tendencias digitales y formatos para redes sociales.\u003c/li\u003e \u003cli\u003eHabilidades de redacción y comprensión de guiones.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma proactiva, con iniciativa y buen gusto estético.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma remota.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

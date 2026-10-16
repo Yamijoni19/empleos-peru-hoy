@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118481315",
+    "clave":  "id:1118481315",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-frontend-reactjs-remoto-indra-peru-1118481315.html",
+                   "capturadoEn":  "2026-10-16T00:28:30+00:00"
+               },
+    "titulo":  "Desarrollador Frontend/Reactjs-Remoto",
+    "empresa":  "INDRA PERU",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Buscamos profesionales de Desarrollador Frontend para nuestro cliente del sector seguros. \u0026#x1f50e; ¿Qué buscamos? Profesional de Ingeniería de Sistemas, Ingeniería Informática o carreras afines. Mínimo de 3 años de experiencia como Desarrollador Frontend con experiencia en React.js. Experiencia avanzada con React.js y su ecosistema (Hooks, Context, Redux Toolkit, React Query, Router, etc.). Conocimiento y aplicación de Server-Side Rendering (SSR), Static Site Generation (SSG) y Hydration en frameworks modernos (Next.js, Remix, Astro, etc.). Aplicación de patrones de diseño (Factory, Singleton, Observer, Module) y patrones de arquitectura (MVC, MVVM, Flux, Clean Architecture). Capacidad para definir y mantener arquitecturas frontend escalables, promoviendo separación de responsabilidades y reutilización de componentes. Dominio avanzado de JavaScript (ES6+), con comprensión profunda de su ciclo de vida en aplicaciones single-page, closures, scoping, event loop, y polyfilling. HTML5 y CSS3 a nivel experto, aplicando semántica, accesibilidad (WCAG, ARIA), y diseño responsivo avanzado. Competencia en preprocesadores CSS (Sass, Less) y en la aplicación de metodologías escalables como BEM, SMACSS o arquitectura 7-1. Experiencia en testing automatizado de componentes con Jest, React Testing Library, Cypress, y uso de mocks o snapshots. Contribuye a la calidad del código mediante revisión de PRs, análisis estático y cumplimiento de estándares de linters y Sonar. Capacidad para traducir interfaces complejas en componentes reutilizables y responsivos, incluyendo navegación, paginación, grillas y elementos interactivos. Experiencia colaborando con diseñadores en Figma, interpretando componentes, variables, tokens y animaciones para construir interfaces consistentes. Aplica principios de UX y realiza A/B testing, métricas de interacción y etiquetado analítico (Google Tag Manager, Segment, etc.). Capacidad para cuestionar y mejorar diseños desde un enfoque técnico y de usabilidad, aportando criterio visual y funcional. Uso avanzado de Git y control de versiones (branching strategy, rebase, cherry-pick, revert, stash, code review). Promueve estándares de desarrollo, revisa código de pares y asesora a perfiles más junior. Desarrolla, documenta y mantiene sistemas de diseño escalables basados en componentes reutilizables y tokens de estilo (color, tipografía, espaciado, sombras), asegurando consistencia visual y semántica entre productos. Domina herramientas como Storybook, Figma Tokens, Style Dictionary o Bit, y aplica versionamiento, automatización de builds y pruebas visuales \u0026#x1f680; ¿Cuáles serán tus principales retos? Diseñar e implementar nuevas funcionalidades orientadas al usuario, asegurando una experiencia fluida, accesible y coherente con los lineamientos de UX/UI definidos. Desarrollar código frontend limpio, modular y reutilizable, creando componentes, librerías y patrones escalables que faciliten la mantenibilidad del producto. Asegurar la viabilidad técnica de los diseños UI/UX, colaborando activamente con los equipos de diseño y producto durante la definición e implementación. Optimizar el rendimiento, estabilidad, seguridad y escalabilidad de las aplicaciones, aplicando buenas prácticas de performance y estándares de desarrollo seguro. Participar en todo el ciclo de vida del software, incluyendo desarrollo, pruebas, despliegue, monitoreo y soporte postproducción. Implementar pruebas unitarias y de interfaz (UI) para validar componentes críticos y garantizar la calidad del código entregado. Realizar análisis de causa raíz (RCA) ante incidentes o defectos, asegurando una respuesta oportuna y soluciones definitivas. Cumplir y promover los estándares de calidad del CoE, participando en revisiones de código (code reviews) y asegurando que el código nuevo y heredado mantenga la calidad esperada. Gestionar procesos de control de versiones, incluyendo merges, resolución de conflictos y aprobación de Pull Requests en repositorios colaborativos. Documentar de forma ágil y clara las implementaciones, decisiones técnicas y dependencias asociadas, manteniendo trazabilidad y comprensión del código. Beneficios: Modalidad de trabajo: 100% remoto. \u0026#x1f691; EPS cubierta al 100%. \u0026#x1f4da; Acceso ilimitado a Udemy. \u0026#x1f516; Descuentos corporativos. \u0026#x1f4c8; Línea de carrera. \u0026#x1f486; ♀️ Kit ergonómico para trabajo en casa. \u0026#x1f9e0; Atención psicológica. \u0026#x1f966; Atención nutricional.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Modalidad de trabajo: 100% remoto",
+                       "\u0026#x1f691; EPS cubierta al 100%",
+                       "\u0026#x1f4da; Acceso ilimitado a Udemy",
+                       "\u0026#x1f516; Descuentos corporativos",
+                       "\u0026#x1f4c8; Línea de carrera",
+                       "\u0026#x1f486; ♀️ Kit ergonómico para trabajo en casa",
+                       "\u0026#x1f9e0; Atención psicológica",
+                       "\u0026#x1f966; Atención nutricional"
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-frontend-reactjs-remoto-indra-peru-1118481315.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-frontend-reactjs-remoto-indra-peru-1118481315.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos profesionales de \u003cstrong\u003eDesarrollador Frontend \u003c/strong\u003epara nuestro cliente del sector seguros.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f50e; ¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional de Ingeniería de Sistemas, Ingeniería Informática o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo de 3 \u003cstrong\u003eaños de experiencia como Desarrollador Frontend \u003c/strong\u003econ experiencia en React.js.\u003c/li\u003e \u003cli\u003eExperiencia avanzada con React.js y su ecosistema (Hooks, Context, Redux Toolkit, React Query, Router, etc.).\u003c/li\u003e \u003cli\u003e Conocimiento y aplicación de Server-Side Rendering (SSR), Static Site Generation (SSG) y Hydration en frameworks modernos (Next.js, Remix, Astro, etc.).\u003c/li\u003e \u003cli\u003e Aplicación de patrones de diseño (Factory, Singleton, Observer, Module) y patrones de arquitectura (MVC, MVVM, Flux, Clean Architecture).\u003c/li\u003e \u003cli\u003e Capacidad para definir y mantener arquitecturas frontend escalables, promoviendo separación de responsabilidades y reutilización de componentes.\u003c/li\u003e \u003cli\u003e Dominio avanzado de JavaScript (ES6+), con comprensión profunda de su ciclo de vida en aplicaciones single-page, closures, scoping, event loop, y polyfilling.\u003c/li\u003e \u003cli\u003e HTML5 y CSS3 a nivel experto, aplicando semántica, accesibilidad (WCAG, ARIA), y diseño responsivo avanzado.\u003c/li\u003e \u003cli\u003e Competencia en preprocesadores CSS (Sass, Less) y en la aplicación de metodologías escalables como BEM, SMACSS o arquitectura 7-1.\u003c/li\u003e \u003cli\u003e Experiencia en testing automatizado de componentes con Jest, React Testing Library, Cypress, y uso de mocks o snapshots.\u003c/li\u003e \u003cli\u003e Contribuye a la calidad del código mediante revisión de PRs, análisis estático y cumplimiento de estándares de linters y Sonar.\u003c/li\u003e \u003cli\u003e Capacidad para traducir interfaces complejas en componentes reutilizables y responsivos, incluyendo navegación, paginación, grillas y elementos interactivos.\u003c/li\u003e \u003cli\u003e Experiencia colaborando con diseñadores en Figma, interpretando componentes, variables, tokens y animaciones para construir interfaces consistentes.\u003c/li\u003e \u003cli\u003e Aplica principios de UX y realiza A/B testing, métricas de interacción y etiquetado analítico (Google Tag Manager, Segment, etc.).\u003c/li\u003e \u003cli\u003e Capacidad para cuestionar y mejorar diseños desde un enfoque técnico y de usabilidad, aportando criterio visual y funcional.\u003c/li\u003e \u003cli\u003e Uso avanzado de Git y control de versiones (branching strategy, rebase, cherry-pick, revert, stash, code review).\u003c/li\u003e \u003cli\u003e Promueve estándares de desarrollo, revisa código de pares y asesora a perfiles más junior.\u003c/li\u003e \u003cli\u003e Desarrolla, documenta y mantiene sistemas de diseño escalables basados en componentes reutilizables y tokens de estilo (color, tipografía, espaciado, sombras), asegurando consistencia visual y semántica entre productos. Domina herramientas como Storybook, Figma Tokens, Style Dictionary o Bit, y aplica versionamiento, automatización de builds y pruebas visuales\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x1f680; ¿Cuáles serán tus principales retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Diseñar e implementar nuevas funcionalidades orientadas al usuario, asegurando una experiencia fluida, accesible y coherente con los lineamientos de UX/UI definidos.\u003c/li\u003e \u003cli\u003e Desarrollar código frontend limpio, modular y reutilizable, creando componentes, librerías y patrones escalables que faciliten la mantenibilidad del producto.\u003c/li\u003e \u003cli\u003e Asegurar la viabilidad técnica de los diseños UI/UX, colaborando activamente con los equipos de diseño y producto durante la definición e implementación.\u003c/li\u003e \u003cli\u003e Optimizar el rendimiento, estabilidad, seguridad y escalabilidad de las aplicaciones, aplicando buenas prácticas de performance y estándares de desarrollo seguro.\u003c/li\u003e \u003cli\u003e Participar en todo el ciclo de vida del software, incluyendo desarrollo, pruebas, despliegue, monitoreo y soporte postproducción.\u003c/li\u003e \u003cli\u003e Implementar pruebas unitarias y de interfaz (UI) para validar componentes críticos y garantizar la calidad del código entregado.\u003c/li\u003e \u003cli\u003e Realizar análisis de causa raíz (RCA) ante incidentes o defectos, asegurando una respuesta oportuna y soluciones definitivas.\u003c/li\u003e \u003cli\u003e Cumplir y promover los estándares de calidad del CoE, participando en revisiones de código (code reviews) y asegurando que el código nuevo y heredado mantenga la calidad esperada.\u003c/li\u003e \u003cli\u003e Gestionar procesos de control de versiones, incluyendo merges, resolución de conflictos y aprobación de Pull Requests en repositorios colaborativos.\u003c/li\u003e \u003cli\u003e Documentar de forma ágil y clara las implementaciones, decisiones técnicas y dependencias asociadas, manteniendo trazabilidad y comprensión del código.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad de trabajo: 100% remoto.\u003c/li\u003e \u003cli\u003e\u0026#x1f691; EPS cubierta al 100%.\u003c/li\u003e \u003cli\u003e\u0026#x1f4da; Acceso ilimitado a Udemy.\u003c/li\u003e \u003cli\u003e\u0026#x1f516; Descuentos corporativos.\u003c/li\u003e \u003cli\u003e\u0026#x1f4c8; Línea de carrera.\u003c/li\u003e \u003cli\u003e\u0026#x1f486; \u0026#x2640;\u0026#xfe0f; Kit ergonómico para trabajo en casa.\u003c/li\u003e \u003cli\u003e\u0026#x1f9e0; Atención psicológica.\u003c/li\u003e \u003cli\u003e\u0026#x1f966; Atención nutricional.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
