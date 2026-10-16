@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118483311",
+    "clave":  "id:1118483311",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-limpieza-ana-cristina-izarra-1118483311.html",
+                   "capturadoEn":  "2026-10-16T16:39:34+00:00"
+               },
+    "titulo":  "Operario de Limpieza",
+    "empresa":  "Ana Cristina Izarra",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  1450,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 1,450",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ana Cristina Izarra Servicios de Reclutamiento y Selección de Personal Operario de Limpieza Resumen del Puesto Estamos en la búsqueda de un Operario de Limpieza proactivo y con gran sentido de responsabilidad para mantener la pulcritud de nuestras instalaciones. El candidato ideal deberá demostrar una fuerte orientación al servicio y capacidad para trabajar de manera eficiente. Responsabilidades Realizar la limpieza y mantenimiento de instalaciones en general, abarcando áreas administrativas y de oficina. Asegurar un ambiente de trabajo limpio y ordenado. Colaborar con el equipo para el cumplimiento de las tareas de limpieza asignadas. Requisitos Experiencia previa en labores de limpieza es deseable. Habilidad para trabajar en equipo. Actitud de servicio y disposición para el trabajo. Orientación a resultados y cumplimiento de objetivos. Capacidad de adaptación a diferentes tareas y entornos. Proactividad en la identificación y solución de necesidades de limpieza. Condiciones Ingreso a planilla completa bajo régimen general. Beneficios de ley completos (CTS, Gratificación, Seguro Vida Ley, Essalud). Suministro de uniforme y Equipo de Protección Personal (EPP).",
+    "requisitos":  [
+                       "Experiencia previa en labores de limpieza es deseable",
+                       "Habilidad para trabajar en equipo",
+                       "Actitud de servicio y disposición para el trabajo",
+                       "Orientación a resultados y cumplimiento de objetivos",
+                       "Capacidad de adaptación a diferentes tareas y entornos",
+                       "Proactividad en la identificación y solución de necesidades de limpieza"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley completos (CTS, Gratificación, Seguro Vida Ley, Essalud)",
+                       "Suministro de uniforme y Equipo de Protección Personal (EPP)"
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-limpieza-ana-cristina-izarra-1118483311.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-limpieza-ana-cristina-izarra-1118483311.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eAna Cristina Izarra\u003c/strong\u003e\u003c/em\u003e\u003cbr /\u003eServicios de Reclutamiento y Selección de Personal\u003c/p\u003e\u003c/p\u003e \u003cb\u003eOperario de Limpieza\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eOperario de Limpieza\u003c/b\u003e proactivo y con gran sentido de responsabilidad para mantener la pulcritud de nuestras instalaciones. El candidato ideal deberá demostrar una fuerte orientación al servicio y capacidad para trabajar de manera eficiente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar la limpieza y mantenimiento de instalaciones en general, abarcando áreas administrativas y de oficina.\u003c/li\u003e \u003cli\u003eAsegurar un ambiente de trabajo limpio y ordenado.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para el cumplimiento de las tareas de limpieza asignadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en labores de limpieza es deseable.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud de servicio y disposición para el trabajo.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad de adaptación a diferentes tareas y entornos.\u003c/li\u003e \u003cli\u003eProactividad en la identificación y solución de necesidades de limpieza.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones\u003c/b\u003e \u003cul\u003e \u003cli\u003eIngreso a planilla completa bajo régimen general.\u003c/li\u003e \u003cli\u003eBeneficios de ley completos (CTS, Gratificación, Seguro Vida Ley, Essalud).\u003c/li\u003e \u003cli\u003eSuministro de uniforme y Equipo de Protección Personal (EPP).\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

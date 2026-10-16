@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118483333",
+    "clave":  "id:1118483333",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/quimico-farmaceutico-compania-minera-poderosa-s.a.a-1118483333.html",
+                   "capturadoEn":  "2026-10-16T16:39:27+00:00"
+               },
+    "titulo":  "Químico Farmacéutico",
+    "empresa":  "COMPAÑIA MINERA PODEROSA S.A.A",
+    "ubicacion":  "La Libertad - Pataz",
+    "ciudad":  "Pataz",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  7900,
+                    "max":  11900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 7,900 - S/ 11,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "NUEVA CONVOCATORIA LABORAL PARA LIMA Y LA LIBERTAD PATAZ Químico Farmacéutico Resumen del Puesto Buscamos profesionales Químicos Farmacéuticos con gran motivación y deseo de crecimiento para integrarse a nuestro equipo. Valoramos el talento y la proactividad para contribuir al desarrollo de la organización. Responsabilidades Participar en el desarrollo y optimización de procesos relacionados con la química farmacéutica. Colaborar en la investigación y desarrollo de nuevos productos o formulaciones. Asegurar el cumplimiento de normativas y estándares de calidad en todas las etapas. Trabajar en equipo para alcanzar los objetivos propuestos y aportar soluciones innovadoras. Mantenerse actualizado sobre avances científicos y tecnológicos en el área. Requisitos Título universitario en Química Farmacéutica o disciplina afín. Demostrada capacidad de superación y ganas de aprender. Habilidad para trabajar de manera colaborativa y aportar al equipo. Orientación a la calidad y al detalle. Capacidad para adaptarse a nuevos desafíos y entornos de trabajo.",
+    "requisitos":  [
+                       "Título universitario en Química Farmacéutica o disciplina afín",
+                       "Demostrada capacidad de superación y ganas de aprender",
+                       "Habilidad para trabajar de manera colaborativa y aportar al equipo",
+                       "Orientación a la calidad y al detalle",
+                       "Capacidad para adaptarse a nuevos desafíos y entornos de trabajo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/quimico-farmaceutico-compania-minera-poderosa-s.a.a-1118483333.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/quimico-farmaceutico-compania-minera-poderosa-s.a.a-1118483333.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eNUEVA CONVOCATORIA LABORAL PARA LIMA Y LA LIBERTAD PATAZ\u003c/p\u003e\u003c/p\u003e \u003cb\u003eQuímico Farmacéutico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos profesionales \u003cb\u003eQuímicos Farmacéuticos\u003c/b\u003e con gran motivación y deseo de crecimiento para integrarse a nuestro equipo. Valoramos el talento y la proactividad para contribuir al desarrollo de la organización.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eParticipar en el desarrollo y optimización de procesos relacionados con la química farmacéutica.\u003c/li\u003e \u003cli\u003eColaborar en la investigación y desarrollo de nuevos productos o formulaciones.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de normativas y estándares de calidad en todas las etapas.\u003c/li\u003e \u003cli\u003eTrabajar en equipo para alcanzar los objetivos propuestos y aportar soluciones innovadoras.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre avances científicos y tecnológicos en el área.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Química Farmacéutica o disciplina afín.\u003c/li\u003e \u003cli\u003eDemostrada capacidad de superación y ganas de aprender.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de manera colaborativa y aportar al equipo.\u003c/li\u003e \u003cli\u003eOrientación a la calidad y al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para adaptarse a nuevos desafíos y entornos de trabajo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
