@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118481267",
+    "clave":  "id:1118481267",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-y-contable-asb-estudio-contable-y-auditoria-1118481267.html",
+                   "capturadoEn":  "2026-10-16T05:52:22+00:00"
+               },
+    "titulo":  "Practicante Administrativo y Contable",
+    "empresa":  "ASB ESTUDIO CONTABLE Y AUDITORIA",
+    "ubicacion":  "Lima - Chorrillos",
+    "ciudad":  "Chorrillos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "ASB Estudio Contable y Auditoría S.A.C. se encuentra en la búsqueda de un(a) Practicante Administrativo(a) / contable para brindar apoyo en actividades administrativas vinculadas a la gestión y ejecución de proyectos. Perfil requerido Estudiante de últimos ciclos o egresado(a) reciente de Administración, contabilidad o carreras afines. Manejo de Microsoft Office, principalmente Word y Excel. Capacidad de organización, responsabilidad y disposición para aprender. Buena comunicación y atención al detalle. deseable contar con experiencia previa.( planilla, proceso de compras, temas administrativos) INDISPENSABLE VIVIR EN CHORRILLOS O DISTRITOS ALEDAÑOS Principales funciones Apoyo en la organización y revisión de documentación administrativa. Elaboración y actualización de cuadros de seguimiento y archivos. Apoyo en procesos de compras, contrataciones y control documentario. Seguimiento de documentos, órdenes, cotizaciones y expedientes. Otras actividades administrativas relacionadas con la gestión de proyectos. Ofrecemos Oportunidad de aprendizaje y desarrollo profesional. Acompañamiento permanente en procesos administrativos y de gestión de proyectos. Experiencia práctica en actividades administrativas y coordinación de proyectos Planilla desde el primer dia",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Apoyo en la organización y revisión de documentación administrativa",
+                      "Elaboración y actualización de cuadros de seguimiento y archivos",
+                      "Apoyo en procesos de compras, contrataciones y control documentario",
+                      "Seguimiento de documentos, órdenes, cotizaciones y expedientes",
+                      "Otras actividades administrativas relacionadas con la gestión de proyectos"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-y-contable-asb-estudio-contable-y-auditoria-1118481267.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-y-contable-asb-estudio-contable-y-auditoria-1118481267.html",
+    "descripcion_html":  "\u003cp\u003eASB Estudio Contable y Auditoría S.A.C. se encuentra en la búsqueda de un(a) Practicante Administrativo(a) / contable para brindar apoyo en actividades administrativas vinculadas a la gestión y ejecución de proyectos. \u003c/p\u003e\u003cp\u003ePerfil requerido \u003c/p\u003e\u003cul\u003e \u003cli\u003e Estudiante de últimos ciclos o egresado(a) reciente de Administración, contabilidad o carreras afines. \u003c/li\u003e \u003cli\u003e Manejo de Microsoft Office, principalmente Word y Excel. \u003c/li\u003e \u003cli\u003e Capacidad de organización, responsabilidad y disposición para aprender. \u003c/li\u003e \u003cli\u003e Buena comunicación y atención al detalle. \u003c/li\u003e \u003cli\u003e deseable contar con experiencia previa.( planilla, proceso de compras, temas administrativos)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eINDISPENSABLE VIVIR EN CHORRILLOS O DISTRITOS ALEDAÑOS\u003c/p\u003e\u003cp\u003ePrincipales funciones \u003c/p\u003e\u003cul\u003e \u003cli\u003e Apoyo en la organización y revisión de documentación administrativa. \u003c/li\u003e \u003cli\u003e Elaboración y actualización de cuadros de seguimiento y archivos. \u003c/li\u003e \u003cli\u003e Apoyo en procesos de compras, contrataciones y control documentario. \u003c/li\u003e \u003cli\u003e Seguimiento de documentos, órdenes, cotizaciones y expedientes. \u003c/li\u003e \u003cli\u003e Otras actividades administrativas relacionadas con la gestión de proyectos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOfrecemos \u003c/p\u003e\u003cul\u003e \u003cli\u003e Oportunidad de aprendizaje y desarrollo profesional. \u003c/li\u003e \u003cli\u003e Acompañamiento permanente en procesos administrativos y de gestión de proyectos. \u003c/li\u003e \u003cli\u003e Experiencia práctica en actividades administrativas y coordinación de proyectos\u003c/li\u003e \u003cli\u003e Planilla desde el primer dia\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

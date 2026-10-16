@@ -1,0 +1,1533 @@
+[
+    {
+        "id":  "bumeran-1118481267",
+        "clave":  "id:1118481267",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-y-contable-asb-estudio-contable-y-auditoria-1118481267.html",
+                       "capturadoEn":  "2026-10-16T05:52:22+00:00"
+                   },
+        "titulo":  "Practicante Administrativo y Contable",
+        "empresa":  "ASB ESTUDIO CONTABLE Y AUDITORIA",
+        "ubicacion":  "Lima - Chorrillos",
+        "ciudad":  "Chorrillos",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "ASB Estudio Contable y Auditoría S.A.C. se encuentra en la búsqueda de un(a) Practicante Administrativo(a) / contable para brindar apoyo en actividades administrativas vinculadas a la gestión y ejecución de proyectos. Perfil requerido Estudiante de últimos ciclos o egresado(a) reciente de Administración, contabilidad o carreras afines. Manejo de Microsoft Office, principalmente Word y Excel. Capacidad de organización, responsabilidad y disposición para aprender. Buena comunicación y atención al detalle. deseable contar con experiencia previa.( planilla, proceso de compras, temas administrativos) INDISPENSABLE VIVIR EN CHORRILLOS O DISTRITOS ALEDAÑOS Principales funciones Apoyo en la organización y revisión de documentación administrativa. Elaboración y actualización de cuadros de seguimiento y archivos. Apoyo en procesos de compras, contrataciones y control documentario. Seguimiento de documentos, órdenes, cotizaciones y expedientes. Otras actividades administrativas relacionadas con la gestión de proyectos. Ofrecemos Oportunidad de aprendizaje y desarrollo profesional. Acompañamiento permanente en procesos administrativos y de gestión de proyectos. Experiencia práctica en actividades administrativas y coordinación de proyectos Planilla desde el primer dia",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Apoyo en la organización y revisión de documentación administrativa",
+                          "Elaboración y actualización de cuadros de seguimiento y archivos",
+                          "Apoyo en procesos de compras, contrataciones y control documentario",
+                          "Seguimiento de documentos, órdenes, cotizaciones y expedientes",
+                          "Otras actividades administrativas relacionadas con la gestión de proyectos"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-y-contable-asb-estudio-contable-y-auditoria-1118481267.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-administrativo-y-contable-asb-estudio-contable-y-auditoria-1118481267.html",
+        "descripcion_html":  "\u003cp\u003eASB Estudio Contable y Auditoría S.A.C. se encuentra en la búsqueda de un(a) Practicante Administrativo(a) / contable para brindar apoyo en actividades administrativas vinculadas a la gestión y ejecución de proyectos. \u003c/p\u003e\u003cp\u003ePerfil requerido \u003c/p\u003e\u003cul\u003e \u003cli\u003e Estudiante de últimos ciclos o egresado(a) reciente de Administración, contabilidad o carreras afines. \u003c/li\u003e \u003cli\u003e Manejo de Microsoft Office, principalmente Word y Excel. \u003c/li\u003e \u003cli\u003e Capacidad de organización, responsabilidad y disposición para aprender. \u003c/li\u003e \u003cli\u003e Buena comunicación y atención al detalle. \u003c/li\u003e \u003cli\u003e deseable contar con experiencia previa.( planilla, proceso de compras, temas administrativos)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eINDISPENSABLE VIVIR EN CHORRILLOS O DISTRITOS ALEDAÑOS\u003c/p\u003e\u003cp\u003ePrincipales funciones \u003c/p\u003e\u003cul\u003e \u003cli\u003e Apoyo en la organización y revisión de documentación administrativa. \u003c/li\u003e \u003cli\u003e Elaboración y actualización de cuadros de seguimiento y archivos. \u003c/li\u003e \u003cli\u003e Apoyo en procesos de compras, contrataciones y control documentario. \u003c/li\u003e \u003cli\u003e Seguimiento de documentos, órdenes, cotizaciones y expedientes. \u003c/li\u003e \u003cli\u003e Otras actividades administrativas relacionadas con la gestión de proyectos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOfrecemos \u003c/p\u003e\u003cul\u003e \u003cli\u003e Oportunidad de aprendizaje y desarrollo profesional. \u003c/li\u003e \u003cli\u003e Acompañamiento permanente en procesos administrativos y de gestión de proyectos. \u003c/li\u003e \u003cli\u003e Experiencia práctica en actividades administrativas y coordinación de proyectos\u003c/li\u003e \u003cli\u003e Planilla desde el primer dia\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481276",
+        "clave":  "id:1118481276",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-bancario-bbva-miraflores-y-san-isidro-manpowergroup-1118481276.html",
+                       "capturadoEn":  "2026-10-16T05:52:25+00:00"
+                   },
+        "titulo":  "Asesor Bancario BBVA (Miraflores y San Isidro)",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro cliente, nos encontramos en la búsqueda de personas apasionadas por la atención al cliente, las ventas y el servicio para desempeñar el cargo de Asesor(a) de Universal. ¿Qué harás como Asesor Bancario? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente, asegurando todo tipo de transacciones bancarias de manera precisa y ágil. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. ¿Qué perfil buscamos? Estudios universitarios completos o 9no ciclo Estudios técnicos completos o 5to ciclo Mínimo 1 año de experiencia laboral como cajero, ejecutivo de ventas o atención al cliente Experiencia en áreas comerciales. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. Contrato en planilla desde el primer día, con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. EPS y Seguro oncológico cubiertos al 100% Licencia de paternidad extendida Utilidades superiores al promedio del mercado. Crecimiento y desarrollo profesional constante. Acceso a descuentos y convenios corporativos.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio",
+                           "EPS y Seguro oncológico cubiertos al 100%",
+                           "Licencia de paternidad extendida",
+                           "Utilidades superiores al promedio del mercado",
+                           "Crecimiento y desarrollo profesional constante",
+                           "Acceso a descuentos y convenios corporativos"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-bancario-bbva-miraflores-y-san-isidro-manpowergroup-1118481276.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-bancario-bbva-miraflores-y-san-isidro-manpowergroup-1118481276.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, nos encontramos en la búsqueda de personas apasionadas por la atención al cliente, las ventas y el servicio para desempeñar el cargo de Asesor(a) de Universal.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué harás como Asesor Bancario?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eImpulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente, asegurando todo tipo de transacciones bancarias de manera precisa y ágil.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué perfil buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios universitarios completos o 9no ciclo\u003c/li\u003e \u003cli\u003eEstudios técnicos completos o 5to ciclo\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia laboral como cajero, ejecutivo de ventas o atención al cliente\u003c/li\u003e \u003cli\u003eExperiencia en áreas comerciales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de un banco global con un sólido prestigio.\u003c/li\u003e \u003cli\u003eContrato en planilla desde el primer día, con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio.\u003c/li\u003e \u003cli\u003eEPS y Seguro oncológico cubiertos al 100%\u003c/li\u003e \u003cli\u003eLicencia de paternidad extendida\u003c/li\u003e \u003cli\u003eUtilidades superiores al promedio del mercado.\u003c/li\u003e \u003cli\u003eCrecimiento y desarrollo profesional constante.\u003c/li\u003e \u003cli\u003eAcceso a descuentos y convenios corporativos.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481272",
+        "clave":  "id:1118481272",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-oficina-tecnica-oficina-central-abril-grupo-inmobiliario-1118481272.html",
+                       "capturadoEn":  "2026-10-16T05:52:28+00:00"
+                   },
+        "titulo":  "Ingeniero Oficina Técnica - Oficina Central",
+        "empresa":  "ABRIL GRUPO INMOBILIARIO",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Objetivo del Puesto: Planificar, controlar y dar soporte técnico a la ejecución de proyectos inmobiliarios, asegurando el cumplimiento de costos, plazos, calidad y productividad mediante una adecuada gestión de metrados, valorizaciones, control documentario y compatibilización técnica. Funciones: Elaborar y controlar metrados, presupuestos y valorizaciones de obra. Revisar y compatibilizar planos de arquitectura, estructuras e instalaciones para detectar interferencias y oportunidades de mejora. Hacer seguimiento al avance físico y económico de los proyectos, generando reportes periódicos de control. Coordinar con obra, proveedores, subcontratistas y proyectistas para resolver observaciones técnicas y asegurar continuidad operativa. Elaborar y actualizar cronogramas de obra, curvas S y reportes de productividad. Gestionar órdenes de cambio, adicionales, deductivos y control contractual de partidas. Revisar requerimientos de materiales y validar cantidades para compras y abastecimiento. Elaborar informes técnicos, dossiers y documentación de soporte para entidades financieras, municipalidades y clientes internos. Dar seguimiento al control de calidad, ensayos y documentación técnica de obra. Participar en reuniones de coordinación técnica y proponer mejoras en procesos constructivos y control de costos. Perfil: Ingeniero Civil titulado y colegiado habilitado. Experiencia mínima 3 años en proyectos multifamiliares. Experiencia comprobada en oficina técnica de proyectos inmobiliarios. Metrados, presupuestos y valorizaciones. Control de costos y planeamiento de obra. Compatibilización de especialidades. Coordinación con obra y proyectistas. Herramientas tecnológicas: S10 avanzado. AutoCAD intermedio / avanzado. MS Excel avanzado. MS Project intermedio / avanzado. Revit (deseable). Power BI (deseable). Lectura e interpretación de planos técnicos. Competencias Técnicas: Metrados y presupuestos. Planeamiento y control de obra. Valorizaciones y costos. Compatibilización técnica. Gestión contractual y control documentario. Análisis de productividad y control de avances. Competencias Blandas: Organización y planificación. Capacidad analítica. Comunicación efectiva. Resolución de problemas. Trabajo bajo presión. Orientación a resultados. Proactividad y seguimiento constante. Inglés intermedio (deseable). Beneficios: Ingreso a planilla con todos los beneficios de ley. EPS al 50% (voluntario) Oportunidades de desarrollo y crecimiento. Buen clima laboral.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Elaborar y controlar metrados, presupuestos y valorizaciones de obra",
+                          "Revisar y compatibilizar planos de arquitectura, estructuras e instalaciones para detectar interferencias y oportunidades de mejora",
+                          "Hacer seguimiento al avance físico y económico de los proyectos, generando reportes periódicos de control",
+                          "Coordinar con obra, proveedores, subcontratistas y proyectistas para resolver observaciones técnicas y asegurar continuidad operativa",
+                          "Elaborar y actualizar cronogramas de obra, curvas S y reportes de productividad",
+                          "Gestionar órdenes de cambio, adicionales, deductivos y control contractual de partidas",
+                          "Revisar requerimientos de materiales y validar cantidades para compras y abastecimiento",
+                          "Elaborar informes técnicos, dossiers y documentación de soporte para entidades financieras, municipalidades y clientes internos",
+                          "Dar seguimiento al control de calidad, ensayos y documentación técnica de obra",
+                          "Participar en reuniones de coordinación técnica y proponer mejoras en procesos constructivos y control de costos"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "EPS al 50% (voluntario)",
+                           "Oportunidades de desarrollo y crecimiento",
+                           "Buen clima laboral"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-oficina-tecnica-oficina-central-abril-grupo-inmobiliario-1118481272.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-oficina-tecnica-oficina-central-abril-grupo-inmobiliario-1118481272.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eObjetivo del Puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePlanificar, controlar y dar soporte técnico a la ejecución de proyectos inmobiliarios, asegurando el cumplimiento de costos, plazos, calidad y productividad mediante una adecuada gestión de metrados, valorizaciones, control documentario y compatibilización técnica.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar y controlar metrados, presupuestos y valorizaciones de obra.\u003c/li\u003e \u003cli\u003eRevisar y compatibilizar planos de arquitectura, estructuras e instalaciones para detectar interferencias y oportunidades de mejora.\u003c/li\u003e \u003cli\u003eHacer seguimiento al avance físico y económico de los proyectos, generando reportes periódicos de control.\u003c/li\u003e \u003cli\u003eCoordinar con obra, proveedores, subcontratistas y proyectistas para resolver observaciones técnicas y asegurar continuidad operativa.\u003c/li\u003e \u003cli\u003eElaborar y actualizar cronogramas de obra, curvas S y reportes de productividad.\u003c/li\u003e \u003cli\u003eGestionar órdenes de cambio, adicionales, deductivos y control contractual de partidas.\u003c/li\u003e \u003cli\u003eRevisar requerimientos de materiales y validar cantidades para compras y abastecimiento.\u003c/li\u003e \u003cli\u003eElaborar informes técnicos, dossiers y documentación de soporte para entidades financieras, municipalidades y clientes internos.\u003c/li\u003e \u003cli\u003eDar seguimiento al control de calidad, ensayos y documentación técnica de obra.\u003c/li\u003e \u003cli\u003eParticipar en reuniones de coordinación técnica y proponer mejoras en procesos constructivos y control de costos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePerfil:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero Civil titulado y colegiado habilitado.\u003c/li\u003e \u003cli\u003eExperiencia mínima 3 años en proyectos multifamiliares.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en oficina técnica de proyectos inmobiliarios. Metrados, presupuestos y valorizaciones. Control de costos y planeamiento de obra. Compatibilización de especialidades. Coordinación con obra y proyectistas.\u003c/li\u003e \u003cli\u003eHerramientas tecnológicas: S10 avanzado. AutoCAD intermedio / avanzado. MS Excel avanzado. MS Project intermedio / avanzado. Revit (deseable). Power BI (deseable). Lectura e interpretación de planos técnicos.\u003c/li\u003e \u003cli\u003eCompetencias Técnicas: Metrados y presupuestos. Planeamiento y control de obra. Valorizaciones y costos. Compatibilización técnica. Gestión contractual y control documentario. Análisis de productividad y control de avances.\u003c/li\u003e \u003cli\u003eCompetencias Blandas: Organización y planificación. Capacidad analítica. Comunicación efectiva. Resolución de problemas. Trabajo bajo presión. Orientación a resultados. Proactividad y seguimiento constante.\u003c/li\u003e \u003cli\u003eInglés intermedio (deseable).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eEPS al 50% (voluntario)\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo y crecimiento.\u003c/li\u003e \u003cli\u003eBuen clima laboral.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481271",
+        "clave":  "id:1118481271",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-calidad-abril-grupo-inmobiliario-1118481271.html",
+                       "capturadoEn":  "2026-10-16T05:52:32+00:00"
+                   },
+        "titulo":  "Coordinador de Calidad",
+        "empresa":  "ABRIL GRUPO INMOBILIARIO",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Misión del puesto: Liderar y estandarizar la gestión de calidad de los proyectos, asegurando criterios homogéneos de control, liberación y documentación. Supervisar el desempeño de las obras, identificar riesgos, promover acciones correctivas y mejora continua, sin sustituir la responsabilidad operativa del equipo de cada proyecto. Principales funciones: Definir y actualizar estándares y procedimientos corporativos de calidad. Supervisar proyectos mediante visitas, auditorías e indicadores. Revisar planes de calidad, ITP, protocolos y criterios de liberación críticos. Consolidar y analizar indicadores de calidad de todas las obras. Dar seguimiento a no conformidades relevantes y acciones correctivas. Asegurar el avance y estandarización de dossiers de calidad. Brindar soporte técnico a responsables de calidad ante casos complejos. Coordinar lecciones aprendidas y buenas prácticas entre proyectos. Verificar muestras, mockups y aprobaciones de materiales críticos. Preparar reportes ejecutivos y alertas para Jefatura de Operaciones. Requisitos: Arquitecto titulado o Ingeniero Civil titulado. 5 años de experiencia en empresas del rubro de la construcción. Experiencia específica en protocolos multifamilaires y ensayos de obra. Gestión de calidad en construcción (avanzado). Procesos constructivos y control de calidad (avanzado). Normativa técnica y RNE (avanzado). Auditorías y acciones correctivas (avanzado). Dossiers, ITP y protocolos (avanzado). BIM / VDC y gestión colaborarativa (intermedio). Ingreso a planilla desde el primer día, con todos los beneficios de ley. EPS Pacífico cubierta al 50 % (opcional). Oportunidades de crecimiento y línea de carrera en el sector inmobiliario. Grato ambiente laboral, con un equipo comprometido y profesional.",
+        "requisitos":  [
+                           "Arquitecto titulado o Ingeniero Civil titulado",
+                           "5 años de experiencia en empresas del rubro de la construcción",
+                           "Experiencia específica en protocolos multifamilaires y ensayos de obra",
+                           "Gestión de calidad en construcción (avanzado)",
+                           "Procesos constructivos y control de calidad (avanzado)",
+                           "Normativa técnica y RNE (avanzado)",
+                           "Auditorías y acciones correctivas (avanzado)",
+                           "Dossiers, ITP y protocolos (avanzado)",
+                           "BIM / VDC y gestión colaborarativa (intermedio)",
+                           "Ingreso a planilla desde el primer día, con todos los"
+                       ],
+        "funciones":  [
+                          "Definir y actualizar estándares y procedimientos corporativos de calidad",
+                          "Supervisar proyectos mediante visitas, auditorías e indicadores",
+                          "Revisar planes de calidad, ITP, protocolos y criterios de liberación críticos",
+                          "Consolidar y analizar indicadores de calidad de todas las obras",
+                          "Dar seguimiento a no conformidades relevantes y acciones correctivas",
+                          "Asegurar el avance y estandarización de dossiers de calidad",
+                          "Brindar soporte técnico a responsables de calidad ante casos complejos",
+                          "Coordinar lecciones aprendidas y buenas prácticas entre proyectos",
+                          "Verificar muestras, mockups y aprobaciones de materiales críticos",
+                          "Preparar reportes ejecutivos y alertas para Jefatura de Operaciones"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "EPS Pacífico cubierta al 50 % (opcional)",
+                           "Oportunidades de crecimiento y línea de carrera en el sector inmobiliario",
+                           "Grato ambiente laboral, con un equipo comprometido y profesional"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-calidad-abril-grupo-inmobiliario-1118481271.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-calidad-abril-grupo-inmobiliario-1118481271.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLiderar y estandarizar la gestión de calidad de los proyectos, asegurando criterios homogéneos de control, liberación y documentación. Supervisar el desempeño de las obras, identificar riesgos, promover acciones correctivas y mejora continua, sin sustituir la responsabilidad operativa del equipo de cada proyecto.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDefinir y actualizar estándares y procedimientos corporativos de calidad.\u003c/li\u003e \u003cli\u003eSupervisar proyectos mediante visitas, auditorías e indicadores.\u003c/li\u003e \u003cli\u003eRevisar planes de calidad, ITP, protocolos y criterios de liberación críticos.\u003c/li\u003e \u003cli\u003eConsolidar y analizar indicadores de calidad de todas las obras.\u003c/li\u003e \u003cli\u003eDar seguimiento a no conformidades relevantes y acciones correctivas.\u003c/li\u003e \u003cli\u003eAsegurar el avance y estandarización de dossiers de calidad.\u003c/li\u003e \u003cli\u003eBrindar soporte técnico a responsables de calidad ante casos complejos.\u003c/li\u003e \u003cli\u003eCoordinar lecciones aprendidas y buenas prácticas entre proyectos.\u003c/li\u003e \u003cli\u003eVerificar muestras, mockups y aprobaciones de materiales críticos.\u003c/li\u003e \u003cli\u003ePreparar reportes ejecutivos y alertas para Jefatura de Operaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eArquitecto titulado o Ingeniero Civil titulado.\u003c/li\u003e \u003cli\u003e5 años de experiencia en empresas del rubro de la construcción.\u003c/li\u003e \u003cli\u003eExperiencia específica en protocolos multifamilaires y ensayos de obra.\u003c/li\u003e \u003cli\u003eGestión de calidad en construcción (avanzado).\u003c/li\u003e \u003cli\u003eProcesos constructivos y control de calidad (avanzado).\u003c/li\u003e \u003cli\u003eNormativa técnica y RNE (avanzado).\u003c/li\u003e \u003cli\u003eAuditorías y acciones correctivas (avanzado).\u003c/li\u003e \u003cli\u003eDossiers, ITP y protocolos (avanzado).\u003c/li\u003e \u003cli\u003eBIM / VDC y gestión colaborarativa (intermedio).\u003c/li\u003e\u003c/ul\u003e \u003cul\u003e  \u003cli\u003eIngreso a planilla desde el primer día, con todos los beneficios de ley.\u003c/li\u003e  \u003cli\u003eEPS Pacífico cubierta al 50 % (opcional).\u003c/li\u003e  \u003cli\u003eOportunidades de crecimiento y línea de carrera en el sector inmobiliario.\u003c/li\u003e  \u003cli\u003eGrato ambiente laboral, con un equipo comprometido y profesional.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481268",
+        "clave":  "id:1118481268",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-obra-abril-grupo-inmobiliario-1118481268.html",
+                       "capturadoEn":  "2026-10-16T05:52:36+00:00"
+                   },
+        "titulo":  "Asistente Técnico Obra",
+        "empresa":  "ABRIL GRUPO INMOBILIARIO",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Misión del Puesto: Brindar soporte técnico a la gestión de Operaciones y a los proyectos, consolidando información de obra, seguimiento de compromisos, control de entregables e indicadores, y facilitando una coordinación oportuna entre oficina y obra para la toma de decisiones. Funciones: Consolidar información técnica y de avance de los proyectos. Dar seguimiento a compromisos y pendientes de reuniones de Operaciones. Apoyar en reportes ejecutivos de plazo, producción, calidad, seguridad e instalaciones. Mantener actualizadas matrices de seguimiento e hitos de obra. Apoyar en la revisión de cronogramas, lookahead y restricciones. Coordinar la recopilación de información requerida por Operaciones y Superintendencia. Dar seguimiento a requerimientos técnicos transversales entre obra y áreas de soporte. Preparar minutas y control de acuerdos de reuniones operativas. Participar en visitas de obra y registrar hallazgos o necesidades de soporte. Mantener trazabilidad de indicadores y entregables técnicos. Requisitos: Técnico profesional en Edificaciones o carreras afines. Experiencia mínima de 2 años en proyectos inmobiliarios multifamiliares MS Office, MS Project, AutoCAD, lectura de planos Conocimiento actualizado del Reglamento Nacional de Edificaciones. Conocimiento de estructuras, instalaciones sanitarias, eléctricas, mecánicas y de gas. Ingreso a planilla desde el primer día, con todos los beneficios de ley. EPS Pacífico cubierta al 50 % (opcional). Oportunidades de crecimiento y línea de carrera en el sector inmobiliario. Grato ambiente laboral, con un equipo comprometido y profesional.",
+        "requisitos":  [
+                           "Técnico profesional en Edificaciones o carreras afines",
+                           "Experiencia mínima de 2 años en proyectos inmobiliarios multifamiliares",
+                           "MS Office, MS Project, AutoCAD, lectura de planos",
+                           "Conocimiento actualizado del Reglamento Nacional de Edificaciones",
+                           "Conocimiento de estructuras, instalaciones sanitarias, eléctricas, mecánicas y de gas",
+                           "Ingreso a planilla desde el primer día, con todos los"
+                       ],
+        "funciones":  [
+                          "Consolidar información técnica y de avance de los proyectos",
+                          "Dar seguimiento a compromisos y pendientes de reuniones de Operaciones",
+                          "Apoyar en reportes ejecutivos de plazo, producción, calidad, seguridad e instalaciones",
+                          "Mantener actualizadas matrices de seguimiento e hitos de obra",
+                          "Apoyar en la revisión de cronogramas, lookahead y restricciones",
+                          "Coordinar la recopilación de información requerida por Operaciones y Superintendencia",
+                          "Dar seguimiento a requerimientos técnicos transversales entre obra y áreas de soporte",
+                          "Preparar minutas y control de acuerdos de reuniones operativas",
+                          "Participar en visitas de obra y registrar hallazgos o necesidades de soporte",
+                          "Mantener trazabilidad de indicadores y entregables técnicos"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "EPS Pacífico cubierta al 50 % (opcional)",
+                           "Oportunidades de crecimiento y línea de carrera en el sector inmobiliario",
+                           "Grato ambiente laboral, con un equipo comprometido y profesional"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-obra-abril-grupo-inmobiliario-1118481268.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-tecnico-obra-abril-grupo-inmobiliario-1118481268.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eMisión del Puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBrindar soporte técnico a la gestión de Operaciones y a los proyectos, consolidando información de obra, seguimiento de compromisos, control de entregables e indicadores, y facilitando una coordinación oportuna entre oficina y obra para la toma de decisiones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConsolidar información técnica y de avance de los proyectos.\u003c/li\u003e \u003cli\u003eDar seguimiento a compromisos y pendientes de reuniones de Operaciones.\u003c/li\u003e \u003cli\u003eApoyar en reportes ejecutivos de plazo, producción, calidad, seguridad e instalaciones.\u003c/li\u003e \u003cli\u003eMantener actualizadas matrices de seguimiento e hitos de obra.\u003c/li\u003e \u003cli\u003eApoyar en la revisión de cronogramas, lookahead y restricciones.\u003c/li\u003e \u003cli\u003eCoordinar la recopilación de información requerida por Operaciones y Superintendencia.\u003c/li\u003e \u003cli\u003eDar seguimiento a requerimientos técnicos transversales entre obra y áreas de soporte.\u003c/li\u003e \u003cli\u003ePreparar minutas y control de acuerdos de reuniones operativas.\u003c/li\u003e \u003cli\u003eParticipar en visitas de obra y registrar hallazgos o necesidades de soporte.\u003c/li\u003e \u003cli\u003eMantener trazabilidad de indicadores y entregables técnicos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico profesional en Edificaciones o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en proyectos inmobiliarios multifamiliares\u003c/li\u003e \u003cli\u003eMS Office, MS Project, AutoCAD, lectura de planos\u003c/li\u003e \u003cli\u003eConocimiento actualizado del Reglamento Nacional de Edificaciones.\u003c/li\u003e \u003cli\u003eConocimiento de estructuras, instalaciones sanitarias, eléctricas, mecánicas y de gas.\u003c/li\u003e\u003c/ul\u003e \u003cul\u003e  \u003cli\u003eIngreso a planilla desde el primer día, con todos los beneficios de ley.\u003c/li\u003e  \u003cli\u003eEPS Pacífico cubierta al 50 % (opcional).\u003c/li\u003e  \u003cli\u003eOportunidades de crecimiento y línea de carrera en el sector inmobiliario.\u003c/li\u003e  \u003cli\u003eGrato ambiente laboral, con un equipo comprometido y profesional.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481265",
+        "clave":  "id:1118481265",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-operaciones-control-operacional-1118481265.html",
+                       "capturadoEn":  "2026-10-16T05:52:39+00:00"
+                   },
+        "titulo":  "Asistente de operaciones (Control operacional)",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - Surquillo",
+        "ciudad":  "Surquillo",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "ASISTENTE DE CONTROL OPERACIONAL Importante empresa del sector retail se encuentra en búsqueda de un profesional orientado al análisis, control y mejora de procesos operativos para integrarse a su equipo de trabajo. Requisitos: Bachiller o titulado(a) en Administración, Ingeniería Industrial o carreras afines. Experiencia mínima de 1 año realizando control de inventarios, auditoría operativa, control interno o gestión de procesos. Experiencia minima de 1 año como Auxiliar o Asistente Manejo de Excel a nivel avanzado. Deseable experiencia en empresas de retail, logística, distribución o consumo masivo. Deseable conocimiento de SAP u otros sistemas ERP. Disponibilidad para laborar de manera presencial. Principales desafíos: Analizar las diferencias de inventario identificadas en los procesos de control y contribuir en la ejecución de acciones correctivas. Monitorear indicadores relacionados con mermas, pérdidas operativas y productividad, identificando oportunidades de mejora. Participar en la ejecución y seguimiento de inventarios cíclicos y generales. Validar la correcta aplicación de procedimientos operativos y controles internos en los diferentes procesos de tienda. Realizar seguimiento a observaciones detectadas durante auditorías internas y revisiones operativas. Elaborar reportes de gestión y análisis de información para la toma de decisiones. Revisar movimientos de mercadería y asegurar la consistencia de la información registrada en los sistemas de control. Coordinar con las distintas áreas operativas para asegurar el cumplimiento de planes de acción y medidas preventivas. Participar en iniciativas orientadas a la optimización de procesos y reducción de riesgos operativos. Beneficios: Ingreso a planilla con todos los beneficios de ley. Beneficios corporativos.",
+        "requisitos":  [
+                           "Bachiller o titulado(a) en Administración, Ingeniería Industrial o carreras afines",
+                           "Experiencia mínima de 1 año realizando control de inventarios, auditoría operativa, control interno o gestión de procesos",
+                           "Experiencia minima de 1 año como Auxiliar o Asistente",
+                           "Manejo de Excel a nivel avanzado",
+                           "Deseable experiencia en empresas de retail, logística, distribución o consumo masivo",
+                           "Deseable conocimiento de SAP u otros sistemas ERP",
+                           "Disponibilidad para laborar de manera presencial",
+                           "Principales desafíos",
+                           "Analizar las diferencias de inventario identificadas en los procesos de control y contribuir en la ejecución de acciones correctivas",
+                           "Monitorear indicadores relacionados con mermas, pérdidas operativas y productividad, identificando oportunidades de mejora",
+                           "Participar en la ejecución y seguimiento de inventarios cíclicos y generales",
+                           "Validar la correcta aplicación de procedimientos operativos y controles internos en los diferentes procesos de tienda",
+                           "Realizar seguimiento a observaciones detectadas durante auditorías internas y revisiones operativas",
+                           "Elaborar reportes de gestión y análisis de información para la toma de decisiones",
+                           "Revisar movimientos de mercadería y asegurar la consistencia de la información registrada en los sistemas de control",
+                           "Coordinar con las distintas áreas operativas para asegurar el cumplimiento de planes de acción y medidas preventivas",
+                           "Participar en iniciativas orientadas a la optimización de procesos y reducción de riesgos operativos"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-operaciones-control-operacional-1118481265.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-operaciones-control-operacional-1118481265.html",
+        "descripcion_html":  "\u003cp\u003eASISTENTE DE CONTROL OPERACIONAL\u003c/p\u003e\u003cp\u003eImportante empresa del sector retail se encuentra en búsqueda de un profesional orientado al análisis, control y mejora de procesos operativos para integrarse a su equipo de trabajo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado(a) en Administración, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año realizando control de inventarios, auditoría operativa, control interno o gestión de procesos.\u003c/li\u003e \u003cli\u003eExperiencia minima de 1 año como Auxiliar o Asistente\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel avanzado.\u003c/li\u003e \u003cli\u003eDeseable experiencia en empresas de retail, logística, distribución o consumo masivo.\u003c/li\u003e \u003cli\u003eDeseable conocimiento de SAP u otros sistemas ERP.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de manera presencial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePrincipales desafíos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAnalizar las diferencias de inventario identificadas en los procesos de control y contribuir en la ejecución de acciones correctivas.\u003c/li\u003e \u003cli\u003eMonitorear indicadores relacionados con mermas, pérdidas operativas y productividad, identificando oportunidades de mejora.\u003c/li\u003e \u003cli\u003eParticipar en la ejecución y seguimiento de inventarios cíclicos y generales.\u003c/li\u003e \u003cli\u003eValidar la correcta aplicación de procedimientos operativos y controles internos en los diferentes procesos de tienda.\u003c/li\u003e \u003cli\u003eRealizar seguimiento a observaciones detectadas durante auditorías internas y revisiones operativas.\u003c/li\u003e \u003cli\u003eElaborar reportes de gestión y análisis de información para la toma de decisiones.\u003c/li\u003e \u003cli\u003eRevisar movimientos de mercadería y asegurar la consistencia de la información registrada en los sistemas de control.\u003c/li\u003e \u003cli\u003eCoordinar con las distintas áreas operativas para asegurar el cumplimiento de planes de acción y medidas preventivas.\u003c/li\u003e \u003cli\u003eParticipar en iniciativas orientadas a la optimización de procesos y reducción de riesgos operativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eBeneficios corporativos.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481261",
+        "clave":  "id:1118481261",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-abancay-ref-1708-2026-caja-cusco-1118481261.html",
+                       "capturadoEn":  "2026-10-16T05:52:42+00:00"
+                   },
+        "titulo":  "ANALISTA DE CRÉDITOS ABANCAY / REF 1708 2026",
+        "empresa":  "CAJA CUSCO",
+        "ubicacion":  "Apurimac - Abancay",
+        "ciudad":  "Abancay",
+        "region":  "Apurimac",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1230,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/. 1230",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "ANALISTA DE CRÉDITOS - ABANCAY Responsabilidades Colocar créditos considerando las políticas, normas internas y metas establecidas, participando en todas sus etapas desde la promoción hasta el desembolso del crédito; así como la custodia de los expedientes. Realizar seguimiento y recuperación del pago de los créditos otorgados para controlar la mora. Competencias Pensamiento Analítico. Negociación Efectiva. Orientación a Resultados. Orientación al Cliente. Trabajo Bajo Presión. Requisitos: Requisitos Mínimos Formación: Estudios truncos, Profesional Técnico, Egresado, Bachiller de cualquier especialidad de Institutos o Universidades. Experiencia: Analista de Créditos con categoría superior a junior: Un (01) año de experiencia como Analista de Créditos en empresas del Sistema Financiero. Analista de Créditos junior: Sin experiencia Otros requeridos para el puesto: Deseable: Curso de Especialización relacionado al cargo de mínimo veinticuatro (24) horas lectivas. Fecha límite de postulación: Domingo, 18 de octubre del 2026 Beneficios Remuneración fija + Bono por movilidad + Comisión variable por cumplimiento de metas. Oportunidad de Línea de carrera. Ingreso a planilla con todos los beneficios de ley. Opcional: Acceso a seguro privado de salud.",
+        "requisitos":  [
+                           "Mínimos",
+                           "Formación",
+                           "Estudios truncos, Profesional Técnico, Egresado, Bachiller de cualquier especialidad de Institutos o Universidades",
+                           "Experiencia",
+                           "Analista de Créditos con categoría superior a junior: Un (01) año de experiencia como Analista de Créditos en empresas del Sistema Financiero",
+                           "Analista de Créditos junior: Sin experiencia",
+                           "Otros requeridos para el puesto",
+                           "Deseable: Curso de Especialización relacionado al cargo de mínimo veinticuatro (24) horas lectivas",
+                           "Fecha límite de postulación: Domingo, 18 de octubre del 2026"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Opcional: Acceso a seguro privado de salud"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-abancay-ref-1708-2026-caja-cusco-1118481261.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-abancay-ref-1708-2026-caja-cusco-1118481261.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eANALISTA DE CRÉDITOS - ABANCAY\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eColocar créditos considerando las políticas, normas internas y metas establecidas, participando en todas sus etapas desde la promoción hasta el desembolso del crédito; así como la custodia de los expedientes.\u003c/li\u003e \u003cli\u003eRealizar seguimiento y recuperación del pago de los créditos otorgados para controlar la mora.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePensamiento Analítico.\u003c/li\u003e \u003cli\u003eNegociación Efectiva.\u003c/li\u003e \u003cli\u003eOrientación a Resultados.\u003c/li\u003e \u003cli\u003eOrientación al Cliente.\u003c/li\u003e \u003cli\u003eTrabajo Bajo Presión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos Mínimos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFormación:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios truncos, Profesional Técnico, Egresado, Bachiller de cualquier especialidad de Institutos o Universidades.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAnalista de Créditos con categoría superior a junior: Un (01) año de experiencia como Analista de Créditos en empresas del Sistema Financiero.\u003c/li\u003e \u003cli\u003eAnalista de Créditos junior: Sin experiencia\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOtros requeridos para el puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDeseable: Curso de Especialización relacionado al cargo de mínimo veinticuatro (24) horas lectivas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFecha límite de postulación:\u003c/strong\u003e Domingo, 18 de octubre del 2026\u003c/p\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración fija + Bono por movilidad + Comisión variable por cumplimiento de metas.\u003c/li\u003e \u003cli\u003eOportunidad de Línea de carrera.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eOpcional: Acceso a seguro privado de salud.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "* Estudios truncos, Profesional Técnico, Egresado, Bachiller de cualquier especialidad de Institutos o Universidades",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481260",
+        "clave":  "id:1118481260",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-mantenimiento-predictivo-planta-concentradora-um-yanacocha-confipetrol-andina-s.a.-1118481260.html",
+                       "capturadoEn":  "2026-10-16T05:52:45+00:00"
+                   },
+        "titulo":  "Ingeniero de Mantenimiento Predictivo / Planta Concentradora / UM Yanacocha",
+        "empresa":  "CONFIPETROL ANDINA S.A.",
+        "ubicacion":  "Cajamarca",
+        "ciudad":  "Cajamarca",
+        "region":  "Cajamarca",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos una empresa líder en la prestación de soluciones integrales en Operación y Mantenimiento de las diferentes unidades mineras a nivel nacional. Como parte de nuestro crecimiento de operaciones nos encontramos en la búsqueda de un: INGENIERO DE INSPECCIONES Y MANTENIMIENTO PREDICTIVO Unidad Minera Yanacocha - Cajamarca REQUISITOS: Ingeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica, Mecánica Eléctrica, Eléctrica o afines. Experiencia mínima de 5 años desempeñando funciones relacionadas con inspecciones, monitoreo de condición, mantenimiento predictivo o gestión de activos en operaciones mineras. Experiencia en implementación y desarrollo de estrategias de mantenimiento basadas en confiabilidad y monitoreo de condición. Conocimiento y experiencia en SAP PM (Indispensable) . Manejo de Microsoft Office a nivel avanzado . Conocimiento en gestión de datos maestros de mantenimiento y estructuras de activos. Deseable experiencia en equipos mecánicos, eléctricos e instrumentación de planta minera. Disponibilidad para laborar en régimen minero. FUNCIONES: Consolidar las actividades de inspección, monitoreo de condición y mantenimiento predictivo de los activos definidos en el alcance del proyecto. Desarrollar Task Lists de inspección y mantenimiento predictivo conforme a los criterios, estándares y estrategias definidos por Yanacocha. Completar la información técnica y formatos requeridos para la implementación y carga de datos en SAP PM. Verificar la consistencia de la información respecto a la criticidad de los equipos, estrategia de mantenimiento y contexto operativo. Identificar insumos, materiales y consumibles asociados a las rutas de inspección y monitoreo de condición. Participar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias. Gestionar el cierre de observaciones y asegurar la calidad de la información desarrollada. Apoyar en la preparación y validación de la documentación requerida para el proceso de handover. Mantener la trazabilidad, integridad y consistencia de la información técnica generada durante el proyecto. Cumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación. BENEFICIOS: Ingreso en Planilla con todos los beneficios de ley desde el primer día de trabajo. Remuneración acorde al mercado. Alimentación y alojamiento cubiertos durante el régimen de trabajo. Capacitación constante y desarrollo profesional. Descuentos corporativos. \"Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\" \"Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\"",
+        "requisitos":  [
+                           "Ingeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica, Mecánica Eléctrica, Eléctrica o afines",
+                           "Experiencia mínima de 5 años desempeñando"
+                       ],
+        "funciones":  [
+                          "Consolidar las actividades de inspección, monitoreo de condición y mantenimiento predictivo de los activos definidos en el alcance del proyecto",
+                          "Desarrollar Task Lists de inspección y mantenimiento predictivo conforme a los criterios, estándares y estrategias definidos por Yanacocha",
+                          "Completar la información técnica y formatos requeridos para la implementación y carga de datos en SAP PM",
+                          "Verificar la consistencia de la información respecto a la criticidad de los equipos, estrategia de mantenimiento y contexto operativo",
+                          "Identificar insumos, materiales y consumibles asociados a las rutas de inspección y monitoreo de condición",
+                          "Participar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias",
+                          "Gestionar el cierre de observaciones y asegurar la calidad de la información desarrollada",
+                          "Apoyar en la preparación y validación de la documentación requerida para el proceso de handover",
+                          "Mantener la trazabilidad, integridad y consistencia de la información técnica generada durante el proyecto",
+                          "Cumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación"
+                      ],
+        "beneficios":  [
+                           "de ley desde el primer día de trabajo",
+                           "Remuneración acorde al mercado",
+                           "Alimentación y alojamiento cubiertos durante el régimen de trabajo",
+                           "Capacitación constante y desarrollo profesional",
+                           "Descuentos corporativos",
+                           "\"Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\"",
+                           "\"Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\""
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-mantenimiento-predictivo-planta-concentradora-um-yanacocha-confipetrol-andina-s.a.-1118481260.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-mantenimiento-predictivo-planta-concentradora-um-yanacocha-confipetrol-andina-s.a.-1118481260.html",
+        "descripcion_html":  "\u003cp\u003eSomos una empresa líder en la prestación de soluciones integrales en Operación y Mantenimiento de las diferentes unidades mineras a nivel nacional. Como parte de nuestro crecimiento de operaciones nos encontramos en la búsqueda de un:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eINGENIERO DE INSPECCIONES Y MANTENIMIENTO PREDICTIVO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUnidad Minera Yanacocha - Cajamarca\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica, Mecánica Eléctrica, Eléctrica o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u003cstrong\u003e5 años\u003c/strong\u003e desempeñando funciones relacionadas con inspecciones, monitoreo de condición, mantenimiento predictivo o gestión de activos en operaciones mineras.\u003c/li\u003e \u003cli\u003eExperiencia en implementación y desarrollo de estrategias de mantenimiento basadas en confiabilidad y monitoreo de condición.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en \u003cstrong\u003eSAP PM (Indispensable)\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eManejo de \u003cstrong\u003eMicrosoft Office a nivel avanzado\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eConocimiento en gestión de datos maestros de mantenimiento y estructuras de activos.\u003c/li\u003e \u003cli\u003eDeseable experiencia en equipos mecánicos, eléctricos e instrumentación de planta minera.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en régimen minero.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConsolidar las actividades de inspección, monitoreo de condición y mantenimiento predictivo de los activos definidos en el alcance del proyecto.\u003c/li\u003e \u003cli\u003eDesarrollar Task Lists de inspección y mantenimiento predictivo conforme a los criterios, estándares y estrategias definidos por Yanacocha.\u003c/li\u003e \u003cli\u003eCompletar la información técnica y formatos requeridos para la implementación y carga de datos en SAP PM.\u003c/li\u003e \u003cli\u003eVerificar la consistencia de la información respecto a la criticidad de los equipos, estrategia de mantenimiento y contexto operativo.\u003c/li\u003e \u003cli\u003eIdentificar insumos, materiales y consumibles asociados a las rutas de inspección y monitoreo de condición.\u003c/li\u003e \u003cli\u003eParticipar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias.\u003c/li\u003e \u003cli\u003eGestionar el cierre de observaciones y asegurar la calidad de la información desarrollada.\u003c/li\u003e \u003cli\u003eApoyar en la preparación y validación de la documentación requerida para el proceso de handover.\u003c/li\u003e \u003cli\u003eMantener la trazabilidad, integridad y consistencia de la información técnica generada durante el proyecto.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso en Planilla con todos los beneficios de ley desde el primer día de trabajo.\u003c/li\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eAlimentación y alojamiento cubiertos durante el régimen de trabajo.\u003c/li\u003e \u003cli\u003eCapacitación constante y desarrollo profesional.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u0026quot;Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\u0026quot;\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u0026quot;Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\u0026quot;\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481259",
+        "clave":  "id:1118481259",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-corporativo-sector-minero-rwl-water-sociedad-anonima-cerrada-rwl-water-s.a.c.-1118481259.html",
+                       "capturadoEn":  "2026-10-16T05:52:49+00:00"
+                   },
+        "titulo":  "SUPERVISOR CORPORATIVO -SECTOR MINERO",
+        "empresa":  "RWL WATER SOCIEDAD ANONIMA CERRADA - RWL WATER S.A.C.",
+        "ubicacion":  "Lima - Santiago de Surco",
+        "ciudad":  "Santiago de Surco",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "RWL WATER SAC es una empresa líder en el desarrollo de soluciones innovadoras y de alto valor en tratamiento de aguas potables y residuales a nivel industrial . Nos encontramos en crecimiento y buscamos integrar a nuestro equipo a (1) PUESTO: SUPERVISOR CORPORATIVO -SECTOR MINERO (01 VACANTE) Requisitos: Profesional titulado, colegiado y habilitado de las carreras de: Ing. Química, ambiental, industrial, sanitaria Experiencia mínima 5 años en sector de tratamiento de agua Mina PTAM PTAP PTAR Experiencia General mínimo 5 años en sector de tratamiento de agua Sólidos conocimientos de Operación y Mantenimiento de PTAR PTAP PTAM Sólidos conocimientos de valorizaciones económicas Manejo de equipo Funciones principales: Auditar internamente y asegurar la mejora continua de Operación y Mantenimiento de operaciones asignadas Asegurar la ejecución de presupuesto O\u0026M Valorizar económicamente cada operación asignada Competencias valoradas: Iniciativa. Proactividad. Compromiso.",
+        "requisitos":  [
+                           "Profesional titulado, colegiado y habilitado de las carreras de: Ing. Química, ambiental, industrial, sanitaria",
+                           "Experiencia mínima 5 años en sector de tratamiento de agua Mina PTAM PTAP PTAR",
+                           "Experiencia General mínimo 5 años en sector de tratamiento de agua",
+                           "Sólidos conocimientos de Operación y Mantenimiento de PTAR PTAP PTAM",
+                           "Sólidos conocimientos de valorizaciones económicas",
+                           "Manejo de equipo"
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Auditar internamente y asegurar la mejora continua de Operación y Mantenimiento de operaciones asignadas",
+                          "Asegurar la ejecución de presupuesto O\u0026M",
+                          "Valorizar económicamente cada operación asignada",
+                          "Competencias valoradas",
+                          "Iniciativa",
+                          "Proactividad",
+                          "Compromiso"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/supervisor-corporativo-sector-minero-rwl-water-sociedad-anonima-cerrada-rwl-water-s.a.c.-1118481259.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-corporativo-sector-minero-rwl-water-sociedad-anonima-cerrada-rwl-water-s.a.c.-1118481259.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRWL WATER SAC\u003c/strong\u003ees una empresa líder en el desarrollo de soluciones innovadoras y de alto valor en \u003cstrong\u003etratamiento de aguas potables y residuales a nivel industrial\u003c/strong\u003e. Nos encontramos en crecimiento y buscamos integrar a nuestro equipo a (1)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePUESTO: SUPERVISOR CORPORATIVO -SECTOR MINERO (01 VACANTE)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eProfesional titulado, colegiado y habilitado de las carreras de: Ing. Química, ambiental, industrial, sanitaria\u003c/p\u003e\u003cp\u003eExperiencia mínima 5 años en sector de tratamiento de agua Mina PTAM PTAP PTAR\u003c/p\u003e\u003cp\u003eExperiencia General mínimo 5 años en sector de tratamiento de agua\u003c/p\u003e\u003cp\u003eSólidos conocimientos de Operación y Mantenimiento de PTAR PTAP PTAM\u003c/p\u003e\u003cp\u003eSólidos conocimientos de valorizaciones económicas\u003c/p\u003e\u003cp\u003eManejo de equipo\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAuditar internamente y asegurar la mejora continua de Operación y Mantenimiento de operaciones asignadas\u003c/p\u003e\u003cp\u003eAsegurar la ejecución de presupuesto O\u0026M\u003c/p\u003e\u003cp\u003eValorizar económicamente cada operación asignada\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCompetencias valoradas:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIniciativa.\u003c/li\u003e \u003cli\u003eProactividad.\u003c/li\u003e \u003cli\u003eCompromiso.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481254",
+        "clave":  "id:1118481254",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/senior-integration-developer-health-ti-eurofirms-group-1118481254.html",
+                       "capturadoEn":  "2026-10-16T05:52:50+00:00"
+                   },
+        "titulo":  "Senior Integration Developer - Health TI",
+        "empresa":  "Eurofirms Group",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2100,
+                        "max":  2100,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "s/2100",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "En Eurofirms Group, creemos en el liderazgo por valores y el crecimiento continuo, poniendo a las personas y su desarrollo profesional primero, potenciando un ambiente de trabajo positivo y colaborativo. Actualmente, nos encontramos en búsqueda de Ingeniero Senior de Integración de Datos - Sector Salud para importante empresa del sector Salud y Tecnología. Funciones principales: Liderar el diseño, implementación, mantenimiento y escalamiento de integraciones de datos entre plataformas internas, socios estratégicos del sector salud y sistemas externos, garantizando flujos de información confiables, seguros y de alta disponibilidad. Gestionar integraciones con organizaciones de salud, aseguradoras (Payers), TPA (Third Party Administrators), plataformas de beneficios, proveedores de tecnología médica (HealthTech) y sistemas clínicos mediante APIs, intercambio de archivos y arquitecturas orientadas a eventos. Diseñar e implementar procesos de integración de datos de proveedores médicos, redes de atención y datos de referencia, estableciendo estándares escalables para su administración y mantenimiento. Analizar, transformar y validar información relacionada con afiliaciones, elegibilidad, reclamaciones médicas (Claims), proveedores y redes médicas, asegurando integridad, consistencia y calidad de los datos. Desarrollar y optimizar consultas SQL, procesos ETL/ELT y mecanismos de integración que permitan una gestión eficiente de grandes volúmenes de información. Diseñar e implementar controles de calidad de datos, reglas de validación, monitoreo, alertamiento y mecanismos de trazabilidad que garanticen la confiabilidad operativa de los procesos de integración. Supervisar la operación de las integraciones en ambientes productivos, identificando, diagnosticando y resolviendo incidentes técnicos de manera oportuna. Participar activamente en la definición de arquitecturas de integración modernas basadas en APIs, procesamiento de archivos, servicios cloud y arquitecturas orientadas a eventos. Colaborar estrechamente con equipos de Producto, Ingeniería, Operaciones y stakeholders del negocio para traducir requerimientos del sector salud en soluciones técnicas escalables y sostenibles. Liderar iniciativas de mejora continua orientadas a la automatización, eficiencia operativa, observabilidad y optimización de procesos de integración. Implementar y promover buenas prácticas de gobernanza de datos, documentación técnica, seguridad de la información y cumplimiento de estándares de la industria de salud. Utilizar herramientas de desarrollo asistidas por inteligencia artificial para acelerar la construcción de integraciones, validación de datos, análisis de incidentes, documentación técnica y soporte operativo, manteniendo siempre la responsabilidad técnica sobre la calidad y confiabilidad de las soluciones implementadas. Brindar mentoría técnica a ingenieros del equipo, fomentando el crecimiento profesional y contribuyendo a la construcción y consolidación de la función de Data Integration dentro de la organización. Documentar arquitecturas, flujos de integración, especificaciones funcionales, procedimientos operativos y planes de contingencia para garantizar la continuidad operativa y la transferencia de conocimiento. Requisitos: Bachiller o Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software, Ciencias de la Computación, Ingeniería de Datos o carreras afines. Mínimo 5 años de experiencia en posiciones de Software Engineering, Data Engineering, Integration Engineering o roles similares. Experiencia comprobada trabajando con ecosistemas de salud de Estados Unidos, incluyendo aseguradoras (Payers), TPA, plataformas de beneficios,proveedores HealthTech, EHRs o integraciones de salud.Dominio avanzado de SQL para análisis, transformación y validación de datos. Experiencia en diseño e integración mediante APIs REST.Experiencia integrando sistemas externos a través de APIs, intercambio de archivos (SFTP, CSV, JSON, XML u otros formatos) y arquitecturas orientadas a eventos. Conocimiento sólido de datos de elegibilidad, reclamaciones médicas (Claims), información de proveedores médicos y redes de atención. Experiencia en monitoreo, validación, control de calidad de datos y soporte de procesos de integración en producción. Experiencia en resolución de incidentes, análisis de datos y aseguramiento de la calidad de la información.Inglés avanzado y fluidez para comunicarse con equipos y stakeholders ubicados en Estados Unidos. Experiencia trabajando en entornos colaborativos multidisciplinarios y metodologías ágiles. Beneficios: Remuneración acorde al mercado.Modalidad híbrida (1 vez por semana presencial en Miraflores) / iniciamos en virtual. Contrato por 01 año y pagos por Recibo por honorarios. Horario: Lunes a Viernes 9:00 am a 6:00 pm",
+        "requisitos":  [
+                           "Bachiller o Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software, Ciencias de la Computación, Ingeniería de Datos o carreras afines",
+                           "Mínimo 5 años de experiencia en posiciones de Software Engineering, Data Engineering, Integration Engineering o roles similares",
+                           "Experiencia comprobada trabajando con ecosistemas de salud de Estados Unidos, incluyendo aseguradoras (Payers), TPA, plataformas de"
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Liderar el diseño, implementación, mantenimiento y escalamiento de integraciones de datos entre plataformas internas, socios estratégicos del sector salud y sistemas externos, garantizando flujos de información confiables, seguros y de alta disponibilidad",
+                          "Gestionar integraciones con organizaciones de salud, aseguradoras (Payers), TPA (Third Party Administrators), plataformas de"
+                      ],
+        "beneficios":  [
+                           "Remuneración acorde al mercado.Modalidad híbrida (1 vez por semana presencial en Miraflores) / iniciamos en virtual",
+                           "Contrato por 01 año y pagos por Recibo por honorarios",
+                           "Horario: Lunes a Viernes 9:00 am a 6:00 pm"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/senior-integration-developer-health-ti-eurofirms-group-1118481254.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/senior-integration-developer-health-ti-eurofirms-group-1118481254.html",
+        "descripcion_html":  "\u003cp\u003eEn Eurofirms Group, creemos en el liderazgo por valores y el crecimiento continuo, poniendo a las personas y su desarrollo profesional primero, potenciando un ambiente de trabajo positivo y colaborativo.\u003c/p\u003e\u003cp\u003eActualmente, nos encontramos en búsqueda de\u003cstrong\u003e Ingeniero Senior de Integración de Datos - Sector Salud \u003c/strong\u003epara importante empresa del sector Salud y Tecnología. \u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar el diseño, implementación, mantenimiento y escalamiento de integraciones de datos entre plataformas internas, socios estratégicos del sector salud y sistemas externos, garantizando flujos de información confiables, seguros y de alta disponibilidad.\u003c/li\u003e \u003cli\u003eGestionar integraciones con organizaciones de salud, aseguradoras (Payers), TPA (Third Party Administrators), plataformas de beneficios, proveedores de tecnología médica (HealthTech) y sistemas clínicos mediante APIs, intercambio de archivos y arquitecturas orientadas a eventos.\u003c/li\u003e \u003cli\u003eDiseñar e implementar procesos de integración de datos de proveedores médicos, redes de atención y datos de referencia, estableciendo estándares escalables para su administración y mantenimiento.\u003c/li\u003e \u003cli\u003eAnalizar, transformar y validar información relacionada con afiliaciones, elegibilidad, reclamaciones médicas (Claims), proveedores y redes médicas, asegurando integridad, consistencia y calidad de los datos.\u003c/li\u003e \u003cli\u003eDesarrollar y optimizar consultas SQL, procesos ETL/ELT y mecanismos de integración que permitan una gestión eficiente de grandes volúmenes de información.\u003c/li\u003e \u003cli\u003eDiseñar e implementar controles de calidad de datos, reglas de validación, monitoreo, alertamiento y mecanismos de trazabilidad que garanticen la confiabilidad operativa de los procesos de integración.\u003c/li\u003e \u003cli\u003eSupervisar la operación de las integraciones en ambientes productivos, identificando, diagnosticando y resolviendo incidentes técnicos de manera oportuna.\u003c/li\u003e \u003cli\u003eParticipar activamente en la definición de arquitecturas de integración modernas basadas en APIs, procesamiento de archivos, servicios cloud y arquitecturas orientadas a eventos.\u003c/li\u003e \u003cli\u003eColaborar estrechamente con equipos de Producto, Ingeniería, Operaciones y stakeholders del negocio para traducir requerimientos del sector salud en soluciones técnicas escalables y sostenibles.\u003c/li\u003e \u003cli\u003eLiderar iniciativas de mejora continua orientadas a la automatización, eficiencia operativa, observabilidad y optimización de procesos de integración.\u003c/li\u003e \u003cli\u003eImplementar y promover buenas prácticas de gobernanza de datos, documentación técnica, seguridad de la información y cumplimiento de estándares de la industria de salud.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de desarrollo asistidas por inteligencia artificial para acelerar la construcción de integraciones, validación de datos, análisis de incidentes, documentación técnica y soporte operativo, manteniendo siempre la responsabilidad técnica sobre la calidad y confiabilidad de las soluciones implementadas.\u003c/li\u003e \u003cli\u003eBrindar mentoría técnica a ingenieros del equipo, fomentando el crecimiento profesional y contribuyendo a la construcción y consolidación de la función de Data Integration dentro de la organización.\u003c/li\u003e \u003cli\u003eDocumentar arquitecturas, flujos de integración, especificaciones funcionales, procedimientos operativos y planes de contingencia para garantizar la continuidad operativa y la transferencia de conocimiento. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software, Ciencias de la Computación, Ingeniería de Datos o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 5 años de experiencia en posiciones de Software Engineering, Data Engineering, Integration Engineering o roles similares.\u003c/li\u003e \u003cli\u003eExperiencia comprobada trabajando con ecosistemas de salud de Estados Unidos, incluyendo aseguradoras (Payers), TPA, plataformas de beneficios,proveedores HealthTech, EHRs o integraciones de salud.Dominio avanzado de SQL para análisis, transformación y validación de datos.\u003c/li\u003e \u003cli\u003eExperiencia en diseño e integración mediante APIs REST.Experiencia integrando sistemas externos a través de APIs, intercambio de archivos (SFTP, CSV, JSON, XML u otros formatos) y arquitecturas orientadas a eventos.\u003c/li\u003e \u003cli\u003eConocimiento sólido de datos de elegibilidad, reclamaciones médicas (Claims), información de proveedores médicos y redes de atención.\u003c/li\u003e \u003cli\u003eExperiencia en monitoreo, validación, control de calidad de datos y soporte de procesos de integración en producción.\u003c/li\u003e \u003cli\u003eExperiencia en resolución de incidentes, análisis de datos y aseguramiento de la calidad de la información.Inglés avanzado y fluidez para comunicarse con equipos y stakeholders ubicados en Estados Unidos.\u003c/li\u003e \u003cli\u003eExperiencia trabajando en entornos colaborativos multidisciplinarios y metodologías ágiles. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.Modalidad híbrida (1 vez por semana presencial en Miraflores) / iniciamos en virtual.\u003c/li\u003e \u003cli\u003eContrato por 01 año y pagos por Recibo por honorarios.\u003c/li\u003e \u003cli\u003eHorario: Lunes a Viernes 9:00 am a 6:00 pm\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Lunes a Viernes 9:00 am a 6:00 pm",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481253",
+        "clave":  "id:1118481253",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-seleccion-temporal-1118481253.html",
+                       "capturadoEn":  "2026-10-16T05:52:56+00:00"
+                   },
+        "titulo":  "Auxiliar de Selección (Temporal) - Callao, San Miguel, Los Olivos",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - Callao",
+        "ciudad":  "Callao",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Temporal",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Auxiliar de Selección (Temporal) Nos encontramos en búsqueda de una persona que brinde soporte a los procesos de reclutamiento y selección durante campañas de contratación masiva. Requisitos: Egresado(a) de Psicología, Administración o Recursos Humanos. Experiencia mínima de un año en reclutamiento y selección, preferentemente en procesos masivos. Conocimientos en entrevistas por competencias, evaluación de candidatos y dinámicas grupales. Manejo de Microsoft Office a nivel intermedio: Word, PowerPoint y Excel. Disponibilidad para trabajar de manera 100% presencial en Callao, San Miguel, Los Olivos y desplazarse para desarrollar convocatorias y evaluaciones grupales. Disponibilidad para una contratación temporal por campaña. Disponibilidad inmediata. Funciones: Difundir las oportunidades laborales en portales de empleo y otros canales de reclutamiento, asegurando que los avisos se mantengan vigentes. Coordinar con instituciones y organizaciones locales la captación de postulantes para atender las necesidades de contratación. Revisar los resultados de las evaluaciones psicotécnicas y virtuales para apoyar la continuidad de los candidatos en el proceso. Organizar las citaciones y coordinar la asistencia de postulantes a entrevistas en las sedes asignadas. Mantener actualizados los registros de candidatos y su avance en cada proceso de selección. Desarrollar entrevistas por competencias, dinámicas grupales y evaluaciones de acuerdo con los criterios definidos para cada puesto. Brindar soporte en las actividades del equipo de selección necesarias para cumplir los objetivos de la campaña.",
+        "requisitos":  [
+                           "Egresado(a) de Psicología, Administración o Recursos Humanos",
+                           "Experiencia mínima de un año en reclutamiento y selección, preferentemente en procesos masivos",
+                           "Conocimientos en entrevistas por competencias, evaluación de candidatos y dinámicas grupales",
+                           "Manejo de Microsoft Office a nivel intermedio: Word, PowerPoint y Excel",
+                           "Disponibilidad para trabajar de manera 100% presencial en Callao, San Miguel, Los Olivos y desplazarse para desarrollar convocatorias y evaluaciones grupales",
+                           "Disponibilidad para una contratación temporal por campaña",
+                           "Disponibilidad inmediata"
+                       ],
+        "funciones":  [
+                          "Difundir las oportunidades laborales en portales de empleo y otros canales de reclutamiento, asegurando que los avisos se mantengan vigentes",
+                          "Coordinar con instituciones y organizaciones locales la captación de postulantes para atender las necesidades de contratación",
+                          "Revisar los resultados de las evaluaciones psicotécnicas y virtuales para apoyar la continuidad de los candidatos en el proceso",
+                          "Organizar las citaciones y coordinar la asistencia de postulantes a entrevistas en las sedes asignadas",
+                          "Mantener actualizados los registros de candidatos y su avance en cada proceso de selección",
+                          "Desarrollar entrevistas por competencias, dinámicas grupales y evaluaciones de acuerdo con los criterios definidos para cada puesto",
+                          "Brindar soporte en las actividades del equipo de selección necesarias para cumplir los objetivos de la campaña"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-seleccion-temporal-1118481253.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-seleccion-temporal-1118481253.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAuxiliar de Selección (Temporal)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en búsqueda de una persona que brinde soporte a los procesos de reclutamiento y selección durante campañas de contratación masiva.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) de Psicología, Administración o Recursos Humanos.\u003c/li\u003e \u003cli\u003eExperiencia mínima de un año en reclutamiento y selección, preferentemente en procesos masivos.\u003c/li\u003e \u003cli\u003eConocimientos en entrevistas por competencias, evaluación de candidatos y dinámicas grupales.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Office a nivel intermedio: Word, PowerPoint y Excel.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de manera \u003cstrong\u003e100% presencial en Callao, San Miguel, Los Olivos\u003c/strong\u003e y desplazarse para desarrollar convocatorias y evaluaciones grupales.\u003c/li\u003e \u003cli\u003eDisponibilidad para una contratación temporal por campaña.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDifundir las oportunidades laborales en portales de empleo y otros canales de reclutamiento, asegurando que los avisos se mantengan vigentes.\u003c/li\u003e \u003cli\u003eCoordinar con instituciones y organizaciones locales la captación de postulantes para atender las necesidades de contratación.\u003c/li\u003e \u003cli\u003eRevisar los resultados de las evaluaciones psicotécnicas y virtuales para apoyar la continuidad de los candidatos en el proceso.\u003c/li\u003e \u003cli\u003eOrganizar las citaciones y coordinar la asistencia de postulantes a entrevistas en las sedes asignadas.\u003c/li\u003e \u003cli\u003eMantener actualizados los registros de candidatos y su avance en cada proceso de selección.\u003c/li\u003e \u003cli\u003eDesarrollar entrevistas por competencias, dinámicas grupales y evaluaciones de acuerdo con los criterios definidos para cada puesto.\u003c/li\u003e \u003cli\u003eBrindar soporte en las actividades del equipo de selección necesarias para cumplir los objetivos de la campaña.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481251",
+        "clave":  "id:1118481251",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-electricidad-e-instrumentacion-um-yanacocha-confipetrol-andina-s.a.-1118481251.html",
+                       "capturadoEn":  "2026-10-16T05:52:59+00:00"
+                   },
+        "titulo":  "Ingeniero de Electricidad e Instrumentación / UM Yanacocha",
+        "empresa":  "CONFIPETROL ANDINA S.A.",
+        "ubicacion":  "Cajamarca",
+        "ciudad":  "Cajamarca",
+        "region":  "Cajamarca",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos una empresa líder en la prestación de soluciones integrales en Operación y Mantenimiento de las diferentes unidades mineras a nivel nacional. Como parte de nuestro crecimiento de operaciones nos encontramos en la búsqueda de un: INGENIERO DE ELECTRICIDAD E INSTRUMENTACIÓN Unidad Minera Yanacocha - Cajamarca REQUISITOS: Ingeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica Eléctrica, Eléctrica, Mecánica o afines. Experiencia mínima de 5 años desempeñando funciones relacionadas con mantenimiento eléctrico, instrumentación, automatización o gestión de activos en operaciones mineras. Experiencia en revisión e interpretación de documentación técnica de sistemas eléctricos, control e instrumentación. Conocimiento y experiencia en SAP PM (Indispensable). Manejo de Microsoft Office a nivel avanzado . Experiencia en elaboración de listas de materiales (BOM), identificación de repuestos y componentes eléctricos e instrumentación. Conocimientos en gestión de datos maestros de mantenimiento. Deseable experiencia en sistemas eléctricos industriales, instrumentación de procesos y sistemas de control. Disponibilidad para laborar en régimen minero. FUNCIONES: Revisar documentación técnica de sistemas eléctricos, control e instrumentación. Completar la recopilación y validación de datos de equipos eléctricos e instrumentos para formatos de carga SAP. Desarrollar Task Lists de electricidad e instrumentación de acuerdo con las estrategias de mantenimiento definidas por Yanacocha. Identificar materiales, componentes, repuestos y consumibles asociados a equipos eléctricos y de instrumentación. Elaborar y estructurar listas de materiales (BOM) para su implementación en SAP PM. Brindar soporte en el proceso de catalogación y homologación de spare parts eléctricos y de instrumentación. Participar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias. Gestionar el cierre de observaciones y asegurar la calidad de la información generada. Mantener la trazabilidad y consistencia de la información técnica desarrollada durante el proyecto. Cumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación. BENEFICIOS: Ingreso en Planilla con todos los beneficios de ley desde el primer día de trabajo. Remuneración acorde al mercado. Alimentación y alojamiento cubiertos durante el régimen de trabajo. Capacitación constante y desarrollo profesional. Descuentos corporativos. \"Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\" \"Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\"",
+        "requisitos":  [
+                           "Ingeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica Eléctrica, Eléctrica, Mecánica o afines",
+                           "Experiencia mínima de 5 años desempeñando"
+                       ],
+        "funciones":  [
+                          "Revisar documentación técnica de sistemas eléctricos, control e instrumentación",
+                          "Completar la recopilación y validación de datos de equipos eléctricos e instrumentos para formatos de carga SAP",
+                          "Desarrollar Task Lists de electricidad e instrumentación de acuerdo con las estrategias de mantenimiento definidas por Yanacocha",
+                          "Identificar materiales, componentes, repuestos y consumibles asociados a equipos eléctricos y de instrumentación",
+                          "Elaborar y estructurar listas de materiales (BOM) para su implementación en SAP PM",
+                          "Brindar soporte en el proceso de catalogación y homologación de spare parts eléctricos y de instrumentación",
+                          "Participar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias",
+                          "Gestionar el cierre de observaciones y asegurar la calidad de la información generada",
+                          "Mantener la trazabilidad y consistencia de la información técnica desarrollada durante el proyecto",
+                          "Cumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación"
+                      ],
+        "beneficios":  [
+                           "de ley desde el primer día de trabajo",
+                           "Remuneración acorde al mercado",
+                           "Alimentación y alojamiento cubiertos durante el régimen de trabajo",
+                           "Capacitación constante y desarrollo profesional",
+                           "Descuentos corporativos",
+                           "\"Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\"",
+                           "\"Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\""
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-electricidad-e-instrumentacion-um-yanacocha-confipetrol-andina-s.a.-1118481251.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-electricidad-e-instrumentacion-um-yanacocha-confipetrol-andina-s.a.-1118481251.html",
+        "descripcion_html":  "\u003cp\u003eSomos una empresa líder en la prestación de soluciones integrales en Operación y Mantenimiento de las diferentes unidades mineras a nivel nacional. Como parte de nuestro crecimiento de operaciones nos encontramos en la búsqueda de un:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eINGENIERO DE ELECTRICIDAD E INSTRUMENTACIÓN\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUnidad Minera Yanacocha - Cajamarca\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica Eléctrica, Eléctrica, Mecánica o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u003cstrong\u003e5 años\u003c/strong\u003e desempeñando funciones relacionadas con mantenimiento eléctrico, instrumentación, automatización o gestión de activos en operaciones mineras.\u003c/li\u003e \u003cli\u003eExperiencia en revisión e interpretación de documentación técnica de sistemas eléctricos, control e instrumentación.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en \u003cstrong\u003eSAP PM\u003c/strong\u003e (Indispensable).\u003c/li\u003e \u003cli\u003eManejo de \u003cstrong\u003eMicrosoft Office a nivel avanzado\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eExperiencia en elaboración de listas de materiales (BOM), identificación de repuestos y componentes eléctricos e instrumentación.\u003c/li\u003e \u003cli\u003eConocimientos en gestión de datos maestros de mantenimiento.\u003c/li\u003e \u003cli\u003eDeseable experiencia en sistemas eléctricos industriales, instrumentación de procesos y sistemas de control.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en régimen minero.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRevisar documentación técnica de sistemas eléctricos, control e instrumentación.\u003c/li\u003e \u003cli\u003eCompletar la recopilación y validación de datos de equipos eléctricos e instrumentos para formatos de carga SAP.\u003c/li\u003e \u003cli\u003eDesarrollar Task Lists de electricidad e instrumentación de acuerdo con las estrategias de mantenimiento definidas por Yanacocha.\u003c/li\u003e \u003cli\u003eIdentificar materiales, componentes, repuestos y consumibles asociados a equipos eléctricos y de instrumentación.\u003c/li\u003e \u003cli\u003eElaborar y estructurar listas de materiales (BOM) para su implementación en SAP PM.\u003c/li\u003e \u003cli\u003eBrindar soporte en el proceso de catalogación y homologación de spare parts eléctricos y de instrumentación.\u003c/li\u003e \u003cli\u003eParticipar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias.\u003c/li\u003e \u003cli\u003eGestionar el cierre de observaciones y asegurar la calidad de la información generada.\u003c/li\u003e \u003cli\u003eMantener la trazabilidad y consistencia de la información técnica desarrollada durante el proyecto.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso en Planilla con todos los beneficios de ley desde el primer día de trabajo.\u003c/li\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eAlimentación y alojamiento cubiertos durante el régimen de trabajo.\u003c/li\u003e \u003cli\u003eCapacitación constante y desarrollo profesional.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u0026quot;Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\u0026quot;\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u0026quot;Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\u0026quot;\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481249",
+        "clave":  "id:1118481249",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-operacion-chinalco-rwl-water-sociedad-anonima-cerrada-rwl-water-s.a.c.-1118481249.html",
+                       "capturadoEn":  "2026-10-16T05:53:03+00:00"
+                   },
+        "titulo":  "SUPERVISOR DE OPERACION - CHINALCO",
+        "empresa":  "RWL WATER SOCIEDAD ANONIMA CERRADA - RWL WATER S.A.C.",
+        "ubicacion":  "Junin - Huancayo",
+        "ciudad":  "Huancayo",
+        "region":  "Junin",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "RWL WATER SAC es una empresa líder en el desarrollo de soluciones innovadoras y de alto valor en tratamiento de aguas potables y residuales a nivel industrial . Nos encontramos en crecimiento y buscamos integrar a nuestro equipo a (1) PUESTO: SUPERVISOR DE OPERACION - CHINALCO (01 VACANTE) Requisitos: Profesional titulado, colegiado y habilitado en la carrera Ing. Sanitaria Experiencia mínima de 3 años en sector minero Experiencia general mínimo de 4 años en sector de tratamiento de agua residual Solido conocimiento es Operación y Mantenimiento de PTAR PTAP Manejo de equipo Ubicación: Huancayo Jornada Atípica: 14 X7 Funciones principales: Programar, Asegurar el cumplimiento del Plan operacional, así como, mejorara continuamente Programar, Asegurar el cumplimiento del Plan mantenimiento, así como, mejorara continuamente Elaborar reporte de O\u0026M mensual, quincenal, semanal Realizar seguimiento de los consumos y dar las directivas para la optimización del mismo Gestionar oportunamente el recurso humano y los reemplazos por bajo desempeño o renuncia voluntaria del personal. Asegurar que se cumpla el alcance del contrato brindando un servicio de calidad y operación continua de los procesos. Competencias valoradas: Iniciativa. Proactividad. Compromiso.",
+        "requisitos":  [
+                           "Profesional titulado, colegiado y habilitado en la carrera Ing. Sanitaria",
+                           "Experiencia mínima de 3 años en sector minero",
+                           "Experiencia general mínimo de 4 años en sector de tratamiento de agua residual",
+                           "Solido conocimiento es Operación y Mantenimiento de PTAR PTAP",
+                           "Manejo de equipo",
+                           "Ubicación: Huancayo",
+                           "Jornada Atípica: 14 X7"
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Programar, Asegurar el cumplimiento del Plan operacional, así como, mejorara continuamente",
+                          "Programar, Asegurar el cumplimiento del Plan mantenimiento, así como, mejorara continuamente",
+                          "Elaborar reporte de O\u0026M mensual, quincenal, semanal",
+                          "Realizar seguimiento de los consumos y dar las directivas para la optimización del mismo",
+                          "Gestionar oportunamente el recurso humano y los reemplazos por bajo desempeño o renuncia voluntaria del personal",
+                          "Asegurar que se cumpla el alcance del contrato brindando un servicio de calidad y operación continua de los procesos",
+                          "Competencias valoradas",
+                          "Iniciativa",
+                          "Proactividad",
+                          "Compromiso"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-operacion-chinalco-rwl-water-sociedad-anonima-cerrada-rwl-water-s.a.c.-1118481249.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-operacion-chinalco-rwl-water-sociedad-anonima-cerrada-rwl-water-s.a.c.-1118481249.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRWL WATER SAC\u003c/strong\u003ees una empresa líder en el desarrollo de soluciones innovadoras y de alto valor en \u003cstrong\u003etratamiento de aguas potables y residuales a nivel industrial\u003c/strong\u003e. Nos encontramos en crecimiento y buscamos integrar a nuestro equipo a (1)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePUESTO: SUPERVISOR DE OPERACION - CHINALCO (01 VACANTE)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eProfesional titulado, colegiado y habilitado en la carrera Ing. Sanitaria\u003c/p\u003e\u003cp\u003eExperiencia mínima de 3 años en sector minero\u003c/p\u003e\u003cp\u003eExperiencia general mínimo de 4 años en sector de tratamiento de agua residual\u003c/p\u003e\u003cp\u003eSolido conocimiento es Operación y Mantenimiento de PTAR PTAP\u003c/p\u003e\u003cp\u003eManejo de equipo\u003c/p\u003e\u003cp\u003eUbicación: Huancayo\u003c/p\u003e\u003cp\u003eJornada Atípica: 14 X7\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eProgramar, Asegurar el cumplimiento del Plan operacional, así como, mejorara continuamente\u003c/p\u003e\u003cp\u003eProgramar, Asegurar el cumplimiento del Plan mantenimiento, así como, mejorara continuamente\u003c/p\u003e\u003cp\u003eElaborar reporte de O\u0026M mensual, quincenal, semanal\u003c/p\u003e\u003cp\u003eRealizar seguimiento de los consumos y dar las directivas para la optimización del mismo\u003c/p\u003e\u003cp\u003eGestionar oportunamente el recurso humano y los reemplazos por bajo desempeño o renuncia voluntaria del personal.\u003c/p\u003e\u003cp\u003eAsegurar que se cumpla el alcance del contrato brindando un servicio de calidad y operación continua de los procesos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCompetencias valoradas:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIniciativa.\u003c/li\u003e \u003cli\u003eProactividad.\u003c/li\u003e \u003cli\u003eCompromiso.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481248",
+        "clave":  "id:1118481248",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/qa-automation-engineer-semi-senior-|-banca-indra-peru-1118481248.html",
+                       "capturadoEn":  "2026-10-16T05:53:08+00:00"
+                   },
+        "titulo":  "QA Automation Engineer Semi Senior | Banca",
+        "empresa":  "INDRA PERU",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "\u0026#x1f680; ¡En Indra buscamos un/a QA Automation Engineer con experiencia en banca! ¿Te apasiona asegurar la calidad del software y encontrar oportunidades de mejora a través de pruebas funcionales, automatización y validación de integraciones? ¡Esta oportunidad puede ser para ti! En Indra buscamos talento con experiencia en calidad de software, orientación al detalle y conocimientos en entornos bancarios para sumarse a nuevos desafíos tecnológicos. \u0026#x1f539; ¿Cuáles serán tus principales funciones? Diseñar y ejecutar pruebas funcionales online y batch, validando integraciones con sistemas externos. Automatizar pruebas para aplicaciones web, APIs y aplicaciones móviles. Analizar requerimientos funcionales y técnicos para garantizar la calidad del producto. Ejecutar pruebas funcionales y no funcionales, incluyendo pruebas de humo, regresión, estrés y rendimiento. Identificar, analizar y resolver incidencias durante el ciclo de pruebas. Trabajar colaborativamente con equipos multidisciplinarios bajo metodologías ágiles como Scrum y Kanban. ¿Qué buscamos? Mínimo 3 años de experiencia en QA y proyectos del sector bancario. Experiencia en automatización de pruebas con Selenium, Postman y/o Appium. Conocimientos en pruebas funcionales y no funcionales. Manejo de Jira/Xray para la gestión y seguimiento de pruebas. Experiencia trabajando con APIs y validación de integraciones. Manejo de bases de datos SQL Server, Oracle y/o MySQL. Conocimientos en pruebas de rendimiento con JMeter y/o LoadRunner. Conocimiento de metodologías ágiles; certificación ISTQB deseable. Conocimientos en ATM (cajeros automáticos), deseables. Beneficios: \u0026#x1f691; EPS cubierta al 100%. \u0026#x1f4da; Acceso ilimitado a Udemy. \u0026#x1f516; Descuentos corporativos. \u0026#x1f4c8; Línea de carrera. \u0026#x1f486; ♀️ Kit ergonómico para trabajo en casa. \u0026#x1f9e0; Atención psicológica. \u0026#x1f966; Atención nutricional. \u0026#x1f4cd; Modalidad híbrida: 1 vez a la semana en oficina (San Isidro). \u0026#x1f558; Horario: Lunes a viernes de 9:00 a.m. a 6:30 p.m.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Diseñar y ejecutar pruebas funcionales online y batch, validando integraciones con sistemas externos",
+                          "Automatizar pruebas para aplicaciones web, APIs y aplicaciones móviles",
+                          "Analizar requerimientos funcionales y técnicos para garantizar la calidad del producto",
+                          "Ejecutar pruebas funcionales y no funcionales, incluyendo pruebas de humo, regresión, estrés y rendimiento",
+                          "Identificar, analizar y resolver incidencias durante el ciclo de pruebas",
+                          "Trabajar colaborativamente con equipos multidisciplinarios bajo metodologías ágiles como Scrum y Kanban",
+                          "¿Qué buscamos?",
+                          "Mínimo 3 años de experiencia en QA y proyectos del sector bancario",
+                          "Experiencia en automatización de pruebas con Selenium, Postman y/o Appium",
+                          "Conocimientos en pruebas funcionales y no funcionales",
+                          "Manejo de Jira/Xray para la gestión y seguimiento de pruebas",
+                          "Experiencia trabajando con APIs y validación de integraciones",
+                          "Manejo de bases de datos SQL Server, Oracle y/o MySQL",
+                          "Conocimientos en pruebas de rendimiento con JMeter y/o LoadRunner",
+                          "Conocimiento de metodologías ágiles; certificación ISTQB deseable",
+                          "Conocimientos en ATM (cajeros automáticos), deseables"
+                      ],
+        "beneficios":  [
+                           "\u0026#x1f691; EPS cubierta al 100%",
+                           "\u0026#x1f4da; Acceso ilimitado a Udemy",
+                           "\u0026#x1f516; Descuentos corporativos",
+                           "\u0026#x1f4c8; Línea de carrera",
+                           "\u0026#x1f486; ♀️ Kit ergonómico para trabajo en casa",
+                           "\u0026#x1f9e0; Atención psicológica",
+                           "\u0026#x1f966; Atención nutricional",
+                           "\u0026#x1f4cd; Modalidad híbrida: 1 vez a la semana en oficina (San Isidro)",
+                           "\u0026#x1f558; Horario: Lunes a viernes de 9:00 a.m. a 6:30 p.m"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/qa-automation-engineer-semi-senior-|-banca-indra-peru-1118481248.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/qa-automation-engineer-semi-senior-|-banca-indra-peru-1118481248.html",
+        "descripcion_html":  "\u003cp\u003e\u0026#x1f680; ¡En Indra buscamos un/a QA Automation Engineer con experiencia en banca!\u003c/p\u003e\u003cp\u003e¿Te apasiona asegurar la calidad del software y encontrar oportunidades de mejora a través de pruebas funcionales, automatización y validación de integraciones? ¡Esta oportunidad puede ser para ti!\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eIndra\u003c/strong\u003e buscamos talento con experiencia en calidad de software, orientación al detalle y conocimientos en entornos bancarios para sumarse a nuevos desafíos tecnológicos.\u003c/p\u003e\u003cp\u003e\u0026#x1f539; ¿Cuáles serán tus principales funciones?\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar y ejecutar pruebas funcionales online y batch, validando integraciones con sistemas externos.\u003c/li\u003e \u003cli\u003eAutomatizar pruebas para aplicaciones web, APIs y aplicaciones móviles.\u003c/li\u003e \u003cli\u003eAnalizar requerimientos funcionales y técnicos para garantizar la calidad del producto.\u003c/li\u003e \u003cli\u003eEjecutar pruebas funcionales y no funcionales, incluyendo pruebas de humo, regresión, estrés y rendimiento.\u003c/li\u003e \u003cli\u003eIdentificar, analizar y resolver incidencias durante el ciclo de pruebas.\u003c/li\u003e \u003cli\u003eTrabajar colaborativamente con equipos multidisciplinarios bajo metodologías ágiles como Scrum y Kanban.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 3 años de experiencia en QA y proyectos del sector bancario.\u003c/li\u003e \u003cli\u003eExperiencia en automatización de pruebas con Selenium, Postman y/o Appium.\u003c/li\u003e \u003cli\u003eConocimientos en pruebas funcionales y no funcionales.\u003c/li\u003e \u003cli\u003eManejo de Jira/Xray para la gestión y seguimiento de pruebas.\u003c/li\u003e \u003cli\u003eExperiencia trabajando con APIs y validación de integraciones.\u003c/li\u003e \u003cli\u003eManejo de bases de datos SQL Server, Oracle y/o MySQL.\u003c/li\u003e \u003cli\u003eConocimientos en pruebas de rendimiento con JMeter y/o LoadRunner.\u003c/li\u003e \u003cli\u003eConocimiento de metodologías ágiles; certificación ISTQB deseable.\u003c/li\u003e \u003cli\u003eConocimientos en ATM (cajeros automáticos), deseables.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u0026#x1f691; EPS cubierta al 100%.\u003c/li\u003e \u003cli\u003e\u0026#x1f4da; Acceso ilimitado a Udemy.\u003c/li\u003e \u003cli\u003e\u0026#x1f516; Descuentos corporativos.\u003c/li\u003e \u003cli\u003e\u0026#x1f4c8; Línea de carrera.\u003c/li\u003e \u003cli\u003e\u0026#x1f486; \u0026#x2640;\u0026#xfe0f; Kit ergonómico para trabajo en casa.\u003c/li\u003e \u003cli\u003e\u0026#x1f9e0; Atención psicológica.\u003c/li\u003e \u003cli\u003e\u0026#x1f966; Atención nutricional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4cd;\u003cstrong\u003e Modalidad híbrida: 1 vez a la semana \u003c/strong\u003een oficina (San Isidro).\u003c/p\u003e\u003cp\u003e\u0026#x1f558; \u003cstrong\u003eHorario:\u003c/strong\u003e Lunes a viernes de 9:00 a.m. a 6:30 p.m.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Lunes a viernes de 9:00 a.m. a 6:30 p.m.",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481247",
+        "clave":  "id:1118481247",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-servicio-con-exp-en-exportaciones-comas-keda-peru-building-materials-company-sociedad-comercial-de-responsabilidad-limitada-1118481247.html",
+                       "capturadoEn":  "2026-10-16T05:53:09+00:00"
+                   },
+        "titulo":  "Asistente de Ventas con exp en Exportaciones Comas",
+        "empresa":  "KEDA PERU BUILDING MATERIALS COMPANY SOCIEDAD COMERCIAL DE RESPONSABILIDAD LIMITADA",
+        "ubicacion":  "Lima - Comas",
+        "ciudad":  "Comas",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Asistente de Ventas con experiencia – Exportaciones ¡Únete a una empresa transnacional del rubro de materiales de construcción! ¿Qué harás? \u0026#x1f4cc; Coordinar con clientes la documentación necesaria para sus exportaciones. \u0026#x1f4cc; Elaborar y revisar documentos de exportación. \u0026#x1f4cc; Confirmar información y documentación con los clientes. \u0026#x1f4cc; Coordinar con Comercio Exterior, Finanzas, Almacén y otras áreas. \u0026#x1f4cc; Realizar seguimiento para asegurar el despacho oportuno de la mercancía. ¿Qué buscamos? ✔ Disponibilidad para trabajar en Trapiche - Comas ✔ Estudios universitarios en Comercio Exterior, Negocios Internacionales, Administración o afines. ✔ Mínimo 3 meses de experiencia en documentación de exportaciones o similar. ✔ Inglés básico, especialmente lectura y redacción. ✔ Manejo de Microsoft Office. ✔ Deseable experiencia en la industria del vidrio o materiales de construcción. Beneficios: Salario acorde al mercado Almuerzo coberturado al 100% Oportunidad de línea de carrera Buen ambiente de trabajo Trabajo estable ¡Postula y forma parte de nuestro equipo! Mayor información al 964 188 129",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Salario acorde al mercado",
+                           "Almuerzo coberturado al 100%",
+                           "Oportunidad de línea de carrera",
+                           "Buen ambiente de trabajo",
+                           "Trabajo estable",
+                           "¡Postula y forma parte de nuestro equipo!",
+                           "Mayor información al 964 188 129"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-servicio-con-exp-en-exportaciones-comas-keda-peru-building-materials-company-sociedad-comercial-de-responsabilidad-limitada-1118481247.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-servicio-con-exp-en-exportaciones-comas-keda-peru-building-materials-company-sociedad-comercial-de-responsabilidad-limitada-1118481247.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente de Ventas con experiencia – Exportaciones\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e¡Únete a una empresa transnacional del rubro de materiales de construcción!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué harás?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x1f4cc; Coordinar con clientes la documentación necesaria para sus exportaciones.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cc; Elaborar y revisar documentos de exportación.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cc; Confirmar información y documentación con los clientes.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cc; Coordinar con Comercio Exterior, Finanzas, Almacén y otras áreas.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cc; Realizar seguimiento para asegurar el despacho oportuno de la mercancía.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x2714; Disponibilidad para trabajar en \u003cstrong\u003eTrapiche - Comas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x2714; Estudios universitarios en Comercio Exterior, Negocios Internacionales, Administración o afines.\u003c/p\u003e\u003cp\u003e\u0026#x2714; Mínimo \u003cstrong\u003e3 meses \u003c/strong\u003ede experiencia en documentación de exportaciones o similar.\u003c/p\u003e\u003cp\u003e\u0026#x2714; \u003cstrong\u003eInglés básico,\u003c/strong\u003e especialmente lectura y redacción.\u003c/p\u003e\u003cp\u003e\u0026#x2714; Manejo de Microsoft Office.\u003c/p\u003e\u003cp\u003e\u0026#x2714; Deseable experiencia en la industria del vidrio o materiales de construcción.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario acorde al mercado\u003c/li\u003e \u003cli\u003eAlmuerzo coberturado al 100%\u003c/li\u003e \u003cli\u003eOportunidad de línea de carrera\u003c/li\u003e \u003cli\u003eBuen ambiente de trabajo\u003c/li\u003e \u003cli\u003eTrabajo estable\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Postula y forma parte de nuestro equipo!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMayor información al 964 188 129\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481246",
+        "clave":  "id:1118481246",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-mecanico-planta-concentradora-um-yanacocha-confipetrol-andina-s.a.-1118481246.html",
+                       "capturadoEn":  "2026-10-16T05:53:14+00:00"
+                   },
+        "titulo":  "Ingeniero Mecánico / Planta Concentradora /UM Yanacocha",
+        "empresa":  "CONFIPETROL ANDINA S.A.",
+        "ubicacion":  "Cajamarca",
+        "ciudad":  "Cajamarca",
+        "region":  "Cajamarca",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos una empresa líder en la prestación de soluciones integrales en Operación y Mantenimiento de las diferentes unidades mineras a nivel nacional. Como parte de nuestro crecimiento de operaciones nos encontramos en la búsqueda de un: INGENIERO MECÁNICO DE MANTENIMIENTO Unidad Minera Yanacocha - Cajamarca REQUISITOS: Ingeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica, Mecánica Eléctrica o afines. Experiencia mínima de 5 años desempeñando funciones relacionadas con mantenimiento mecánico, gestión de activos o implementación de estrategias de mantenimiento en operaciones mineras. Experiencia en análisis de documentación técnica y manuales OEM de equipos mecánicos. Conocimiento y experiencia en SAP PM (Indispensable). Experiencia en elaboración de listas de materiales (BOM), identificación de repuestos y componentes mantenibles. Conocimientos en gestión de datos maestros de mantenimiento. Deseable experiencia en equipos mecánicos estáticos y rotativos de planta minera. Disponibilidad para laborar en régimen minero. FUNCIONES: Revisar manuales OEM y documentación técnica de equipos mecánicos, estáticos y rotativos. Completar la recopilación y validación de datos de equipos mecánicos para formatos de carga SAP. Desarrollar Task Lists mecánicas de acuerdo con las estrategias de mantenimiento definidas por Yanacocha. Identificar repuestos mecánicos, componentes mantenibles y consumibles requeridos para la gestión de mantenimiento. Elaborar y estructurar listas de materiales (BOM) para su implementación en SAP PM. Brindar soporte en el proceso de catalogación y homologación de spare parts mecánicos. Participar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias. Gestionar el cierre de observaciones y asegurar la calidad de la información generada. Mantener la trazabilidad y consistencia de la información técnica desarrollada durante el proyecto. Cumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación. BENEFICIOS: Ingreso en Planilla con todos los beneficios de ley desde el primer día de trabajo. Remuneración acorde al mercado. Alimentación y alojamiento cubiertos durante el régimen de trabajo. Capacitación constante y desarrollo profesional. Descuentos corporativos. \"Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\" \"Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\" Proporcione sus comentarios sobre BizChat",
+        "requisitos":  [
+                           "Ingeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica, Mecánica Eléctrica o afines",
+                           "Experiencia mínima de 5 años desempeñando"
+                       ],
+        "funciones":  [
+                          "Revisar manuales OEM y documentación técnica de equipos mecánicos, estáticos y rotativos",
+                          "Completar la recopilación y validación de datos de equipos mecánicos para formatos de carga SAP",
+                          "Desarrollar Task Lists mecánicas de acuerdo con las estrategias de mantenimiento definidas por Yanacocha",
+                          "Identificar repuestos mecánicos, componentes mantenibles y consumibles requeridos para la gestión de mantenimiento",
+                          "Elaborar y estructurar listas de materiales (BOM) para su implementación en SAP PM",
+                          "Brindar soporte en el proceso de catalogación y homologación de spare parts mecánicos",
+                          "Participar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias",
+                          "Gestionar el cierre de observaciones y asegurar la calidad de la información generada",
+                          "Mantener la trazabilidad y consistencia de la información técnica desarrollada durante el proyecto",
+                          "Cumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación"
+                      ],
+        "beneficios":  [
+                           "de ley desde el primer día de trabajo",
+                           "Remuneración acorde al mercado",
+                           "Alimentación y alojamiento cubiertos durante el régimen de trabajo",
+                           "Capacitación constante y desarrollo profesional",
+                           "Descuentos corporativos",
+                           "\"Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\"",
+                           "\"Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\"",
+                           "Proporcione sus comentarios sobre BizChat"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-mecanico-planta-concentradora-um-yanacocha-confipetrol-andina-s.a.-1118481246.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-mecanico-planta-concentradora-um-yanacocha-confipetrol-andina-s.a.-1118481246.html",
+        "descripcion_html":  "\u003cp\u003eSomos una empresa líder en la prestación de soluciones integrales en Operación y Mantenimiento de las diferentes unidades mineras a nivel nacional. Como parte de nuestro crecimiento de operaciones nos encontramos en la búsqueda de un:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eINGENIERO MECÁNICO DE MANTENIMIENTO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUnidad Minera Yanacocha - Cajamarca\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero(a) titulado(a), colegiado(a) y habilitado(a) de las carreras de Ingeniería Mecánica, Mecánica Eléctrica o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u003cstrong\u003e5 años\u003c/strong\u003e desempeñando funciones relacionadas con mantenimiento mecánico, gestión de activos o implementación de estrategias de mantenimiento en operaciones mineras.\u003c/li\u003e \u003cli\u003eExperiencia en análisis de documentación técnica y manuales OEM de equipos mecánicos.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en \u003cstrong\u003eSAP PM\u003c/strong\u003e (Indispensable).\u003c/li\u003e \u003cli\u003eExperiencia en elaboración de listas de materiales (BOM), identificación de repuestos y componentes mantenibles.\u003c/li\u003e \u003cli\u003eConocimientos en gestión de datos maestros de mantenimiento.\u003c/li\u003e \u003cli\u003eDeseable experiencia en equipos mecánicos estáticos y rotativos de planta minera.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en régimen minero.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRevisar manuales OEM y documentación técnica de equipos mecánicos, estáticos y rotativos.\u003c/li\u003e \u003cli\u003eCompletar la recopilación y validación de datos de equipos mecánicos para formatos de carga SAP.\u003c/li\u003e \u003cli\u003eDesarrollar Task Lists mecánicas de acuerdo con las estrategias de mantenimiento definidas por Yanacocha.\u003c/li\u003e \u003cli\u003eIdentificar repuestos mecánicos, componentes mantenibles y consumibles requeridos para la gestión de mantenimiento.\u003c/li\u003e \u003cli\u003eElaborar y estructurar listas de materiales (BOM) para su implementación en SAP PM.\u003c/li\u003e \u003cli\u003eBrindar soporte en el proceso de catalogación y homologación de spare parts mecánicos.\u003c/li\u003e \u003cli\u003eParticipar en workshops, reuniones técnicas y revisiones de calidad con las áreas usuarias.\u003c/li\u003e \u003cli\u003eGestionar el cierre de observaciones y asegurar la calidad de la información generada.\u003c/li\u003e \u003cli\u003eMantener la trazabilidad y consistencia de la información técnica desarrollada durante el proyecto.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de seguridad, calidad y procedimientos establecidos por la operación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso en Planilla con todos los beneficios de ley desde el primer día de trabajo.\u003c/li\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eAlimentación y alojamiento cubiertos durante el régimen de trabajo.\u003c/li\u003e \u003cli\u003eCapacitación constante y desarrollo profesional.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u0026quot;Confipetrol Andina S.A. es una empresa incluyente, que respeta la diversidad y no hace ningún tipo de discriminación.\u0026quot;\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u0026quot;Confipetrol Andina S.A. no solicita ningún tipo de pago o abono para participar en los procesos de reclutamiento y selección, ni en ninguna etapa del mismo.\u0026quot;\u003c/em\u003e\u003c/p\u003e\u003cp\u003eProporcione sus comentarios sobre BizChat \u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481245",
+        "clave":  "id:1118481245",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-postventa-maquinaria-pesada-zoomlion-1118481245.html",
+                       "capturadoEn":  "2026-10-16T05:53:18+00:00"
+                   },
+        "titulo":  "Jefe de Postventa maquinaria pesada",
+        "empresa":  "ZOOMLION",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Estamos buscando el mejor talento para ocupar el puesto de Jefe de Post venta de Maquinaria Pesada – Grúas Móviles. Cambia el futuro con nosotros. Únete a nuestro equipo y obtendrás el conocimiento más avanzado de la industria, con la posibilidad de tomar decisiones y ayudarnos a posicionarnos en los sectores en los que trabajamos. ¿Cuáles serán tus responsabilidades? Como Jefe de Post venta de Maquinaria Pesada reportarás directamente al Gerente General de Post venta y serás responsable de: Dirigir y supervisar al equipo técnico de postventa. Diseñar y ejecutar la estrategia de gestión de repuestos y servicios. Planificar, aprobar y supervisar los programas de capacitación técnica. Asegurar la correcta elaboración, actualización y difusión de manuales de maquinaria. Brindar soporte técnico estratégico a clientes clave y proveedores. Diseñar, ejecutar y evaluar la estrategia comercial de postventa. Negociar, establecer y fortalecer alianzas con proveedores, talleres y distribuidores a nivel nacional. Implementar y optimizar formatos, lineamientos y procesos de gestión del área. ¿Qué calificaciones necesita para tener éxito en este puesto? Ingeniero mecánico. Colegiatura habilitada. Mínimo 05 años de experiencia en puestos de supervisión de posventa de maquinaria pesada. Sólido sentido de negocio y capacidad para desenvolverse en organizaciones complejas. Dominio de las herramientas de Microsoft Office. Nivel conversacional de inglés. ¿Cuáles son los beneficios de trabajar con nosotros? Capacitación constante. Salario y beneficios competitivos.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "competitivos"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/jefe-de-postventa-maquinaria-pesada-zoomlion-1118481245.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-postventa-maquinaria-pesada-zoomlion-1118481245.html",
+        "descripcion_html":  "\u003cp\u003eEstamos buscando el mejor talento para ocupar el puesto de Jefe de Post venta de Maquinaria Pesada – Grúas Móviles.\u003c/p\u003e\u003cp\u003eCambia el futuro con nosotros.\u003c/p\u003e\u003cp\u003eÚnete a nuestro equipo y obtendrás el conocimiento más avanzado de la industria, con la posibilidad de tomar decisiones y ayudarnos a posicionarnos en los sectores en los que trabajamos.\u003c/p\u003e\u003cp\u003e¿Cuáles serán tus responsabilidades?\u003c/p\u003e\u003cp\u003eComo Jefe de Post venta de Maquinaria Pesada reportarás directamente al Gerente General de Post venta y serás responsable de:\u003c/p\u003e\u003cul\u003e \u003cli\u003eDirigir y supervisar al equipo técnico de postventa.\u003c/li\u003e \u003cli\u003eDiseñar y ejecutar la estrategia de gestión de repuestos y servicios.\u003c/li\u003e \u003cli\u003ePlanificar, aprobar y supervisar los programas de capacitación técnica.\u003c/li\u003e \u003cli\u003eAsegurar la correcta elaboración, actualización y difusión de manuales de maquinaria.\u003c/li\u003e \u003cli\u003eBrindar soporte técnico estratégico a clientes clave y proveedores.\u003c/li\u003e \u003cli\u003eDiseñar, ejecutar y evaluar la estrategia comercial de postventa.\u003c/li\u003e \u003cli\u003eNegociar, establecer y fortalecer alianzas con proveedores, talleres y distribuidores a nivel nacional.\u003c/li\u003e \u003cli\u003eImplementar y optimizar formatos, lineamientos y procesos de gestión del área.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué calificaciones necesita para tener éxito en este puesto?\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero mecánico.\u003c/li\u003e \u003cli\u003eColegiatura habilitada.\u003c/li\u003e \u003cli\u003eMínimo 05 años de experiencia en puestos de supervisión de posventa de maquinaria pesada.\u003c/li\u003e \u003cli\u003eSólido sentido de negocio y capacidad para desenvolverse en organizaciones complejas.\u003c/li\u003e \u003cli\u003eDominio de las herramientas de Microsoft Office.\u003c/li\u003e \u003cli\u003eNivel conversacional de inglés.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Cuáles son los beneficios de trabajar con nosotros?\u003c/p\u003e\u003cul\u003e \u003cli\u003eCapacitación constante.\u003c/li\u003e \u003cli\u003eSalario y beneficios competitivos.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 05 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481244",
+        "clave":  "id:1118481244",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/funcionario-banca-select-premium-santander-peru-1118481244.html",
+                       "capturadoEn":  "2026-10-16T05:53:21+00:00"
+                   },
+        "titulo":  "Funcionario Banca Select (Premium)",
+        "empresa":  "Santander Perú",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "ES EL MOMENTO Santander está evolucionando de ser una marca global de alto impacto a una organización impulsada por la tecnología , y las personas están en el centro de este camino. Juntos, estamos liderando una transformación centrada en el cliente que valora el pensamiento disruptivo , la valentía de desafiar lo posible y la capacidad de innovar . ¿QUÉ IMPACTO GENERARÁS? En Santander Consumer Bank una empresa del grupo Santander, nos encontramos en búsqueda de nuestro próximo(a) Funcionario Banca Select (Premium) . Si te interesa esta vacante, te invitamos a conocer más al respecto y postular. Tus principales responsabilidades incluirán: Asegurar óptimos niveles de colocación mediante la aprobación de créditos captados en los canales de atención vigentes en a Financiera. Evaluar y aprobar al cliente o potencial cliente del Segmento Premium, ofreciendo un producto de acuerdo con sus necesidades, dentro de la autonomía asignada Promover la captación de ahorros; de aplicarse al canal en el que se encuentre, concretar la venta de seguros y generar la adopción digital de nuestros clientes. Atender los requerimientos del cliente y público usuario relacionados al puesto de trabajo, en forma ágil, oportuna, segura y transparente ofreciendo un servicio de calidad que marque diferencia en el mercado buscando reducir los tiempos de espera de atención. Velar por el cumplimiento de los principios de la Venta con Calidad: Servicio al cliente de excelencia, cuidando el riesgo y buscando maximizar la rentabilidad. LO QUE APORTARÁS AL QUIPO Nuestra gente es nuestra mayor fortaleza y cada persona contribuye desde perspectivas únicas. Para este puesto se requiere: Profesional graduado en las carreras de Administración de Negocios, Ingeniería Industrial, Economía o carreras afines Experiencia mínima de 02 años como Funcionario de Banca Personas o Banca Premium en Instituciones financieras. Conocimientos en: Marketing (básico), Política de créditos (avanzado), Negociación (intermedio), Administración de ventas (intermedio) Conocimientos informáticos: Bantotal (nivel avanzado), IG (nivel avanzado), ISTS (nivel avanzado), Outlook (nivel intermedio), MS Office (nivel intermedio) Competencias personales: Capacidad para trabajar en equipo y bajo presión, Toma de decisiones, Capacidad de análisis, Capacidad de comunicación a todo nivel y Liderazgo. ✔ Al postular a esta vacante estás aceptando el tratamiento de tus datos personales, para conocer a detalle los usos y fin que le daremos, te invitamos a visitar el siguiente enlace: https://gestionhumanasurgir.my.canva.site/consentimiento-postulantes-solo-vista ✔ En el Grupo Santander promovemos la inclusión y consideraremos a los postulantes sin importar su origen étnico, género, edad, estado civil, orientación sexual, religión, discapacidad, nacionalidad o condición económica. Asimismo, en cada una de nuestras convocatorias está prohibida cualquier expresión de discriminación de acuerdo a la LEY N° 29973 - Ley General de la Persona con Discapacidad.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/funcionario-banca-select-premium-santander-peru-1118481244.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/funcionario-banca-select-premium-santander-peru-1118481244.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eES EL MOMENTO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSantander está evolucionando de ser una \u003cstrong\u003emarca global de alto impacto\u003c/strong\u003e a una organización \u003cstrong\u003eimpulsada por la tecnología\u003c/strong\u003e, y las personas están en el centro de este camino. Juntos, estamos liderando una \u003cstrong\u003etransformación centrada en el cliente \u003c/strong\u003eque valora el \u003cstrong\u003epensamiento disruptivo\u003c/strong\u003e, la valentía de desafiar lo posible y la capacidad de \u003cstrong\u003einnovar\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ IMPACTO GENERARÁS?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eSantander Consumer Bank\u003c/strong\u003e una empresa del grupo Santander, nos encontramos en búsqueda de nuestro próximo(a) \u003cstrong\u003eFuncionario Banca Select (Premium) \u003c/strong\u003e. Si te interesa esta vacante, te invitamos a conocer más al respecto y postular.\u003c/p\u003e\u003cp\u003eTus principales responsabilidades incluirán:\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsegurar óptimos niveles de colocación mediante la aprobación de créditos captados en los canales de atención vigentes en a Financiera.\u003c/li\u003e \u003cli\u003eEvaluar y aprobar al cliente o potencial cliente del Segmento Premium, ofreciendo un producto de acuerdo con sus necesidades, dentro de la autonomía asignada\u003c/li\u003e \u003cli\u003ePromover la captación de ahorros; de aplicarse al canal en el que se encuentre, concretar la venta de seguros y generar la adopción digital de nuestros clientes.\u003c/li\u003e \u003cli\u003eAtender los requerimientos del cliente y público usuario relacionados al puesto de trabajo, en forma ágil, oportuna, segura y transparente ofreciendo un servicio de calidad que marque diferencia en el mercado buscando reducir los tiempos de espera de atención.\u003c/li\u003e \u003cli\u003eVelar por el cumplimiento de los principios de la Venta con Calidad: Servicio al cliente de excelencia, cuidando el riesgo y buscando maximizar la rentabilidad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eLO QUE APORTARÁS AL QUIPO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra gente es nuestra mayor fortaleza y cada persona contribuye desde perspectivas únicas. Para este puesto se requiere:\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional graduado en las carreras de Administración de Negocios, Ingeniería Industrial, Economía o carreras afines\u003c/li\u003e \u003cli\u003eExperiencia mínima de 02 años como Funcionario de Banca Personas o Banca Premium en Instituciones financieras.\u003c/li\u003e \u003cli\u003eConocimientos en: Marketing (básico), Política de créditos (avanzado), Negociación (intermedio), Administración de ventas (intermedio)\u003c/li\u003e \u003cli\u003eConocimientos informáticos: Bantotal (nivel avanzado), IG (nivel avanzado), ISTS (nivel avanzado), Outlook (nivel intermedio), MS Office (nivel intermedio)\u003c/li\u003e \u003cli\u003eCompetencias personales: Capacidad para trabajar en equipo y bajo presión, Toma de decisiones, Capacidad de análisis, Capacidad de comunicación a todo nivel y Liderazgo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x2714; Al postular a esta vacante estás aceptando el tratamiento de tus datos personales, para conocer a detalle los usos y fin que le daremos, te invitamos a visitar el siguiente enlace: https://gestionhumanasurgir.my.canva.site/consentimiento-postulantes-solo-vista\u003c/p\u003e\u003cp\u003e\u0026#x2714; En el Grupo Santander promovemos la inclusión y consideraremos a los postulantes sin importar su origen étnico, género, edad, estado civil, orientación sexual, religión, discapacidad, nacionalidad o condición económica. Asimismo, en cada una de nuestras convocatorias está prohibida cualquier expresión de discriminación de acuerdo a la LEY N° 29973 - Ley General de la Persona con Discapacidad.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 02 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118481242",
+        "clave":  "id:1118481242",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-servicio-triton-trading-s.a-1118481242.html",
+                       "capturadoEn":  "2026-10-16T05:53:22+00:00"
+                   },
+        "titulo":  "Técnico de Servicio",
+        "empresa":  "Triton Trading S.A",
+        "ubicacion":  "Piura",
+        "ciudad":  "Piura",
+        "region":  "Piura",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos una empresa con más de 35 años de experiencia en Perú y Ecuador , especializada en soluciones de maquinaria y equipos para los sectores de minería, construcción, logística e industria. En Triton creemos en las personas, promoviendo una cultura basada en la integridad, el compromiso y la mejora continua, donde juntos marcamos la diferencia y seguimos creciendo. Estamos en búsqueda de Técnico de Servicio , un perfil que nos ayude a seguir fortaleciendo nuestro compromiso con nuestros clientes y con el país. Principales funciones: Realizar y apoyar en los mantenimientos preventivos a los equipos de acuerdo al plan de servicio de su unidad de negocio. Realizar y apoyar en los mantenimientos correctivos Informar los pendientes encontrados a fin de cumplir con las necesidades del cliente para asegurar la operatividad de los equipos. Elaborar reportes de servicio. Realizar sus actividades de acuerdo a los procesos internos y trámites administrativos necesarios para el procesamiento de su trabajo y procesos de la empresa. Realizar viajes al interior del país para cualquier servicio al que se le programe. Ejecutar sus servicios utilizando de manera adecuada los EPP que exige la ejecución de esa tarea. Informar de cualquier maniobra insegura que pueda producir un accidente o ponga en peligro la integridad física del equipo de trabajo. Requisitos: Egresado de la carrera Técnica de Mecánica, Mecatrónica, Automotriz o Eléctrica de Instituto o escuela especializada Inglés intermedio o técnico básico Ingles técnico básico Office a nivel usuario. Conocimiento en lectura de Planos hidráulicos y eléctricos. (Deseable) Manejo de Manuales de partes y servicios. (Deseable) Manejo de Procedimientos de Seguridad relacionados con las labores inherentes al puesto. (Deseable) Experiencia laboral de mínimo 2 años , realizando trabajos de mantenimiento y reparación de equipos logísticos y/o pesados en empresas preferentemente del mismo rubro realizando funciones inherentes al puesto. Beneficios Trabajar en una empresa dinámica , con buen clima laboral, culturalmente diversa y con certificación ABE (Asociación de Buenos Empleadores). Remuneración competitiva acorde al mercado y tu experiencia. Beneficios atractivos y un ambiente laboral positivo , donde podrás desarrollar tu potencial y seguir creciendo profesionalmente. Convenios educativos para ti y tu família Si te motiva asumir nuevos retos y crecer junto a un equipo sólido, esta oportunidad es para ti. Como empresa creemos e impulsamos la diversidad e igualdad de oportunidades, por eso hemos asumido el compromiso de crear un ambiente de trabajo basado en la confianza y el respeto de los derechos y las oportunidades, en el que todos se sientan valorados y empoderados. Por ello, todos los postulantes serán evaluados sin importar su orientación sexual, origen étnico, color, género, edad, nacionalidad, discapacidad, idioma, religión, opinión política, condición económica o cualquier otra característica.",
+        "requisitos":  [
+                           "Egresado de la carrera Técnica de Mecánica, Mecatrónica, Automotriz o Eléctrica de Instituto o escuela especializada",
+                           "Inglés intermedio o técnico básico",
+                           "Ingles técnico básico",
+                           "Office a nivel usuario",
+                           "Conocimiento en lectura de Planos hidráulicos y eléctricos. (Deseable)",
+                           "Manejo de Manuales de partes y servicios. (Deseable)",
+                           "Manejo de Procedimientos de Seguridad relacionados con las labores inherentes al puesto. (Deseable)",
+                           "Experiencia laboral de mínimo 2 años , realizando trabajos de mantenimiento y reparación de equipos logísticos y/o pesados en empresas preferentemente del mismo rubro realizando"
+                       ],
+        "funciones":  [
+                          "inherentes al puesto"
+                      ],
+        "beneficios":  [
+                           "atractivos y un ambiente laboral positivo, donde podrás desarrollar tu potencial y seguir creciendo profesionalmente",
+                           "Convenios educativos para ti y tu família",
+                           "Si te motiva asumir nuevos retos y crecer junto a un equipo sólido, esta oportunidad es para ti",
+                           "Como empresa creemos e impulsamos la diversidad e igualdad de oportunidades, por eso hemos asumido el compromiso de crear un ambiente de trabajo basado en la confianza y el respeto de los derechos y las oportunidades, en el que todos se sientan valorados y empoderados. Por ello, todos los postulantes serán evaluados sin importar su orientación sexual, origen étnico, color, género, edad, nacionalidad, discapacidad, idioma, religión, opinión política, condición económica o cualquier otra característica"
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-servicio-triton-trading-s.a-1118481242.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-servicio-triton-trading-s.a-1118481242.html",
+        "descripcion_html":  "\u003cp style=\"\"\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003eSomos una empresa con más de 35 años de experiencia en Perú y Ecuador\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e, especializada en soluciones de maquinaria y equipos para los sectores de minería, construcción, logística e industria.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003eEn Triton creemos en las personas, promoviendo una cultura basada en \u003cstrong\u003ela integridad, el compromiso y la mejora continua,\u003c/strong\u003e donde juntos marcamos la diferencia \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e y seguimos creciendo.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e \u003cp\u003eEstamos en búsqueda de Técnico de Servicio\u003cem\u003e,\u003c/em\u003e un perfil que nos ayude a seguir fortaleciendo nuestro compromiso con nuestros clientes y con el país.\u003c/p\u003e\u003cp\u003e Principales funciones:\u003c/p\u003e\u003cul\u003e \u003cli style=\"\"\u003eRealizar y apoyar en los mantenimientos preventivos a los equipos de acuerdo al plan de servicio de su unidad de negocio.\u003c/li\u003e \u003cli style=\"\"\u003eRealizar y apoyar en los mantenimientos correctivos\u003c/li\u003e \u003cli style=\"\"\u003eInformar los pendientes encontrados a fin de cumplir con las necesidades del cliente para asegurar la operatividad de los equipos.\u003c/li\u003e \u003cli style=\"\"\u003eElaborar reportes de servicio.\u003c/li\u003e \u003cli style=\"\"\u003eRealizar sus actividades de acuerdo a los procesos internos y trámites administrativos necesarios para el procesamiento de su trabajo y procesos de la empresa.\u003c/li\u003e \u003cli style=\"\"\u003eRealizar viajes al interior del país para cualquier servicio al que se le programe.\u003c/li\u003e \u003cli style=\"\"\u003eEjecutar sus servicios utilizando de manera adecuada los EPP que exige la ejecución de esa tarea.\u003c/li\u003e \u003cli style=\"\"\u003eInformar de cualquier maniobra insegura que pueda producir un accidente o ponga en peligro la integridad física del equipo de trabajo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eEgresado de la carrera Técnica de Mecánica, Mecatrónica, Automotriz o Eléctrica de Instituto o escuela especializada\u003c/li\u003e \u003cli\u003eInglés intermedio o técnico básico\u003c/li\u003e \u003cli style=\"\"\u003eIngles técnico básico\u003c/li\u003e \u003cli style=\"\"\u003eOffice a nivel usuario.\u003c/li\u003e \u003cli style=\"\"\u003eConocimiento en lectura de Planos hidráulicos y eléctricos. (Deseable)\u003c/li\u003e \u003cli style=\"\"\u003eManejo de Manuales de partes y servicios. (Deseable)\u003c/li\u003e \u003cli\u003eManejo de Procedimientos de Seguridad relacionados con las labores inherentes al puesto. (Deseable)\u003c/li\u003e \u003cli\u003eExperiencia laboral de mínimo 2 años , realizando trabajos de mantenimiento y reparación de equipos logísticos y/o pesados en empresas preferentemente del mismo rubro realizando funciones inherentes al puesto.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cp\u003e Trabajar en una \u003cstrong\u003eempresa dinámica\u003c/strong\u003e, con buen clima laboral, culturalmente diversa y con certificación ABE (Asociación de Buenos Empleadores).\u003c/p\u003e\u003cp\u003e \u003cstrong\u003eRemuneración competitiva\u003c/strong\u003e acorde al mercado y tu experiencia.\u003c/p\u003e\u003cp\u003e \u003cstrong\u003eBeneficios atractivos y un ambiente laboral positivo\u003c/strong\u003e, donde podrás desarrollar tu potencial y seguir creciendo profesionalmente.\u003c/p\u003e\u003cp\u003e \u003cstrong\u003eConvenios educativos\u003c/strong\u003e para ti y tu família\u003c/p\u003e\u003cp\u003eSi te motiva asumir nuevos retos y crecer junto a un equipo sólido, esta oportunidad es para ti. \u003c/p\u003e\u003cp\u003e\u003cem\u003eComo empresa creemos e impulsamos la diversidad e igualdad de oportunidades, por eso hemos asumido el compromiso de crear un ambiente de trabajo basado en la confianza y el respeto de los derechos y las oportunidades, en el que todos se sientan valorados y empoderados. Por ello, todos los postulantes serán evaluados sin importar su orientación sexual, origen étnico, color, género, edad, nacionalidad, discapacidad, idioma, religión, opinión política, condición económica o cualquier otra característica.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 35 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]

@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118481254",
+    "clave":  "id:1118481254",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/senior-integration-developer-health-ti-eurofirms-group-1118481254.html",
+                   "capturadoEn":  "2026-10-16T05:52:50+00:00"
+               },
+    "titulo":  "Senior Integration Developer - Health TI",
+    "empresa":  "Eurofirms Group",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2100,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "s/2100",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "En Eurofirms Group, creemos en el liderazgo por valores y el crecimiento continuo, poniendo a las personas y su desarrollo profesional primero, potenciando un ambiente de trabajo positivo y colaborativo. Actualmente, nos encontramos en búsqueda de Ingeniero Senior de Integración de Datos - Sector Salud para importante empresa del sector Salud y Tecnología. Funciones principales: Liderar el diseño, implementación, mantenimiento y escalamiento de integraciones de datos entre plataformas internas, socios estratégicos del sector salud y sistemas externos, garantizando flujos de información confiables, seguros y de alta disponibilidad. Gestionar integraciones con organizaciones de salud, aseguradoras (Payers), TPA (Third Party Administrators), plataformas de beneficios, proveedores de tecnología médica (HealthTech) y sistemas clínicos mediante APIs, intercambio de archivos y arquitecturas orientadas a eventos. Diseñar e implementar procesos de integración de datos de proveedores médicos, redes de atención y datos de referencia, estableciendo estándares escalables para su administración y mantenimiento. Analizar, transformar y validar información relacionada con afiliaciones, elegibilidad, reclamaciones médicas (Claims), proveedores y redes médicas, asegurando integridad, consistencia y calidad de los datos. Desarrollar y optimizar consultas SQL, procesos ETL/ELT y mecanismos de integración que permitan una gestión eficiente de grandes volúmenes de información. Diseñar e implementar controles de calidad de datos, reglas de validación, monitoreo, alertamiento y mecanismos de trazabilidad que garanticen la confiabilidad operativa de los procesos de integración. Supervisar la operación de las integraciones en ambientes productivos, identificando, diagnosticando y resolviendo incidentes técnicos de manera oportuna. Participar activamente en la definición de arquitecturas de integración modernas basadas en APIs, procesamiento de archivos, servicios cloud y arquitecturas orientadas a eventos. Colaborar estrechamente con equipos de Producto, Ingeniería, Operaciones y stakeholders del negocio para traducir requerimientos del sector salud en soluciones técnicas escalables y sostenibles. Liderar iniciativas de mejora continua orientadas a la automatización, eficiencia operativa, observabilidad y optimización de procesos de integración. Implementar y promover buenas prácticas de gobernanza de datos, documentación técnica, seguridad de la información y cumplimiento de estándares de la industria de salud. Utilizar herramientas de desarrollo asistidas por inteligencia artificial para acelerar la construcción de integraciones, validación de datos, análisis de incidentes, documentación técnica y soporte operativo, manteniendo siempre la responsabilidad técnica sobre la calidad y confiabilidad de las soluciones implementadas. Brindar mentoría técnica a ingenieros del equipo, fomentando el crecimiento profesional y contribuyendo a la construcción y consolidación de la función de Data Integration dentro de la organización. Documentar arquitecturas, flujos de integración, especificaciones funcionales, procedimientos operativos y planes de contingencia para garantizar la continuidad operativa y la transferencia de conocimiento. Requisitos: Bachiller o Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software, Ciencias de la Computación, Ingeniería de Datos o carreras afines. Mínimo 5 años de experiencia en posiciones de Software Engineering, Data Engineering, Integration Engineering o roles similares. Experiencia comprobada trabajando con ecosistemas de salud de Estados Unidos, incluyendo aseguradoras (Payers), TPA, plataformas de beneficios,proveedores HealthTech, EHRs o integraciones de salud.Dominio avanzado de SQL para análisis, transformación y validación de datos. Experiencia en diseño e integración mediante APIs REST.Experiencia integrando sistemas externos a través de APIs, intercambio de archivos (SFTP, CSV, JSON, XML u otros formatos) y arquitecturas orientadas a eventos. Conocimiento sólido de datos de elegibilidad, reclamaciones médicas (Claims), información de proveedores médicos y redes de atención. Experiencia en monitoreo, validación, control de calidad de datos y soporte de procesos de integración en producción. Experiencia en resolución de incidentes, análisis de datos y aseguramiento de la calidad de la información.Inglés avanzado y fluidez para comunicarse con equipos y stakeholders ubicados en Estados Unidos. Experiencia trabajando en entornos colaborativos multidisciplinarios y metodologías ágiles. Beneficios: Remuneración acorde al mercado.Modalidad híbrida (1 vez por semana presencial en Miraflores) / iniciamos en virtual. Contrato por 01 año y pagos por Recibo por honorarios. Horario: Lunes a Viernes 9:00 am a 6:00 pm",
+    "requisitos":  [
+                       "Bachiller o Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software, Ciencias de la Computación, Ingeniería de Datos o carreras afines",
+                       "Mínimo 5 años de experiencia en posiciones de Software Engineering, Data Engineering, Integration Engineering o roles similares",
+                       "Experiencia comprobada trabajando con ecosistemas de salud de Estados Unidos, incluyendo aseguradoras (Payers), TPA, plataformas de"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Liderar el diseño, implementación, mantenimiento y escalamiento de integraciones de datos entre plataformas internas, socios estratégicos del sector salud y sistemas externos, garantizando flujos de información confiables, seguros y de alta disponibilidad",
+                      "Gestionar integraciones con organizaciones de salud, aseguradoras (Payers), TPA (Third Party Administrators), plataformas de"
+                  ],
+    "beneficios":  [
+                       "Remuneración acorde al mercado.Modalidad híbrida (1 vez por semana presencial en Miraflores) / iniciamos en virtual",
+                       "Contrato por 01 año y pagos por Recibo por honorarios",
+                       "Horario: Lunes a Viernes 9:00 am a 6:00 pm"
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/senior-integration-developer-health-ti-eurofirms-group-1118481254.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/senior-integration-developer-health-ti-eurofirms-group-1118481254.html",
+    "descripcion_html":  "\u003cp\u003eEn Eurofirms Group, creemos en el liderazgo por valores y el crecimiento continuo, poniendo a las personas y su desarrollo profesional primero, potenciando un ambiente de trabajo positivo y colaborativo.\u003c/p\u003e\u003cp\u003eActualmente, nos encontramos en búsqueda de\u003cstrong\u003e Ingeniero Senior de Integración de Datos - Sector Salud \u003c/strong\u003epara importante empresa del sector Salud y Tecnología. \u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar el diseño, implementación, mantenimiento y escalamiento de integraciones de datos entre plataformas internas, socios estratégicos del sector salud y sistemas externos, garantizando flujos de información confiables, seguros y de alta disponibilidad.\u003c/li\u003e \u003cli\u003eGestionar integraciones con organizaciones de salud, aseguradoras (Payers), TPA (Third Party Administrators), plataformas de beneficios, proveedores de tecnología médica (HealthTech) y sistemas clínicos mediante APIs, intercambio de archivos y arquitecturas orientadas a eventos.\u003c/li\u003e \u003cli\u003eDiseñar e implementar procesos de integración de datos de proveedores médicos, redes de atención y datos de referencia, estableciendo estándares escalables para su administración y mantenimiento.\u003c/li\u003e \u003cli\u003eAnalizar, transformar y validar información relacionada con afiliaciones, elegibilidad, reclamaciones médicas (Claims), proveedores y redes médicas, asegurando integridad, consistencia y calidad de los datos.\u003c/li\u003e \u003cli\u003eDesarrollar y optimizar consultas SQL, procesos ETL/ELT y mecanismos de integración que permitan una gestión eficiente de grandes volúmenes de información.\u003c/li\u003e \u003cli\u003eDiseñar e implementar controles de calidad de datos, reglas de validación, monitoreo, alertamiento y mecanismos de trazabilidad que garanticen la confiabilidad operativa de los procesos de integración.\u003c/li\u003e \u003cli\u003eSupervisar la operación de las integraciones en ambientes productivos, identificando, diagnosticando y resolviendo incidentes técnicos de manera oportuna.\u003c/li\u003e \u003cli\u003eParticipar activamente en la definición de arquitecturas de integración modernas basadas en APIs, procesamiento de archivos, servicios cloud y arquitecturas orientadas a eventos.\u003c/li\u003e \u003cli\u003eColaborar estrechamente con equipos de Producto, Ingeniería, Operaciones y stakeholders del negocio para traducir requerimientos del sector salud en soluciones técnicas escalables y sostenibles.\u003c/li\u003e \u003cli\u003eLiderar iniciativas de mejora continua orientadas a la automatización, eficiencia operativa, observabilidad y optimización de procesos de integración.\u003c/li\u003e \u003cli\u003eImplementar y promover buenas prácticas de gobernanza de datos, documentación técnica, seguridad de la información y cumplimiento de estándares de la industria de salud.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de desarrollo asistidas por inteligencia artificial para acelerar la construcción de integraciones, validación de datos, análisis de incidentes, documentación técnica y soporte operativo, manteniendo siempre la responsabilidad técnica sobre la calidad y confiabilidad de las soluciones implementadas.\u003c/li\u003e \u003cli\u003eBrindar mentoría técnica a ingenieros del equipo, fomentando el crecimiento profesional y contribuyendo a la construcción y consolidación de la función de Data Integration dentro de la organización.\u003c/li\u003e \u003cli\u003eDocumentar arquitecturas, flujos de integración, especificaciones funcionales, procedimientos operativos y planes de contingencia para garantizar la continuidad operativa y la transferencia de conocimiento. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software, Ciencias de la Computación, Ingeniería de Datos o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 5 años de experiencia en posiciones de Software Engineering, Data Engineering, Integration Engineering o roles similares.\u003c/li\u003e \u003cli\u003eExperiencia comprobada trabajando con ecosistemas de salud de Estados Unidos, incluyendo aseguradoras (Payers), TPA, plataformas de beneficios,proveedores HealthTech, EHRs o integraciones de salud.Dominio avanzado de SQL para análisis, transformación y validación de datos.\u003c/li\u003e \u003cli\u003eExperiencia en diseño e integración mediante APIs REST.Experiencia integrando sistemas externos a través de APIs, intercambio de archivos (SFTP, CSV, JSON, XML u otros formatos) y arquitecturas orientadas a eventos.\u003c/li\u003e \u003cli\u003eConocimiento sólido de datos de elegibilidad, reclamaciones médicas (Claims), información de proveedores médicos y redes de atención.\u003c/li\u003e \u003cli\u003eExperiencia en monitoreo, validación, control de calidad de datos y soporte de procesos de integración en producción.\u003c/li\u003e \u003cli\u003eExperiencia en resolución de incidentes, análisis de datos y aseguramiento de la calidad de la información.Inglés avanzado y fluidez para comunicarse con equipos y stakeholders ubicados en Estados Unidos.\u003c/li\u003e \u003cli\u003eExperiencia trabajando en entornos colaborativos multidisciplinarios y metodologías ágiles. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.Modalidad híbrida (1 vez por semana presencial en Miraflores) / iniciamos en virtual.\u003c/li\u003e \u003cli\u003eContrato por 01 año y pagos por Recibo por honorarios.\u003c/li\u003e \u003cli\u003eHorario: Lunes a Viernes 9:00 am a 6:00 pm\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "Lunes a Viernes 9:00 am a 6:00 pm",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
