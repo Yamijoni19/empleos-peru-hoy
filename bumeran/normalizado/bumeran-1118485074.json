@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485074",
+    "clave":  "id:1118485074",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisora-de-ventas-retail-1118485074.html",
+                   "capturadoEn":  "2026-10-17T21:29:00+00:00"
+               },
+    "titulo":  "Supervisora de Ventas Retail",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  2000,
+                    "max":  3500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 3,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¿Te apasionan las ventas, liderar equipos y alcanzar metas? ¡Te estamos buscando! Somos una marca peruana premium de ropa deportiva femenina con más de 15 años en el mercado. Buscamos una supervisora de ventas con fuerte orientación comercial, liderazgo y enfoque en resultados. ¿Cuál será tu reto? Asegurar el cumplimiento de las cuotas de ventas. Realizar visitas a tiendas en los horarios de mayor afluencia. Monitorear al personal de ventas para garantizar el cumplimiento de protocolos de atención al cliente, técnicas de venta y ejecución de campañas. Controlar la operación de tiendas: stock en piso, visual merchandising, asistencia del personal, etc. Participar de manera activa en el proceso de selección e inducción de administradoras y asesoras de ventas. ¿Qué buscamos? Experiencia mínima de 3 años supervisando equipos de ventas, de preferencia en retail de moda, deportivo o lifestyle. Manejo de KPIs de tienda: conversión, ticket promedio, UPT, cumplimiento de cuota y proyección de cierre. Capacidad de liderar y acompañar a su equipo, con foco en el logro de resultados. Excel intermedio Valoramos conocimiento del sector fitness o activewear. Ofrecemos: Remuneración fija + bonos por cumplimiento de resultados. Planilla con beneficios de ley. Línea de carrera en una marca en crecimiento. Descuento en productos WIN. ¡Postula y demuestra tu talento comercial!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Línea de carrera en una marca en crecimiento",
+                       "Descuento en productos WIN",
+                       "¡Postula y demuestra tu talento comercial!"
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisora-de-ventas-retail-1118485074.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisora-de-ventas-retail-1118485074.html",
+    "descripcion_html":  "\u003cp\u003e¿Te apasionan las ventas, liderar equipos y alcanzar metas? ¡Te estamos buscando!\u003c/p\u003e\u003cp\u003eSomos una marca peruana premium de ropa deportiva femenina con más de 15 años en el mercado. Buscamos una supervisora de ventas con fuerte orientación comercial, liderazgo y enfoque en resultados.\u003c/p\u003e\u003cp\u003e¿Cuál será tu reto?\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsegurar el cumplimiento de las cuotas de ventas.\u003c/li\u003e \u003cli\u003eRealizar visitas a tiendas en los horarios de mayor afluencia.\u003c/li\u003e \u003cli\u003eMonitorear al personal de ventas para garantizar el cumplimiento de protocolos de atención al cliente, técnicas de venta y ejecución de campañas.\u003c/li\u003e \u003cli\u003eControlar la operación de tiendas: stock en piso, visual merchandising, asistencia del personal, etc.\u003c/li\u003e \u003cli\u003eParticipar de manera activa en el proceso de selección e inducción de administradoras y asesoras de ventas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 3 años supervisando equipos de ventas, de preferencia en retail de moda, deportivo o lifestyle.\u003c/li\u003e \u003cli\u003eManejo de KPIs de tienda: conversión, ticket promedio, UPT, cumplimiento de cuota y proyección de cierre.\u003c/li\u003e \u003cli\u003eCapacidad de liderar y acompañar a su equipo, con foco en el logro de resultados.\u003c/li\u003e \u003cli\u003eExcel intermedio\u003c/li\u003e \u003cli\u003eValoramos conocimiento del sector fitness o activewear.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOfrecemos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración fija + bonos por cumplimiento de resultados.\u003c/li\u003e \u003cli\u003ePlanilla con beneficios de ley.\u003c/li\u003e \u003cli\u003eLínea de carrera en una marca en crecimiento.\u003c/li\u003e \u003cli\u003eDescuento en productos WIN.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Postula y demuestra tu talento comercial!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

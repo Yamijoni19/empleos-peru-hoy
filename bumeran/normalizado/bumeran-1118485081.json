@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118485081",
+    "clave":  "id:1118485081",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-mantenimiento-de-piscinas-fjvpiscinassac-1118485081.html",
+                   "capturadoEn":  "2026-10-17T21:28:44+00:00"
+               },
+    "titulo":  "Ayudante de Mantenimiento de Piscinas",
+    "empresa":  "fjvpiscinassac",
+    "ubicacion":  "Lima - San Juan de Miraflores",
+    "ciudad":  "San Juan de Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Mantenimiento de Piscinas Resumen del Puesto Buscamos incorporar a nuestro equipo a 3 Ayudantes de Mantenimiento de Piscinas para realizar tareas de campo. El candidato ideal deberá poseer una actitud proactiva, responsabilidad y ganas de aprender sobre el sector. Responsabilidades Realizar la limpieza y el mantenimiento general de piscinas. Asistir en la revisión y mantenimiento de bombas, filtros y equipos asociados. Colaborar con el equipo en diversas tareas operativas. Requisitos Formación técnica en áreas como electricidad, mecánica, electromecánica o afines (deseable). Licencia de conducir vigente (obligatoria para algunas posiciones). Conocimientos básicos en el manejo de herramientas. Se valorará la responsabilidad, puntualidad y una fuerte disposición para el aprendizaje. Disponibilidad para comenzar a trabajar de forma inmediata. No se requiere experiencia previa en el mantenimiento de piscinas; se proporcionará capacitación completa. Modalidad de trabajo presencial, con desplazamientos inherentes a las funciones del puesto.",
+    "requisitos":  [
+                       "Formación técnica en áreas como electricidad, mecánica, electromecánica o afines (deseable)",
+                       "Licencia de conducir vigente (obligatoria para algunas posiciones)",
+                       "Conocimientos básicos en el manejo de herramientas",
+                       "Se valorará la responsabilidad, puntualidad y una fuerte disposición para el aprendizaje",
+                       "Disponibilidad para comenzar a trabajar de forma inmediata",
+                       "No se requiere experiencia previa en el mantenimiento de piscinas; se proporcionará capacitación completa",
+                       "Modalidad de trabajo presencial, con desplazamientos inherentes a las"
+                   ],
+    "funciones":  [
+                      "del puesto"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-mantenimiento-de-piscinas-fjvpiscinassac-1118485081.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-mantenimiento-de-piscinas-fjvpiscinassac-1118485081.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Mantenimiento de Piscinas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar a nuestro equipo a 3 \u003cb\u003eAyudantes de Mantenimiento de Piscinas\u003c/b\u003e para realizar tareas de campo. El candidato ideal deberá poseer una actitud proactiva, responsabilidad y ganas de aprender sobre el sector.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar la limpieza y el mantenimiento general de piscinas.\u003c/li\u003e \u003cli\u003eAsistir en la revisión y mantenimiento de bombas, filtros y equipos asociados.\u003c/li\u003e \u003cli\u003eColaborar con el equipo en diversas tareas operativas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica en áreas como electricidad, mecánica, electromecánica o afines (deseable).\u003c/li\u003e \u003cli\u003eLicencia de conducir vigente (obligatoria para algunas posiciones).\u003c/li\u003e \u003cli\u003eConocimientos básicos en el manejo de herramientas.\u003c/li\u003e \u003cli\u003eSe valorará la responsabilidad, puntualidad y una fuerte disposición para el aprendizaje.\u003c/li\u003e \u003cli\u003eDisponibilidad para comenzar a trabajar de forma inmediata.\u003c/li\u003e \u003cli\u003eNo se requiere experiencia previa en el mantenimiento de piscinas; se proporcionará capacitación completa.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eModalidad de trabajo presencial, con desplazamientos inherentes a las funciones del puesto.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

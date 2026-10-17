@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118485093",
+    "clave":  "id:1118485093",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-topografia-cosapi-s.a.-ingenieria-y-construccion-1118485093.html",
+                   "capturadoEn":  "2026-10-17T21:28:12+00:00"
+               },
+    "titulo":  "Supervisor de Topografía",
+    "empresa":  "COSAPI S.A. Ingeniería y Construcción",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Objetivo: Asegurar el óptimo desarrollo de los trabajos operativos de Topografía Funciones: Coordinar con el personal de producción para la realización de los trabajos Hacer seguimiento al control de calibración de los equipos topográficos Cumplir con todos los procedimientos e instrucciones de trabajo de Seguridad, Salud Ocupacional y Medio Ambiente aplicables a su trabajo. Requisitos: Experiencia de 5 años en el cargo de Topografo Estudios Técnicos completos en Topografía",
+    "requisitos":  [
+                       "Experiencia de 5 años en el cargo de Topografo",
+                       "Estudios Técnicos completos en Topografía"
+                   ],
+    "funciones":  [
+                      "Coordinar con el personal de producción para la realización de los trabajos",
+                      "Hacer seguimiento al control de calibración de los equipos topográficos",
+                      "Cumplir con todos los procedimientos e instrucciones de trabajo de Seguridad, Salud Ocupacional y Medio Ambiente aplicables a su trabajo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-topografia-cosapi-s.a.-ingenieria-y-construccion-1118485093.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-topografia-cosapi-s.a.-ingenieria-y-construccion-1118485093.html",
+    "descripcion_html":  "\u003cp\u003eObjetivo: Asegurar el óptimo desarrollo de los trabajos operativos de Topografía\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eCoordinar con el personal de producción para la realización de los trabajos\u003c/li\u003e \u003cli\u003eHacer seguimiento al control de calibración de los equipos topográficos\u003c/li\u003e \u003cli\u003eCumplir con todos los procedimientos e instrucciones de trabajo de Seguridad, Salud Ocupacional y Medio Ambiente aplicables a su trabajo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia de 5 años en el cargo de Topografo\u003c/li\u003e \u003cli\u003eEstudios Técnicos completos en Topografía\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
