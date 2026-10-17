@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118483197",
+    "clave":  "id:1118483197",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-mantenimiento-y-limpieza-sandra-revollar-ridoutt-1118483197.html",
+                   "capturadoEn":  "2026-10-17T06:57:33+00:00"
+               },
+    "titulo":  "Auxiliar de Mantenimiento y Limpieza",
+    "empresa":  "Sandra Revollar Ridoutt",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Mantenimiento y Limpieza Resumen del Puesto Buscamos una persona responsable, proactiva y comprometida para unirse a nuestro equipo, encargada de la limpieza, el mantenimiento y el cuidado de nuestras instalaciones. El candidato ideal tendrá experiencia en entornos similares y una fuerte orientación al detalle. Responsabilidades Principales Realizar la limpieza y desinfección de consultorios, oficinas, baños y áreas comunes. Mantener el orden y la adecuada presentación de las instalaciones. Ejecutar tareas básicas de mantenimiento y reportar desperfectos. Controlar y reponer los insumos de limpieza necesarios. Utilizar de manera adecuada los materiales, equipos y productos de limpieza. Requisitos Experiencia previa en limpieza y mantenimiento de clínicas, consultorios u oficinas. Conocimiento de procedimientos de limpieza y desinfección, especialmente en establecimientos de salud. Capacidad para realizar mantenimiento básico de instalaciones y mobiliario. Demostrar responsabilidad, puntualidad, orden y atención al detalle. Disposición para seguir protocolos de higiene, bioseguridad y seguridad laboral.",
+    "requisitos":  [
+                       "Experiencia previa en limpieza y mantenimiento de clínicas, consultorios u oficinas",
+                       "Conocimiento de procedimientos de limpieza y desinfección, especialmente en establecimientos de salud",
+                       "Capacidad para realizar mantenimiento básico de instalaciones y mobiliario",
+                       "Demostrar responsabilidad, puntualidad, orden y atención al detalle",
+                       "Disposición para seguir protocolos de higiene, bioseguridad y seguridad laboral"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-mantenimiento-y-limpieza-sandra-revollar-ridoutt-1118483197.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-mantenimiento-y-limpieza-sandra-revollar-ridoutt-1118483197.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar de Mantenimiento y Limpieza\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona responsable, proactiva y comprometida para unirse a nuestro equipo, encargada de la limpieza, el mantenimiento y el cuidado de nuestras instalaciones. El candidato ideal tendrá experiencia en entornos similares y una fuerte orientación al detalle.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar la limpieza y desinfección de consultorios, oficinas, baños y áreas comunes.\u003c/li\u003e \u003cli\u003eMantener el orden y la adecuada presentación de las instalaciones.\u003c/li\u003e \u003cli\u003eEjecutar tareas básicas de mantenimiento y reportar desperfectos.\u003c/li\u003e \u003cli\u003eControlar y reponer los insumos de limpieza necesarios.\u003c/li\u003e \u003cli\u003eUtilizar de manera adecuada los materiales, equipos y productos de limpieza.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en limpieza y mantenimiento de clínicas, consultorios u oficinas.\u003c/li\u003e \u003cli\u003eConocimiento de procedimientos de limpieza y desinfección, especialmente en establecimientos de salud.\u003c/li\u003e \u003cli\u003eCapacidad para realizar mantenimiento básico de instalaciones y mobiliario.\u003c/li\u003e \u003cli\u003eDemostrar responsabilidad, puntualidad, orden y atención al detalle.\u003c/li\u003e \u003cli\u003eDisposición para seguir protocolos de higiene, bioseguridad y seguridad laboral.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

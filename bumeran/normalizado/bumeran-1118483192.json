@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118483192",
+    "clave":  "id:1118483192",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-secretaria-sandra-revollar-ridoutt-1118483192.html",
+                   "capturadoEn":  "2026-10-17T06:57:35+00:00"
+               },
+    "titulo":  "Asistente Administrativo/Secretaria",
+    "empresa":  "Sandra Revollar Ridoutt",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1650,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,650 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativo/Secretaria Resumen del Puesto Buscamos una persona responsable, organizada y con vocación de servicio para integrarse a nuestro equipo de trabajo. El rol principal será brindar soporte administrativo y atención a pacientes, asegurando un flujo de trabajo eficiente y una experiencia positiva. Responsabilidades Atención presencial y telefónica a pacientes. Gestión de comunicaciones (mensajería instantánea, llamadas telefónicas). Programación, coordinación y seguimiento de citas. Confirmación y reprogramación de citas. Apoyo en la gestión de documentación administrativa y facturación. Organización y seguimiento de información relevante. Requisitos Experiencia previa en atención al cliente, recepción o funciones secretariales. Manejo de herramientas de comunicación y gestión de agendas. Conocimientos básicos de herramientas ofimáticas (procesador de texto, hojas de cálculo). Excelentes habilidades de comunicación, organización y trato interpersonal. Capacidad para coordinar tareas, realizar seguimientos y gestionar información de manera efectiva. Se valorará la puntualidad, iniciativa y responsabilidad.",
+    "requisitos":  [
+                       "Experiencia previa en atención al cliente, recepción o"
+                   ],
+    "funciones":  [
+                      "secretariales",
+                      "Manejo de herramientas de comunicación y gestión de agendas",
+                      "Conocimientos básicos de herramientas ofimáticas (procesador de texto, hojas de cálculo)",
+                      "Excelentes habilidades de comunicación, organización y trato interpersonal",
+                      "Capacidad para coordinar tareas, realizar seguimientos y gestionar información de manera efectiva",
+                      "Se valorará la puntualidad, iniciativa y responsabilidad"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-secretaria-sandra-revollar-ridoutt-1118483192.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-secretaria-sandra-revollar-ridoutt-1118483192.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Administrativo/Secretaria\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona responsable, organizada y con vocación de servicio para integrarse a nuestro equipo de trabajo. El rol principal será brindar soporte administrativo y atención a pacientes, asegurando un flujo de trabajo eficiente y una experiencia positiva.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtención presencial y telefónica a pacientes.\u003c/li\u003e \u003cli\u003eGestión de comunicaciones (mensajería instantánea, llamadas telefónicas).\u003c/li\u003e \u003cli\u003eProgramación, coordinación y seguimiento de citas.\u003c/li\u003e \u003cli\u003eConfirmación y reprogramación de citas.\u003c/li\u003e \u003cli\u003eApoyo en la gestión de documentación administrativa y facturación.\u003c/li\u003e \u003cli\u003eOrganización y seguimiento de información relevante.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en atención al cliente, recepción o funciones secretariales.\u003c/li\u003e \u003cli\u003eManejo de herramientas de comunicación y gestión de agendas.\u003c/li\u003e \u003cli\u003eConocimientos básicos de herramientas ofimáticas (procesador de texto, hojas de cálculo).\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, organización y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para coordinar tareas, realizar seguimientos y gestionar información de manera efectiva.\u003c/li\u003e \u003cli\u003eSe valorará la puntualidad, iniciativa y responsabilidad.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

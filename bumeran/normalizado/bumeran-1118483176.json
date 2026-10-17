@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118483176",
+    "clave":  "id:1118483176",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-limpieza-sandra-revollar-ridoutt-1118483176.html",
+                   "capturadoEn":  "2026-10-17T06:57:53+00:00"
+               },
+    "titulo":  "Auxiliar de Limpieza",
+    "empresa":  "Sandra Revollar Ridoutt",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Limpieza Resumen del Puesto Buscamos una persona responsable, puntual y comprometida con la limpieza y el orden para unirse a nuestro equipo. El candidato ideal tendrá experiencia en limpieza de oficinas, clínicas o establecimientos de salud y será capaz de mantener un ambiente de trabajo impecable. Responsabilidades Mantener el orden, la limpieza y la adecuada presentación de los ambientes asignados. Realizar la limpieza y desinfección de baños, áreas comunes y oficinas. Cumplir con los protocolos de higiene y desinfección establecidos. Reponer insumos de limpieza según sea necesario. Asegurar el cumplimiento de las normas de higiene. Requisitos Experiencia previa en limpieza de oficinas, clínicas o establecimientos de salud (deseable). Responsabilidad, puntualidad y proactividad. Capacidad para seguir instrucciones y protocolos. Habilidad para trabajar de forma independiente y en equipo.",
+    "requisitos":  [
+                       "Experiencia previa en limpieza de oficinas, clínicas o establecimientos de salud (deseable)",
+                       "Responsabilidad, puntualidad y proactividad",
+                       "Capacidad para seguir instrucciones y protocolos",
+                       "Habilidad para trabajar de forma independiente y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-limpieza-sandra-revollar-ridoutt-1118483176.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-limpieza-sandra-revollar-ridoutt-1118483176.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar de Limpieza\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona responsable, puntual y comprometida con la limpieza y el orden para unirse a nuestro equipo. El candidato ideal tendrá experiencia en limpieza de oficinas, clínicas o establecimientos de salud y será capaz de mantener un ambiente de trabajo impecable.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eMantener el orden, la limpieza y la adecuada presentación de los ambientes asignados.\u003c/li\u003e \u003cli\u003eRealizar la limpieza y desinfección de baños, áreas comunes y oficinas.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de higiene y desinfección establecidos.\u003c/li\u003e \u003cli\u003eReponer insumos de limpieza según sea necesario.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las normas de higiene.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en limpieza de oficinas, clínicas o establecimientos de salud (deseable).\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y proactividad.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y protocolos.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma independiente y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
