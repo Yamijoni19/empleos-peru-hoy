@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118483219",
+    "clave":  "id:1118483219",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-comercial-escala-grupo-inmobiliario-1118483219.html",
+                   "capturadoEn":  "2026-10-17T01:19:54+00:00"
+               },
+    "titulo":  "Asesor(a) Comercial",
+    "empresa":  "Escala Grupo Inmobiliario",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor(a) Comercial Resumen del Puesto Buscamos un(a) Asesor(a) Comercial proactivo(a), responsable y con excelentes habilidades de comunicación, negociación y orientación a resultados para unirse a nuestro equipo. Serás la persona clave en la atención a prospectos y clientes, brindando información sobre nuestros proyectos y gestionando el ciclo de ventas. Responsabilidades Atender a prospectos interesados en nuestros proyectos. Realizar llamadas comerciales y brindar información detallada sobre los productos. Dar seguimiento a clientes potenciales para asegurar el cierre de ventas. Gestionar el CRM para el registro y seguimiento de interacciones. Agendar presentaciones comerciales y reuniones con clientes. Requisitos Experiencia previa en ventas o atención comercial. Manejo de herramientas de comunicación digital, como WhatsApp Business. Excelentes habilidades de comunicación verbal y escrita. Capacidad de organización y gestión del tiempo. Orientación a resultados y proactividad. Ofrecemos Remuneración competitiva con sueldo fijo y bonificaciones por venta. Capacitación continua para el desarrollo profesional. Oportunidades de crecimiento dentro de la organización. Modalidad de trabajo de lunes a viernes en horario laboral.",
+    "requisitos":  [
+                       "Experiencia previa en ventas o atención comercial",
+                       "Manejo de herramientas de comunicación digital, como WhatsApp Business",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad de organización y gestión del tiempo",
+                       "Orientación a resultados y proactividad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-comercial-escala-grupo-inmobiliario-1118483219.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-comercial-escala-grupo-inmobiliario-1118483219.html",
+    "descripcion_html":  "\u003cb\u003eAsesor(a) Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eAsesor(a) Comercial\u003c/b\u003e proactivo(a), responsable y con excelentes habilidades de comunicación, negociación y orientación a resultados para unirse a nuestro equipo. Serás la persona clave en la atención a prospectos y clientes, brindando información sobre nuestros proyectos y gestionando el ciclo de ventas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender a prospectos interesados en nuestros proyectos.\u003c/li\u003e \u003cli\u003eRealizar llamadas comerciales y brindar información detallada sobre los productos.\u003c/li\u003e \u003cli\u003eDar seguimiento a clientes potenciales para asegurar el cierre de ventas.\u003c/li\u003e \u003cli\u003eGestionar el CRM para el registro y seguimiento de interacciones.\u003c/li\u003e \u003cli\u003eAgendar presentaciones comerciales y reuniones con clientes.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en ventas o atención comercial.\u003c/li\u003e \u003cli\u003eManejo de herramientas de comunicación digital, como WhatsApp Business.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad de organización y gestión del tiempo.\u003c/li\u003e \u003cli\u003eOrientación a resultados y proactividad.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva con sueldo fijo y bonificaciones por venta.\u003c/li\u003e \u003cli\u003eCapacitación continua para el desarrollo profesional.\u003c/li\u003e \u003cli\u003eOportunidades de crecimiento dentro de la organización.\u003c/li\u003e \u003cli\u003eModalidad de trabajo de lunes a viernes en horario laboral.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

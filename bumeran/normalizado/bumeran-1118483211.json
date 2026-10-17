@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118483211",
+    "clave":  "id:1118483211",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-junior-obra-colegiado-tt-ingenieria-y-construccion-s.a.-1118483211.html",
+                   "capturadoEn":  "2026-10-17T01:20:19+00:00"
+               },
+    "titulo":  "INGENIERO CIVIL JUNIOR OBRA- COLEGIADO",
+    "empresa":  "T\u0026T Ingeniería y Construcción S.A.",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2300,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "s/2300 a s/2500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Empresa con más de 27 años de experiencia ofreciendo productos y servicios para las industrias minera, pesquera, de construcción, entre otras, en el Perú. Especialistas en HDPE en el Perú, tanto en fabricación como en instalación de tuberías y geosintéticos, se encuentra en búsqueda de un INGENIERO CIVIL JUNIOR para su planta ubicada en LURIN. REQUISITOS: Colegiado y habilitado en Ingeniería Civil. (deseable) Experiencia o conocimiento en cercos. Experiencia o conocimiento en interpretación de planos y metrados. Experiencia en elaboración de presupuestos y control de gastos. Conocimiento en gestión de licencia de construcción. Disponibilidad para laborar en Lurin de lunes a viernes de 8:00am a 6pm y de trasladarse a oficina en Miraflores cuando se requiera. OFRECEMOS: Planilla desde el primer día con todos los beneficios de ley (Régimen General) EPS cubierto al 50% Pagos quincenales Sueldo s/2300 a s/2500 acorde a experiencia Utilidades",
+    "requisitos":  [
+                       "Colegiado y habilitado en Ingeniería Civil. (deseable)",
+                       "Experiencia o conocimiento en cercos",
+                       "Experiencia o conocimiento en interpretación de planos y metrados",
+                       "Experiencia en elaboración de presupuestos y control de gastos",
+                       "Conocimiento en gestión de licencia de construcción",
+                       "Disponibilidad para laborar en Lurin de lunes a viernes de 8:00am a 6pm y de trasladarse a oficina en Miraflores cuando se requiera"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley (Régimen General)",
+                       "EPS cubierto al 50%",
+                       "Pagos quincenales",
+                       "Sueldo s/2300 a s/2500 acorde a experiencia",
+                       "Utilidades"
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-junior-obra-colegiado-tt-ingenieria-y-construccion-s.a.-1118483211.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-junior-obra-colegiado-tt-ingenieria-y-construccion-s.a.-1118483211.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa con más de 27 años de experiencia ofreciendo productos y servicios para las industrias minera, pesquera, de construcción, entre otras, en el Perú. Especialistas en HDPE en el Perú, tanto en fabricación como en instalación de tuberías y geosintéticos, se encuentra en búsqueda de un \u003cstrong\u003eINGENIERO CIVIL JUNIOR \u003c/strong\u003e para su planta ubicada en \u003cstrong\u003eLURIN.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eREQUISITOS:\u003c/p\u003e\u003cul\u003e \u003cli\u003eColegiado y habilitado en Ingeniería Civil. (deseable)\u003c/li\u003e \u003cli\u003eExperiencia o conocimiento en cercos.\u003c/li\u003e \u003cli\u003eExperiencia o conocimiento en interpretación de planos y metrados.\u003c/li\u003e \u003cli\u003eExperiencia en elaboración de presupuestos y control de gastos.\u003c/li\u003e \u003cli\u003eConocimiento en gestión de licencia de construcción.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en Lurin de lunes a viernes de 8:00am a 6pm y de trasladarse a oficina en Miraflores cuando se requiera.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOFRECEMOS:\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla desde el primer día con todos los beneficios de ley (Régimen General)\u003c/li\u003e \u003cli\u003eEPS cubierto al 50%\u003c/li\u003e \u003cli\u003ePagos quincenales\u003c/li\u003e \u003cli\u003eSueldo s/2300 a s/2500 acorde a experiencia\u003c/li\u003e \u003cli\u003eUtilidades\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 27 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

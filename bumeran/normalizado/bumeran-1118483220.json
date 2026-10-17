@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118483220",
+    "clave":  "id:1118483220",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-logistica-y-transporte-pyp-ings-s.a.c.-1118483220.html",
+                   "capturadoEn":  "2026-10-17T01:19:49+00:00"
+               },
+    "titulo":  "Operario de Logística y Transporte",
+    "empresa":  "PyP Ings S.A.C.",
+    "ubicacion":  "Lima - Independencia",
+    "ciudad":  "Independencia",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Logística y Transporte Resumen del Puesto Buscamos un Operario de Logística y Transporte responsable y organizado para unirse a nuestro equipo. El candidato ideal será clave en la gestión y distribución de materiales y herramientas, asegurando la eficiencia operativa. Responsabilidades Realizar el transporte de materiales y herramientas al personal de campo. Llevar un control detallado de los materiales y equipamiento. Gestionar la entrega y recojo de equipamiento de manera eficiente. Operar vehículos de la empresa de forma segura y responsable. Cumplir con todas las normativas de tránsito y seguridad vial. Requisitos Licencia de conducir vigente y sin infracciones. Experiencia demostrable en conducción y manejo de vehículos. Capacidad para mantener registros y controles de inventario. Alto sentido de la responsabilidad y compromiso. Disponibilidad para trabajar de Lunes a Viernes. No contar con antecedentes penales ni judiciales.",
+    "requisitos":  [
+                       "Licencia de conducir vigente y sin infracciones",
+                       "Experiencia demostrable en conducción y manejo de vehículos",
+                       "Capacidad para mantener registros y controles de inventario",
+                       "Alto sentido de la responsabilidad y compromiso",
+                       "Disponibilidad para trabajar de Lunes a Viernes",
+                       "No contar con antecedentes penales ni judiciales"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-logistica-y-transporte-pyp-ings-s.a.c.-1118483220.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-logistica-y-transporte-pyp-ings-s.a.c.-1118483220.html",
+    "descripcion_html":  "\u003cb\u003eOperario de Logística y Transporte\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eOperario de Logística y Transporte\u003c/b\u003e responsable y organizado para unirse a nuestro equipo. El candidato ideal será clave en la gestión y distribución de materiales y herramientas, asegurando la eficiencia operativa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el transporte de materiales y herramientas al personal de campo.\u003c/li\u003e \u003cli\u003eLlevar un control detallado de los materiales y equipamiento.\u003c/li\u003e \u003cli\u003eGestionar la entrega y recojo de equipamiento de manera eficiente.\u003c/li\u003e \u003cli\u003eOperar vehículos de la empresa de forma segura y responsable.\u003c/li\u003e \u003cli\u003eCumplir con todas las normativas de tránsito y seguridad vial.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eLicencia de conducir vigente y sin infracciones.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en conducción y manejo de vehículos.\u003c/li\u003e \u003cli\u003eCapacidad para mantener registros y controles de inventario.\u003c/li\u003e \u003cli\u003eAlto sentido de la responsabilidad y compromiso.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de Lunes a Viernes.\u003c/li\u003e \u003cli\u003eNo contar con antecedentes penales ni judiciales.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118483204",
+    "clave":  "id:1118483204",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/montacarguista-apilador-hasta-s-.2100-sachaca-alimentacion-y-bono-de-movilidad-adecco-peru-s.a.-1118483204.html",
+                   "capturadoEn":  "2026-10-17T01:20:39+00:00"
+               },
+    "titulo":  "Montacarguista Apilador - Hasta S/.2100 - Sachaca - Alimentación y Bono de Movilidad",
+    "empresa":  "ADECCO PERU S.A.",
+    "ubicacion":  "Arequipa - Distrito de Sachaca",
+    "ciudad":  "Distrito de Sachaca",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1850,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,850 - S/ 2,100",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Únete a este gran equipo! Por encargo de nuestro importante cliente, empresa Peruana dedicada a la producción y distribución de bebidas y alimentos, nos encontramos en la búsqueda del mejor talento para ocupar la posición de OPERADOR DE MONTACARGAS para su sede en AREQUIPA. Requisitos: Secundaria Completa. 1 Año de experiencia como Operador de Montacarga. Licencia A1 vigente y Curso de Montacarga. Disponibilidad para trabajar en horarios rotativos en Sachaca (Arequipa). Beneficios: Planilla completa desde el primer día (Utilidades, gratificación, CTS, etc). Sueldo básico + Alimentación cubierta 100% + Bono de movilidad. Venta de productos a precio de fábrica. Día libre por cumpleaños. Si estás interesado en la vacante no dudes en postular para contactarte y explicarte el proceso de selección. ¡Promovemos el empleo formal, brindando trabajo a más personas!",
+    "requisitos":  [
+                       "Secundaria Completa",
+                       "1 Año de experiencia como Operador de Montacarga",
+                       "Licencia A1 vigente y Curso de Montacarga",
+                       "Disponibilidad para trabajar en horarios rotativos en Sachaca (Arequipa)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Planilla completa desde el primer día (Utilidades, gratificación, CTS, etc)",
+                       "Sueldo básico + Alimentación cubierta 100% + Bono de movilidad",
+                       "Venta de productos a precio de fábrica",
+                       "Día libre por cumpleaños",
+                       "Si estás interesado en la vacante no dudes en postular para contactarte y explicarte el proceso de selección",
+                       "¡Promovemos el empleo formal, brindando trabajo a más personas!"
+                   ],
+    "fecha_publicacion":  "2026-10-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/montacarguista-apilador-hasta-s-.2100-sachaca-alimentacion-y-bono-de-movilidad-adecco-peru-s.a.-1118483204.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/montacarguista-apilador-hasta-s-.2100-sachaca-alimentacion-y-bono-de-movilidad-adecco-peru-s.a.-1118483204.html",
+    "descripcion_html":  "\u003cp\u003e¡Únete a este gran equipo!\u003c/p\u003e\u003cp\u003ePor encargo de nuestro importante cliente, empresa Peruana dedicada a la producción y distribución de bebidas y alimentos, nos encontramos en la búsqueda del mejor talento para ocupar la posición de OPERADOR DE MONTACARGAS para su sede en AREQUIPA.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria Completa.\u003c/li\u003e \u003cli\u003e1 Año de experiencia como Operador de Montacarga.\u003c/li\u003e \u003cli\u003eLicencia A1 vigente y Curso de Montacarga.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos en Sachaca (Arequipa).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla completa desde el primer día (Utilidades, gratificación, CTS, etc).\u003c/li\u003e \u003cli\u003eSueldo básico + Alimentación cubierta 100% + Bono de movilidad.\u003c/li\u003e \u003cli\u003eVenta de productos a precio de fábrica.\u003c/li\u003e \u003cli\u003eDía libre por cumpleaños.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSi estás interesado en la vacante no dudes en postular para contactarte y explicarte el proceso de selección.\u003c/p\u003e\u003cp\u003e¡Promovemos el empleo formal, brindando trabajo a más personas!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
