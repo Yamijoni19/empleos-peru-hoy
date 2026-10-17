@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118485145",
+    "clave":  "id:1118485145",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-practicas-profesionales-1118485145.html",
+                   "capturadoEn":  "2026-10-17T15:34:41+00:00"
+               },
+    "titulo":  "Asistente de Recursos Humanos - practicas profesionales",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Convocatoria: Asistente de Recursos Humanos (Medio Tiempo) Nuestra organización se encuentra en la búsqueda de un/a Asistente de Recursos Humanos para incorporarse bajo la modalidad de medio tiempo. Se valorará tanto a postulantes con experiencia como a quienes deseen iniciar su trayectoria profesional en el área. Principales funciones: Gestionar la difusión y publicación de ofertas laborales. Elaborar y administrar controles e informes del área. Atender y dar respuesta a los mensajes de los postulantes. Programar y coordinar las entrevistas. Perfil buscado: Personas proactivas, organizadas y con disposición para aprender y crecer dentro de la institución. No se requiere experiencia previa. Para mayor información, comunicarse al número: 994188925 .",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Gestionar la difusión y publicación de ofertas laborales",
+                      "Elaborar y administrar controles e informes del área",
+                      "Atender y dar respuesta a los mensajes de los postulantes",
+                      "Programar y coordinar las entrevistas"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-practicas-profesionales-1118485145.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-practicas-profesionales-1118485145.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eConvocatoria: Asistente de Recursos Humanos (Medio Tiempo)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra organización se encuentra en la búsqueda de un/a Asistente de Recursos Humanos para incorporarse bajo la modalidad de medio tiempo. Se valorará tanto a postulantes con experiencia como a quienes deseen iniciar su trayectoria profesional en el área.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar la difusión y publicación de ofertas laborales.\u003c/li\u003e \u003cli\u003eElaborar y administrar controles e informes del área.\u003c/li\u003e \u003cli\u003eAtender y dar respuesta a los mensajes de los postulantes.\u003c/li\u003e \u003cli\u003eProgramar y coordinar las entrevistas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePerfil buscado:\u003c/strong\u003e Personas proactivas, organizadas y con disposición para aprender y crecer dentro de la institución. No se requiere experiencia previa.\u003c/p\u003e\u003cp\u003ePara mayor información, comunicarse al número: \u003cstrong\u003e994188925\u003c/strong\u003e.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Medio tiempo",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

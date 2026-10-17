@@ -1,0 +1,83 @@
+{
+    "id":  "bumeran-1118485149",
+    "clave":  "id:1118485149",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-de-robotica-senior-informatica-delta-s.a.c.-1118485149.html",
+                   "capturadoEn":  "2026-10-17T15:34:37+00:00"
+               },
+    "titulo":  "Desarrollador de Robótica Senior",
+    "empresa":  "INFORMATICA DELTA S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Funciones Principales: Desarrollo de procesos automatizados (bots) haciendo uso de la herramienta Uipath. Ajustes de defectos reportados por el área de Certificación. Soporte de incidentes/defectos Conocimientos y Certificaciones Indispensables: Uipath Studio Uipath Orquestador VB Uipath Terminal Conocimientos y Certificaciones Deseables: Certificado uipath developer advanced C# Habilidades Blandas: Comunicación Efectiva Trabajo Colaborativo",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Desarrollo de procesos automatizados (bots) haciendo uso de la herramienta Uipath",
+                      "Ajustes de defectos reportados por el área de Certificación",
+                      "Soporte de incidentes/defectos",
+                      "Conocimientos y Certificaciones Indispensables",
+                      "Uipath Studio",
+                      "Uipath Orquestador",
+                      "VB",
+                      "Uipath Terminal",
+                      "Conocimientos y Certificaciones Deseables",
+                      "Certificado uipath developer advanced",
+                      "C#",
+                      "Habilidades Blandas",
+                      "Comunicación Efectiva",
+                      "Trabajo Colaborativo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-de-robotica-senior-informatica-delta-s.a.c.-1118485149.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-de-robotica-senior-informatica-delta-s.a.c.-1118485149.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eFunciones Principales: \u003c/strong\u003e\u003c/p\u003e\u003col\u003e \u003cli\u003eDesarrollo de procesos automatizados (bots) haciendo uso de la herramienta Uipath. \u003c/li\u003e \u003cli\u003eAjustes de defectos reportados por el área de Certificación. \u003c/li\u003e \u003cli\u003eSoporte de incidentes/defectos\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eConocimientos y Certificaciones Indispensables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUipath Studio \u003c/li\u003e \u003cli\u003eUipath Orquestador \u003c/li\u003e \u003cli\u003eVB \u003c/li\u003e \u003cli\u003eUipath Terminal\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos y Certificaciones Deseables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCertificado uipath developer advanced \u003c/li\u003e \u003cli\u003eC#\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eHabilidades Blandas:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComunicación Efectiva \u003c/li\u003e \u003cli\u003eTrabajo Colaborativo\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

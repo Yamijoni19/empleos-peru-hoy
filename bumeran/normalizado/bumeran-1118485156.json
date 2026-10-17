@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118485156",
+    "clave":  "id:1118485156",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-proyecto-cosapi-s.a.-ingenieria-y-construccion-1118485156.html",
+                   "capturadoEn":  "2026-10-17T15:34:32+00:00"
+               },
+    "titulo":  "ASISTENTE DE ADMINISTRACION DE PROYECTO",
+    "empresa":  "COSAPI S.A. Ingeniería y Construcción",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Objetivo: Brindar asistencia en la gestión administrativa y contable del proyecto, cuidando los recursos económicos y financieros, de acuerdo a los procedimientos establecidos por la compañía, a fin de garantizar un soporte integral al proyecto. Funciones: Registrar los comprobantes de pago de proveedores y Caja Chica en el sistema contable de acuerdo a los procedimientos establecidos por la empresa y los sustentos requeridos para su contabilización. Registrar los comprobantes de pago de proveedores y Caja Chica en el sistema contable de acuerdo a los procedimientos establecidos por la empresa y los sustentos requeridos para su contabilización. Colaborar con la elaboración de los inventarios inopinados, acompañando al Jefe de Almacén, en el proyecto a fin de evitar que se generen diferencias como sobrantes y faltantes. Soportar en tareas administrativas del proyecto y atender a las áreas usuarias con la información que gobierna la Administración de Proyecto (consultas en el Oracle, incidencias). Requisitos: Experiencia laboral mínima de 1 año como Asistente Administrativo del rubro de Construcción Técnico Titulado en Contabilidas, Administración, Computación e Informatica o afines",
+    "requisitos":  [
+                       "Experiencia laboral mínima de 1 año como Asistente Administrativo del rubro de Construcción",
+                       "Técnico Titulado en Contabilidas, Administración, Computación e Informatica o afines"
+                   ],
+    "funciones":  [
+                      "Registrar los comprobantes de pago de proveedores y Caja Chica en el sistema contable de acuerdo a los procedimientos establecidos por la empresa y los sustentos requeridos para su contabilización",
+                      "Colaborar con la elaboración de los inventarios inopinados, acompañando al Jefe de Almacén, en el proyecto a fin de evitar que se generen diferencias como sobrantes y faltantes",
+                      "Soportar en tareas administrativas del proyecto y atender a las áreas usuarias con la información que gobierna la Administración de Proyecto (consultas en el Oracle, incidencias)"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-proyecto-cosapi-s.a.-ingenieria-y-construccion-1118485156.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-proyecto-cosapi-s.a.-ingenieria-y-construccion-1118485156.html",
+    "descripcion_html":  "\u003cp\u003eObjetivo: Brindar asistencia en la gestión administrativa y contable del proyecto, cuidando los recursos económicos y financieros, de acuerdo a los procedimientos establecidos por la compañía, a fin de garantizar un soporte integral al proyecto.\u003c/p\u003e\u003cp\u003eFunciones: \u003c/p\u003e\u003cul\u003e \u003cli\u003eRegistrar los comprobantes de pago de proveedores y Caja Chica en el sistema contable de acuerdo a los procedimientos establecidos por la empresa y los sustentos requeridos para su contabilización.\u003c/li\u003e \u003cli\u003eRegistrar los comprobantes de pago de proveedores y Caja Chica en el sistema contable de acuerdo a los procedimientos establecidos por la empresa y los sustentos requeridos para su contabilización.\u003c/li\u003e \u003cli\u003eColaborar con la elaboración de los inventarios inopinados, acompañando al Jefe de Almacén, en el proyecto a fin de evitar que se generen diferencias como sobrantes y faltantes.\u003c/li\u003e \u003cli\u003eSoportar en tareas administrativas del proyecto y atender a las áreas usuarias con la información que gobierna la Administración de Proyecto (consultas en el Oracle, incidencias).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia laboral mínima de 1 año como Asistente Administrativo del rubro de Construcción\u003c/li\u003e \u003cli\u003eTécnico Titulado en Contabilidas, Administración, Computación e Informatica o afines\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

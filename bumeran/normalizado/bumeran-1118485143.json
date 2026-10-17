@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485143",
+    "clave":  "id:1118485143",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-rr.hh-1118485143.html",
+                   "capturadoEn":  "2026-10-17T15:34:45+00:00"
+               },
+    "titulo":  "Asistente de RR.HH",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Estamos en búsqueda de un asistente de recursos humanos para trabajar en medio tiempo, el puesto es con o sin experiencia. Sus funciones a realizar serían : manejo de publicidad, manejar controles y reportes , recepción de mensajes , coordinar entrevistas . El puesto es con o sin experiencia, buscamos personas proactivas y con ganas de aprender Para mas informacion escribir al numero: 994188925",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "a realizar serían : manejo de publicidad, manejar controles y reportes , recepción de mensajes , coordinar entrevistas . El puesto es con o sin experiencia, buscamos personas proactivas y con ganas de aprender",
+                      "Para mas informacion escribir al numero: 994188925"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-rr.hh-1118485143.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-rr.hh-1118485143.html",
+    "descripcion_html":  "\u003cp\u003eEstamos en búsqueda de un asistente de recursos humanos para trabajar en medio tiempo, el puesto es con o sin experiencia. Sus funciones a realizar serían : manejo de publicidad, manejar controles y reportes , recepción de mensajes , coordinar entrevistas . El puesto es con o sin experiencia, buscamos personas proactivas y con ganas de aprender\u003c/p\u003e\u003cp\u003ePara mas informacion escribir al numero: 994188925\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Medio tiempo",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118485135",
+    "clave":  "id:1118485135",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-minera-chinalco-1118485135.html",
+                   "capturadoEn":  "2026-10-17T15:34:49+00:00"
+               },
+    "titulo":  "Médico Ocupacional",
+    "empresa":  "Minera Chinalco",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1700,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,700 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Médico Ocupacional Resumen del Puesto Estamos en la búsqueda de un profesional Médico Ocupacional con experiencia para integrarse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento en salud laboral y la capacidad de gestionar programas de bienestar y prevención de riesgos en el ámbito laboral. Responsabilidades Realizar evaluaciones médicas pre-ocupacionales, periódicas y de egreso. Diagnosticar y tratar patologías relacionadas con el trabajo. Diseñar e implementar programas de vigilancia de la salud de los trabajadores. Asesorar sobre medidas de prevención y control de riesgos laborales. Colaborar en la elaboración de planes de emergencia y contingencia. Mantener actualizada la documentación médica y legal. Requisitos Título de Médico Cirujano con especialización o experiencia comprobable en Medicina Ocupacional o Salud Laboral. Experiencia previa en el rol de Médico Ocupacional. Conocimiento de la legislación vigente en materia de salud y seguridad laboral. Habilidades de comunicación y capacidad para interactuar con diferentes niveles jerárquicos. Capacidad para el trabajo en equipo y gestión de proyectos. Orientación a la prevención y promoción de la salud.",
+    "requisitos":  [
+                       "Título de Médico Cirujano con especialización o experiencia comprobable en Medicina Ocupacional o Salud Laboral",
+                       "Experiencia previa en el rol de Médico Ocupacional",
+                       "Conocimiento de la legislación vigente en materia de salud y seguridad laboral",
+                       "Habilidades de comunicación y capacidad para interactuar con diferentes niveles jerárquicos",
+                       "Capacidad para el trabajo en equipo y gestión de proyectos",
+                       "Orientación a la prevención y promoción de la salud"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-minera-chinalco-1118485135.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-minera-chinalco-1118485135.html",
+    "descripcion_html":  "\u003cb\u003eMédico Ocupacional\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional Médico Ocupacional con experiencia para integrarse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento en salud laboral y la capacidad de gestionar programas de bienestar y prevención de riesgos en el ámbito laboral.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar evaluaciones médicas pre-ocupacionales, periódicas y de egreso.\u003c/li\u003e \u003cli\u003eDiagnosticar y tratar patologías relacionadas con el trabajo.\u003c/li\u003e \u003cli\u003eDiseñar e implementar programas de vigilancia de la salud de los trabajadores.\u003c/li\u003e \u003cli\u003eAsesorar sobre medidas de prevención y control de riesgos laborales.\u003c/li\u003e \u003cli\u003eColaborar en la elaboración de planes de emergencia y contingencia.\u003c/li\u003e \u003cli\u003eMantener actualizada la documentación médica y legal.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Médico Cirujano con especialización o experiencia comprobable en Medicina Ocupacional o Salud Laboral.\u003c/li\u003e \u003cli\u003eExperiencia previa en el rol de Médico Ocupacional.\u003c/li\u003e \u003cli\u003eConocimiento de la legislación vigente en materia de salud y seguridad laboral.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y capacidad para interactuar con diferentes niveles jerárquicos.\u003c/li\u003e \u003cli\u003eCapacidad para el trabajo en equipo y gestión de proyectos.\u003c/li\u003e \u003cli\u003eOrientación a la prevención y promoción de la salud.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Médico Cirujano con especialización o experiencia comprobable en Medicina Ocupacional o Salud Laboral",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
