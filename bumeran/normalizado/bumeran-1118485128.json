@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485128",
+    "clave":  "id:1118485128",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/conductor-a-iii-c-1118485128.html",
+                   "capturadoEn":  "2026-10-17T18:30:50+00:00"
+               },
+    "titulo":  "Conductor A-III-C",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa de transporte terrestre de mercancías busca conductor con licencia A-III-C para operar tractocamión. Requisito indispensable: Licencia vigente A-III-C Disponibilidad: Inmediata Función principal: Conducción segura y responsable de tractocamión en rutas de transporte de carga Interesados enviar su postulación a la brevedad.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/conductor-a-iii-c-1118485128.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/conductor-a-iii-c-1118485128.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa de transporte terrestre de mercancías busca \u003cstrong\u003econductor con licencia A-III-C\u003c/strong\u003e para operar tractocamión.\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eRequisito indispensable:\u003c/strong\u003e Licencia vigente A-III-C\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDisponibilidad:\u003c/strong\u003e Inmediata\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eFunción principal:\u003c/strong\u003e Conducción segura y responsable de tractocamión en rutas de transporte de carga\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eInteresados enviar su postulación a la brevedad.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485098",
+    "clave":  "id:1118485098",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/representante-comercial-revilla-travel-1118485098.html",
+                   "capturadoEn":  "2026-10-17T18:31:24+00:00"
+               },
+    "titulo":  "Representante Comercial",
+    "empresa":  "revilla travel",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ASESOR DE ATENCION AL CLIENTE-PRESENCIAL Representante Comercial Resumen del Puesto Buscamos incorporar a nuestro equipo un Representante Comercial con una marcada actitud ganadora. Si eres una persona espontánea, carismática, extrovertida y posees facilidad para conectar con los demás, esta oportunidad podría ser ideal para ti. Valoramos tu interés en el área comercial y tu deseo de incrementar tus ingresos a través de tus resultados. Lo que ofrecemos Sueldo base competitivo. Comisiones por ventas. Incentivos adicionales por cumplimiento de objetivos. Capacitación y acompañamiento comercial continuo. Oportunidades de crecimiento y desarrollo profesional. Un entorno de trabajo dinámico, con labor 100% en oficina, donde tus resultados impulsarán tus ingresos. Perfil Buscado Carisma, iniciativa y mentalidad ganadora. Habilidades de comunicación y persuasión. Orientación a resultados y al logro de objetivos. Capacidad para establecer relaciones interpersonales sólidas.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/representante-comercial-revilla-travel-1118485098.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/representante-comercial-revilla-travel-1118485098.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eASESOR DE ATENCION AL CLIENTE-PRESENCIAL\u003c/p\u003e\u003c/p\u003e \u003cb\u003eRepresentante Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar a nuestro equipo un \u003cb\u003eRepresentante Comercial\u003c/b\u003e con una marcada actitud ganadora. Si eres una persona espontánea, carismática, extrovertida y posees facilidad para conectar con los demás, esta oportunidad podría ser ideal para ti. Valoramos tu interés en el área comercial y tu deseo de incrementar tus ingresos a través de tus resultados.\u003c/p\u003e \u003cb\u003eLo que ofrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eSueldo base competitivo.\u003c/li\u003e \u003cli\u003eComisiones por ventas.\u003c/li\u003e \u003cli\u003eIncentivos adicionales por cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eCapacitación y acompañamiento comercial continuo.\u003c/li\u003e \u003cli\u003eOportunidades de crecimiento y desarrollo profesional.\u003c/li\u003e \u003cli\u003eUn entorno de trabajo dinámico, con labor 100% en oficina, donde tus resultados impulsarán tus ingresos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003ePerfil Buscado\u003c/b\u003e \u003cul\u003e \u003cli\u003eCarisma, iniciativa y mentalidad ganadora.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y persuasión.\u003c/li\u003e \u003cli\u003eOrientación a resultados y al logro de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para establecer relaciones interpersonales sólidas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
