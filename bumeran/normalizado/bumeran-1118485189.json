@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118485189",
+    "clave":  "id:1118485189",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-gestion-comercial-capacitacion-asesoria-empresarial-1118485189.html",
+                   "capturadoEn":  "2026-10-17T11:37:46+00:00"
+               },
+    "titulo":  "Asistente de Marketing y Gestión Comercial",
+    "empresa":  "CAPACITACION \u0026 ASESORIA EMPRESARIAL",
+    "ubicacion":  "Lima - San Juan de Miraflores",
+    "ciudad":  "San Juan de Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1100,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,100 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Marketing y Gestión Comercial Resumen del Puesto Buscamos un profesional creativo y proactivo para unirse a nuestro equipo en las áreas de marketing y gestión comercial. El candidato ideal tendrá interés en desarrollarse en estas áreas y en la aplicación de nuevas tecnologías para optimizar procesos. Responsabilidades Creación de contenido para plataformas digitales y redes sociales. Diseño de publicaciones y material publicitario. Apoyo en estrategias de marketing digital y gestión de redes sociales. Colaboración en actividades de prospección comercial y atención a clientes. Exploración y aplicación de herramientas de inteligencia artificial para mejorar procesos comerciales. Requisitos Estudiante o egresado de carreras como Marketing, Administración, Comunicaciones, Gestión Comercial o afines. Conocimientos básicos de marketing digital y redes sociales. Manejo de herramientas digitales. Interés demostrado en ventas, prospección comercial y atención al cliente. Capacidad para trabajar de forma independiente y en equipo. Habilidades de comunicación y creatividad.",
+    "requisitos":  [
+                       "Estudiante o egresado de carreras como Marketing, Administración, Comunicaciones, Gestión Comercial o afines",
+                       "Conocimientos básicos de marketing digital y redes sociales",
+                       "Manejo de herramientas digitales",
+                       "Interés demostrado en ventas, prospección comercial y atención al cliente",
+                       "Capacidad para trabajar de forma independiente y en equipo",
+                       "Habilidades de comunicación y creatividad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-gestion-comercial-capacitacion-asesoria-empresarial-1118485189.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-gestion-comercial-capacitacion-asesoria-empresarial-1118485189.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Marketing y Gestión Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional creativo y proactivo para unirse a nuestro equipo en las áreas de marketing y gestión comercial. El candidato ideal tendrá interés en desarrollarse en estas áreas y en la aplicación de nuevas tecnologías para optimizar procesos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eCreación de contenido para plataformas digitales y redes sociales.\u003c/li\u003e \u003cli\u003eDiseño de publicaciones y material publicitario.\u003c/li\u003e \u003cli\u003eApoyo en estrategias de marketing digital y gestión de redes sociales.\u003c/li\u003e \u003cli\u003eColaboración en actividades de prospección comercial y atención a clientes.\u003c/li\u003e \u003cli\u003eExploración y aplicación de herramientas de inteligencia artificial para mejorar procesos comerciales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante o egresado de carreras como Marketing, Administración, Comunicaciones, Gestión Comercial o afines.\u003c/li\u003e \u003cli\u003eConocimientos básicos de marketing digital y redes sociales.\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales.\u003c/li\u003e \u003cli\u003eInterés demostrado en ventas, prospección comercial y atención al cliente.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y en equipo.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y creatividad.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
