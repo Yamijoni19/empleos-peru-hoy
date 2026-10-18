@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485394",
+    "clave":  "id:1118485394",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-talent-1118485394.html",
+                   "capturadoEn":  "2026-10-18T20:43:06+00:00"
+               },
+    "titulo":  "Asistente Contable / Administrativo",
+    "empresa":  "TALENT",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Contable / Administrativo Resumen del Puesto Buscamos un(a) Asistente Contable / Administrativo para unirse a nuestro equipo y apoyar en diversas funciones contables y administrativas. El candidato ideal será una persona responsable, organizada, proactiva y con gran capacidad de aprendizaje. Responsabilidades Principales Brindar apoyo en registros y tareas contables. Gestionar la organización y archivo de documentos. Ofrecer soporte administrativo general, incluyendo el control de viáticos. Colaborar en otras funciones relacionadas con el puesto según sea necesario. Requisitos Estudios técnicos o universitarios en Contabilidad, Administración o carreras afines. Sólidos conocimientos de Excel y experiencia en el manejo de documentos administrativos y contables. Habilidades demostradas de responsabilidad, organización y proactividad. Se valorará experiencia previa en puestos similares. Ofrecemos Jornada laboral a tiempo completo. Un excelente ambiente de trabajo. Remuneración competitiva acorde a la experiencia y responsabilidades.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios en Contabilidad, Administración o carreras afines",
+                       "Sólidos conocimientos de Excel y experiencia en el manejo de documentos administrativos y contables",
+                       "Habilidades demostradas de responsabilidad, organización y proactividad",
+                       "Se valorará experiencia previa en puestos similares"
+                   ],
+    "funciones":  [
+                      "relacionadas con el puesto según sea necesario"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-talent-1118485394.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-talent-1118485394.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Contable / Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eAsistente Contable / Administrativo\u003c/b\u003e para unirse a nuestro equipo y apoyar en diversas funciones contables y administrativas. El candidato ideal será una persona responsable, organizada, proactiva y con gran capacidad de aprendizaje.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar apoyo en registros y tareas contables.\u003c/li\u003e \u003cli\u003eGestionar la organización y archivo de documentos.\u003c/li\u003e \u003cli\u003eOfrecer soporte administrativo general, incluyendo el control de viáticos.\u003c/li\u003e \u003cli\u003eColaborar en otras funciones relacionadas con el puesto según sea necesario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios en Contabilidad, Administración o carreras afines.\u003c/li\u003e \u003cli\u003eSólidos conocimientos de Excel y experiencia en el manejo de documentos administrativos y contables.\u003c/li\u003e \u003cli\u003eHabilidades demostradas de responsabilidad, organización y proactividad.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa en puestos similares.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eJornada laboral a tiempo completo.\u003c/li\u003e \u003cli\u003eUn excelente ambiente de trabajo.\u003c/li\u003e \u003cli\u003eRemuneración competitiva acorde a la experiencia y responsabilidades.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

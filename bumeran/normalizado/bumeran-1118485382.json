@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485382",
+    "clave":  "id:1118485382",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vendedor-de-materiales-de-construccion-piura-codimak-selva-sac-1118485382.html",
+                   "capturadoEn":  "2026-10-18T20:43:22+00:00"
+               },
+    "titulo":  "Vendedor de Materiales de construcción Piura",
+    "empresa":  "CODIMAK SELVA SAC",
+    "ubicacion":  "Piura - Castilla Piura",
+    "ciudad":  "Castilla Piura",
+    "region":  "Piura",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa del rubro construción con cobertura en mas de 8 departamentos a nivel nacional solicita Vendedora de Materiales de construcción Rubro ferretería / con experiencia en ventas a proyectos, inmobiliarias, obras, persona orientado a las ventas y resultados,. Labores a realizar alto nivel de comunicación con Gerencia y fluidez y precisión en las propuestas comerciales y de clientes potenciales Conocimiento del mercado del Rubro materiales de con cartera de clientes, de ser posible, para incrementar las ventas y trabajo en equipo, amable en la atención del cliente, comunicativo en la coordinación en las puestas en obra, cotizaciones y trabajo de campo cierre de ventas y prospección de la venta. con capcidad para analisar y estudiar el mercado y el comportamiento del consumidor de materiales de construcción, precios y productos de alta rotación. Requisitos Profesional tecnico en Administración, Marketing y afines disponibilidad inmediata experiencia de 2 años en el puesto comprometido con el trabajo, responsable y honrado. Ofrecemos Sueldo po encima del mercado buenas comisiones",
+    "requisitos":  [
+                       "Profesional tecnico en Administración, Marketing y afines disponibilidad inmediata experiencia de 2 años en el puesto comprometido con el trabajo, responsable y honrado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/vendedor-de-materiales-de-construccion-piura-codimak-selva-sac-1118485382.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vendedor-de-materiales-de-construccion-piura-codimak-selva-sac-1118485382.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa del rubro construción con cobertura en mas de 8 departamentos a nivel nacional solicita \u003cstrong\u003eVendedora de Materiales de construcción Rubro ferretería / con experiencia en ventas a proyectos, inmobiliarias, obras, persona orientado a las ventas y resultados,.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLabores a realizar alto nivel de comunicación con Gerencia y fluidez y precisión en las propuestas comerciales y de clientes potenciales\u003c/p\u003e\u003cp\u003eConocimiento del mercado del Rubro materiales de con cartera de clientes, de ser posible, para incrementar las ventas y trabajo en equipo, amable en la atención del cliente, comunicativo en la coordinación en las puestas en obra, cotizaciones y trabajo de campo cierre de ventas y prospección de la venta. con capcidad para analisar y estudiar el mercado y el comportamiento del consumidor de materiales de construcción, precios y productos de alta rotación.\u003c/p\u003e\u003cp\u003eRequisitos Profesional tecnico en Administración, Marketing y afines disponibilidad inmediata experiencia de 2 años en el puesto comprometido con el trabajo, responsable y honrado.\u003c/p\u003e\u003cp\u003eOfrecemos\u003c/p\u003e\u003cp\u003eSueldo po encima del mercado\u003c/p\u003e\u003cp\u003ebuenas comisiones\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

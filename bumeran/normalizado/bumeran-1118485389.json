@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118485389",
+    "clave":  "id:1118485389",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vendedora-de-tienda--san-isidro-beneficios-completos-almuerzo-nabila-s.a.c.-1118485389.html",
+                   "capturadoEn":  "2026-10-18T20:43:19+00:00"
+               },
+    "titulo":  "Vendedor(a) de Tienda – San Isidro (beneficios completos + almuerzo)",
+    "empresa":  "NABILA S.A.C.",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f3e1; ¡ÚNETE A NUESTRO EQUIPO DE VENTAS EN SAN ISIDRO! Estamos buscando Vendedores(as) Multifuncionales para nuestra tienda de decoración y artículos para el hogar. ¿Qué buscamos? Experiencia en ventas y atención al cliente. Personas dinámicas, responsables y con actitud comercial. Disponibilidad para apoyar en funciones de tienda. Facilidad de comunicación y trabajo en equipo. ¿Qué ofrecemos? ✅ Sueldo fijo + beneficios de ley. ✅ Planilla desde el primer día. ✅ Almuerzo cubierto al 100%. ✅ Gratificaciones, CTS, vacaciones y utilidades. ✅ Pagos puntuales y buen ambiente laboral. \u0026#x1f4cd; Lugar de trabajo: San Isidro, Lima. \u0026#x1f680; ¡Postula ahora y forma parte de nuestro equipo!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "de tienda",
+                      "Facilidad de comunicación y trabajo en equipo",
+                      "¿Qué"
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "✅ Planilla desde el primer día",
+                       "✅ Almuerzo cubierto al 100%",
+                       "✅ Gratificaciones, CTS, vacaciones y utilidades",
+                       "✅ Pagos puntuales y buen ambiente laboral",
+                       "\u0026#x1f4cd; Lugar de trabajo: San Isidro, Lima",
+                       "\u0026#x1f680; ¡Postula ahora y forma parte de nuestro equipo!"
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/vendedora-de-tienda--san-isidro-beneficios-completos-almuerzo-nabila-s.a.c.-1118485389.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vendedora-de-tienda--san-isidro-beneficios-completos-almuerzo-nabila-s.a.c.-1118485389.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f3e1; \u003cstrong\u003e¡ÚNETE A NUESTRO EQUIPO DE VENTAS EN SAN ISIDRO!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos buscando \u003cstrong\u003eVendedores(as) Multifuncionales\u003c/strong\u003e para nuestra tienda de decoración y artículos para el hogar.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas y atención al cliente.\u003c/li\u003e \u003cli\u003ePersonas dinámicas, responsables y con actitud comercial.\u003c/li\u003e \u003cli\u003eDisponibilidad para apoyar en funciones de tienda.\u003c/li\u003e \u003cli\u003eFacilidad de comunicación y trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e \u0026#x2705; Sueldo fijo + beneficios de ley.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Planilla desde el primer día.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Almuerzo cubierto al 100%.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Gratificaciones, CTS, vacaciones y utilidades.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Pagos puntuales y buen ambiente laboral.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cd; \u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e San Isidro, Lima.\u003c/p\u003e\u003cp\u003e\u0026#x1f680; \u003cstrong\u003e¡Postula ahora y forma parte de nuestro equipo!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

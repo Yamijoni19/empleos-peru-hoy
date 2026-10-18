@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118485423",
+    "clave":  "id:1118485423",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-nl-asesores-1118485423.html",
+                   "capturadoEn":  "2026-10-18T20:42:41+00:00"
+               },
+    "titulo":  "Asistente Contable",
+    "empresa":  "NL ASESORES",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,100",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Contable Resumen del Puesto Buscamos un Asistente Contable proactivo y organizado para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos actualizados en contabilidad y tributación, así como experiencia en el manejo de sistemas contables y herramientas ofimáticas. Responsabilidades Registrar operaciones contables conforme a políticas y procedimientos establecidos. Realizar el registro de compras y ventas. Llevar a cabo conciliaciones bancarias. Elaborar reportes sobre el estado de las operaciones contables. Calcular beneficios sociales. Gestionar declaraciones mensuales y PLE/SIRE. Manejar PLAME. Colaborar en otras tareas asignadas por la jefatura inmediata. Requisitos Egresado de la carrera de Contabilidad. Conocimientos actualizados en contabilidad y tributación. Experiencia en el manejo de sistemas contables. Dominio de programas de Office a nivel intermedio. Experiencia mínima de 3 años en puestos contables. Se valorará orden, proactividad y puntualidad. Condiciones Laborales Jornada laboral de Lunes a Viernes. Modalidad de trabajo presencial.",
+    "requisitos":  [
+                       "Egresado de la carrera de Contabilidad",
+                       "Conocimientos actualizados en contabilidad y tributación",
+                       "Experiencia en el manejo de sistemas contables",
+                       "Dominio de programas de Office a nivel intermedio",
+                       "Experiencia mínima de 3 años en puestos contables",
+                       "Se valorará orden, proactividad y puntualidad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "sociales",
+                       "Gestionar declaraciones mensuales y PLE/SIRE",
+                       "Manejar PLAME",
+                       "Colaborar en otras tareas asignadas por la jefatura inmediata"
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-nl-asesores-1118485423.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-nl-asesores-1118485423.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente Contable\u003c/b\u003e proactivo y organizado para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos actualizados en contabilidad y tributación, así como experiencia en el manejo de sistemas contables y herramientas ofimáticas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRegistrar operaciones contables conforme a políticas y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eRealizar el registro de compras y ventas.\u003c/li\u003e \u003cli\u003eLlevar a cabo conciliaciones bancarias.\u003c/li\u003e \u003cli\u003eElaborar reportes sobre el estado de las operaciones contables.\u003c/li\u003e \u003cli\u003eCalcular beneficios sociales.\u003c/li\u003e \u003cli\u003eGestionar declaraciones mensuales y PLE/SIRE.\u003c/li\u003e \u003cli\u003eManejar PLAME.\u003c/li\u003e \u003cli\u003eColaborar en otras tareas asignadas por la jefatura inmediata.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEgresado de la carrera de Contabilidad.\u003c/li\u003e \u003cli\u003eConocimientos actualizados en contabilidad y tributación.\u003c/li\u003e \u003cli\u003eExperiencia en el manejo de sistemas contables.\u003c/li\u003e \u003cli\u003eDominio de programas de Office a nivel intermedio.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en puestos contables.\u003c/li\u003e \u003cli\u003eSe valorará orden, proactividad y puntualidad.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones Laborales\u003c/b\u003e \u003cul\u003e \u003cli\u003eJornada laboral de Lunes a Viernes.\u003c/li\u003e \u003cli\u003eModalidad de trabajo presencial.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

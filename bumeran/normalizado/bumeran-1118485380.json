@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118485380",
+    "clave":  "id:1118485380",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-campo-trujillo-coopac-kori-1118485380.html",
+                   "capturadoEn":  "2026-10-18T20:43:27+00:00"
+               },
+    "titulo":  "ASESOR DE CAMPO /TRUJILLO",
+    "empresa":  "COOPAC KORI",
+    "ubicacion":  "La Libertad - Distrito de Moche",
+    "ciudad":  "Distrito de Moche",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  400,
+                    "max":  400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Salario fijo + 400",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Somos la empresa COOPAC KORI, estamos buscando a los mejores talentos para nuestro equipo de ANALISTAS DE CRÉDITOS CON O SIN EXPERIENCIA: REQUISITOS: * Disponibilidad de Tiempo Completo * El perfil apunta a una persona, dinámica, orientada al servicio social, disciplinada y con sólida escala de valores. * Vivir en zonas aledañas a: TRUJILLO * HORARIO DE TRABAJO: De Lunes a Viernes de 8:30am y Sábados de 8:30am a 1:00pm, el trabajo será 90% campo y 10% en oficina. SE OFRECE: * Planilla Completa desde el primer día de trabajo. * Grato ambiente de laboral. * Salario fijo + 400 movilidad * Comisiones sin límite. * Linea de Carrera Profesional !!POSTULA YA!!",
+    "requisitos":  [
+                       "Disponibilidad de Tiempo Completo",
+                       "El"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-campo-trujillo-coopac-kori-1118485380.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-campo-trujillo-coopac-kori-1118485380.html",
+    "descripcion_html":  "\u003cp\u003eSomos la empresa COOPAC KORI, estamos buscando a los mejores talentos para nuestro equipo de \u003cstrong\u003eANALISTAS DE CRÉDITOS CON O SIN EXPERIENCIA:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eREQUISITOS:\u003c/p\u003e\u003cp\u003e* Disponibilidad de Tiempo Completo\u003c/p\u003e\u003cp\u003e* El perfil apunta a una persona, dinámica, orientada al servicio social, disciplinada y con sólida escala de valores.\u003c/p\u003e\u003cp\u003e* Vivir en zonas aledañas a: TRUJILLO\u003c/p\u003e\u003cp\u003e* HORARIO DE TRABAJO: De Lunes a Viernes de 8:30am y Sábados de 8:30am a 1:00pm, el trabajo será 90% campo y 10% en oficina.\u003c/p\u003e\u003cp\u003eSE OFRECE:\u003c/p\u003e\u003cp\u003e* Planilla Completa desde el primer día de trabajo.\u003c/p\u003e\u003cp\u003e* Grato ambiente de laboral.\u003c/p\u003e\u003cp\u003e* Salario fijo + 400 movilidad\u003c/p\u003e\u003cp\u003e* Comisiones sin límite.\u003c/p\u003e\u003cp\u003e* Linea de Carrera Profesional\u003c/p\u003e\u003cp\u003e!!POSTULA YA!!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
