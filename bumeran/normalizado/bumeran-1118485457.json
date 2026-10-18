@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485457",
+    "clave":  "id:1118485457",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-ssoma-operaciones-geotecnia-norcobre-1118485457.html",
+                   "capturadoEn":  "2026-10-18T17:23:35+00:00"
+               },
+    "titulo":  "Ingeniero Civil - SSOMA / Operaciones / Geotecnia",
+    "empresa":  "Norcobre",
+    "ubicacion":  "Ancash - San Marcos",
+    "ciudad":  "San Marcos",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  5000,
+                    "max":  10000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 5,000 - S/ 10,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ENVIE SU CV AL WSP 9 8 5 8 9 5 6 9 7 Ingeniero Civil - SSOMA / Operaciones / Geotecnia Resumen del Puesto Estamos en la búsqueda de un Ingeniero Civil con experiencia demostrable en el sector minero para integrarse a nuestro equipo. El profesional deberá poseer conocimientos sólidos en las áreas de Seguridad, Salud Ocupacional y Medio Ambiente (SSOMA), operaciones o geotecnia, según la especialización requerida para el rol. Responsabilidades Principales Supervisar y gestionar proyectos en el área de ingeniería civil, con énfasis en minería. Implementar y asegurar el cumplimiento de normativas de SSOMA en las operaciones. Participar en la planificación y ejecución de operaciones o en análisis geotécnicos, según el enfoque del puesto. Colaborar con equipos multidisciplinarios para el desarrollo y optimización de procesos. Identificar riesgos y proponer soluciones técnicas para garantizar la seguridad y eficiencia de las actividades. Requisitos del Perfil Título universitario en Ingeniería Civil. Experiencia previa en la industria minera. Conocimientos y/o experiencia en SSOMA, gestión de operaciones o geotecnia. Capacidad para el análisis técnico y la resolución de problemas complejos. Habilidades de liderazgo y trabajo en equipo. Orientación a resultados y cumplimiento de objetivos.",
+    "requisitos":  [
+                       "del"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-ssoma-operaciones-geotecnia-norcobre-1118485457.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-ssoma-operaciones-geotecnia-norcobre-1118485457.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eENVIE SU CV AL WSP  9 8 5 8 9 5 6 9 7\u003c/p\u003e\u003c/p\u003e \u003cb\u003eIngeniero Civil - SSOMA / Operaciones / Geotecnia\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eIngeniero Civil\u003c/b\u003e con experiencia demostrable en el sector minero para integrarse a nuestro equipo. El profesional deberá poseer conocimientos sólidos en las áreas de Seguridad, Salud Ocupacional y Medio Ambiente (SSOMA), operaciones o geotecnia, según la especialización requerida para el rol.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y gestionar proyectos en el área de ingeniería civil, con énfasis en minería.\u003c/li\u003e \u003cli\u003eImplementar y asegurar el cumplimiento de normativas de SSOMA en las operaciones.\u003c/li\u003e \u003cli\u003eParticipar en la planificación y ejecución de operaciones o en análisis geotécnicos, según el enfoque del puesto.\u003c/li\u003e \u003cli\u003eColaborar con equipos multidisciplinarios para el desarrollo y optimización de procesos.\u003c/li\u003e \u003cli\u003eIdentificar riesgos y proponer soluciones técnicas para garantizar la seguridad y eficiencia de las actividades.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos del Perfil\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Ingeniería Civil.\u003c/li\u003e \u003cli\u003eExperiencia previa en la industria minera.\u003c/li\u003e \u003cli\u003eConocimientos y/o experiencia en SSOMA, gestión de operaciones o geotecnia.\u003c/li\u003e \u003cli\u003eCapacidad para el análisis técnico y la resolución de problemas complejos.\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo y trabajo en equipo.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

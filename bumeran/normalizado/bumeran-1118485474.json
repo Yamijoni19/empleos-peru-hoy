@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118485474",
+    "clave":  "id:1118485474",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-recursos-minerales-|-corporativo-lima-nexa-resources-1118485474.html",
+                   "capturadoEn":  "2026-10-18T17:23:29+00:00"
+               },
+    "titulo":  "Practicante Profesional de Recursos Minerales | Corporativo Lima",
+    "empresa":  "Nexa Resources",
+    "ubicacion":  "Lima - Surco",
+    "ciudad":  "Surco",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Responsabilidades y asignaciones Apoyar en la revisión y validación de información en bases de datos geológicas. Participar en actividades de control de calidad de datos geológicos (QA/QC). Dar soporte en auditorías de procesos de muestreo, logueo y gestión de información geológica. Apoyar en la elaboración de reportes técnicos y documentación del área. Participar en la actualización de procedimientos y documentos de gestión. Brindar soporte en análisis de datos geológicos y actividades relacionadas con recursos minerales. Participar en visitas a operaciones mineras, proyectos y laboratorios internos y externos, brindando soporte en actividades de auditoría, validación de procesos y levantamiento de información que contribuya a la calidad y confiabilidad de los datos geológicos. Apoyar en actividades de modelamiento geológico según requerimiento. Requisitos y calificaciones Manejo de Microsoft Excel, Word y PowerPoint. Conocimientos básicos de bases de datos geológicas. Deseable manejo de Datamine, Leapfrog Geo u otros softwares geológicos. Deseable conocimiento de Python u otras herramientas de análisis de datos. Inglés y/o portugués a nivel básico (deseable). Información adicional Corporativo Lima Régimen híbrido",
+    "requisitos":  [
+                       "y calificaciones",
+                       "Manejo de Microsoft Excel, Word y PowerPoint",
+                       "Conocimientos básicos de bases de datos geológicas",
+                       "Deseable manejo de Datamine, Leapfrog Geo u otros softwares geológicos",
+                       "Deseable conocimiento de Python u otras herramientas de análisis de datos",
+                       "Inglés y/o portugués a nivel básico (deseable)",
+                       "Información adicional",
+                       "Corporativo Lima",
+                       "Régimen híbrido"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-recursos-minerales-|-corporativo-lima-nexa-resources-1118485474.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-recursos-minerales-|-corporativo-lima-nexa-resources-1118485474.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResponsabilidades y asignaciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en la revisión y validación de información en bases de datos geológicas.\u003c/li\u003e \u003cli\u003eParticipar en actividades de control de calidad de datos geológicos (QA/QC).\u003c/li\u003e \u003cli\u003eDar soporte en auditorías de procesos de muestreo, logueo y gestión de información geológica.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración de reportes técnicos y documentación del área.\u003c/li\u003e \u003cli\u003eParticipar en la actualización de procedimientos y documentos de gestión.\u003c/li\u003e \u003cli\u003eBrindar soporte en análisis de datos geológicos y actividades relacionadas con recursos minerales.\u003c/li\u003e \u003cli\u003eParticipar en visitas a operaciones mineras, proyectos y laboratorios internos y externos, brindando soporte en actividades de auditoría, validación de procesos y levantamiento de información que contribuya a la calidad y confiabilidad de los datos geológicos.\u003c/li\u003e \u003cli\u003eApoyar en actividades de modelamiento geológico según requerimiento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos y calificaciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eManejo de Microsoft Excel, Word y PowerPoint.\u003c/li\u003e \u003cli\u003eConocimientos básicos de bases de datos geológicas.\u003c/li\u003e \u003cli\u003eDeseable manejo de Datamine, Leapfrog Geo u otros softwares geológicos.\u003c/li\u003e \u003cli\u003eDeseable conocimiento de Python u otras herramientas de análisis de datos.\u003c/li\u003e \u003cli\u003eInglés y/o portugués a nivel básico (deseable).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eInformación adicional\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCorporativo Lima\u003c/li\u003e \u003cli\u003eRégimen híbrido\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

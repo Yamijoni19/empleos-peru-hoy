@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118485489",
+    "clave":  "id:1118485489",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-financiero-upscale-company-1118485489.html",
+                   "capturadoEn":  "2026-10-18T17:23:20+00:00"
+               },
+    "titulo":  "Asesor Financiero",
+    "empresa":  "Upscale Company",
+    "ubicacion":  "Moquegua - Ilo",
+    "ciudad":  "Ilo",
+    "region":  "Moquegua",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 500 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos personas dinámicas, con mucha actitud y ganas de aprender. Asesor Financiero Resumen del Puesto Buscamos incorporar a nuestro equipo a profesionales con gran motivación para el aprendizaje y el desarrollo en el ámbito financiero. Si tienes vocación de servicio y te apasiona el mundo de las finanzas, esta es tu oportunidad para crecer profesionalmente. Responsabilidades Asesorar a clientes sobre productos y servicios financieros. Identificar las necesidades financieras de los clientes y ofrecer soluciones personalizadas. Gestionar y mantener relaciones a largo plazo con los clientes. Colaborar con el equipo para alcanzar los objetivos comerciales. Mantenerse actualizado sobre las tendencias del mercado financiero y la oferta de productos. Requisitos Formación en áreas relacionadas con finanzas, administración o economía. Experiencia previa en roles de atención al cliente o ventas, preferentemente en el sector financiero. Excelentes habilidades de comunicación, interpersonales y de negociación. Capacidad para trabajar de forma autónoma y orientada a resultados. Proactividad y gran interés por el aprendizaje continuo en el sector financiero. Te brindamos aprendizaje constante y la proyeccion de una linea de carrera.",
+    "requisitos":  [
+                       "Formación en áreas relacionadas con finanzas, administración o economía",
+                       "Experiencia previa en roles de atención al cliente o ventas, preferentemente en el sector financiero",
+                       "Excelentes habilidades de comunicación, interpersonales y de negociación",
+                       "Capacidad para trabajar de forma autónoma y orientada a resultados",
+                       "Proactividad y gran interés por el aprendizaje continuo en el sector financiero",
+                       "Te brindamos aprendizaje constante y la proyeccion de una linea de carrera"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-financiero-upscale-company-1118485489.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-financiero-upscale-company-1118485489.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eBuscamos personas dinámicas, con mucha actitud y ganas de aprender.\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAsesor Financiero\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar a nuestro equipo a profesionales con gran motivación para el aprendizaje y el desarrollo en el ámbito financiero. Si tienes vocación de servicio y te apasiona el mundo de las finanzas, esta es tu oportunidad para crecer profesionalmente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsesorar a clientes sobre productos y servicios financieros.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades financieras de los clientes y ofrecer soluciones personalizadas.\u003c/li\u003e \u003cli\u003eGestionar y mantener relaciones a largo plazo con los clientes.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para alcanzar los objetivos comerciales.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las tendencias del mercado financiero y la oferta de productos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en áreas relacionadas con finanzas, administración o economía.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles de atención al cliente o ventas, preferentemente en el sector financiero.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, interpersonales y de negociación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y orientada a resultados.\u003c/li\u003e \u003cli\u003eProactividad y gran interés por el aprendizaje continuo en el sector financiero.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eTe brindamos aprendizaje constante y la proyeccion de una linea de carrera.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
