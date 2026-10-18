@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118485039",
+    "clave":  "id:1118485039",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-ensamblaje-egresado-de-mecanica-electrotecnia-electronica-o-afines-1118485039.html",
+                   "capturadoEn":  "2026-10-18T04:33:30+00:00"
+               },
+    "titulo":  "Técnico de ensamblaje (Egresado de mecánica, electrotecnia, electrónica o afines)",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "REQUISITOS: Recién egresado de las carreras de: técnico mecánico, técnico electricista, técnico mecánico de producción, técnico mecánico de mantenimiento o carreras afines. Experiencia realizando las funciones mencionadas (deseable) FUNCIONES: Realizar labores de Ensamble(Montaje y desmontaje de ventiladores, Instalación de motores eléctricos). Atención de casos de post venta Trabajos dentro y fuera de planta. Uso de herramientas neumáticas, eléctricas y de poder. Seguimiento e implementación de Plan 5S. Atención de Servicios Generales dentro de la empresa. Realizar reportes de Ensamblaje y producción. BENEFICIOS: Ingreso a planilla con todos los beneficios de ley. Formación continua EPS al 65%",
+    "requisitos":  [
+                       "Recién egresado de las carreras de: técnico mecánico, técnico electricista, técnico mecánico de producción, técnico mecánico de mantenimiento o carreras afines",
+                       "Experiencia realizando las"
+                   ],
+    "funciones":  [
+                      "Realizar labores de Ensamble(Montaje y desmontaje de ventiladores, Instalación de motores eléctricos)",
+                      "Atención de casos de post venta",
+                      "Trabajos dentro y fuera de planta",
+                      "Uso de herramientas neumáticas, eléctricas y de poder",
+                      "Seguimiento e implementación de Plan 5S",
+                      "Atención de Servicios Generales dentro de la empresa",
+                      "Realizar reportes de Ensamblaje y producción"
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Formación continua",
+                       "EPS al 65%"
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-ensamblaje-egresado-de-mecanica-electrotecnia-electronica-o-afines-1118485039.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-ensamblaje-egresado-de-mecanica-electrotecnia-electronica-o-afines-1118485039.html",
+    "descripcion_html":  "\u003cp\u003e\u003cu\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecién egresado de las carreras de: técnico mecánico, técnico electricista, técnico mecánico de producción, técnico mecánico de mantenimiento o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia realizando las funciones mencionadas (deseable)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar labores de Ensamble(Montaje y desmontaje de ventiladores, Instalación de motores eléctricos).\u003c/li\u003e \u003cli\u003eAtención de casos de post venta\u003c/li\u003e \u003cli\u003eTrabajos dentro y fuera de planta.\u003c/li\u003e \u003cli\u003eUso de herramientas neumáticas, eléctricas y de poder.\u003c/li\u003e \u003cli\u003eSeguimiento e implementación de Plan 5S.\u003c/li\u003e \u003cli\u003eAtención de Servicios Generales dentro de la empresa.\u003c/li\u003e \u003cli\u003eRealizar reportes de Ensamblaje y producción.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eFormación continua\u003c/li\u003e \u003cli\u003eEPS al 65%\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

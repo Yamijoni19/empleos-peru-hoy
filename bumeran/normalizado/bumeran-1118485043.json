@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118485043",
+    "clave":  "id:1118485043",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-myg-consulting-s.a.c.-1118485043.html",
+                   "capturadoEn":  "2026-10-18T04:33:21+00:00"
+               },
+    "titulo":  "Asistente Administrativo",
+    "empresa":  "MYG CONSULTING S.A.C.",
+    "ubicacion":  "Lima - Magdalena del Mar",
+    "ciudad":  "Magdalena del Mar",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Asistente Administrativo Resumen del Puesto Buscamos un(a) Asistente Administrativo(a) comprometido(a), proactivo(a), organizado(a), responsable y con muchas ganas de aprender y desarrollarse profesionalmente. El candidato ideal tendrá un buen desenvolvimiento y facilidad para tratar con clientes, además de capacidad para trabajar en equipo y adaptarse a diferentes funciones. Responsabilidades Apoyo en procesos administrativos generales. Gestión de documentación y organización de archivos. Manejo de herramientas de ofimática (nivel intermedio). Colaboración en la gestión de redes sociales. Soporte en la contratación de personal (deseable). Interacción con clientes y otros departamentos. Requisitos Formación técnica o universitaria en Administración, Marketing o afines. Experiencia en procesos administrativos. Conocimientos en gestión de redes sociales. Manejo de herramientas Office (nivel intermedio), Google Meet y Google Drive. Capacidad para la organización y gestión de documentación. Experiencia en empresas de Sistemas de Gestión (deseable). Capacidad para trabajar en equipo y adaptarse a diferentes funciones. Buen desenvolvimiento y facilidad para tratar con clientes.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en Administración, Marketing o afines",
+                       "Experiencia en procesos administrativos",
+                       "Conocimientos en gestión de redes sociales",
+                       "Manejo de herramientas Office (nivel intermedio), Google Meet y Google Drive",
+                       "Capacidad para la organización y gestión de documentación",
+                       "Experiencia en empresas de Sistemas de Gestión (deseable)",
+                       "Capacidad para trabajar en equipo y adaptarse a diferentes"
+                   ],
+    "funciones":  [
+                      "Buen desenvolvimiento y facilidad para tratar con clientes"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-myg-consulting-s.a.c.-1118485043.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-myg-consulting-s.a.c.-1118485043.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eAsistente Administrativo(a)\u003c/b\u003e comprometido(a), proactivo(a), organizado(a), responsable y con muchas ganas de aprender y desarrollarse profesionalmente. El candidato ideal tendrá un buen desenvolvimiento y facilidad para tratar con clientes, además de capacidad para trabajar en equipo y adaptarse a diferentes funciones.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyo en procesos administrativos generales.\u003c/li\u003e \u003cli\u003eGestión de documentación y organización de archivos.\u003c/li\u003e \u003cli\u003eManejo de herramientas de ofimática (nivel intermedio).\u003c/li\u003e \u003cli\u003eColaboración en la gestión de redes sociales.\u003c/li\u003e \u003cli\u003eSoporte en la contratación de personal (deseable).\u003c/li\u003e \u003cli\u003eInteracción con clientes y otros departamentos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en Administración, Marketing o afines.\u003c/li\u003e \u003cli\u003eExperiencia en procesos administrativos.\u003c/li\u003e \u003cli\u003eConocimientos en gestión de redes sociales.\u003c/li\u003e \u003cli\u003eManejo de herramientas Office (nivel intermedio), Google Meet y Google Drive.\u003c/li\u003e \u003cli\u003eCapacidad para la organización y gestión de documentación.\u003c/li\u003e \u003cli\u003eExperiencia en empresas de Sistemas de Gestión (deseable).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y adaptarse a diferentes funciones.\u003c/li\u003e \u003cli\u003eBuen desenvolvimiento y facilidad para tratar con clientes.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
