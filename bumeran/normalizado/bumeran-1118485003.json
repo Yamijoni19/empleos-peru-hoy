@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485003",
+    "clave":  "id:1118485003",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-intangibles-hibrido-eurofirms-group-1118485003.html",
+                   "capturadoEn":  "2026-10-18T09:38:15+00:00"
+               },
+    "titulo":  "Ejecutivo Comercial Intangibles Hibrido",
+    "empresa":  "Eurofirms Group",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/3,000",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Crece en tu carrera comercial ingresando a uno de los sectores más rentables de nuestro país, banca \u0026 finanzas, formando parte del equipo de Interseguro, la empresa aseguradora del Banco Interbank. Me encuentro en búsqueda de (03) Ejecutivos Comerciales de Seguros que deseen impactar positivamente en la vida de los peruanos, protegiendo su patrimonio y el futuro de sus familias. ¿Qué necesitas para tener éxito en este proceso? Actitud comercial, orientación a resultados y capacidad de autogestión. Contar con laptop propia y conexión a internet. Exp. comercial min de 02 años en cualquier sector. ¿Cómo se verá tu día a día en Interseguro? Prospección activa de clientes mediante diversos canales y estrategias, agendamiento de citas presenciales o virtuales para presentación de propuesta, llamadas de seguimiento, diseño de cotizaciones y cierre de venta. ¿Qué tenemos para ti? Modalidad híbrida Pertener a una empresa Great Place To Work Altas comisiones, bonos semestrales, trimestrales, reconocimientos y viajes pagados Planilla directa desde el día 1 En esta convocatoria tu actitud y predisición te llevarán lejos, no es indispensable experiencia previa en el sector asegurador, no dudes en postular con nosotros y conocer más de esta propuesta laboral.\u0026#x1f600;",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-intangibles-hibrido-eurofirms-group-1118485003.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-intangibles-hibrido-eurofirms-group-1118485003.html",
+    "descripcion_html":  "\u003cp\u003eCrece en tu carrera comercial ingresando a uno de los sectores más rentables de nuestro país, banca \u0026 finanzas, formando parte del equipo de Interseguro, la empresa aseguradora del Banco Interbank.\u003c/p\u003e\u003cp\u003eMe encuentro en búsqueda de (03) Ejecutivos Comerciales de Seguros que deseen impactar positivamente en la vida de los peruanos, protegiendo su patrimonio y el futuro de sus familias.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitas para tener éxito en este proceso?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eActitud comercial, orientación a resultados y capacidad de autogestión.\u003c/li\u003e \u003cli\u003eContar con laptop propia y conexión a internet.\u003c/li\u003e \u003cli\u003eExp. comercial min de 02 años en cualquier sector.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo se verá tu día a día en Interseguro?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProspección activa de clientes mediante diversos canales y estrategias, agendamiento de citas presenciales o virtuales para presentación de propuesta, llamadas de seguimiento, diseño de cotizaciones y cierre de venta.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué tenemos para ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad híbrida\u003c/li\u003e \u003cli\u003ePertener a una empresa Great Place To Work\u003c/li\u003e \u003cli\u003eAltas comisiones, bonos semestrales, trimestrales, reconocimientos y viajes pagados\u003c/li\u003e \u003cli\u003ePlanilla directa desde el día 1\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn esta convocatoria tu actitud y predisición te llevarán lejos, no es indispensable experiencia previa en el sector asegurador, no dudes en postular con nosotros y conocer más de esta propuesta laboral.\u0026#x1f600;\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

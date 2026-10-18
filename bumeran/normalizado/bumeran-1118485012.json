@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485012",
+    "clave":  "id:1118485012",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-produccion-proyecto-infraestructura-deportiva-marisol-zevallos-psicologia-y-management-e.i.r.l.-1118485012.html",
+                   "capturadoEn":  "2026-10-18T09:37:57+00:00"
+               },
+    "titulo":  "Coordinador de Producción - Proyecto Infraestructura Deportiva",
+    "empresa":  "MARISOL ZEVALLOS PSICOLOGIA Y MANAGEMENT E.I.R.L.",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Buscamos un Coordinador de Producción de campo altamente operativo para dirigir la ejecución directa de las partidas de construcción en obra, garantizando el cumplimiento de los rendimientos, el cronograma y los estándares de calidad en Villa El Salvador. Objetivo y Responsabilidades Principales: Dirigir y controlar la ejecución diaria de los frentes de trabajo en obra (estructuras, arquitectura, instalaciones y acabados). Asignar recursos (mano de obra, maquinaria, materiales), supervisar a las cuadrillas y subcontratistas, y velar por el cumplimiento de los ritmos de avance planificados. Resolver interferencias en campo de manera oportuna, trabajando en estrecha coordinación con las áreas de Calidad, SSOMA, Planeamiento y Gerencia de Sitio. Requisitos del Perfil: Formación Académica: Titulado, Colegiado y Habilitado en Ingeniería Civil o Arquitectura. Experiencia General: Mínimo 5 años de experiencia laboral general profesional desde la titulación. Experiencia Específica: Mínimo 3 años como Coordinador de Producción, Jefe de Campo, Ingeniero de Producción o Residente/Jefe de Frente en obras de edificación o infraestructura de complejidad similar.",
+    "requisitos":  [
+                       "del"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-produccion-proyecto-infraestructura-deportiva-marisol-zevallos-psicologia-y-management-e.i.r.l.-1118485012.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-produccion-proyecto-infraestructura-deportiva-marisol-zevallos-psicologia-y-management-e.i.r.l.-1118485012.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos un Coordinador de Producción de campo altamente operativo para dirigir la ejecución directa de las partidas de construcción en obra, garantizando el cumplimiento de los rendimientos, el cronograma y los estándares de calidad en Villa El Salvador.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eObjetivo y Responsabilidades Principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDirigir y controlar la ejecución diaria de los frentes de trabajo en obra (estructuras, arquitectura, instalaciones y acabados). \u003c/li\u003e \u003cli\u003eAsignar recursos (mano de obra, maquinaria, materiales), supervisar a las cuadrillas y subcontratistas, y velar por el cumplimiento de los ritmos de avance planificados. \u003c/li\u003e \u003cli\u003eResolver interferencias en campo de manera oportuna, trabajando en estrecha coordinación con las áreas de Calidad, SSOMA, Planeamiento y Gerencia de Sitio. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos del Perfil:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eFormación Académica:\u003c/strong\u003e Titulado, Colegiado y Habilitado en Ingeniería Civil o Arquitectura. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia General:\u003c/strong\u003e Mínimo 5 años de experiencia laboral general profesional desde la titulación. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia Específica:\u003c/strong\u003e Mínimo 3 años como Coordinador de Producción, Jefe de Campo, Ingeniero de Producción o Residente/Jefe de Frente en obras de edificación o infraestructura de complejidad similar. \u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

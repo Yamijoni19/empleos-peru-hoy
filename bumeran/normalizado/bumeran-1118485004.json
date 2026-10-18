@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485004",
+    "clave":  "id:1118485004",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-equipamiento-deportivo-marisol-zevallos-psicologia-y-management-e.i.r.l.-1118485004.html",
+                   "capturadoEn":  "2026-10-18T09:38:13+00:00"
+               },
+    "titulo":  "Coordinador de Equipamiento Deportivo",
+    "empresa":  "MARISOL ZEVALLOS PSICOLOGIA Y MANAGEMENT E.I.R.L.",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nos encontramos en la búsqueda de un Coordinador de Equipamiento Deportivo para asegurar la correcta especificación, procura, instalación, pruebas y puesta en servicio de todo el equipamiento especializado en las áreas deportivas del proyecto en Villa El Salvador. Objetivo y Responsabilidades Principales: Planificar, supervisar y coordinar la adquisición, llegada, montaje e instalación del equipamiento deportivo especializado (marcadore, superficies, redes, mobiliario especializado, sistemas deportivos). Verificar que los proveedores y fabricantes cumplan con las especificaciones técnicas y homologaciones requeridas por reglamentos deportivos. Coordinar las interfaces entre las obras civiles/instalaciones y el equipamiento especializado, garantizando su correcta recepción y funcionamiento. Requisitos del Perfil: Formación Académica: Titulado, Colegiado y Habilitado en Ingeniería Civil, Arquitectura, Ingeniería Mecánica, Ingeniería Industrial o carreras afines. Experiencia General: Mínimo 5 años de experiencia laboral general profesional. Experiencia Específica: Mínimo 3 años de experiencia específica como Coordinador, Jefe o Especialista en equipamiento, montaje o instalaciones especializadas en proyectos de edificación, complejos deportivos, infraestructura o similares.",
+    "requisitos":  [
+                       "del"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-equipamiento-deportivo-marisol-zevallos-psicologia-y-management-e.i.r.l.-1118485004.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-equipamiento-deportivo-marisol-zevallos-psicologia-y-management-e.i.r.l.-1118485004.html",
+    "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda de un Coordinador de Equipamiento Deportivo para asegurar la correcta especificación, procura, instalación, pruebas y puesta en servicio de todo el equipamiento especializado en las áreas deportivas del proyecto en Villa El Salvador.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eObjetivo y Responsabilidades Principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanificar, supervisar y coordinar la adquisición, llegada, montaje e instalación del equipamiento deportivo especializado (marcadore, superficies, redes, mobiliario especializado, sistemas deportivos). \u003c/li\u003e \u003cli\u003eVerificar que los proveedores y fabricantes cumplan con las especificaciones técnicas y homologaciones requeridas por reglamentos deportivos. \u003c/li\u003e \u003cli\u003eCoordinar las interfaces entre las obras civiles/instalaciones y el equipamiento especializado, garantizando su correcta recepción y funcionamiento. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos del Perfil:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eFormación Académica:\u003c/strong\u003e Titulado, Colegiado y Habilitado en Ingeniería Civil, Arquitectura, Ingeniería Mecánica, Ingeniería Industrial o carreras afines. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia General:\u003c/strong\u003e Mínimo 5 años de experiencia laboral general profesional. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia Específica: \u003c/strong\u003eMínimo 3 años de experiencia específica como Coordinador, Jefe o Especialista en equipamiento, montaje o instalaciones especializadas en proyectos de edificación, complejos deportivos, infraestructura o similares. \u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

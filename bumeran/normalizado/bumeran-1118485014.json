@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118485014",
+    "clave":  "id:1118485014",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-san-isidro-1118485014.html",
+                   "capturadoEn":  "2026-10-18T09:37:54+00:00"
+               },
+    "titulo":  "Practicante Profesional (San Isidro)",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nuestro cliente, empresa con más de 30 años de experiencia en Corretaje de Seguros, se encuentra en la búsqueda de un Practicante Profesional Requisitos : Egresado de la carrera de Administración, Negocios Intercionales, Ingeniería Industrial, Economía, Banca y Seguros o afines. Disponibilidad para realizar prácticas de forma presencial en San Isidro Funciones Apoyo en el registro de pólizas Registro de informacion en sistemas Envio de reportes y estatus Soporte a ejecutivos, apoderado, entre otros. Beneficios Subvención económica Seguro FOLA para practicantes Línea de carrera",
+    "requisitos":  [
+                       "Egresado de la carrera de Administración, Negocios Intercionales, Ingeniería Industrial, Economía, Banca y Seguros o afines",
+                       "Disponibilidad para realizar prácticas de forma presencial en San Isidro"
+                   ],
+    "funciones":  [
+                      "Apoyo en el registro de pólizas",
+                      "Registro de informacion en sistemas",
+                      "Envio de reportes y estatus",
+                      "Soporte a ejecutivos, apoderado, entre otros"
+                  ],
+    "beneficios":  [
+                       "Subvención económica",
+                       "Seguro FOLA para practicantes",
+                       "Línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-san-isidro-1118485014.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-san-isidro-1118485014.html",
+    "descripcion_html":  "\u003cp\u003eNuestro cliente, empresa con más de 30 años de experiencia en Corretaje de Seguros, se encuentra en la búsqueda de un Practicante Profesional\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e:\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado de la carrera de Administración, Negocios Intercionales, Ingeniería Industrial, Economía, Banca y Seguros o afines.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar prácticas de forma presencial en San Isidro\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyo en el registro de pólizas\u003c/li\u003e \u003cli\u003eRegistro de informacion en sistemas\u003c/li\u003e \u003cli\u003eEnvio de reportes y estatus\u003c/li\u003e \u003cli\u003eSoporte a ejecutivos, apoderado, entre otros.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSubvención económica\u003c/li\u003e \u003cli\u003eSeguro FOLA para practicantes\u003c/li\u003e \u003cli\u003eLínea de carrera\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 30 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

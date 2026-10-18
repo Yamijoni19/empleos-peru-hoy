@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118484998",
+    "clave":  "id:1118484998",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-diseno-wenco-s-a-1118484998.html",
+                   "capturadoEn":  "2026-10-18T09:38:22+00:00"
+               },
+    "titulo":  "Asistente de Diseño",
+    "empresa":  "WENCO S A",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1007,
+                    "max":  1007,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "s/1007",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Empresa líder industrial, se encuentra en búsqueda de Asistente de Diseño. Funciones: Diseño de planos de troqueles. Desarrollar y Elaborar artes que se le encomienda según el diseño. Diseñar, coordinar y evaluar la ejecución de trabajo con las áreas competente como Troquel, Pre- Prensa y PCP. Diseñar y elaborar los Packing y los artes de inicio a fin empleando para eso las herramientas de diseño gráfico en computadora. Requisitos * Experiencia de 6 meses en funciones relacionadas (Deseable) * Conocimientos en Corel Draw (Indispensable) * Estudios técnicos culminados en Diseño Gráfico. *Disponibilidad para laborar de Lunes a Viernes de 8:00am a 5:30pm y Sabados de 8:00am a 1:00pm Ofrecemos -Ingreso a planilla directa (completa) -Salario competitivo. -Beneficios de acuerdo a ley -Pagos quincenales -Grato ambiente laboral -Contrato de trabajo a plazo fijo con período de prueba acorde ley.",
+    "requisitos":  [
+                       "Experiencia de 6 meses en"
+                   ],
+    "funciones":  [
+                      "relacionadas (Deseable)",
+                      "Conocimientos en Corel Draw (Indispensable)",
+                      "Estudios técnicos culminados en Diseño Gráfico",
+                      "Disponibilidad para laborar de Lunes a Viernes de 8:00am a 5:30pm y Sabados de 8:00am a 1:00pm"
+                  ],
+    "beneficios":  [
+                       "de acuerdo a ley",
+                       "Pagos quincenales",
+                       "Grato ambiente laboral",
+                       "Contrato de trabajo a plazo fijo con período de prueba acorde ley"
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-diseno-wenco-s-a-1118484998.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-diseno-wenco-s-a-1118484998.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa líder industrial, se encuentra en búsqueda de \u003cstrong\u003eAsistente de Diseño.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseño de planos de troqueles.\u003c/li\u003e \u003cli\u003eDesarrollar y Elaborar artes que se le encomienda según el diseño.\u003c/li\u003e \u003cli\u003eDiseñar, coordinar y evaluar la ejecución de trabajo con las áreas competente como Troquel, Pre- Prensa y PCP.\u003c/li\u003e \u003cli\u003eDiseñar y elaborar los Packing y los artes de inicio a fin empleando para eso las herramientas de diseño gráfico en computadora.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e* Experiencia de 6 meses en funciones relacionadas (Deseable)\u003c/p\u003e\u003cp\u003e* Conocimientos en Corel Draw (Indispensable)\u003c/p\u003e\u003cp\u003e* Estudios técnicos culminados en Diseño Gráfico.\u003c/p\u003e\u003cp\u003e*Disponibilidad para laborar de Lunes a Viernes de 8:00am a 5:30pm y Sabados de 8:00am a 1:00pm\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e-Ingreso a planilla directa (completa)\u003c/p\u003e\u003cp\u003e-Salario competitivo.\u003c/p\u003e\u003cp\u003e-Beneficios de acuerdo a ley\u003c/p\u003e\u003cp\u003e-Pagos quincenales\u003c/p\u003e\u003cp\u003e-Grato ambiente laboral\u003c/p\u003e\u003cp\u003e-Contrato de trabajo a plazo fijo con período de prueba acorde ley.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
