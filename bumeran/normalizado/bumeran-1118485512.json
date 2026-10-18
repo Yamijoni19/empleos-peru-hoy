@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118485512",
+    "clave":  "id:1118485512",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-de-seguridad-ofensiva-y-especialista-de-seguridad-defensiva-khana-consultores-1118485512.html",
+                   "capturadoEn":  "2026-10-18T14:01:38+00:00"
+               },
+    "titulo":  "Especialista de Seguridad Ofensiva y Especialista de Seguridad Defensiva",
+    "empresa":  "Khana Consultores",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Especialistas de Ciberseguridad – Seguridad Ofensiva y Defensiva Nos encontramos en la búsqueda de dos profesionales en ciberseguridad para nuestro cliente CLARO : un(a) Especialista de Seguridad Ofensiva (Red Team) y un(a) Especialista de Seguridad Defensiva (Blue Team) . Buscamos profesionales con experiencia en ciberseguridad, gestión de vulnerabilidades y evaluación de amenazas, con conocimientos que les permitan comprender ambas especialidades. Especialista de Seguridad Ofensiva Misión del puesto: Planificar y ejecutar servicios de seguridad ofensiva del CSOC de Claro Empresas, incluyendo ethical hacking, pruebas de penetración, análisis de vulnerabilidades, pruebas de seguridad de aplicaciones (SAST/DAST) y simulaciones de phishing e ingeniería social, para identificar debilidades en la infraestructura, aplicaciones y personas de los clientes y proponer medidas de remediación. Principales funciones: Ejecutar pruebas de pentesting en infraestructura, aplicaciones web y móviles, APIs, Active Directory y redes inalámbricas. Realizar pruebas SAST/DAST y revisión de código. Diseñar campañas de phishing e ingeniería social y participar en ejercicios Red Team. Definir el alcance, las reglas de enfrentamiento y los planes de pruebas con el cliente. Elaborar informes técnicos con evidencias, clasificación de riesgos y recomendaciones de remediación. Identificar y validar vulnerabilidades según su criticidad e impacto. Especialista de Seguridad Defensiva Misión del puesto: Monitorear, detectar y gestionar eventos e incidentes de ciberseguridad en los servicios del CSOC de Claro Empresas y sus clientes, investigando amenazas y coordinando acciones de contención y respuesta para reducir el impacto de los ataques. Principales funciones: Monitorear eventos y alertas para detectar actividades sospechosas e indicadores de compromiso. Investigar, clasificar y gestionar incidentes de ciberseguridad hasta su resolución. Ejecutar o coordinar acciones de contención y mitigación de ataques. Analizar registros y evidencias para determinar el origen, alcance e impacto de los incidentes. Gestionar y priorizar vulnerabilidades según su criticidad y riesgo. Elaborar informes técnicos y coordinar acciones correctivas con los equipos técnicos y clientes. Colaborar con equipos ofensivos en el análisis de hallazgos y la mejora de las capacidades de detección. Requisitos para ambas posiciones: Bachiller universitario, preferentemente en Ingeniería de Sistemas, Informática, Telecomunicaciones, Ciberseguridad o carreras afines. Experiencia en ciberseguridad, idealmente en operaciones SOC/CSOC, gestión de vulnerabilidades, evaluación de amenazas o pruebas de seguridad. Para el perfil ofensivo, se considera referencial una experiencia mínima de 2 años. Conocimientos de metodologías y marcos de seguridad: OWASP Top 10, OWASP WSTG, PTES, NIST SP 800-115 y MITRE ATT\u0026CK. Conocimientos de infraestructura, redes, sistemas Windows y Linux, aplicaciones web y Active Directory. Conocimientos de análisis y gestión de vulnerabilidades, clasificación CVSS y elaboración de recomendaciones de remediación. Manejo de herramientas de seguridad, como Nmap, Burp Suite, Metasploit, Kali Linux y soluciones de análisis de vulnerabilidades. Conocimientos de monitoreo de eventos, análisis de alertas, gestión de incidentes y contención de ataques. Conocimientos de scripting con Python, Bash o PowerShell. Inglés intermedio para lectura de documentación técnica. Manejo de Microsoft Office a nivel intermedio. Certificaciones valoradas para ambas posiciones: Indispensable (al menos una): OSCP, eCPPT, PNPT o CEH Practical. Deseables: OSWE, OSEP, CRTP/CRTO, Burp Suite Certified Practitioner, eWPTX, GWAPT, GPEN o eMAPT.",
+    "requisitos":  [
+                       "para ambas posiciones",
+                       "Bachiller universitario, preferentemente en Ingeniería de Sistemas, Informática, Telecomunicaciones, Ciberseguridad o carreras afines",
+                       "Experiencia en ciberseguridad, idealmente en operaciones SOC/CSOC, gestión de vulnerabilidades, evaluación de amenazas o pruebas de seguridad. Para el"
+                   ],
+    "funciones":  [
+                      "Monitorear eventos y alertas para detectar actividades sospechosas e indicadores de compromiso",
+                      "Investigar, clasificar y gestionar incidentes de ciberseguridad hasta su resolución",
+                      "Ejecutar o coordinar acciones de contención y mitigación de ataques",
+                      "Analizar registros y evidencias para determinar el origen, alcance e impacto de los incidentes",
+                      "Gestionar y priorizar vulnerabilidades según su criticidad y riesgo",
+                      "Elaborar informes técnicos y coordinar acciones correctivas con los equipos técnicos y clientes",
+                      "Colaborar con equipos ofensivos en el análisis de hallazgos y la mejora de las capacidades de detección"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-de-seguridad-ofensiva-y-especialista-de-seguridad-defensiva-khana-consultores-1118485512.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-de-seguridad-ofensiva-y-especialista-de-seguridad-defensiva-khana-consultores-1118485512.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEspecialistas de Ciberseguridad – Seguridad Ofensiva y Defensiva\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de \u003cstrong\u003edos profesionales en ciberseguridad\u003c/strong\u003e para nuestro cliente \u003cstrong\u003eCLARO\u003c/strong\u003e: un(a) \u003cstrong\u003eEspecialista de Seguridad Ofensiva (Red Team)\u003c/strong\u003e y un(a) \u003cstrong\u003eEspecialista de Seguridad Defensiva (Blue Team)\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003eBuscamos profesionales con experiencia en ciberseguridad, gestión de vulnerabilidades y evaluación de amenazas, con conocimientos que les permitan comprender ambas especialidades.\u003c/p\u003e\u003col\u003e \u003cli\u003e\u003cu\u003e\u003cstrong\u003eEspecialista de Seguridad Ofensiva\u003c/strong\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePlanificar y ejecutar servicios de seguridad ofensiva del CSOC de Claro Empresas, incluyendo ethical hacking, pruebas de penetración, análisis de vulnerabilidades, pruebas de seguridad de aplicaciones (SAST/DAST) y simulaciones de phishing e ingeniería social, para identificar debilidades en la infraestructura, aplicaciones y personas de los clientes y proponer medidas de remediación.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEjecutar pruebas de pentesting en infraestructura, aplicaciones web y móviles, APIs, Active Directory y redes inalámbricas.\u003c/li\u003e \u003cli\u003eRealizar pruebas SAST/DAST y revisión de código.\u003c/li\u003e \u003cli\u003eDiseñar campañas de phishing e ingeniería social y participar en ejercicios Red Team.\u003c/li\u003e \u003cli\u003eDefinir el alcance, las reglas de enfrentamiento y los planes de pruebas con el cliente.\u003c/li\u003e \u003cli\u003eElaborar informes técnicos con evidencias, clasificación de riesgos y recomendaciones de remediación.\u003c/li\u003e \u003cli\u003eIdentificar y validar vulnerabilidades según su criticidad e impacto.\u003c/li\u003e\u003c/ul\u003e\u003col\u003e \u003cli\u003e\u003cu\u003e\u003cstrong\u003eEspecialista de Seguridad Defensiva\u003c/strong\u003e\u003c/u\u003e\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eMonitorear, detectar y gestionar eventos e incidentes de ciberseguridad en los servicios del CSOC de Claro Empresas y sus clientes, investigando amenazas y coordinando acciones de contención y respuesta para reducir el impacto de los ataques.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMonitorear eventos y alertas para detectar actividades sospechosas e indicadores de compromiso.\u003c/li\u003e \u003cli\u003eInvestigar, clasificar y gestionar incidentes de ciberseguridad hasta su resolución.\u003c/li\u003e \u003cli\u003eEjecutar o coordinar acciones de contención y mitigación de ataques.\u003c/li\u003e \u003cli\u003eAnalizar registros y evidencias para determinar el origen, alcance e impacto de los incidentes.\u003c/li\u003e \u003cli\u003eGestionar y priorizar vulnerabilidades según su criticidad y riesgo.\u003c/li\u003e \u003cli\u003eElaborar informes técnicos y coordinar acciones correctivas con los equipos técnicos y clientes.\u003c/li\u003e \u003cli\u003eColaborar con equipos ofensivos en el análisis de hallazgos y la mejora de las capacidades de detección.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos para ambas posiciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller universitario, preferentemente en Ingeniería de Sistemas, Informática, Telecomunicaciones, Ciberseguridad o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia en ciberseguridad, idealmente en operaciones SOC/CSOC, gestión de vulnerabilidades, evaluación de amenazas o pruebas de seguridad. Para el perfil ofensivo, se considera referencial una experiencia mínima de 2 años.\u003c/li\u003e \u003cli\u003eConocimientos de metodologías y marcos de seguridad: OWASP Top 10, OWASP WSTG, PTES, NIST SP 800-115 y MITRE ATT\u0026CK.\u003c/li\u003e \u003cli\u003eConocimientos de infraestructura, redes, sistemas Windows y Linux, aplicaciones web y Active Directory.\u003c/li\u003e \u003cli\u003eConocimientos de análisis y gestión de vulnerabilidades, clasificación CVSS y elaboración de recomendaciones de remediación.\u003c/li\u003e \u003cli\u003eManejo de herramientas de seguridad, como Nmap, Burp Suite, Metasploit, Kali Linux y soluciones de análisis de vulnerabilidades.\u003c/li\u003e \u003cli\u003eConocimientos de monitoreo de eventos, análisis de alertas, gestión de incidentes y contención de ataques.\u003c/li\u003e \u003cli\u003eConocimientos de scripting con Python, Bash o PowerShell.\u003c/li\u003e \u003cli\u003eInglés intermedio para lectura de documentación técnica.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Office a nivel intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eCertificaciones valoradas para ambas posiciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIndispensable (al menos una): OSCP, eCPPT, PNPT o CEH Practical.\u003c/li\u003e \u003cli\u003eDeseables: OSWE, OSEP, CRTP/CRTO, Burp Suite Certified Practitioner, eWPTX, GWAPT, GPEN o eMAPT.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

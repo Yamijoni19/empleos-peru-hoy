@@ -1,0 +1,92 @@
+{
+    "id":  "bumeran-1118485515",
+    "clave":  "id:1118485515",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-de-ia-y-automatizacion-de-ciberseguridad-telecomunicaciones-khana-consultores-1118485515.html",
+                   "capturadoEn":  "2026-10-18T14:01:36+00:00"
+               },
+    "titulo":  "Especialista de IA y Automatización de Ciberseguridad - Telecomunicaciones",
+    "empresa":  "Khana Consultores",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Especialista de IA y Automatización de Ciberseguridad Descripción del puesto Nos encontramos en la búsqueda de un(a) Especialista de IA y Automatización de Ciberseguridad para nuestro cliente CLARO , quien será responsable de diseñar e implementar soluciones de Inteligencia Artificial, automatización e integración de plataformas para optimizar los procesos operativos de Ciberseguridad, reducir los tiempos de atención y respuesta, y mejorar la eficiencia de los servicios SOC/CSOC. Principales funciones Desarrollar e implementar automatizaciones para optimizar tareas y procesos operativos de Ciberseguridad. Desarrollar e implementar automatizaciones para procesos y tareas operativas de Ciberseguridad. Desarrollar, configurar e integrar soluciones en ServiceNow con plataformas de seguridad mediante APIs y otras tecnologías de integración. Implementar soluciones de Inteligencia Artificial generativa y agentes inteligentes para optimizar el análisis, triaje y gestión de incidentes de seguridad. Desarrollar dashboards, reportes e indicadores para medir el desempeño de las automatizaciones y soluciones de IA implementadas. Identificar oportunidades de mejora mediante IA y automatización, evaluando su impacto en la reducción de horas-hombre y tiempos de atención. Integrar herramientas y plataformas de Ciberseguridad para mejorar la eficiencia y escalabilidad de los servicios SOC/CSOC. Evaluar nuevas tecnologías de IA, automatización y orquestación aplicables a las operaciones de Ciberseguridad. Requisitos Bachiller universitario en Ingeniería de Sistemas, Ingeniería de Telecomunicaciones, Ingeniería de Ciberseguridad o carreras afines. Contar con 02 años de experiencia en el desarrollo e implementación de automatizaciones aplicadas a procesos de TI o Ciberseguridad, preferentemente en entornos SOC/CSOC. Dominio avanzado de ServiceNow, incluyendo desarrollo, configuración e integración de soluciones. Conocimientos de operación SOC, gestión de incidentes, SIEM, EDR, firewalls y gestión de vulnerabilidades. Conocimientos de programación en Python y JavaScript, así como scripting en PowerShell o Bash. Experiencia en integración de sistemas mediante APIs REST, JSON y webhooks. Conocimientos de Git y prácticas de desarrollo seguro. Inglés intermedio para la lectura y comprensión de documentación técnica. Conocimientos deseables Experiencia con plataformas SOAR, como Cortex XSOAR, Google SecOps SOAR o Splunk SOAR. Experiencia aplicando IA generativa, modelos de lenguaje (LLM), RAG y agentes de IA a procesos de Ciberseguridad. Integración de modelos y servicios de IA mediante APIs. Conocimientos de SQL, bases de datos y herramientas de visualización como Power BI. Experiencia con ServiceNow Flow Designer, IntegrationHub, Business Rules, Script Includes y Glide API. Certificaciones Indispensable: ServiceNow Certified System Administrator (CSA). Deseables: ServiceNow Certified Application Developer (CAD), ServiceNow CIS en Security Incident Response, Vulnerability Response o CSM, CompTIA Security+ o CySA+, certificaciones de plataformas SOAR y certificaciones en seguridad o gobierno de IA.",
+    "requisitos":  [
+                       "Bachiller universitario en Ingeniería de Sistemas, Ingeniería de Telecomunicaciones, Ingeniería de Ciberseguridad o carreras afines",
+                       "Contar con 02 años de experiencia en el desarrollo e implementación de automatizaciones aplicadas a procesos de TI o Ciberseguridad, preferentemente en entornos SOC/CSOC",
+                       "Dominio avanzado de ServiceNow, incluyendo desarrollo, configuración e integración de soluciones",
+                       "Conocimientos de operación SOC, gestión de incidentes, SIEM, EDR, firewalls y gestión de vulnerabilidades",
+                       "Conocimientos de programación en Python y JavaScript, así como scripting en PowerShell o Bash",
+                       "Experiencia en integración de sistemas mediante APIs REST, JSON y webhooks",
+                       "Conocimientos de Git y prácticas de desarrollo seguro",
+                       "Inglés intermedio para la lectura y comprensión de documentación técnica",
+                       "Conocimientos deseables",
+                       "Experiencia con plataformas SOAR, como Cortex XSOAR, Google SecOps SOAR o Splunk SOAR",
+                       "Experiencia aplicando IA generativa, modelos de lenguaje (LLM), RAG y agentes de IA a procesos de Ciberseguridad",
+                       "Integración de modelos y servicios de IA mediante APIs",
+                       "Conocimientos de SQL, bases de datos y herramientas de visualización como Power BI",
+                       "Experiencia con ServiceNow Flow Designer, IntegrationHub, Business Rules, Script Includes y Glide API",
+                       "Certificaciones",
+                       "Indispensable: ServiceNow Certified System Administrator (CSA)",
+                       "Deseables: ServiceNow Certified Application Developer (CAD), ServiceNow CIS en Security Incident Response, Vulnerability Response o CSM, CompTIA Security+ o CySA+, certificaciones de plataformas SOAR y certificaciones en seguridad o gobierno de IA"
+                   ],
+    "funciones":  [
+                      "Desarrollar e implementar automatizaciones para optimizar tareas y procesos operativos de Ciberseguridad",
+                      "Desarrollar e implementar automatizaciones para procesos y tareas operativas de Ciberseguridad",
+                      "Desarrollar, configurar e integrar soluciones en ServiceNow con plataformas de seguridad mediante APIs y otras tecnologías de integración",
+                      "Implementar soluciones de Inteligencia Artificial generativa y agentes inteligentes para optimizar el análisis, triaje y gestión de incidentes de seguridad",
+                      "Desarrollar dashboards, reportes e indicadores para medir el desempeño de las automatizaciones y soluciones de IA implementadas",
+                      "Identificar oportunidades de mejora mediante IA y automatización, evaluando su impacto en la reducción de horas-hombre y tiempos de atención",
+                      "Integrar herramientas y plataformas de Ciberseguridad para mejorar la eficiencia y escalabilidad de los servicios SOC/CSOC",
+                      "Evaluar nuevas tecnologías de IA, automatización y orquestación aplicables a las operaciones de Ciberseguridad"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-de-ia-y-automatizacion-de-ciberseguridad-telecomunicaciones-khana-consultores-1118485515.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-de-ia-y-automatizacion-de-ciberseguridad-telecomunicaciones-khana-consultores-1118485515.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEspecialista de IA y Automatización de Ciberseguridad\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDescripción del puesto\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) \u003cstrong\u003eEspecialista de IA y Automatización de Ciberseguridad\u003c/strong\u003e para nuestro cliente \u003cstrong\u003eCLARO\u003c/strong\u003e, quien será responsable de diseñar e implementar soluciones de Inteligencia Artificial, automatización e integración de plataformas para optimizar los procesos operativos de Ciberseguridad, reducir los tiempos de atención y respuesta, y mejorar la eficiencia de los servicios SOC/CSOC.\u003c/p\u003e\u003cp\u003ePrincipales funciones\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar e implementar automatizaciones para optimizar tareas y procesos operativos de Ciberseguridad.\u003c/li\u003e \u003cli\u003eDesarrollar e implementar automatizaciones para procesos y tareas operativas de Ciberseguridad.\u003c/li\u003e \u003cli\u003eDesarrollar, configurar e integrar soluciones en ServiceNow con plataformas de seguridad mediante APIs y otras tecnologías de integración.\u003c/li\u003e \u003cli\u003eImplementar soluciones de Inteligencia Artificial generativa y agentes inteligentes para optimizar el análisis, triaje y gestión de incidentes de seguridad.\u003c/li\u003e \u003cli\u003eDesarrollar dashboards, reportes e indicadores para medir el desempeño de las automatizaciones y soluciones de IA implementadas.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de mejora mediante IA y automatización, evaluando su impacto en la reducción de horas-hombre y tiempos de atención.\u003c/li\u003e \u003cli\u003eIntegrar herramientas y plataformas de Ciberseguridad para mejorar la eficiencia y escalabilidad de los servicios SOC/CSOC.\u003c/li\u003e \u003cli\u003eEvaluar nuevas tecnologías de IA, automatización y orquestación aplicables a las operaciones de Ciberseguridad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller universitario en Ingeniería de Sistemas, Ingeniería de Telecomunicaciones, Ingeniería de Ciberseguridad o carreras afines.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eContar con 02 años de experiencia\u003c/strong\u003e en el desarrollo e implementación de automatizaciones aplicadas a procesos de TI o Ciberseguridad, preferentemente en entornos SOC/CSOC.\u003c/li\u003e \u003cli\u003eDominio avanzado de ServiceNow, incluyendo desarrollo, configuración e integración de soluciones.\u003c/li\u003e \u003cli\u003eConocimientos de operación SOC, gestión de incidentes, SIEM, EDR, firewalls y gestión de vulnerabilidades.\u003c/li\u003e \u003cli\u003eConocimientos de programación en Python y JavaScript, así como scripting en PowerShell o Bash.\u003c/li\u003e \u003cli\u003eExperiencia en integración de sistemas mediante APIs REST, JSON y webhooks.\u003c/li\u003e \u003cli\u003eConocimientos de Git y prácticas de desarrollo seguro.\u003c/li\u003e \u003cli\u003eInglés intermedio para la lectura y comprensión de documentación técnica.\u003c/li\u003e \u003cli\u003e\u003cbr /\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eConocimientos deseables\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia con plataformas SOAR, como Cortex XSOAR, Google SecOps SOAR o Splunk SOAR.\u003c/li\u003e \u003cli\u003eExperiencia aplicando IA generativa, modelos de lenguaje (LLM), RAG y agentes de IA a procesos de Ciberseguridad.\u003c/li\u003e \u003cli\u003eIntegración de modelos y servicios de IA mediante APIs.\u003c/li\u003e \u003cli\u003eConocimientos de SQL, bases de datos y herramientas de visualización como Power BI.\u003c/li\u003e \u003cli\u003eExperiencia con ServiceNow Flow Designer, IntegrationHub, Business Rules, Script Includes y Glide API.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCertificaciones\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eIndispensable:\u003c/strong\u003e ServiceNow Certified System Administrator (CSA).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseables:\u003c/strong\u003e ServiceNow Certified Application Developer (CAD), ServiceNow CIS en Security Incident Response, Vulnerability Response o CSM, CompTIA Security+ o CySA+, certificaciones de plataformas SOAR y certificaciones en seguridad o gobierno de IA.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 02 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

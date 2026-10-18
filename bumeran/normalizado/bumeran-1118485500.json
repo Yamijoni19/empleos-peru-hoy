@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118485500",
+    "clave":  "id:1118485500",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/agente-de-control-de-accesos-y-conserjeria-1118485500.html",
+                   "capturadoEn":  "2026-10-18T14:01:46+00:00"
+               },
+    "titulo":  "Agente de Control de Accesos y Conserjería",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Conserje de Edificio/Control de Accesos Resumen del Puesto Nos encontramos en la búsqueda de una persona, responsable, atento y con habilidades interpersonales para desempeñarse en funciones de conserjería y control de accesos en un edificio. El rol es fundamental para garantizar la seguridad y el orden en las instalaciones. Responsabilidades Controlar y registrar el ingreso y egreso de personal, proveedores y visitas. Asegurar el cumplimiento de los procedimientos de seguridad establecidos. Comunicar de manera efectiva cualquier incidente o novedad relevante. Mantener un trato cordial y profesional con todas las personas que accedan al edificio. Requisitos Educación secundaria completa. Experiencia mínima de 1 año en puestos de conserjería, portería, recepción de edificios o control de accesos. Capacidad para seguir instrucciones y procedimientos. Habilidades de observación y atención al detalle. Actitud proactiva y de servicio. Ofrecemos: - Ingreso a planilla desde el primer dia -beneficios sociales, gratificaciones julio y diciembre, cts, vacaciones, seguro social -",
+    "requisitos":  [
+                       "Educación secundaria completa",
+                       "Experiencia mínima de 1 año en puestos de conserjería, portería, recepción de edificios o control de accesos",
+                       "Capacidad para seguir instrucciones y procedimientos",
+                       "Habilidades de observación y atención al detalle",
+                       "Actitud proactiva y de servicio"
+                   ],
+    "funciones":  [
+                      "de conserjería y control de accesos en un edificio. El rol es fundamental para garantizar la seguridad y el orden en las instalaciones",
+                      "Responsabilidades",
+                      "Controlar y registrar el ingreso y egreso de personal, proveedores y visitas",
+                      "Asegurar el cumplimiento de los procedimientos de seguridad establecidos",
+                      "Comunicar de manera efectiva cualquier incidente o novedad relevante",
+                      "Mantener un trato cordial y profesional con todas las personas que accedan al edificio"
+                  ],
+    "beneficios":  [
+                       "sociales, gratificaciones julio y diciembre, cts, vacaciones, seguro social"
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/agente-de-control-de-accesos-y-conserjeria-1118485500.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/agente-de-control-de-accesos-y-conserjeria-1118485500.html",
+    "descripcion_html":  "\u003cp\u003eConserje de Edificio/Control de Accesos\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de una persona, responsable, atento y con habilidades interpersonales para desempeñarse en funciones de conserjería y control de accesos en un edificio. El rol es fundamental para garantizar la seguridad y el orden en las instalaciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControlar y registrar el ingreso y egreso de personal, proveedores y visitas.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los procedimientos de seguridad establecidos.\u003c/li\u003e \u003cli\u003eComunicar de manera efectiva cualquier incidente o novedad relevante.\u003c/li\u003e \u003cli\u003eMantener un trato cordial y profesional con todas las personas que accedan al edificio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en puestos de conserjería, portería, recepción de edificios o control de accesos.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y procedimientos.\u003c/li\u003e \u003cli\u003eHabilidades de observación y atención al detalle.\u003c/li\u003e \u003cli\u003eActitud proactiva y de servicio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e Ofrecemos:\u003c/p\u003e\u003cp\u003e- Ingreso a planilla desde el primer dia\u003c/p\u003e\u003cp\u003e-beneficios sociales, gratificaciones julio y diciembre, cts, vacaciones, seguro social\u003c/p\u003e\u003cp\u003e-\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

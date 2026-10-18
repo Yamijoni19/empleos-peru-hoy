@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485516",
+    "clave":  "id:1118485516",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-junior-capacitacion-asesoria-empresarial-1118485516.html",
+                   "capturadoEn":  "2026-10-18T14:01:35+00:00"
+               },
+    "titulo":  "Asistente Comercial Junior",
+    "empresa":  "CAPACITACION \u0026 ASESORIA EMPRESARIAL",
+    "ubicacion":  "Lima - San Juan de Miraflores",
+    "ciudad":  "San Juan de Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Comercial Junior Resumen del Puesto Buscamos incorporar a nuestro equipo un Asistente Comercial Junior proactivo, comunicativo y con gran potencial de desarrollo en el área comercial. Si tienes ganas de aprender y crecer profesionalmente, esta oportunidad es para ti. Responsabilidades Identificar y contactar a potenciales clientes. Promocionar servicios y generar oportunidades de venta. Crear contenido atractivo para redes sociales. Producir y editar videos cortos. Gestionar consultas y realizar seguimiento comercial. Requisitos Estudiantes, egresados o personas con un fuerte interés en el área de ventas. Excelentes habilidades de comunicación y una marcada actitud comercial. Manejo básico de redes sociales y herramientas de edición como Canva o CapCut. La experiencia previa no es un requisito indispensable. Ofrecemos Capacitación continua y oportunidades de crecimiento profesional. Remuneración fija competitiva, además de incentivos por ventas. Un excelente ambiente de trabajo colaborativo.",
+    "requisitos":  [
+                       "Estudiantes, egresados o personas con un fuerte interés en el área de ventas",
+                       "Excelentes habilidades de comunicación y una marcada actitud comercial",
+                       "Manejo básico de redes sociales y herramientas de edición como Canva o CapCut",
+                       "La experiencia previa no es un requisito indispensable"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-junior-capacitacion-asesoria-empresarial-1118485516.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-junior-capacitacion-asesoria-empresarial-1118485516.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Comercial Junior\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar a nuestro equipo un \u003cb\u003eAsistente Comercial Junior\u003c/b\u003e proactivo, comunicativo y con gran potencial de desarrollo en el área comercial. Si tienes ganas de aprender y crecer profesionalmente, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eIdentificar y contactar a potenciales clientes.\u003c/li\u003e \u003cli\u003ePromocionar servicios y generar oportunidades de venta.\u003c/li\u003e \u003cli\u003eCrear contenido atractivo para redes sociales.\u003c/li\u003e \u003cli\u003eProducir y editar videos cortos.\u003c/li\u003e \u003cli\u003eGestionar consultas y realizar seguimiento comercial.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiantes, egresados o personas con un fuerte interés en el área de ventas.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y una marcada actitud comercial.\u003c/li\u003e \u003cli\u003eManejo básico de redes sociales y herramientas de edición como Canva o CapCut.\u003c/li\u003e \u003cli\u003eLa experiencia previa no es un requisito indispensable.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eCapacitación continua y oportunidades de crecimiento profesional.\u003c/li\u003e \u003cli\u003eRemuneración fija competitiva, además de incentivos por ventas.\u003c/li\u003e \u003cli\u003eUn excelente ambiente de trabajo colaborativo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

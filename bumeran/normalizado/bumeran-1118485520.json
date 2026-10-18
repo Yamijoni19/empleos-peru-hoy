@@ -1,0 +1,98 @@
+{
+    "id":  "bumeran-1118485520",
+    "clave":  "id:1118485520",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-inteligencia-de-amenazas-telecomunicaciones-khana-consultores-1118485520.html",
+                   "capturadoEn":  "2026-10-18T14:01:32+00:00"
+               },
+    "titulo":  "Especialista Inteligencia de Amenazas - Telecomunicaciones",
+    "empresa":  "Khana Consultores",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Especialista de Inteligencia de Amenazas Descripción del puesto Nos encontramos en la búsqueda de un(a) Especialista de Inteligencia de Amenazas (Cyber Threat Intelligence) para nuestro cliente CLARO . Objetivo del puesto Ejecutar y analizar actividades de Inteligencia de Amenazas (CTI) en el CSOC de Claro Empresas para anticipar amenazas, identificar riesgos de exposición digital y fortalecer la detección y respuesta ante incidentes. La posición se enfoca en investigar fuentes abiertas, analizar filtraciones de información y credenciales comprometidas, y elaborar productos de inteligencia y reportes para distintos clientes corporativos. Principales funciones Recolectar, procesar y analizar información de inteligencia proveniente de fuentes abiertas (OSINT), comerciales, deep web y dark web, CERTs/CSIRTs y comunidades de intercambio, considerando los requerimientos de inteligencia del CSOC y sus clientes. Analizar y mantener información de amenazas en la plataforma de inteligencia (TIP) y feeds de amenazas. Elaborar productos de inteligencia táctica, operativa y estratégica. Monitorear y analizar la exposición digital de los clientes, incluyendo filtraciones de credenciales, suplantación de marca y dominios, fugas de información, superficie de ataque externa y vulnerabilidades explotadas activamente, utilizando fuentes como CISA KEV, EPSS y exploits públicos. Elaborar indicadores y reportes del servicio de inteligencia, aplicando protocolos y estándares de intercambio como TLP, STIX y TAXII. Requisitos Bachiller universitario en Ingeniería de Sistemas, Ciberseguridad, Telecomunicaciones o carreras afines. Experiencia mínima de 3 años en ciberseguridad , preferentemente en CTI, investigación OSINT, análisis de amenazas o servicios de inteligencia para clientes corporativos. Experiencia investigando amenazas en fuentes abiertas, deep web y dark web, y elaborando reportes técnicos, ejecutivos y productos de inteligencia. Conocimientos de operación SOC y análisis de IOCs. Experiencia elaborando reportes técnicos, ejecutivos y productos de inteligencia. Microsoft Office intermedio. Inglés intermedio en lectoescritura. Conocimientos indispensables Ciclo de vida de inteligencia: recolección, procesamiento, análisis, difusión y retroalimentación; niveles táctico, operativo y estratégico. Frameworks de análisis: MITRE ATT\u0026CK, Cyber Kill Chain y Diamond Model. Plataformas TIP: Anomali ThreatStream, MISP y OpenCTI. Estándares de intercambio: STIX, TAXII y TLP. OSINT y fuentes especializadas: investigación en fuentes abiertas, deep web y dark web con seguridad operacional (OPSEC). Operación SOC: SIEM, EDR/XDR, SOAR, análisis de logs e IOCs. Investigación de amenazas y exposición digital: credenciales filtradas, fugas de información, suplantación de marca y dominios, superficie de ataque externa y vulnerabilidades explotadas activamente. Análisis de amenazas: actores, campañas maliciosas, TTPs y correlación de información de diversas fuentes. Reportería de inteligencia: informes técnicos y ejecutivos, indicadores del servicio y recomendaciones accionables. Conocimientos deseables Análisis básico de malware. Elaboración y análisis de reglas YARA y Sigma. Python para automatizar la recolección y procesamiento de información. Técnicas analíticas estructuradas, como Analysis of Competing Hypotheses (ACH). Conocimiento de sesgos cognitivos aplicados al análisis de inteligencia. Certificaciones Indispensable (al menos una): CTIA (EC-Council), GCTI (GIAC) o certificación equivalente en inteligencia de amenazas. Deseables: GOSI (GIAC Open Source Intelligence), CompTIA CySA+, Microsoft SC-200 o MITRE ATT\u0026CK Defender (MAD) - CTI.",
+    "requisitos":  [
+                       "Bachiller universitario en Ingeniería de Sistemas, Ciberseguridad, Telecomunicaciones o carreras afines",
+                       "Experiencia mínima de 3 años en ciberseguridad, preferentemente en CTI, investigación OSINT, análisis de amenazas o servicios de inteligencia para clientes corporativos",
+                       "Experiencia investigando amenazas en fuentes abiertas, deep web y dark web, y elaborando reportes técnicos, ejecutivos y productos de inteligencia",
+                       "Conocimientos de operación SOC y análisis de IOCs",
+                       "Experiencia elaborando reportes técnicos, ejecutivos y productos de inteligencia",
+                       "Microsoft Office intermedio",
+                       "Inglés intermedio en lectoescritura",
+                       "Conocimientos indispensables",
+                       "Ciclo de vida de inteligencia: recolección, procesamiento, análisis, difusión y retroalimentación; niveles táctico, operativo y estratégico",
+                       "Frameworks de análisis: MITRE ATT\u0026CK, Cyber Kill Chain y Diamond Model",
+                       "Plataformas TIP: Anomali ThreatStream, MISP y OpenCTI",
+                       "Estándares de intercambio: STIX, TAXII y TLP",
+                       "OSINT y fuentes especializadas: investigación en fuentes abiertas, deep web y dark web con seguridad operacional (OPSEC)",
+                       "Operación SOC: SIEM, EDR/XDR, SOAR, análisis de logs e IOCs",
+                       "Investigación de amenazas y exposición digital: credenciales filtradas, fugas de información, suplantación de marca y dominios, superficie de ataque externa y vulnerabilidades explotadas activamente",
+                       "Análisis de amenazas: actores, campañas maliciosas, TTPs y correlación de información de diversas fuentes",
+                       "Reportería de inteligencia: informes técnicos y ejecutivos, indicadores del servicio y recomendaciones accionables",
+                       "Conocimientos deseables",
+                       "Análisis básico de malware",
+                       "Elaboración y análisis de reglas YARA y Sigma",
+                       "Python para automatizar la recolección y procesamiento de información",
+                       "Técnicas analíticas estructuradas, como Analysis of Competing Hypotheses (ACH)",
+                       "Conocimiento de sesgos cognitivos aplicados al análisis de inteligencia",
+                       "Certificaciones",
+                       "Indispensable (al menos una): CTIA (EC-Council), GCTI (GIAC) o certificación equivalente en inteligencia de amenazas",
+                       "Deseables: GOSI (GIAC Open Source Intelligence), CompTIA CySA+, Microsoft SC-200 o MITRE ATT\u0026CK Defender (MAD) - CTI"
+                   ],
+    "funciones":  [
+                      "Recolectar, procesar y analizar información de inteligencia proveniente de fuentes abiertas (OSINT), comerciales, deep web y dark web, CERTs/CSIRTs y comunidades de intercambio, considerando los requerimientos de inteligencia del CSOC y sus clientes",
+                      "Analizar y mantener información de amenazas en la plataforma de inteligencia (TIP) y feeds de amenazas",
+                      "Elaborar productos de inteligencia táctica, operativa y estratégica",
+                      "Monitorear y analizar la exposición digital de los clientes, incluyendo filtraciones de credenciales, suplantación de marca y dominios, fugas de información, superficie de ataque externa y vulnerabilidades explotadas activamente, utilizando fuentes como CISA KEV, EPSS y exploits públicos",
+                      "Elaborar indicadores y reportes del servicio de inteligencia, aplicando protocolos y estándares de intercambio como TLP, STIX y TAXII"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-inteligencia-de-amenazas-telecomunicaciones-khana-consultores-1118485520.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-inteligencia-de-amenazas-telecomunicaciones-khana-consultores-1118485520.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEspecialista de Inteligencia de Amenazas\u003c/strong\u003e \u003c/p\u003e\u003cp\u003eDescripción del puesto\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) \u003cstrong\u003eEspecialista de Inteligencia de Amenazas (Cyber Threat Intelligence)\u003c/strong\u003e para nuestro cliente \u003cstrong\u003eCLARO\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eObjetivo del puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEjecutar y analizar actividades de Inteligencia de Amenazas (CTI) en el CSOC de Claro Empresas para anticipar amenazas, identificar riesgos de exposición digital y fortalecer la detección y respuesta ante incidentes. La posición se enfoca en investigar fuentes abiertas, analizar filtraciones de información y credenciales comprometidas, y elaborar productos de inteligencia y reportes para distintos clientes corporativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecolectar, procesar y analizar información de inteligencia proveniente de fuentes abiertas (OSINT), comerciales, deep web y dark web, CERTs/CSIRTs y comunidades de intercambio, considerando los requerimientos de inteligencia del CSOC y sus clientes.\u003c/li\u003e \u003cli\u003eAnalizar y mantener información de amenazas en la plataforma de inteligencia (TIP) y feeds de amenazas.\u003c/li\u003e \u003cli\u003eElaborar productos de inteligencia táctica, operativa y estratégica.\u003c/li\u003e \u003cli\u003eMonitorear y analizar la exposición digital de los clientes, incluyendo filtraciones de credenciales, suplantación de marca y dominios, fugas de información, superficie de ataque externa y vulnerabilidades explotadas activamente, utilizando fuentes como CISA KEV, EPSS y exploits públicos.\u003c/li\u003e \u003cli\u003eElaborar indicadores y reportes del servicio de inteligencia, aplicando protocolos y estándares de intercambio como TLP, STIX y TAXII.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller universitario en Ingeniería de Sistemas, Ciberseguridad, Telecomunicaciones o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u003cstrong\u003e3 años en ciberseguridad\u003c/strong\u003e, preferentemente en CTI, investigación OSINT, análisis de amenazas o servicios de inteligencia para clientes corporativos.\u003c/li\u003e \u003cli\u003eExperiencia investigando amenazas en fuentes abiertas, deep web y dark web, y elaborando reportes técnicos, ejecutivos y productos de inteligencia.\u003c/li\u003e \u003cli\u003eConocimientos de operación SOC y análisis de IOCs.\u003c/li\u003e \u003cli\u003eExperiencia elaborando reportes técnicos, ejecutivos y productos de inteligencia.\u003c/li\u003e \u003cli\u003eMicrosoft Office intermedio.\u003c/li\u003e \u003cli\u003eInglés intermedio en lectoescritura.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos indispensables\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCiclo de vida de inteligencia: recolección, procesamiento, análisis, difusión y retroalimentación; niveles táctico, operativo y estratégico.\u003c/li\u003e \u003cli\u003eFrameworks de análisis: MITRE ATT\u0026CK, Cyber Kill Chain y Diamond Model.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003ePlataformas TIP: Anomali ThreatStream, MISP y OpenCTI.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eEstándares de intercambio: STIX, TAXII y TLP.\u003c/li\u003e \u003cli\u003eOSINT y fuentes especializadas: investigación en fuentes abiertas, deep web y dark web con seguridad operacional (OPSEC).\u003c/li\u003e \u003cli\u003eOperación SOC: SIEM, EDR/XDR, SOAR, análisis de logs e IOCs.\u003c/li\u003e \u003cli\u003eInvestigación de amenazas y exposición digital: credenciales filtradas, fugas de información, suplantación de marca y dominios, superficie de ataque externa y vulnerabilidades explotadas activamente.\u003c/li\u003e \u003cli\u003eAnálisis de amenazas: actores, campañas maliciosas, TTPs y correlación de información de diversas fuentes.\u003c/li\u003e \u003cli\u003eReportería de inteligencia: informes técnicos y ejecutivos, indicadores del servicio y recomendaciones accionables.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos deseables\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAnálisis básico de malware.\u003c/li\u003e \u003cli\u003eElaboración y análisis de reglas YARA y Sigma.\u003c/li\u003e \u003cli\u003ePython para automatizar la recolección y procesamiento de información.\u003c/li\u003e \u003cli\u003eTécnicas analíticas estructuradas, como Analysis of Competing Hypotheses (ACH).\u003c/li\u003e \u003cli\u003eConocimiento de sesgos cognitivos aplicados al análisis de inteligencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCertificaciones\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIndispensable (al menos una):\u003c/strong\u003e CTIA (EC-Council), GCTI (GIAC) o certificación equivalente en inteligencia de amenazas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDeseables:\u003c/strong\u003e GOSI (GIAC Open Source Intelligence), CompTIA CySA+, Microsoft SC-200 o MITRE ATT\u0026CK Defender (MAD) - CTI.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

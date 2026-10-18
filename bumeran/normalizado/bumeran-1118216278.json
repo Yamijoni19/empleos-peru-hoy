@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118216278",
+    "clave":  "id:1118216278",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-mantenimiento-mecanico-volcan-compania-minera-s.a.a.-1118216278.html",
+                   "capturadoEn":  "2026-10-18T14:01:51+00:00"
+               },
+    "titulo":  "PRACTICANTE PROFESIONAL DE MANTENIMIENTO MECANICO",
+    "empresa":  "Volcan Compañia Minera S.A.A.",
+    "ubicacion":  "Junin - Junín",
+    "ciudad":  "Junín",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Volcan estamos en la búsqueda de un Practicante Profesional para unirse al equipo de Mantenimiento Mecánico en la Unidad Operativa de Ticlio. Misión del puesto: Dar soporte en la ejecución de los Programas en las áreas de Mantenimiento mecánico bajo la dirección de los jefes de mantenimiento mecánico de las áreas asignadas. Responsabilidades: Apoyar en el cumplimiento de la implementación de los procedimientos escritos de trabajo seguros basados en las hojas de ruta de los manuales de mantenimiento de los equipos para CIA y EE Asegurar la implementación de las hojas de rutas de mantenimiento de los equipos nuevos en CIA y EE Cumplir el estándar en seguridad en la operación y cumplir con las normativas legales en la unidad, política SSOMAC y Trabajo Seguro. Requisitos: Conocimiento en normas legales relacionados a SSO Gestión de Riesgos (Risk Management) MS Office Inglés Técnico y de Negocios",
+    "requisitos":  [
+                       "Conocimiento en normas legales relacionados a SSO",
+                       "Gestión de Riesgos (Risk Management)",
+                       "MS Office",
+                       "Inglés Técnico y de Negocios"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-mantenimiento-mecanico-volcan-compania-minera-s.a.a.-1118216278.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-mantenimiento-mecanico-volcan-compania-minera-s.a.a.-1118216278.html",
+    "descripcion_html":  "\u003cp\u003eEn \u003cstrong\u003eVolcan \u003c/strong\u003eestamos en la búsqueda de un \u003cstrong\u003ePracticante Profesional\u003c/strong\u003e para unirse al equipo de\u003cstrong\u003e Mantenimiento Mecánico \u003c/strong\u003een la Unidad Operativa de \u003cstrong\u003eTiclio.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDar soporte en la ejecución de los Programas en las áreas de Mantenimiento mecánico bajo la dirección de los jefes de mantenimiento mecánico de las áreas asignadas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en el cumplimiento de la implementación de los procedimientos escritos de trabajo seguros basados en las hojas de ruta de los manuales de mantenimiento de los equipos para CIA y EE\u003c/li\u003e \u003cli\u003eAsegurar la implementación de las hojas de rutas de mantenimiento de los equipos nuevos en CIA y EE\u003c/li\u003e \u003cli\u003eCumplir el estándar en seguridad en la operación y cumplir con las normativas legales en la unidad, política SSOMAC y Trabajo Seguro.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConocimiento en normas legales relacionados a SSO\u003c/li\u003e \u003cli\u003eGestión de Riesgos (Risk Management)\u003c/li\u003e \u003cli\u003eMS Office\u003c/li\u003e \u003cli\u003eInglés Técnico y de Negocios\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

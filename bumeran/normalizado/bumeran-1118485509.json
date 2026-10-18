@@ -1,0 +1,99 @@
+{
+    "id":  "bumeran-1118485509",
+    "clave":  "id:1118485509",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-de-ciberseguridad-de-operaciones--telecomunicaciones-khana-consultores-1118485509.html",
+                   "capturadoEn":  "2026-10-18T14:01:42+00:00"
+               },
+    "titulo":  "Especialista de Ciberseguridad de Operaciones – Telecomunicaciones",
+    "empresa":  "Khana Consultores",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Especialista de Ciberseguridad de Operaciones – Telecomunicaciones Nos encontramos en la búsqueda de un(a) Especialista de Ciberseguridad de Operaciones para nuestro cliente CLARO . Misión del puesto: Administrar, operar y brindar soporte técnico especializado sobre las plataformas de seguridad de clientes VIP y del sector Gobierno, asegurando la disponibilidad, correcta configuración y continuidad de los servicios, así como la atención oportuna de incidentes y requerimientos técnicos y el cumplimiento de los niveles de servicio y requisitos de confidencialidad establecidos. Principales funciones: Administrar y operar plataformas de seguridad para clientes VIP y Gobierno, incluyendo firewalls de nueva generación (NGFW), soluciones Anti-DDoS, WAF, VPN, proxy y NAC. Atender y resolver incidentes y requerimientos técnicos de niveles 2 y 3, así como ejecutar cambios de configuración en políticas de seguridad, NAT, VPN, perfiles de seguridad, reglas WAF y políticas Anti-DDoS. Monitorear la disponibilidad, capacidad y rendimiento de las plataformas de seguridad, realizando actividades de hardening, actualización, parcheo y optimización de configuraciones. Analizar y atender incidentes críticos de ciberseguridad, incluyendo ataques DDoS y ataques contra aplicaciones web, coordinando las acciones de contención y mitigación correspondientes. Coordinar escalamientos técnicos con fabricantes y partners para resolver incidentes y requerimientos de alta complejidad. Elaborar informes técnicos, diagramas de infraestructura, documentación de configuraciones y bases de conocimiento de las plataformas administradas. Mantener comunicación directa con clientes VIP y Gobierno, gestionando requerimientos exigentes, comunicando avances y atendiendo situaciones críticas con criterio técnico y orientación al cliente. Cumplir con las normas, procedimientos e instructivos de Seguridad y Salud en el Trabajo (SST). Requisitos: Profesional titulado (indispensable) y colegiado en Ingeniería de Sistemas, Ingeniería de Telecomunicaciones, Ingeniería de Ciberseguridad o carreras afines. Experiencia mínima de 3 años en ciberseguridad o tecnologías de la información, con experiencia en gestión de servicios, gestión de cuentas o atención a clientes corporativos. Experiencia en MSSP (proveedores de servicios de seguridad gestionados), operadores de telecomunicaciones o empresas integradoras, de preferencia. Experiencia en atención de solicitudes de cambio, requerimientos técnicos e incidentes de seguridad, preferentemente en entornos SOC o servicios gestionados. Inglés avanzado , con capacidad para comunicarse fluidamente con clientes, fabricantes y proveedores internacionales. Manejo de Microsoft Office a nivel intermedio. Conocimientos indispensables: Conocimientos en administración de firewalls de nueva generación (NGFW), como Fortinet, Palo Alto, Check Point o Cisco. Conocimientos de soluciones Anti-DDoS, como NETSCOUT/Arbor, Radware o servicios de mitigación en la nube, y de WAF, como F5 ASM/AWAF, Imperva, Cloudflare o Akamai. Conocimientos de redes: TCP/IP, enrutamiento BGP y OSPF, VPN IPsec/SSL, NAT, VLAN y alta disponibilidad. Manejo de herramientas de análisis de tráfico y troubleshooting, como Wireshark y tcpdump. Conocimientos de gestión de servicios bajo ITIL y herramientas ITSM, como ServiceNow. Contar con al menos una certificación técnica de nivel profesional en ciberseguridad, como Fortinet NSE 4/FCP, Palo Alto PCNSE, Check Point CCSA/CCSE o Cisco CCNP Security. Conocimientos deseables: Tecnologías proxy/SWG, NAC, SASE/SSE y ZTNA. Balanceadores de carga y DNS seguro. Automatización básica mediante Python, Ansible y APIs REST. Certificaciones deseables: F5 BIG-IP ASM/AWAF, Certificaciones de Radware o NETSCOUT, CCNA, ITIL 4 Foundation, CompTIA Security+. Competencias: Orientación al cliente y comunicación efectiva. Capacidad de análisis y resolución de problemas técnicos. Manejo de situaciones críticas y atención de incidentes de alta complejidad. Proactividad, organización y orientación a resultados. Criterio técnico para gestionar escalaciones y coordinar con diferentes equipos.",
+    "requisitos":  [
+                       "Profesional titulado (indispensable) y colegiado en Ingeniería de Sistemas, Ingeniería de Telecomunicaciones, Ingeniería de Ciberseguridad o carreras afines",
+                       "Experiencia mínima de 3 años en ciberseguridad o tecnologías de la información, con experiencia en gestión de servicios, gestión de cuentas o atención a clientes corporativos",
+                       "Experiencia en MSSP (proveedores de servicios de seguridad gestionados), operadores de telecomunicaciones o empresas integradoras, de preferencia",
+                       "Experiencia en atención de solicitudes de cambio, requerimientos técnicos e incidentes de seguridad, preferentemente en entornos SOC o servicios gestionados",
+                       "Inglés avanzado, con capacidad para comunicarse fluidamente con clientes, fabricantes y proveedores internacionales",
+                       "Manejo de Microsoft Office a nivel intermedio",
+                       "Conocimientos indispensables",
+                       "Conocimientos en administración de firewalls de nueva generación (NGFW), como Fortinet, Palo Alto, Check Point o Cisco",
+                       "Conocimientos de soluciones Anti-DDoS, como NETSCOUT/Arbor, Radware o servicios de mitigación en la nube, y de WAF, como F5 ASM/AWAF, Imperva, Cloudflare o Akamai",
+                       "Conocimientos de redes: TCP/IP, enrutamiento BGP y OSPF, VPN IPsec/SSL, NAT, VLAN y alta disponibilidad",
+                       "Manejo de herramientas de análisis de tráfico y troubleshooting, como Wireshark y tcpdump",
+                       "Conocimientos de gestión de servicios bajo ITIL y herramientas ITSM, como ServiceNow",
+                       "Contar con al menos una certificación técnica de nivel profesional en ciberseguridad, como Fortinet NSE 4/FCP, Palo Alto PCNSE, Check Point CCSA/CCSE o Cisco CCNP Security",
+                       "Conocimientos deseables",
+                       "Tecnologías proxy/SWG, NAC, SASE/SSE y ZTNA",
+                       "Balanceadores de carga y DNS seguro",
+                       "Automatización básica mediante Python, Ansible y APIs REST",
+                       "Certificaciones deseables: F5 BIG-IP ASM/AWAF, Certificaciones de Radware o NETSCOUT, CCNA, ITIL 4 Foundation, CompTIA Security+",
+                       "Competencias",
+                       "Orientación al cliente y comunicación efectiva",
+                       "Capacidad de análisis y resolución de problemas técnicos",
+                       "Manejo de situaciones críticas y atención de incidentes de alta complejidad",
+                       "Proactividad, organización y orientación a resultados",
+                       "Criterio técnico para gestionar escalaciones y coordinar con diferentes equipos"
+                   ],
+    "funciones":  [
+                      "Administrar y operar plataformas de seguridad para clientes VIP y Gobierno, incluyendo firewalls de nueva generación (NGFW), soluciones Anti-DDoS, WAF, VPN, proxy y NAC",
+                      "Atender y resolver incidentes y requerimientos técnicos de niveles 2 y 3, así como ejecutar cambios de configuración en políticas de seguridad, NAT, VPN, perfiles de seguridad, reglas WAF y políticas Anti-DDoS",
+                      "Monitorear la disponibilidad, capacidad y rendimiento de las plataformas de seguridad, realizando actividades de hardening, actualización, parcheo y optimización de configuraciones",
+                      "Analizar y atender incidentes críticos de ciberseguridad, incluyendo ataques DDoS y ataques contra aplicaciones web, coordinando las acciones de contención y mitigación correspondientes",
+                      "Coordinar escalamientos técnicos con fabricantes y partners para resolver incidentes y requerimientos de alta complejidad",
+                      "Elaborar informes técnicos, diagramas de infraestructura, documentación de configuraciones y bases de conocimiento de las plataformas administradas",
+                      "Mantener comunicación directa con clientes VIP y Gobierno, gestionando requerimientos exigentes, comunicando avances y atendiendo situaciones críticas con criterio técnico y orientación al cliente",
+                      "Cumplir con las normas, procedimientos e instructivos de Seguridad y Salud en el Trabajo (SST)"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-de-ciberseguridad-de-operaciones--telecomunicaciones-khana-consultores-1118485509.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-de-ciberseguridad-de-operaciones--telecomunicaciones-khana-consultores-1118485509.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEspecialista de Ciberseguridad de Operaciones – Telecomunicaciones\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) \u003cstrong\u003eEspecialista de Ciberseguridad de Operaciones\u003c/strong\u003e para nuestro cliente \u003cstrong\u003eCLARO\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAdministrar, operar y brindar soporte técnico especializado sobre las plataformas de seguridad de clientes VIP y del sector Gobierno, asegurando la disponibilidad, correcta configuración y continuidad de los servicios, así como la atención oportuna de incidentes y requerimientos técnicos y el cumplimiento de los niveles de servicio y requisitos de confidencialidad establecidos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAdministrar y operar plataformas de seguridad para clientes VIP y Gobierno, incluyendo firewalls de nueva generación (NGFW), soluciones Anti-DDoS, WAF, VPN, proxy y NAC.\u003c/li\u003e \u003cli\u003eAtender y resolver incidentes y requerimientos técnicos de niveles 2 y 3, así como ejecutar cambios de configuración en políticas de seguridad, NAT, VPN, perfiles de seguridad, reglas WAF y políticas Anti-DDoS.\u003c/li\u003e \u003cli\u003eMonitorear la disponibilidad, capacidad y rendimiento de las plataformas de seguridad, realizando actividades de hardening, actualización, parcheo y optimización de configuraciones.\u003c/li\u003e \u003cli\u003eAnalizar y atender incidentes críticos de ciberseguridad, incluyendo ataques DDoS y ataques contra aplicaciones web, coordinando las acciones de contención y mitigación correspondientes.\u003c/li\u003e \u003cli\u003eCoordinar escalamientos técnicos con fabricantes y partners para resolver incidentes y requerimientos de alta complejidad.\u003c/li\u003e \u003cli\u003eElaborar informes técnicos, diagramas de infraestructura, documentación de configuraciones y bases de conocimiento de las plataformas administradas.\u003c/li\u003e \u003cli\u003eMantener comunicación directa con clientes VIP y Gobierno, gestionando requerimientos exigentes, comunicando avances y atendiendo situaciones críticas con criterio técnico y orientación al cliente.\u003c/li\u003e \u003cli\u003eCumplir con las normas, procedimientos e instructivos de Seguridad y Salud en el Trabajo (SST).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eProfesional titulado (indispensable) y colegiado en Ingeniería de Sistemas, Ingeniería de Telecomunicaciones, Ingeniería de Ciberseguridad o carreras afines.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia mínima de 3 años \u003c/strong\u003een ciberseguridad o tecnologías de la información, con experiencia en gestión de servicios, gestión de cuentas o atención a clientes corporativos.\u003c/li\u003e \u003cli\u003eExperiencia en MSSP (proveedores de servicios de seguridad gestionados), operadores de telecomunicaciones o empresas integradoras, de preferencia.\u003c/li\u003e \u003cli\u003eExperiencia en atención de solicitudes de cambio, requerimientos técnicos e incidentes de seguridad, preferentemente en entornos SOC o servicios gestionados.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eInglés avanzado\u003c/strong\u003e, con capacidad para comunicarse fluidamente con clientes, fabricantes y proveedores internacionales.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Office a nivel intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos indispensables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConocimientos en administración de firewalls de nueva generación (NGFW), como Fortinet, Palo Alto, Check Point o Cisco.\u003c/li\u003e \u003cli\u003eConocimientos de soluciones Anti-DDoS, como NETSCOUT/Arbor, Radware o servicios de mitigación en la nube, y de WAF, como F5 ASM/AWAF, Imperva, Cloudflare o Akamai.\u003c/li\u003e \u003cli\u003eConocimientos de redes: TCP/IP, enrutamiento BGP y OSPF, VPN IPsec/SSL, NAT, VLAN y alta disponibilidad.\u003c/li\u003e \u003cli\u003eManejo de herramientas de análisis de tráfico y troubleshooting, como Wireshark y tcpdump.\u003c/li\u003e \u003cli\u003eConocimientos de gestión de servicios bajo ITIL y herramientas ITSM, como ServiceNow.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eContar con al menos una certificación técnica de nivel profesional en ciberseguridad, como Fortinet NSE 4/FCP, Palo Alto PCNSE, Check Point CCSA/CCSE o Cisco CCNP Security.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos deseables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTecnologías proxy/SWG, NAC, SASE/SSE y ZTNA.\u003c/li\u003e \u003cli\u003eBalanceadores de carga y DNS seguro.\u003c/li\u003e \u003cli\u003eAutomatización básica mediante Python, Ansible y APIs REST.\u003c/li\u003e \u003cli\u003eCertificaciones deseables: F5 BIG-IP ASM/AWAF, Certificaciones de Radware o NETSCOUT, CCNA, ITIL 4 Foundation, CompTIA Security+.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOrientación al cliente y comunicación efectiva.\u003c/li\u003e \u003cli\u003eCapacidad de análisis y resolución de problemas técnicos.\u003c/li\u003e \u003cli\u003eManejo de situaciones críticas y atención de incidentes de alta complejidad.\u003c/li\u003e \u003cli\u003eProactividad, organización y orientación a resultados.\u003c/li\u003e \u003cli\u003eCriterio técnico para gestionar escalaciones y coordinar con diferentes equipos.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
