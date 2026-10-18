@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118485058",
+    "clave":  "id:1118485058",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenador-grafico-para-imprenta-rd-formatos-1118485058.html",
+                   "capturadoEn":  "2026-10-18T00:03:33+00:00"
+               },
+    "titulo":  "Diseñador Gráfico para Imprenta",
+    "empresa":  "R\u0026D FORMATOS",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Diseñador Gráfico para Imprenta Resumen del Puesto Estamos en la búsqueda de un Diseñador Gráfico con experiencia en el sector de imprenta para unirse a nuestro equipo. El candidato ideal poseerá un dominio avanzado de herramientas de diseño y una sólida comprensión de los procesos de impresión. Responsabilidades Crear y adaptar diseños gráficos para diversos materiales de impresión. Asegurar la correcta preparación de archivos para la producción gráfica. Colaborar con el equipo de producción para garantizar la calidad final de los trabajos. Gestionar múltiples proyectos de diseño simultáneamente, cumpliendo con los plazos establecidos. Mantenerse actualizado sobre las tendencias en diseño gráfico y tecnologías de impresión. Requisitos Dominio avanzado de Photoshop , Adobe Illustrator y Corel Draw . Experiencia mínima de 1 año en el área de diseño gráfico para imprentas. Conocimiento y manejo de programas de diseño (se valorará certificación). Capacidad para trabajar de forma autónoma y en equipo. Atención al detalle y habilidades de organización.",
+    "requisitos":  [
+                       "Dominio avanzado de Photoshop, Adobe Illustrator y Corel Draw",
+                       "Experiencia mínima de 1 año en el área de diseño gráfico para imprentas",
+                       "Conocimiento y manejo de programas de diseño (se valorará certificación)",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Atención al detalle y habilidades de organización"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/disenador-grafico-para-imprenta-rd-formatos-1118485058.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenador-grafico-para-imprenta-rd-formatos-1118485058.html",
+    "descripcion_html":  "\u003cb\u003eDiseñador Gráfico para Imprenta\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eDiseñador Gráfico\u003c/b\u003e con experiencia en el sector de imprenta para unirse a nuestro equipo. El candidato ideal poseerá un dominio avanzado de herramientas de diseño y una sólida comprensión de los procesos de impresión.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eCrear y adaptar diseños gráficos para diversos materiales de impresión.\u003c/li\u003e \u003cli\u003eAsegurar la correcta preparación de archivos para la producción gráfica.\u003c/li\u003e \u003cli\u003eColaborar con el equipo de producción para garantizar la calidad final de los trabajos.\u003c/li\u003e \u003cli\u003eGestionar múltiples proyectos de diseño simultáneamente, cumpliendo con los plazos establecidos.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las tendencias en diseño gráfico y tecnologías de impresión.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDominio avanzado de \u003cb\u003ePhotoshop\u003c/b\u003e, \u003cb\u003eAdobe Illustrator\u003c/b\u003e y \u003cb\u003eCorel Draw\u003c/b\u003e.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en el área de diseño gráfico para imprentas.\u003c/li\u003e \u003cli\u003eConocimiento y manejo de programas de diseño (se valorará certificación).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eAtención al detalle y habilidades de organización.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

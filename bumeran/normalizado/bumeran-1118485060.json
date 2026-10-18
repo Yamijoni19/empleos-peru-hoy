@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485060",
+    "clave":  "id:1118485060",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-productos-financieros-coalition-sales-management-partners-1118485060.html",
+                   "capturadoEn":  "2026-10-18T00:03:25+00:00"
+               },
+    "titulo":  "Ejecutivo de Ventas - Productos Financieros",
+    "empresa":  "COALITION SALES MANAGEMENT PARTNERS",
+    "ubicacion":  "Ancash - Huaraz",
+    "ciudad":  "Huaraz",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  5000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 5,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ejecutivo de Ventas - Productos Financieros Resumen del Puesto Buscamos un Ejecutivo de Ventas con experiencia en la promoción y venta de productos financieros. El candidato ideal tendrá una sólida trayectoria en ventas, excelentes habilidades de comunicación y una fuerte orientación a resultados. Responsabilidades Gestionar bases de datos de clientes a través de llamadas telefónicas. Realizar visitas para captar nuevos clientes e informar sobre los beneficios de los productos financieros ofrecidos. Cumplir con las funciones asignadas por el supervisor. Requisitos Mínimo 6 meses de experiencia en ventas (productos tangibles o intangibles), ya sea presencial, en campo o call center. Empatía, proactividad y excelentes habilidades de comunicación. Capacidad para trabajar de forma autónoma y orientada a objetivos. Ofrecemos Modalidad de comisiones sin tope de operaciones. Pagos puntuales. Capacitación constante. Oportunidades de desarrollo profesional.",
+    "requisitos":  [
+                       "Mínimo 6 meses de experiencia en ventas (productos tangibles o intangibles), ya sea presencial, en campo o call center",
+                       "Empatía, proactividad y excelentes habilidades de comunicación",
+                       "Capacidad para trabajar de forma autónoma y orientada a objetivos"
+                   ],
+    "funciones":  [
+                      "asignadas por el supervisor"
+                  ],
+    "beneficios":  [
+                       "de los productos financieros ofrecidos",
+                       "Cumplir con las"
+                   ],
+    "fecha_publicacion":  "2026-10-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-productos-financieros-coalition-sales-management-partners-1118485060.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-productos-financieros-coalition-sales-management-partners-1118485060.html",
+    "descripcion_html":  "\u003cb\u003eEjecutivo de Ventas - Productos Financieros\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eEjecutivo de Ventas\u003c/b\u003e con experiencia en la promoción y venta de productos financieros. El candidato ideal tendrá una sólida trayectoria en ventas, excelentes habilidades de comunicación y una fuerte orientación a resultados.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar bases de datos de clientes a través de llamadas telefónicas.\u003c/li\u003e \u003cli\u003eRealizar visitas para captar nuevos clientes e informar sobre los beneficios de los productos financieros ofrecidos.\u003c/li\u003e \u003cli\u003eCumplir con las funciones asignadas por el supervisor.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eMínimo 6 meses de experiencia en ventas (productos tangibles o intangibles), ya sea presencial, en campo o call center.\u003c/li\u003e \u003cli\u003eEmpatía, proactividad y excelentes habilidades de comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y orientada a objetivos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eModalidad de comisiones sin tope de operaciones.\u003c/li\u003e \u003cli\u003ePagos puntuales.\u003c/li\u003e \u003cli\u003eCapacitación constante.\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo profesional.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
