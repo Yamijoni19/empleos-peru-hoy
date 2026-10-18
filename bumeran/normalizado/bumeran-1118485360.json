@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485360",
+    "clave":  "id:1118485360",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-audiovisual-y-transmisiones-en-vivo-majestic-corporation-1118485360.html",
+                   "capturadoEn":  "2026-10-18T23:12:19+00:00"
+               },
+    "titulo":  "Creadora de Contenido Audiovisual y Transmisiones en Vivo",
+    "empresa":  "Majestic Corporation",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Creadora de Contenido Audiovisual y Transmisiones en Vivo Resumen del Puesto Buscamos una persona creativa, dinámica, desenvuelta y con facilidad de palabra para integrarse a nuestro equipo como Creadora de Contenido Audiovisual y para Transmisiones en Vivo . El rol es fundamental para el desarrollo y ejecución de estrategias de contenido digital. Responsabilidades Crear, grabar y editar videos comerciales para diversas plataformas digitales. Realizar transmisiones en vivo para la promoción de productos y servicios. Desarrollar contenido atractivo, alineado con las tendencias actuales y enfocado en objetivos de venta. Elaborar guiones y proponer ideas creativas para las campañas en redes sociales. Requisitos Experiencia comprobable en edición de videos utilizando herramientas como CapCut o similares. Excelente desenvolvimiento frente a cámaras y destacada facilidad de comunicación. Experiencia en la realización de transmisiones en vivo (deseable). Demostrar creatividad, iniciativa y una fuerte orientación a resultados.",
+    "requisitos":  [
+                       "Experiencia comprobable en edición de videos utilizando herramientas como CapCut o similares",
+                       "Excelente desenvolvimiento frente a cámaras y destacada facilidad de comunicación",
+                       "Experiencia en la realización de transmisiones en vivo (deseable)",
+                       "Demostrar creatividad, iniciativa y una fuerte orientación a resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-audiovisual-y-transmisiones-en-vivo-majestic-corporation-1118485360.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-audiovisual-y-transmisiones-en-vivo-majestic-corporation-1118485360.html",
+    "descripcion_html":  "\u003cb\u003eCreadora de Contenido Audiovisual y Transmisiones en Vivo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona creativa, dinámica, desenvuelta y con facilidad de palabra para integrarse a nuestro equipo como \u003cb\u003eCreadora de Contenido Audiovisual y para Transmisiones en Vivo\u003c/b\u003e. El rol es fundamental para el desarrollo y ejecución de estrategias de contenido digital.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eCrear, grabar y editar videos comerciales para diversas plataformas digitales.\u003c/li\u003e \u003cli\u003eRealizar transmisiones en vivo para la promoción de productos y servicios.\u003c/li\u003e \u003cli\u003eDesarrollar contenido atractivo, alineado con las tendencias actuales y enfocado en objetivos de venta.\u003c/li\u003e \u003cli\u003eElaborar guiones y proponer ideas creativas para las campañas en redes sociales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en edición de videos utilizando herramientas como CapCut o similares.\u003c/li\u003e \u003cli\u003eExcelente desenvolvimiento frente a cámaras y destacada facilidad de comunicación.\u003c/li\u003e \u003cli\u003eExperiencia en la realización de transmisiones en vivo (deseable).\u003c/li\u003e \u003cli\u003eDemostrar creatividad, iniciativa y una fuerte orientación a resultados.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118485367",
+    "clave":  "id:1118485367",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenador-grafico-icj-1118485367.html",
+                   "capturadoEn":  "2026-10-18T23:11:58+00:00"
+               },
+    "titulo":  "Diseñador Gráfico",
+    "empresa":  "ICJ",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Diseñador Gráfico Resumen del Puesto Buscamos un Diseñador Gráfico para unirse a nuestro equipo. El candidato ideal tendrá conocimientos básicos en herramientas de diseño y estará enfocado en el área de gigantografía. Se valorará la formación académica en diseño gráfico, ya sea estudiante en curso o egresado. Responsabilidades Realizar diversos diseños según las solicitudes de los clientes. Apoyar en las actividades relacionadas al negocio. Colaborar con el equipo para asegurar la calidad y coherencia de los diseños. Requisitos Estudiante en curso o egresado de la carrera de Diseño Gráfico. Conocimiento básico en el manejo de herramientas como Photoshop, Corel Draw e Illustrator. Capacidad para interpretar y ejecutar las necesidades de los clientes. Habilidades de comunicación y trabajo en equipo. Disponibilidad para modalidad de trabajo presencial a tiempo completo.",
+    "requisitos":  [
+                       "Estudiante en curso o egresado de la carrera de Diseño Gráfico",
+                       "Conocimiento básico en el manejo de herramientas como Photoshop, Corel Draw e Illustrator",
+                       "Capacidad para interpretar y ejecutar las necesidades de los clientes",
+                       "Habilidades de comunicación y trabajo en equipo",
+                       "Disponibilidad para modalidad de trabajo presencial a tiempo completo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/disenador-grafico-icj-1118485367.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenador-grafico-icj-1118485367.html",
+    "descripcion_html":  "\u003cb\u003eDiseñador Gráfico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDiseñador Gráfico\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal tendrá conocimientos básicos en herramientas de diseño y estará enfocado en el área de gigantografía. Se valorará la formación académica en diseño gráfico, ya sea estudiante en curso o egresado.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar diversos diseños según las solicitudes de los clientes.\u003c/li\u003e \u003cli\u003eApoyar en las actividades relacionadas al negocio.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar la calidad y coherencia de los diseños.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante en curso o egresado de la carrera de Diseño Gráfico.\u003c/li\u003e \u003cli\u003eConocimiento básico en el manejo de herramientas como Photoshop, Corel Draw e Illustrator.\u003c/li\u003e \u003cli\u003eCapacidad para interpretar y ejecutar las necesidades de los clientes.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para modalidad de trabajo presencial a tiempo completo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
