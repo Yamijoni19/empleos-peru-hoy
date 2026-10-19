@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485636",
+    "clave":  "id:1118485636",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mesero-mozo-lazzaro-bakery-coffee-1118485636.html",
+                   "capturadoEn":  "2026-10-19T19:57:06+00:00"
+               },
+    "titulo":  "Mesero / Mozo",
+    "empresa":  "LAZZARO Bakery \u0026 Coffee",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1250,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,250",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Mesero / Mozo Resumen del Puesto Buscamos un Mesero / Mozo con pasión por el servicio al cliente, dinámico y con ganas de integrarse a un excelente ambiente laboral. La misión principal es brindar una atención excepcional y de calidad a nuestros clientes, asegurando una experiencia impecable. Responsabilidades Principales Recibir y dar la bienvenida a los clientes de manera cordial. Tomar pedidos con precisión. Ofrecer recomendaciones sobre la carta, promociones y sugerencias del día. Servir alimentos y bebidas cumpliendo con los estándares de higiene y servicio. Mantener la limpieza y organización de mesas, estaciones de trabajo y el salón. Procesar pagos (efectivo y tarjeta / POS). Atender dudas o requerimientos de los comensales con una actitud positiva. Requisitos Experiencia mínima de 6 meses en el área o en puestos similares. Educación Secundaria completa. Ofrecemos Beneficios de ley. Un buen ambiente de trabajo. Alimentación cubierta.",
+    "requisitos":  [
+                       "Experiencia mínima de 6 meses en el área o en puestos similares",
+                       "Educación Secundaria completa"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Un buen ambiente de trabajo",
+                       "Alimentación cubierta"
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mesero-mozo-lazzaro-bakery-coffee-1118485636.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mesero-mozo-lazzaro-bakery-coffee-1118485636.html",
+    "descripcion_html":  "\u003cb\u003eMesero / Mozo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eMesero / Mozo\u003c/b\u003e con pasión por el servicio al cliente, dinámico y con ganas de integrarse a un excelente ambiente laboral. La misión principal es brindar una atención excepcional y de calidad a nuestros clientes, asegurando una experiencia impecable.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eRecibir y dar la bienvenida a los clientes de manera cordial.\u003c/li\u003e \u003cli\u003eTomar pedidos con precisión.\u003c/li\u003e \u003cli\u003eOfrecer recomendaciones sobre la carta, promociones y sugerencias del día.\u003c/li\u003e \u003cli\u003eServir alimentos y bebidas cumpliendo con los estándares de higiene y servicio.\u003c/li\u003e \u003cli\u003eMantener la limpieza y organización de mesas, estaciones de trabajo y el salón.\u003c/li\u003e \u003cli\u003eProcesar pagos (efectivo y tarjeta / POS).\u003c/li\u003e \u003cli\u003eAtender dudas o requerimientos de los comensales con una actitud positiva.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 6 meses en el área o en puestos similares.\u003c/li\u003e \u003cli\u003eEducación Secundaria completa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eBeneficios de ley.\u003c/li\u003e \u003cli\u003eUn buen ambiente de trabajo.\u003c/li\u003e \u003cli\u003eAlimentación cubierta.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

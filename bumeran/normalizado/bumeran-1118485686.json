@@ -1,0 +1,88 @@
+{
+    "id":  "bumeran-1118485686",
+    "clave":  "id:1118485686",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-en-riesgo-de-credito-auditoria-financiera-ey-ernst-young-1118485686.html",
+                   "capturadoEn":  "2026-10-19T19:56:47+00:00"
+               },
+    "titulo":  "Analista en Riesgo de Crédito - Auditoría Financiera",
+    "empresa":  "EY (Ernst \u0026 Young)",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Acerca de EY En EY, nos encontramos en búsqueda de profesionales apasionados y visionarios como tú, que estén dispuestos a unirse a nosotros en la construcción de un mundo mejor de negocios. Como parte de una red global de servicios profesionales, te unirías a más de 280,000 profesionales distribuidos en 150 países y 700 oficinas alrededor del mundo. Nuestra práctica local cuenta con más de 2,400 colaboradores en 4 ciudades y atiende a los grupos económicos más grandes del país, lo que nos convierte en los líderes de servicios profesionales del Perú. Nuestro objetivo es desarrollar líderes excepcionales y valorar la diversidad y la inclusión. ¡Únete a EY y juntos construyamos un mejor mundo de negocios! Buscamos un Senior o Encargado para liderar la ejecución de procedimientos de auditoría sobre modelos de riesgo de crédito y provisiones por pérdida esperada (NIIF 9) en entidades del sector financiero, supervisando al staff y siendo punto de contacto técnico con el cliente y los equipos de auditoría. Requisitos: Formación: Bachiller en Economía, Ingeniería Económica, Ingeniería Estadística, Estadística, Matemática, Física, Computación Científica, Actuaría o afines. Experiencia: De 2 a 5 años en riesgos (riesgo de crédito, validación de modelos y/o estimación de parámetros NIIF 9). Modelos: Conocimiento de modelos PD, LGD y EAD, scoring logit, análisis de cosechas y matrices de migración. Deseable experiencia en backtesting, stress testing, escenarios forward-looking y Machine Learning. Programación: SaS a nivel intermedio-avanzado y Python o R. Deseable conocimiento en Spark / AWS y automatización de reportes. Normativa: NIIF 9 y provisiones SBS (Resolución SBS N.° 11356-2008). Deseable conocimiento de Basilea III, activos ponderados por riesgo (APR). Inglés: Nivel intermedio. Deseable nivel avanzado. Herramientas: Excel a nivel avanzado. Deseable Power BI. Responsabilidades: Liderar la planificación y ejecución de procedimientos de auditoría sobre la provisión por pérdida esperada bajo NIIF 9. Evaluar la razonabilidad de metodologías, parámetros y supuestos (PD, LGD, EAD, staging/incremento significativo del riesgo y escenarios forward-looking), incluyendo recálculos independientes y pruebas de backtesting. Evaluar el diseño y la eficacia operativa de los controles relevantes sobre el proceso de provisiones, incluyendo la integridad y exactitud de los datos que alimentan los modelos. Supervisar, revisar y orientar el trabajo del staff, asegurando la calidad de la documentación y el cumplimiento de la metodología de la Firma y de las normas de auditoría aplicables. Diseñar y automatizar pruebas y reportes utilizando SaS, Python/R y las herramientas disponibles en la Firma. Gestionar simultáneamente múltiples encargos y prioridades, cumpliendo plazos y estándares de calidad. Competencias: Juicio y escepticismo profesional. Liderazgo, desarrollo del staff y gestión de múltiples prioridades. Comunicación efectiva con el cliente. Atención al detalle, calidad del trabajo y mejora continua. Orientación a resultados.",
+    "requisitos":  [
+                       "Formación: Bachiller en Economía, Ingeniería Económica, Ingeniería Estadística, Estadística, Matemática, Física, Computación Científica, Actuaría o afines",
+                       "Experiencia: De 2 a 5 años en riesgos (riesgo de crédito, validación de modelos y/o estimación de parámetros NIIF 9)",
+                       "Modelos: Conocimiento de modelos PD, LGD y EAD, scoring logit, análisis de cosechas y matrices de migración. Deseable experiencia en backtesting, stress testing, escenarios forward-looking y Machine Learning",
+                       "Programación: SaS a nivel intermedio-avanzado y Python o R. Deseable conocimiento en Spark / AWS y automatización de reportes",
+                       "Normativa: NIIF 9 y provisiones SBS (Resolución SBS N.° 11356-2008). Deseable conocimiento de Basilea III, activos ponderados por riesgo (APR)",
+                       "Inglés: Nivel intermedio. Deseable nivel avanzado",
+                       "Herramientas: Excel a nivel avanzado. Deseable Power BI",
+                       "Responsabilidades",
+                       "Liderar la planificación y ejecución de procedimientos de auditoría sobre la provisión por pérdida esperada bajo NIIF 9",
+                       "Evaluar la razonabilidad de metodologías, parámetros y supuestos (PD, LGD, EAD, staging/incremento significativo del riesgo y escenarios forward-looking), incluyendo recálculos independientes y pruebas de backtesting",
+                       "Evaluar el diseño y la eficacia operativa de los controles relevantes sobre el proceso de provisiones, incluyendo la integridad y exactitud de los datos que alimentan los modelos",
+                       "Supervisar, revisar y orientar el trabajo del staff, asegurando la calidad de la documentación y el cumplimiento de la metodología de la Firma y de las normas de auditoría aplicables",
+                       "Diseñar y automatizar pruebas y reportes utilizando SaS, Python/R y las herramientas disponibles en la Firma",
+                       "Gestionar simultáneamente múltiples encargos y prioridades, cumpliendo plazos y estándares de calidad",
+                       "Competencias",
+                       "Juicio y escepticismo profesional",
+                       "Liderazgo, desarrollo del staff y gestión de múltiples prioridades",
+                       "Comunicación efectiva con el cliente",
+                       "Atención al detalle, calidad del trabajo y mejora continua",
+                       "Orientación a resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-en-riesgo-de-credito-auditoria-financiera-ey-ernst-young-1118485686.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-en-riesgo-de-credito-auditoria-financiera-ey-ernst-young-1118485686.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAcerca de EY \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn EY, nos encontramos en búsqueda de profesionales apasionados y visionarios como tú, que estén dispuestos a unirse a nosotros en la construcción de un mundo mejor de negocios. Como parte de una red global de servicios profesionales, te unirías a más de 280,000 profesionales distribuidos en 150 países y 700 oficinas alrededor del mundo. Nuestra práctica local cuenta con más de 2,400 colaboradores en 4 ciudades y atiende a los grupos económicos más grandes del país, lo que nos convierte en los líderes de servicios profesionales del Perú. Nuestro objetivo es desarrollar líderes excepcionales y valorar la diversidad y la inclusión. ¡Únete a EY y juntos construyamos un mejor mundo de negocios! Buscamos un Senior o Encargado para liderar la ejecución de procedimientos de auditoría sobre modelos de riesgo de crédito y provisiones por pérdida esperada (NIIF 9) en entidades del sector financiero, supervisando al staff y siendo punto de contacto técnico con el cliente y los equipos de auditoría. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación: Bachiller en Economía, Ingeniería Económica, Ingeniería Estadística, Estadística, Matemática, Física, Computación Científica, Actuaría o afines. \u003c/li\u003e \u003cli\u003eExperiencia: De 2 a 5 años en riesgos (riesgo de crédito, validación de modelos y/o estimación de parámetros NIIF 9). \u003c/li\u003e \u003cli\u003eModelos: Conocimiento de modelos PD, LGD y EAD, scoring logit, análisis de cosechas y matrices de migración. Deseable experiencia en backtesting, stress testing, escenarios forward-looking y Machine Learning. \u003c/li\u003e \u003cli\u003eProgramación: SaS a nivel intermedio-avanzado y Python o R. Deseable conocimiento en Spark / AWS y automatización de reportes. \u003c/li\u003e \u003cli\u003eNormativa: NIIF 9 y provisiones SBS (Resolución SBS N.° 11356-2008). Deseable conocimiento de Basilea III, activos ponderados por riesgo (APR). \u003c/li\u003e \u003cli\u003eInglés: Nivel intermedio. Deseable nivel avanzado. \u003c/li\u003e \u003cli\u003eHerramientas: Excel a nivel avanzado. Deseable Power BI. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar la planificación y ejecución de procedimientos de auditoría sobre la provisión por pérdida esperada bajo NIIF 9. \u003c/li\u003e \u003cli\u003eEvaluar la razonabilidad de metodologías, parámetros y supuestos (PD, LGD, EAD, staging/incremento significativo del riesgo y escenarios forward-looking), incluyendo recálculos independientes y pruebas de backtesting. \u003c/li\u003e \u003cli\u003eEvaluar el diseño y la eficacia operativa de los controles relevantes sobre el proceso de provisiones, incluyendo la integridad y exactitud de los datos que alimentan los modelos. \u003c/li\u003e \u003cli\u003eSupervisar, revisar y orientar el trabajo del staff, asegurando la calidad de la documentación y el cumplimiento de la metodología de la Firma y de las normas de auditoría aplicables. \u003c/li\u003e \u003cli\u003eDiseñar y automatizar pruebas y reportes utilizando SaS, Python/R y las herramientas disponibles en la Firma. \u003c/li\u003e \u003cli\u003eGestionar simultáneamente múltiples encargos y prioridades, cumpliendo plazos y estándares de calidad. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eJuicio y escepticismo profesional. \u003c/li\u003e \u003cli\u003eLiderazgo, desarrollo del staff y gestión de múltiples prioridades. \u003c/li\u003e \u003cli\u003eComunicación efectiva con el cliente. \u003c/li\u003e \u003cli\u003eAtención al detalle, calidad del trabajo y mejora continua. \u003c/li\u003e \u003cli\u003eOrientación a resultados. \u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Bachiller en Economía, Ingeniería Económica, Ingeniería Estadística, Estadística, Matemática, Física, Computación Científica, Actuaría o afines",
+    "herramientas":  "Excel a nivel avanzado",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

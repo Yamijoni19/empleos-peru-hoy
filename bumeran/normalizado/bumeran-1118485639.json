@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118485639",
+    "clave":  "id:1118485639",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/barista-apasionado-por-el-cafe-lazzaro-bakery-coffee-1118485639.html",
+                   "capturadoEn":  "2026-10-19T19:57:05+00:00"
+               },
+    "titulo":  "Barista Apasionado por el Café",
+    "empresa":  "LAZZARO Bakery \u0026 Coffee",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1250,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,250",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Barista Apasionado por el Café Resumen del Puesto Buscamos un Barista dinámico y apasionado por el mundo del café para unirse a nuestro equipo. Si disfrutas creando experiencias excepcionales para los clientes y buscas un excelente ambiente laboral, ¡esta oportunidad es para ti! Responsabilidades Principales Preparar bebidas a base de café y especialidades, asegurando altos estándares de calidad y rapidez. Brindar una experiencia excepcional a cada cliente. Mantener las estaciones de trabajo, utensilios y máquinas de café impecables, desinfectadas y organizadas. Requisitos del Candidato Experiencia mínima de 6 meses en puestos similares (barista, cafeterías, restaurantes o bares). Disponibilidad para trabajar en turnos rotativos. Conocimiento y manejo de máquina expreso comercial, técnicas básicas de extracción y cremado de leche. Capacidad para mantener la higiene y el orden en el área de trabajo. Lo que Ofrecemos Ingreso a planilla y beneficios de ley. Alimentación cubierta. Un ambiente laboral positivo y colaborativo.",
+    "requisitos":  [
+                       "del Candidato",
+                       "Experiencia mínima de 6 meses en puestos similares (barista, cafeterías, restaurantes o bares)",
+                       "Disponibilidad para trabajar en turnos rotativos",
+                       "Conocimiento y manejo de máquina expreso comercial, técnicas básicas de extracción y cremado de leche",
+                       "Capacidad para mantener la higiene y el orden en el área de trabajo",
+                       "Lo que"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Alimentación cubierta",
+                       "Un ambiente laboral positivo y colaborativo"
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/barista-apasionado-por-el-cafe-lazzaro-bakery-coffee-1118485639.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/barista-apasionado-por-el-cafe-lazzaro-bakery-coffee-1118485639.html",
+    "descripcion_html":  "\u003cb\u003eBarista Apasionado por el Café\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eBarista\u003c/b\u003e dinámico y apasionado por el mundo del café para unirse a nuestro equipo. Si disfrutas creando experiencias excepcionales para los clientes y buscas un excelente ambiente laboral, ¡esta oportunidad es para ti!\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003ePreparar bebidas a base de café y especialidades, asegurando altos estándares de calidad y rapidez.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional a cada cliente.\u003c/li\u003e \u003cli\u003eMantener las estaciones de trabajo, utensilios y máquinas de café impecables, desinfectadas y organizadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos del Candidato\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 6 meses en puestos similares (barista, cafeterías, restaurantes o bares).\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos rotativos.\u003c/li\u003e \u003cli\u003eConocimiento y manejo de máquina expreso comercial, técnicas básicas de extracción y cremado de leche.\u003c/li\u003e \u003cli\u003eCapacidad para mantener la higiene y el orden en el área de trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eLo que Ofrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eIngreso a planilla y beneficios de ley.\u003c/li\u003e \u003cli\u003eAlimentación cubierta.\u003c/li\u003e \u003cli\u003eUn ambiente laboral positivo y colaborativo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

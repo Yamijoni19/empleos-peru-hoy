@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118485643",
+    "clave":  "id:1118485643",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-lazzaro-bakery-coffee-1118485643.html",
+                   "capturadoEn":  "2026-10-19T19:57:03+00:00"
+               },
+    "titulo":  "Ayudante de Cocina",
+    "empresa":  "LAZZARO Bakery \u0026 Coffee",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1250,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,250",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina Resumen del Puesto Buscamos un Ayudante de Cocina dinámico y apasionado por la gastronomía para integrarse a nuestro equipo. Si disfrutas del trabajo en un ambiente de ritmo rápido y valoras el trabajo en equipo, esta oportunidad es para ti. Misión del Puesto Brindar apoyo fundamental al equipo de cocina en la preparación de ingredientes, organización de estaciones (mise en place) y elaboración de platillos, garantizando altos estándares de higiene, calidad y eficiencia en el servicio. Responsabilidades Principales Realizar el mise en place y la preparación de insumos conforme a las recetas establecidas. Asistir a los cocineros en la preparación, cocción y presentación de platillos, siguiendo el flujo de comandas. Mantener la limpieza y el orden en las estaciones de trabajo. Colaborar en la recepción, rotación de inventario (sistema PEPS) y almacenamiento adecuado de los insumos. Requisitos Experiencia mínima de 6 meses en roles de ayudante de cocina, producción o puestos similares en establecimientos de alimentos y bebidas. Educación secundaria completa. Se valorarán estudios técnicos o cursos en Gastronomía o Cocina. Disponibilidad para obtener y mantener un carnet de sanidad vigente. Habilidad para trabajar en equipo y seguir instrucciones. Proactividad y atención al detalle.",
+    "requisitos":  [
+                       "Experiencia mínima de 6 meses en roles de ayudante de cocina, producción o puestos similares en establecimientos de alimentos y bebidas",
+                       "Educación secundaria completa. Se valorarán estudios técnicos o cursos en Gastronomía o Cocina",
+                       "Disponibilidad para obtener y mantener un carnet de sanidad vigente",
+                       "Habilidad para trabajar en equipo y seguir instrucciones",
+                       "Proactividad y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-lazzaro-bakery-coffee-1118485643.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-lazzaro-bakery-coffee-1118485643.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAyudante de Cocina\u003c/b\u003e dinámico y apasionado por la gastronomía para integrarse a nuestro equipo. Si disfrutas del trabajo en un ambiente de ritmo rápido y valoras el trabajo en equipo, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eMisión del Puesto\u003c/b\u003e \u003cp\u003eBrindar apoyo fundamental al equipo de cocina en la preparación de ingredientes, organización de estaciones (mise en place) y elaboración de platillos, garantizando altos estándares de higiene, calidad y eficiencia en el servicio.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el mise en place y la preparación de insumos conforme a las recetas establecidas.\u003c/li\u003e \u003cli\u003eAsistir a los cocineros en la preparación, cocción y presentación de platillos, siguiendo el flujo de comandas.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en las estaciones de trabajo.\u003c/li\u003e \u003cli\u003eColaborar en la recepción, rotación de inventario (sistema PEPS) y almacenamiento adecuado de los insumos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 6 meses en roles de ayudante de cocina, producción o puestos similares en establecimientos de alimentos y bebidas.\u003c/li\u003e \u003cli\u003eEducación secundaria completa. Se valorarán estudios técnicos o cursos en Gastronomía o Cocina.\u003c/li\u003e \u003cli\u003eDisponibilidad para obtener y mantener un carnet de sanidad vigente.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
