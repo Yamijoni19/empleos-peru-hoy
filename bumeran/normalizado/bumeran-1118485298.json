@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485298",
+    "clave":  "id:1118485298",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-en-hidrologia-hidraulica-y-drenaje-yanama-ancash-consorcio-huascaran-1118485298.html",
+                   "capturadoEn":  "2026-10-19T06:17:25+00:00"
+               },
+    "titulo":  "INGENIERO EN HIDROLOGÍA, HIDRÁULICA Y DRENAJE - YANAMA/ANCASH - CONSORCIO HUASCARAN",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Ancash - Yungay",
+    "ciudad":  "Yungay",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Proyecto: Construcción de Carretera en la Provincia de Yungay, distrito de Yanama Empresa: Consorcio Huascarán Perfil Académico Titulación: Ingeniero Civil, Ingeniero Agrícola, Ingeniero Hidráulico o Ingeniero en Mecánica de Fluidos (Colegiado y Habilitado). Experiencia Requerida Experiencia mínima de 3 años en supervisión o ejecución de obras viales como Especialista, Encargado, Responsable, Coordinador, Jefe, Asesor, Supervisor, Gerente Técnico, Director, Subgerente o Ingeniero de Campo en las siguientes áreas: Hidráulica e Hidrología / Ingeniería Hidráulica / Hidráulica e Hidrología en proyectos de infraestructura / Obras Hidráulicas (Específicamente aplicadas a drenaje vial). Lugar de trabajo Yanama",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-en-hidrologia-hidraulica-y-drenaje-yanama-ancash-consorcio-huascaran-1118485298.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-en-hidrologia-hidraulica-y-drenaje-yanama-ancash-consorcio-huascaran-1118485298.html",
+    "descripcion_html":  "\u003cp\u003eProyecto: Construcción de Carretera en la Provincia de Yungay, distrito de Yanama\u003c/p\u003e\u003cp\u003eEmpresa: Consorcio Huascarán\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePerfil Académico\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eTitulación: Ingeniero Civil, Ingeniero Agrícola, Ingeniero Hidráulico o Ingeniero en Mecánica de Fluidos (Colegiado y Habilitado).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eExperiencia Requerida\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eExperiencia mínima de 3 años en supervisión o ejecución de obras viales como Especialista, Encargado, Responsable, Coordinador, Jefe, Asesor, Supervisor, Gerente Técnico, Director, Subgerente o Ingeniero de Campo en las siguientes áreas: Hidráulica e Hidrología / Ingeniería Hidráulica / Hidráulica e Hidrología en proyectos de infraestructura / Obras Hidráulicas (Específicamente aplicadas a drenaje vial).\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eYanama\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

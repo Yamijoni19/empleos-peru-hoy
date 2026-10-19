@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118485323",
+    "clave":  "id:1118485323",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/digitador-a-part-time-verify-sac-1118485323.html",
+                   "capturadoEn":  "2026-10-19T06:17:00+00:00"
+               },
+    "titulo":  "Digitador/a Part Time",
+    "empresa":  "VERIFY SAC",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  600,
+                    "max":  650,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 600 - S/ 650",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Digitador/a Part Time Resumen del Puesto Estamos en la búsqueda de un/a Digitador/a con gran atención al detalle y capacidad para trabajar en modalidad Part Time. El candidato ideal será una persona organizada, con habilidad para el manejo de información y la ejecución de tareas administrativas. Responsabilidades Ingresar y procesar datos con rapidez y precisión. Gestionar y organizar documentos. Seguir instrucciones y procedimientos establecidos. Colaborar con el equipo en tareas administrativas generales. Requisitos Experiencia previa en tareas de digitación o administrativas. Alta velocidad y precisión en el tipeo. Habilidad para el manejo de documentos y sistemas de información. Capacidad para seguir instrucciones de manera efectiva. Buena comunicación y disposición para el trabajo en equipo. Disponibilidad para trabajar en modalidad Part Time, en turnos de mañana o tarde.",
+    "requisitos":  [
+                       "Experiencia previa en tareas de digitación o administrativas",
+                       "Alta velocidad y precisión en el tipeo",
+                       "Habilidad para el manejo de documentos y sistemas de información",
+                       "Capacidad para seguir instrucciones de manera efectiva",
+                       "Buena comunicación y disposición para el trabajo en equipo",
+                       "Disponibilidad para trabajar en modalidad Part Time, en turnos de mañana o tarde"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/digitador-a-part-time-verify-sac-1118485323.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/digitador-a-part-time-verify-sac-1118485323.html",
+    "descripcion_html":  "\u003cb\u003eDigitador/a Part Time\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un/a \u003cb\u003eDigitador/a\u003c/b\u003e con gran atención al detalle y capacidad para trabajar en modalidad Part Time. El candidato ideal será una persona organizada, con habilidad para el manejo de información y la ejecución de tareas administrativas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eIngresar y procesar datos con rapidez y precisión.\u003c/li\u003e \u003cli\u003eGestionar y organizar documentos.\u003c/li\u003e \u003cli\u003eSeguir instrucciones y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eColaborar con el equipo en tareas administrativas generales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en tareas de digitación o administrativas.\u003c/li\u003e \u003cli\u003eAlta velocidad y precisión en el tipeo.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de documentos y sistemas de información.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones de manera efectiva.\u003c/li\u003e \u003cli\u003eBuena comunicación y disposición para el trabajo en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en modalidad Part Time, en turnos de mañana o tarde.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

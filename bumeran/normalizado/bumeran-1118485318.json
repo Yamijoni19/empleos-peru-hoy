@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485318",
+    "clave":  "id:1118485318",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivoa-comercial-|-mibanco-|-s-2000-planilla-comisiones-ilimitadas-bonos-1118485318.html",
+                   "capturadoEn":  "2026-10-19T06:17:02+00:00"
+               },
+    "titulo":  "Ejecutivo(a) Comercial | Mibanco | S/2,000 + Planilla + comisiones ilimitadas + Bonos",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  500,
+                    "max":  1000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 500 a S/ 1,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Empresa líder en el sector comercial , se encuentra en expansión y busca Asesores Financieros. \u0026#x1f4bc; ¿QUÉ OFRECEMOS? Planilla desde el primer día Sueldo base S/ 2,000 Bonos semanales S/ 500 a S/ 1,000+ Comisiones ILIMITADAS (S/ 2,000 a S/ 4,000+) Línea de carrera y crecimiento profesional Capacitación constante Modalidad híbrida \u0026#x1f50e; ¿QUÉ BUSCAMOS? Experiencia en ventas tangibles o intangibles. Facilidad de comunicación y negociación Disponibilidad para trabajar de lunes a viernes en horarios de 9:00 AM a 6:30 PM y sabados de 9:00 AM a 1:00 PM \u0026#x1f4e9; Postula ahora y forma parte de nuestro equipo",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivoa-comercial-|-mibanco-|-s-2000-planilla-comisiones-ilimitadas-bonos-1118485318.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivoa-comercial-|-mibanco-|-s-2000-planilla-comisiones-ilimitadas-bonos-1118485318.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEmpresa líder en el sector comercial\u003c/strong\u003e, se encuentra en expansión y busca \u003cstrong\u003eAsesores Financieros.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x1f4bc; ¿QUÉ OFRECEMOS?\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla desde el primer día\u003c/li\u003e \u003cli\u003eSueldo base \u003cstrong\u003eS/ 2,000\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eBonos semanales\u003c/strong\u003e S/ 500 a S/ 1,000+\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eComisiones ILIMITADAS\u003c/strong\u003e (S/ 2,000 a S/ 4,000+)\u003c/li\u003e \u003cli\u003eLínea de carrera y crecimiento profesional\u003c/li\u003e \u003cli\u003eCapacitación constante\u003c/li\u003e \u003cli\u003eModalidad \u003cstrong\u003ehíbrida\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f50e; ¿QUÉ BUSCAMOS?\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas tangibles o intangibles.\u003c/li\u003e \u003cli\u003eFacilidad de comunicación y negociación\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de lunes a viernes en horarios de 9:00 AM a 6:30 PM y sabados de 9:00 AM a 1:00 PM\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e9; \u003cstrong\u003ePostula ahora y forma parte de nuestro equipo\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
