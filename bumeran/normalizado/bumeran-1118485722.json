@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118485722",
+    "clave":  "id:1118485722",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-servicios-generales-de-proyecto-1118485722.html",
+                   "capturadoEn":  "2026-10-19T13:31:35+00:00"
+               },
+    "titulo":  "ASISTENTE DE SERVICIOS GENERALES DE PROYECTO",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Objetivo: Brindar soporte en materia de campamentos, alojamiento, alimentación, lavandería, transporte y vigilancia de acuerdo a los procedimientos establecidos, con la finalidad de cubrir las necesidades de servicios generales en el proyecto. Funciones: Verificar que el servicio de hospedaje del personal, se brinde de acuerdo a las políticas y normas establecidas en el proyecto, para garantizar un servicio de calidad. Verificar que el servicio de alimentación del personal, se brinde de acuerdo a los estándares y normas establecidas en el proyecto, para garantizar un servicio de calidad. Apoyar en las inspecciones de las instalaciones temporales y campamentos del proyecto a fin de asegurar un ambiente comodo de trabajo y con un optimo funcionamiento. Apoyar en elaboración de las valorizaciones de los Servicios Generales del Proyecto a fin de conciliar con los proveedores de manera oportuna y evitar sobrecostos o pérdida de sustentos y recibir la facturación dentro del mes contable. Requisitos: Experiencia mínima de 1 año como Asistente de Servicios Generales Estudios técnicos concluidos en Administración, Contabilidad o afines",
+    "requisitos":  [
+                       "Experiencia mínima de 1 año como Asistente de Servicios Generales",
+                       "Estudios técnicos concluidos en Administración, Contabilidad o afines"
+                   ],
+    "funciones":  [
+                      "Verificar que el servicio de hospedaje del personal, se brinde de acuerdo a las políticas y normas establecidas en el proyecto, para garantizar un servicio de calidad",
+                      "Verificar que el servicio de alimentación del personal, se brinde de acuerdo a los estándares y normas establecidas en el proyecto, para garantizar un servicio de calidad",
+                      "Apoyar en las inspecciones de las instalaciones temporales y campamentos del proyecto a fin de asegurar un ambiente comodo de trabajo y con un optimo funcionamiento",
+                      "Apoyar en elaboración de las valorizaciones de los Servicios Generales del Proyecto a fin de conciliar con los proveedores de manera oportuna y evitar sobrecostos o pérdida de sustentos y recibir la facturación dentro del mes contable"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-servicios-generales-de-proyecto-1118485722.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-servicios-generales-de-proyecto-1118485722.html",
+    "descripcion_html":  "\u003cp\u003eObjetivo: Brindar soporte en materia de campamentos, alojamiento, alimentación, lavandería, transporte y vigilancia de acuerdo a los procedimientos establecidos, con la finalidad de cubrir las necesidades de servicios generales en el proyecto.\u003c/p\u003e\u003cp\u003eFunciones: \u003c/p\u003e\u003cul\u003e \u003cli\u003eVerificar que el servicio de hospedaje del personal, se brinde de acuerdo a las políticas y normas establecidas en el proyecto, para garantizar un servicio de calidad.\u003c/li\u003e \u003cli\u003eVerificar que el servicio de alimentación del personal, se brinde de acuerdo a los estándares y normas establecidas en el proyecto, para garantizar un servicio de calidad.\u003c/li\u003e \u003cli\u003eApoyar en las inspecciones de las instalaciones temporales y campamentos del proyecto a fin de asegurar un ambiente comodo de trabajo y con un optimo funcionamiento.\u003c/li\u003e \u003cli\u003eApoyar en elaboración de las valorizaciones de los Servicios Generales del Proyecto a fin de conciliar con los proveedores de manera oportuna y evitar sobrecostos o pérdida de sustentos y recibir la facturación dentro del mes contable.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 1 año como Asistente de Servicios Generales \u003c/li\u003e \u003cli\u003eEstudios técnicos concluidos en Administración, Contabilidad o afines\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

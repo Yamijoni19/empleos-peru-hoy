@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485714",
+    "clave":  "id:1118485714",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-comercial-1118485714.html",
+                   "capturadoEn":  "2026-10-19T13:31:41+00:00"
+               },
+    "titulo":  "Practicante Profesional - Comercial",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Búsqueda de clientes: Identificar, investigar y contactar a clientes potenciales o empresas objetivo (prospección B2B o B2C). Seguimiento comercial: Dar seguimiento a leads, prospectos y oportunidades mediante llamadas, correos electrónicos o WhatsApp. Actualización del CRM: Registrar, actualizar y segmentar la base de datos de clientes, contactos y estatus de negociación en el sistema. Cotizaciones y propuestas: Asistir en la elaboración de cotizaciones, presentaciones comerciales y propuestas económicas. Coordinación de citas: Agendar reuniones, visitas o demostraciones para los ejecutivos comerciales o jefes de área. Seguimiento postventa: Brindar asistencia al cliente después de la venta para asegurar su satisfacción y fidelización. Análisis de información: Apoyar en el análisis de indicadores de gestión ( KPIs ), reportes de ventas, precios de la competencia o tendencias del mercado. Elaboración de informes: Ayudar a redactar reportes periódicos sobre el avance del pipeline comercial y el cumplimiento de metas",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-comercial-1118485714.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-comercial-1118485714.html",
+    "descripcion_html":  "\u003cul\u003e \u003cli\u003e\u003cstrong\u003e Búsqueda de clientes:\u003c/strong\u003e Identificar, investigar y contactar a clientes potenciales o empresas objetivo (prospección B2B o B2C).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSeguimiento comercial:\u003c/strong\u003e Dar seguimiento a leads, prospectos y oportunidades mediante llamadas, correos electrónicos o WhatsApp.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eActualización del CRM:\u003c/strong\u003e Registrar, actualizar y segmentar la base de datos de clientes, contactos y estatus de negociación en el sistema. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCotizaciones y propuestas:\u003c/strong\u003e Asistir en la elaboración de cotizaciones, presentaciones comerciales y propuestas económicas.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCoordinación de citas:\u003c/strong\u003e Agendar reuniones, visitas o demostraciones para los ejecutivos comerciales o jefes de área.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSeguimiento postventa:\u003c/strong\u003e Brindar asistencia al cliente después de la venta para asegurar su satisfacción y fidelización. \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAnálisis de información:\u003c/strong\u003e Apoyar en el análisis de indicadores de gestión (\u003cstrong\u003eKPIs\u003c/strong\u003e), reportes de ventas, precios de la competencia o tendencias del mercado.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eElaboración de informes:\u003c/strong\u003e Ayudar a redactar reportes periódicos sobre el avance del \u003cem\u003epipeline\u003c/em\u003e comercial y el cumplimiento de metas\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Apoyar en el análisis de indicadores de gestión (KPIs), reportes de ventas, precios de la competencia o tendencias del mercado",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

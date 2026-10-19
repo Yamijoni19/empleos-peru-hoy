@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485726",
+    "clave":  "id:1118485726",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenero-1118485726.html",
+                   "capturadoEn":  "2026-10-19T13:31:34+00:00"
+               },
+    "titulo":  "ALMACENERO",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Objetivo: Planificar, dirigir y controlar las actividades de almacenamiento, custodia, reposición y distribución de los materiales y equipos del proyecto, en base a los procedimientos y buenas prácticas establecidos por la compañía con la finalidad de optimizar el espacio del almacén y las tareas que se llevan a cabo en el proyecto. Funciones: Supervisar, custodiar y verificar las cantidades, condiciones, codificación y ubicación de los materiales, herramientas, repuestos y equipos en el almacén, para mantener la disponibilidad de estos según sea requerido y controlar los costos relaconados alineados a la optimizacion de recursos en los proyectos. Supervisar la recepción de los activos fijos y equipos de terceros que llegan al proyecto, asegurando que se cuente con la documentación para su verificación, como nota de transferencia de activos, orden de servicio, guía de remisión, check list, etc. Verificar y asegurar que se realicen las descargas de los vales de salida de atenciones de forma oportuna y dentro de los plazos establecidos en el sistema ERP de almacenes. Controlar el consumo de combustible, en función de la estadística relacionada del Proyecto y gestionar las solicitudes de compra y atención con el fin asegurar la cantidad óptima del producto para el abastecimiento a los equipos. Requisitos: Experiencia mínima de 3 años como Almacenero o Asistente de Almacén en el sector de construcción Estudios Técnicos Concluidos o Egresado Universitario en Administración, Contabilidad o Ingeniería Industrial",
+    "requisitos":  [
+                       "Experiencia mínima de 3 años como Almacenero o Asistente de Almacén en el sector de construcción",
+                       "Estudios Técnicos Concluidos o Egresado Universitario en Administración, Contabilidad o Ingeniería Industrial"
+                   ],
+    "funciones":  [
+                      "Supervisar, custodiar y verificar las cantidades,"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/almacenero-1118485726.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenero-1118485726.html",
+    "descripcion_html":  "\u003cp\u003eObjetivo: Planificar, dirigir y controlar las actividades de almacenamiento, custodia, reposición y distribución de los materiales y equipos del proyecto, en base a los procedimientos y buenas prácticas establecidos por la compañía con la finalidad de optimizar el espacio del almacén y las tareas que se llevan a cabo en el proyecto. \u003c/p\u003e\u003cp\u003eFunciones: \u003c/p\u003e\u003cul\u003e \u003cli\u003eSupervisar, custodiar y verificar las cantidades, condiciones, codificación y ubicación de los materiales, herramientas, repuestos y equipos en el almacén, para mantener la disponibilidad de estos según sea requerido y controlar los costos relaconados alineados a la optimizacion de recursos en los proyectos.\u003c/li\u003e \u003cli\u003eSupervisar la recepción de los activos fijos y equipos de terceros que llegan al proyecto, asegurando que se cuente con la documentación para su verificación, como nota de transferencia de activos, orden de servicio, guía de remisión, check list, etc.\u003c/li\u003e \u003cli\u003eVerificar y asegurar que se realicen las descargas de los vales de salida de atenciones de forma oportuna y dentro de los plazos establecidos en el sistema ERP de almacenes.\u003c/li\u003e \u003cli\u003eControlar el consumo de combustible, en función de la estadística relacionada del Proyecto y gestionar las solicitudes de compra y atención con el fin asegurar la cantidad óptima del producto para el abastecimiento a los equipos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 3 años como Almacenero o Asistente de Almacén en el sector de construcción\u003c/li\u003e \u003cli\u003eEstudios Técnicos Concluidos o Egresado Universitario en Administración, Contabilidad o Ingeniería Industrial\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
