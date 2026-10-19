@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118485325",
+    "clave":  "id:1118485325",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/counter-de-turismo-majestic-corporation-1118485325.html",
+                   "capturadoEn":  "2026-10-19T01:16:57+00:00"
+               },
+    "titulo":  "Counter de Turismo",
+    "empresa":  "Majestic Corporation",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Counter de Turismo Resumen del Puesto Buscamos un profesional con estudios concluidos en Administración Turística y experiencia comprobable en el armado y cotización de paquetes turísticos, elaboración de itinerarios, full days y programas nacionales. El candidato ideal será una persona desenvuelta, proactiva, comunicativa, con facilidad de palabra, habilidades comerciales y desenvolvimiento frente a cámaras. Responsabilidades Diseñar, organizar y cotizar paquetes turísticos. Elaborar itinerarios y propuestas comerciales. Atender consultas presenciales y virtuales. Asesorar a clientes. Realizar transmisiones en vivo (Lives) para promocionar destinos y servicios turísticos. Gestionar reservas y coordinar con proveedores. Realizar seguimiento comercial y concretar ventas. Requisitos Estudios concluidos en Administración Turística o campo relacionado. Experiencia comprobable en armado y cotización de paquetes turísticos. Habilidad para elaborar itinerarios, full days y programas nacionales. Persona desenvuelta, proactiva y comunicativa. Facilidad de palabra y habilidades comerciales. Desarrollo frente a cámaras. Se valorará el manejo de redes sociales, excelente atención al cliente y orientación a resultados.",
+    "requisitos":  [
+                       "Estudios concluidos en Administración Turística o campo relacionado",
+                       "Experiencia comprobable en armado y cotización de paquetes turísticos",
+                       "Habilidad para elaborar itinerarios, full days y programas nacionales",
+                       "Persona desenvuelta, proactiva y comunicativa",
+                       "Facilidad de palabra y habilidades comerciales",
+                       "Desarrollo frente a cámaras",
+                       "Se valorará el manejo de redes sociales, excelente atención al cliente y orientación a resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/counter-de-turismo-majestic-corporation-1118485325.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/counter-de-turismo-majestic-corporation-1118485325.html",
+    "descripcion_html":  "\u003cb\u003eCounter de Turismo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional con estudios concluidos en Administración Turística y experiencia comprobable en el armado y cotización de paquetes turísticos, elaboración de itinerarios, full days y programas nacionales. El candidato ideal será una persona desenvuelta, proactiva, comunicativa, con facilidad de palabra, habilidades comerciales y desenvolvimiento frente a cámaras.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDiseñar, organizar y cotizar paquetes turísticos.\u003c/li\u003e \u003cli\u003eElaborar itinerarios y propuestas comerciales.\u003c/li\u003e \u003cli\u003eAtender consultas presenciales y virtuales.\u003c/li\u003e \u003cli\u003eAsesorar a clientes.\u003c/li\u003e \u003cli\u003eRealizar transmisiones en vivo (Lives) para promocionar destinos y servicios turísticos.\u003c/li\u003e \u003cli\u003eGestionar reservas y coordinar con proveedores.\u003c/li\u003e \u003cli\u003eRealizar seguimiento comercial y concretar ventas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudios concluidos en Administración Turística o campo relacionado.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en armado y cotización de paquetes turísticos.\u003c/li\u003e \u003cli\u003eHabilidad para elaborar itinerarios, full days y programas nacionales.\u003c/li\u003e \u003cli\u003ePersona desenvuelta, proactiva y comunicativa.\u003c/li\u003e \u003cli\u003eFacilidad de palabra y habilidades comerciales.\u003c/li\u003e \u003cli\u003eDesarrollo frente a cámaras.\u003c/li\u003e \u003cli\u003eSe valorará el manejo de redes sociales, excelente atención al cliente y orientación a resultados.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
