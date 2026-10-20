@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118483180",
+    "clave":  "id:1118483180",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-punto-visual-1118483180.html",
+                   "capturadoEn":  "2026-10-20T15:05:43+00:00"
+               },
+    "titulo":  "INGENIERO CIVIL",
+    "empresa":  "Punto Visual",
+    "ubicacion":  "Lima - Chorrillos",
+    "ciudad":  "Chorrillos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4000,
+                    "max":  4200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 4,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¿Eres Ingeniero Civil colegiado y habilitado y buscas una nueva oportunidad laboral? ¡Esta es tu oportunidad de formar parte de un gran equipo! Funciones principales: Elaboración y modificación de planos técnicos para publicidad exterior. Diseño de planos de cimentación y estructuras metálicas. Elaboración de planos As Built y expedientes técnicos. Coordinación con el área de Arquitectura y levantamiento de observaciones técnicas. Requisitos: Ingeniero Civil colegiado y habilitado. Experiencia en estructuras metálicas y/o elementos publicitarios. Manejo y lectura de planos técnicos. Capacidad para coordinar y resolver observaciones técnicas. ¿Qué ofrecemos? Ingreso a planilla con todos los beneficios de ley. Seguro de salud (EsSalud). Gratificaciones, CTS y vacaciones pagadas. Utilidades, capacitación y desarrollo profesional. ¡POSTULA AHORA! Envía tu CV",
+    "requisitos":  [
+                       "Ingeniero Civil colegiado y habilitado",
+                       "Experiencia en estructuras metálicas y/o elementos publicitarios",
+                       "Manejo y lectura de planos técnicos",
+                       "Capacidad para coordinar y resolver observaciones técnicas",
+                       "¿Qué"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Elaboración y modificación de planos técnicos para publicidad exterior",
+                      "Diseño de planos de cimentación y estructuras metálicas",
+                      "Elaboración de planos As Built y expedientes técnicos",
+                      "Coordinación con el área de Arquitectura y levantamiento de observaciones técnicas"
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Seguro de salud (EsSalud)",
+                       "Gratificaciones, CTS y vacaciones pagadas",
+                       "Utilidades, capacitación y desarrollo profesional",
+                       "¡POSTULA AHORA! Envía tu CV"
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-punto-visual-1118483180.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-civil-punto-visual-1118483180.html",
+    "descripcion_html":  "\u003cp\u003e¿Eres Ingeniero Civil colegiado y habilitado y buscas una nueva oportunidad laboral? ¡Esta es tu oportunidad de formar parte de un gran equipo!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaboración y modificación de planos técnicos para publicidad exterior.\u003c/li\u003e \u003cli\u003eDiseño de planos de cimentación y estructuras metálicas.\u003c/li\u003e \u003cli\u003eElaboración de planos As Built y expedientes técnicos.\u003c/li\u003e \u003cli\u003eCoordinación con el área de Arquitectura y levantamiento de observaciones técnicas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero Civil colegiado y habilitado.\u003c/li\u003e \u003cli\u003eExperiencia en estructuras metálicas y/o elementos publicitarios.\u003c/li\u003e \u003cli\u003eManejo y lectura de planos técnicos.\u003c/li\u003e \u003cli\u003eCapacidad para coordinar y resolver observaciones técnicas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eSeguro de salud (EsSalud).\u003c/li\u003e \u003cli\u003eGratificaciones, CTS y vacaciones pagadas.\u003c/li\u003e \u003cli\u003eUtilidades, capacitación y desarrollo profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡POSTULA AHORA!\u003c/strong\u003e Envía tu CV\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
