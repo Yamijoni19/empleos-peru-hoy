@@ -1,0 +1,84 @@
+{
+    "id":  "bumeran-1118487661",
+    "clave":  "id:1118487661",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-scientist-lead-cementos-pacasmayo-1118487661.html",
+                   "capturadoEn":  "2026-10-20T22:21:48+00:00"
+               },
+    "titulo":  "Data Scientist Lead",
+    "empresa":  "CEMENTOS PACASMAYO",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Pacasmayo es mucho más que una empresa, es la suma del esfuerzo individual de muchísimas personas. Personas que quieren trascender y hacer un esfuerzo especial, para lograr ser una empresa líder en la provisión de soluciones constructivas que se anticipe a las necesidades de las personas, las empresas y los países.Somos reconocidos por nuestros altos estándares de calidad, solidez financiera, por nuestra política de Buen Gobierno Corporativo y por nuestro excelente clima laboral, con el respeto hacia el medio ambiente, y nuestras buenas relaciones con las comunidades del entorno. Te invitamos a formar parte de esta gran familia y contribuir con el desarrollo de nuestro país, para que el Perú siga avanzando.Ingresa a www.cementospacasmayo.com.pe y conoce más sobre nosotros. ¿Quieres ayudarnos a construir el futuro que soñamos? ¡Únete a nuestra Familia Pacasmayo! Somos Pacasmayo, la compañía de cemento más grande del norte del Perú, líder en brindar soluciones constructivas que se anticipen a las necesidades de sus clientes. Buscamos gente con buena onda y garra, que le gusten los retos, experimentar y aprender Si te interesa diseñar e implementar modelos analíticos, impulsar buenas prácticas en Ciencia de Datos y desarrollar soluciones escalables y sostenibles que generen valor para la organización, ¡este puesto es para ti! Funciones: Apoyar en la estructuración y planificación del proyecto, principalmente en la traducción de las necesidades del negocio en planteamiento de soluciones con modelos analíticos. Contribuir en la adopción de lineamientos, nuevas tecnologías, estandares de desarrollo, estandares de modelamiento y la asesoria en la factibilidad técnica de soluciones analíticas mantener y brindar soporte a modelos analíticos desplegados. Conocer y difundir los lineamientos de arquitectura de datos y velar por su cumplimiento participar en la definición e implementación de modelos analíticos. Velar por mantener el estandar de nomenclaturas que faciliten la interpretación de modelo analíticos generar conocimiento accionable mediante procesos de ciencia de datos y herramientas de ciencia de datos. Participar en las rueniones de seguimientos de proyectos. Requisitos: Conocimiento en despliegue de API\u0027s. Experiencia trabajando con gestión de proyectos, Scrum, Power BI, MicroStrategy, GitHub y herramientas de integración de datos. Conocimiento en PySpark y modelado de datos. Experiencia trabajando con GCP (Cloud Storage, Dataflow, BigQuery, Bigtable, Datasub/Pub, Dataproc, Composer, Data Studio, Monitoring, Cloud IAM), Hadoop, Spark y Kafka. Experiencia trabajando con Python, R, Java, Datalake/Datawarehouse y SQL. Manejo de inglés. Beneficios Pertenecer a una empresa líder en la comercialización de soluciones constructivas. Sueldo acorde al mercado y todos los beneficios de ley. Seguro privado según el plan que elijas Excelente ambiente de trabajo. En Cementos Pacasmayo ️abrazamos la diversidad e inclusión y nos encontramos comprometidos con la igualdad de oportunidades para todas las personas. ¡Postula y sé parte de #CementosPacasmayo #FamiliaPacasmayo! “Al postular se afirma su consentimiento y autorización del uso de sus datos personales expuestos en su CV, dentro del marco de la Ley de Protección de Datos Personales N° 29733, para fines únicamente de postulación con la organización. Este registro se deriva al área de GH para el proceso de selección”. “Somos una compañía que cree en la inserción laboral de personas con discapacidad, en concordancia con la Ley N° 29973; está convocatoria se encuentra abierta para la postulación de personas con discapacidad\". “Somos una compañía que cree en la inserción laboral de personas con discapacidad, en concordancia con la Ley N° 29973; está convocatoria se encuentra abierta para la postulación de personas con discapacidad”.",
+    "requisitos":  [
+                       "Conocimiento en despliegue de API\u0027s",
+                       "Experiencia trabajando con gestión de proyectos, Scrum, Power BI, MicroStrategy, GitHub y herramientas de integración de datos",
+                       "Conocimiento en PySpark y modelado de datos",
+                       "Experiencia trabajando con GCP (Cloud Storage, Dataflow, BigQuery, Bigtable, Datasub/Pub, Dataproc, Composer, Data Studio, Monitoring, Cloud IAM), Hadoop, Spark y Kafka",
+                       "Experiencia trabajando con Python, R, Java, Datalake/Datawarehouse y SQL",
+                       "Manejo de inglés"
+                   ],
+    "funciones":  [
+                      "Apoyar en la estructuración y planificación del proyecto, principalmente en la traducción de las necesidades del negocio en planteamiento de soluciones con modelos analíticos",
+                      "Contribuir en la adopción de lineamientos, nuevas tecnologías, estandares de desarrollo, estandares de modelamiento y la asesoria en la factibilidad técnica de soluciones analíticas mantener y brindar soporte a modelos analíticos desplegados",
+                      "Conocer y difundir los lineamientos de arquitectura de datos y velar por su cumplimiento participar en la definición e implementación de modelos analíticos",
+                      "Velar por mantener el estandar de nomenclaturas que faciliten la interpretación de modelo analíticos generar conocimiento accionable mediante procesos de ciencia de datos y herramientas de ciencia de datos",
+                      "Participar en las rueniones de seguimientos de proyectos"
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Seguro privado según el plan que elijas",
+                       "Excelente ambiente de trabajo",
+                       "En Cementos Pacasmayo ️abrazamos la diversidad e inclusión y nos encontramos comprometidos con la igualdad de oportunidades para todas las personas",
+                       "¡Postula y sé parte de #CementosPacasmayo #FamiliaPacasmayo!",
+                       "“Al postular se afirma su consentimiento y autorización del uso de sus datos personales expuestos en su CV, dentro del marco de la Ley de Protección de Datos Personales N° 29733, para fines únicamente de postulación con la organización. Este registro se deriva al área de GH para el proceso de selección”. “Somos una compañía que cree en la inserción laboral de personas con discapacidad, en concordancia con la Ley N° 29973; está convocatoria se encuentra abierta para la postulación de personas con discapacidad\"",
+                       "“Somos una compañía que cree en la inserción laboral de personas con discapacidad, en concordancia con la Ley N° 29973; está convocatoria se encuentra abierta para la postulación de personas con discapacidad”"
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/data-scientist-lead-cementos-pacasmayo-1118487661.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-scientist-lead-cementos-pacasmayo-1118487661.html",
+    "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003ePacasmayo es mucho más que una empresa, es la suma del esfuerzo individual de muchísimas personas. Personas que quieren trascender y hacer un esfuerzo especial, para lograr ser una empresa líder en la provisión de soluciones constructivas que se anticipe a las necesidades de las personas, las empresas y los países.Somos reconocidos por nuestros altos estándares de calidad, solidez financiera, por nuestra política de Buen Gobierno Corporativo y por nuestro excelente clima laboral, con el respeto hacia el medio ambiente, y nuestras buenas relaciones con las comunidades del entorno. Te invitamos a formar parte de esta gran familia y contribuir con el desarrollo de nuestro país, para que el Perú siga avanzando.Ingresa a www.cementospacasmayo.com.pe y conoce más sobre nosotros.\u003c/span\u003e\u003c/p\u003e \u003cp\u003e¿Quieres ayudarnos a construir el futuro que soñamos? \u003c/p\u003e\u003cp\u003e¡Únete a nuestra Familia Pacasmayo!\u003c/p\u003e\u003cp\u003eSomos Pacasmayo, la compañía de cemento más grande del norte del Perú, líder en brindar soluciones constructivas que se anticipen a las necesidades de sus clientes. Buscamos gente con buena onda y garra, que le gusten los retos, experimentar y aprender \u003c/p\u003e\u003cp\u003eSi te interesa diseñar e implementar modelos analíticos, impulsar buenas prácticas en Ciencia de Datos y desarrollar soluciones escalables y sostenibles que generen valor para la organización, ¡este puesto es para ti! \u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e \u003cp\u003eApoyar en la estructuración y planificación del proyecto, principalmente en la traducción de las necesidades del negocio en planteamiento de soluciones con modelos analíticos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eContribuir en la adopción de lineamientos, nuevas tecnologías, estandares de desarrollo, estandares de modelamiento y la asesoria en la factibilidad técnica de soluciones analíticas mantener y brindar soporte a modelos analíticos desplegados.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eConocer y difundir los lineamientos de arquitectura de datos y velar por su cumplimiento participar en la definición e implementación de modelos analíticos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eVelar por mantener el estandar de nomenclaturas que faciliten la interpretación de modelo analíticos generar conocimiento accionable mediante procesos de ciencia de datos y herramientas de ciencia de datos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eParticipar en las rueniones de seguimientos de proyectos.\u003c/p\u003e \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003e \u003cp\u003eConocimiento en despliegue de API\u0027s.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia trabajando con gestión de proyectos, Scrum, Power BI, MicroStrategy, GitHub y herramientas de integración de datos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eConocimiento en PySpark y modelado de datos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia trabajando con GCP (Cloud Storage, Dataflow, BigQuery, Bigtable, Datasub/Pub, Dataproc, Composer, Data Studio, Monitoring, Cloud IAM), Hadoop, Spark y Kafka.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia trabajando con Python, R, Java, Datalake/Datawarehouse y SQL.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eManejo de inglés.\u003c/p\u003e \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003ePertenecer a una empresa líder en la comercialización de soluciones constructivas.\u003c/li\u003e \u003cli\u003eSueldo acorde al mercado y todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eSeguro privado según el plan que elijas\u003c/li\u003e \u003cli\u003eExcelente ambiente de trabajo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn Cementos Pacasmayo ️abrazamos la diversidad e inclusión y nos encontramos comprometidos con la igualdad de oportunidades para todas las personas.\u003c/p\u003e\u003cp\u003e¡Postula y sé parte de #CementosPacasmayo #FamiliaPacasmayo!\u003c/p\u003e\u003cp\u003e“Al postular se afirma su consentimiento y autorización del uso de sus datos personales expuestos en su CV, dentro del marco de la Ley de Protección de Datos Personales N° 29733, para fines únicamente de postulación con la organización. Este registro se deriva al área de GH para el proceso de selección”. “Somos una compañía que cree en la inserción laboral de personas con discapacidad, en concordancia con la Ley N° 29973; está convocatoria se encuentra abierta para la postulación de personas con discapacidad\u0026quot;.\u003c/p\u003e\u003cp\u003e“Somos una compañía que cree en la inserción laboral de personas con discapacidad, en concordancia con la Ley N° 29973; está convocatoria se encuentra abierta para la postulación de personas con discapacidad”.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

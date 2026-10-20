@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118487648",
+    "clave":  "id:1118487648",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-seguridad-regimen-atipico-14x7-ancash-manpowergroup-peru-1118487648.html",
+                   "capturadoEn":  "2026-10-20T22:21:55+00:00"
+               },
+    "titulo":  "Ingeniero de Seguridad / Régimen Atípico 14x7 / Ancash",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Ancash - Aija",
+    "ciudad":  "Aija",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa del sector minero, nos encontramos en la busqueda del mejor talento para ocupar el cargo de: INGENIERO DE SEGURIDAD Requisitos: Título en Ing. Minas, Metalúrgico, Geólogo, Mecánico, Eléctrico o afines (Colegiado Y Habilitado) 04 años de Experiencia en la actividad minera y/o en Seguridad y Salud Ocupacional. Se ofrece: Ingreso a planilla régimen general con beneficios de ley (Gratificación, CTS, Asignación Familiar, Seguro de Salud, SCTR y Vida Ley). Movilidad, alojamiento y alimentación cubierta. Bono anual por productividad. Contrato Renovable (Por proyecto). Sistema de trabajo 14X7",
+    "requisitos":  [
+                       "Título en Ing. Minas, Metalúrgico, Geólogo, Mecánico, Eléctrico o afines (Colegiado Y Habilitado)",
+                       "04 años de Experiencia en la actividad minera y/o en Seguridad y Salud Ocupacional",
+                       "Se ofrece",
+                       "Ingreso a planilla régimen general con"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley (Gratificación, CTS, Asignación Familiar, Seguro de Salud, SCTR y Vida Ley)",
+                       "Movilidad, alojamiento y alimentación cubierta",
+                       "Bono anual por productividad",
+                       "Contrato Renovable (Por proyecto)",
+                       "Sistema de trabajo 14X7"
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-seguridad-regimen-atipico-14x7-ancash-manpowergroup-peru-1118487648.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-seguridad-regimen-atipico-14x7-ancash-manpowergroup-peru-1118487648.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa del sector minero, nos encontramos en la busqueda del mejor talento para ocupar el cargo de: \u003cstrong\u003eINGENIERO DE SEGURIDAD\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo en Ing. Minas, Metalúrgico, Geólogo, Mecánico, Eléctrico o afines (Colegiado Y Habilitado) \u003c/li\u003e \u003cli\u003e04 años de Experiencia en la actividad minera y/o en Seguridad y Salud Ocupacional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSe ofrece:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla régimen general con beneficios de ley (Gratificación, CTS, Asignación Familiar, Seguro de Salud, SCTR y Vida Ley). \u003c/li\u003e \u003cli\u003eMovilidad, alojamiento y alimentación cubierta. \u003c/li\u003e \u003cli\u003eBono anual por productividad. \u003c/li\u003e \u003cli\u003eContrato Renovable (Por proyecto). \u003c/li\u003e \u003cli\u003eSistema de trabajo 14X7\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 04 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

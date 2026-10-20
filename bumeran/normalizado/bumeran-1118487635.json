@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118487635",
+    "clave":  "id:1118487635",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/oportunidades-laborales-barman-y-anfitriona-victoriano-taberna-1118487635.html",
+                   "capturadoEn":  "2026-10-20T22:22:04+00:00"
+               },
+    "titulo":  "Oportunidades Laborales: Barman y Anfitriona",
+    "empresa":  "VICTORIANO TABERNA",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Oportunidades Laborales: Barman y Anfitriona Resumen Estamos en búsqueda de personas responsables, proactivas y con muchas ganas de aprender y crecer profesionalmente para formar parte de nuestro equipo de trabajo. Se ofrecen vacantes para los puestos de Barman y Anfitriona. Puesto: Barman Descripción: Buscamos incorporar a nuestro equipo un Barman, con o sin experiencia previa. Se valorará la actitud positiva y la disposición para aprender sobre la preparación y presentación de bebidas. Requisitos: Actitud positiva y disposición para aprender. Interés por la preparación y presentación de bebidas. Puesto: Anfitriona Descripción: Buscamos una Anfitriona con buena presencia y trato cordial. Se requieren habilidades de comunicación y orientación al cliente, así como una actitud amable, responsable y proactiva. Requisitos: Buena presencia y trato cordial. Habilidades de comunicación y orientación al cliente. Actitud amable, responsable y proactiva. Requisitos Generales para Ambos Puestos Responsabilidad, puntualidad y compromiso. Disponibilidad para trabajar en horarios rotativos. Disponibilidad para turnos part time o full time. Ganas de trabajar en equipo y brindar una excelente atención al cliente.",
+    "requisitos":  [
+                       "Generales para Ambos Puestos",
+                       "Responsabilidad, puntualidad y compromiso",
+                       "Disponibilidad para trabajar en horarios rotativos",
+                       "Disponibilidad para turnos part time o full time",
+                       "Ganas de trabajar en equipo y brindar una excelente atención al cliente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/oportunidades-laborales-barman-y-anfitriona-victoriano-taberna-1118487635.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/oportunidades-laborales-barman-y-anfitriona-victoriano-taberna-1118487635.html",
+    "descripcion_html":  "\u003cb\u003eOportunidades Laborales: Barman y Anfitriona\u003c/b\u003e \u003cb\u003eResumen\u003c/b\u003e \u003cp\u003eEstamos en búsqueda de personas responsables, proactivas y con muchas ganas de aprender y crecer profesionalmente para formar parte de nuestro equipo de trabajo. Se ofrecen vacantes para los puestos de Barman y Anfitriona.\u003c/p\u003e \u003cb\u003ePuesto: Barman\u003c/b\u003e \u003cp\u003e\u003cb\u003eDescripción:\u003c/b\u003e Buscamos incorporar a nuestro equipo un Barman, con o sin experiencia previa. Se valorará la actitud positiva y la disposición para aprender sobre la preparación y presentación de bebidas.\u003c/p\u003e \u003cp\u003e\u003cb\u003eRequisitos:\u003c/b\u003e\u003c/p\u003e \u003cul\u003e \u003cli\u003eActitud positiva y disposición para aprender.\u003c/li\u003e \u003cli\u003eInterés por la preparación y presentación de bebidas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003ePuesto: Anfitriona\u003c/b\u003e \u003cp\u003e\u003cb\u003eDescripción:\u003c/b\u003e Buscamos una Anfitriona con buena presencia y trato cordial. Se requieren habilidades de comunicación y orientación al cliente, así como una actitud amable, responsable y proactiva.\u003c/p\u003e \u003cp\u003e\u003cb\u003eRequisitos:\u003c/b\u003e\u003c/p\u003e \u003cul\u003e \u003cli\u003eBuena presencia y trato cordial.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y orientación al cliente.\u003c/li\u003e \u003cli\u003eActitud amable, responsable y proactiva.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos Generales para Ambos Puestos\u003c/b\u003e \u003cul\u003e \u003cli\u003eResponsabilidad, puntualidad y compromiso.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e \u003cli\u003eDisponibilidad para turnos part time o full time.\u003c/li\u003e \u003cli\u003eGanas de trabajar en equipo y brindar una excelente atención al cliente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

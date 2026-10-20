@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118350662",
+    "clave":  "id:1118350662",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-construccion-regimen-atipico-14x7-ancash-manpowergroup-peru-1118350662.html",
+                   "capturadoEn":  "2026-10-20T22:22:01+00:00"
+               },
+    "titulo":  "Supervisor de Construcción / Régimen Atípico 14x7 / Ancash",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  6000,
+                    "max":  6500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 6,000 - S/ 6,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa del sector minero, nos encontramos en la busqueda del mejor talento para ocupar el cargo de: SUPERVISOR DE CONSTRUCCION Requisitos: Ingeniero Civil, colegiado y habilitado. Experiencia mínima de 03 años como supervisor de campo en obras civiles y/o movimiento de tierras Experiencia en ejecución de obras en movimiento de tierras en superficie e interior mina. Se ofrece: Ingreso a planilla régimen general con beneficios de ley (Gratificación, CTS, Asignación Familiar, Seguro de Salud, SCTR y Vida Ley). Movilidad, alojamiento y alimentación cubierta. Bono anual por productividad. Contrato renovable (Por proyecto). Sistema de trabajo 14X7.",
+    "requisitos":  [
+                       "Ingeniero Civil, colegiado y habilitado",
+                       "Experiencia mínima de 03 años como supervisor de campo en obras civiles y/o movimiento de tierras",
+                       "Experiencia en ejecución de obras en movimiento de tierras en superficie e interior mina",
+                       "Se ofrece",
+                       "Ingreso a planilla régimen general con"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley (Gratificación, CTS, Asignación Familiar, Seguro de Salud, SCTR y Vida Ley)",
+                       "Movilidad, alojamiento y alimentación cubierta",
+                       "Bono anual por productividad",
+                       "Contrato renovable (Por proyecto)",
+                       "Sistema de trabajo 14X7"
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-construccion-regimen-atipico-14x7-ancash-manpowergroup-peru-1118350662.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-construccion-regimen-atipico-14x7-ancash-manpowergroup-peru-1118350662.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa del sector minero, nos encontramos en la busqueda del mejor talento para ocupar el cargo de: \u003cstrong\u003eSUPERVISOR DE CONSTRUCCION\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eIngeniero Civil, colegiado y habilitado.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eExperiencia mínima de 03 años como supervisor de campo en obras civiles y/o movimiento de tierras\u003c/li\u003e \u003cli\u003eExperiencia en ejecución de obras en movimiento de tierras en superficie e interior mina.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSe ofrece:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla régimen general con beneficios de ley (Gratificación, CTS, Asignación Familiar, Seguro de Salud, SCTR y Vida Ley).\u003c/li\u003e \u003cli\u003eMovilidad, alojamiento y alimentación cubierta.\u003c/li\u003e \u003cli\u003eBono anual por productividad.\u003c/li\u003e \u003cli\u003eContrato renovable (Por proyecto).\u003c/li\u003e \u003cli\u003eSistema de trabajo 14X7.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 03 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
