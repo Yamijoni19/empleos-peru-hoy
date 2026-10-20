@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118485541",
+    "clave":  "id:1118485541",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/docente-virtual-power-bi-e-inteligencia-artificial-centro-de-formacion-continua-crea-valor-1118485541.html",
+                   "capturadoEn":  "2026-10-20T04:50:30+00:00"
+               },
+    "titulo":  "Docente Virtual - Power BI e Inteligencia Artificial",
+    "empresa":  "CENTRO DE FORMACION CONTINUA CREA VALOR",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Docente Virtual - Power BI e Inteligencia Artificial Descripción del Puesto Buscamos un Docente con experiencia para impartir un curso intensivo en modalidad virtual sobre Power BI e Inteligencia Artificial . El curso tendrá una duración de 6 semanas y se enfocará en proporcionar a los participantes conocimientos prácticos y actualizados en estas áreas. Responsabilidades Impartir clases virtuales de manera efectiva y dinámica. Desarrollar y adaptar el contenido del curso para asegurar la comprensión de los temas clave. Evaluar el progreso de los estudiantes y proporcionar retroalimentación constructiva. Fomentar un ambiente de aprendizaje interactivo y colaborativo. Mantenerse actualizado sobre las últimas tendencias y herramientas en Power BI e Inteligencia Artificial. Requisitos Título universitario en un campo relacionado (ej. Informática, Estadística, Matemáticas, Ingeniería). Experiencia comprobable de al menos 3 años en docencia, preferentemente en entornos virtuales. Dominio avanzado de Power BI y conceptos de Inteligencia Artificial. Habilidades pedagógicas y de comunicación excepcionales. Capacidad para gestionar grupos de estudiantes de manera remota. Disponibilidad para iniciar en Noviembre.",
+    "requisitos":  [
+                       "Título universitario en un campo relacionado (ej. Informática, Estadística, Matemáticas, Ingeniería)",
+                       "Experiencia comprobable de al menos 3 años en docencia, preferentemente en entornos virtuales",
+                       "Dominio avanzado de Power BI y conceptos de Inteligencia Artificial",
+                       "Habilidades pedagógicas y de comunicación excepcionales",
+                       "Capacidad para gestionar grupos de estudiantes de manera remota",
+                       "Disponibilidad para iniciar en Noviembre"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/docente-virtual-power-bi-e-inteligencia-artificial-centro-de-formacion-continua-crea-valor-1118485541.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/docente-virtual-power-bi-e-inteligencia-artificial-centro-de-formacion-continua-crea-valor-1118485541.html",
+    "descripcion_html":  "\u003cb\u003eDocente Virtual - Power BI e Inteligencia Artificial\u003c/b\u003e \u003cb\u003eDescripción del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDocente\u003c/b\u003e con experiencia para impartir un curso intensivo en modalidad virtual sobre \u003cb\u003ePower BI e Inteligencia Artificial\u003c/b\u003e. El curso tendrá una duración de 6 semanas y se enfocará en proporcionar a los participantes conocimientos prácticos y actualizados en estas áreas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eImpartir clases virtuales de manera efectiva y dinámica.\u003c/li\u003e \u003cli\u003eDesarrollar y adaptar el contenido del curso para asegurar la comprensión de los temas clave.\u003c/li\u003e \u003cli\u003eEvaluar el progreso de los estudiantes y proporcionar retroalimentación constructiva.\u003c/li\u003e \u003cli\u003eFomentar un ambiente de aprendizaje interactivo y colaborativo.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las últimas tendencias y herramientas en Power BI e Inteligencia Artificial.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en un campo relacionado (ej. Informática, Estadística, Matemáticas, Ingeniería).\u003c/li\u003e \u003cli\u003eExperiencia comprobable de al menos 3 años en docencia, preferentemente en entornos virtuales.\u003c/li\u003e \u003cli\u003eDominio avanzado de Power BI y conceptos de Inteligencia Artificial.\u003c/li\u003e \u003cli\u003eHabilidades pedagógicas y de comunicación excepcionales.\u003c/li\u003e \u003cli\u003eCapacidad para gestionar grupos de estudiantes de manera remota.\u003c/li\u003e \u003cli\u003eDisponibilidad para iniciar en Noviembre.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

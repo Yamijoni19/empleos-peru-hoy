@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118485537",
+    "clave":  "id:1118485537",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-publico-y-mantenimiento-rally-kart-1118485537.html",
+                   "capturadoEn":  "2026-10-20T04:50:34+00:00"
+               },
+    "titulo":  "Atención al Público y Mantenimiento",
+    "empresa":  "Rally Kart",
+    "ubicacion":  "Lima - Comas",
+    "ciudad":  "Comas",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  615,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 615 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Atención al Público y Mantenimiento Resumen del Puesto Estamos en la búsqueda de personal dinámico y proactivo para brindar atención al público y realizar tareas de mantenimiento. Si tienes disponibilidad para trabajar los fines de semana y te caracterizas por tu responsabilidad y buena disposición, esta oportunidad es para ti. Responsabilidades Mantener el orden y la limpieza de las instalaciones. Brindar atención al público de manera amable y eficiente. Realizar tareas básicas de mantenimiento. Cumplir con las normas y procedimientos establecidos. Requisitos Ser mayor de 18 años. Disponibilidad para trabajar en horarios de fin de semana. Ser una persona responsable y organizada. Poseer buenas habilidades de comunicación y atención al público. Estar dispuesto a aprender y seguir instrucciones.",
+    "requisitos":  [
+                       "Ser mayor de 18 años",
+                       "Disponibilidad para trabajar en horarios de fin de semana",
+                       "Ser una persona responsable y organizada",
+                       "Poseer buenas habilidades de comunicación y atención al público",
+                       "Estar dispuesto a aprender y seguir instrucciones"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-al-publico-y-mantenimiento-rally-kart-1118485537.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-publico-y-mantenimiento-rally-kart-1118485537.html",
+    "descripcion_html":  "\u003cb\u003eAtención al Público y Mantenimiento\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de personal dinámico y proactivo para brindar atención al público y realizar tareas de mantenimiento. Si tienes disponibilidad para trabajar los fines de semana y te caracterizas por tu responsabilidad y buena disposición, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eMantener el orden y la limpieza de las instalaciones.\u003c/li\u003e \u003cli\u003eBrindar atención al público de manera amable y eficiente.\u003c/li\u003e \u003cli\u003eRealizar tareas básicas de mantenimiento.\u003c/li\u003e \u003cli\u003eCumplir con las normas y procedimientos establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eSer mayor de 18 años.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios de fin de semana.\u003c/li\u003e \u003cli\u003eSer una persona responsable y organizada.\u003c/li\u003e \u003cli\u003ePoseer buenas habilidades de comunicación y atención al público.\u003c/li\u003e \u003cli\u003eEstar dispuesto a aprender y seguir instrucciones.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
