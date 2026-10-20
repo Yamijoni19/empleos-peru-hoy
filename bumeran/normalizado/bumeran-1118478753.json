@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118478753",
+    "clave":  "id:1118478753",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-en-grupos-electrogenos-indgelec-peru-s.a.c-1118478753.html",
+                   "capturadoEn":  "2026-10-20T19:16:47+00:00"
+               },
+    "titulo":  "TÉCNICO EN GRUPOS ELECTROGENOS",
+    "empresa":  "INDGELEC PERU S.A.C",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡ÚNETE AL EQUIPO INDGELEC PERÚ! BUSCAMOS TALENTO PARA NUESTRA ÁREA TÉCNICA ¿Eres técnico y quieres seguir desarrollándote profesionalmente en el mundo de los grupos electrógenos, electricidad, mecánica y sistemas de control? En INDGELEC estamos buscando nuevos talentos para fortalecer nuestro equipo técnico. PERFIL QUE BUSCAMOS Técnicos electricistas, electromecánicos o mecánicos. Experiencia en mantenimiento industrial y/o grupos electrógenos. Conocimientos de sistemas eléctricos y control. Disponibilidad para trabajos en campo. Compromiso, responsabilidad y capacidad para trabajar en equipo. Deseable experiencia en motores diésel y grupos electrógenos. ¿QUÉ ENCONTRARÁS EN INDGELEC? ✅ Desarrollo y crecimiento profesional. ✅ Capacitación y aprendizaje técnico. ✅ Participación en proyectos y servicios a nivel nacional. ✅ Trabajo con equipos y tecnologías del sector eléctrico. ✅ Integración a un equipo especializado. \u0026#x1f4cd; Lugar de trabajo: Lima / disponibilidad viajes, trabajo en campo \u0026#x1f4e9; Envía tu CV: INDGELEC PERÚ Energía que mueve empresas. Talento que mueve INDGELEC.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-en-grupos-electrogenos-indgelec-peru-s.a.c-1118478753.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-en-grupos-electrogenos-indgelec-peru-s.a.c-1118478753.html",
+    "descripcion_html":  "\u003cp\u003e¡ÚNETE AL EQUIPO INDGELEC PERÚ!\u003c/p\u003e\u003cp\u003eBUSCAMOS TALENTO PARA NUESTRA ÁREA TÉCNICA\u003c/p\u003e\u003cp\u003e¿Eres técnico y quieres seguir desarrollándote profesionalmente en el mundo de los grupos electrógenos, electricidad, mecánica y sistemas de control?\u003c/p\u003e\u003cp\u003eEn INDGELEC estamos buscando nuevos talentos para fortalecer nuestro equipo técnico.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePERFIL QUE BUSCAMOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnicos electricistas, electromecánicos o mecánicos.\u003c/li\u003e \u003cli\u003eExperiencia en mantenimiento industrial y/o grupos electrógenos.\u003c/li\u003e \u003cli\u003eConocimientos de sistemas eléctricos y control.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajos en campo.\u003c/li\u003e \u003cli\u003eCompromiso, responsabilidad y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDeseable experiencia en motores diésel y grupos electrógenos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ ENCONTRARÁS EN INDGELEC?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u0026#x2705; Desarrollo y crecimiento profesional.\u003c/li\u003e \u003cli\u003e\u0026#x2705; Capacitación y aprendizaje técnico.\u003c/li\u003e \u003cli\u003e\u0026#x2705; Participación en proyectos y servicios a nivel nacional.\u003c/li\u003e \u003cli\u003e\u0026#x2705; Trabajo con equipos y tecnologías del sector eléctrico.\u003c/li\u003e \u003cli\u003e\u0026#x2705; Integración a un equipo especializado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4cd; Lugar de trabajo: Lima / disponibilidad viajes, trabajo en campo\u003c/p\u003e\u003cp\u003e\u0026#x1f4e9; Envía tu CV:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eINDGELEC PERÚ\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEnergía que mueve empresas. Talento que mueve INDGELEC.\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118487700",
+    "clave":  "id:1118487700",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/expertoa-en-microsoft-dynamics-365-crm-e-integraciones-csti-corp-1118487700.html",
+                   "capturadoEn":  "2026-10-20T19:16:57+00:00"
+               },
+    "titulo":  "Experto(a) en Microsoft Dynamics 365 CRM e Integraciones",
+    "empresa":  "CSTI Corp",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "CSTI Corp es una empresa peruana del sector tecnológico con más de 17 años de experiencia y presencia en Perú, Ecuador, Colombia, Costa Rica y Estados Unidos. Brindamos soluciones tecnológicas en outsourcing, licenciamiento SAP y Microsoft, soporte y mejora de aplicaciones, así como implementación y migración de soluciones Cloud. Actualmente, nos encontramos en búsqueda de un(a) Experto(a) en Microsoft Dynamics 365 CRM e Integraciones , quien será responsable de liderar la arquitectura de soluciones CRM, automatizar procesos de negocio e integrar la plataforma con sistemas core mediante el desarrollo de APIs en .NET, garantizando la escalabilidad, seguridad, calidad y correcta gestión de los despliegues. ¿Qué buscamos? Experiencia mínima de 3 años en Microsoft Dynamics 365 CRM, incluyendo configuración y modelado de datos en Sales, Customer Service y Dataverse. Experiencia mínima de 2 años en desarrollo con C# y .NET, incluyendo plugins, custom workflow activities, APIs web y Entity Framework. Experiencia mínima de 2 años en automatización de procesos con Microsoft Power Platform, especialmente Power Automate y Power Apps. Experiencia mínima de 1 año en gestión del ciclo de vida de aplicaciones (ALM) para soluciones Dynamics 365, utilizando Azure DevOps y pipelines CI/CD. Experiencia en integración de Dynamics 365 CRM con ERP u otros sistemas empresariales, idealmente sistemas de gestión académica. Conocimientos técnicos: Microsoft Dynamics 365 CRM Arquitectura y configuración de Dynamics 365 Sales y Customer Service. Modelado de datos en Dataverse y desarrollo de aplicaciones model-driven. Configuración de seguridad: Business Units, Security Roles y permisos. Desarrollo backend e integraciones C#, .NET Framework, .NET Core y Entity Framework. Desarrollo y consumo de APIs REST/SOAP. Autenticación y autorización mediante JWT, e integración con OData. Desarrollo frontend en CRM JavaScript y TypeScript para personalización de formularios mediante Client API. HTML, CSS y creación de Web Resources. Automatización y Power Platform Power Automate para flujos de negocio. Power Apps para el desarrollo y personalización de aplicaciones. DevOps y nube Azure DevOps: repositorios, pipelines YAML o Classic, empaquetado y despliegue de soluciones CRM. Gestión de identidades y accesos mediante Azure Active Directory (Microsoft Entra ID). Control del ciclo de vida de las soluciones y buenas prácticas de despliegue. Metodologías ágiles Conocimientos de Scrum y Kanban. ¿Cuáles serán tus funciones? Diseñar y modelar soluciones en Dataverse, definiendo entidades, relaciones, reglas de negocio y estructuras de datos alineadas con los requerimientos funcionales. Desarrollar APIs e integraciones en .NET para conectar Dynamics 365 CRM con ERP y otros sistemas empresariales. Extender y personalizar la plataforma mediante plugins, custom workflow activities, scripts y componentes específicos. Automatizar procesos de negocio mediante Power Automate y desarrollar soluciones con Power Apps. Gestionar el ciclo de vida de las aplicaciones (ALM), administrando el control de versiones y los despliegues mediante Azure DevOps y pipelines CI/CD. Monitorear y optimizar las soluciones, atender incidencias y brindar soporte técnico para garantizar el rendimiento, la seguridad y la escalabilidad. Validar desarrollos, integraciones y despliegues, promoviendo buenas prácticas de desarrollo, documentación y mantenimiento. Condiciones laborales Modalidad: 100% remoto. Horario: Lunes a viernes de 8:30 a. m. a 6:30 p. m. ¡Si cuentas con experiencia en Dynamics 365 CRM, desarrollo .NET e integración de sistemas, te invitamos a postular y formar parte de CSTI Corp!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Diseñar y modelar soluciones en Dataverse, definiendo entidades, relaciones, reglas de negocio y estructuras de datos alineadas con los requerimientos funcionales",
+                      "Desarrollar APIs e integraciones en .NET para conectar Dynamics 365 CRM con ERP y otros sistemas empresariales",
+                      "Extender y personalizar la plataforma mediante plugins, custom workflow activities, scripts y componentes específicos",
+                      "Automatizar procesos de negocio mediante Power Automate y desarrollar soluciones con Power Apps",
+                      "Gestionar el ciclo de vida de las aplicaciones (ALM), administrando el control de versiones y los despliegues mediante Azure DevOps y pipelines CI/CD",
+                      "Monitorear y optimizar las soluciones, atender incidencias y brindar soporte técnico para garantizar el rendimiento, la seguridad y la escalabilidad",
+                      "Validar desarrollos, integraciones y despliegues, promoviendo buenas prácticas de desarrollo, documentación y mantenimiento"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/expertoa-en-microsoft-dynamics-365-crm-e-integraciones-csti-corp-1118487700.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/expertoa-en-microsoft-dynamics-365-crm-e-integraciones-csti-corp-1118487700.html",
+    "descripcion_html":  "\u003cp\u003eCSTI Corp es una empresa peruana del sector tecnológico con más de 17 años de experiencia y presencia en Perú, Ecuador, Colombia, Costa Rica y Estados Unidos. Brindamos soluciones tecnológicas en outsourcing, licenciamiento SAP y Microsoft, soporte y mejora de aplicaciones, así como implementación y migración de soluciones Cloud.\u003c/p\u003e\u003cp\u003eActualmente, nos encontramos en búsqueda de un(a) \u003cstrong\u003eExperto(a) en Microsoft Dynamics 365 CRM e Integraciones\u003c/strong\u003e, quien será responsable de liderar la arquitectura de soluciones CRM, automatizar procesos de negocio e integrar la plataforma con sistemas core mediante el desarrollo de APIs en .NET, garantizando la escalabilidad, seguridad, calidad y correcta gestión de los despliegues.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 3 años en Microsoft Dynamics 365 CRM, incluyendo configuración y modelado de datos en Sales, Customer Service y Dataverse.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en desarrollo con C# y .NET, incluyendo plugins, custom workflow activities, APIs web y Entity Framework.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en automatización de procesos con Microsoft Power Platform, especialmente Power Automate y Power Apps.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en gestión del ciclo de vida de aplicaciones (ALM) para soluciones Dynamics 365, utilizando Azure DevOps y pipelines CI/CD.\u003c/li\u003e \u003cli\u003eExperiencia en integración de Dynamics 365 CRM con ERP u otros sistemas empresariales, idealmente sistemas de gestión académica.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos técnicos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMicrosoft Dynamics 365 CRM\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eArquitectura y configuración de Dynamics 365 Sales y Customer Service.\u003c/li\u003e \u003cli\u003eModelado de datos en Dataverse y desarrollo de aplicaciones model-driven.\u003c/li\u003e \u003cli\u003eConfiguración de seguridad: Business Units, Security Roles y permisos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDesarrollo backend e integraciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eC#, .NET Framework, .NET Core y Entity Framework.\u003c/li\u003e \u003cli\u003eDesarrollo y consumo de APIs REST/SOAP.\u003c/li\u003e \u003cli\u003eAutenticación y autorización mediante JWT, e integración con OData.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDesarrollo frontend en CRM\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eJavaScript y TypeScript para personalización de formularios mediante Client API.\u003c/li\u003e \u003cli\u003eHTML, CSS y creación de Web Resources.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eAutomatización y Power Platform\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePower Automate para flujos de negocio.\u003c/li\u003e \u003cli\u003ePower Apps para el desarrollo y personalización de aplicaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDevOps y nube\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAzure DevOps: repositorios, pipelines YAML o Classic, empaquetado y despliegue de soluciones CRM.\u003c/li\u003e \u003cli\u003eGestión de identidades y accesos mediante Azure Active Directory (Microsoft Entra ID).\u003c/li\u003e \u003cli\u003eControl del ciclo de vida de las soluciones y buenas prácticas de despliegue.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eMetodologías ágiles\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConocimientos de Scrum y Kanban.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus funciones?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar y modelar soluciones en Dataverse, definiendo entidades, relaciones, reglas de negocio y estructuras de datos alineadas con los requerimientos funcionales.\u003c/li\u003e \u003cli\u003eDesarrollar APIs e integraciones en .NET para conectar Dynamics 365 CRM con ERP y otros sistemas empresariales.\u003c/li\u003e \u003cli\u003eExtender y personalizar la plataforma mediante plugins, custom workflow activities, scripts y componentes específicos.\u003c/li\u003e \u003cli\u003eAutomatizar procesos de negocio mediante Power Automate y desarrollar soluciones con Power Apps.\u003c/li\u003e \u003cli\u003eGestionar el ciclo de vida de las aplicaciones (ALM), administrando el control de versiones y los despliegues mediante Azure DevOps y pipelines CI/CD.\u003c/li\u003e \u003cli\u003eMonitorear y optimizar las soluciones, atender incidencias y brindar soporte técnico para garantizar el rendimiento, la seguridad y la escalabilidad.\u003c/li\u003e \u003cli\u003eValidar desarrollos, integraciones y despliegues, promoviendo buenas prácticas de desarrollo, documentación y mantenimiento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones laborales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eModalidad:\u003c/strong\u003e 100% remoto.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eHorario:\u003c/strong\u003e Lunes a viernes de 8:30 a. m. a 6:30 p. m.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Si cuentas con experiencia en Dynamics 365 CRM, desarrollo .NET e integración de sistemas, te invitamos a postular y formar parte de CSTI Corp!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "Lunes a viernes de 8:30 a. m. a 6:30 p. m.",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
