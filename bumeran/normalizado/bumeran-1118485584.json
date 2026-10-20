@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118485584",
+    "clave":  "id:1118485584",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos--medio-tiempo-con-o-sin-experiencia-1118485584.html",
+                   "capturadoEn":  "2026-10-19T23:41:59+00:00"
+               },
+    "titulo":  "Asistente de Recursos Humanos – Medio Tiempo (Con o Sin Experiencia)",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Es un puesto de apoyo al área de Recursos Humanos, enfocado en la captación de personal y la organización de procesos de selección. Trabajas unas 4 horas diarias y no necesitas experiencia previa . Para mas informacion escribir al numero de whastapp: 994188925 - https://wa.me/51994188925",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos--medio-tiempo-con-o-sin-experiencia-1118485584.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos--medio-tiempo-con-o-sin-experiencia-1118485584.html",
+    "descripcion_html":  "\u003cul\u003e \u003cli\u003e\u003cstrong\u003eEs un puesto de apoyo al área de Recursos Humanos, enfocado en la captación de personal y la organización de procesos de selección. Trabajas unas 4 horas diarias y no necesitas experiencia previa\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003ePara mas informacion escribir al numero de whastapp: 994188925 - https://wa.me/51994188925\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

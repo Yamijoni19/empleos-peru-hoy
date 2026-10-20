@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118485571",
+    "clave":  "id:1118485571",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-multifuncional-full-time-turnos-de-cierre-papero-1118485571.html",
+                   "capturadoEn":  "2026-10-19T23:42:09+00:00"
+               },
+    "titulo":  "Personal Multifuncional Full Time - Turnos de Cierre",
+    "empresa":  "PAPERO",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal Multifuncional Full Time - Turnos de Cierre Resumen del Puesto Estamos en búsqueda de personal multifuncional para cubrir puestos full time , con disponibilidad para turnos de cierre . Las responsabilidades principales incluirán la atención al cliente , manejo de caja y tareas de producción . Ofrecemos Incorporación a planilla desde el primer día. Bonos por cumplimiento de metas. Capacitaciones constantes para el desarrollo profesional. Oportunidades de línea de carrera. Pago de movilidad para los turnos de cierre. Perfil Buscado Buscamos personas con ganas de aprender, crecer profesionalmente y que disfruten del trabajo en equipo. Si te identificas con estas cualidades, esta oportunidad es para ti.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-multifuncional-full-time-turnos-de-cierre-papero-1118485571.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-multifuncional-full-time-turnos-de-cierre-papero-1118485571.html",
+    "descripcion_html":  "\u003cb\u003ePersonal Multifuncional Full Time - Turnos de Cierre\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en búsqueda de personal \u003cb\u003emultifuncional\u003c/b\u003e para cubrir puestos \u003cb\u003efull time\u003c/b\u003e, con disponibilidad para \u003cb\u003eturnos de cierre\u003c/b\u003e. Las responsabilidades principales incluirán la \u003cb\u003eatención al cliente\u003c/b\u003e, manejo de \u003cb\u003ecaja\u003c/b\u003e y tareas de \u003cb\u003eproducción\u003c/b\u003e.\u003c/p\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eIncorporación a planilla desde el primer día.\u003c/li\u003e \u003cli\u003eBonos por cumplimiento de metas.\u003c/li\u003e \u003cli\u003eCapacitaciones constantes para el desarrollo profesional.\u003c/li\u003e \u003cli\u003eOportunidades de línea de carrera.\u003c/li\u003e \u003cli\u003ePago de movilidad para los turnos de cierre.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003ePerfil Buscado\u003c/b\u003e \u003cp\u003eBuscamos personas con ganas de aprender, crecer profesionalmente y que disfruten del trabajo en equipo. Si te identificas con estas cualidades, esta oportunidad es para ti.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

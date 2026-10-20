@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118485570",
+    "clave":  "id:1118485570",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-multifuncional-full-time-turnos-de-cierre-papero-1118485570.html",
+                   "capturadoEn":  "2026-10-19T23:42:12+00:00"
+               },
+    "titulo":  "Personal Multifuncional Full Time - Turnos de Cierre",
+    "empresa":  "PAPERO",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1250,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,250",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal Multifuncional Full Time - Turnos de Cierre Resumen del Puesto Buscamos personas proactivas y con gran disposición para unirse a nuestro equipo en roles multifuncionales . Las posiciones son full time y se enfocarán en la atención al cliente, gestión de caja y tareas de producción, con énfasis en los turnos de cierre . Responsabilidades Brindar una excelente atención al cliente. Gestionar operaciones de caja de manera eficiente. Colaborar en las tareas de producción según sea necesario. Asegurar el cumplimiento de los procedimientos operativos durante los turnos de cierre. Trabajar en equipo para alcanzar los objetivos diarios. Beneficios Incorporación a planilla desde el primer día. Bonificaciones por cumplimiento de metas. Oportunidades de capacitación continua. Desarrollo de carrera profesional. Pago de horas nocturnas para los turnos de cierre. Requisitos Ganas de aprender y desarrollarse profesionalmente. Capacidad para trabajar en equipo. Disponibilidad para trabajar en turnos de cierre. Actitud positiva y orientada al servicio.",
+    "requisitos":  [
+                       "Ganas de aprender y desarrollarse profesionalmente",
+                       "Capacidad para trabajar en equipo",
+                       "Disponibilidad para trabajar en turnos de cierre",
+                       "Actitud positiva y orientada al servicio"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Incorporación a planilla desde el primer día",
+                       "Bonificaciones por cumplimiento de metas",
+                       "Oportunidades de capacitación continua",
+                       "Desarrollo de carrera profesional",
+                       "Pago de horas nocturnas para los turnos de cierre"
+                   ],
+    "fecha_publicacion":  "2026-10-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-multifuncional-full-time-turnos-de-cierre-papero-1118485570.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-multifuncional-full-time-turnos-de-cierre-papero-1118485570.html",
+    "descripcion_html":  "\u003cb\u003ePersonal Multifuncional Full Time - Turnos de Cierre\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personas proactivas y con gran disposición para unirse a nuestro equipo en roles \u003cb\u003emultifuncionales\u003c/b\u003e. Las posiciones son \u003cb\u003efull time\u003c/b\u003e y se enfocarán en la atención al cliente, gestión de caja y tareas de producción, con énfasis en los \u003cb\u003eturnos de cierre\u003c/b\u003e.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar una excelente atención al cliente.\u003c/li\u003e \u003cli\u003eGestionar operaciones de caja de manera eficiente.\u003c/li\u003e \u003cli\u003eColaborar en las tareas de producción según sea necesario.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los procedimientos operativos durante los turnos de cierre.\u003c/li\u003e \u003cli\u003eTrabajar en equipo para alcanzar los objetivos diarios.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eIncorporación a planilla desde el primer día.\u003c/li\u003e \u003cli\u003eBonificaciones por cumplimiento de metas.\u003c/li\u003e \u003cli\u003eOportunidades de capacitación continua.\u003c/li\u003e \u003cli\u003eDesarrollo de carrera profesional.\u003c/li\u003e \u003cli\u003ePago de horas nocturnas para los turnos de cierre.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eGanas de aprender y desarrollarse profesionalmente.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos de cierre.\u003c/li\u003e \u003cli\u003eActitud positiva y orientada al servicio.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
