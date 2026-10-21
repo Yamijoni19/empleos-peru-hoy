@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118487600",
+    "clave":  "id:1118487600",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-senior-b2b-chamba-talent-s.a.c.-1118487600.html",
+                   "capturadoEn":  "2026-10-21T07:39:01+00:00"
+               },
+    "titulo":  "Ejecutivo Comercial Senior B2B",
+    "empresa":  "CHAMBA TALENT S.A.C.",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f4cd; San Miguel \u0026#x1f552; L–V 8:30 a.m. – 6:00 p.m. Requisitos: Bachiller o titulado en Negocios Internacionales, Comercio Exterior, Administración, Marketing o afines. 3 años de experiencia en ventas B2B (deseable logística/transporte internacional). Inglés y portugués intermedio. Manejo de CRM y gestión por KPIs. Funciones: Prospección estratégica y generación de demanda Gestión del proceso comercial y cierre de negocios. Elaboración de propuestas y licitaciones. Onboarding y fidelización de clientes. Gestión comercial basada en datos (CRM, forecast, KPIs). Beneficios Sueldo fijo Variable por cumplimiento Beneficios completos de ley.",
+    "requisitos":  [
+                       "Bachiller o titulado en Negocios Internacionales, Comercio Exterior, Administración, Marketing o afines",
+                       "3 años de experiencia en ventas B2B (deseable logística/transporte internacional)",
+                       "Inglés y portugués intermedio",
+                       "Manejo de CRM y gestión por KPIs"
+                   ],
+    "funciones":  [
+                      "Prospección estratégica y generación de demanda",
+                      "Gestión del proceso comercial y cierre de negocios",
+                      "Elaboración de propuestas y licitaciones",
+                      "Onboarding y fidelización de clientes",
+                      "Gestión comercial basada en datos (CRM, forecast, KPIs)"
+                  ],
+    "beneficios":  [
+                       "completos de ley"
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-senior-b2b-chamba-talent-s.a.c.-1118487600.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-senior-b2b-chamba-talent-s.a.c.-1118487600.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f4cd; San Miguel\u003c/p\u003e\u003cp\u003e\u0026#x1f552; L–V 8:30 a.m. – 6:00 p.m.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado en Negocios Internacionales, Comercio Exterior, Administración, Marketing o afines.\u003c/li\u003e \u003cli\u003e3 años de experiencia en ventas B2B (deseable logística/transporte internacional).\u003c/li\u003e \u003cli\u003eInglés y portugués intermedio.\u003c/li\u003e \u003cli\u003eManejo de CRM y gestión por KPIs.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eProspección estratégica y generación de demanda \u003c/li\u003e \u003cli\u003eGestión del proceso comercial y cierre de negocios.\u003c/li\u003e \u003cli\u003eElaboración de propuestas y licitaciones.\u003c/li\u003e \u003cli\u003eOnboarding y fidelización de clientes.\u003c/li\u003e \u003cli\u003eGestión comercial basada en datos (CRM, forecast, KPIs).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo fijo\u003c/li\u003e \u003cli\u003eVariable por cumplimiento\u003c/li\u003e \u003cli\u003eBeneficios completos de ley.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

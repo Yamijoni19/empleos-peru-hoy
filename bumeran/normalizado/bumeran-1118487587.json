@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118487587",
+    "clave":  "id:1118487587",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/profesional-comercial-cursos-online-y-desarrollo-personal-esencia-fuerza-1118487587.html",
+                   "capturadoEn":  "2026-10-21T07:39:22+00:00"
+               },
+    "titulo":  "Profesional Comercial - Cursos Online y Desarrollo Personal",
+    "empresa":  "ESENCIA FUERZA",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  3600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 3,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Profesional Comercial - Cursos Online y Desarrollo Personal Resumen del Puesto Buscamos un profesional con experiencia comercial para impulsar las inscripciones en nuestros cursos online, círculos de estudio, talleres y retiros de desarrollo personal. El candidato ideal será proactivo, con iniciativa para vender, generar oportunidades comerciales, desarrollar alianzas y ejecutar campañas que produzcan resultados. Responsabilidades Impulsar las inscripciones en programas de formación y desarrollo personal. Generar y desarrollar oportunidades comerciales. Establecer y mantener alianzas estratégicas. Ejecutar campañas orientadas a la consecución de objetivos. Realizar seguimiento de resultados y optimizar estrategias. Requisitos Experiencia comprobable en ventas de cursos, talleres, eventos, servicios o programas educativos. Sólidas habilidades comerciales, de negociación y desarrollo de alianzas. Conocimiento práctico de estrategias de captación digital, incluyendo Meta Ads. Autonomía, iniciativa y una clara orientación a resultados. Se valorará afinidad con el ámbito de la educación, el bienestar y el desarrollo personal. Modalidad de trabajo remota, basada en objetivos y resultados.",
+    "requisitos":  [
+                       "Experiencia comprobable en ventas de cursos, talleres, eventos, servicios o programas educativos",
+                       "Sólidas habilidades comerciales, de negociación y desarrollo de alianzas",
+                       "Conocimiento práctico de estrategias de captación digital, incluyendo Meta Ads",
+                       "Autonomía, iniciativa y una clara orientación a resultados",
+                       "Se valorará afinidad con el ámbito de la educación, el bienestar y el desarrollo personal",
+                       "Modalidad de trabajo remota, basada en objetivos y resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/profesional-comercial-cursos-online-y-desarrollo-personal-esencia-fuerza-1118487587.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/profesional-comercial-cursos-online-y-desarrollo-personal-esencia-fuerza-1118487587.html",
+    "descripcion_html":  "\u003cb\u003eProfesional Comercial - Cursos Online y Desarrollo Personal\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional con experiencia comercial para impulsar las inscripciones en nuestros cursos online, círculos de estudio, talleres y retiros de desarrollo personal. El candidato ideal será proactivo, con iniciativa para vender, generar oportunidades comerciales, desarrollar alianzas y ejecutar campañas que produzcan resultados.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eImpulsar las inscripciones en programas de formación y desarrollo personal.\u003c/li\u003e \u003cli\u003eGenerar y desarrollar oportunidades comerciales.\u003c/li\u003e \u003cli\u003eEstablecer y mantener alianzas estratégicas.\u003c/li\u003e \u003cli\u003eEjecutar campañas orientadas a la consecución de objetivos.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de resultados y optimizar estrategias.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en ventas de cursos, talleres, eventos, servicios o programas educativos.\u003c/li\u003e \u003cli\u003eSólidas habilidades comerciales, de negociación y desarrollo de alianzas.\u003c/li\u003e \u003cli\u003eConocimiento práctico de estrategias de captación digital, incluyendo Meta Ads.\u003c/li\u003e \u003cli\u003eAutonomía, iniciativa y una clara orientación a resultados.\u003c/li\u003e \u003cli\u003eSe valorará afinidad con el ámbito de la educación, el bienestar y el desarrollo personal.\u003c/li\u003e \u003cli\u003eModalidad de trabajo remota, basada en objetivos y resultados.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

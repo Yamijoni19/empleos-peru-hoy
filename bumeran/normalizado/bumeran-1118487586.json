@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118487586",
+    "clave":  "id:1118487586",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-programacion-b2c-solgas-s.a.-1118487586.html",
+                   "capturadoEn":  "2026-10-21T07:39:23+00:00"
+               },
+    "titulo":  "ASISTENTE DE PROGRAMACIÓN B2C",
+    "empresa":  "SOLGAS S.A.",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Solgas, somos parte de una empresa líder en el sector energético, comprometida con brindar soluciones seguras, eficientes y sostenibles para nuestros clientes. Nos enfocamos en desarrollar talento, impulsar la innovación y vivir nuestro propósito a través de una cultura basada en valores, seguridad y mejora continua. Funciones: Elaborar la programación diaria de pedidos Realizar la asignación de pedidos. Gestión de pedidos adicionales. Realizar el monitoreo de ruta. Validar el uso de flota correcto. Cumplir con la Política de Prevención del Delitos, los controles aplicables a sus procesos, participar en las capacitaciones y otras actividades relacionadas al SPD. Requisitos: Profesional en Ingeniería Industrial, Administración o carreras afines. Experiencia de 1 año en posiciones similares y 2 años de experiencia general. Conocimiento en Logística y Programación, Excel a nivel intermedio. Conocimiento en SAP a nivel básico.",
+    "requisitos":  [
+                       "Profesional en Ingeniería Industrial, Administración o carreras afines",
+                       "Experiencia de 1 año en posiciones similares y 2 años de experiencia general",
+                       "Conocimiento en Logística y Programación, Excel a nivel intermedio",
+                       "Conocimiento en SAP a nivel básico"
+                   ],
+    "funciones":  [
+                      "Elaborar la programación diaria de pedidos",
+                      "Realizar la asignación de pedidos",
+                      "Gestión de pedidos adicionales",
+                      "Realizar el monitoreo de ruta",
+                      "Validar el uso de flota correcto",
+                      "Cumplir con la Política de Prevención del Delitos, los controles aplicables a sus procesos, participar en las capacitaciones y otras actividades relacionadas al SPD"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-programacion-b2c-solgas-s.a.-1118487586.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-programacion-b2c-solgas-s.a.-1118487586.html",
+    "descripcion_html":  "\u003cp\u003eEn Solgas, somos parte de una empresa líder en el sector energético, comprometida con brindar soluciones seguras, eficientes y sostenibles para nuestros clientes. Nos enfocamos en desarrollar talento, impulsar la innovación y vivir nuestro propósito a través de una cultura basada en valores, seguridad y mejora continua.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar la programación diaria de pedidos\u003c/li\u003e \u003cli\u003eRealizar la asignación de pedidos.\u003c/li\u003e \u003cli\u003eGestión de pedidos adicionales.\u003c/li\u003e \u003cli\u003eRealizar el monitoreo de ruta.\u003c/li\u003e \u003cli\u003eValidar el uso de flota correcto.\u003c/li\u003e \u003cli\u003eCumplir con la Política de Prevención del Delitos, los controles aplicables a sus procesos, participar en las capacitaciones y otras actividades relacionadas al SPD.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional en Ingeniería Industrial, Administración o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia de 1 año en posiciones similares y 2 años de experiencia general.\u003c/li\u003e \u003cli\u003eConocimiento en Logística y Programación, Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eConocimiento en SAP a nivel básico.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

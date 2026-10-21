@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118487596",
+    "clave":  "id:1118487596",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operadora-de-central-telefonica-1118487596.html",
+                   "capturadoEn":  "2026-10-21T07:39:14+00:00"
+               },
+    "titulo":  "Operadora de Central Telefónica",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1400",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "REQUISITOS: - Estudios Técnicos o Universitarios en proceso o truncos en Administracion, Negocios, Comunicaciones, ó afines - 1 año de experiencia en Call Center, atención al cliente o puestos afines. - Conocimiento de CRM. - Dominio de office y plataforma G Suite. FUNCIONES PRINCIPALES: - Reportes semanales de contactabilidad y leads derivados. - Reportes mensuales de gestión de contactos. - Manejo de CRM y carga de contactos a Google Drive. - Convocatoria para eventos y/o ventas virtuales.",
+    "requisitos":  [
+                       "Estudios Técnicos o Universitarios en proceso o truncos en Administracion, Negocios, Comunicaciones, ó afines",
+                       "1 año de experiencia en Call Center, atención al cliente o puestos afines",
+                       "Conocimiento de CRM",
+                       "Dominio de office y plataforma G Suite"
+                   ],
+    "funciones":  [
+                      "PRINCIPALES",
+                      "Reportes semanales de contactabilidad y leads derivados",
+                      "Reportes mensuales de gestión de contactos",
+                      "Manejo de CRM y carga de contactos a Google Drive",
+                      "Convocatoria para eventos y/o ventas virtuales"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operadora-de-central-telefonica-1118487596.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operadora-de-central-telefonica-1118487596.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Estudios Técnicos o Universitarios en proceso o truncos en Administracion, Negocios, Comunicaciones, ó afines\u003c/p\u003e\u003cp\u003e- 1 año de experiencia en Call Center, atención al cliente o puestos afines.\u003c/p\u003e\u003cp\u003e- Conocimiento de CRM.\u003c/p\u003e\u003cp\u003e- Dominio de office y plataforma G Suite.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES PRINCIPALES:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Reportes semanales de contactabilidad y leads derivados.\u003c/p\u003e\u003cp\u003e- Reportes mensuales de gestión de contactos.\u003c/p\u003e\u003cp\u003e- Manejo de CRM y carga de contactos a Google Drive.\u003c/p\u003e\u003cp\u003e- Convocatoria para eventos y/o ventas virtuales.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
