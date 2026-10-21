@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118489528",
+    "clave":  "id:1118489528",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/representante-comercial-corp-geinsa-1118489528.html",
+                   "capturadoEn":  "2026-10-21T18:38:56+00:00"
+               },
+    "titulo":  "Representante Comercial",
+    "empresa":  "Corp Geinsa",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 4,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Representante Comercial Resumen del Puesto Buscamos un Representante Comercial proactivo y orientado a resultados para unirse a nuestro equipo. El candidato ideal poseerá excelentes habilidades de comunicación y negociación, con un enfoque en la construcción de relaciones sólidas con los clientes. Responsabilidades Principales Prospección y Búsqueda: Identificar clientes potenciales, analizar el mercado y contactar a nuevas empresas y consumidores. Promoción y Asesoría: Explicar las características, ventajas y usos de los productos y servicios de forma clara y adaptada a las necesidades del cliente. Fidelización y Postventa: Dar seguimiento a los compradores, resolver incidencias y asegurar la satisfacción a largo plazo para lograr recompras. Análisis de la Competencia: Recoger información del mercado y evaluar las estrategias de otras marcas para proponer mejoras. Requisitos Experiencia previa en ventas o atención al cliente. Excelentes habilidades de comunicación verbal y escrita. Capacidad para persuadir y negociar eficazmente. Orientación a la consecución de objetivos. Habilidad para trabajar de forma autónoma y en equipo. Proactividad y dinamismo.",
+    "requisitos":  [
+                       "Experiencia previa en ventas o atención al cliente",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad para persuadir y negociar eficazmente",
+                       "Orientación a la consecución de objetivos",
+                       "Habilidad para trabajar de forma autónoma y en equipo",
+                       "Proactividad y dinamismo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/representante-comercial-corp-geinsa-1118489528.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/representante-comercial-corp-geinsa-1118489528.html",
+    "descripcion_html":  "\u003cb\u003eRepresentante Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eRepresentante Comercial\u003c/b\u003e proactivo y orientado a resultados para unirse a nuestro equipo. El candidato ideal poseerá excelentes habilidades de comunicación y negociación, con un enfoque en la construcción de relaciones sólidas con los clientes.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003eProspección y Búsqueda:\u003c/b\u003e Identificar clientes potenciales, analizar el mercado y contactar a nuevas empresas y consumidores.\u003c/li\u003e \u003cli\u003e\u003cb\u003ePromoción y Asesoría:\u003c/b\u003e Explicar las características, ventajas y usos de los productos y servicios de forma clara y adaptada a las necesidades del cliente.\u003c/li\u003e \u003cli\u003e\u003cb\u003eFidelización y Postventa:\u003c/b\u003e Dar seguimiento a los compradores, resolver incidencias y asegurar la satisfacción a largo plazo para lograr recompras.\u003c/li\u003e \u003cli\u003e\u003cb\u003eAnálisis de la Competencia:\u003c/b\u003e Recoger información del mercado y evaluar las estrategias de otras marcas para proponer mejoras.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en ventas o atención al cliente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para persuadir y negociar eficazmente.\u003c/li\u003e \u003cli\u003eOrientación a la consecución de objetivos.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eProactividad y dinamismo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118489502",
+    "clave":  "id:1118489502",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/soldador-homologado-tracy-zuniga-1118489502.html",
+                   "capturadoEn":  "2026-10-21T18:39:17+00:00"
+               },
+    "titulo":  "Soldador Homologado",
+    "empresa":  "Tracy Zuñiga",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3500,
+                    "max":  3501,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,500 - S/ 3,501",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Soldador Homologado Resumen del Puesto Buscamos un Soldador Homologado con experiencia comprobada en soldadura 3G y 4G para unirse a nuestro equipo. El candidato ideal poseerá las certificaciones necesarias y demostrará un alto nivel de habilidad técnica y compromiso con la seguridad. Responsabilidades Realizar tareas de soldadura de acuerdo a especificaciones técnicas y normativas de seguridad. Operar equipos de soldadura de manera eficiente y segura. Inspeccionar y mantener el equipo de soldadura. Colaborar con otros miembros del equipo para asegurar la finalización exitosa de los proyectos. Garantizar la calidad y la integridad de las uniones soldadas. Requisitos Certificación como Soldador Homologado, con experiencia específica en procesos 3G y 4G. Mínimo de 3 años de experiencia relevante en el oficio. Conocimiento de diferentes materiales y técnicas de soldadura. Capacidad para leer e interpretar planos técnicos. Compromiso con las normas de seguridad y salud ocupacional. Habilidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Certificación como Soldador Homologado, con experiencia específica en procesos 3G y 4G",
+                       "Mínimo de 3 años de experiencia relevante en el oficio",
+                       "Conocimiento de diferentes materiales y técnicas de soldadura",
+                       "Capacidad para leer e interpretar planos técnicos",
+                       "Compromiso con las normas de seguridad y salud ocupacional",
+                       "Habilidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/soldador-homologado-tracy-zuniga-1118489502.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/soldador-homologado-tracy-zuniga-1118489502.html",
+    "descripcion_html":  "\u003cb\u003eSoldador Homologado\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eSoldador Homologado\u003c/b\u003e con experiencia comprobada en soldadura 3G y 4G para unirse a nuestro equipo. El candidato ideal poseerá las certificaciones necesarias y demostrará un alto nivel de habilidad técnica y compromiso con la seguridad.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar tareas de soldadura de acuerdo a especificaciones técnicas y normativas de seguridad.\u003c/li\u003e \u003cli\u003eOperar equipos de soldadura de manera eficiente y segura.\u003c/li\u003e \u003cli\u003eInspeccionar y mantener el equipo de soldadura.\u003c/li\u003e \u003cli\u003eColaborar con otros miembros del equipo para asegurar la finalización exitosa de los proyectos.\u003c/li\u003e \u003cli\u003eGarantizar la calidad y la integridad de las uniones soldadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eCertificación como Soldador Homologado, con experiencia específica en procesos 3G y 4G.\u003c/li\u003e \u003cli\u003eMínimo de 3 años de experiencia relevante en el oficio.\u003c/li\u003e \u003cli\u003eConocimiento de diferentes materiales y técnicas de soldadura.\u003c/li\u003e \u003cli\u003eCapacidad para leer e interpretar planos técnicos.\u003c/li\u003e \u003cli\u003eCompromiso con las normas de seguridad y salud ocupacional.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

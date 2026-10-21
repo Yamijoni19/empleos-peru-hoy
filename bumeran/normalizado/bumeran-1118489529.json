@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118489529",
+    "clave":  "id:1118489529",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/superintendente-de-geologia-aimtalent-s.a.c.-1118489529.html",
+                   "capturadoEn":  "2026-10-21T18:38:55+00:00"
+               },
+    "titulo":  "Superintendente de Geología",
+    "empresa":  "AIMTALENT S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Descripción del puesto Importante compañía de gran minería en Perú busca incorporar un(a) Superintendente de Geología para liderar un rol estratégico dentro de sus operaciones. Se requiere sólida trayectoria en el sector minero y experiencia en posiciones de alta responsabilidad. La posición tiene como objetivo principal planificar, organizar y dirigir la gestión geológica del yacimiento, asegurando la captura, interpretación y modelamiento de información para optimizar la producción, controlar la dilución y garantizar la calidad del mineral y la recuperación metalúrgica esperada, en estricto cumplimiento de las políticas corporativas y estándares de seguridad, salud ocupacional y medio ambiente. Funciones principales Dirigir la gestión de información geológica del yacimiento, asegurando su actualización y registro. Coordinar el planeamiento y ejecución del minado, velando por el cumplimiento de las metas de producción. Supervisar y realizar el control de calidad del mineral y la confiabilidad de los resultados de los ensayos químicos. Garantizar el cumplimiento de la cuota de mineral programado en el Budget anual estimado. Requisitos Profesional en Ingeniería Geológica y/o carreras afines, Titulado y colegiado. Experiencia mayor a 5 años en compañías de mediana minería subterránea, en posiciones similares y liderando equipos de trabajo.",
+    "requisitos":  [
+                       "Profesional en Ingeniería Geológica y/o carreras afines, Titulado y colegiado",
+                       "Experiencia mayor a 5 años en compañías de mediana minería subterránea, en posiciones similares y liderando equipos de trabajo"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Dirigir la gestión de información geológica del yacimiento, asegurando su actualización y registro",
+                      "Coordinar el planeamiento y ejecución del minado, velando por el cumplimiento de las metas de producción",
+                      "Supervisar y realizar el control de calidad del mineral y la confiabilidad de los resultados de los ensayos químicos",
+                      "Garantizar el cumplimiento de la cuota de mineral programado en el Budget anual estimado"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/superintendente-de-geologia-aimtalent-s.a.c.-1118489529.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/superintendente-de-geologia-aimtalent-s.a.c.-1118489529.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eDescripción del puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eImportante compañía de gran minería en Perú busca incorporar un(a) \u003cstrong\u003eSuperintendente de Geología\u003c/strong\u003e para liderar un rol estratégico dentro de sus operaciones. Se requiere sólida trayectoria en el sector minero y experiencia en posiciones de alta responsabilidad.\u003c/p\u003e\u003cp\u003eLa posición tiene como objetivo principal planificar, organizar y dirigir la gestión geológica del yacimiento, asegurando la captura, interpretación y modelamiento de información para optimizar la producción, controlar la dilución y garantizar la calidad del mineral y la recuperación metalúrgica esperada, en estricto cumplimiento de las políticas corporativas y estándares de seguridad, salud ocupacional y medio ambiente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDirigir la gestión de información geológica del yacimiento, asegurando su actualización y registro.\u003c/li\u003e \u003cli\u003eCoordinar el planeamiento y ejecución del minado, velando por el cumplimiento de las metas de producción.\u003c/li\u003e \u003cli\u003eSupervisar y realizar el control de calidad del mineral y la confiabilidad de los resultados de los ensayos químicos.\u003c/li\u003e \u003cli\u003eGarantizar el cumplimiento de la cuota de mineral programado en el Budget anual estimado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional en Ingeniería Geológica y/o carreras afines, Titulado y colegiado.\u003c/li\u003e \u003cli\u003eExperiencia mayor a 5 años en compañías de mediana minería subterránea, en posiciones similares y liderando equipos de trabajo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

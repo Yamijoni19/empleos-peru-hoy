@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118489516",
+    "clave":  "id:1118489516",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-logistica-y-transporte-rex-group-logistic-1118489516.html",
+                   "capturadoEn":  "2026-10-21T18:39:04+00:00"
+               },
+    "titulo":  "Ejecutivo Comercial - Logística y Transporte",
+    "empresa":  "REX GROUP LOGISTIC",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ejecutivo Comercial - Logística y Transporte Resumen del Puesto Buscamos un(a) profesional con experiencia en el sector de transporte de carga y logística. El candidato ideal poseerá una cartera de clientes activa y demostrada capacidad para generar nuevas oportunidades de negocio y concretar acuerdos comerciales. Responsabilidades Desarrollar y mantener relaciones comerciales sólidas con clientes existentes y potenciales. Identificar y prospectar nuevas oportunidades de negocio en el sector de transporte de carga y logística. Negociar y cerrar acuerdos comerciales, asegurando el cumplimiento de los objetivos de venta. Gestionar y expandir una cartera de clientes activa. Colaborar con otros equipos para garantizar la satisfacción del cliente y la eficiencia operativa. Requisitos Experiencia comercial comprobada en el sector de transporte de carga, logística o distribución. Portafolio de clientes activo y verificable. Sólida red de contactos con empresas que generen carga de manera recurrente. Excelentes habilidades de negociación, prospección y cierre de ventas. Orientación a resultados y capacidad demostrada para trabajar por objetivos. Habilidad para desarrollar y mantener relaciones comerciales efectivas.",
+    "requisitos":  [
+                       "Experiencia comercial comprobada en el sector de transporte de carga, logística o distribución",
+                       "Portafolio de clientes activo y verificable",
+                       "Sólida red de contactos con empresas que generen carga de manera recurrente",
+                       "Excelentes habilidades de negociación, prospección y cierre de ventas",
+                       "Orientación a resultados y capacidad demostrada para trabajar por objetivos",
+                       "Habilidad para desarrollar y mantener relaciones comerciales efectivas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-logistica-y-transporte-rex-group-logistic-1118489516.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-logistica-y-transporte-rex-group-logistic-1118489516.html",
+    "descripcion_html":  "\u003cb\u003eEjecutivo Comercial - Logística y Transporte\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) profesional con experiencia en el sector de transporte de carga y logística. El candidato ideal poseerá una cartera de clientes activa y demostrada capacidad para generar nuevas oportunidades de negocio y concretar acuerdos comerciales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar y mantener relaciones comerciales sólidas con clientes existentes y potenciales.\u003c/li\u003e \u003cli\u003eIdentificar y prospectar nuevas oportunidades de negocio en el sector de transporte de carga y logística.\u003c/li\u003e \u003cli\u003eNegociar y cerrar acuerdos comerciales, asegurando el cumplimiento de los objetivos de venta.\u003c/li\u003e \u003cli\u003eGestionar y expandir una cartera de clientes activa.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para garantizar la satisfacción del cliente y la eficiencia operativa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comercial comprobada en el sector de transporte de carga, logística o distribución.\u003c/li\u003e \u003cli\u003ePortafolio de clientes activo y verificable.\u003c/li\u003e \u003cli\u003eSólida red de contactos con empresas que generen carga de manera recurrente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de negociación, prospección y cierre de ventas.\u003c/li\u003e \u003cli\u003eOrientación a resultados y capacidad demostrada para trabajar por objetivos.\u003c/li\u003e \u003cli\u003eHabilidad para desarrollar y mantener relaciones comerciales efectivas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
