@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118487619",
+    "clave":  "id:1118487619",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingenieroa-de-diseno-civil-estructural-1118487619.html",
+                   "capturadoEn":  "2026-10-21T01:35:56+00:00"
+               },
+    "titulo":  "Ingeniero(a) de Diseño Civil Estructural",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa de ingeniería y consultoría especializada en proyectos para los sectores de minería, energía, infraestructura e industria se encuentra en búsqueda de un(a) Ingeniero(a) Civil Estructural para incorporarse a su equipo multidisciplinario. Principales responsabilidades Desarrollar documentos de ingeniería estructural, incluyendo memorias de cálculo, especificaciones técnicas, listados de materiales y metrados. Elaborar cálculos estructurales mediante software especializado y herramientas de análisis. Coordinar con proyectistas y diseñadores para el desarrollo de planos de ingeniería. Revisar entregables multidisciplinarios garantizando el cumplimiento de estándares de calidad. Participar en reuniones de coordinación técnica con equipos de proyecto. Contribuir al desarrollo de soluciones estructurales para proyectos de minería, energía, infraestructura e industria. Requisitos Titulado(a) y colegiado(a) en Ingeniería Civil. Experiencia mínima de 7 a 10 años en diseño civil - estructural. Experiencia en diseño de estructuras de concreto armado y acero estructural para proyectos mineros e industriales. Conocimiento de normativas y estándares aplicables a los sectores de minería e industria. Manejo intermedio o avanzado de:ETABS SAP2000 SAFE AutoCAD Microsoft Office Inglés intermedio o avanzado (deseable).",
+    "requisitos":  [
+                       "Titulado(a) y colegiado(a) en Ingeniería Civil",
+                       "Experiencia mínima de 7 a 10 años en diseño civil - estructural",
+                       "Experiencia en diseño de estructuras de concreto armado y acero estructural para proyectos mineros e industriales",
+                       "Conocimiento de normativas y estándares aplicables a los sectores de minería e industria",
+                       "Manejo intermedio o avanzado de:ETABS SAP2000 SAFE AutoCAD Microsoft Office",
+                       "Inglés intermedio o avanzado (deseable)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingenieroa-de-diseno-civil-estructural-1118487619.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingenieroa-de-diseno-civil-estructural-1118487619.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa de ingeniería y consultoría especializada en proyectos para los sectores de minería, energía, infraestructura e industria se encuentra en búsqueda de un(a) \u003cstrong\u003eIngeniero(a) Civil Estructural \u003c/strong\u003e para incorporarse a su equipo multidisciplinario.\u003c/p\u003e\u003cp\u003ePrincipales responsabilidades\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar documentos de ingeniería estructural, incluyendo memorias de cálculo, especificaciones técnicas, listados de materiales y metrados.\u003c/li\u003e \u003cli\u003eElaborar cálculos estructurales mediante software especializado y herramientas de análisis.\u003c/li\u003e \u003cli\u003eCoordinar con proyectistas y diseñadores para el desarrollo de planos de ingeniería.\u003c/li\u003e \u003cli\u003eRevisar entregables multidisciplinarios garantizando el cumplimiento de estándares de calidad.\u003c/li\u003e \u003cli\u003eParticipar en reuniones de coordinación técnica con equipos de proyecto.\u003c/li\u003e \u003cli\u003eContribuir al desarrollo de soluciones estructurales para proyectos de minería, energía, infraestructura e industria.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eTitulado(a) y colegiado(a) en Ingeniería Civil.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 7 a 10 años en diseño civil - estructural.\u003c/li\u003e \u003cli\u003eExperiencia en diseño de estructuras de concreto armado y acero estructural para proyectos mineros e industriales.\u003c/li\u003e \u003cli\u003eConocimiento de normativas y estándares aplicables a los sectores de minería e industria.\u003c/li\u003e \u003cli\u003eManejo intermedio o avanzado de:ETABS SAP2000 SAFE AutoCAD Microsoft Office \u003c/li\u003e \u003cli\u003eInglés intermedio o avanzado (deseable).\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 7 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
