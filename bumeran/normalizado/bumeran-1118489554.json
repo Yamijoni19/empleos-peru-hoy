@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118489554",
+    "clave":  "id:1118489554",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-ventas-culqi-planilla-bcp-lima-norte-manpowergroup-1118489554.html",
+                   "capturadoEn":  "2026-10-21T13:48:19+00:00"
+               },
+    "titulo":  "Ejecutivo(a) de Ventas Culqi // Planilla BCP // Lima Norte",
+    "empresa":  "MANPOWERGROUP",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Desarrolla tu carrera comercial en el banco líder del país. En BCP buscamos personas con talento comercial que quieran asumir nuevos retos, generar relaciones con clientes y construir una carrera de largo plazo dentro del sector financiero. Como Ejecutivo(a) de Ventas Culqi , serás responsable de asesorar a negocios y emprendedores, acercándoles soluciones de pago que impulsen el crecimiento de sus empresas. ¿Qué buscamos? Secundaria completa. Experiencia mínima de 6 meses en ventas. Disponibilidad para realizar trabajo en campo. Actitud comercial, orientación a resultados y gusto por relacionarte con clientes. ¿Qué ofrecemos? ✅ Ingreso directo a planilla BCP desde el primer día. ✅ Incentivos económicos por desempeño. ✅ Bono por movilidad. ✅ Utilidades. ✅ Beneficios corporativos. ✅ Capacitación permanente. ✅ Línea de carrera dentro de BCP y Grupo Credicorp. Si buscas una oportunidad donde tu desempeño marque la diferencia y te permita crecer profesionalmente, esta es tu oportunidad.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "corporativos",
+                       "✅ Capacitación permanente",
+                       "✅ Línea de carrera dentro de BCP y Grupo Credicorp",
+                       "Si buscas una oportunidad donde tu desempeño marque la diferencia y te permita crecer profesionalmente, esta es tu oportunidad"
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-ventas-culqi-planilla-bcp-lima-norte-manpowergroup-1118489554.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-ventas-culqi-planilla-bcp-lima-norte-manpowergroup-1118489554.html",
+    "descripcion_html":  "\u003cp\u003eDesarrolla tu carrera comercial en el banco líder del país.\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eBCP\u003c/strong\u003e buscamos personas con talento comercial que quieran asumir nuevos retos, generar relaciones con clientes y construir una carrera de largo plazo dentro del sector financiero.\u003c/p\u003e\u003cp\u003eComo \u003cstrong\u003eEjecutivo(a) de Ventas Culqi\u003c/strong\u003e, serás responsable de asesorar a negocios y emprendedores, acercándoles soluciones de pago que impulsen el crecimiento de sus empresas.\u003c/p\u003e\u003cp\u003e¿Qué buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en ventas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eDisponibilidad para realizar trabajo en campo.\u003c/p\u003e\u003cp\u003eActitud comercial, orientación a resultados y gusto por relacionarte con clientes.\u003c/p\u003e\u003cp\u003e¿Qué ofrecemos?\u003c/p\u003e\u003cp\u003e\u0026#x2705; Ingreso directo a planilla BCP desde el primer día.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Incentivos económicos por desempeño.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Bono por movilidad.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Utilidades.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Beneficios corporativos.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Capacitación permanente.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Línea de carrera dentro de BCP y Grupo Credicorp.\u003c/p\u003e\u003cp\u003eSi buscas una oportunidad donde tu desempeño marque la diferencia y te permita crecer profesionalmente, \u003cstrong\u003eesta es tu oportunidad.\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
