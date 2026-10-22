@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118456275",
+    "clave":  "id:1118456275",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-contabilidad-grupo-rokys-1118456275.html",
+                   "capturadoEn":  "2026-10-22T01:32:41+00:00"
+               },
+    "titulo":  "Practicante Profesional de Contabilidad",
+    "empresa":  "GRUPO ROKYS",
+    "ubicacion":  "Lima - Distrito de San Luis",
+    "ciudad":  "Distrito de San Luis",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡SÉ PARTE DE GRUPO ROKY’S Y VIVE LA EXPERIENCIA! En Grupo Roky’s , cadena de restaurantes con presencia a nivel nacional y marcas como Roky’s, Rodizio, Brass, Viena, Corner, Asado Argentino, Scencia, Limaq, Rida y Princes , nos encontramos en la búsqueda de un PRACTICANTE DE CONTABILIDAD para unirse a nuestro equipo. Requisitos Técnico o egresado universitario de Contabilidad. Deseable experiencia de 6 meses como Practicante de Contabilidad. Manejo de Excel a nivel intermedio. Disponibilidad para practicar en el distrito de San Luis de lunes a viernes (48 horas semanales). Beneficios Remuneración acorde al mercado. Pagos quincenales. Seguro FOLA. Si estas interesado y cumples con el perfil, no dudes en postular dejando tu CV. ¡Éxitos!",
+    "requisitos":  [
+                       "Técnico o egresado universitario de Contabilidad",
+                       "Deseable experiencia de 6 meses como Practicante de Contabilidad",
+                       "Manejo de Excel a nivel intermedio",
+                       "Disponibilidad para practicar en el distrito de San Luis de lunes a viernes (48 horas semanales)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Remuneración acorde al mercado",
+                       "Pagos quincenales",
+                       "Seguro FOLA",
+                       "Si estas interesado y cumples con el"
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-contabilidad-grupo-rokys-1118456275.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-contabilidad-grupo-rokys-1118456275.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡SÉ PARTE DE GRUPO ROKY’S Y VIVE LA EXPERIENCIA!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eGrupo Roky’s\u003c/strong\u003e, cadena de restaurantes con presencia a nivel nacional y marcas como \u003cstrong\u003eRoky’s, Rodizio, Brass, Viena, Corner, Asado Argentino, Scencia, Limaq, Rida y Princes\u003c/strong\u003e, nos encontramos en la búsqueda de un \u003cstrong\u003ePRACTICANTE DE CONTABILIDAD\u003c/strong\u003e para unirse a nuestro equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico o egresado universitario de Contabilidad.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseable experiencia de 6 meses\u003c/strong\u003e como Practicante de Contabilidad.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eDisponibilidad para practicar en el distrito de San Luis de lunes a viernes (48 horas semanales).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003ePagos quincenales.\u003c/li\u003e \u003cli\u003eSeguro FOLA.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSi estas interesado y cumples con el perfil, no dudes en postular dejando tu CV. ¡Éxitos!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
