@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118491426",
+    "clave":  "id:1118491426",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/digitador-de-historias-clinicas-alfa-infinity-1118491426.html",
+                   "capturadoEn":  "2026-10-22T22:21:18+00:00"
+               },
+    "titulo":  "Digitador de Historias Clínicas",
+    "empresa":  "ALFA INFINITY",
+    "ubicacion":  "Ica - Pisco",
+    "ciudad":  "Pisco",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Digitador de Historias Clínicas Resumen del Puesto Buscamos un Digitador de Historias Clínicas para unirse a nuestro equipo. El candidato ideal será responsable de la digitalización, codificación y validación de las historias clínicas, asegurando la calidad, integridad y confidencialidad de la información, así como su correcta carga en el repositorio digital. Responsabilidades Digitalizar, codificar y validar historias clínicas. Garantizar la calidad, integridad y confidencialidad de la información. Realizar la carga correcta de la información en el repositorio digital. Colaborar con otros equipos para asegurar la precisión de los registros. Mantenerse actualizado sobre los procedimientos y normativas aplicables. Requisitos Experiencia previa en digitalización y manejo de información médica. Conocimiento de sistemas de gestión de historias clínicas. Atención al detalle y alta capacidad de organización. Habilidad para trabajar de forma metódica y eficiente. Compromiso con la confidencialidad y la protección de datos. Capacidad para trabajar de forma autónoma y como parte de un equipo.",
+    "requisitos":  [
+                       "Experiencia previa en digitalización y manejo de información médica",
+                       "Conocimiento de sistemas de gestión de historias clínicas",
+                       "Atención al detalle y alta capacidad de organización",
+                       "Habilidad para trabajar de forma metódica y eficiente",
+                       "Compromiso con la confidencialidad y la protección de datos",
+                       "Capacidad para trabajar de forma autónoma y como parte de un equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/digitador-de-historias-clinicas-alfa-infinity-1118491426.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/digitador-de-historias-clinicas-alfa-infinity-1118491426.html",
+    "descripcion_html":  "\u003cb\u003eDigitador de Historias Clínicas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDigitador de Historias Clínicas\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal será responsable de la digitalización, codificación y validación de las historias clínicas, asegurando la calidad, integridad y confidencialidad de la información, así como su correcta carga en el repositorio digital.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDigitalizar, codificar y validar historias clínicas.\u003c/li\u003e \u003cli\u003eGarantizar la calidad, integridad y confidencialidad de la información.\u003c/li\u003e \u003cli\u003eRealizar la carga correcta de la información en el repositorio digital.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para asegurar la precisión de los registros.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre los procedimientos y normativas aplicables.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en digitalización y manejo de información médica.\u003c/li\u003e \u003cli\u003eConocimiento de sistemas de gestión de historias clínicas.\u003c/li\u003e \u003cli\u003eAtención al detalle y alta capacidad de organización.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma metódica y eficiente.\u003c/li\u003e \u003cli\u003eCompromiso con la confidencialidad y la protección de datos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y como parte de un equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

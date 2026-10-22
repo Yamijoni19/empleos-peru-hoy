@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118491427",
+    "clave":  "id:1118491427",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-limpieza-doma-boutique-home-1118491427.html",
+                   "capturadoEn":  "2026-10-22T22:21:17+00:00"
+               },
+    "titulo":  "Asistente de Limpieza",
+    "empresa":  "Doma Boutique Home",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Limpieza Resumen del Puesto Buscamos un Asistente de Limpieza dedicado y detallista para unirse a nuestro equipo. El candidato ideal será responsable de mantener la limpieza y el orden en diversas áreas, asegurando un ambiente agradable y presentable. Responsabilidades Mantener en perfecto estado de limpieza y orden las habitaciones, baños y áreas comunes. Realizar tareas diarias como cambio de ropa de cama y toallas. Limpiar superficies, suelos y otras áreas designadas. Reponer amenidades y suministros según sea necesario. Revisar equipos y mobiliario para asegurar su buen estado y funcionamiento. Apoyar en la limpieza de zonas comunes como comedor, bar, terraza y salones. Asegurar una imagen impecable en todas las áreas de trabajo. Coordinar tareas con el equipo de recepción y operaciones. Requisitos Experiencia previa en puestos de limpieza es valorada. Atención al detalle y altos estándares de limpieza. Capacidad para trabajar de forma autónoma y en equipo. Habilidad para seguir instrucciones y procedimientos establecidos. Disponibilidad para trabajar a tiempo completo.",
+    "requisitos":  [
+                       "Experiencia previa en puestos de limpieza es valorada",
+                       "Atención al detalle y altos estándares de limpieza",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Habilidad para seguir instrucciones y procedimientos establecidos",
+                       "Disponibilidad para trabajar a tiempo completo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-limpieza-doma-boutique-home-1118491427.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-limpieza-doma-boutique-home-1118491427.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Limpieza\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Limpieza\u003c/b\u003e dedicado y detallista para unirse a nuestro equipo. El candidato ideal será responsable de mantener la limpieza y el orden en diversas áreas, asegurando un ambiente agradable y presentable.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eMantener en perfecto estado de limpieza y orden las habitaciones, baños y áreas comunes.\u003c/li\u003e \u003cli\u003eRealizar tareas diarias como cambio de ropa de cama y toallas.\u003c/li\u003e \u003cli\u003eLimpiar superficies, suelos y otras áreas designadas.\u003c/li\u003e \u003cli\u003eReponer amenidades y suministros según sea necesario.\u003c/li\u003e \u003cli\u003eRevisar equipos y mobiliario para asegurar su buen estado y funcionamiento.\u003c/li\u003e \u003cli\u003eApoyar en la limpieza de zonas comunes como comedor, bar, terraza y salones.\u003c/li\u003e \u003cli\u003eAsegurar una imagen impecable en todas las áreas de trabajo.\u003c/li\u003e \u003cli\u003eCoordinar tareas con el equipo de recepción y operaciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de limpieza es valorada.\u003c/li\u003e \u003cli\u003eAtención al detalle y altos estándares de limpieza.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eHabilidad para seguir instrucciones y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

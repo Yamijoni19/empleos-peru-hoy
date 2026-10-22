@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118491418",
+    "clave":  "id:1118491418",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-expedientes-por-proyecto-2-meses-en-planilla-miraflores-fiberlux-1118491418.html",
+                   "capturadoEn":  "2026-10-22T22:21:20+00:00"
+               },
+    "titulo":  "Técnico de expedientes por proyecto 2 meses en planilla - Miraflores",
+    "empresa":  "Fiberlux",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En FIBERLUX (INTERNET FIBRA ÓPTICA) nos encontramos en búsqueda del mejor talento para el puesto de: Técnico de expedientes ¿Que buscamos de ti? Estudiante universitario a partir del 6to ciclo de las carreras de Ingeniería o Arquitectura. Manejo de Google Earth (obligatorio) Curso de Autocad intermedio (obligatorio) Software Civil 3D (No indispensable) Proactivo con facilidad para comunicarse Disponibilidad para trabajar de lunes a viernes presencial de 9:00 am a 6:00 pm c/ 1h de refrigerio y sábados remoto de 9:00 am a 1:00 pm Con experiencia de 06 - 12 meses elaborando expedientes técnicos Disponibilidad para trabajar en Miraflores ¿Que ofrecemos? Salario fijo mensual Pagos a fin de mes. Planilla completa al 100%. (régimen general) Contratación por 2 meses (Proyecto) FUNCIONES: Realizar expedientes de despliegue de fibra aérea o canalizada. Presentación de documentos a las entidades correspondientes. Preparación de planos para canalizado y posterío. Otras funciones del área asignadas por el jefe inmediato. ¡Postula ya! y te estaremos contactando lo antes posible",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "del área asignadas por el jefe inmediato",
+                      "¡Postula ya! y te estaremos contactando lo antes posible"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-expedientes-por-proyecto-2-meses-en-planilla-miraflores-fiberlux-1118491418.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-expedientes-por-proyecto-2-meses-en-planilla-miraflores-fiberlux-1118491418.html",
+    "descripcion_html":  "\u003cp\u003eEn FIBERLUX (INTERNET FIBRA ÓPTICA) nos encontramos en búsqueda del mejor talento para el puesto de:\u003c/p\u003e\u003cp\u003eTécnico de expedientes\u003c/p\u003e\u003cp\u003e¿Que buscamos de ti?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante universitario a partir del 6to ciclo de las carreras de Ingeniería o Arquitectura.\u003c/li\u003e \u003cli\u003eManejo de Google Earth (obligatorio)\u003c/li\u003e \u003cli\u003eCurso de Autocad intermedio (obligatorio)\u003c/li\u003e \u003cli\u003eSoftware Civil 3D (No indispensable)\u003c/li\u003e \u003cli\u003eProactivo con facilidad para comunicarse\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de lunes a viernes presencial de 9:00 am a 6:00 pm c/ 1h de refrigerio y sábados remoto de 9:00 am a 1:00 pm\u003c/li\u003e \u003cli\u003eCon experiencia de 06 - 12 meses elaborando expedientes técnicos\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en Miraflores\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Que ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario fijo mensual\u003c/li\u003e \u003cli\u003ePagos a fin de mes.\u003c/li\u003e \u003cli\u003ePlanilla completa al 100%. (régimen general)\u003c/li\u003e \u003cli\u003eContratación por 2 meses (Proyecto)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFUNCIONES:\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar expedientes de despliegue de fibra aérea o canalizada.\u003c/li\u003e \u003cli\u003ePresentación de documentos a las entidades correspondientes.\u003c/li\u003e \u003cli\u003ePreparación de planos para canalizado y posterío.\u003c/li\u003e \u003cli\u003eOtras funciones del área asignadas por el jefe inmediato.\u003c/li\u003e \u003cli\u003e\u003cbr /\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Postula ya! y te estaremos contactando lo antes posible\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
