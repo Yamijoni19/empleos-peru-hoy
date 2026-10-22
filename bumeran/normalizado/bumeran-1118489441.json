@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118489441",
+    "clave":  "id:1118489441",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-banco-manpowergroup-peru-1118489441.html",
+                   "capturadoEn":  "2026-10-22T07:35:00+00:00"
+               },
+    "titulo":  "Atención al Cliente - Banco",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  200,
+                    "max":  200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/200",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Scotiabank busca Asesores de Servicios Bancarios Volante: Si cuentas con experiencia en atención al cliente, manejo de efectivo o ventas, esta es tu oportunidad. ✨ Beneficios: ✔ Planilla completa desde el primer día. ✔ Sueldo fijo + beneficios adicionales. ✔ Vale de alimentos S/200. ✔ Oportunidades de crecimiento y desarrollo. \u0026#x1f4cd; Vacantes presenciales en diversas sedes. ¡Postula ahora y forma parte de una de las principales entidades financieras del país!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "adicionales",
+                       "✔ Vale de alimentos S/200",
+                       "✔ Oportunidades de crecimiento y desarrollo",
+                       "\u0026#x1f4cd; Vacantes presenciales en diversas sedes",
+                       "¡Postula ahora y forma parte de una de las principales entidades financieras del país!"
+                   ],
+    "fecha_publicacion":  "2026-10-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-banco-manpowergroup-peru-1118489441.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-banco-manpowergroup-peru-1118489441.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eScotiabank busca Asesores de Servicios Bancarios Volante:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSi cuentas con experiencia en atención al cliente, manejo de efectivo o ventas, esta es tu oportunidad.\u003c/p\u003e\u003cp\u003e\u0026#x2728; Beneficios: \u003c/p\u003e\u003cp\u003e\u0026#x2714; Planilla completa desde el primer día. \u003c/p\u003e\u003cp\u003e\u0026#x2714; Sueldo fijo + beneficios adicionales. \u003c/p\u003e\u003cp\u003e\u0026#x2714; Vale de alimentos S/200. \u003c/p\u003e\u003cp\u003e\u0026#x2714; Oportunidades de crecimiento y desarrollo.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cd; Vacantes presenciales en diversas sedes.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Postula ahora y forma parte de una de las principales entidades financieras del país!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
