@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118491584",
+    "clave":  "id:1118491584",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-remoto-|-interbank-|-planilla-sueldo-fijo-s-1300-comisiones-sin-tope-1118491584.html",
+                   "capturadoEn":  "2026-10-22T13:48:21+00:00"
+               },
+    "titulo":  "Asesor Comercial REMOTO | Interbank | Planilla + Sueldo Fijo S/1300 + Comisiones sin tope",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1300",
+                    "fuente_salario":  "titulo"
+                },
+    "descripcion":  "¡Esta es tu oportunidad de desarrollarte en una importante empresa del sector financiero! Estamos buscando personas dinámicas, con habilidades comerciales y muchas ganas de crecer. Beneficios: \u0026#x1f4b0; Sueldo fijo de S/1300 . \u0026#x1f4b0; Comisiones ilimitadas. \u0026#x1f3af; Bonos por desempeño. \u0026#x1f4c4; Planilla desde el primer día. \u0026#x1f680; Línea de carrera. MODALIDAD 100% REMOTA Requisitos: Experiencia en ventas tangibles o intangibles. Facilidad de comunicación. Enfoque en resultados. Disponibilidad para trabajar de L-V : 9:00 AM - 6:30 PM /Sábados: 9:00 AM - 1:00 PM ¡Postula y sé parte de este gran equipo!",
+    "requisitos":  [
+                       "Experiencia en ventas tangibles o intangibles",
+                       "Facilidad de comunicación",
+                       "Enfoque en resultados",
+                       "Disponibilidad para trabajar de L-V : 9:00 AM - 6:30 PM /Sábados: 9:00 AM - 1:00 PM",
+                       "¡Postula y sé parte de este gran equipo!"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "\u0026#x1f4b0; Sueldo fijo de S/1300",
+                       "\u0026#x1f4b0; Comisiones ilimitadas",
+                       "\u0026#x1f3af; Bonos por desempeño",
+                       "\u0026#x1f4c4; Planilla desde el primer día",
+                       "\u0026#x1f680; Línea de carrera",
+                       "MODALIDAD 100% REMOTA"
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-remoto-|-interbank-|-planilla-sueldo-fijo-s-1300-comisiones-sin-tope-1118491584.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-remoto-|-interbank-|-planilla-sueldo-fijo-s-1300-comisiones-sin-tope-1118491584.html",
+    "descripcion_html":  "\u003cp\u003e¡Esta es tu oportunidad de desarrollarte en una importante empresa del sector financiero!\u003c/p\u003e\u003cp\u003eEstamos buscando personas dinámicas, con habilidades comerciales y muchas ganas de crecer.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u0026#x1f4b0; Sueldo fijo de \u003cstrong\u003eS/1300\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u0026#x1f4b0; Comisiones ilimitadas.\u003c/p\u003e\u003cp\u003e\u0026#x1f3af; Bonos por desempeño.\u003c/p\u003e\u003cp\u003e\u0026#x1f4c4; Planilla desde el primer día.\u003c/p\u003e\u003cp\u003e\u0026#x1f680; Línea de carrera.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMODALIDAD 100% REMOTA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas tangibles o intangibles.\u003c/li\u003e \u003cli\u003eFacilidad de comunicación.\u003c/li\u003e \u003cli\u003eEnfoque en resultados.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de L-V : 9:00 AM - 6:30 PM /Sábados: 9:00 AM - 1:00 PM\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Postula y sé parte de este gran equipo!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
