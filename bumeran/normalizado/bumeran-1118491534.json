@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118491534",
+    "clave":  "id:1118491534",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-admision-y-atencion-al-cliente-los-andes-jardin-bilingue-1118491534.html",
+                   "capturadoEn":  "2026-10-22T18:32:53+00:00"
+               },
+    "titulo":  "Asesora de Admisión y Atención al Cliente",
+    "empresa":  "LOS ANDES JARDIN BILINGUE",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1299,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,299 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesora de Admisión y Atención al Cliente Resumen del Puesto Estamos en la búsqueda de una profesional proactiva y con excelentes habilidades de comunicación para unirse a nuestro equipo como Asesora de Admisión y Atención al Cliente . El rol principal será brindar una experiencia excepcional a los potenciales clientes, gestionando el proceso de admisión y resolviendo consultas de manera eficiente. Responsabilidades Brindar atención personalizada a padres de familia, enfocándose en niños en etapa temprana. Realizar la gestión comercial y filtrar consultas recibidas a través de diversos canales de comunicación. Llevar a cabo la prospección de familias y el registro detallado de información en sistemas internos. Colaborar activamente con otros equipos para asegurar un proceso de admisión fluido y exitoso. Mantener un alto nivel de servicio al cliente en todas las interacciones. Requisitos Formación profesional en Psicología, Administración o carreras afines. Experiencia previa de al menos 6 meses en ventas, asesoría comercial o atención al público. Sólidas habilidades interpersonales y de comunicación. Capacidad para trabajar de forma organizada y metódica. Orientación a resultados y al cumplimiento de objetivos. Manejo de herramientas ofimáticas y sistemas de gestión.",
+    "requisitos":  [
+                       "Formación profesional en Psicología, Administración o carreras afines",
+                       "Experiencia previa de al menos 6 meses en ventas, asesoría comercial o atención al público",
+                       "Sólidas habilidades interpersonales y de comunicación",
+                       "Capacidad para trabajar de forma organizada y metódica",
+                       "Orientación a resultados y al cumplimiento de objetivos",
+                       "Manejo de herramientas ofimáticas y sistemas de gestión"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-admision-y-atencion-al-cliente-los-andes-jardin-bilingue-1118491534.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-admision-y-atencion-al-cliente-los-andes-jardin-bilingue-1118491534.html",
+    "descripcion_html":  "\u003cb\u003eAsesora de Admisión y Atención al Cliente\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una profesional proactiva y con excelentes habilidades de comunicación para unirse a nuestro equipo como \u003cb\u003eAsesora de Admisión y Atención al Cliente\u003c/b\u003e. El rol principal será brindar una experiencia excepcional a los potenciales clientes, gestionando el proceso de admisión y resolviendo consultas de manera eficiente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar atención personalizada a padres de familia, enfocándose en niños en etapa temprana.\u003c/li\u003e \u003cli\u003eRealizar la gestión comercial y filtrar consultas recibidas a través de diversos canales de comunicación.\u003c/li\u003e \u003cli\u003eLlevar a cabo la prospección de familias y el registro detallado de información en sistemas internos.\u003c/li\u003e \u003cli\u003eColaborar activamente con otros equipos para asegurar un proceso de admisión fluido y exitoso.\u003c/li\u003e \u003cli\u003eMantener un alto nivel de servicio al cliente en todas las interacciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación profesional en Psicología, Administración o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia previa de al menos 6 meses en ventas, asesoría comercial o atención al público.\u003c/li\u003e \u003cli\u003eSólidas habilidades interpersonales y de comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma organizada y metódica.\u003c/li\u003e \u003cli\u003eOrientación a resultados y al cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas y sistemas de gestión.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

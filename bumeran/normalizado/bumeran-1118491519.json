@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118491519",
+    "clave":  "id:1118491519",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-ssoma-minera-shouxin-peru-s.a-1118491519.html",
+                   "capturadoEn":  "2026-10-22T18:32:57+00:00"
+               },
+    "titulo":  "Asistente SSOMA",
+    "empresa":  "Minera Shouxin Peru S.A",
+    "ubicacion":  "Ica - Nazca",
+    "ciudad":  "Nazca",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4623,
+                    "max":  5890,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,623 - S/ 5,890",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente SSOMA Resumen del Puesto Nos encontramos en la búsqueda de profesionales para el área de seguridad, específicamente para el puesto de Asistente SSOMA . Buscamos personas con o sin experiencia previa que demuestren un fuerte compromiso con la seguridad y salud ocupacional y medio ambiente. Responsabilidades Apoyar en la implementación y seguimiento de políticas y procedimientos de SSOMA. Colaborar en la identificación de riesgos y la elaboración de planes de acción. Participar en inspecciones de seguridad y salud en el trabajo. Asistir en la elaboración de reportes e indicadores de gestión de SSOMA. Apoyar en la capacitación del personal en temas de seguridad y salud ocupacional. Verificar el cumplimiento de la normativa vigente en materia de SSOMA. Requisitos Formación técnica o universitaria en carreras afines a Seguridad, Salud Ocupacional y Medio Ambiente. Se valorará experiencia previa en el área de SSOMA, pero no es excluyente. Conocimiento de la normativa legal vigente en materia de seguridad y salud en el trabajo. Capacidad de análisis, proactividad y atención al detalle. Habilidades de comunicación y trabajo en equipo. Disponibilidad para integrarse a un equipo dinámico.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en carreras afines a Seguridad, Salud Ocupacional y Medio Ambiente",
+                       "Se valorará experiencia previa en el área de SSOMA, pero no es excluyente",
+                       "Conocimiento de la normativa legal vigente en materia de seguridad y salud en el trabajo",
+                       "Capacidad de análisis, proactividad y atención al detalle",
+                       "Habilidades de comunicación y trabajo en equipo",
+                       "Disponibilidad para integrarse a un equipo dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-ssoma-minera-shouxin-peru-s.a-1118491519.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-ssoma-minera-shouxin-peru-s.a-1118491519.html",
+    "descripcion_html":  "\u003cb\u003eAsistente SSOMA\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de profesionales para el área de seguridad, específicamente para el puesto de \u003cb\u003eAsistente SSOMA\u003c/b\u003e. Buscamos personas con o sin experiencia previa que demuestren un fuerte compromiso con la seguridad y salud ocupacional y medio ambiente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la implementación y seguimiento de políticas y procedimientos de SSOMA.\u003c/li\u003e \u003cli\u003eColaborar en la identificación de riesgos y la elaboración de planes de acción.\u003c/li\u003e \u003cli\u003eParticipar en inspecciones de seguridad y salud en el trabajo.\u003c/li\u003e \u003cli\u003eAsistir en la elaboración de reportes e indicadores de gestión de SSOMA.\u003c/li\u003e \u003cli\u003eApoyar en la capacitación del personal en temas de seguridad y salud ocupacional.\u003c/li\u003e \u003cli\u003eVerificar el cumplimiento de la normativa vigente en materia de SSOMA.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en carreras afines a Seguridad, Salud Ocupacional y Medio Ambiente.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa en el área de SSOMA, pero no es excluyente.\u003c/li\u003e \u003cli\u003eConocimiento de la normativa legal vigente en materia de seguridad y salud en el trabajo.\u003c/li\u003e \u003cli\u003eCapacidad de análisis, proactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para integrarse a un equipo dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

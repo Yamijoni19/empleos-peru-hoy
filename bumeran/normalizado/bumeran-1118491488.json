@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118491488",
+    "clave":  "id:1118491488",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/freelance-de-reclutamiento-y-seleccion-staff-y-mandos-medios-1118491488.html",
+                   "capturadoEn":  "2026-10-22T18:33:02+00:00"
+               },
+    "titulo":  "Freelance de reclutamiento y selección / Staff y Mandos Medios",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  1900,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,900 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Importante empresa de servicios, se encuentra en la búsqueda de 1 Freelances de Reclutamiento y selección. Funciones: Actualizar la base de datos de los procesos y feedback. Difusión de la oferta laboral en las diferentes fuentes de reclutamiento. Filtro curricular, Hunting, screening telefónico y presentación de avances o ternas según el perfil. Seguimiento a los candidatos seleccionados hasta su incorporación con el cliente. Gestionar los envíos de las pruebas psicológicas virtuales según perfil a medir Otras funciones que el área a cargo estipule acorde a necesidad Requisitos: Universitario egresado(a), bachiller o titulado de la carrera de Psicología. Experiencia mínima de 1 año realizando reclutamiento y selección en procesos masivos en minerìa Deseable dominio de Microsoft Office a nivel Intermedio. Residir en zonas aledañas a Ventanilla Disponibilidad para trabajar en campo Beneficios: Salario acorde al mercado Recibo por honorarios Grato ambiente laboral",
+    "requisitos":  [
+                       "Universitario egresado(a), bachiller o titulado de la carrera de Psicología",
+                       "Experiencia mínima de 1 año realizando reclutamiento y selección en procesos masivos en minerìa",
+                       "Deseable dominio de Microsoft Office a nivel Intermedio",
+                       "Residir en zonas aledañas a Ventanilla",
+                       "Disponibilidad para trabajar en campo"
+                   ],
+    "funciones":  [
+                      "que el área a cargo estipule acorde a necesidad"
+                  ],
+    "beneficios":  [
+                       "Salario acorde al mercado",
+                       "Recibo por honorarios",
+                       "Grato ambiente laboral"
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/freelance-de-reclutamiento-y-seleccion-staff-y-mandos-medios-1118491488.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/freelance-de-reclutamiento-y-seleccion-staff-y-mandos-medios-1118491488.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa de servicios, se encuentra en la búsqueda de 1 Freelances de Reclutamiento y selección.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eActualizar la base de datos de los procesos y feedback.\u003c/li\u003e \u003cli\u003eDifusión de la oferta laboral en las diferentes fuentes de reclutamiento.\u003c/li\u003e \u003cli\u003eFiltro curricular, Hunting, screening telefónico y presentación de avances o ternas según el perfil.\u003c/li\u003e \u003cli\u003eSeguimiento a los candidatos seleccionados hasta su incorporación con el cliente.\u003c/li\u003e \u003cli\u003eGestionar los envíos de las pruebas psicológicas virtuales según perfil a medir\u003c/li\u003e \u003cli\u003eOtras funciones que el área a cargo estipule acorde a necesidad\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUniversitario egresado(a), bachiller o titulado de la carrera de Psicología.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año realizando reclutamiento y selección en procesos masivos en minerìa\u003c/li\u003e \u003cli\u003eDeseable dominio de Microsoft Office a nivel Intermedio.\u003c/li\u003e \u003cli\u003eResidir en zonas aledañas a Ventanilla\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en campo\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario acorde al mercado\u003c/li\u003e \u003cli\u003eRecibo por honorarios\u003c/li\u003e \u003cli\u003eGrato ambiente laboral\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

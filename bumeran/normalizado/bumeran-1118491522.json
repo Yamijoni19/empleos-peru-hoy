@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118491522",
+    "clave":  "id:1118491522",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-legal-corporativo-minera-shouxin-peru-s.a-1118491522.html",
+                   "capturadoEn":  "2026-10-22T18:32:55+00:00"
+               },
+    "titulo":  "Asesor Legal Corporativo",
+    "empresa":  "Minera Shouxin Peru S.A",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  8840,
+                    "max":  12800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 8,840 - S/ 12,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Legal Corporativo Resumen del Puesto Estamos en la búsqueda de un profesional altamente calificado y con experiencia para unirse a nuestro equipo como Asesor Legal Corporativo . El candidato ideal poseerá un profundo conocimiento del derecho corporativo y una sólida trayectoria en la asesoría a empresas en diversas materias legales. Responsabilidades Proporcionar asesoramiento legal experto en asuntos corporativos y contractuales. Revisar, redactar y negociar contratos y otros documentos legales. Asegurar el cumplimiento normativo y legal de las operaciones de la compañía. Gestionar y resolver litigios y disputas legales. Colaborar con diferentes áreas de la organización para mitigar riesgos legales. Mantenerse actualizado sobre la legislación y jurisprudencia relevante. Requisitos Título universitario en Derecho. Experiencia comprobada como Asesor Legal Corporativo o en roles similares. Sólidos conocimientos en derecho societario, contractual y regulatorio. Capacidad para analizar situaciones complejas y proponer soluciones efectivas. Excelentes habilidades de comunicación, negociación y argumentación. Orientación a resultados y capacidad para trabajar bajo presión. Habilidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Título universitario en Derecho",
+                       "Experiencia comprobada como Asesor Legal Corporativo o en roles similares",
+                       "Sólidos conocimientos en derecho societario, contractual y regulatorio",
+                       "Capacidad para analizar situaciones complejas y proponer soluciones efectivas",
+                       "Excelentes habilidades de comunicación, negociación y argumentación",
+                       "Orientación a resultados y capacidad para trabajar bajo presión",
+                       "Habilidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-legal-corporativo-minera-shouxin-peru-s.a-1118491522.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-legal-corporativo-minera-shouxin-peru-s.a-1118491522.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Legal Corporativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional altamente calificado y con experiencia para unirse a nuestro equipo como \u003cb\u003eAsesor Legal Corporativo\u003c/b\u003e. El candidato ideal poseerá un profundo conocimiento del derecho corporativo y una sólida trayectoria en la asesoría a empresas en diversas materias legales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eProporcionar asesoramiento legal experto en asuntos corporativos y contractuales.\u003c/li\u003e \u003cli\u003eRevisar, redactar y negociar contratos y otros documentos legales.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento normativo y legal de las operaciones de la compañía.\u003c/li\u003e \u003cli\u003eGestionar y resolver litigios y disputas legales.\u003c/li\u003e \u003cli\u003eColaborar con diferentes áreas de la organización para mitigar riesgos legales.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre la legislación y jurisprudencia relevante.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Derecho.\u003c/li\u003e \u003cli\u003eExperiencia comprobada como Asesor Legal Corporativo o en roles similares.\u003c/li\u003e \u003cli\u003eSólidos conocimientos en derecho societario, contractual y regulatorio.\u003c/li\u003e \u003cli\u003eCapacidad para analizar situaciones complejas y proponer soluciones efectivas.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, negociación y argumentación.\u003c/li\u003e \u003cli\u003eOrientación a resultados y capacidad para trabajar bajo presión.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

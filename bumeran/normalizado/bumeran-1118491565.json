@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118491565",
+    "clave":  "id:1118491565",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-willy\u0027s-gold-joyeria-1118491565.html",
+                   "capturadoEn":  "2026-10-22T18:32:50+00:00"
+               },
+    "titulo":  "Asesor de Ventas",
+    "empresa":  "Willy\u0027s Gold Joyería",
+    "ubicacion":  "Ancash - Huaraz",
+    "ciudad":  "Huaraz",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1450,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,450 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor de Ventas Resumen del Puesto Buscamos un Asesor de Ventas dinámico y con gran vocación de servicio para integrarse a nuestro equipo. El candidato ideal será una persona responsable, proactiva y con un fuerte deseo de aprender y desarrollarse en el área comercial. Responsabilidades Atender y asesorar a los clientes, comprendiendo sus necesidades. Presentar y demostrar los productos de manera efectiva. Gestionar el proceso de venta hasta el cierre. Colaborar en la exhibición y organización del área de ventas. Mantenerse actualizado sobre las características y beneficios de los productos. Requisitos Experiencia previa en roles de ventas (no excluyente). Excelentes habilidades de comunicación y relaciones interpersonales. Actitud positiva, proactiva y orientada a resultados. Capacidad para trabajar en equipo y de forma autónoma. Disponibilidad para aprender y adaptarse a nuevos desafíos.",
+    "requisitos":  [
+                       "Experiencia previa en roles de ventas (no excluyente)",
+                       "Excelentes habilidades de comunicación y relaciones interpersonales",
+                       "Actitud positiva, proactiva y orientada a resultados",
+                       "Capacidad para trabajar en equipo y de forma autónoma",
+                       "Disponibilidad para aprender y adaptarse a nuevos desafíos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de los productos"
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-willy\u0027s-gold-joyeria-1118491565.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-willy\u0027s-gold-joyeria-1118491565.html",
+    "descripcion_html":  "\u003cb\u003eAsesor de Ventas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsesor de Ventas\u003c/b\u003e dinámico y con gran vocación de servicio para integrarse a nuestro equipo. El candidato ideal será una persona responsable, proactiva y con un fuerte deseo de aprender y desarrollarse en el área comercial.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y asesorar a los clientes, comprendiendo sus necesidades.\u003c/li\u003e \u003cli\u003ePresentar y demostrar los productos de manera efectiva.\u003c/li\u003e \u003cli\u003eGestionar el proceso de venta hasta el cierre.\u003c/li\u003e \u003cli\u003eColaborar en la exhibición y organización del área de ventas.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las características y beneficios de los productos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de ventas (no excluyente).\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eActitud positiva, proactiva y orientada a resultados.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y de forma autónoma.\u003c/li\u003e \u003cli\u003eDisponibilidad para aprender y adaptarse a nuevos desafíos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
