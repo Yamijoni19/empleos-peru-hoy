@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118491350",
+    "clave":  "id:1118491350",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnica-en-enfermeria-topico-seccion-c-centro-comercial-arenales-1118491350.html",
+                   "capturadoEn":  "2026-10-23T07:32:01+00:00"
+               },
+    "titulo":  "Técnica en Enfermería - Tópico",
+    "empresa":  "SECCION C CENTRO COMERCIAL ARENALES",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1650,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,650",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnica en Enfermería - Tópico Resumen del Puesto Estamos en la búsqueda de una Técnica en Enfermería para brindar atención primaria y primeros auxilios a visitantes, clientes y colaboradores. El candidato ideal poseerá vocación de servicio, responsabilidad y un excelente trato interpersonal. Responsabilidades Brindar atención primaria y primeros auxilios. Registrar las atenciones realizadas. Verificar los insumos y equipos del tópico. Activar los protocolos de emergencia cuando corresponda. Requisitos Técnica en Enfermería titulada o egresada. Experiencia en primeros auxilios y atención de pacientes (deseable). Vocación de servicio, responsabilidad y buen trato. Disponibilidad para trabajar en horarios rotativos. Condiciones Laborales Jornada de 8 horas diarias. Disponibilidad para laborar de lunes a domingo en horarios rotativos, con descanso semanal. Ingreso a planilla y beneficios sociales conforme al régimen laboral aplicable.",
+    "requisitos":  [
+                       "Técnica en Enfermería titulada o egresada",
+                       "Experiencia en primeros auxilios y atención de pacientes (deseable)",
+                       "Vocación de servicio, responsabilidad y buen trato",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "sociales conforme al régimen laboral aplicable"
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnica-en-enfermeria-topico-seccion-c-centro-comercial-arenales-1118491350.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnica-en-enfermeria-topico-seccion-c-centro-comercial-arenales-1118491350.html",
+    "descripcion_html":  "\u003cb\u003eTécnica en Enfermería - Tópico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una \u003cb\u003eTécnica en Enfermería\u003c/b\u003e para brindar atención primaria y primeros auxilios a visitantes, clientes y colaboradores. El candidato ideal poseerá vocación de servicio, responsabilidad y un excelente trato interpersonal.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar atención primaria y primeros auxilios.\u003c/li\u003e \u003cli\u003eRegistrar las atenciones realizadas.\u003c/li\u003e \u003cli\u003eVerificar los insumos y equipos del tópico.\u003c/li\u003e \u003cli\u003eActivar los protocolos de emergencia cuando corresponda.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTécnica en Enfermería titulada o egresada.\u003c/li\u003e \u003cli\u003eExperiencia en primeros auxilios y atención de pacientes (deseable).\u003c/li\u003e \u003cli\u003eVocación de servicio, responsabilidad y buen trato.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones Laborales\u003c/b\u003e \u003cul\u003e \u003cli\u003eJornada de 8 horas diarias.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a domingo en horarios rotativos, con descanso semanal.\u003c/li\u003e \u003cli\u003eIngreso a planilla y beneficios sociales conforme al régimen laboral aplicable.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

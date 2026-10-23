@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118491351",
+    "clave":  "id:1118491351",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-dental-nobel-dent-1118491351.html",
+                   "capturadoEn":  "2026-10-23T07:31:58+00:00"
+               },
+    "titulo":  "Asistente Dental",
+    "empresa":  "NOBEL DENT",
+    "ubicacion":  "Puno - Juliaca",
+    "ciudad":  "Juliaca",
+    "region":  "Puno",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  930,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 930 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Dental Resumen del Puesto Buscamos un/a Asistente Dental responsable, proactivo/a y comprometido/a para integrarse a nuestro equipo de trabajo y contribuir a brindar una atención de calidad a nuestros pacientes. La persona seleccionada tendrá iniciativa, disposición para aprender y capacidad para asumir nuevas responsabilidades progresivamente. Valoramos el interés por aportar ideas, trabajar de manera autónoma y crecer profesionalmente. Responsabilidades Colaborar en la atención directa a pacientes. Asistir en procedimientos dentales. Mantener el orden y la esterilización del instrumental y el área de trabajo. Gestionar la agenda y la documentación relacionada con los pacientes. Seguir las indicaciones del profesional a cargo. Requisitos Formación técnica o estudios en asistencia dental o áreas afines. Responsabilidad, puntualidad y organización. Habilidad para el buen trato al paciente. Capacidad para trabajar en equipo. Proactividad e iniciativa para el aprendizaje continuo.",
+    "requisitos":  [
+                       "Formación técnica o estudios en asistencia dental o áreas afines",
+                       "Responsabilidad, puntualidad y organización",
+                       "Habilidad para el buen trato al paciente",
+                       "Capacidad para trabajar en equipo",
+                       "Proactividad e iniciativa para el aprendizaje continuo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-dental-nobel-dent-1118491351.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-dental-nobel-dent-1118491351.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Dental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eAsistente Dental\u003c/b\u003e responsable, proactivo/a y comprometido/a para integrarse a nuestro equipo de trabajo y contribuir a brindar una atención de calidad a nuestros pacientes. La persona seleccionada tendrá iniciativa, disposición para aprender y capacidad para asumir nuevas responsabilidades progresivamente. Valoramos el interés por aportar ideas, trabajar de manera autónoma y crecer profesionalmente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la atención directa a pacientes.\u003c/li\u003e \u003cli\u003eAsistir en procedimientos dentales.\u003c/li\u003e \u003cli\u003eMantener el orden y la esterilización del instrumental y el área de trabajo.\u003c/li\u003e \u003cli\u003eGestionar la agenda y la documentación relacionada con los pacientes.\u003c/li\u003e \u003cli\u003eSeguir las indicaciones del profesional a cargo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o estudios en asistencia dental o áreas afines.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y organización.\u003c/li\u003e \u003cli\u003eHabilidad para el buen trato al paciente.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eProactividad e iniciativa para el aprendizaje continuo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
