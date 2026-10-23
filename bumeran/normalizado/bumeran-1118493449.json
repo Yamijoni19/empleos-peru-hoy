@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118493449",
+    "clave":  "id:1118493449",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-atencion-al-paciente-impacto-dental-s.a.c.-1118493449.html",
+                   "capturadoEn":  "2026-10-23T13:26:28+00:00"
+               },
+    "titulo":  "Asistente Comercial - Atención al Paciente",
+    "empresa":  "IMPACTO DENTAL S.A.C.",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Comercial - Atención al Paciente Resumen del Puesto Buscamos un/a Asistente Comercial proactivo/a y con excelentes habilidades de comunicación para unirse a nuestro equipo. Serás la primera línea de contacto para nuestros pacientes, asegurando una experiencia positiva y eficiente desde el primer contacto. Responsabilidades Gestionar la comunicación inicial con interesados a través de plataformas de mensajería. Acompañar y orientar a los pacientes durante su primera experiencia de atención. Coordinar y agendar citas de manera efectiva. Garantizar una experiencia de atención al paciente excepcional y memorable. Diseñar y administrar encuestas de satisfacción para recopilar feedback. Fomentar la solicitud de reseñas en plataformas de opinión. Requisitos Experiencia previa en roles de atención al cliente o comercial. Excelentes habilidades de comunicación verbal y escrita. Capacidad para gestionar múltiples tareas y priorizar eficientemente. Actitud empática y orientada a la resolución de problemas. Habilidad para crear un ambiente de confianza y profesionalismo. Manejo de herramientas de gestión de citas y comunicación.",
+    "requisitos":  [
+                       "Experiencia previa en roles de atención al cliente o comercial",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad para gestionar múltiples tareas y priorizar eficientemente",
+                       "Actitud empática y orientada a la resolución de problemas",
+                       "Habilidad para crear un ambiente de confianza y profesionalismo",
+                       "Manejo de herramientas de gestión de citas y comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-atencion-al-paciente-impacto-dental-s.a.c.-1118493449.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-atencion-al-paciente-impacto-dental-s.a.c.-1118493449.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Comercial - Atención al Paciente\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eAsistente Comercial\u003c/b\u003e proactivo/a y con excelentes habilidades de comunicación para unirse a nuestro equipo. Serás la primera línea de contacto para nuestros pacientes, asegurando una experiencia positiva y eficiente desde el primer contacto.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar la comunicación inicial con interesados a través de plataformas de mensajería.\u003c/li\u003e \u003cli\u003eAcompañar y orientar a los pacientes durante su primera experiencia de atención.\u003c/li\u003e \u003cli\u003eCoordinar y agendar citas de manera efectiva.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de atención al paciente excepcional y memorable.\u003c/li\u003e \u003cli\u003eDiseñar y administrar encuestas de satisfacción para recopilar feedback.\u003c/li\u003e \u003cli\u003eFomentar la solicitud de reseñas en plataformas de opinión.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de atención al cliente o comercial.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para gestionar múltiples tareas y priorizar eficientemente.\u003c/li\u003e \u003cli\u003eActitud empática y orientada a la resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidad para crear un ambiente de confianza y profesionalismo.\u003c/li\u003e \u003cli\u003eManejo de herramientas de gestión de citas y comunicación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

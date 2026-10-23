@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118493446",
+    "clave":  "id:1118493446",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-dental-impacto-dental-s.a.c.-1118493446.html",
+                   "capturadoEn":  "2026-10-23T13:26:31+00:00"
+               },
+    "titulo":  "Auxiliar Dental",
+    "empresa":  "IMPACTO DENTAL S.A.C.",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar Dental Resumen del Puesto Buscamos un Auxiliar Dental proactivo y organizado para brindar soporte en nuestras instalaciones. El candidato ideal será responsable de asistir en diversas tareas clínicas y de mantenimiento del área de trabajo, asegurando un ambiente limpio y funcional. Responsabilidades Brindar apoyo general en el área clínica. Realizar la esterilización del instrumental según protocolos establecidos. Gestionar el acomodo y reposición de materiales y descartables. Mantener el orden y la limpieza general de las instalaciones. Colaborar con el equipo para asegurar la eficiencia operativa. Requisitos Experiencia previa en roles similares es valorada. Conocimiento de técnicas de esterilización y manejo de instrumental. Capacidad para mantener un alto nivel de organización y limpieza. Habilidad para trabajar de manera autónoma y en equipo. Actitud proactiva y atención al detalle.",
+    "requisitos":  [
+                       "Experiencia previa en roles similares es valorada",
+                       "Conocimiento de técnicas de esterilización y manejo de instrumental",
+                       "Capacidad para mantener un alto nivel de organización y limpieza",
+                       "Habilidad para trabajar de manera autónoma y en equipo",
+                       "Actitud proactiva y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-dental-impacto-dental-s.a.c.-1118493446.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-dental-impacto-dental-s.a.c.-1118493446.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar Dental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAuxiliar Dental\u003c/b\u003e proactivo y organizado para brindar soporte en nuestras instalaciones. El candidato ideal será responsable de asistir en diversas tareas clínicas y de mantenimiento del área de trabajo, asegurando un ambiente limpio y funcional.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar apoyo general en el área clínica.\u003c/li\u003e \u003cli\u003eRealizar la esterilización del instrumental según protocolos establecidos.\u003c/li\u003e \u003cli\u003eGestionar el acomodo y reposición de materiales y descartables.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza general de las instalaciones.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar la eficiencia operativa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles similares es valorada.\u003c/li\u003e \u003cli\u003eConocimiento de técnicas de esterilización y manejo de instrumental.\u003c/li\u003e \u003cli\u003eCapacidad para mantener un alto nivel de organización y limpieza.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de manera autónoma y en equipo.\u003c/li\u003e \u003cli\u003eActitud proactiva y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
