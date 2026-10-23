@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118411908",
+    "clave":  "id:1118411908",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-1118411908.html",
+                   "capturadoEn":  "2026-10-23T01:31:25+00:00"
+               },
+    "titulo":  "Asistente Contable/Administrativo",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa transnacional de amplia trayectoria, se encuentra en la búsqueda de un Asistente Contable Administrativo para un importante proyecto. Requisitos: Contador Bachiller o Titulado Experiencia de 1 años o más como asistente contable para empresas de construcción o afines. Manejo Experto de Office Manejo de Navision u otra ERP similar. Experiencia en registro de Información Contable. Experiencia en análisis de información contable De preferencia experiencia en manejo y control de cartas fianzas. Nivel intermedio de Inglés",
+    "requisitos":  [
+                       "Contador Bachiller o Titulado",
+                       "Experiencia de 1 años o más como asistente contable para empresas de construcción o afines",
+                       "Manejo Experto de Office",
+                       "Manejo de Navision u otra ERP similar",
+                       "Experiencia en registro de Información Contable",
+                       "Experiencia en análisis de información contable",
+                       "De preferencia experiencia en manejo y control de cartas fianzas",
+                       "Nivel intermedio de Inglés"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-1118411908.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-1118411908.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa transnacional de amplia trayectoria, se encuentra en la búsqueda de un Asistente Contable Administrativo para un importante proyecto.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eContador Bachiller o Titulado\u003c/li\u003e \u003cli\u003eExperiencia de 1 años o más como asistente contable para empresas de construcción o afines.\u003c/li\u003e \u003cli\u003eManejo Experto de Office\u003c/li\u003e \u003cli\u003eManejo de Navision u otra ERP similar.\u003c/li\u003e \u003cli\u003eExperiencia en registro de Información Contable.\u003c/li\u003e \u003cli\u003eExperiencia en análisis de información contable\u003c/li\u003e \u003cli\u003eDe preferencia experiencia en manejo y control de cartas fianzas.\u003c/li\u003e \u003cli\u003eNivel intermedio de Inglés\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

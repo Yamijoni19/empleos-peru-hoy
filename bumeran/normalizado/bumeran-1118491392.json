@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118491392",
+    "clave":  "id:1118491392",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-administracion-y-control-de-gestion-piedras-peruanas-sac-1118491392.html",
+                   "capturadoEn":  "2026-10-23T01:31:10+00:00"
+               },
+    "titulo":  "Practicante de Administración y Control de Gestión",
+    "empresa":  "PIEDRAS PERUANAS SAC",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante de Administración y Control de Gestión Resumen del Puesto Buscamos un estudiante de últimos ciclos de Administración, Finanzas, Contabilidad, Ingeniería Industrial o carreras afines para unirse a nuestro equipo como Practicante de Administración y Control de Gestión . Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico. Responsabilidades Apoyar en el registro y control de órdenes de compra, ventas, facturas y gastos. Colaborar en el seguimiento de costos y rentabilidad por pedido. Participar en la elaboración de reportes de gestión y cuentas por cobrar. Asistir en la revisión de documentación y actualización de bases de datos. Identificar oportunidades de mejora en los procesos administrativos. Requisitos Estudiante de últimos ciclos de Administración, Finanzas, Contabilidad, Ingeniería Industrial o carreras afines. Persona organizada, proactiva, analítica y con atención al detalle. Manejo de Excel a nivel intermedio. Se valorarán conocimientos de Power BI. Ofrecemos Aprendizaje práctico en administración y control de gestión. Participación en proyectos de mejora. Oportunidad de desarrollar habilidades profesionales.",
+    "requisitos":  [
+                       "Estudiante de últimos ciclos de Administración, Finanzas, Contabilidad, Ingeniería Industrial o carreras afines",
+                       "Persona organizada, proactiva, analítica y con atención al detalle",
+                       "Manejo de Excel a nivel intermedio",
+                       "Se valorarán conocimientos de Power BI"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-administracion-y-control-de-gestion-piedras-peruanas-sac-1118491392.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-administracion-y-control-de-gestion-piedras-peruanas-sac-1118491392.html",
+    "descripcion_html":  "\u003cb\u003ePracticante de Administración y Control de Gestión\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un estudiante de últimos ciclos de Administración, Finanzas, Contabilidad, Ingeniería Industrial o carreras afines para unirse a nuestro equipo como \u003cb\u003ePracticante de Administración y Control de Gestión\u003c/b\u003e. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en el registro y control de órdenes de compra, ventas, facturas y gastos.\u003c/li\u003e \u003cli\u003eColaborar en el seguimiento de costos y rentabilidad por pedido.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de reportes de gestión y cuentas por cobrar.\u003c/li\u003e \u003cli\u003eAsistir en la revisión de documentación y actualización de bases de datos.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de mejora en los procesos administrativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante de últimos ciclos de Administración, Finanzas, Contabilidad, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003ePersona organizada, proactiva, analítica y con atención al detalle.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eSe valorarán conocimientos de Power BI.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eAprendizaje práctico en administración y control de gestión.\u003c/li\u003e \u003cli\u003eParticipación en proyectos de mejora.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollar habilidades profesionales.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
