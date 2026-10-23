@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118493371",
+    "clave":  "id:1118493371",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos-junior-csti-corp-1118493371.html",
+                   "capturadoEn":  "2026-10-23T22:10:21+00:00"
+               },
+    "titulo":  "Ingeniero de datos JUNIOR",
+    "empresa":  "CSTI Corp",
+    "ubicacion":  "Lima - Surco",
+    "ciudad":  "Surco",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Únete a un gran desafío como Ingeniero(a) de Datos Junior! En CSTI Corp nos encontramos en la búsqueda de un(a) Ingeniero(a) de Datos Junior con ganas de seguir creciendo en proyectos modernos de analítica e ingeniería de datos sobre el ecosistema Microsoft. ¿Qué buscamos? Mínimo 1 año de experiencia en entornos Azure . Conocimientos en Microsoft Fabric, Azure Data Factory y Databricks . Experiencia con PySpark y Delta Lake . Manejo y procesamiento de grandes volúmenes de datos. Desarrollo de pipelines ETL/ELT . Dominio de SQL avanzado . Modalidad: 100% Remoto Remuneración: Acorde al mercado Horario laboral: Lunes a viernes de 9.00 am - 6.00 pm",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos-junior-csti-corp-1118493371.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos-junior-csti-corp-1118493371.html",
+    "descripcion_html":  "\u003cp\u003e¡Únete a un gran desafío como Ingeniero(a) de Datos Junior!\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eCSTI Corp\u003c/strong\u003e nos encontramos en la búsqueda de un(a) \u003cstrong\u003eIngeniero(a) de Datos Junior\u003c/strong\u003e con ganas de seguir creciendo en proyectos modernos de analítica e ingeniería de datos sobre el ecosistema Microsoft.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 1 año de experiencia en entornos \u003cstrong\u003eAzure\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eConocimientos en \u003cstrong\u003eMicrosoft Fabric, Azure Data Factory y Databricks\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eExperiencia con \u003cstrong\u003ePySpark y Delta Lake\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eManejo y procesamiento de grandes volúmenes de datos. \u003c/li\u003e \u003cli\u003eDesarrollo de \u003cstrong\u003epipelines ETL/ELT\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eDominio de \u003cstrong\u003eSQL avanzado\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eModalidad:\u003c/strong\u003e 100% Remoto \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRemuneración:\u003c/strong\u003e Acorde al mercado\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHorario laboral:\u003c/strong\u003e Lunes a viernes de 9.00 am - 6.00 pm\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

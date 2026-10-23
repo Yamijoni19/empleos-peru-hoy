@@ -1,0 +1,1509 @@
+[
+    {
+        "id":  "bumeran-1118493400",
+        "clave":  "id:1118493400",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-a-mesa-turno-tarde-noche-sanduco-1118493400.html",
+                       "capturadoEn":  "2026-10-23T22:10:04+00:00"
+                   },
+        "titulo":  "Atención a Mesa (Turno Tarde/Noche)",
+        "empresa":  "Sanduco",
+        "ubicacion":  "Lima - Pueblo Libre",
+        "ciudad":  "Pueblo Libre",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  650,
+                        "max":  790,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 650 - S/ 790",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Buscamos el mejor talento para una cafetería saludable Atención a Mesa (Turno Tarde/Noche) Resumen del Puesto Estamos en la búsqueda de personal con vocación de servicio para unirse a nuestro equipo en el área de atención a mesa, cubriendo el turno tarde/noche. Buscamos individuos con una actitud proactiva y un fuerte compromiso con la excelencia en el servicio al cliente. Responsabilidades Brindar una atención cordial, respetuosa y eficiente a los comensales. Gestionar la toma de pedidos y el servicio de alimentos y bebidas. Asegurar la presentación y emplatado adecuado de postres y bebidas. Mantener la limpieza y el orden en las áreas de trabajo y mesas. Colaborar con el equipo para garantizar una experiencia positiva para el cliente. Adaptarse a un entorno de trabajo dinámico y de ritmo rápido. Requisitos Excelentes habilidades de comunicación y trato interpersonal. Capacidad para trabajar eficazmente en equipo. Actitud positiva, proactiva y orientada al servicio. Habilidad para mantener la calma y la eficiencia bajo presión. Disponibilidad para trabajar en horario de tarde y noche. Ganas de aprender y desarrollarse profesionalmente. Horario flexible, pagos puntuales, ambiente profesional y cercano",
+        "requisitos":  [
+                           "Excelentes habilidades de comunicación y trato interpersonal",
+                           "Capacidad para trabajar eficazmente en equipo",
+                           "Actitud positiva, proactiva y orientada al servicio",
+                           "Habilidad para mantener la calma y la eficiencia bajo presión",
+                           "Disponibilidad para trabajar en horario de tarde y noche",
+                           "Ganas de aprender y desarrollarse profesionalmente",
+                           "Horario flexible, pagos puntuales, ambiente profesional y cercano"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/atencion-a-mesa-turno-tarde-noche-sanduco-1118493400.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-a-mesa-turno-tarde-noche-sanduco-1118493400.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003eBuscamos el mejor talento para una cafetería saludable\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAtención a Mesa (Turno Tarde/Noche)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de personal con vocación de servicio para unirse a nuestro equipo en el área de atención a mesa, cubriendo el turno tarde/noche. Buscamos individuos con una actitud proactiva y un fuerte compromiso con la excelencia en el servicio al cliente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar una atención cordial, respetuosa y eficiente a los comensales.\u003c/li\u003e \u003cli\u003eGestionar la toma de pedidos y el servicio de alimentos y bebidas.\u003c/li\u003e \u003cli\u003eAsegurar la presentación y emplatado adecuado de postres y bebidas.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en las áreas de trabajo y mesas.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para garantizar una experiencia positiva para el cliente.\u003c/li\u003e \u003cli\u003eAdaptarse a un entorno de trabajo dinámico y de ritmo rápido.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar eficazmente en equipo.\u003c/li\u003e \u003cli\u003eActitud positiva, proactiva y orientada al servicio.\u003c/li\u003e \u003cli\u003eHabilidad para mantener la calma y la eficiencia bajo presión.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario de tarde y noche.\u003c/li\u003e \u003cli\u003eGanas de aprender y desarrollarse profesionalmente.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eHorario flexible, pagos puntuales, ambiente profesional y cercano\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493399",
+        "clave":  "id:1118493399",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-analista-de-seleccion-rubro-minero-pilotes-terratest-1118493399.html",
+                       "capturadoEn":  "2026-10-23T22:10:05+00:00"
+                   },
+        "titulo":  "Asistente/Analista de Selección / Rubro Minero",
+        "empresa":  "PILOTES TERRATEST",
+        "ubicacion":  "Ancash - Huari",
+        "ciudad":  "Huari",
+        "region":  "Ancash",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Pilotes Terratest Perú S.A.C. es una empresa constructora especializada en diseño y construcción de obras de Cimentaciones. Desde 2006 se ha destacado por una constante innovación en el campo de las cimentaciones especiales y geotecnia, introduciendo nuevas tecnologías en forma masiva en mercados como edificación, minería, infraestructura, industria y energía. Además de operar en Perú, tenemos presencia en varios países Latinoamericanos como Chile, Bolivia y Colombia, habiendo ejecutado variados e importantes proyectos en cada uno de ellos. En Pilotes Terratest Perú S.A.C. contamos con un departamento técnico experimentado y capacitado para diseñar y optimizar los proyectos en que se aplican nuestras tecnologías, permitiendo con ello obtener mejores soluciones para nuestros Clientes. Dentro de nuestra política integrada de gestión, como empresa certificada ISO 9001, uno de nuestros objetivos es el siguiente: “Satisfacer a nuestros Clientes mediante soluciones integrales de ingeniería y construcción, entregándoles un servicio y/o producto confiable, en el plazo previsto y cumpliendo los requisitos acordados” Buscamos el siguiente talento para que se incorpore a nuestro equipo: Analista/Asistente de Atracción del Talento Funciones principales: Responsable de los procesos de reclutamiento y selección de posiciones MOD y MOI Gestionar procesos de alto volumen y cumplir objetivos de cobertura. Publicaciones en diferentes bolsas de trabajo. Ejecución de filtros curriculares y telefónicos. Aplicación de pruebas psicológicas. Referencias laborales. Otras funciones del puesto. Otras funciones asignadas por la jefatura inmediata Requisitos: Profesional de la carrera de Psicología, Administración o afines. Experiencia de 03 años en reclutamiento y selección en el sector de Minería, Construcción o afines (indispensable). Disponibilidad para laborar en régimen atípico (Campamentos) en proyecto de 14x7- Afinidad con herramientas digitales y plataformas de gestión de talento. Orientación al cliente, organización y capacidad para trabajar bajo objetivos. Beneficios Planilla completa con todos los beneficios de Ley. Buen ambiente de trabajo En nuestra empresa promovemos la igualdad de oportunidades y valoramos la diversidad. Todos los postulantes son evaluados de manera objetiva, sin distinción de género, edad, discapacidad, origen, religión, orientación sexual o cualquier otra condición, fomentando un proceso de selección justo, inclusivo y basado en el mérito.",
+        "requisitos":  [
+                           "Profesional de la carrera de Psicología, Administración o afines",
+                           "Experiencia de 03 años en reclutamiento y selección en el sector de Minería, Construcción o afines (indispensable)",
+                           "Disponibilidad para laborar en régimen atípico (Campamentos) en proyecto de 14x7",
+                           "Afinidad con herramientas digitales y plataformas de gestión de talento",
+                           "Orientación al cliente, organización y capacidad para trabajar bajo objetivos"
+                       ],
+        "funciones":  [
+                          "asignadas por la jefatura inmediata"
+                      ],
+        "beneficios":  [
+                           "de Ley",
+                           "Buen ambiente de trabajo",
+                           "En nuestra empresa promovemos la igualdad de oportunidades y valoramos la diversidad. Todos los postulantes son evaluados de manera objetiva, sin distinción de género, edad, discapacidad, origen, religión, orientación sexual o cualquier otra condición, fomentando un proceso de selección justo, inclusivo y basado en el mérito"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-analista-de-seleccion-rubro-minero-pilotes-terratest-1118493399.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-analista-de-seleccion-rubro-minero-pilotes-terratest-1118493399.html",
+        "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003ePilotes Terratest Perú S.A.C. es una empresa constructora especializada en diseño y construcción de obras de Cimentaciones. Desde 2006 se ha destacado por una constante innovación en el campo de las cimentaciones especiales y geotecnia, introduciendo nuevas tecnologías en forma masiva en mercados como edificación, minería, infraestructura, industria y energía.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eAdemás de operar en Perú, tenemos presencia en varios países Latinoamericanos como Chile, Bolivia y Colombia, habiendo ejecutado variados e importantes proyectos en cada uno de ellos.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eEn Pilotes Terratest Perú S.A.C. contamos con un departamento técnico experimentado y capacitado para diseñar y optimizar los proyectos en que se aplican nuestras tecnologías, permitiendo con ello obtener mejores soluciones para nuestros Clientes.\u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eDentro de nuestra política integrada de gestión, como empresa certificada ISO 9001, uno de nuestros objetivos es el siguiente: “Satisfacer a nuestros Clientes mediante soluciones integrales de ingeniería y construcción, entregándoles un servicio y/o producto confiable, en el plazo previsto y cumpliendo los requisitos acordados”\u003c/span\u003e\u003c/p\u003e \u003cp\u003eBuscamos el siguiente talento para que se incorpore a nuestro equipo:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAnalista/Asistente de Atracción del Talento\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eFunciones principales:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cspan style=\"\"\u003eResponsable de los procesos de reclutamiento y selección de posiciones MOD y MOI\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eGestionar procesos de alto volumen y cumplir objetivos de cobertura.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003ePublicaciones en diferentes bolsas de trabajo.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eEjecución de filtros curriculares y telefónicos.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eAplicación de pruebas psicológicas.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eReferencias laborales.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eOtras funciones del puesto.\u003c/span\u003e\u003c/li\u003e \u003cli\u003eOtras funciones asignadas por la jefatura inmediata\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003e\u003cspan style=\"\"\u003eProfesional de la carrera de Psicología, Administración o afines.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eExperiencia de 03 años en reclutamiento y selección en el sector de Minería, Construcción o afines (indispensable). \u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eDisponibilidad para laborar en régimen atípico (Campamentos) en proyecto de 14x7-\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eAfinidad con herramientas digitales y plataformas de gestión de talento.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eOrientación al cliente, organización y capacidad para trabajar bajo objetivos.\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003ePlanilla completa con todos los beneficios de Ley.\u003c/li\u003e \u003cli\u003eBuen ambiente de trabajo\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003eEn nuestra empresa promovemos la igualdad de oportunidades y valoramos la diversidad. Todos los postulantes son evaluados de manera objetiva, sin distinción de género, edad, discapacidad, origen, religión, orientación sexual o cualquier otra condición, fomentando un proceso de selección justo, inclusivo y basado en el mérito.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493397",
+        "clave":  "id:1118493397",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/agente-de-telemarketing-b2b-remoto.-senticorp-1118493397.html",
+                       "capturadoEn":  "2026-10-23T22:10:07+00:00"
+                   },
+        "titulo":  "Agente de Telemarketing B2B Remoto.",
+        "empresa":  "SENTICORP",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Remoto",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  1500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,500",
+                        "fuente_salario":  "jsonld"
+                    },
+        "descripcion":  "Socio Comercial Estratégico de Experian Perú, líder global en Datos, Analítica y principal buró de crédito en el país. Ofrecemos soluciones integrales para la gestión de riesgos a través de Sentinel Sabio, nuestra avanzada plataforma que impulsa el desarrollo financiero de nuestros socios comerciales. Aquí están las características clave que promueven un crecimiento sólido en sus carteras: • Evaluación de Crédito basada en datos de hasta 24 meses atrás. • Score Crediticio predictivo para anticipar el comportamiento futuro de los clientes. • Plataforma de Reporte de Morosidad sin restricciones. • Herramientas de Cobranza eficaces mediante emails, PDFs y mensajes SMS, respaldados por nuestra experiencia. Nuestros clientes también disfrutan de opciones personalizadas. Para acceder a más detalles, haz click en el botón de más información. Buscamos personas con energía comercial, disciplina y ganas de crecer, que disfruten el contacto con empresarios y quieran desarrollarse en la venta B2B. Valoramos más la actitud, la constancia y la capacidad de aprendizaje que la experiencia específica en el rubro, porque te damos la capacitación y la metodología para vender. Lo que sí es imprescindible es que sepas PROSPECTAR y tengas experiencia en llamadas al frío. Requisitos: Experiencia mínima de 6 meses en ventas, telemarketing, o puestos comerciales (deseable en venta B2B o de intangibles). Buena comunicación oral, seguridad al hablar por teléfono y capacidad para manejar objeciones. Orientación a metas, perseverancia y organización para trabajar de forma autónoma. Computadora o laptop propia, conexión a internet estable y un espacio adecuado para trabajar desde casa con cámara y micro. Disponibilidad a tiempo completo. Beneficios Trabajo 100% remoto desde casa. Sueldo base de S/1500 + comisiones de hasta el 350% de la venta. Capacitación inicial estructurada en producto y técnicas de venta, con acompañamiento de un supervisor. Ingreso a planilla con todos los beneficios de ley: MYPE Oportunidad de crecimiento dentro de una empresa respaldada por una marca global como Experian.",
+        "requisitos":  [
+                           "Experiencia mínima de 6 meses en ventas, telemarketing, o puestos comerciales (deseable en venta B2B o de intangibles)",
+                           "Buena comunicación oral, seguridad al hablar por teléfono y capacidad para manejar objeciones",
+                           "Orientación a metas, perseverancia y organización para trabajar de forma autónoma",
+                           "Computadora o laptop propia, conexión a internet estable y un espacio adecuado para trabajar desde casa con cámara y micro",
+                           "Disponibilidad a tiempo completo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley: MYPE",
+                           "Oportunidad de crecimiento dentro de una empresa respaldada por una marca global como Experian"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/agente-de-telemarketing-b2b-remoto.-senticorp-1118493397.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/agente-de-telemarketing-b2b-remoto.-senticorp-1118493397.html",
+        "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003eSocio Comercial Estratégico de Experian Perú, líder global en Datos, Analítica y principal buró de crédito en el país. Ofrecemos soluciones integrales para la gestión de riesgos a través de Sentinel Sabio, nuestra avanzada plataforma que impulsa el desarrollo financiero de nuestros socios comerciales. Aquí están las características clave que promueven un crecimiento sólido en sus carteras: \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Evaluación de Crédito basada en datos de hasta 24 meses atrás. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Score Crediticio predictivo para anticipar el comportamiento futuro de los clientes. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Plataforma de Reporte de Morosidad sin restricciones. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Herramientas de Cobranza eficaces mediante emails, PDFs y mensajes SMS, respaldados por nuestra experiencia. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eNuestros clientes también disfrutan de opciones personalizadas. Para acceder a más detalles, haz click en el botón de más información.\u003c/span\u003e\u003c/p\u003e \u003cp\u003eBuscamos personas con energía comercial, disciplina y ganas de crecer, que disfruten el contacto con empresarios y quieran desarrollarse en la venta B2B. Valoramos más la actitud, la constancia y la capacidad de aprendizaje que la experiencia específica en el rubro, porque te damos la capacitación y la metodología para vender. Lo que sí es imprescindible es que sepas PROSPECTAR y tengas experiencia en llamadas al frío.\u003c/p\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 6 meses en ventas, telemarketing, o puestos comerciales (deseable en venta B2B o de intangibles).\u003c/li\u003e \u003cli\u003eBuena comunicación oral, seguridad al hablar por teléfono y capacidad para manejar objeciones.\u003c/li\u003e \u003cli\u003eOrientación a metas, perseverancia y organización para trabajar de forma autónoma.\u003c/li\u003e \u003cli\u003eComputadora o laptop propia, conexión a internet estable y un espacio adecuado para trabajar desde casa con cámara y micro.\u003c/li\u003e \u003cli\u003eDisponibilidad a tiempo completo.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eTrabajo 100% remoto desde casa.\u003c/li\u003e \u003cli\u003eSueldo base de S/1500 + comisiones de hasta el 350% de la venta.\u003c/li\u003e \u003cli\u003eCapacitación inicial estructurada en producto y técnicas de venta, con acompañamiento de un supervisor.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley: MYPE\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento dentro de una empresa respaldada por una marca global como Experian.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493393",
+        "clave":  "id:1118493393",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-corporativo-remoto-copia-senticorp-1118493393.html",
+                       "capturadoEn":  "2026-10-23T22:10:08+00:00"
+                   },
+        "titulo":  "Asesor Corporativo Remoto - copia",
+        "empresa":  "SENTICORP",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Remoto",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  4000,
+                        "max":  4000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 4,000",
+                        "fuente_salario":  "jsonld"
+                    },
+        "descripcion":  "Únete al equipo de SENTICORP! Somos el socio #1 de Experian Perú desde 2018. Desde el año 2019 que desarrolla e innova con el canal empresarial “Pequeño y Mediano”. + Oportunidad de venta en el mercado Peruano. Representamos el 30% de la participación de resultados del segmento Somos el socio #1 de Experian Perú desde 2018. Estamos en búsqueda de Asesor Telemarketing B2B en modalidad 100% home office. Si tienes experiencia en ventas de intangibles, ¡esta es tu oportunidad! Funciones principales: Captación y prospección de clientes usando portales web. Llamadas en frío, agendamiento y ejecución de citas virtuales diarias. Seguimiento y reporte de avances al supervisor. Cumplimiento de objetivos comerciales. Requisitos: Experiencia comprobada en ventas de intangibles. Conocimiento en ofimática básica y paquete Office. Recursos necesarios: Laptop o PC, celular, cámara e internet de 30 MB o más. Experiencia en llamadas en frío a empresas. Experiencia en agendar y ejecutar reuniones. Beneficios Ingreso a planilla desde el primer día. Comisiones ilimitadas. Horario de lunes a viernes de 9:00 AM a 6:00 PM. Trabajo remoto los 365 días del año con un excelente clima laboral. Oportunidad de crecimiento y ascenso.",
+        "requisitos":  [
+                           "Experiencia comprobada en ventas de intangibles",
+                           "Conocimiento en ofimática básica y paquete Office",
+                           "Recursos necesarios: Laptop o PC, celular, cámara e internet de 30 MB o más",
+                           "Experiencia en llamadas en frío a empresas",
+                           "Experiencia en agendar y ejecutar reuniones"
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Captación y prospección de clientes usando portales web",
+                          "Llamadas en frío, agendamiento y ejecución de citas virtuales diarias",
+                          "Seguimiento y reporte de avances al supervisor",
+                          "Cumplimiento de objetivos comerciales"
+                      ],
+        "beneficios":  [
+                           "Ingreso a planilla desde el primer día",
+                           "Comisiones ilimitadas",
+                           "Horario de lunes a viernes de 9:00 AM a 6:00 PM",
+                           "Trabajo remoto los 365 días del año con un excelente clima laboral",
+                           "Oportunidad de crecimiento y ascenso"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-corporativo-remoto-copia-senticorp-1118493393.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-corporativo-remoto-copia-senticorp-1118493393.html",
+        "descripcion_html":  "\u003cp\u003eÚnete al equipo de SENTICORP!\u003c/p\u003e\u003cp\u003eSomos el socio #1 de Experian Perú desde 2018.\u003c/p\u003e\u003cp\u003e\u003cspan\u003eDesde el año 2019 que desarrolla e innova con el canal empresarial “Pequeño y Mediano”. \u003cstrong\u003e\u003cem\u003e+ Oportunidad de venta en el mercado Peruano. \u003c/em\u003e\u003c/strong\u003eRepresentamos el \u003cstrong\u003e30% \u003c/strong\u003ede la participación de resultados del segmento\u003c/span\u003e\u003c/p\u003e \u003cp\u003eSomos el socio #1 de Experian Perú desde 2018.\u003c/p\u003e\u003cp\u003e Estamos en búsqueda de Asesor Telemarketing B2B en modalidad 100% home office. Si tienes experiencia en ventas de intangibles,\u003c/p\u003e\u003cp\u003e¡esta es tu oportunidad!\u003c/p\u003e\u003cp\u003e \u003c/p\u003e\u003cp\u003eFunciones principales:\u003c/p\u003e\u003cul\u003e \u003cli\u003eCaptación y prospección de clientes usando portales web.\u003c/li\u003e \u003cli\u003eLlamadas en frío, agendamiento y ejecución de citas virtuales diarias.\u003c/li\u003e \u003cli\u003eSeguimiento y reporte de avances al supervisor.\u003c/li\u003e \u003cli\u003eCumplimiento de objetivos comerciales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u003c/p\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobada en ventas de intangibles.\u003c/li\u003e \u003cli\u003eConocimiento en ofimática básica y paquete Office.\u003c/li\u003e \u003cli\u003eRecursos necesarios: Laptop o PC, celular, cámara e internet de 30 MB o más.\u003c/li\u003e \u003cli\u003eExperiencia en llamadas en frío a empresas.\u003c/li\u003e \u003cli\u003eExperiencia en agendar y ejecutar reuniones.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eIngreso a planilla desde el primer día.\u003c/li\u003e \u003cli\u003eComisiones ilimitadas.\u003c/li\u003e \u003cli\u003eHorario de lunes a viernes de 9:00 AM a 6:00 PM.\u003c/li\u003e \u003cli\u003eTrabajo remoto los 365 días del año con un excelente clima laboral.\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento y ascenso.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493392",
+        "clave":  "id:1118493392",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/agente-de-telemarketing-b2b-remoto.-copia-senticorp-1118493392.html",
+                       "capturadoEn":  "2026-10-23T22:10:09+00:00"
+                   },
+        "titulo":  "Agente de Telemarketing B2B Remoto. - copia",
+        "empresa":  "SENTICORP",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Remoto",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  1500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,500",
+                        "fuente_salario":  "jsonld"
+                    },
+        "descripcion":  "Socio Comercial Estratégico de Experian Perú, líder global en Datos, Analítica y principal buró de crédito en el país. Ofrecemos soluciones integrales para la gestión de riesgos a través de Sentinel Sabio, nuestra avanzada plataforma que impulsa el desarrollo financiero de nuestros socios comerciales. Aquí están las características clave que promueven un crecimiento sólido en sus carteras: • Evaluación de Crédito basada en datos de hasta 24 meses atrás. • Score Crediticio predictivo para anticipar el comportamiento futuro de los clientes. • Plataforma de Reporte de Morosidad sin restricciones. • Herramientas de Cobranza eficaces mediante emails, PDFs y mensajes SMS, respaldados por nuestra experiencia. Nuestros clientes también disfrutan de opciones personalizadas. Para acceder a más detalles, haz click en el botón de más información. Buscamos personas con energía comercial, disciplina y ganas de crecer, que disfruten el contacto con empresarios y quieran desarrollarse en la venta B2B. Valoramos más la actitud, la constancia y la capacidad de aprendizaje que la experiencia específica en el rubro, porque te damos la capacitación y la metodología para vender. Lo que sí es imprescindible es que sepas PROSPECTAR y tengas experiencia en llamadas al frío. Requisitos: Experiencia mínima de 6 meses en ventas, telemarketing, o puestos comerciales (deseable en venta B2B o de intangibles). Buena comunicación oral, seguridad al hablar por teléfono y capacidad para manejar objeciones. Orientación a metas, perseverancia y organización para trabajar de forma autónoma. Computadora o laptop propia, conexión a internet estable y un espacio adecuado para trabajar desde casa con cámara y micro. Disponibilidad a tiempo completo. Beneficios Trabajo 100% remoto desde casa. Sueldo base de S/1500 + comisiones de hasta el 350% de la venta. Capacitación inicial estructurada en producto y técnicas de venta, con acompañamiento de un supervisor. Ingreso a planilla con todos los beneficios de ley: MYPE Oportunidad de crecimiento dentro de una empresa respaldada por una marca global como Experian.",
+        "requisitos":  [
+                           "Experiencia mínima de 6 meses en ventas, telemarketing, o puestos comerciales (deseable en venta B2B o de intangibles)",
+                           "Buena comunicación oral, seguridad al hablar por teléfono y capacidad para manejar objeciones",
+                           "Orientación a metas, perseverancia y organización para trabajar de forma autónoma",
+                           "Computadora o laptop propia, conexión a internet estable y un espacio adecuado para trabajar desde casa con cámara y micro",
+                           "Disponibilidad a tiempo completo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley: MYPE",
+                           "Oportunidad de crecimiento dentro de una empresa respaldada por una marca global como Experian"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/agente-de-telemarketing-b2b-remoto.-copia-senticorp-1118493392.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/agente-de-telemarketing-b2b-remoto.-copia-senticorp-1118493392.html",
+        "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003eSocio Comercial Estratégico de Experian Perú, líder global en Datos, Analítica y principal buró de crédito en el país. Ofrecemos soluciones integrales para la gestión de riesgos a través de Sentinel Sabio, nuestra avanzada plataforma que impulsa el desarrollo financiero de nuestros socios comerciales. Aquí están las características clave que promueven un crecimiento sólido en sus carteras: \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Evaluación de Crédito basada en datos de hasta 24 meses atrás. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Score Crediticio predictivo para anticipar el comportamiento futuro de los clientes. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Plataforma de Reporte de Morosidad sin restricciones. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003e• Herramientas de Cobranza eficaces mediante emails, PDFs y mensajes SMS, respaldados por nuestra experiencia. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eNuestros clientes también disfrutan de opciones personalizadas. Para acceder a más detalles, haz click en el botón de más información.\u003c/span\u003e\u003c/p\u003e \u003cp\u003eBuscamos personas con energía comercial, disciplina y ganas de crecer, que disfruten el contacto con empresarios y quieran desarrollarse en la venta B2B. Valoramos más la actitud, la constancia y la capacidad de aprendizaje que la experiencia específica en el rubro, porque te damos la capacitación y la metodología para vender. Lo que sí es imprescindible es que sepas PROSPECTAR y tengas experiencia en llamadas al frío.\u003c/p\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 6 meses en ventas, telemarketing, o puestos comerciales (deseable en venta B2B o de intangibles).\u003c/li\u003e \u003cli\u003eBuena comunicación oral, seguridad al hablar por teléfono y capacidad para manejar objeciones.\u003c/li\u003e \u003cli\u003eOrientación a metas, perseverancia y organización para trabajar de forma autónoma.\u003c/li\u003e \u003cli\u003eComputadora o laptop propia, conexión a internet estable y un espacio adecuado para trabajar desde casa con cámara y micro.\u003c/li\u003e \u003cli\u003eDisponibilidad a tiempo completo.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eTrabajo 100% remoto desde casa.\u003c/li\u003e \u003cli\u003eSueldo base de S/1500 + comisiones de hasta el 350% de la venta.\u003c/li\u003e \u003cli\u003eCapacitación inicial estructurada en producto y técnicas de venta, con acompañamiento de un supervisor.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley: MYPE\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento dentro de una empresa respaldada por una marca global como Experian.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493391",
+        "clave":  "id:1118493391",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-renta-variable-e-inversiones-alternativas-caja-de-pensiones-militar-policial-1118493391.html",
+                       "capturadoEn":  "2026-10-23T22:10:10+00:00"
+                   },
+        "titulo":  "ANALISTA DE RENTA VARIABLE E INVERSIONES ALTERNATIVAS",
+        "empresa":  "Caja de Pensiones Militar Policial",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "REQUISITOS: Título profesional o bachiller en economía, administración, ingeniería industrial, contabilidad o afines. Experiencia general de tres (03) años y experiencia específica de dos (02) años acumulable como analista, asistente o puesto similar. De preferencia, capacitación especializada en análisis de inversiones y riesgos de instrumentos financieros o alternativos financieras, mercado de capitales y programas de preparación a certificados internacionales de inversión y/o riesgos, acreditados mediante cursos que totalicen una duración no menor a treinta (30) horas lectivas. De preferencia, certificación internacionalmente reconocida en inversiones - Nivel I FUNCIONES BASICAS: Analizar y monitorear las inversiones en instrumentos financieros de renta variable e inversiones alternativas del Fondo del Decreto Legislativo N° 1133 administrado por la CPMP, en concordancia con las políticas y objetivos establecidos. FUNCIONES ESPECÍFICAS: Realizar análisis de mercado y tendencias macroeconómicas para detectar oportunidades de inversión en el mercado financiero, según la estrategia para renta variable e inversiones alternativas. Participar en la determinación de la estrategia de inversiones del portafolio, respecto a renta variable e inversiones alternativas. Participar en reuniones de mercados y presentación de oportunidades de inversión de las diversas administradoras de fondos y/o contrapartes (extranjeras o locales), para evaluación. Elaborar propuestas de elegibilidad de instrumentos y operaciones de inversión, emisores, intermediarios de negociación, contrapartes, entidades de custodia, mecanismos electrónicos de negociación, indicadores de referencia, entre otros, de renta variable e inversiones alternativas. Recopilar documentos que forman parte del sustento del análisis de la decisión de inversión, el mismo que integra el Archivo de Expediente de Inversión de los instrumentos u operaciones de inversión de renta variable e inversiones alternativas. Elaborar propuestas de inversión y/u operación de clases de activos, emisores, intermediarios de negociación, contrapartes, entidades de custodia, mecanismos electrónicos de negociación, entre otros, en relación a las inversiones en renta variable e inversiones alternativas. Elaborar la propuesta de ejecución de instrumentos de inversión de renta variable e inversiones alternativas en el sistema integrado de inversiones financieras. Elaborar información y reportes sobre el mercado financiero, seguimiento de indicadores y activos subyacentes para la toma de decisiones. Elaborar el informe mensual de la situación de las inversiones en renta variable e inversiones alternativas y su desempeño. Proponer formatos y/o reportes de seguimiento del desempeño de los productos de renta variable e inversiones alternativas del portafolio para ser presentados en los diferentes comités. Elaborar el presupuesto de ingresos por las inversiones en instrumentos financieros de renta variable e inversiones alternativas. Elaborar los reportes de resultados de rentabilidad y riesgo del portafolio de renta variable e inversiones alternativas, así como monitorear los resultados de portafolios administrados por terceros. Monitorear el desempeño de las inversiones existentes en renta variable e inversiones alternativas y evaluar la efectividad de las estrategias de Inversión de estas. Cumplir la normativa interna y externa aplicable a su ámbito de acción. Participar de manera activa y permanente en las acciones dispuestas en la gestión integral de riesgos, asociadas a las actividades que realiza. Participar en la implementación y actualización del sistema de control interno. Desempeñar las demás funciones inherentes a su cargo que le sean asignadas por el Subgerente de Renta Variable y Alternativos. BENEFICIOS: Remuneración: S /. 5,000.00 Horario de Trabajo regular: 9:00 a.m. a 5:15 p.m. de lunes a viernes (presencial). Capacitación acorde a la necesidad del puesto. Los datos personales que el postulante facilite a través de su hoja de vida, podrán ser recopilados, tratados, e incorporados a un Banco de Datos Personales de la CPMP, solo para dichos fines específicos, y serán conservados por un periodo máximo de dos años. La Caja de Pensiones Militar Policial - CPMP declara que respeta los principios de legalidad, consentimiento, finalidad, proporcionalidad, calidad, disposición de recurso, nivel de protección adecuado, conforme a las disposiciones de la Ley de Protección de Datos Personales vigente en Perú. \" En la Caja de Pensiones Militar Policial creemos firmemente en la igualdad de oportunidades por locual promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas condiscapacidad y/o habilidades diferentes (de acuerdo con lo establecido en la Ley N° 29973).\"",
+        "requisitos":  [
+                           "Título profesional o bachiller en economía, administración, ingeniería industrial, contabilidad o afines",
+                           "Experiencia general de tres (03) años y experiencia específica de dos (02) años acumulable como analista, asistente o puesto similar",
+                           "De preferencia, capacitación especializada en análisis de inversiones y riesgos de instrumentos financieros o alternativos financieras, mercado de capitales y programas de preparación a certificados internacionales de inversión y/o riesgos, acreditados mediante cursos que totalicen una duración no menor a treinta (30) horas lectivas. De preferencia, certificación internacionalmente reconocida en inversiones - Nivel I"
+                       ],
+        "funciones":  [
+                          "inherentes a su cargo que le sean asignadas por el Subgerente de Renta Variable y Alternativos"
+                      ],
+        "beneficios":  [
+                           "Remuneración: S/. 5,000.00",
+                           "Horario de Trabajo regular: 9:00 a.m. a 5:15 p.m. de lunes a viernes (presencial)",
+                           "Capacitación acorde a la necesidad del puesto",
+                           "Los datos personales que el postulante facilite a través de su hoja de vida, podrán ser recopilados, tratados, e incorporados a un Banco de Datos Personales de la CPMP, solo para dichos fines específicos, y serán conservados por un periodo máximo de dos años",
+                           "La Caja de Pensiones Militar Policial - CPMP declara que respeta los principios de legalidad, consentimiento, finalidad, proporcionalidad, calidad, disposición de recurso, nivel de protección adecuado, conforme a las disposiciones de la Ley de Protección de Datos Personales vigente en Perú",
+                           "\" En la Caja de Pensiones Militar Policial creemos firmemente en la igualdad de oportunidades por locual promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas condiscapacidad y/o habilidades diferentes (de acuerdo con lo establecido en la Ley N° 29973).\""
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-renta-variable-e-inversiones-alternativas-caja-de-pensiones-militar-policial-1118493391.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-renta-variable-e-inversiones-alternativas-caja-de-pensiones-militar-policial-1118493391.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eTítulo profesional o bachiller en economía, administración, ingeniería industrial, contabilidad o afines.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia general de tres (03) años y experiencia específica de dos (02) años acumulable como analista, asistente o puesto similar.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eDe preferencia, capacitación especializada en análisis de inversiones y riesgos de instrumentos financieros o alternativos financieras, mercado de capitales y programas de preparación a certificados internacionales de inversión y/o riesgos, acreditados mediante cursos que totalicen una duración no menor a treinta (30) horas lectivas. De preferencia, certificación internacionalmente reconocida en inversiones - Nivel I\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES BASICAS:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAnalizar y monitorear las inversiones en instrumentos financieros de renta variable e inversiones alternativas del Fondo del Decreto Legislativo N° 1133 administrado por la CPMP, en concordancia con las políticas y objetivos establecidos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES ESPECÍFICAS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar análisis de mercado y tendencias macroeconómicas para detectar oportunidades de inversión en el mercado financiero, según la estrategia para renta variable e inversiones alternativas.\u003c/li\u003e \u003cli\u003eParticipar en la determinación de la estrategia de inversiones del portafolio, respecto a renta variable e inversiones alternativas.\u003c/li\u003e \u003cli\u003eParticipar en reuniones de mercados y presentación de oportunidades de inversión de las diversas administradoras de fondos y/o contrapartes (extranjeras o locales), para evaluación.\u003c/li\u003e \u003cli\u003eElaborar propuestas de elegibilidad de instrumentos y operaciones de inversión, emisores, intermediarios de negociación, contrapartes, entidades de custodia, mecanismos electrónicos de negociación, indicadores de referencia, entre otros, de renta variable e inversiones alternativas.\u003c/li\u003e \u003cli\u003eRecopilar documentos que forman parte del sustento del análisis de la decisión de inversión, el mismo que integra el Archivo de Expediente de Inversión de los instrumentos u operaciones de inversión de renta variable e inversiones alternativas.\u003c/li\u003e \u003cli\u003eElaborar propuestas de inversión y/u operación de clases de activos, emisores, intermediarios de negociación, contrapartes, entidades de custodia, mecanismos electrónicos de negociación, entre otros, en relación a las inversiones en renta variable e inversiones alternativas. Elaborar la propuesta de ejecución de instrumentos de inversión de renta variable e inversiones alternativas en el sistema integrado de inversiones financieras.\u003c/li\u003e \u003cli\u003eElaborar información y reportes sobre el mercado financiero, seguimiento de indicadores y activos subyacentes para la toma de decisiones. Elaborar el informe mensual de la situación de las inversiones en renta variable e inversiones alternativas y su desempeño.\u003c/li\u003e \u003cli\u003eProponer formatos y/o reportes de seguimiento del desempeño de los productos de renta variable e inversiones alternativas del portafolio para ser presentados en los diferentes comités.\u003c/li\u003e \u003cli\u003eElaborar el presupuesto de ingresos por las inversiones en instrumentos financieros de renta variable e inversiones alternativas.\u003c/li\u003e \u003cli\u003eElaborar los reportes de resultados de rentabilidad y riesgo del portafolio de renta variable e inversiones alternativas, así como monitorear los resultados de portafolios administrados por terceros.\u003c/li\u003e \u003cli\u003eMonitorear el desempeño de las inversiones existentes en renta variable e inversiones alternativas y evaluar la efectividad de las estrategias de Inversión de estas.\u003c/li\u003e \u003cli\u003eCumplir la normativa interna y externa aplicable a su ámbito de acción.\u003c/li\u003e \u003cli\u003eParticipar de manera activa y permanente en las acciones dispuestas en la gestión integral de riesgos, asociadas a las actividades que realiza.\u003c/li\u003e \u003cli\u003eParticipar en la implementación y actualización del sistema de control interno.\u003c/li\u003e \u003cli\u003eDesempeñar las demás funciones inherentes a su cargo que le sean asignadas por el Subgerente de Renta Variable y Alternativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración: S\u003cstrong\u003e/. 5,000.00\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eHorario de Trabajo regular: \u003cstrong\u003e9:00 a.m. a 5:15 p.m. de lunes a viernes (presencial).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eCapacitación acorde a la necesidad del puesto.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003eLos datos personales que el postulante facilite a través de su hoja de vida, podrán ser recopilados, tratados, e incorporados a un Banco de Datos Personales de la CPMP, solo para dichos fines específicos, y serán conservados por un periodo máximo de dos años.\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eLa Caja de Pensiones Militar Policial - CPMP declara que respeta los principios de legalidad, consentimiento, finalidad, proporcionalidad, calidad, disposición de recurso, nivel de protección adecuado, conforme a las disposiciones de la Ley de Protección de Datos Personales vigente en Perú.\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e\u0026quot; En la Caja de Pensiones Militar Policial creemos firmemente en la igualdad de oportunidades por locual promovemos la diversidad de género, origen étnico, nacionalidad, la inclusión de personas condiscapacidad y/o habilidades diferentes (de acuerdo con lo establecido en la Ley N° 29973).\u0026quot;\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118492421",
+        "clave":  "id:1118492421",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-merce-consulting-1118492421.html",
+                       "capturadoEn":  "2026-10-23T22:10:11+00:00"
+                   },
+        "titulo":  "Auxiliar de Almacén",
+        "empresa":  "MERCE CONSULTING",
+        "ubicacion":  "Lima - Lurín",
+        "ciudad":  "Lurín",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Importante empresa del rubro de refrigeración industrial se encuentra en la búsqueda de un Auxiliar de almacén: Apoyar al jefe y coordinador del área en la gestión y coordinación con áreas afines. Realizar correcto archivo y control de documentación de los procesos del área. Participar en el proceso de toma y conciliación de inventarios en almacén. Realizar el picking y packing de materiales para su despacho correcto, asegurando la preparación eficiente de los pedidos. Recoger y/o enviar las encomiendas que solicite sus jefaturas. Apoyar en la organización física del almacén siguiendo criterios de clasificación, rotación de stock y optimización de espacios. Hacer uso del montacargas para las actividades del almacén, así como asegurar su funcionamiento a través de los mantenimientos a coordinar. Reportar a su Jefatura accidentes, pérdidas o deterioros en los materiales y en las instalaciones y equipos en el almacén o en las instalaciones en general. Cumplir y hacer cumplir las normas de seguridad, salud ocupacional y medio ambiente con personal tercero que participe en las operaciones del almacén. Participar en reuniones de coordinación del área de almacén. Requisitos: Técnico egresado o trunco carreras de administración industrial, contabilidad o afines. Disponibilidad para brindar soporte fines de semana. Experiencia mínima de 6 meses en almacenes. Contar con licencia de conducir A-1",
+        "requisitos":  [
+                           "Técnico egresado o trunco carreras de administración industrial, contabilidad o afines",
+                           "Disponibilidad para brindar soporte fines de semana",
+                           "Experiencia mínima de 6 meses en almacenes",
+                           "Contar con licencia de conducir A-1"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-merce-consulting-1118492421.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-merce-consulting-1118492421.html",
+        "descripcion_html":  "\u003cp\u003eImportante empresa del rubro de refrigeración industrial se encuentra en la búsqueda de un Auxiliar de almacén:\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar al jefe y coordinador del área en la gestión y coordinación con áreas afines.\u003c/li\u003e \u003cli\u003eRealizar correcto archivo y control de documentación de los procesos del área.\u003c/li\u003e \u003cli\u003eParticipar en el proceso de toma y conciliación de inventarios en almacén.\u003c/li\u003e \u003cli\u003eRealizar el picking y packing de materiales para su despacho correcto, asegurando la preparación eficiente de los pedidos.\u003c/li\u003e \u003cli\u003eRecoger y/o enviar las encomiendas que solicite sus jefaturas.\u003c/li\u003e \u003cli\u003eApoyar en la organización física del almacén siguiendo criterios de clasificación, rotación de stock y optimización de espacios.\u003c/li\u003e \u003cli\u003eHacer uso del montacargas para las actividades del almacén, así como asegurar su funcionamiento a través de los mantenimientos a coordinar.\u003c/li\u003e \u003cli\u003eReportar a su Jefatura accidentes, pérdidas o deterioros en los materiales y en las instalaciones y equipos en el almacén o en las instalaciones en general.\u003c/li\u003e \u003cli\u003eCumplir y hacer cumplir las normas de seguridad, salud ocupacional y medio ambiente con personal tercero que participe en las operaciones del almacén.\u003c/li\u003e \u003cli\u003eParticipar en reuniones de coordinación del área de almacén.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico egresado o trunco carreras de administración industrial, contabilidad o afines.\u003c/li\u003e \u003cli\u003eDisponibilidad para brindar soporte fines de semana.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en almacenes.\u003c/li\u003e \u003cli\u003eContar con licencia de conducir A-1\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493390",
+        "clave":  "id:1118493390",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-contable-miraflores-adecco-peru-s.a.-1118493390.html",
+                       "capturadoEn":  "2026-10-23T22:10:12+00:00"
+                   },
+        "titulo":  "Asistente Administrativo Contable / Miraflores",
+        "empresa":  "ADECCO PERU S.A.",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En Adecco Perú, firma global especializada en atracción y selección de personal, por encargo de nuestro cliente, estudio de arquitectura con amplia experiencia proyectual , nos encontramos en la búsqueda de un Asistente Administrativo Contable. REQUISITOS Egresado, bachiller o titulado en Contabilidad o Finanzas. Mínimo 1 año de experiencia en funciones y cargos similares. Manejo de Excel a nivel intermedio - avanzado para análisis de información. Funciones de Contable 70% y Administrativo 30%. Conocimientos solidos de contabilidad, gestión operativa y administrativa. Deseable cotizaciones de arquitectura. Disponibilidad para laborar en Miraflores FUNCIONES Manejo del portal SUNAT y sobre todo gestión de detracciones, revisión, control y pago. Emisión de facturas ventas, boletas, recibos por honorario, etc. Registro y control de facturas de ventas. Elaboración de reportes en Excel (conocimiento intermedio – avanzado). Control diario de ingresos y egresos de caja chica. Organización de archivo, revisar, ordenar y clasificar comprobantes y facturas etc. y registro de documentación física y digital. Conciliación bancaria control de cotizaciones y pago a proveedores. Elaboración y control de contratos y coordinación de toma de firmas con los clientes. Seguimiento de cuentas por cobrar, y pagar. Ingreso de facturas venta al portal de proveedores de las inmobiliarias. Cálculo de impuestos de arrendamientos Horario de trabajo: de L-V: 9am a 7pm Adecco Perú, valora la diversidad y promueve la igualdad de oportunidades en el empleo. Todos los candidatos serán considerados sin distinción de raza, color, religión, sexo, orientación sexual, edad, nacionalidad, discapacidad o cualquier otro factor protegido por la legislación aplicable. ¡Esperamos recibir tu solicitud y tener la oportunidad de trabajar juntos para alcanzar el éxito!",
+        "requisitos":  [
+                           "Egresado, bachiller o titulado en Contabilidad o Finanzas",
+                           "Mínimo 1 año de experiencia en"
+                       ],
+        "funciones":  [
+                          "Manejo del portal SUNAT y sobre todo gestión de detracciones, revisión, control y pago",
+                          "Emisión de facturas ventas, boletas, recibos por honorario, etc",
+                          "Registro y control de facturas de ventas",
+                          "Elaboración de reportes en Excel (conocimiento intermedio – avanzado)",
+                          "Control diario de ingresos y egresos de caja chica",
+                          "Organización de archivo, revisar, ordenar y clasificar comprobantes y facturas etc. y registro de documentación física y digital",
+                          "Conciliación bancaria",
+                          "control de cotizaciones y pago a proveedores",
+                          "Elaboración y control de contratos y coordinación de toma de firmas con los clientes",
+                          "Seguimiento de cuentas por cobrar, y pagar",
+                          "Ingreso de facturas venta al portal de proveedores de las inmobiliarias",
+                          "Cálculo de impuestos de arrendamientos",
+                          "Horario de trabajo: de L-V: 9am a 7pm",
+                          "Adecco Perú, valora la diversidad y promueve la igualdad de oportunidades en el empleo. Todos los candidatos serán considerados sin distinción de raza, color, religión, sexo, orientación sexual, edad, nacionalidad, discapacidad o cualquier otro factor protegido por la legislación aplicable",
+                          "¡Esperamos recibir tu solicitud y tener la oportunidad de trabajar juntos para alcanzar el éxito!"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-contable-miraflores-adecco-peru-s.a.-1118493390.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-contable-miraflores-adecco-peru-s.a.-1118493390.html",
+        "descripcion_html":  "\u003cp\u003eEn Adecco Perú, firma global especializada en atracción y selección de personal, por encargo de nuestro cliente, \u003cstrong\u003eestudio de arquitectura con amplia experiencia proyectual\u003c/strong\u003e, nos encontramos en la búsqueda de un \u003cem\u003e\u003cstrong\u003eAsistente Administrativo Contable.\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado, bachiller o titulado en Contabilidad o Finanzas.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia en funciones y cargos similares.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio - avanzado para análisis de información.\u003c/li\u003e \u003cli\u003eFunciones de Contable 70% y Administrativo 30%. \u003c/li\u003e \u003cli\u003eConocimientos solidos de contabilidad, gestión operativa y administrativa. \u003c/li\u003e \u003cli\u003eDeseable cotizaciones de arquitectura. \u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en \u003cstrong\u003eMiraflores \u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Manejo del portal SUNAT y sobre todo gestión de detracciones, revisión, control y pago. \u003c/li\u003e \u003cli\u003eEmisión de facturas ventas, boletas, recibos por honorario, etc. \u003c/li\u003e \u003cli\u003eRegistro y control de facturas de ventas. \u003c/li\u003e \u003cli\u003eElaboración de reportes en Excel (conocimiento intermedio – avanzado). \u003c/li\u003e \u003cli\u003eControl diario de ingresos y egresos de caja chica.\u003c/li\u003e \u003cli\u003eOrganización de archivo, revisar, ordenar y clasificar comprobantes y facturas etc. y registro de documentación física y digital. \u003c/li\u003e \u003cli\u003eConciliación bancaria \u003c/li\u003e \u003cli\u003econtrol de cotizaciones y pago a proveedores. \u003c/li\u003e \u003cli\u003eElaboración y control de contratos y coordinación de toma de firmas con los clientes. \u003c/li\u003e \u003cli\u003eSeguimiento de cuentas por cobrar, y pagar. \u003c/li\u003e \u003cli\u003eIngreso de facturas venta al portal de proveedores de las inmobiliarias. \u003c/li\u003e \u003cli\u003eCálculo de impuestos de arrendamientos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eHorario de trabajo: de L-V: 9am a 7pm\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003eAdecco Perú, valora la diversidad y promueve la igualdad de oportunidades en el empleo. Todos los candidatos serán considerados sin distinción de raza, color, religión, sexo, orientación sexual, edad, nacionalidad, discapacidad o cualquier otro factor protegido por la legislación aplicable.\u003c/p\u003e\u003cp\u003e¡Esperamos recibir tu solicitud y tener la oportunidad de trabajar juntos para alcanzar el éxito!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493388",
+        "clave":  "id:1118493388",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/gestor-a-junior-de-operaciones-tecnicas-en-electronica-y-telecomunicaciones-adecco-peru-s.a.-1118493388.html",
+                       "capturadoEn":  "2026-10-23T22:10:13+00:00"
+                   },
+        "titulo":  "Gestor/a Junior de Operaciones Técnicas en Electrónica y Telecomunicaciones",
+        "empresa":  "ADECCO PERU S.A.",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "CONTRACTOR",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Nos encontramos en la búsqueda de un/a Gestor/a Junior de Operaciones Técnicas en Electrónica y Telecomunicaciones con interés en desarrollarse en tecnología, electrónica, telecomunicaciones y atención técnica especializada. ¿Qué buscamos? Egresados técnicos o universitarios de Electrónica, Telecomunicaciones, Redes, Computación e Informática, Mecatrónica o carreras afines. \u0026#x1f539;Experiencia mínimo 6 meses en funciones similares \u0026#x1f539;Conocimiento y manejo de multímetro para mediciones básicas. \u0026#x1f539;Manejo de Excel a nivel intermedio. \u0026#x1f539;Inglés básico (deseable). \u0026#x1f539;Disponibilidad para laborar de Lunes a viernes 7:00am a 4:00pm Funciones : \u0026#x1f539;Configuración y carga de software y firmware en equipos electrónicos. \u0026#x1f539; Diagnóstico básico de hardware, revisión de componentes y medición de parámetros eléctricos. \u0026#x1f539; Instalación, mantenimiento y soporte de equipos tecnológicos en campo. \u0026#x1f539; Atención y soporte técnico remoto y presencial a clientes. \u0026#x1f539; Uso de plataformas tecnológicas propietarias para monitoreo y soporte. \u0026#x1f539; Elaboración de reportes y documentación técnica. Beneficios \u0026#x1f539;Ingreso a planilla completa desde el primer día. \u0026#x1f539;Movilidad para visitas técnicas. \u0026#x1f539;Capacitación internacional en España. (cubre la compañía) \u0026#x1f539;Excelente oportunidad para desarrollarte en una empresa tecnológica con proyectos innovadores. \u0026#x1f539; Medio día libre por cumpleaños.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "\u0026#x1f539;Configuración y carga de software y firmware en equipos electrónicos",
+                          "\u0026#x1f539; Diagnóstico básico de hardware, revisión de componentes y medición de parámetros eléctricos",
+                          "\u0026#x1f539; Instalación, mantenimiento y soporte de equipos tecnológicos en campo",
+                          "\u0026#x1f539; Atención y soporte técnico remoto y presencial a clientes",
+                          "\u0026#x1f539; Uso de plataformas tecnológicas propietarias para monitoreo y soporte",
+                          "\u0026#x1f539; Elaboración de reportes y documentación técnica"
+                      ],
+        "beneficios":  [
+                           "\u0026#x1f539;Ingreso a planilla completa desde el primer día",
+                           "\u0026#x1f539;Movilidad para visitas técnicas",
+                           "\u0026#x1f539;Capacitación internacional en España. (cubre la compañía)",
+                           "\u0026#x1f539;Excelente oportunidad para desarrollarte en una empresa tecnológica con proyectos innovadores",
+                           "\u0026#x1f539; Medio día libre por cumpleaños"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/gestor-a-junior-de-operaciones-tecnicas-en-electronica-y-telecomunicaciones-adecco-peru-s.a.-1118493388.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/gestor-a-junior-de-operaciones-tecnicas-en-electronica-y-telecomunicaciones-adecco-peru-s.a.-1118493388.html",
+        "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda de un/a Gestor/a Junior de Operaciones Técnicas en Electrónica y Telecomunicaciones con interés en desarrollarse en tecnología, electrónica, telecomunicaciones y atención técnica especializada. \u003c/p\u003e\u003cp\u003e¿Qué buscamos? \u003c/p\u003e\u003cp\u003eEgresados técnicos o universitarios de Electrónica, Telecomunicaciones, Redes, Computación e Informática, Mecatrónica o carreras afines. \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Experiencia mínimo 6 meses en funciones similares \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Conocimiento y manejo de multímetro para mediciones básicas. \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Manejo de Excel a nivel intermedio. \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Inglés básico (deseable). \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Disponibilidad para laborar de Lunes a viernes 7:00am a 4:00pm \u003c/p\u003e\u003cp\u003eFunciones :\u003c/p\u003e\u003cp\u003e\u0026#x1f539;Configuración y carga de software y firmware en equipos electrónicos. \u003c/p\u003e\u003cp\u003e\u0026#x1f539; Diagnóstico básico de hardware, revisión de componentes y medición de parámetros eléctricos. \u003c/p\u003e\u003cp\u003e\u0026#x1f539; Instalación, mantenimiento y soporte de equipos tecnológicos en campo. \u003c/p\u003e\u003cp\u003e\u0026#x1f539; Atención y soporte técnico remoto y presencial a clientes. \u003c/p\u003e\u003cp\u003e\u0026#x1f539; Uso de plataformas tecnológicas propietarias para monitoreo y soporte. \u003c/p\u003e\u003cp\u003e\u0026#x1f539; Elaboración de reportes y documentación técnica. \u003c/p\u003e\u003cp\u003e Beneficios \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Ingreso a planilla completa desde el primer día. \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Movilidad para visitas técnicas. \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Capacitación internacional en España. (cubre la compañía) \u003c/p\u003e\u003cp\u003e\u0026#x1f539;Excelente oportunidad para desarrollarte en una empresa tecnológica con proyectos innovadores. \u003c/p\u003e\u003cp\u003e\u0026#x1f539; Medio día libre por cumpleaños. \u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493385",
+        "clave":  "id:1118493385",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-planeamiento-mina-compania-minera-kolpa-s.a.-1118493385.html",
+                       "capturadoEn":  "2026-10-23T22:10:14+00:00"
+                   },
+        "titulo":  "Practicante Profesional de Planeamiento - Mina",
+        "empresa":  "Compañía Minera Kolpa S.A.",
+        "ubicacion":  "Huancavelica",
+        "ciudad":  "Huancavelica",
+        "region":  "Huancavelica",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Compañía Minera Kolpa S.A. (“Kolpa”), subsidiaria peruana de Endeavour Silver Corp. , opera la unidad Huachocolpa Uno en Huancavelica y está enfocada en la exploración, desarrollo y producción de depósitos polimetálicos, con énfasis en prácticas mineras sostenibles y responsables. Nos encontramos en la búsqueda del mejor talento que posea el siguiente perfil: Requisitos: Egresado o bachiller de las carreras de Ingeniería de Minas o Geología . Deseable contar con al menos 3 meses de prácticas preprofesionales. No excluyente. Dominio de Microsoft Excel nivel intermedio. Manejo de Sotfware especializado Deswik y Power BI. Disponibilidad para laborar bajo régimen 14x7 . Funciones: Apoyar en la elaboración y seguimiento de planes de corto, mediano y largo plazo. Brindar soporte en análisis de producción, costos y recursos. Apoyar en la elaboración de proyecciones y reportes estadísticos. Verificar y consolidar información de distintas áreas operativas. Registrar y elaborar información operativa en bases de datos e indicadores de gestión (KPIs). Competencias: Aprendizaje continuo. Trabajo en equipo. Compromiso. ¡Sé parte de nuestro gran equipo! #ÚneteAKolpa En Kolpa promovemos la igualdad de oportunidades y el respeto por la diversidad. En cumplimiento de la Ley N.º 29973 , reafirmamos nuestro compromiso con procesos de selección inclusivos, donde cada persona es evaluada en base a sus competencias y méritos, sin distinción de origen étnico, género, edad, orientación sexual, condición de discapacidad u otros factores.",
+        "requisitos":  [
+                           "Egresado o bachiller de las carreras de Ingeniería de Minas o Geología",
+                           "Deseable contar con al menos 3 meses de prácticas preprofesionales. No excluyente",
+                           "Dominio de Microsoft Excel nivel intermedio",
+                           "Manejo de Sotfware especializado Deswik y Power BI",
+                           "Disponibilidad para laborar bajo régimen 14x7"
+                       ],
+        "funciones":  [
+                          "Apoyar en la elaboración y seguimiento de planes de corto, mediano y largo plazo",
+                          "Brindar soporte en análisis de producción, costos y recursos",
+                          "Apoyar en la elaboración de proyecciones y reportes estadísticos",
+                          "Verificar y consolidar información de distintas áreas operativas",
+                          "Registrar y elaborar información operativa en bases de datos e indicadores de gestión (KPIs)",
+                          "Competencias",
+                          "Aprendizaje continuo",
+                          "Trabajo en equipo",
+                          "Compromiso",
+                          "¡Sé parte de nuestro gran equipo!",
+                          "#ÚneteAKolpa",
+                          "En Kolpa promovemos la igualdad de oportunidades y el respeto por la diversidad. En cumplimiento de la Ley N.º 29973, reafirmamos nuestro compromiso con procesos de selección inclusivos, donde cada persona es evaluada en base a sus competencias y méritos, sin distinción de origen étnico, género, edad, orientación sexual, condición de discapacidad u otros factores"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-planeamiento-mina-compania-minera-kolpa-s.a.-1118493385.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-planeamiento-mina-compania-minera-kolpa-s.a.-1118493385.html",
+        "descripcion_html":  "\u003cp\u003eCompañía Minera Kolpa S.A. (“Kolpa”), subsidiaria peruana de \u003cstrong\u003eEndeavour Silver Corp.\u003c/strong\u003e, opera la unidad Huachocolpa Uno en Huancavelica y está enfocada en la exploración, desarrollo y producción de depósitos polimetálicos, con énfasis en prácticas mineras sostenibles y responsables.\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda del mejor talento que posea el siguiente perfil:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado o bachiller de las carreras de Ingeniería de Minas o Geología .\u003c/li\u003e \u003cli\u003eDeseable contar con al menos 3 meses de prácticas preprofesionales. No excluyente.\u003c/li\u003e \u003cli\u003eDominio de Microsoft Excel nivel intermedio.\u003c/li\u003e \u003cli\u003eManejo de Sotfware especializado Deswik y Power BI.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar bajo régimen \u003cstrong\u003e14x7\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en la elaboración y seguimiento de planes de corto, mediano y largo plazo.\u003c/li\u003e \u003cli\u003eBrindar soporte en análisis de producción, costos y recursos.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración de proyecciones y reportes estadísticos.\u003c/li\u003e \u003cli\u003eVerificar y consolidar información de distintas áreas operativas.\u003c/li\u003e \u003cli\u003eRegistrar y elaborar información operativa en bases de datos e indicadores de gestión (KPIs).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAprendizaje continuo.\u003c/li\u003e \u003cli\u003eTrabajo en equipo.\u003c/li\u003e \u003cli\u003eCompromiso.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Sé parte de nuestro gran equipo!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e#ÚneteAKolpa\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn Kolpa promovemos la igualdad de oportunidades y el respeto por la diversidad. En cumplimiento de la \u003cstrong\u003eLey N.º 29973\u003c/strong\u003e, reafirmamos nuestro compromiso con procesos de selección inclusivos, donde cada persona es evaluada en base a sus competencias y méritos, sin distinción de origen étnico, género, edad, orientación sexual, condición de discapacidad u otros factores.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493381",
+        "clave":  "id:1118493381",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-y-seleccion-temporal-sector-mineria-sodexo-peru-1118493381.html",
+                       "capturadoEn":  "2026-10-23T22:10:15+00:00"
+                   },
+        "titulo":  "Asistente de Recursos y Selección Temporal - Sector Minería",
+        "empresa":  "SODEXO PERU",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "Temporal",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Asistente de Recursos y Selección Temporal - Sector Minería Resumen del Puesto Estamos en búsqueda de un Asistente de Recursos y Selección Temporal para unirse a nuestro equipo. El rol tendrá una duración aproximada de dos meses y se enfocará en la gestión de perfiles para el área de cocina. Se requiere disponibilidad para trabajar de forma presencial de lunes a sábado. Responsabilidades Apoyar en los procesos de reclutamiento y selección de personal para perfiles operativos, técnicos y de staff. Coordinar y ejecutar labores operativas del área de recursos y selección. Gestionar la documentación y procesos administrativos relacionados con la contratación del personal. Asegurar el cumplimiento de los procedimientos establecidos para la gestión del personal. Requisitos Experiencia previa en selección, preferentemente en sectores industriales o de servicios. Conocimiento en la gestión de procesos de contratación, especialmente para perfiles operativos. Disponibilidad para laborar de lunes a sábado. Flexibilidad para adaptarse a posibles traslados a campamento en fechas específicas.",
+        "requisitos":  [
+                           "Experiencia previa en selección, preferentemente en sectores industriales o de servicios",
+                           "Conocimiento en la gestión de procesos de contratación, especialmente para perfiles operativos",
+                           "Disponibilidad para laborar de lunes a sábado",
+                           "Flexibilidad para adaptarse a posibles traslados a campamento en fechas específicas"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-y-seleccion-temporal-sector-mineria-sodexo-peru-1118493381.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-y-seleccion-temporal-sector-mineria-sodexo-peru-1118493381.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente de Recursos y Selección Temporal - Sector Minería\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en búsqueda de un \u003cstrong\u003eAsistente de Recursos y Selección Temporal\u003c/strong\u003e para unirse a nuestro equipo. El rol tendrá una duración aproximada de dos meses y se enfocará en la gestión de perfiles para el área de cocina. Se requiere disponibilidad para trabajar de forma presencial de lunes a sábado.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en los procesos de reclutamiento y selección de personal para perfiles operativos, técnicos y de staff.\u003c/li\u003e \u003cli\u003eCoordinar y ejecutar labores operativas del área de recursos y selección.\u003c/li\u003e \u003cli\u003eGestionar la documentación y procesos administrativos relacionados con la contratación del personal.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los procedimientos establecidos para la gestión del personal.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en selección, preferentemente en sectores industriales o de servicios.\u003c/li\u003e \u003cli\u003eConocimiento en la gestión de procesos de contratación, especialmente para perfiles operativos.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a sábado.\u003c/li\u003e \u003cli\u003eFlexibilidad para adaptarse a posibles traslados a campamento en fechas específicas.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493377",
+        "clave":  "id:1118493377",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-restaurante-chicharroneria-kio-aramburu-1118493377.html",
+                       "capturadoEn":  "2026-10-23T22:10:16+00:00"
+                   },
+        "titulo":  "Administrador de Restaurante",
+        "empresa":  "CHICHARRONERIA KIO ARAMBURU",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2300,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2,000 - S/ 2,300",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Administrador de Restaurante Resumen del Puesto Estamos en la búsqueda de un Administrador de Restaurante proactivo y con experiencia para supervisar las operaciones diarias de nuestro establecimiento. El candidato ideal poseerá habilidades de liderazgo sólidas, un enfoque en la excelencia del servicio al cliente y la capacidad de gestionar equipos de manera efectiva. Responsabilidades Supervisar todas las operaciones del restaurante, incluyendo la gestión del personal, el control de inventario y la atención al cliente. Garantizar el cumplimiento de los estándares de calidad en alimentos y servicio. Gestionar horarios del personal, capacitación y evaluación del desempeño. Controlar los costos operativos y optimizar la rentabilidad. Mantener un ambiente de trabajo positivo y productivo. Resolver incidencias y quejas de clientes de manera eficiente. Requisitos Experiencia previa comprobable en administración de restaurantes o puestos similares. Conocimiento profundo de las operaciones de servicio de alimentos y bebidas. Habilidades de liderazgo y gestión de equipos. Excelentes habilidades de comunicación y relaciones interpersonales. Capacidad para trabajar bajo presión y tomar decisiones rápidas. Orientación al detalle y habilidades organizativas.",
+        "requisitos":  [
+                           "Experiencia previa comprobable en administración de restaurantes o puestos similares",
+                           "Conocimiento profundo de las operaciones de servicio de alimentos y bebidas",
+                           "Habilidades de liderazgo y gestión de equipos",
+                           "Excelentes habilidades de comunicación y relaciones interpersonales",
+                           "Capacidad para trabajar bajo presión y tomar decisiones rápidas",
+                           "Orientación al detalle y habilidades organizativas"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/administrador-de-restaurante-chicharroneria-kio-aramburu-1118493377.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-restaurante-chicharroneria-kio-aramburu-1118493377.html",
+        "descripcion_html":  "\u003cb\u003eAdministrador de Restaurante\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAdministrador de Restaurante\u003c/b\u003e proactivo y con experiencia para supervisar las operaciones diarias de nuestro establecimiento. El candidato ideal poseerá habilidades de liderazgo sólidas, un enfoque en la excelencia del servicio al cliente y la capacidad de gestionar equipos de manera efectiva.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar todas las operaciones del restaurante, incluyendo la gestión del personal, el control de inventario y la atención al cliente.\u003c/li\u003e \u003cli\u003eGarantizar el cumplimiento de los estándares de calidad en alimentos y servicio.\u003c/li\u003e \u003cli\u003eGestionar horarios del personal, capacitación y evaluación del desempeño.\u003c/li\u003e \u003cli\u003eControlar los costos operativos y optimizar la rentabilidad.\u003c/li\u003e \u003cli\u003eMantener un ambiente de trabajo positivo y productivo.\u003c/li\u003e \u003cli\u003eResolver incidencias y quejas de clientes de manera eficiente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa comprobable en administración de restaurantes o puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento profundo de las operaciones de servicio de alimentos y bebidas.\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo y gestión de equipos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y tomar decisiones rápidas.\u003c/li\u003e \u003cli\u003eOrientación al detalle y habilidades organizativas.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493376",
+        "clave":  "id:1118493376",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-tienda-natura-supervisor-de-tiendas-lima-adecco-peru-s.a.-1118493376.html",
+                       "capturadoEn":  "2026-10-23T22:10:17+00:00"
+                   },
+        "titulo":  "Jefe de tienda Natura/ Supervisor de tiendas/ Lima",
+        "empresa":  "ADECCO PERU S.A.",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  360,
+                        "max":  360,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "360 soles",
+                        "fuente_salario":  "descripcion"
+                    },
+        "descripcion":  "¡Únete a este gran equipo! Por aperturas de nuevas tiendas de Natura, esta buscando JEFE DE TIENDA con disponibilidad de trabajar en Lima \u0026#x1f50d; ¿Quién Buscamos? Competencias: Capacidad de liderazgo, empatía, y experiencia en la gestión de personas. Experiencia en trato directo con clientes y comunicación asertiva a todos los niveles. Habilidad para manejar un equipo diverso, incluyendo miembros con discapacidad física o mental, según nuestras políticas de inclusión. Estudios: Mínimo técnico o en curso de universidad. Excel intermedio. Experiencia: A partir de 1 año como jefe de tienda o vendedor/a Sr. De preferencia del rubro retail \u0026#x1f4bc; Responsabilidades: *Operativas (80%)*: Incentivar la fuerza de venta, atender a los clientes, reponer productos, hacer caja y cubrir ausencias de personal. *Administrativas (20%)*: Logística, control del dinero, chequear pedidos y stock. \u0026#x1f552; Horario: Rango Horario: 8 am a 9 pm (8 horas diarias) Días de Trabajo: 6 días a la semana, con turnos rotativos. 1 día de descanso preferentemente entre semana (lunes a viernes). \u0026#x1f381; Beneficios: Remuneración: Superior al mercado Comisiones: A partir del 90% de las ventas. Seguro y EPS. SODEXO: 360 soles para alimentación. Descuentos Corporativos y otros beneficios adicionales. Planilla Completa: Contrato directo con Natura.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "adicionales",
+                           "Planilla Completa: Contrato directo con Natura"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/jefe-de-tienda-natura-supervisor-de-tiendas-lima-adecco-peru-s.a.-1118493376.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-tienda-natura-supervisor-de-tiendas-lima-adecco-peru-s.a.-1118493376.html",
+        "descripcion_html":  "\u003cp\u003e¡Únete a este gran equipo!\u003c/p\u003e\u003cp\u003ePor aperturas de nuevas tiendas de Natura, esta buscando JEFE DE TIENDA con disponibilidad de trabajar en Lima\u003c/p\u003e\u003cp\u003e\u0026#x1f50d; ¿Quién Buscamos?\u003c/p\u003e\u003cp\u003eCompetencias: Capacidad de liderazgo, empatía, y experiencia en la gestión de personas. Experiencia en trato directo con clientes y comunicación asertiva a todos los niveles. Habilidad para manejar un equipo diverso, incluyendo miembros con discapacidad física o mental, según nuestras políticas de inclusión.\u003c/p\u003e\u003cp\u003eEstudios: Mínimo técnico o en curso de universidad. Excel intermedio.\u003c/p\u003e\u003cp\u003eExperiencia: A partir de 1 año como jefe de tienda o vendedor/a Sr. De preferencia del rubro retail\u003c/p\u003e\u003cp\u003e\u0026#x1f4bc; Responsabilidades:\u003c/p\u003e\u003cp\u003e*Operativas (80%)*: Incentivar la fuerza de venta, atender a los clientes, reponer productos, hacer caja y cubrir ausencias de personal.\u003c/p\u003e\u003cp\u003e*Administrativas (20%)*: Logística, control del dinero, chequear pedidos y stock.\u003c/p\u003e\u003cp\u003e\u0026#x1f552; Horario:\u003c/p\u003e\u003cp\u003eRango Horario: 8 am a 9 pm (8 horas diarias)\u003c/p\u003e\u003cp\u003eDías de Trabajo: 6 días a la semana, con turnos rotativos. 1 día de descanso preferentemente entre semana (lunes a viernes).\u003c/p\u003e\u003cp\u003e\u0026#x1f381; Beneficios:\u003c/p\u003e\u003cp\u003eRemuneración: Superior al mercado\u003c/p\u003e\u003cp\u003eComisiones: A partir del 90% de las ventas.\u003c/p\u003e\u003cp\u003eSeguro y EPS.\u003c/p\u003e\u003cp\u003eSODEXO: 360 soles para alimentación.\u003c/p\u003e\u003cp\u003eDescuentos Corporativos y otros beneficios adicionales.\u003c/p\u003e\u003cp\u003ePlanilla Completa: Contrato directo con Natura.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Rango Horario: 8 am a 9 pm (8 horas diarias)",
+        "experiencia":  "",
+        "estudios":  "Mínimo técnico o en curso de universidad",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493375",
+        "clave":  "id:1118493375",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-tienda-natura-supervisor-de-tiendas-lima-adecco-peru-s.a.-1118493375.html",
+                       "capturadoEn":  "2026-10-23T22:10:18+00:00"
+                   },
+        "titulo":  "Jefe de tienda Natura/ Supervisor de tiendas/ Lima",
+        "empresa":  "ADECCO PERU S.A.",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  360,
+                        "max":  360,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "360 soles",
+                        "fuente_salario":  "descripcion"
+                    },
+        "descripcion":  "¡Únete a este gran equipo! Por aperturas de nuevas tiendas de Natura, esta buscando JEFE DE TIENDA con disponibilidad de trabajar en Lima \u0026#x1f50d; ¿Quién Buscamos? Competencias: Capacidad de liderazgo, empatía, y experiencia en la gestión de personas. Experiencia en trato directo con clientes y comunicación asertiva a todos los niveles. Habilidad para manejar un equipo diverso, incluyendo miembros con discapacidad física o mental, según nuestras políticas de inclusión. Estudios: Mínimo técnico o en curso de universidad. Excel intermedio. Experiencia: A partir de 1 año como jefe de tienda o vendedor/a Sr. De preferencia del rubro retail \u0026#x1f4bc; Responsabilidades: *Operativas (80%)*: Incentivar la fuerza de venta, atender a los clientes, reponer productos, hacer caja y cubrir ausencias de personal. *Administrativas (20%)*: Logística, control del dinero, chequear pedidos y stock. \u0026#x1f552; Horario: Rango Horario: 8 am a 9 pm (8 horas diarias) Días de Trabajo: 6 días a la semana, con turnos rotativos. 1 día de descanso preferentemente entre semana (lunes a viernes). \u0026#x1f381; Beneficios: Remuneración: Superior al mercado Comisiones: A partir del 90% de las ventas. Seguro y EPS. SODEXO: 360 soles para alimentación. Descuentos Corporativos y otros beneficios adicionales. Planilla Completa: Contrato directo con Natura.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "adicionales",
+                           "Planilla Completa: Contrato directo con Natura"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/jefe-de-tienda-natura-supervisor-de-tiendas-lima-adecco-peru-s.a.-1118493375.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-tienda-natura-supervisor-de-tiendas-lima-adecco-peru-s.a.-1118493375.html",
+        "descripcion_html":  "\u003cp\u003e¡Únete a este gran equipo!\u003c/p\u003e\u003cp\u003ePor aperturas de nuevas tiendas de Natura, esta buscando JEFE DE TIENDA con disponibilidad de trabajar en Lima\u003c/p\u003e\u003cp\u003e\u0026#x1f50d; ¿Quién Buscamos?\u003c/p\u003e\u003cp\u003eCompetencias: Capacidad de liderazgo, empatía, y experiencia en la gestión de personas. Experiencia en trato directo con clientes y comunicación asertiva a todos los niveles. Habilidad para manejar un equipo diverso, incluyendo miembros con discapacidad física o mental, según nuestras políticas de inclusión.\u003c/p\u003e\u003cp\u003eEstudios: Mínimo técnico o en curso de universidad. Excel intermedio.\u003c/p\u003e\u003cp\u003eExperiencia: A partir de 1 año como jefe de tienda o vendedor/a Sr. De preferencia del rubro retail\u003c/p\u003e\u003cp\u003e\u0026#x1f4bc; Responsabilidades:\u003c/p\u003e\u003cp\u003e*Operativas (80%)*: Incentivar la fuerza de venta, atender a los clientes, reponer productos, hacer caja y cubrir ausencias de personal.\u003c/p\u003e\u003cp\u003e*Administrativas (20%)*: Logística, control del dinero, chequear pedidos y stock.\u003c/p\u003e\u003cp\u003e\u0026#x1f552; Horario:\u003c/p\u003e\u003cp\u003eRango Horario: 8 am a 9 pm (8 horas diarias)\u003c/p\u003e\u003cp\u003eDías de Trabajo: 6 días a la semana, con turnos rotativos. 1 día de descanso preferentemente entre semana (lunes a viernes).\u003c/p\u003e\u003cp\u003e\u0026#x1f381; Beneficios:\u003c/p\u003e\u003cp\u003eRemuneración: Superior al mercado\u003c/p\u003e\u003cp\u003eComisiones: A partir del 90% de las ventas.\u003c/p\u003e\u003cp\u003eSeguro y EPS.\u003c/p\u003e\u003cp\u003eSODEXO: 360 soles para alimentación.\u003c/p\u003e\u003cp\u003eDescuentos Corporativos y otros beneficios adicionales.\u003c/p\u003e\u003cp\u003ePlanilla Completa: Contrato directo con Natura.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Rango Horario: 8 am a 9 pm (8 horas diarias)",
+        "experiencia":  "",
+        "estudios":  "Mínimo técnico o en curso de universidad",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118379092",
+        "clave":  "id:1118379092",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-control-interno-tiendas-tambo-1118379092.html",
+                       "capturadoEn":  "2026-10-23T22:10:19+00:00"
+                   },
+        "titulo":  "Practicante Pre Profesional de Control Interno",
+        "empresa":  "TIENDAS TAMBO",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos Tambo, la Tienda del Perú. Elaboramos y ofrecemos a nuestros clientes productos variados de calidad a precios accesibles, en una experiencia de compra fácil y rápida. Actualmente, nos encontramos en la búsqueda de los mejores talentos para cubrir la posición de Practicante Pre Profesional de Control Interno. Estas serán tus principales funciones: Brindar apoyo en el levantamiento de políticas y procesos conforme al plan de control interno establecido por el área. Apoyar en la elaboración de la Matriz de Riesgos de Controles dentro del proceso de relevamiento de procesos, utilizando herramientas tecnológicas que permitan administrar dicha matriz en tiempo real, y que pueda ser consultada por los dueños del proceso. Dar soporte a la elaboración de los reportes que contengan los indicadores establecidos para el monitoreo del Control Interno establecidos en la compañía para ser revisados con su jefe inmediato. Apoyar en la elaboración de presentaciones de estatus del area de Control Interno que son presentadas a la Gerencia del Area o Gerencia General. Apoyar en la ejecución de los check list para la revisión de las políticas y procedimientos implementados en la compañía, indicando secciones del procedimiento que presentan desviaciones con respecto a su cumplimiento. ¿Qué perfil buscamos? Estudiante de 8vo ciclo en adelante de Administración de Empresas o Ingeniería Industrial. Manejo de Excel y PowerBI a nivel avanzado. Manejo de SQL a nivel intermedio. Nuestros beneficios: Oportunidad de aprendizaje y desarrollo en una organización en constante crecimiento. Descuentos corporativos. Modalidad de trabajo colaborativa, con enfoque en dinamismo e innovación.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Brindar apoyo en el levantamiento de políticas y procesos conforme al plan de control interno establecido por el área",
+                          "Apoyar en la elaboración de la Matriz de Riesgos de Controles dentro del proceso de relevamiento de procesos, utilizando herramientas tecnológicas que permitan administrar dicha matriz en tiempo real, y que pueda ser consultada por los dueños del proceso",
+                          "Dar soporte a la elaboración de los reportes que contengan los indicadores establecidos para el monitoreo del Control Interno establecidos en la compañía para ser revisados con su jefe inmediato",
+                          "Apoyar en la elaboración de presentaciones de estatus del area de Control Interno que son presentadas a la Gerencia del Area o Gerencia General",
+                          "Apoyar en la ejecución de los check list para la revisión de las políticas y procedimientos implementados en la compañía, indicando secciones del procedimiento que presentan desviaciones con respecto a su cumplimiento",
+                          "¿Qué"
+                      ],
+        "beneficios":  [
+                           "Oportunidad de aprendizaje y desarrollo en una organización en constante crecimiento",
+                           "Descuentos corporativos",
+                           "Modalidad de trabajo colaborativa, con enfoque en dinamismo e innovación"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-control-interno-tiendas-tambo-1118379092.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-control-interno-tiendas-tambo-1118379092.html",
+        "descripcion_html":  "\u003cp\u003eSomos Tambo, la Tienda del Perú. Elaboramos y ofrecemos a nuestros clientes productos variados de calidad a precios accesibles, en una experiencia de compra fácil y rápida.\u003c/p\u003e\u003cp\u003eActualmente, nos encontramos en la búsqueda de los mejores talentos para cubrir la posición de \u003cstrong\u003ePracticante Pre Profesional de Control Interno.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEstas serán tus principales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar apoyo en el levantamiento de políticas y procesos conforme al plan de control interno establecido por el área.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración de la Matriz de Riesgos de Controles dentro del proceso de relevamiento de procesos, utilizando herramientas tecnológicas que permitan administrar dicha matriz en tiempo real, y que pueda ser consultada por los dueños del proceso.\u003c/li\u003e \u003cli\u003eDar soporte a la elaboración de los reportes que contengan los indicadores establecidos para el monitoreo del Control Interno establecidos en la compañía para ser revisados con su jefe inmediato. \u003c/li\u003e \u003cli\u003eApoyar en la elaboración de presentaciones de estatus del area de Control Interno que son presentadas a la Gerencia del Area o Gerencia General.\u003c/li\u003e \u003cli\u003eApoyar en la ejecución de los check list para la revisión de las políticas y procedimientos implementados en la compañía, indicando secciones del procedimiento que presentan desviaciones con respecto a su cumplimiento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué perfil buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante de 8vo ciclo en adelante de Administración de Empresas o Ingeniería Industrial. \u003c/li\u003e \u003cli\u003eManejo de Excel y PowerBI a nivel avanzado.\u003c/li\u003e \u003cli\u003eManejo de SQL a nivel intermedio. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eNuestros beneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOportunidad de aprendizaje y desarrollo en una organización en constante crecimiento.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e \u003cli\u003eModalidad de trabajo colaborativa, con enfoque en dinamismo e innovación.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493374",
+        "clave":  "id:1118493374",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/superintendente-de-obra-edificacion-residencial-1118493374.html",
+                       "capturadoEn":  "2026-10-23T22:10:20+00:00"
+                   },
+        "titulo":  "SUPERINTENDENTE DE OBRA - EDIFICACION RESIDENCIAL",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Nuestro cliente, importante empresa del sector construcción e inmobiliario se encuentra en la búsqueda de un SUPERINTENDE DE OBRA – EDIFICACION RESIDENCIAL ¿Cuáles serán tus retos? Liderar y supervisar simultáneamente diversos proyectos de edificación residencial, realizando seguimiento directo a los Residentes de Obra. Asegurar el cumplimiento de los objetivos de plazo, costo, calidad, seguridad y productividad de cada proyecto. Realizar una planificación y seguimiento permanente de las obras, identificando desviaciones, restricciones y riesgos de manera anticipada. Mantener un control económico riguroso de los proyectos, monitoreando presupuestos, costos y proyecciones para asegurar sus resultados. Coordinar de manera efectiva con Residentes de Obra, equipos internos, subcontratistas, proveedores y demás involucrados en la ejecución. Representar un nivel superior a la residencia de obra en la coordinación con los clientes y en la gestión contractual de los proyectos. Involucrarse activamente en las obras, detectando problemas de manera temprana y acompañando a los equipos en la definición e implementación de soluciones. Impulsar metodologías de planificación colaborativa y mejora continua para optimizar la gestión y ejecución de los proyectos. ¿Qué buscamos de ti? Profesional en Ingeniería Civil o Arquitectura, titulado y colegiado. Experiencia mínima de 5 años en posiciones similares, con sólida trayectoria en gestión de proyectos de edificación residencial. Experiencia gestionando varias obras de manera simultánea y liderando equipos de Residentes de Obra. Experiencia en planificación, seguimiento de avance, control presupuestal y gestión económica de proyectos. Capacidad para coordinar con clientes, subcontratistas y diferentes equipos involucrados en la ejecución de obra. Conocimiento y/o experiencia en Lean Construction, Last Planner y planificación colaborativa. Afinidad o experiencia trabajando con metodologías y herramientas VDC/BIM. Manejo de herramientas de planificación y control de proyectos. Beneficios Ingreso a planilla con todos los beneficios de ley. Buen clima laboral Oportunidad de desarrollo profesional.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Buen clima laboral",
+                           "Oportunidad de desarrollo profesional"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/superintendente-de-obra-edificacion-residencial-1118493374.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/superintendente-de-obra-edificacion-residencial-1118493374.html",
+        "descripcion_html":  "\u003cp\u003eNuestro cliente, importante empresa del sector construcción e inmobiliario se encuentra en la búsqueda de un SUPERINTENDE DE OBRA\u003cstrong\u003e – EDIFICACION RESIDENCIAL\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar y supervisar simultáneamente diversos proyectos de edificación residencial, realizando seguimiento directo a los Residentes de Obra.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los objetivos de plazo, costo, calidad, seguridad y productividad de cada proyecto.\u003c/li\u003e \u003cli\u003eRealizar una planificación y seguimiento permanente de las obras, identificando desviaciones, restricciones y riesgos de manera anticipada.\u003c/li\u003e \u003cli\u003eMantener un control económico riguroso de los proyectos, monitoreando presupuestos, costos y proyecciones para asegurar sus resultados.\u003c/li\u003e \u003cli\u003eCoordinar de manera efectiva con Residentes de Obra, equipos internos, subcontratistas, proveedores y demás involucrados en la ejecución.\u003c/li\u003e \u003cli\u003eRepresentar un nivel superior a la residencia de obra en la coordinación con los clientes y en la gestión contractual de los proyectos.\u003c/li\u003e \u003cli\u003eInvolucrarse activamente en las obras, detectando problemas de manera temprana y acompañando a los equipos en la definición e implementación de soluciones.\u003c/li\u003e \u003cli\u003eImpulsar metodologías de planificación colaborativa y mejora continua para optimizar la gestión y ejecución de los proyectos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional en Ingeniería Civil o Arquitectura, titulado y colegiado.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 5 años en posiciones similares, con sólida trayectoria en gestión de proyectos de edificación residencial.\u003c/li\u003e \u003cli\u003eExperiencia gestionando varias obras de manera simultánea y liderando equipos de Residentes de Obra.\u003c/li\u003e \u003cli\u003eExperiencia en planificación, seguimiento de avance, control presupuestal y gestión económica de proyectos.\u003c/li\u003e \u003cli\u003eCapacidad para coordinar con clientes, subcontratistas y diferentes equipos involucrados en la ejecución de obra.\u003c/li\u003e \u003cli\u003eConocimiento y/o experiencia en Lean Construction, Last Planner y planificación colaborativa.\u003c/li\u003e \u003cli\u003eAfinidad o experiencia trabajando con metodologías y herramientas VDC/BIM.\u003c/li\u003e \u003cli\u003eManejo de herramientas de planificación y control de proyectos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eBuen clima laboral\u003c/li\u003e \u003cli\u003eOportunidad de desarrollo profesional.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493371",
+        "clave":  "id:1118493371",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos-junior-csti-corp-1118493371.html",
+                       "capturadoEn":  "2026-10-23T22:10:21+00:00"
+                   },
+        "titulo":  "Ingeniero de datos JUNIOR",
+        "empresa":  "CSTI Corp",
+        "ubicacion":  "Lima - Surco",
+        "ciudad":  "Surco",
+        "region":  "Lima",
+        "modalidad":  "Remoto",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Únete a un gran desafío como Ingeniero(a) de Datos Junior! En CSTI Corp nos encontramos en la búsqueda de un(a) Ingeniero(a) de Datos Junior con ganas de seguir creciendo en proyectos modernos de analítica e ingeniería de datos sobre el ecosistema Microsoft. ¿Qué buscamos? Mínimo 1 año de experiencia en entornos Azure . Conocimientos en Microsoft Fabric, Azure Data Factory y Databricks . Experiencia con PySpark y Delta Lake . Manejo y procesamiento de grandes volúmenes de datos. Desarrollo de pipelines ETL/ELT . Dominio de SQL avanzado . Modalidad: 100% Remoto Remuneración: Acorde al mercado Horario laboral: Lunes a viernes de 9.00 am - 6.00 pm",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos-junior-csti-corp-1118493371.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos-junior-csti-corp-1118493371.html",
+        "descripcion_html":  "\u003cp\u003e¡Únete a un gran desafío como Ingeniero(a) de Datos Junior!\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eCSTI Corp\u003c/strong\u003e nos encontramos en la búsqueda de un(a) \u003cstrong\u003eIngeniero(a) de Datos Junior\u003c/strong\u003e con ganas de seguir creciendo en proyectos modernos de analítica e ingeniería de datos sobre el ecosistema Microsoft.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 1 año de experiencia en entornos \u003cstrong\u003eAzure\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eConocimientos en \u003cstrong\u003eMicrosoft Fabric, Azure Data Factory y Databricks\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eExperiencia con \u003cstrong\u003ePySpark y Delta Lake\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eManejo y procesamiento de grandes volúmenes de datos. \u003c/li\u003e \u003cli\u003eDesarrollo de \u003cstrong\u003epipelines ETL/ELT\u003c/strong\u003e. \u003c/li\u003e \u003cli\u003eDominio de \u003cstrong\u003eSQL avanzado\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eModalidad:\u003c/strong\u003e 100% Remoto \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRemuneración:\u003c/strong\u003e Acorde al mercado\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHorario laboral:\u003c/strong\u003e Lunes a viernes de 9.00 am - 6.00 pm\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493370",
+        "clave":  "id:1118493370",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-servicios-con-experiencia-presencial-ventanilla-mafie-sac-1118493370.html",
+                       "capturadoEn":  "2026-10-23T22:10:23+00:00"
+                   },
+        "titulo":  "Supervisor de servicios/ con experiencia / presencial ventanilla",
+        "empresa":  "MAFIE SAC",
+        "ubicacion":  "Lima - Ventanilla",
+        "ciudad":  "Ventanilla",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos una empresa Operadora de Residuos Sólidos ( EO-RS) con más de 20 de años en el mercado nacional. Nos encontramos en la búsqueda del mejor talento para cubrir el puesto SUPERVISOR DE SERVICIOS / PARA CLIENTE ORYGEN que cumpla con lo siguiente: REQUISITOS: Profesional universitario o técnico en Ingeniería Ambiental, Industrial, de Transportes, Administración Industrial o carreras afines. Mínimo 3 años en operaciones de servicios industriales, gestión de residuos, transporte o servicios ambientales. Mínimo 2 años en supervisión de personal operativo, programación de servicios y coordinación con clientes industriales. Manejo de residuos peligrosos y no peligrosos: segregación, almacenamiento, recolección, transporte, valorización y disposición final. Conocimiento de Identificación de peligros, evaluación de riesgos, controles operacionales, uso de EPP y respuesta ante incidentes. Manejo de reportes, control de asistencia, indicadores y sustentos del servicio. Excel intermedio y herramientas de programación y seguimiento operativo horario de lunes a viernes disponibilidad inmediata FUNCIONES: Elaborar y actualizar la programación por instalación, considerando frecuencias, rutas, unidades, personal y actividades variables. Verificar la disponibilidad y asignación de conductores, operarios, vehículos, equipos y materiales. Coordinar con Orygen los accesos, horarios, autorizaciones y condiciones de ejecución de los trabajos. Supervisar las actividades programadas y atender los requerimientos adicionales y de emergencia conforme al contrato. Verificar la correcta manipulación, segregación, recolección y entrega de los residuos al destino autorizado correspondiente. Controlar las medidas de seguridad y coordinar con SST la corrección de condiciones inseguras. Revisar registros de servicio, pesajes, constancias, manifiestos cuando correspondan y evidencias de trazabilidad. Gestionar incidencias, desviaciones y reclamos, estableciendo responsables y seguimiento hasta su cierre. Consolidar reportes operativos y sustentos para la revisión administrativa y valorización del servicio. Coordinar reemplazos y recursos de respaldo para mantener la continuidad operativa. OFRECEMOS: Sueldo acorde al mercado Ingreso a planilla desde el primer día (Planilla régimen general ) Todos los beneficios de ley (Gratificación, CTS, Vacaciones, Asignación Familiar, Utilidades) Seguro Essalud, seguro SCTR y seguro Vida Ley Agradable clima laboral. ¡Únete a este gran equipo! En MAFIE SAC promovemos un entorno laboral inclusivo y respetuoso. No discriminamos por motivos de raza, color, origen étnico, sexo, identidad o expresión de género, edad, religión, discapacidad, estado civil, orientación sexual, condición económica, social o cultural, opiniones políticas ni ninguna otra condición protegida por ley. Nuestros procesos de selección se basan en competencias, méritos y experiencia, garantizando igualdad de oportunidades conforme a la Ley N.° 26772.",
+        "requisitos":  [
+                           "Profesional universitario o técnico en Ingeniería Ambiental, Industrial, de Transportes, Administración Industrial o carreras afines",
+                           "Mínimo 3 años en operaciones de servicios industriales, gestión de residuos, transporte o servicios ambientales",
+                           "Mínimo 2 años en supervisión de personal operativo, programación de servicios y coordinación con clientes industriales",
+                           "Manejo de residuos peligrosos y no peligrosos: segregación, almacenamiento, recolección, transporte, valorización y disposición final",
+                           "Conocimiento de Identificación de peligros, evaluación de riesgos, controles operacionales, uso de EPP y respuesta ante incidentes",
+                           "Manejo de reportes, control de asistencia, indicadores y sustentos del servicio",
+                           "Excel intermedio y herramientas de programación y seguimiento operativo",
+                           "horario de lunes a viernes",
+                           "disponibilidad inmediata"
+                       ],
+        "funciones":  [
+                          "Elaborar y actualizar la programación por instalación, considerando frecuencias, rutas, unidades, personal y actividades variables",
+                          "Verificar la disponibilidad y asignación de conductores, operarios, vehículos, equipos y materiales",
+                          "Coordinar con Orygen los accesos, horarios, autorizaciones y"
+                      ],
+        "beneficios":  [
+                           "de ley (Gratificación, CTS, Vacaciones, Asignación Familiar, Utilidades)",
+                           "Seguro Essalud, seguro SCTR y seguro Vida Ley Agradable clima laboral",
+                           "¡Únete a este gran equipo!",
+                           "En MAFIE SAC promovemos un entorno laboral inclusivo y respetuoso. No discriminamos por motivos de raza, color, origen étnico, sexo, identidad o expresión de género, edad, religión, discapacidad, estado civil, orientación sexual, condición económica, social o cultural, opiniones políticas ni ninguna otra condición protegida por ley. Nuestros procesos de selección se basan en competencias, méritos y experiencia, garantizando igualdad de oportunidades conforme a la Ley N.° 26772"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-servicios-con-experiencia-presencial-ventanilla-mafie-sac-1118493370.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-servicios-con-experiencia-presencial-ventanilla-mafie-sac-1118493370.html",
+        "descripcion_html":  "\u003cp\u003eSomos una empresa Operadora de Residuos Sólidos ( EO-RS) con más de 20 de años en el mercado nacional. Nos encontramos en la búsqueda del mejor talento para cubrir el puesto \u003cstrong\u003eSUPERVISOR DE SERVICIOS / PARA CLIENTE ORYGEN \u003c/strong\u003eque cumpla con lo siguiente:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional universitario o técnico en Ingeniería Ambiental, Industrial, de Transportes, Administración Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 3 años en operaciones de servicios industriales, gestión de residuos, transporte o servicios ambientales.\u003c/li\u003e \u003cli\u003eMínimo 2 años en supervisión de personal operativo, programación de servicios y coordinación con clientes industriales.\u003c/li\u003e \u003cli\u003eManejo de residuos peligrosos y no peligrosos: segregación, almacenamiento, recolección, transporte, valorización y disposición final.\u003c/li\u003e \u003cli\u003eConocimiento de Identificación de peligros, evaluación de riesgos, controles operacionales, uso de EPP y respuesta ante incidentes.\u003c/li\u003e \u003cli\u003eManejo de reportes, control de asistencia, indicadores y sustentos del servicio. \u003c/li\u003e \u003cli\u003eExcel intermedio y herramientas de programación y seguimiento operativo\u003c/li\u003e \u003cli\u003ehorario de lunes a viernes\u003c/li\u003e \u003cli\u003edisponibilidad inmediata\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar y actualizar la programación por instalación, considerando frecuencias, rutas, unidades, personal y actividades variables. \u003c/li\u003e \u003cli\u003eVerificar la disponibilidad y asignación de conductores, operarios, vehículos, equipos y materiales. \u003c/li\u003e \u003cli\u003eCoordinar con Orygen los accesos, horarios, autorizaciones y condiciones de ejecución de los trabajos. \u003c/li\u003e \u003cli\u003eSupervisar las actividades programadas y atender los requerimientos adicionales y de emergencia conforme al contrato. Verificar la correcta manipulación, segregación, recolección y entrega de los residuos al destino autorizado correspondiente. Controlar las medidas de seguridad y coordinar con SST la corrección de condiciones inseguras. \u003c/li\u003e \u003cli\u003eRevisar registros de servicio, pesajes, constancias, manifiestos cuando correspondan y evidencias de trazabilidad. \u003c/li\u003e \u003cli\u003eGestionar incidencias, desviaciones y reclamos, estableciendo responsables y seguimiento hasta su cierre.\u003c/li\u003e \u003cli\u003eConsolidar reportes operativos y sustentos para la revisión administrativa y valorización del servicio. \u003c/li\u003e \u003cli\u003eCoordinar reemplazos y recursos de respaldo para mantener la continuidad operativa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOFRECEMOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo acorde al mercado\u003c/li\u003e \u003cli\u003eIngreso a planilla desde el primer día (Planilla régimen general )\u003c/li\u003e \u003cli\u003eTodos los beneficios de ley (Gratificación, CTS, Vacaciones, Asignación Familiar, Utilidades)\u003c/li\u003e \u003cli\u003eSeguro Essalud, seguro SCTR y seguro Vida Ley Agradable clima laboral.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Únete a este gran equipo!\u003c/p\u003e\u003cp\u003eEn MAFIE SAC promovemos un entorno laboral inclusivo y respetuoso. No discriminamos por motivos de raza, color, origen étnico, sexo, identidad o expresión de género, edad, religión, discapacidad, estado civil, orientación sexual, condición económica, social o cultural, opiniones políticas ni ninguna otra condición protegida por ley. Nuestros procesos de selección se basan en competencias, méritos y experiencia, garantizando igualdad de oportunidades conforme a la Ley N.° 26772.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493369",
+        "clave":  "id:1118493369",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-inmobiliario-re-max-urus-1118493369.html",
+                       "capturadoEn":  "2026-10-23T22:10:24+00:00"
+                   },
+        "titulo":  "Asesor inmobiliario",
+        "empresa":  "RE/MAX URUS",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Únete a la inmobiliaria número 1 del Perú y el mundo! Nuestro sector es el único que sigue en crecimiento a pesar de la coyuntura. Ofrecemos las comisiones más altas del mercado, sin tope de monto. ¿Qué buscamos? Personas con o sin experiencia en el rubro inmobiliario Bachiller o egresados de carreras afines a administración, negocios internacionales, derecho, ingenieria, arquitectura, otros. (Deseable) Personas que busquen emprender en el sector inmobiliario Ser ambicioso Saber trabajar en equipo Compromiso con sus metas Funciones Brindar seguimiento de la propiedad desde su captación, negociación y cierre Mostrar propiedades en compra o alquiler a clientes Realizar tasaciones de propiedades Negociación de captación de propiedades ¿Qué te ofrecemos? Recibir las más altas comisiones del mercado, sin tope de monto. Horario flexible Capacitación constante en el rubro inmobiliario, crecimiento personal, coaching y asesoría contable con la finalidad de lograr todos tus objetivos. Grato ambiente de trabajo en la mejor zona de San Isidro y/o Lima Norte Reconocimientos y premiaciones por logro de metas Contamos con una cartera de más de 14,000 inmuebles en alquiler o compra en nuestra cartera Integrar la mejor franquicia inmobiliaria del Perú y del mundo.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Brindar seguimiento de la propiedad desde su captación, negociación y cierre",
+                          "Mostrar propiedades en compra o alquiler a clientes",
+                          "Realizar tasaciones de propiedades",
+                          "Negociación de captación de propiedades",
+                          "¿Qué te"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-inmobiliario-re-max-urus-1118493369.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-inmobiliario-re-max-urus-1118493369.html",
+        "descripcion_html":  "\u003cp\u003e¡Únete a la inmobiliaria número 1 del Perú y el mundo! Nuestro sector es el único que sigue en crecimiento a pesar de la coyuntura. Ofrecemos las comisiones más altas del mercado, sin tope de monto.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePersonas con o sin experiencia en el rubro inmobiliario\u003c/li\u003e \u003cli\u003eBachiller o egresados de carreras afines a administración, negocios internacionales, derecho, ingenieria, arquitectura, otros. (Deseable)\u003c/li\u003e \u003cli\u003ePersonas que busquen emprender en el sector inmobiliario\u003c/li\u003e \u003cli\u003eSer ambicioso\u003c/li\u003e \u003cli\u003eSaber trabajar en equipo\u003c/li\u003e \u003cli\u003eCompromiso con sus metas\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar seguimiento de la propiedad desde su captación, negociación y cierre\u003c/li\u003e \u003cli\u003eMostrar propiedades en compra o alquiler a clientes\u003c/li\u003e \u003cli\u003eRealizar tasaciones de propiedades\u003c/li\u003e \u003cli\u003eNegociación de captación de propiedades\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecibir las más altas comisiones del mercado, sin tope de monto.\u003c/li\u003e \u003cli\u003eHorario flexible\u003c/li\u003e \u003cli\u003eCapacitación constante en el rubro inmobiliario, crecimiento personal, coaching y asesoría contable con la finalidad de lograr todos tus objetivos.\u003c/li\u003e \u003cli\u003eGrato ambiente de trabajo en la mejor zona de San Isidro y/o Lima Norte\u003c/li\u003e \u003cli\u003eReconocimientos y premiaciones por logro de metas\u003c/li\u003e \u003cli\u003eContamos con una cartera de más de 14,000 inmuebles en alquiler o compra en nuestra cartera\u003c/li\u003e \u003cli\u003eIntegrar la mejor franquicia inmobiliaria del Perú y del mundo.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493368",
+        "clave":  "id:1118493368",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-venta-empresa-campo-promart-san-miguel-rubro-de-construccion-promart-1118493368.html",
+                       "capturadoEn":  "2026-10-23T22:10:25+00:00"
+                   },
+        "titulo":  "Ejecutivo(a) de Venta Empresa (Campo) - Promart San Miguel, Rubro de construcción",
+        "empresa":  "Promart",
+        "ubicacion":  "Lima - San Miguel",
+        "ciudad":  "San Miguel",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Desde hace más de 10 años, venimos acompañando a miles de familias a tener su hogar soñado, gracias al talento disruptivo, innovador, apasionado y empoderado que forma parte del gran equipo Promart, empresa peruana del grupo Intercorp. Es así que, apostando siempre por la inclusión, diversidad e igualdad de oportunidades, buscamos seguir sumando al mejor talento, por lo que nos encontramos en la búsqueda de un(a) Ejecutivo(a) Venta Empresa Misión del puesto: Atraer nuevos clientes dentro de la zona asignada a la tienda, generando mayores ingresos y rentabilidad de manera sostenible captando y concretando ventas rentables y sostenibles para la superación de las metas asignadas a la tienda a través de la fidelización de la cartera de clientes. ¿Cuáles serán tus retos? Cumplir con los indicadores asignados por el área de Venta Empresa. Realizar visitas a clientes actuales y potenciales, y hacer el seguimiento correspondiente para el cierre de las ventas. Coordinar las solicitudes al Área Comercial para autorización de descuentos de productos. Gestionar las solicitudes de líneas de crédito de sus clientes y hacer el seguimiento a la solicitud de acuerdo al procedimiento establecido. Comunicar a sus clientes la información semanal de cuentas por pagar y apoyar en la gestión de cobranza de dichos clientes. Realizar toda función o encargo que le asigne su jefe inmediato y que conlleve a incrementar la eficiencia de la empresa. ¿Cuál es el perfil que buscamos? Egresados, Estudios por concluir o Trunco en las carreras de Administración de empresas, Marketing, o carreras afines. Interés y/o Actitud para las Ventas. Manejo de office a nivel básico. Disponibilidad para trabajar a tiempo completo. Experiencia mínima de 6 meses en venta de campo. Disponibilidad para realizar viajes a lugares que están dentro de su departamento. ¿Qué beneficios ofrecemos? Formar parte de una de las mejores empresas para trabajar según el ranking del Great Place To Work. Pertenecer al Club Intercorp y adquirir beneficios exclusivos para los colaboradores del grupo (hospedaje, educación, tiendas por departamento, etc.). Programa de bienestar Promart integral para ti y tu familia. Oportunidades de Crecimiento en Promart y Grupo Intercorp. Utilidades de acuerdo a los resultados de la compañía. Tarjeta de alimentos. Beneficios de ley: Seguro de Salud, Asignación Familiar, Gratificación, Vacaciones. En Promart, estamos firmemente comprometidos con la igualdad de oportunidades para todas las personas, sin distinción. Todos nuestros procesos de selección se basan en una política de diversidad e inclusión, en la cual consideramos a los postulantes sin importar su origen, raza, género, edad, nacionalidad, religión y/o condición económica, social, física, mental o cualquier otra índole, promoviendo así una cultura de respeto mutuo.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley: Seguro de Salud, Asignación Familiar, Gratificación, Vacaciones",
+                           "En Promart, estamos firmemente comprometidos con la igualdad de oportunidades para todas las personas, sin distinción. Todos nuestros procesos de selección se basan en una política de diversidad e inclusión, en la cual consideramos a los postulantes sin importar su origen, raza, género, edad, nacionalidad, religión y/o condición económica, social, física, mental o cualquier otra índole, promoviendo así una cultura de respeto mutuo"
+                       ],
+        "fecha_publicacion":  "2026-10-22",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-venta-empresa-campo-promart-san-miguel-rubro-de-construccion-promart-1118493368.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-venta-empresa-campo-promart-san-miguel-rubro-de-construccion-promart-1118493368.html",
+        "descripcion_html":  "\u003cp\u003eDesde hace más de 10 años, venimos acompañando a miles de familias a tener su hogar soñado, gracias al talento disruptivo, innovador, apasionado y empoderado que forma parte del gran equipo Promart, empresa peruana del grupo Intercorp.\u003c/p\u003e\u003cp\u003eEs así que, apostando siempre por la inclusión, diversidad e igualdad de oportunidades, buscamos seguir sumando al mejor talento, por lo que nos encontramos en la búsqueda de un(a) \u003cstrong\u003eEjecutivo(a) Venta Empresa\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAtraer nuevos clientes dentro de la zona asignada a la tienda, generando mayores ingresos y rentabilidad de manera sostenible captando y concretando ventas rentables y sostenibles para la superación de las metas asignadas a la tienda a través de la fidelización de la cartera de clientes.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCumplir con los indicadores asignados por el área de Venta Empresa.\u003c/li\u003e \u003cli\u003eRealizar visitas a clientes actuales y potenciales, y hacer el seguimiento correspondiente para el cierre de las ventas.\u003c/li\u003e \u003cli\u003eCoordinar las solicitudes al Área Comercial para autorización de descuentos de productos.\u003c/li\u003e \u003cli\u003eGestionar las solicitudes de líneas de crédito de sus clientes y hacer el seguimiento a la solicitud de acuerdo al procedimiento establecido.\u003c/li\u003e \u003cli\u003eComunicar a sus clientes la información semanal de cuentas por pagar y apoyar en la gestión de cobranza de dichos clientes.\u003c/li\u003e \u003cli\u003eRealizar toda función o encargo que le asigne su jefe inmediato y que conlleve a incrementar la eficiencia de la empresa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál es el perfil que buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados, Estudios por concluir o Trunco en las carreras de Administración de empresas, Marketing, o carreras afines.\u003c/li\u003e \u003cli\u003eInterés y/o Actitud para las Ventas.\u003c/li\u003e \u003cli\u003eManejo de office a nivel básico.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en venta de campo.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar viajes a lugares que están dentro de su departamento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué beneficios ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormar parte de una de las mejores empresas para trabajar según el ranking del Great Place To Work.\u003c/li\u003e \u003cli\u003ePertenecer al Club Intercorp y adquirir beneficios exclusivos para los colaboradores del grupo (hospedaje, educación, tiendas por departamento, etc.).\u003c/li\u003e \u003cli\u003ePrograma de bienestar Promart integral para ti y tu familia.\u003c/li\u003e \u003cli\u003eOportunidades de Crecimiento en Promart y Grupo Intercorp.\u003c/li\u003e \u003cli\u003eUtilidades de acuerdo a los resultados de la compañía.\u003c/li\u003e \u003cli\u003eTarjeta de alimentos.\u003c/li\u003e \u003cli\u003eBeneficios de ley: Seguro de Salud, Asignación Familiar, Gratificación, Vacaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEn Promart, estamos firmemente comprometidos con la igualdad de oportunidades para todas las personas, sin distinción. Todos nuestros procesos de selección se basan en una política de diversidad e inclusión, en la cual consideramos a los postulantes sin importar su origen, raza, género, edad, nacionalidad, religión y/o condición económica, social, física, mental o cualquier otra índole, promoviendo así una cultura de respeto mutuo.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "22/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]

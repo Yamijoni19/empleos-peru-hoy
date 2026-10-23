@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118493400",
+    "clave":  "id:1118493400",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-a-mesa-turno-tarde-noche-sanduco-1118493400.html",
+                   "capturadoEn":  "2026-10-23T22:10:04+00:00"
+               },
+    "titulo":  "Atención a Mesa (Turno Tarde/Noche)",
+    "empresa":  "Sanduco",
+    "ubicacion":  "Lima - Pueblo Libre",
+    "ciudad":  "Pueblo Libre",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  650,
+                    "max":  790,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 650 - S/ 790",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos el mejor talento para una cafetería saludable Atención a Mesa (Turno Tarde/Noche) Resumen del Puesto Estamos en la búsqueda de personal con vocación de servicio para unirse a nuestro equipo en el área de atención a mesa, cubriendo el turno tarde/noche. Buscamos individuos con una actitud proactiva y un fuerte compromiso con la excelencia en el servicio al cliente. Responsabilidades Brindar una atención cordial, respetuosa y eficiente a los comensales. Gestionar la toma de pedidos y el servicio de alimentos y bebidas. Asegurar la presentación y emplatado adecuado de postres y bebidas. Mantener la limpieza y el orden en las áreas de trabajo y mesas. Colaborar con el equipo para garantizar una experiencia positiva para el cliente. Adaptarse a un entorno de trabajo dinámico y de ritmo rápido. Requisitos Excelentes habilidades de comunicación y trato interpersonal. Capacidad para trabajar eficazmente en equipo. Actitud positiva, proactiva y orientada al servicio. Habilidad para mantener la calma y la eficiencia bajo presión. Disponibilidad para trabajar en horario de tarde y noche. Ganas de aprender y desarrollarse profesionalmente. Horario flexible, pagos puntuales, ambiente profesional y cercano",
+    "requisitos":  [
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Capacidad para trabajar eficazmente en equipo",
+                       "Actitud positiva, proactiva y orientada al servicio",
+                       "Habilidad para mantener la calma y la eficiencia bajo presión",
+                       "Disponibilidad para trabajar en horario de tarde y noche",
+                       "Ganas de aprender y desarrollarse profesionalmente",
+                       "Horario flexible, pagos puntuales, ambiente profesional y cercano"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-a-mesa-turno-tarde-noche-sanduco-1118493400.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-a-mesa-turno-tarde-noche-sanduco-1118493400.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eBuscamos el mejor talento para una cafetería saludable\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAtención a Mesa (Turno Tarde/Noche)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de personal con vocación de servicio para unirse a nuestro equipo en el área de atención a mesa, cubriendo el turno tarde/noche. Buscamos individuos con una actitud proactiva y un fuerte compromiso con la excelencia en el servicio al cliente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar una atención cordial, respetuosa y eficiente a los comensales.\u003c/li\u003e \u003cli\u003eGestionar la toma de pedidos y el servicio de alimentos y bebidas.\u003c/li\u003e \u003cli\u003eAsegurar la presentación y emplatado adecuado de postres y bebidas.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en las áreas de trabajo y mesas.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para garantizar una experiencia positiva para el cliente.\u003c/li\u003e \u003cli\u003eAdaptarse a un entorno de trabajo dinámico y de ritmo rápido.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar eficazmente en equipo.\u003c/li\u003e \u003cli\u003eActitud positiva, proactiva y orientada al servicio.\u003c/li\u003e \u003cli\u003eHabilidad para mantener la calma y la eficiencia bajo presión.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario de tarde y noche.\u003c/li\u003e \u003cli\u003eGanas de aprender y desarrollarse profesionalmente.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eHorario flexible, pagos puntuales, ambiente profesional y cercano\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

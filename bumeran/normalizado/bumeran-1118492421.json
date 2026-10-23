@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118492421",
+    "clave":  "id:1118492421",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-merce-consulting-1118492421.html",
+                   "capturadoEn":  "2026-10-23T22:10:11+00:00"
+               },
+    "titulo":  "Auxiliar de Almacén",
+    "empresa":  "MERCE CONSULTING",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa del rubro de refrigeración industrial se encuentra en la búsqueda de un Auxiliar de almacén: Apoyar al jefe y coordinador del área en la gestión y coordinación con áreas afines. Realizar correcto archivo y control de documentación de los procesos del área. Participar en el proceso de toma y conciliación de inventarios en almacén. Realizar el picking y packing de materiales para su despacho correcto, asegurando la preparación eficiente de los pedidos. Recoger y/o enviar las encomiendas que solicite sus jefaturas. Apoyar en la organización física del almacén siguiendo criterios de clasificación, rotación de stock y optimización de espacios. Hacer uso del montacargas para las actividades del almacén, así como asegurar su funcionamiento a través de los mantenimientos a coordinar. Reportar a su Jefatura accidentes, pérdidas o deterioros en los materiales y en las instalaciones y equipos en el almacén o en las instalaciones en general. Cumplir y hacer cumplir las normas de seguridad, salud ocupacional y medio ambiente con personal tercero que participe en las operaciones del almacén. Participar en reuniones de coordinación del área de almacén. Requisitos: Técnico egresado o trunco carreras de administración industrial, contabilidad o afines. Disponibilidad para brindar soporte fines de semana. Experiencia mínima de 6 meses en almacenes. Contar con licencia de conducir A-1",
+    "requisitos":  [
+                       "Técnico egresado o trunco carreras de administración industrial, contabilidad o afines",
+                       "Disponibilidad para brindar soporte fines de semana",
+                       "Experiencia mínima de 6 meses en almacenes",
+                       "Contar con licencia de conducir A-1"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-merce-consulting-1118492421.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-merce-consulting-1118492421.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa del rubro de refrigeración industrial se encuentra en la búsqueda de un Auxiliar de almacén:\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar al jefe y coordinador del área en la gestión y coordinación con áreas afines.\u003c/li\u003e \u003cli\u003eRealizar correcto archivo y control de documentación de los procesos del área.\u003c/li\u003e \u003cli\u003eParticipar en el proceso de toma y conciliación de inventarios en almacén.\u003c/li\u003e \u003cli\u003eRealizar el picking y packing de materiales para su despacho correcto, asegurando la preparación eficiente de los pedidos.\u003c/li\u003e \u003cli\u003eRecoger y/o enviar las encomiendas que solicite sus jefaturas.\u003c/li\u003e \u003cli\u003eApoyar en la organización física del almacén siguiendo criterios de clasificación, rotación de stock y optimización de espacios.\u003c/li\u003e \u003cli\u003eHacer uso del montacargas para las actividades del almacén, así como asegurar su funcionamiento a través de los mantenimientos a coordinar.\u003c/li\u003e \u003cli\u003eReportar a su Jefatura accidentes, pérdidas o deterioros en los materiales y en las instalaciones y equipos en el almacén o en las instalaciones en general.\u003c/li\u003e \u003cli\u003eCumplir y hacer cumplir las normas de seguridad, salud ocupacional y medio ambiente con personal tercero que participe en las operaciones del almacén.\u003c/li\u003e \u003cli\u003eParticipar en reuniones de coordinación del área de almacén.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico egresado o trunco carreras de administración industrial, contabilidad o afines.\u003c/li\u003e \u003cli\u003eDisponibilidad para brindar soporte fines de semana.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en almacenes.\u003c/li\u003e \u003cli\u003eContar con licencia de conducir A-1\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118493377",
+    "clave":  "id:1118493377",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-restaurante-chicharroneria-kio-aramburu-1118493377.html",
+                   "capturadoEn":  "2026-10-23T22:10:16+00:00"
+               },
+    "titulo":  "Administrador de Restaurante",
+    "empresa":  "CHICHARRONERIA KIO ARAMBURU",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Administrador de Restaurante Resumen del Puesto Estamos en la búsqueda de un Administrador de Restaurante proactivo y con experiencia para supervisar las operaciones diarias de nuestro establecimiento. El candidato ideal poseerá habilidades de liderazgo sólidas, un enfoque en la excelencia del servicio al cliente y la capacidad de gestionar equipos de manera efectiva. Responsabilidades Supervisar todas las operaciones del restaurante, incluyendo la gestión del personal, el control de inventario y la atención al cliente. Garantizar el cumplimiento de los estándares de calidad en alimentos y servicio. Gestionar horarios del personal, capacitación y evaluación del desempeño. Controlar los costos operativos y optimizar la rentabilidad. Mantener un ambiente de trabajo positivo y productivo. Resolver incidencias y quejas de clientes de manera eficiente. Requisitos Experiencia previa comprobable en administración de restaurantes o puestos similares. Conocimiento profundo de las operaciones de servicio de alimentos y bebidas. Habilidades de liderazgo y gestión de equipos. Excelentes habilidades de comunicación y relaciones interpersonales. Capacidad para trabajar bajo presión y tomar decisiones rápidas. Orientación al detalle y habilidades organizativas.",
+    "requisitos":  [
+                       "Experiencia previa comprobable en administración de restaurantes o puestos similares",
+                       "Conocimiento profundo de las operaciones de servicio de alimentos y bebidas",
+                       "Habilidades de liderazgo y gestión de equipos",
+                       "Excelentes habilidades de comunicación y relaciones interpersonales",
+                       "Capacidad para trabajar bajo presión y tomar decisiones rápidas",
+                       "Orientación al detalle y habilidades organizativas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/administrador-de-restaurante-chicharroneria-kio-aramburu-1118493377.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-restaurante-chicharroneria-kio-aramburu-1118493377.html",
+    "descripcion_html":  "\u003cb\u003eAdministrador de Restaurante\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAdministrador de Restaurante\u003c/b\u003e proactivo y con experiencia para supervisar las operaciones diarias de nuestro establecimiento. El candidato ideal poseerá habilidades de liderazgo sólidas, un enfoque en la excelencia del servicio al cliente y la capacidad de gestionar equipos de manera efectiva.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar todas las operaciones del restaurante, incluyendo la gestión del personal, el control de inventario y la atención al cliente.\u003c/li\u003e \u003cli\u003eGarantizar el cumplimiento de los estándares de calidad en alimentos y servicio.\u003c/li\u003e \u003cli\u003eGestionar horarios del personal, capacitación y evaluación del desempeño.\u003c/li\u003e \u003cli\u003eControlar los costos operativos y optimizar la rentabilidad.\u003c/li\u003e \u003cli\u003eMantener un ambiente de trabajo positivo y productivo.\u003c/li\u003e \u003cli\u003eResolver incidencias y quejas de clientes de manera eficiente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa comprobable en administración de restaurantes o puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento profundo de las operaciones de servicio de alimentos y bebidas.\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo y gestión de equipos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y tomar decisiones rápidas.\u003c/li\u003e \u003cli\u003eOrientación al detalle y habilidades organizativas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

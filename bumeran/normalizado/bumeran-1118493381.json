@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118493381",
+    "clave":  "id:1118493381",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-y-seleccion-temporal-sector-mineria-sodexo-peru-1118493381.html",
+                   "capturadoEn":  "2026-10-23T22:10:15+00:00"
+               },
+    "titulo":  "Asistente de Recursos y Selección Temporal - Sector Minería",
+    "empresa":  "SODEXO PERU",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Asistente de Recursos y Selección Temporal - Sector Minería Resumen del Puesto Estamos en búsqueda de un Asistente de Recursos y Selección Temporal para unirse a nuestro equipo. El rol tendrá una duración aproximada de dos meses y se enfocará en la gestión de perfiles para el área de cocina. Se requiere disponibilidad para trabajar de forma presencial de lunes a sábado. Responsabilidades Apoyar en los procesos de reclutamiento y selección de personal para perfiles operativos, técnicos y de staff. Coordinar y ejecutar labores operativas del área de recursos y selección. Gestionar la documentación y procesos administrativos relacionados con la contratación del personal. Asegurar el cumplimiento de los procedimientos establecidos para la gestión del personal. Requisitos Experiencia previa en selección, preferentemente en sectores industriales o de servicios. Conocimiento en la gestión de procesos de contratación, especialmente para perfiles operativos. Disponibilidad para laborar de lunes a sábado. Flexibilidad para adaptarse a posibles traslados a campamento en fechas específicas.",
+    "requisitos":  [
+                       "Experiencia previa en selección, preferentemente en sectores industriales o de servicios",
+                       "Conocimiento en la gestión de procesos de contratación, especialmente para perfiles operativos",
+                       "Disponibilidad para laborar de lunes a sábado",
+                       "Flexibilidad para adaptarse a posibles traslados a campamento en fechas específicas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-y-seleccion-temporal-sector-mineria-sodexo-peru-1118493381.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-y-seleccion-temporal-sector-mineria-sodexo-peru-1118493381.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente de Recursos y Selección Temporal - Sector Minería\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en búsqueda de un \u003cstrong\u003eAsistente de Recursos y Selección Temporal\u003c/strong\u003e para unirse a nuestro equipo. El rol tendrá una duración aproximada de dos meses y se enfocará en la gestión de perfiles para el área de cocina. Se requiere disponibilidad para trabajar de forma presencial de lunes a sábado.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en los procesos de reclutamiento y selección de personal para perfiles operativos, técnicos y de staff.\u003c/li\u003e \u003cli\u003eCoordinar y ejecutar labores operativas del área de recursos y selección.\u003c/li\u003e \u003cli\u003eGestionar la documentación y procesos administrativos relacionados con la contratación del personal.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los procedimientos establecidos para la gestión del personal.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en selección, preferentemente en sectores industriales o de servicios.\u003c/li\u003e \u003cli\u003eConocimiento en la gestión de procesos de contratación, especialmente para perfiles operativos.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a sábado.\u003c/li\u003e \u003cli\u003eFlexibilidad para adaptarse a posibles traslados a campamento en fechas específicas.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
