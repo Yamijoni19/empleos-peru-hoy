@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118493412",
+    "clave":  "id:1118493412",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/grabador-de-audio-remoto-espanol-nativo-lemon-r-1118493412.html",
+                   "capturadoEn":  "2026-10-23T18:21:09+00:00"
+               },
+    "titulo":  "Grabador de Audio Remoto - Español Nativo",
+    "empresa":  "Lemon R",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Utiliza tus habilidades y experiencia para mejorar la IA. Grabador de Audio Remoto - Español Nativo Resumen del Puesto Buscamos hablantes nativos de español para unirse a un proyecto de recopilación de datos de audio. El candidato ideal tendrá una pronunciación clara y natural del español estándar y la capacidad de seguir instrucciones precisas para la grabación. Responsabilidades Grabar un volumen específico de oraciones según las indicaciones. Leer y grabar oraciones presentadas en pantalla, asegurando la fidelidad a las instrucciones. Asegurar que todas las grabaciones sean realizadas por el mismo titular de la cuenta. Mantener la autenticidad y naturalidad en la pronunciación. Requisitos Ser hablante nativo de español. Poseer una pronunciación clara y natural del español estándar. Capacidad para trabajar de forma remota y autónoma. Disponibilidad para seguir instrucciones detalladas del proyecto. Compromiso con la calidad y la autenticidad de las grabaciones.",
+    "requisitos":  [
+                       "Ser hablante nativo de español",
+                       "Poseer una pronunciación clara y natural del español estándar",
+                       "Capacidad para trabajar de forma remota y autónoma",
+                       "Disponibilidad para seguir instrucciones detalladas del proyecto",
+                       "Compromiso con la calidad y la autenticidad de las grabaciones"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/grabador-de-audio-remoto-espanol-nativo-lemon-r-1118493412.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/grabador-de-audio-remoto-espanol-nativo-lemon-r-1118493412.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eUtiliza tus habilidades y experiencia para mejorar la IA.\u003c/p\u003e\u003c/p\u003e \u003cb\u003eGrabador de Audio Remoto - Español Nativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos hablantes nativos de español para unirse a un proyecto de recopilación de datos de audio. El candidato ideal tendrá una pronunciación clara y natural del español estándar y la capacidad de seguir instrucciones precisas para la grabación.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGrabar un volumen específico de oraciones según las indicaciones.\u003c/li\u003e \u003cli\u003eLeer y grabar oraciones presentadas en pantalla, asegurando la fidelidad a las instrucciones.\u003c/li\u003e \u003cli\u003eAsegurar que todas las grabaciones sean realizadas por el mismo titular de la cuenta.\u003c/li\u003e \u003cli\u003eMantener la autenticidad y naturalidad en la pronunciación.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eSer hablante nativo de español.\u003c/li\u003e \u003cli\u003ePoseer una pronunciación clara y natural del español estándar.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma remota y autónoma.\u003c/li\u003e \u003cli\u003eDisponibilidad para seguir instrucciones detalladas del proyecto.\u003c/li\u003e \u003cli\u003eCompromiso con la calidad y la autenticidad de las grabaciones.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
