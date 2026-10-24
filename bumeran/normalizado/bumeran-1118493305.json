@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118493305",
+    "clave":  "id:1118493305",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-de-flota-vehicular-viettel-peru-sac-1118493305.html",
+                   "capturadoEn":  "2026-10-24T05:53:43+00:00"
+               },
+    "titulo":  "Asistente Administrativo de Flota Vehicular",
+    "empresa":  "VIETTEL PERU SAC",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Bitel nos encontramos en búsqueda de un(a) Asistente Administrativo de Flota Vehicular para formar parte de nuestro equipo. Funciones: Controlar el uso y el cumplimiento de formularios relacionados a: Mantenimiento de los vehiculos y los registros diarios del uso del vehiculo. Revisar que sucursaesl completan los formularios de forma correcta y cuales no. Estar al tanto de la información del GPS instalado en los vehiculos para detectar uso inapropiado de los mismos. Revisar y consolidar la información del GPS para reportes de metraje mensual. Dar seguimiento al mantenimiento preventivo y correctivo de los vehiculos, así como cualquier otra tarea relacionada al mantenimiento de los vehiculos. Revisar toda la documentación enviada por las sucursales para validar la misma o indicar si existe alguna deficiencia. Requisitos: Egresado(a) en Administración, Negocios, Ingeniería Industrial o carreras afines. Mínimo 2 años de experiencia. Conocimiento administrativo de mantenimiento y reparación vehicular. Manejo de Excel y Google Workspace a nivel avanzado. Inglés intermedio.",
+    "requisitos":  [
+                       "Egresado(a) en Administración, Negocios, Ingeniería Industrial o carreras afines",
+                       "Mínimo 2 años de experiencia",
+                       "Conocimiento administrativo de mantenimiento y reparación vehicular",
+                       "Manejo de Excel y Google Workspace a nivel avanzado",
+                       "Inglés intermedio"
+                   ],
+    "funciones":  [
+                      "Controlar el uso y el cumplimiento de formularios relacionados a: Mantenimiento de los vehiculos y los registros diarios del uso del vehiculo. Revisar que sucursaesl completan los formularios de forma correcta y cuales no",
+                      "Estar al tanto de la información del GPS instalado en los vehiculos para detectar uso inapropiado de los mismos",
+                      "Revisar y consolidar la información del GPS para reportes de metraje mensual",
+                      "Dar seguimiento al mantenimiento preventivo y correctivo de los vehiculos, así como cualquier otra tarea relacionada al mantenimiento de los vehiculos",
+                      "Revisar toda la documentación enviada por las sucursales para validar la misma o indicar si existe alguna deficiencia"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-de-flota-vehicular-viettel-peru-sac-1118493305.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-de-flota-vehicular-viettel-peru-sac-1118493305.html",
+    "descripcion_html":  "\u003cp\u003eEn Bitel nos encontramos en búsqueda de un(a) \u003cstrong\u003eAsistente Administrativo de Flota Vehicular \u003c/strong\u003epara formar parte de nuestro equipo.\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eControlar el uso y el cumplimiento de formularios relacionados a: Mantenimiento de los vehiculos y los registros diarios del uso del vehiculo. Revisar que sucursaesl completan los formularios de forma correcta y cuales no.\u003c/li\u003e \u003cli\u003eEstar al tanto de la información del GPS instalado en los vehiculos para detectar uso inapropiado de los mismos.\u003c/li\u003e \u003cli\u003eRevisar y consolidar la información del GPS para reportes de metraje mensual.\u003c/li\u003e \u003cli\u003eDar seguimiento al mantenimiento preventivo y correctivo de los vehiculos, así como cualquier otra tarea relacionada al mantenimiento de los vehiculos.\u003c/li\u003e \u003cli\u003eRevisar toda la documentación enviada por las sucursales para validar la misma o indicar si existe alguna deficiencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) en Administración, Negocios, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 2 años de experiencia.\u003c/li\u003e \u003cli\u003eConocimiento administrativo de mantenimiento y reparación vehicular.\u003c/li\u003e \u003cli\u003eManejo de Excel y Google Workspace a nivel avanzado.\u003c/li\u003e \u003cli\u003eInglés intermedio.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

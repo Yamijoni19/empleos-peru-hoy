@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118493309",
+    "clave":  "id:1118493309",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-reclutamiento-y-seleccion-sede-arequipa-1118493309.html",
+                   "capturadoEn":  "2026-10-24T05:53:35+00:00"
+               },
+    "titulo":  "Asistente de Reclutamiento y Selección - Sede Arequipa",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa consultora se encuentra en búsqueda del mejor talento para incorporar como destacado al equipo de reclutamiento y selección de Caja Arequipa , como Asistente de Reclutamiento y Selección para dar soporte de procesos a nivel nacional. Funciones: Ejecutar los procesos de convocatoria en las bolsas laborales. Ejecutar los filtros curriculares, garantizando que los postulantes cumplan con los requisitos del perfil solicitado. Coordinar la aplicación de evaluaciones de conocimiento, psicotécnicas y entrevistas, con el personal designado para dicho fin. Coordinar con los clientes internos para programación de entrevistas. Realizar hunting en plaza (Disponibilidad de viajar a las zonas donde se requiera realizarlas). Requisitos: Bachiller y/o Titulado en Psicología, administración o afines. Experiencia laboral mínima de 01 año en áreas de reclutamiento y selección o puestos similares. Con disponibilidad de viajes y hunting en campo. Beneficios: Oportunidad de desarrollo profesional. Pertenecer a una sólida empresa en crecimiento. Si cumples con todos los requisitos te invitamos a postular. Sede Arequipa",
+    "requisitos":  [
+                       "te invitamos a postular",
+                       "Sede Arequipa"
+                   ],
+    "funciones":  [
+                      "Ejecutar los procesos de convocatoria en las bolsas laborales",
+                      "Ejecutar los filtros curriculares, garantizando que los postulantes cumplan con los"
+                  ],
+    "beneficios":  [
+                       "Oportunidad de desarrollo profesional",
+                       "Pertenecer a una sólida empresa en crecimiento",
+                       "Si cumples con todos los"
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-reclutamiento-y-seleccion-sede-arequipa-1118493309.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-reclutamiento-y-seleccion-sede-arequipa-1118493309.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa consultora se encuentra en búsqueda del mejor talento para incorporar como destacado al equipo de reclutamiento y selección de \u003cstrong\u003eCaja Arequipa\u003c/strong\u003e, como \u003cstrong\u003eAsistente de Reclutamiento y Selección\u003c/strong\u003e para dar soporte de procesos a nivel nacional.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEjecutar los procesos de convocatoria en las bolsas laborales.\u003c/li\u003e \u003cli\u003eEjecutar los filtros curriculares, garantizando que los postulantes cumplan con los requisitos del perfil solicitado.\u003c/li\u003e \u003cli\u003eCoordinar la aplicación de evaluaciones de conocimiento, psicotécnicas y entrevistas, con el personal designado para dicho fin.\u003c/li\u003e \u003cli\u003eCoordinar con los clientes internos para programación de entrevistas.\u003c/li\u003e \u003cli\u003eRealizar hunting en plaza (Disponibilidad de viajar a las zonas donde se requiera realizarlas).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller y/o Titulado en Psicología, administración o afines.\u003c/li\u003e \u003cli\u003eExperiencia laboral mínima de 01 año en áreas de reclutamiento y selección o puestos similares.\u003c/li\u003e \u003cli\u003eCon disponibilidad de viajes y hunting en campo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOportunidad de desarrollo profesional.\u003c/li\u003e \u003cli\u003ePertenecer a una sólida empresa en crecimiento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSi cumples con todos los requisitos te invitamos a postular.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSede Arequipa\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
