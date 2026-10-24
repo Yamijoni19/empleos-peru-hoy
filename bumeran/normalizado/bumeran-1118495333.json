@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118495333",
+    "clave":  "id:1118495333",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-contabilidad-y-administracion-importaciones-naliony-e.i.r.l-1118495333.html",
+                   "capturadoEn":  "2026-10-24T10:59:10+00:00"
+               },
+    "titulo":  "Practicante de Contabilidad y Administración",
+    "empresa":  "IMPORTACIONES NALIONY E.I.R.L",
+    "ubicacion":  "Lima",
+    "ciudad":  "",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Auxiliar de Almacén y Administración : Apoyo Area Contabilidad de la Empresa. Recepcionar Verificación, conteo y registro de productos al momento de la llegada e ingreso al sistema/inventario. Organización física del stock, apoyo en el despacho de pedidos y control diario de inventario. Requisitos: Persona muy ordenada, puntual, responsable y con atención al detalle. Manejo básico o intermedio de PC y Excel (registro de datos y control de hojas de cálculo). Capacidad para realizar tareas administrativas y operativas de inventario. Proactividad y buena disposición para aprender. (Opcional) Estudios técnicos/universitarios en administración, contabilidad o experiencia previa en puestos similares (no excluyente). Ofrecemos: Buen ambiente laboral. Capacitación constante en los procesos del negocio.",
+    "requisitos":  [
+                       "Persona muy ordenada, puntual, responsable y con atención al detalle",
+                       "Manejo básico o intermedio de PC y Excel (registro de datos y control de hojas de cálculo)",
+                       "Capacidad para realizar tareas administrativas y operativas de inventario",
+                       "Proactividad y buena disposición para aprender",
+                       "(Opcional) Estudios técnicos/universitarios en administración, contabilidad o experiencia previa en puestos similares (no excluyente)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-contabilidad-y-administracion-importaciones-naliony-e.i.r.l-1118495333.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-contabilidad-y-administracion-importaciones-naliony-e.i.r.l-1118495333.html",
+    "descripcion_html":  "\u003cp\u003eAuxiliar de Almacén y Administración : Apoyo Area Contabilidad de la Empresa.\u003c/p\u003e\u003cp\u003eRecepcionar Verificación, conteo y registro de productos al momento de la llegada e ingreso al sistema/inventario.\u003c/p\u003e\u003cp\u003eOrganización física del stock, apoyo en el despacho de pedidos y control diario de inventario.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePersona muy ordenada, puntual, responsable y con atención al detalle.\u003c/li\u003e \u003cli\u003eManejo básico o intermedio de PC y Excel (registro de datos y control de hojas de cálculo).\u003c/li\u003e \u003cli\u003eCapacidad para realizar tareas administrativas y operativas de inventario.\u003c/li\u003e \u003cli\u003eProactividad y buena disposición para aprender.\u003c/li\u003e \u003cli\u003e\u003cem\u003e(Opcional)\u003c/em\u003e Estudios técnicos/universitarios en administración, contabilidad o experiencia previa en puestos similares (no excluyente).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBuen ambiente laboral.\u003c/li\u003e \u003cli\u003eCapacitación constante en los procesos del negocio.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
