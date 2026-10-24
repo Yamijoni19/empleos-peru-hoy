@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118372251",
+    "clave":  "id:1118372251",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-recursos-humanos-1118372251.html",
+                   "capturadoEn":  "2026-10-24T18:09:12+00:00"
+               },
+    "titulo":  "Jefe de recursos humanos",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Distrito de Punta Hermosa",
+    "ciudad":  "Distrito de Punta Hermosa",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Liderar procesos de recursos humanos empresa comercializadora logística Egresado universitario de Administración, Psicología, Ing. Industrial o afines con especialización de recursos humanos 05 años de experiencia como jefe de recursos humanos habiendo manejado empresas con almacenes y vendedores de campo en empresas corporativas Labores presenciales 100% en Almacén BSF Punta Hermosa, contamos con movilidad, subvención parcial de alimentación.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-08-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-recursos-humanos-1118372251.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-recursos-humanos-1118372251.html",
+    "descripcion_html":  "\u003cp\u003eLiderar procesos de recursos humanos empresa comercializadora logística\u003c/p\u003e\u003cp\u003eEgresado universitario de Administración, Psicología, Ing. Industrial o afines con especialización de recursos humanos\u003c/p\u003e\u003cp\u003e05 años de experiencia como jefe de recursos humanos habiendo manejado empresas con almacenes y vendedores de campo en empresas corporativas\u003c/p\u003e\u003cp\u003eLabores presenciales 100% en Almacén BSF Punta Hermosa, contamos con movilidad, subvención parcial de alimentación.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 05 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/08/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
