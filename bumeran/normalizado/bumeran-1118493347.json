@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118493347",
+    "clave":  "id:1118493347",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/consultor-de-seleccion-jr.-arequipa-adecco-peru-s.a.-1118493347.html",
+                   "capturadoEn":  "2026-10-24T00:43:09+00:00"
+               },
+    "titulo":  "Consultor de Selección Jr. Arequipa",
+    "empresa":  "ADECCO PERU S.A.",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Consultor de Selección Jr. Resumen del Puesto Buscamos un(a) Consultor(a) de Selección Jr. con experiencia en procesos de reclutamiento masivo, orientado(a) a resultados, con ganas de aprender y crecer profesionalmente. Serás parte fundamental en la identificación y atracción de talento para diversas organizaciones. Responsabilidades Participar activamente en la ejecución de procesos de reclutamiento masivo. Identificar y atraer candidatos para perfiles operativos y de alta rotación. Realizar entrevistas y evaluaciones iniciales. Colaborar con el equipo en la gestión de la base de datos de candidatos. Contribuir al desarrollo de estrategias de atracción de talento. Requisitos Formación académica en Psicología, Administración, Ingeniería Industrial o carreras afines (Bachiller, egresado o estudiante de últimos ciclos). Experiencia mínima de 6 meses a 1 año en procesos de selección masiva. Deseable experiencia reclutando perfiles operativos (ej. operarios de producción, almacén, etc.). Manejo de Excel a nivel intermedio. Orientación a resultados y proactividad. Ganas de aprender y desarrollarse en el área de selección de personal.",
+    "requisitos":  [
+                       "Formación académica en Psicología, Administración, Ingeniería Industrial o carreras afines (Bachiller, egresado o estudiante de últimos ciclos)",
+                       "Experiencia mínima de 6 meses a 1 año en procesos de selección masiva",
+                       "Deseable experiencia reclutando perfiles operativos (ej. operarios de producción, almacén, etc.)",
+                       "Manejo de Excel a nivel intermedio",
+                       "Orientación a resultados y proactividad",
+                       "Ganas de aprender y desarrollarse en el área de selección de personal"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/consultor-de-seleccion-jr.-arequipa-adecco-peru-s.a.-1118493347.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/consultor-de-seleccion-jr.-arequipa-adecco-peru-s.a.-1118493347.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eConsultor de Selección Jr.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un(a) \u003cstrong\u003eConsultor(a) de Selección Jr.\u003c/strong\u003e con experiencia en procesos de reclutamiento masivo, orientado(a) a resultados, con ganas de aprender y crecer profesionalmente. Serás parte fundamental en la identificación y atracción de talento para diversas organizaciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eParticipar activamente en la ejecución de procesos de reclutamiento masivo.\u003c/li\u003e \u003cli\u003eIdentificar y atraer candidatos para perfiles operativos y de alta rotación.\u003c/li\u003e \u003cli\u003eRealizar entrevistas y evaluaciones iniciales.\u003c/li\u003e \u003cli\u003eColaborar con el equipo en la gestión de la base de datos de candidatos.\u003c/li\u003e \u003cli\u003eContribuir al desarrollo de estrategias de atracción de talento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación académica en Psicología, Administración, Ingeniería Industrial o carreras afines (Bachiller, egresado o estudiante de últimos ciclos).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses a 1 año en procesos de selección masiva.\u003c/li\u003e \u003cli\u003eDeseable experiencia reclutando perfiles operativos (ej. operarios de producción, almacén, etc.).\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eOrientación a resultados y proactividad.\u003c/li\u003e \u003cli\u003eGanas de aprender y desarrollarse en el área de selección de personal.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

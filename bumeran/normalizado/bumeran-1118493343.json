@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118493343",
+    "clave":  "id:1118493343",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ing.-civil-supervisor-de-obras-civiles-.-flowen-sac-1118493343.html",
+                   "capturadoEn":  "2026-10-24T00:43:17+00:00"
+               },
+    "titulo":  "Ing. Civil - Supervisor de Obras Civiles .",
+    "empresa":  "FLOWEN SAC",
+    "ubicacion":  "Ica",
+    "ciudad":  "Ica",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  2500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2500",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Buscamos a Bachiller de Ing. Civil, para supervisar proyecto en Ica. El puesto es para la Supervisión a subcontratista ejecutor de obras civiles. Que resida en Ica - Cerca de Guadalupe. Funciones: Reportar al cliente final en campo y coordinar con él. Reportar al gestor y jefe de proyecto los avances y seguimiento del cronograma de la subcontratista. Revisión de dossier de calidad civil Supervisión en campo al subcontratista ejecutor de obras civiles. Conocimientos Técnicos Diseño y construcción de losa de concreto Supervisión en campo de obras civiles Lectura e interpretación de planos civiles Seguimiento de Metrados Elaboración de reportes. Habilidades: Proactividad, Trabajo en Equipo, Supervisión,solucion de problemas. Horario: Lunes a Viernes: 6:00 am. a 4:30 pm. – Sabado de 6:00 am a 12:00 m Presupuesto para el puesto: S/ 2500.00.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Reportar al cliente final en campo y coordinar con él",
+                      "Reportar al gestor y jefe de proyecto los avances y seguimiento del cronograma de la subcontratista",
+                      "Revisión de dossier de calidad civil",
+                      "Supervisión en campo al subcontratista ejecutor de obras civiles",
+                      "Conocimientos Técnicos",
+                      "Diseño y construcción de losa de concreto",
+                      "Supervisión en campo de obras civiles",
+                      "Lectura e interpretación de planos civiles",
+                      "Seguimiento de Metrados",
+                      "Elaboración de reportes",
+                      "Habilidades: Proactividad, Trabajo en Equipo, Supervisión,solucion de problemas",
+                      "Horario: Lunes a Viernes: 6:00 am. a 4:30 pm. – Sabado de 6:00 am a 12:00 m",
+                      "Presupuesto para el puesto: S/ 2500.00"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ing.-civil-supervisor-de-obras-civiles-.-flowen-sac-1118493343.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ing.-civil-supervisor-de-obras-civiles-.-flowen-sac-1118493343.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos a Bachiller de Ing. Civil, para supervisar proyecto en Ica. \u003c/p\u003e\u003cp\u003eEl puesto es para la Supervisión a subcontratista ejecutor de obras civiles.\u003c/p\u003e\u003cp\u003eQue resida en Ica - Cerca de Guadalupe.\u003c/p\u003e\u003cp\u003eFunciones: \u003c/p\u003e\u003cul\u003e \u003cli\u003eReportar al cliente final en campo y coordinar con él.\u003c/li\u003e \u003cli\u003eReportar al gestor y jefe de proyecto los avances y seguimiento del cronograma de la subcontratista.\u003c/li\u003e \u003cli\u003eRevisión de dossier de calidad civil\u003c/li\u003e \u003cli\u003eSupervisión en campo al subcontratista ejecutor de obras civiles.\u003c/li\u003e \u003cli\u003eConocimientos Técnicos \u003cul\u003e \u003cli\u003eDiseño y construcción de losa de concreto\u003c/li\u003e \u003cli\u003eSupervisión en campo de obras civiles\u003c/li\u003e \u003cli\u003eLectura e interpretación de planos civiles\u003c/li\u003e \u003cli\u003eSeguimiento de Metrados\u003c/li\u003e \u003cli\u003eElaboración de reportes.\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e \u003cli\u003eHabilidades: Proactividad, Trabajo en Equipo, Supervisión,solucion de problemas.\u003c/li\u003e \u003cli\u003eHorario: Lunes a Viernes: 6:00 am. a 4:30 pm. – Sabado de 6:00 am a 12:00 m\u003c/li\u003e \u003cli\u003ePresupuesto para el puesto: S/ 2500.00.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "Lunes a Viernes: 6:00 am. a 4:30 pm. – Sabado de 6:00 am a 12:00 m",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

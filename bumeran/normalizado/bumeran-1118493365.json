@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118493365",
+    "clave":  "id:1118493365",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos--azure-|-100-remoto-csti-corp-1118493365.html",
+                   "capturadoEn":  "2026-10-24T00:42:35+00:00"
+               },
+    "titulo":  "Ingeniero de Datos – Azure | 100% Remoto",
+    "empresa":  "CSTI Corp",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "CSTI Corp se encuentra en búsqueda de un(a) Ingeniero(a) de Datos para desarrollar soluciones de datos, implementar procesos de integración y migración, y optimizar pipelines de procesamiento en entornos Azure. Requisitos: Mínimo 1 año de experiencia en entornos Azure. Conocimientos en Microsoft Fabric, Azure Data Factory y Databricks. Experiencia con PySpark y Delta Lake. Manejo de grandes volúmenes de datos. Desarrollo de pipelines ETL/ELT. Dominio de SQL avanzado. Capacidad para trabajar de forma autónoma, siguiendo lineamientos de arquitectura y asegurando la calidad y eficiencia de las soluciones implementadas. Condiciones laborales: Modalidad: 100% remoto. Horario: lunes a viernes de 9:00 a. m. a 6:00 p. m. \u0026#x1f4e9; Si cumples con el perfil, ¡postula y sé parte de CSTI Corp!",
+    "requisitos":  [
+                       "Mínimo 1 año de experiencia en entornos Azure",
+                       "Conocimientos en Microsoft Fabric, Azure Data Factory y Databricks",
+                       "Experiencia con PySpark y Delta Lake",
+                       "Manejo de grandes volúmenes de datos",
+                       "Desarrollo de pipelines ETL/ELT",
+                       "Dominio de SQL avanzado",
+                       "Capacidad para trabajar de forma autónoma, siguiendo lineamientos de arquitectura y asegurando la calidad y eficiencia de las soluciones implementadas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos--azure-|-100-remoto-csti-corp-1118493365.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-datos--azure-|-100-remoto-csti-corp-1118493365.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eCSTI Corp\u003c/strong\u003e se encuentra en búsqueda de un(a) Ingeniero(a) de Datos para desarrollar soluciones de datos, implementar procesos de integración y migración, y optimizar pipelines de procesamiento en entornos Azure.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 1 año de experiencia en entornos Azure.\u003c/li\u003e \u003cli\u003eConocimientos en Microsoft Fabric, Azure Data Factory y Databricks.\u003c/li\u003e \u003cli\u003eExperiencia con PySpark y Delta Lake.\u003c/li\u003e \u003cli\u003eManejo de grandes volúmenes de datos.\u003c/li\u003e \u003cli\u003eDesarrollo de pipelines ETL/ELT.\u003c/li\u003e \u003cli\u003eDominio de SQL avanzado.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma, siguiendo lineamientos de arquitectura y asegurando la calidad y eficiencia de las soluciones implementadas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones laborales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad: 100% remoto.\u003c/li\u003e \u003cli\u003eHorario: lunes a viernes de 9:00 a. m. a 6:00 p. m.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e9; Si cumples con el perfil, ¡postula y sé parte de CSTI Corp!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "lunes a viernes de 9:00 a. m. a 6:00 p. m.",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

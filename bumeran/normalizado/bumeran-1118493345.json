@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118493345",
+    "clave":  "id:1118493345",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-backend-java-senior-prestamype-1118493345.html",
+                   "capturadoEn":  "2026-10-24T00:43:14+00:00"
+               },
+    "titulo":  "Desarrollador Backend Java Senior",
+    "empresa":  "PRESTAMYPE",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Quieres pertenecer a la startup de servicios financieros (Fintech) más grande del Perú? Si te apasiona la innovación, disfrutas trabajar en equipos multidisciplinarios, y quieres generar un impacto real en el país a través de las finanzas y la tecnología, este desafío es para ti. Funciones: - Desarrollo de proyectos bancarios en la nube, conocimientosen arquitectura e implementación de proyectos de Core Bancario sobre Java17/21 y Spring Boot. Dirigir el diseño técnico y despliegue enentornos multi-inquilino (multi-tenant) respaldados por infraestructuraescalable en AWS (ECS/EKS). - Estructura backend, eventos y mensajería distribuida, crearuna arquitectura de microservicios robusta en Java / Spring Cloudorientada a eventos (Event-Driven Architecture). Garantizar elprocesamiento asíncrono de alto rendimiento (transacciones, pagos ynotificaciones) mediante el manejo experto de colas de mensajes con ApacheKafka (tópicos, particionamiento, patrones Event Sourcing, CQRSy manejo de errores con DLQ). - Gestión de bases de datos financieras y almacenamiento,diseñar, optimizar y mantener esquemas de base de datos relacionales (PostgreSQL,MySQL, MariaDB) para Fineract/Mifos, asegurando la consistenciatransaccional (ACID) de los saldos. Utilizar Redis para almacenamientoen caché y servicios gestionados en la nube como AWS RDS (Aurora) y AWSElastiCache para alta disponibilidad. - Diseño e integración de APIs seguras, desarrollary documentar APIs RESTful e interfaces GraphQL (medianteOpenAPI/Swagger) para la interacción fluida entre el frontend/móvil y el CoreBancario Fineract. Configurar el enrutamiento y exposición de servicios através de AWS API Gateway o Ingress Controllers en Kubernetes. - Integración con servicios bancarios externos yecosistema AWS, integrar el Core Bancario con pasarelas de pago, redesinterbancarias, burós de crédito y proveedores KYC/AML. Gestionar lainfraestructura asíncrona integrando Apache Kafka con servicios en lanube de AWS (como AWS MSK, AWS Lambda y AWS SQS/SNSpara tareas desacopladas). - Seguridad bancaria, autenticación e infraestructuraauditable, garantizar la protección end-to-end de los datos financierosaplicando Spring Security (OAuth2, OpenID Connect, JWT). Implementarcifrado de datos, gestión de secretos en AWS Secrets Manager / KMS ycontroles de acceso alineados con normativas bancarias, PCI-DSS y auditoría. - Rendimiento, resiliencia y monitoreo, optimizarlos tiempos de respuesta del backend Fineract bajo alta carga mediante profilingen Java y optimización de Apache Kafka. Implementar patrones deresiliencia con Resilience4j (Circuit Breaker, Rate Limiting) ymonitoreo en tiempo real usando AWS CloudWatch, Prometheus y Grafana. - Mantenimiento, parches y despliegue continuo(DevOps/Cloud), resolver incidencias en producción, aplicar parches deseguridad y empaquetar servicios en contenedores con Docker y Kubernetes.Automatizar los pipelines de despliegue continuo (CI/CD) usando herramientascomo AWS CodePipeline, GitHub Actions o GitLab CI hacia la nube de AWS. - Colaboración en equipos multidisciplinarios, trabajarconjuntamente con desarrolladores, Tech Lead, ingenieros DevOps/SRE, arquitectosde software y especialistas. Requisitos: Formación y experiencia: Bachiller o titulado de las carreras de Ingeniera de Sistemas, Software o afines. 4 años de experiencia en funciones afines. Conocimientos : Manejo de Ms Office y Excel a nivel Intermedio Beneficios Ser parte de la Fintech de mayor crecimiento del país. Esquema de trabajo híbrido (lunes a viernes de 9:00 am a 6:30 pm.) EPS (Seguro Pacífico) Sueldo acorde al mercado, planilla desde el primer día. Convenios Educativos Convenios Corporativos Innovación continua.",
+    "requisitos":  [
+                       "Formación y experiencia",
+                       "Bachiller o titulado de las carreras de Ingeniera de Sistemas, Software o afines",
+                       "4 años de experiencia en"
+                   ],
+    "funciones":  [
+                      "afines",
+                      "Conocimientos",
+                      "Manejo de Ms Office y Excel a nivel Intermedio"
+                  ],
+    "beneficios":  [
+                       "Ser parte de la Fintech de mayor crecimiento del país",
+                       "Esquema de trabajo híbrido (lunes a viernes de 9:00 am a 6:30 pm.)",
+                       "EPS (Seguro Pacífico)",
+                       "Sueldo acorde al mercado, planilla desde el primer día",
+                       "Convenios Educativos",
+                       "Convenios Corporativos",
+                       "Innovación continua"
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-backend-java-senior-prestamype-1118493345.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-backend-java-senior-prestamype-1118493345.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Quieres pertenecer a la startup de servicios financieros (Fintech) más grande del Perú?\u003c/strong\u003e Si te apasiona la innovación, disfrutas trabajar en equipos multidisciplinarios, y quieres generar un impacto real en el país a través de las finanzas y la tecnología, este desafío es para ti.\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cp\u003e- Desarrollo de proyectos bancarios en la nube, conocimientosen arquitectura e implementación de proyectos de Core Bancario sobre Java17/21 y Spring Boot. Dirigir el diseño técnico y despliegue enentornos multi-inquilino (multi-tenant) respaldados por infraestructuraescalable en AWS (ECS/EKS).\u003c/p\u003e\u003cp\u003e- Estructura backend, eventos y mensajería distribuida, crearuna arquitectura de microservicios robusta en Java / Spring Cloudorientada a eventos (Event-Driven Architecture). Garantizar elprocesamiento asíncrono de alto rendimiento (transacciones, pagos ynotificaciones) mediante el manejo experto de colas de mensajes con ApacheKafka (tópicos, particionamiento, patrones Event Sourcing, CQRSy manejo de errores con DLQ).\u003c/p\u003e\u003cp\u003e- Gestión de bases de datos financieras y almacenamiento,diseñar, optimizar y mantener esquemas de base de datos relacionales (PostgreSQL,MySQL, MariaDB) para Fineract/Mifos, asegurando la consistenciatransaccional (ACID) de los saldos. Utilizar Redis para almacenamientoen caché y servicios gestionados en la nube como AWS RDS (Aurora) y AWSElastiCache para alta disponibilidad.\u003c/p\u003e\u003cp\u003e- Diseño e integración de APIs seguras, desarrollary documentar APIs RESTful e interfaces GraphQL (medianteOpenAPI/Swagger) para la interacción fluida entre el frontend/móvil y el CoreBancario Fineract. Configurar el enrutamiento y exposición de servicios através de AWS API Gateway o Ingress Controllers en Kubernetes.\u003c/p\u003e\u003cp\u003e- Integración con servicios bancarios externos yecosistema AWS, integrar el Core Bancario con pasarelas de pago, redesinterbancarias, burós de crédito y proveedores KYC/AML. Gestionar lainfraestructura asíncrona integrando Apache Kafka con servicios en lanube de AWS (como AWS MSK, AWS Lambda y AWS SQS/SNSpara tareas desacopladas).\u003c/p\u003e\u003cp\u003e- Seguridad bancaria, autenticación e infraestructuraauditable, garantizar la protección end-to-end de los datos financierosaplicando Spring Security (OAuth2, OpenID Connect, JWT). Implementarcifrado de datos, gestión de secretos en AWS Secrets Manager / KMS ycontroles de acceso alineados con normativas bancarias, PCI-DSS y auditoría.\u003c/p\u003e\u003cp\u003e- Rendimiento, resiliencia y monitoreo, optimizarlos tiempos de respuesta del backend Fineract bajo alta carga mediante profilingen Java y optimización de Apache Kafka. Implementar patrones deresiliencia con Resilience4j (Circuit Breaker, Rate Limiting) ymonitoreo en tiempo real usando AWS CloudWatch, Prometheus y Grafana.\u003c/p\u003e\u003cp\u003e- Mantenimiento, parches y despliegue continuo(DevOps/Cloud), resolver incidencias en producción, aplicar parches deseguridad y empaquetar servicios en contenedores con Docker y Kubernetes.Automatizar los pipelines de despliegue continuo (CI/CD) usando herramientascomo AWS CodePipeline, GitHub Actions o GitLab CI hacia la nube de AWS.\u003c/p\u003e\u003cp\u003e- Colaboración en equipos multidisciplinarios, trabajarconjuntamente con desarrolladores, Tech Lead, ingenieros DevOps/SRE, arquitectosde software y especialistas.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003eFormación y experiencia:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado de las carreras de Ingeniera de Sistemas, Software o afines.\u003c/li\u003e \u003cli\u003e4 años de experiencia en funciones afines.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eConocimientos :\u003c/p\u003e\u003cul\u003e \u003cli\u003eManejo de Ms Office y Excel a nivel Intermedio\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de la Fintech de mayor crecimiento del país.\u003c/li\u003e \u003cli\u003eEsquema de trabajo híbrido (lunes a viernes de 9:00 am a 6:30 pm.)\u003c/li\u003e \u003cli\u003eEPS (Seguro Pacífico)\u003c/li\u003e \u003cli\u003eSueldo acorde al mercado, planilla desde el primer día.\u003c/li\u003e \u003cli\u003eConvenios Educativos\u003c/li\u003e \u003cli\u003eConvenios Corporativos\u003c/li\u003e \u003cli\u003eInnovación continua.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 4 años",
+    "estudios":  "",
+    "herramientas":  "* Manejo de Ms Office y Excel a nivel Intermedio",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

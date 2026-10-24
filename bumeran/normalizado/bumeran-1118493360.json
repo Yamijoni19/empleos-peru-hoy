@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118493360",
+    "clave":  "id:1118493360",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-tractor-sobre-ruedas-1118493360.html",
+                   "capturadoEn":  "2026-10-24T00:42:50+00:00"
+               },
+    "titulo":  "Operador de Tractor sobre Ruedas",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa del sector minero se encuentra en la búsqueda del mejor talento para cubrir la posición de Operador de Tractor sobre Ruedas. Funciones Principales Operar equipos pesados asignados (Tractor sobre ruedas y similares) para trabajos de perfilado, nivelación, limpieza de accesos, mantenimiento de vías y apoyo en zonas de carguío y botaderos. Realizar las inspecciones de rutina diarias y pre-operacionales de los equipos garantizando la operatividad del equipo antes de iniciar el turno. Coordinar permanentemente con la supervisión de operaciones las tareas asignadas en la guardia, optimizando los tiempos de ciclo y producción. Cumplir estrictamente con los procedimientos escritos de trabajo seguro (PETS), reglamentos internos de tránsito minero y normas ambientales vigentes. Requisitos Indispensables Experiencia: Mínimo 3 años de experiencia certificada como Operador de Tractor CAT-824K o CAT-854K en Gran Minería. Educación: Secundaria completa (comprobada) o Técnico(a) egresado(a) en Operación de Equipo Pesado. Licencia de Conducir: Mínimo AIIA vigente.",
+    "requisitos":  [
+                       "Indispensables",
+                       "Experiencia: Mínimo 3 años de experiencia certificada como Operador de Tractor CAT-824K o CAT-854K en Gran Minería",
+                       "Educación: Secundaria completa (comprobada) o Técnico(a) egresado(a) en Operación de Equipo Pesado",
+                       "Licencia de Conducir: Mínimo AIIA vigente"
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Operar equipos pesados asignados (Tractor sobre ruedas y similares) para trabajos de perfilado, nivelación, limpieza de accesos, mantenimiento de vías y apoyo en zonas de carguío y botaderos",
+                      "Realizar las inspecciones de rutina diarias y pre-operacionales de los equipos garantizando la operatividad del equipo antes de iniciar el turno",
+                      "Coordinar permanentemente con la supervisión de operaciones las tareas asignadas en la guardia, optimizando los tiempos de ciclo y producción",
+                      "Cumplir estrictamente con los procedimientos escritos de trabajo seguro (PETS), reglamentos internos de tránsito minero y normas ambientales vigentes"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-tractor-sobre-ruedas-1118493360.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-tractor-sobre-ruedas-1118493360.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eImportante empresa del sector minero se encuentra en la búsqueda del mejor talento para cubrir la posición de Operador de Tractor sobre Ruedas.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eFunciones Principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOperar equipos pesados asignados (Tractor sobre ruedas y similares) para trabajos de perfilado, nivelación, limpieza de accesos, mantenimiento de vías y apoyo en zonas de carguío y botaderos.\u003c/li\u003e \u003cli\u003eRealizar las inspecciones de rutina diarias y pre-operacionales de los equipos garantizando la operatividad del equipo antes de iniciar el turno.\u003c/li\u003e \u003cli\u003eCoordinar permanentemente con la supervisión de operaciones las tareas asignadas en la guardia, optimizando los tiempos de ciclo y producción.\u003c/li\u003e \u003cli\u003eCumplir estrictamente con los procedimientos escritos de trabajo seguro (PETS), reglamentos internos de tránsito minero y normas ambientales vigentes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos Indispensables\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e Mínimo 3 años de experiencia certificada como Operador de Tractor CAT-824K o CAT-854K en Gran Minería.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eEducación:\u003c/strong\u003e Secundaria completa (comprobada) o Técnico(a) egresado(a) en Operación de Equipo Pesado.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eLicencia de Conducir:\u003c/strong\u003e Mínimo AIIA vigente.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

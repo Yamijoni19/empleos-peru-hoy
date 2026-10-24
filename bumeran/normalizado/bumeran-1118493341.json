@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118493341",
+    "clave":  "id:1118493341",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/inspector-de-operaciones-sin-experiencia-minera-alpayana-bureau-veritas-del-peru-sa-1118493341.html",
+                   "capturadoEn":  "2026-10-24T00:43:20+00:00"
+               },
+    "titulo":  "Inspector de operaciones / Sin experiencia / Minera Alpayana",
+    "empresa":  "Bureau Veritas del Peru SA",
+    "ubicacion":  "Junin - La Oroya",
+    "ciudad":  "La Oroya",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Bureau Veritas Commodities, una empresa del Grupo Bureau Veritas, dedicada a brindar servicios de inspección, ensayos, muestreo, consultoría y certificaciones en diversos sectores, se encuentra en la búsqueda de talentos para cubrir la posicion de: INSPECTOR DE OPERACIONES - Proyecto en Minera Alpayana (La Oroya) Principales funciones Realizar el muestreo manual del concentrado de mineral: muestreo en la descarga de camiones, bolsones, contenedores y rumas. Llenado de actas e informes al término del servicio. Otras actividades inherentes al cargo. Requisitos: Secundaria completa. Disponibilidad para trabajos de campo y depósitos. Disponibilidad para trabajar en La Oroya. No requiere experiencia Beneficios: Ingreso a planilla. Capacitación constante. Pago de horas extras",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Disponibilidad para trabajos de campo y depósitos",
+                       "Disponibilidad para trabajar en La Oroya",
+                       "No requiere experiencia"
+                   ],
+    "funciones":  [
+                      "Realizar el muestreo manual del concentrado de mineral: muestreo en la descarga de camiones, bolsones, contenedores y rumas",
+                      "Llenado de actas e informes al término del servicio",
+                      "Otras actividades inherentes al cargo"
+                  ],
+    "beneficios":  [
+                       "Ingreso a planilla",
+                       "Capacitación constante",
+                       "Pago de horas extras"
+                   ],
+    "fecha_publicacion":  "2026-10-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/inspector-de-operaciones-sin-experiencia-minera-alpayana-bureau-veritas-del-peru-sa-1118493341.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/inspector-de-operaciones-sin-experiencia-minera-alpayana-bureau-veritas-del-peru-sa-1118493341.html",
+    "descripcion_html":  "\u003cp\u003eBureau Veritas Commodities, una empresa del Grupo Bureau Veritas, dedicada a brindar servicios de inspección, ensayos, muestreo, consultoría y certificaciones en diversos sectores, se encuentra en la búsqueda de talentos para cubrir la posicion de:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eINSPECTOR DE OPERACIONES - Proyecto en Minera Alpayana (La Oroya)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar el muestreo manual del concentrado de mineral: muestreo en la descarga de camiones, bolsones, contenedores y rumas.\u003c/li\u003e \u003cli\u003eLlenado de actas e informes al término del servicio.\u003c/li\u003e \u003cli\u003eOtras actividades inherentes al cargo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajos de campo y depósitos.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en La Oroya.\u003c/li\u003e \u003cli\u003eNo requiere experiencia\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla.\u003c/li\u003e \u003cli\u003eCapacitación constante.\u003c/li\u003e \u003cli\u003ePago de horas extras\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
