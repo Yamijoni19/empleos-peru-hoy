@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118495228",
+    "clave":  "id:1118495228",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-well-consulting-services-1118495228.html",
+                   "capturadoEn":  "2026-10-24T20:48:59+00:00"
+               },
+    "titulo":  "Asistente de Marketing Digital",
+    "empresa":  "Well Consulting Services",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Estamos buscando un/a Asistente de Marketing Digital ! Si te apasiona la pauta digital, el SEO y la gestión de canales conversacionales, queremos que te sumes a nuestro equipo. Buscamos un perfil analítico, proactivo, que le guste relacionarse y ayudar al equipo. Tus principales funciones: Ads: Creación, optimización y seguimiento de campañas publicitarias digitales. API: Gestión y monitoreo de nuestra plataforma de mensajes. SEO \u0026 Web: Mantenimiento e indexación de páginas en Google Search Console y actualización continua del blog. Tiktok: Potenciar la marca Requisitos: Experiencia mínima de 1 año en posiciones similares Manejo comprobable de plataformas de pauta y herramientas web. Experiencia solida en manejo de META Experiencia solida en creación de videos con IA Experiencia solida en manejo de TikTok Lo que ofrecemos: Modalidad: 100% Remoto. Contratación: Planilla Microempresa o Convenio de Prácticas Profesionales (según corresponda tu perfil).",
+    "requisitos":  [
+                       "Experiencia mínima de 1 año en posiciones similares",
+                       "Manejo comprobable de plataformas de pauta y herramientas web",
+                       "Experiencia solida en manejo de META",
+                       "Experiencia solida en creación de videos con IA",
+                       "Experiencia solida en manejo de TikTok",
+                       "Lo que"
+                   ],
+    "funciones":  [
+                      "Ads: Creación, optimización y seguimiento de campañas publicitarias digitales",
+                      "API: Gestión y monitoreo de nuestra plataforma de mensajes",
+                      "SEO \u0026 Web: Mantenimiento e indexación de páginas en Google Search Console y actualización continua del blog",
+                      "Tiktok: Potenciar la marca"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-well-consulting-services-1118495228.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-well-consulting-services-1118495228.html",
+    "descripcion_html":  "\u003cp\u003e ¡Estamos buscando un/a \u003cstrong\u003eAsistente de Marketing Digital\u003c/strong\u003e! Si te apasiona la pauta digital, el SEO y la gestión de canales conversacionales, queremos que te sumes a nuestro equipo. Buscamos un perfil analítico, proactivo, que le guste relacionarse y ayudar al equipo. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e Tus principales funciones: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAds: Creación, optimización y seguimiento de campañas publicitarias digitales. \u003c/li\u003e \u003cli\u003e API: Gestión y monitoreo de nuestra plataforma de mensajes. \u003c/li\u003e \u003cli\u003eSEO \u0026 Web: Mantenimiento e indexación de páginas en Google Search Console y actualización continua del blog. \u003c/li\u003e \u003cli\u003eTiktok: Potenciar la marca \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e Requisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Experiencia mínima de 1 año en posiciones similares\u003c/li\u003e \u003cli\u003eManejo comprobable de plataformas de pauta y herramientas web. \u003c/li\u003e \u003cli\u003eExperiencia solida en manejo de META \u003c/li\u003e \u003cli\u003eExperiencia solida en creación de videos con IA\u003c/li\u003e \u003cli\u003eExperiencia solida en manejo de TikTok\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eLo que ofrecemos:\u003c/strong\u003e \u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad: 100% Remoto. \u003c/li\u003e \u003cli\u003eContratación: Planilla Microempresa o Convenio de Prácticas Profesionales (según corresponda tu perfil).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

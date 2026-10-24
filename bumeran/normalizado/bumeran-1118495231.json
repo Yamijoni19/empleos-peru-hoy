@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495231",
+    "clave":  "id:1118495231",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/encargado-de-obra-tecnico-en-edificaciones-cristina-vasquez-1118495231.html",
+                   "capturadoEn":  "2026-10-24T20:48:58+00:00"
+               },
+    "titulo":  "Encargado de Obra / Técnico en Edificaciones",
+    "empresa":  "Cristina Vasquez",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "BUSCAMOS TALENTO CALIFICADO Encargado de Obra / Técnico en Edificaciones Resumen del Puesto Buscamos un profesional con experiencia en el sector construcción para unirse a nuestro equipo. El candidato ideal tendrá experiencia práctica en campo, sólidos conocimientos constructivos y la capacidad de organizar, coordinar y supervisar trabajos de obra. Se valorará el dominio en la lectura e interpretación de planos de arquitectura, estructuras e instalaciones. Responsabilidades Supervisar y coordinar la ejecución de proyectos de construcción, remodelación y acondicionamiento de edificaciones. Gestionar y dirigir al personal, proveedores y subcontratistas en obra. Asegurar el cumplimiento de los estándares de calidad y seguridad en todas las fases del proyecto. Interpretar y aplicar planos técnicos para la correcta ejecución de los trabajos. Resolver problemas y tomar decisiones efectivas en el entorno de obra. Requisitos Formación técnica en Edificaciones, Construcción Civil o carreras afines. Experiencia mínima de 3 años en ejecución, supervisión o como encargado de obras. Capacidad demostrada para la coordinación de equipos y recursos. Habilidad para la lectura e interpretación de planos técnicos. Licencia de conducir vigente. Se valorará la responsabilidad, el liderazgo, la organización y la capacidad para la resolución de problemas en campo.",
+    "requisitos":  [
+                       "Formación técnica en Edificaciones, Construcción Civil o carreras afines",
+                       "Experiencia mínima de 3 años en ejecución, supervisión o como encargado de obras",
+                       "Capacidad demostrada para la coordinación de equipos y recursos",
+                       "Habilidad para la lectura e interpretación de planos técnicos",
+                       "Licencia de conducir vigente",
+                       "Se valorará la responsabilidad, el liderazgo, la organización y la capacidad para la resolución de problemas en campo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/encargado-de-obra-tecnico-en-edificaciones-cristina-vasquez-1118495231.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/encargado-de-obra-tecnico-en-edificaciones-cristina-vasquez-1118495231.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003eBUSCAMOS TALENTO CALIFICADO\u003c/strong\u003e\u003c/p\u003e\u003c/p\u003e \u003cb\u003eEncargado de Obra / Técnico en Edificaciones\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional con experiencia en el sector construcción para unirse a nuestro equipo. El candidato ideal tendrá experiencia práctica en campo, sólidos conocimientos constructivos y la capacidad de organizar, coordinar y supervisar trabajos de obra. Se valorará el dominio en la lectura e interpretación de planos de arquitectura, estructuras e instalaciones.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y coordinar la ejecución de proyectos de construcción, remodelación y acondicionamiento de edificaciones.\u003c/li\u003e \u003cli\u003eGestionar y dirigir al personal, proveedores y subcontratistas en obra.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los estándares de calidad y seguridad en todas las fases del proyecto.\u003c/li\u003e \u003cli\u003eInterpretar y aplicar planos técnicos para la correcta ejecución de los trabajos.\u003c/li\u003e \u003cli\u003eResolver problemas y tomar decisiones efectivas en el entorno de obra.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica en Edificaciones, Construcción Civil o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en ejecución, supervisión o como encargado de obras.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para la coordinación de equipos y recursos.\u003c/li\u003e \u003cli\u003eHabilidad para la lectura e interpretación de planos técnicos.\u003c/li\u003e \u003cli\u003eLicencia de conducir vigente.\u003c/li\u003e \u003cli\u003eSe valorará la responsabilidad, el liderazgo, la organización y la capacidad para la resolución de problemas en campo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
