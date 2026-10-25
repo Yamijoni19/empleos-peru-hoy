@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495527",
+    "clave":  "id:1118495527",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutiva-comercial-adecco-peru-s.a.-1118495527.html",
+                   "capturadoEn":  "2026-10-25T11:27:46+00:00"
+               },
+    "titulo":  "Ejecutiva Comercial",
+    "empresa":  "ADECCO PERU S.A.",
+    "ubicacion":  "Tacna - Jorge Basadre",
+    "ciudad":  "Jorge Basadre",
+    "region":  "Tacna",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Ejecutiva Comercial Resumen del Puesto Buscamos una Ejecutiva Comercial proactiva y orientada a resultados para unirse a nuestro equipo. La persona seleccionada será responsable de desarrollar y mantener relaciones comerciales sólidas, identificar nuevas oportunidades de negocio y alcanzar los objetivos de ventas establecidos. Responsabilidades Identificar y contactar clientes potenciales para presentar nuestros productos/servicios. Desarrollar estrategias comerciales efectivas para alcanzar las metas de ventas. Gestionar y fidelizar la cartera de clientes existente. Realizar seguimiento de las negociaciones y cierres de ventas. Elaborar informes periódicos sobre la actividad comercial y los resultados obtenidos. Colaborar con otros departamentos para asegurar la satisfacción del cliente. Requisitos Experiencia comprobable en ventas y desarrollo de negocios. Habilidades de negociación, comunicación y persuasión. Orientación a objetivos y capacidad para trabajar bajo presión. Proactividad, dinamismo y excelentes relaciones interpersonales. Capacidad para trabajar de forma autónoma y en equipo. Conocimiento del mercado y tendencias comerciales.",
+    "requisitos":  [
+                       "Experiencia comprobable en ventas y desarrollo de negocios",
+                       "Habilidades de negociación, comunicación y persuasión",
+                       "Orientación a objetivos y capacidad para trabajar bajo presión",
+                       "Proactividad, dinamismo y excelentes relaciones interpersonales",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Conocimiento del mercado y tendencias comerciales"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutiva-comercial-adecco-peru-s.a.-1118495527.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutiva-comercial-adecco-peru-s.a.-1118495527.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEjecutiva Comercial\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eEjecutiva Comercial\u003c/strong\u003e proactiva y orientada a resultados para unirse a nuestro equipo. La persona seleccionada será responsable de desarrollar y mantener relaciones comerciales sólidas, identificar nuevas oportunidades de negocio y alcanzar los objetivos de ventas establecidos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIdentificar y contactar clientes potenciales para presentar nuestros productos/servicios.\u003c/li\u003e \u003cli\u003eDesarrollar estrategias comerciales efectivas para alcanzar las metas de ventas.\u003c/li\u003e \u003cli\u003eGestionar y fidelizar la cartera de clientes existente.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de las negociaciones y cierres de ventas.\u003c/li\u003e \u003cli\u003eElaborar informes periódicos sobre la actividad comercial y los resultados obtenidos.\u003c/li\u003e \u003cli\u003eColaborar con otros departamentos para asegurar la satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en ventas y desarrollo de negocios.\u003c/li\u003e \u003cli\u003eHabilidades de negociación, comunicación y persuasión.\u003c/li\u003e \u003cli\u003eOrientación a objetivos y capacidad para trabajar bajo presión.\u003c/li\u003e \u003cli\u003eProactividad, dinamismo y excelentes relaciones interpersonales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eConocimiento del mercado y tendencias comerciales.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

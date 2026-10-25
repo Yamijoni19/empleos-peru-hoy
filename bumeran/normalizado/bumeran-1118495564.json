@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118495564",
+    "clave":  "id:1118495564",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-constructora-moviagregados-1118495564.html",
+                   "capturadoEn":  "2026-10-25T11:27:36+00:00"
+               },
+    "titulo":  "Auxiliar Contable",
+    "empresa":  "Constructora Moviagregados",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar Contable Resumen del Puesto Estamos en la búsqueda de un Auxiliar Contable con formación técnica para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en el área contable y una gran capacidad de organización. Responsabilidades Colaborar en la preparación de registros contables. Apoyar en la conciliación de cuentas. Asistir en la gestión de documentación financiera. Participar en tareas administrativas relacionadas con el área contable. Mantener la organización y archivo de la información. Requisitos Dominio del sistema contable CONCAR (indispensable). Formación técnica en Contabilidad, Administración o afines. Experiencia previa en roles contables o administrativos. Conocimientos básicos de principios contables. Habilidad para el manejo de herramientas ofimáticas. Capacidad de organización y atención al detalle. Proactividad y disposición para el aprendizaje continuo.",
+    "requisitos":  [
+                       "Dominio del sistema contable CONCAR (indispensable)",
+                       "Formación técnica en Contabilidad, Administración o afines",
+                       "Experiencia previa en roles contables o administrativos",
+                       "Conocimientos básicos de principios contables",
+                       "Habilidad para el manejo de herramientas ofimáticas",
+                       "Capacidad de organización y atención al detalle",
+                       "Proactividad y disposición para el aprendizaje continuo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-constructora-moviagregados-1118495564.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-constructora-moviagregados-1118495564.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAuxiliar Contable\u003c/b\u003e con formación técnica para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en el área contable y una gran capacidad de organización.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación de registros contables.\u003c/li\u003e \u003cli\u003eApoyar en la conciliación de cuentas.\u003c/li\u003e \u003cli\u003eAsistir en la gestión de documentación financiera.\u003c/li\u003e \u003cli\u003eParticipar en tareas administrativas relacionadas con el área contable.\u003c/li\u003e \u003cli\u003eMantener la organización y archivo de la información.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDominio del sistema contable CONCAR (indispensable).\u003c/li\u003e \u003cli\u003eFormación técnica en Contabilidad, Administración o afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles contables o administrativos.\u003c/li\u003e \u003cli\u003eConocimientos básicos de principios contables.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de herramientas ofimáticas.\u003c/li\u003e \u003cli\u003eCapacidad de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eProactividad y disposición para el aprendizaje continuo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
