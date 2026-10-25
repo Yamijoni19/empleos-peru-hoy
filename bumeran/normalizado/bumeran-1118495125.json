@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495125",
+    "clave":  "id:1118495125",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-inmobiliaria-y-constructora-las-cumbres-de-la-moli-1118495125.html",
+                   "capturadoEn":  "2026-10-25T06:08:48+00:00"
+               },
+    "titulo":  "Asistente Administrativo",
+    "empresa":  "INMOBILIARIA Y CONSTRUCTORA LAS CUMBRES DE LA MOLI",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativo Resumen del Puesto Buscamos una persona responsable, dinámica y organizada con excelente actitud para integrarse a nuestro equipo de trabajo. El candidato ideal será proactivo, empático y comunicativo, con facilidad para la atención telefónica y el trabajo en equipo. Responsabilidades Brindar soporte en labores administrativas generales. Atender llamadas telefónicas y gestionar comunicaciones. Organizar y mantener archivos y documentación. Colaborar con diferentes áreas para asegurar la eficiencia operativa. Apoyar en tareas de aprendizaje continuo y mejora de procesos. Requisitos Conocimientos básicos de Microsoft Office (Word y Excel). Facilidad para comunicarse y atención al cliente. Capacidad para trabajar en equipo y buena disposición para aprender. Responsabilidad, puntualidad e iniciativa. Experiencia previa en labores administrativas es deseable, pero no indispensable.",
+    "requisitos":  [
+                       "Conocimientos básicos de Microsoft Office (Word y Excel)",
+                       "Facilidad para comunicarse y atención al cliente",
+                       "Capacidad para trabajar en equipo y buena disposición para aprender",
+                       "Responsabilidad, puntualidad e iniciativa",
+                       "Experiencia previa en labores administrativas es deseable, pero no indispensable"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-inmobiliaria-y-constructora-las-cumbres-de-la-moli-1118495125.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-inmobiliaria-y-constructora-las-cumbres-de-la-moli-1118495125.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona responsable, dinámica y organizada con excelente actitud para integrarse a nuestro equipo de trabajo. El candidato ideal será proactivo, empático y comunicativo, con facilidad para la atención telefónica y el trabajo en equipo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte en labores administrativas generales.\u003c/li\u003e \u003cli\u003eAtender llamadas telefónicas y gestionar comunicaciones.\u003c/li\u003e \u003cli\u003eOrganizar y mantener archivos y documentación.\u003c/li\u003e \u003cli\u003eColaborar con diferentes áreas para asegurar la eficiencia operativa.\u003c/li\u003e \u003cli\u003eApoyar en tareas de aprendizaje continuo y mejora de procesos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eConocimientos básicos de Microsoft Office (Word y Excel).\u003c/li\u003e \u003cli\u003eFacilidad para comunicarse y atención al cliente.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y buena disposición para aprender.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad e iniciativa.\u003c/li\u003e \u003cli\u003eExperiencia previa en labores administrativas es deseable, pero no indispensable.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

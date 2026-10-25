@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495150",
+    "clave":  "id:1118495150",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cocinero-de-cocina-chifa-liliana-mego-1118495150.html",
+                   "capturadoEn":  "2026-10-25T06:07:52+00:00"
+               },
+    "titulo":  "Cocinero de Cocina Chifa",
+    "empresa":  "Liliana Mego",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cocinero de Cocina Chifa Resumen del Puesto Buscamos un Cocinero de Cocina Chifa con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un dominio de las técnicas de cocina chifa y será capaz de trabajar de forma eficiente en un entorno dinámico. Responsabilidades Preparar y cocinar platos de cocina chifa, incluyendo saltados, arroz chaufa y tallarines. Mantener la limpieza y el orden en la cocina. Gestionar la preparación de alimentos de manera eficiente, especialmente durante las horas punta. Asegurar la calidad y la presentación de los platos. Colaborar con el equipo para garantizar un servicio fluido. Requisitos Experiencia previa en cocina chifa. Dominio del wok y técnicas de salteado. Capacidad para trabajar bajo presión y mantener la rapidez. Actitud responsable, puntual y con altos estándares de higiene. Habilidad para trabajar en equipo. Ofrecemos Remuneración competitiva. Un ambiente de trabajo positivo.",
+    "requisitos":  [
+                       "Experiencia previa en cocina chifa",
+                       "Dominio del wok y técnicas de salteado",
+                       "Capacidad para trabajar bajo presión y mantener la rapidez",
+                       "Actitud responsable, puntual y con altos estándares de higiene",
+                       "Habilidad para trabajar en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cocinero-de-cocina-chifa-liliana-mego-1118495150.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cocinero-de-cocina-chifa-liliana-mego-1118495150.html",
+    "descripcion_html":  "\u003cb\u003eCocinero de Cocina Chifa\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eCocinero de Cocina Chifa\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un dominio de las técnicas de cocina chifa y será capaz de trabajar de forma eficiente en un entorno dinámico.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003ePreparar y cocinar platos de cocina chifa, incluyendo saltados, arroz chaufa y tallarines.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en la cocina.\u003c/li\u003e \u003cli\u003eGestionar la preparación de alimentos de manera eficiente, especialmente durante las horas punta.\u003c/li\u003e \u003cli\u003eAsegurar la calidad y la presentación de los platos.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para garantizar un servicio fluido.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en cocina chifa.\u003c/li\u003e \u003cli\u003eDominio del wok y técnicas de salteado.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y mantener la rapidez.\u003c/li\u003e \u003cli\u003eActitud responsable, puntual y con altos estándares de higiene.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva.\u003c/li\u003e \u003cli\u003eUn ambiente de trabajo positivo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
