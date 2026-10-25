@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495508",
+    "clave":  "id:1118495508",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-corihuarmi-1118495508.html",
+                   "capturadoEn":  "2026-10-25T16:18:18+00:00"
+               },
+    "titulo":  "Especialista en Relaciones Comunitarias",
+    "empresa":  "Compañía minera Corihuarmi",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  991,
+                    "max":  9990,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 991 - S/ 9,990",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Especialista en Relaciones Comunitarias Resumen del Puesto Estamos en la búsqueda de un Especialista en Relaciones Comunitarias proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas. Responsabilidades Desarrollar e implementar estrategias para la participación comunitaria. Fomentar y mantener relaciones positivas con diversas organizaciones y grupos comunitarios. Organizar y coordinar eventos y actividades que promuevan la interacción comunitaria. Actuar como enlace entre la organización y la comunidad, gestionando consultas y feedback. Identificar oportunidades para el impacto social y la colaboración. Elaborar informes sobre las actividades y el impacto de las relaciones comunitarias. Requisitos Formación en Comunicación, Relaciones Públicas, Sociología, o áreas afines. Experiencia demostrable en gestión de relaciones comunitarias o desarrollo social. Habilidades excepcionales de comunicación verbal y escrita. Capacidad probada para construir y mantener relaciones interpersonales. Orientación a resultados y capacidad para trabajar de forma autónoma y en equipo. Creatividad y proactividad en la identificación de nuevas iniciativas.",
+    "requisitos":  [
+                       "Formación en Comunicación, Relaciones Públicas, Sociología, o áreas afines",
+                       "Experiencia demostrable en gestión de relaciones comunitarias o desarrollo social",
+                       "Habilidades excepcionales de comunicación verbal y escrita",
+                       "Capacidad probada para construir y mantener relaciones interpersonales",
+                       "Orientación a resultados y capacidad para trabajar de forma autónoma y en equipo",
+                       "Creatividad y proactividad en la identificación de nuevas iniciativas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-corihuarmi-1118495508.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-minera-corihuarmi-1118495508.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar e implementar estrategias para la participación comunitaria.\u003c/li\u003e \u003cli\u003eFomentar y mantener relaciones positivas con diversas organizaciones y grupos comunitarios.\u003c/li\u003e \u003cli\u003eOrganizar y coordinar eventos y actividades que promuevan la interacción comunitaria.\u003c/li\u003e \u003cli\u003eActuar como enlace entre la organización y la comunidad, gestionando consultas y feedback.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades para el impacto social y la colaboración.\u003c/li\u003e \u003cli\u003eElaborar informes sobre las actividades y el impacto de las relaciones comunitarias.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Comunicación, Relaciones Públicas, Sociología, o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en gestión de relaciones comunitarias o desarrollo social.\u003c/li\u003e \u003cli\u003eHabilidades excepcionales de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad probada para construir y mantener relaciones interpersonales.\u003c/li\u003e \u003cli\u003eOrientación a resultados y capacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eCreatividad y proactividad en la identificación de nuevas iniciativas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

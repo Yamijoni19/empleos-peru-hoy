@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495507",
+    "clave":  "id:1118495507",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-unidad-orcopampa-1118495507.html",
+                   "capturadoEn":  "2026-10-25T16:18:19+00:00"
+               },
+    "titulo":  "Especialista en Relaciones Comunitarias",
+    "empresa":  "Unidad ORCOPAMPA",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  9931,
+                    "max":  9932,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 9,931 - S/ 9,932",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Especialista en Relaciones Comunitarias Resumen del Puesto Estamos en la búsqueda de un profesional proactivo y con excelentes habilidades interpersonales para unirse a nuestro equipo como Especialista en Relaciones Comunitarias . El candidato ideal será responsable de construir y mantener relaciones sólidas con diversos grupos de interés, fomentando una imagen positiva y colaborativa. Responsabilidades Desarrollar e implementar estrategias para fortalecer los vínculos con la comunidad. Organizar y coordinar eventos y actividades comunitarias. Actuar como punto de contacto principal para consultas y colaboraciones comunitarias. Monitorear y responder a las necesidades e inquietudes de la comunidad. Elaborar informes sobre el impacto y la efectividad de las iniciativas comunitarias. Colaborar con equipos internos para alinear las acciones comunitarias con los objetivos generales. Requisitos Formación académica en Comunicación, Relaciones Públicas, Sociología o áreas afines. Experiencia comprobada en gestión de relaciones comunitarias o similares. Habilidades excepcionales de comunicación verbal y escrita. Capacidad demostrada para la planificación y ejecución de eventos. Fuerte orientación al servicio y habilidad para el manejo de relaciones interpersonales. Capacidad para trabajar de forma autónoma y en equipo, gestionando múltiples tareas simultáneamente.",
+    "requisitos":  [
+                       "Formación académica en Comunicación, Relaciones Públicas, Sociología o áreas afines",
+                       "Experiencia comprobada en gestión de relaciones comunitarias o similares",
+                       "Habilidades excepcionales de comunicación verbal y escrita",
+                       "Capacidad demostrada para la planificación y ejecución de eventos",
+                       "Fuerte orientación al servicio y habilidad para el manejo de relaciones interpersonales",
+                       "Capacidad para trabajar de forma autónoma y en equipo, gestionando múltiples tareas simultáneamente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-unidad-orcopampa-1118495507.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-unidad-orcopampa-1118495507.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional proactivo y con excelentes habilidades interpersonales para unirse a nuestro equipo como \u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e. El candidato ideal será responsable de construir y mantener relaciones sólidas con diversos grupos de interés, fomentando una imagen positiva y colaborativa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar e implementar estrategias para fortalecer los vínculos con la comunidad.\u003c/li\u003e \u003cli\u003eOrganizar y coordinar eventos y actividades comunitarias.\u003c/li\u003e \u003cli\u003eActuar como punto de contacto principal para consultas y colaboraciones comunitarias.\u003c/li\u003e \u003cli\u003eMonitorear y responder a las necesidades e inquietudes de la comunidad.\u003c/li\u003e \u003cli\u003eElaborar informes sobre el impacto y la efectividad de las iniciativas comunitarias.\u003c/li\u003e \u003cli\u003eColaborar con equipos internos para alinear las acciones comunitarias con los objetivos generales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica en Comunicación, Relaciones Públicas, Sociología o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en gestión de relaciones comunitarias o similares.\u003c/li\u003e \u003cli\u003eHabilidades excepcionales de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para la planificación y ejecución de eventos.\u003c/li\u003e \u003cli\u003eFuerte orientación al servicio y habilidad para el manejo de relaciones interpersonales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo, gestionando múltiples tareas simultáneamente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

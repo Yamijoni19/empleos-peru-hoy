@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495484",
+    "clave":  "id:1118495484",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/arqueologo-residente-para-proyecto-en-yanama-ancash-1118495484.html",
+                   "capturadoEn":  "2026-10-25T16:18:26+00:00"
+               },
+    "titulo":  "Arqueólogo Residente para Proyecto en Yanama/Ancash",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Ancash - Yungay",
+    "ciudad":  "Yungay",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa constructora desea contratar un Arqueólogo Residente para obra en la ciudad de Yanama/Ancash. Requisitos: Arqueólogo colegiado y habilitado Manejo de Microsoft office. Experiencia de 1 o 2 años. Disponibilidad para trabajar en provincia. Disponibilidad inmediata. Funciones: Elaborar y tramitar documentos complementarios propios de la problemática de la obra en el rubro de arqueología. Tipo de puesto: Tiempo completo",
+    "requisitos":  [
+                       "Arqueólogo colegiado y habilitado",
+                       "Manejo de Microsoft office",
+                       "Experiencia de 1 o 2 años",
+                       "Disponibilidad para trabajar en provincia",
+                       "Disponibilidad inmediata"
+                   ],
+    "funciones":  [
+                      "Elaborar y tramitar documentos complementarios propios de la problemática de la obra en el rubro de arqueología",
+                      "Tipo de puesto",
+                      "Tiempo completo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/arqueologo-residente-para-proyecto-en-yanama-ancash-1118495484.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/arqueologo-residente-para-proyecto-en-yanama-ancash-1118495484.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa constructora desea contratar un Arqueólogo Residente para obra en la ciudad de Yanama/Ancash. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eArqueólogo colegiado y habilitado \u003c/li\u003e \u003cli\u003eManejo de Microsoft office. \u003c/li\u003e \u003cli\u003eExperiencia de 1 o 2 años. \u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en provincia. \u003c/li\u003e \u003cli\u003eDisponibilidad inmediata. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar y tramitar documentos complementarios propios de la problemática de la obra en el rubro de arqueología. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eTipo de puesto: \u003c/strong\u003e \u003c/p\u003e\u003cul\u003e \u003cli\u003eTiempo completo\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

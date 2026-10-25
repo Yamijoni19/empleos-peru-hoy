@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495481",
+    "clave":  "id:1118495481",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-pala-hidraulica-marcobre-s.a-1118495481.html",
+                   "capturadoEn":  "2026-10-25T16:18:29+00:00"
+               },
+    "titulo":  "Operador de Pala Hidráulica",
+    "empresa":  "MARCOBRE S.A",
+    "ubicacion":  "Ica - Nazca",
+    "ciudad":  "Nazca",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  9000,
+                    "max":  13500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 9,000 - S/ 13,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operador de Pala Hidráulica Resumen del Puesto Estamos en la búsqueda de un Operador de Pala Hidráulica con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de operar maquinaria pesada de manera segura y eficiente para completar diversas tareas de construcción y movimiento de tierras. Responsabilidades Operar palas hidráulicas y otra maquinaria pesada de forma segura y eficiente. Realizar inspecciones previas al uso del equipo para garantizar su correcto funcionamiento. Manejar materiales y tierra según las especificaciones del proyecto. Colaborar con el equipo para asegurar la finalización oportuna de las tareas. Seguir todas las normativas de seguridad y procedimientos operativos. Requisitos Experiencia comprobada como operador de pala hidráulica. Conocimiento de las técnicas de operación de maquinaria pesada. Capacidad para leer e interpretar planos y especificaciones del sitio. Compromiso con la seguridad y las prácticas de trabajo seguras. Habilidad para trabajar en equipo y seguir instrucciones. Disponibilidad para trabajar en diversos entornos.",
+    "requisitos":  [
+                       "Experiencia comprobada como operador de pala hidráulica",
+                       "Conocimiento de las técnicas de operación de maquinaria pesada",
+                       "Capacidad para leer e interpretar planos y especificaciones del sitio",
+                       "Compromiso con la seguridad y las prácticas de trabajo seguras",
+                       "Habilidad para trabajar en equipo y seguir instrucciones",
+                       "Disponibilidad para trabajar en diversos entornos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-pala-hidraulica-marcobre-s.a-1118495481.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-pala-hidraulica-marcobre-s.a-1118495481.html",
+    "descripcion_html":  "\u003cb\u003eOperador de Pala Hidráulica\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eOperador de Pala Hidráulica\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de operar maquinaria pesada de manera segura y eficiente para completar diversas tareas de construcción y movimiento de tierras.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eOperar palas hidráulicas y otra maquinaria pesada de forma segura y eficiente.\u003c/li\u003e \u003cli\u003eRealizar inspecciones previas al uso del equipo para garantizar su correcto funcionamiento.\u003c/li\u003e \u003cli\u003eManejar materiales y tierra según las especificaciones del proyecto.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar la finalización oportuna de las tareas.\u003c/li\u003e \u003cli\u003eSeguir todas las normativas de seguridad y procedimientos operativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobada como operador de pala hidráulica.\u003c/li\u003e \u003cli\u003eConocimiento de las técnicas de operación de maquinaria pesada.\u003c/li\u003e \u003cli\u003eCapacidad para leer e interpretar planos y especificaciones del sitio.\u003c/li\u003e \u003cli\u003eCompromiso con la seguridad y las prácticas de trabajo seguras.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en diversos entornos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

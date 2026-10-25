@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118495515",
+    "clave":  "id:1118495515",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cosmiatra-para-spa-heavenly-spa-1118495515.html",
+                   "capturadoEn":  "2026-10-25T16:18:14+00:00"
+               },
+    "titulo":  "Cosmiatra para Spa",
+    "empresa":  "Heavenly Spa",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cosmiatra para Spa Resumen del Puesto Buscamos una Cosmiatra con experiencia y vocación de servicio para unirse a nuestro equipo en un spa. El puesto es a tiempo completo y requiere un profesional comprometido con la excelencia en el cuidado del cliente. Responsabilidades Realizar tratamientos faciales y cuidado de la piel. Garantizar la satisfacción del cliente a través de un servicio de alta calidad. Mantener un ambiente de trabajo limpio y profesional. Colaborar con el equipo para ofrecer una experiencia integral al cliente. Demostrar responsabilidad, puntualidad y compromiso en todas las tareas asignadas. Requisitos Experiencia previa en tratamientos faciales y cuidado de la piel. Excelentes habilidades interpersonales y de trato al cliente. Capacidad para trabajar en equipo y de forma autónoma. Disponibilidad para trabajar en un horario flexible, incluyendo fines de semana.",
+    "requisitos":  [
+                       "Experiencia previa en tratamientos faciales y cuidado de la piel",
+                       "Excelentes habilidades interpersonales y de trato al cliente",
+                       "Capacidad para trabajar en equipo y de forma autónoma",
+                       "Disponibilidad para trabajar en un horario flexible, incluyendo fines de semana"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cosmiatra-para-spa-heavenly-spa-1118495515.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cosmiatra-para-spa-heavenly-spa-1118495515.html",
+    "descripcion_html":  "\u003cb\u003eCosmiatra para Spa\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eCosmiatra\u003c/b\u003e con experiencia y vocación de servicio para unirse a nuestro equipo en un spa. El puesto es a tiempo completo y requiere un profesional comprometido con la excelencia en el cuidado del cliente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar tratamientos faciales y cuidado de la piel.\u003c/li\u003e \u003cli\u003eGarantizar la satisfacción del cliente a través de un servicio de alta calidad.\u003c/li\u003e \u003cli\u003eMantener un ambiente de trabajo limpio y profesional.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para ofrecer una experiencia integral al cliente.\u003c/li\u003e \u003cli\u003eDemostrar responsabilidad, puntualidad y compromiso en todas las tareas asignadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en tratamientos faciales y cuidado de la piel.\u003c/li\u003e \u003cli\u003eExcelentes habilidades interpersonales y de trato al cliente.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y de forma autónoma.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en un horario flexible, incluyendo fines de semana.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
