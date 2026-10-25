@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495176",
+    "clave":  "id:1118495176",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-funcional-sap-junior-semi-senior-csti-corp-1118495176.html",
+                   "capturadoEn":  "2026-10-25T01:11:46+00:00"
+               },
+    "titulo":  "Analista Funcional SAP Junior / Semi Senior",
+    "empresa":  "CSTI Corp",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Estamos buscando un Analista Funcional SAP Junior / Semi Senior! ¿Tienes experiencia en SAP S/4HANA , soporte funcional y procesos comerciales? ¡Esta oportunidad puede ser para ti! Ubicación: Cercado de Lima Modalidad: Presencial 100% Nivel: Junior / Semi Senior Requisitos Experiencia de aproximadamente 2 años en SAP S/4HANA Experiencia funcional en SAP SD , experiencia práctica en procesos comerciales y soporte funcional. Conocimientos básicos de SAP FI y comprensión de su integración con SAP SD. Experiencia brindando soporte N1/N2 , atendiendo incidencias de baja y mediana complejidad. Conocimientos en configuraciones funcionales y ajustes menores dentro del sistema. Conocimiento básico de debugging para análisis inicial de errores. Capacidad para resolver incidencias recurrentes de forma autónoma y escalar casos complejos cuando corresponda.",
+    "requisitos":  [
+                       "Experiencia de aproximadamente 2 años en SAP S/4HANA",
+                       "Experiencia funcional en SAP SD, experiencia práctica en procesos comerciales y soporte funcional",
+                       "Conocimientos básicos de SAP FI y comprensión de su integración con SAP SD",
+                       "Experiencia brindando soporte N1/N2, atendiendo incidencias de baja y mediana complejidad",
+                       "Conocimientos en configuraciones funcionales y ajustes menores dentro del sistema",
+                       "Conocimiento básico de debugging para análisis inicial de errores",
+                       "Capacidad para resolver incidencias recurrentes de forma autónoma y escalar casos complejos cuando corresponda"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-funcional-sap-junior-semi-senior-csti-corp-1118495176.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-funcional-sap-junior-semi-senior-csti-corp-1118495176.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Estamos buscando un Analista Funcional SAP Junior / Semi Senior!\u003c/strong\u003e \u003c/p\u003e\u003cp\u003e¿Tienes experiencia en \u003cstrong\u003eSAP S/4HANA\u003c/strong\u003e, soporte funcional y procesos comerciales? \u003c/p\u003e\u003cp\u003e¡Esta oportunidad puede ser para ti! \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eUbicación:\u003c/strong\u003e Cercado de Lima \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eModalidad:\u003c/strong\u003e Presencial 100%\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eNivel:\u003c/strong\u003e Junior / Semi Senior \u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos \u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia de aproximadamente 2 años en\u003cstrong\u003e SAP S/4HANA \u003c/strong\u003e\u003c/li\u003e \u003cli\u003eExperiencia funcional en \u003cstrong\u003eSAP SD\u003c/strong\u003e, experiencia práctica en procesos comerciales y soporte funcional. \u003c/li\u003e \u003cli\u003eConocimientos básicos de \u003cstrong\u003eSAP FI\u003c/strong\u003e y comprensión de su integración con SAP SD. \u003c/li\u003e \u003cli\u003eExperiencia brindando \u003cstrong\u003esoporte N1/N2\u003c/strong\u003e, atendiendo incidencias de baja y mediana complejidad. \u003c/li\u003e \u003cli\u003eConocimientos en configuraciones funcionales y ajustes menores dentro del sistema. \u003c/li\u003e \u003cli\u003eConocimiento básico de \u003cstrong\u003edebugging\u003c/strong\u003e para análisis inicial de errores. \u003c/li\u003e \u003cli\u003eCapacidad para resolver incidencias recurrentes de forma autónoma y escalar casos complejos cuando corresponda.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

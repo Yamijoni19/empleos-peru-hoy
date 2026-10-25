@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118495161",
+    "clave":  "id:1118495161",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/gerente-de-sala-y-supervisores-de-sala-rubi-gaming-s.a.c-1118495161.html",
+                   "capturadoEn":  "2026-10-25T01:12:26+00:00"
+               },
+    "titulo":  "Gerente de Sala y Supervisores de sala",
+    "empresa":  "RUBI GAMING S.A.C",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Gerente de Sala y Supervisores de Casa Resumen del Puesto Estamos en la búsqueda de profesionales con experiencia para cubrir los roles de Gerente de Sala y Supervisores de sala . El candidato ideal poseerá un profundo conocimiento del sector y habilidades de liderazgo demostradas. Responsabilidades Supervisar las operaciones diarias de la sala de juego. Gestionar y liderar equipos de trabajo. Asegurar el cumplimiento de las normativas y procedimientos establecidos. Garantizar una experiencia de cliente excepcional. Implementar estrategias para optimizar el rendimiento operativo. Requisitos Experiencia comprobable en roles similares dentro del sector de casinos o entretenimiento. Sólidas habilidades de liderazgo y gestión de personal. Capacidad para trabajar bajo presión y en entornos dinámicos. Excelentes habilidades de comunicación y relaciones interpersonales. Orientación a resultados y al servicio al cliente.",
+    "requisitos":  [
+                       "Experiencia comprobable en roles similares dentro del sector de casinos o entretenimiento",
+                       "Sólidas habilidades de liderazgo y gestión de personal",
+                       "Capacidad para trabajar bajo presión y en entornos dinámicos",
+                       "Excelentes habilidades de comunicación y relaciones interpersonales",
+                       "Orientación a resultados y al servicio al cliente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/gerente-de-sala-y-supervisores-de-sala-rubi-gaming-s.a.c-1118495161.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/gerente-de-sala-y-supervisores-de-sala-rubi-gaming-s.a.c-1118495161.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eGerente de Sala y Supervisores de Casa\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de profesionales con experiencia para cubrir los roles de \u003cstrong\u003eGerente de Sala\u003c/strong\u003e y \u003cstrong\u003eSupervisores de sala\u003c/strong\u003e. El candidato ideal poseerá un profundo conocimiento del sector y habilidades de liderazgo demostradas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSupervisar las operaciones diarias de la sala de juego.\u003c/li\u003e \u003cli\u003eGestionar y liderar equipos de trabajo.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las normativas y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de cliente excepcional.\u003c/li\u003e \u003cli\u003eImplementar estrategias para optimizar el rendimiento operativo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en roles similares dentro del sector de casinos o entretenimiento.\u003c/li\u003e \u003cli\u003eSólidas habilidades de liderazgo y gestión de personal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y en entornos dinámicos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eOrientación a resultados y al servicio al cliente.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
