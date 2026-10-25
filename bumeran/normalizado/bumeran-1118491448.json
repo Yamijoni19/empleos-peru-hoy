@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118491448",
+    "clave":  "id:1118491448",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-de-la-serna-distribuidora-sac-1118491448.html",
+                   "capturadoEn":  "2026-10-25T22:33:56+00:00"
+               },
+    "titulo":  "Operario de Almacén",
+    "empresa":  "DE LA SERNA DISTRIBUIDORA SAC",
+    "ubicacion":  "Lima - La Perla",
+    "ciudad":  "La Perla",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Almacén Resumen del Puesto Buscamos un Operario de Almacén proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de la gestión eficiente de las operaciones diarias del almacén, asegurando la correcta recepción, almacenamiento y despacho de mercadería. Responsabilidades Ejecutar las actividades de recepción, almacenamiento, preparación y despacho de mercadería. Realizar inventarios periódicos y validar la concordancia con los registros del sistema. Archivar documentos y registros relevantes para mantener un ordenamiento de las operaciones. Mantener la limpieza y el orden del almacén para garantizar un entorno de trabajo seguro y eficiente. Colaborar en otras responsabilidades asignadas por el supervisor directo. Requisitos Experiencia previa en funciones de almacén (deseable en rubros de empaques y/o consumo masivo). Manejo de Excel a nivel intermedio. Conocimiento en indicadores logísticos y rotación de inventario. Capacidad para trabajar en equipo y seguir instrucciones. Atención al detalle y habilidades de organización. Condiciones Laborales Jornada laboral de lunes a viernes 7 am a 4 pm y sábados por la mañana de 7 am a 1 2 am",
+    "requisitos":  [
+                       "Experiencia previa en"
+                   ],
+    "funciones":  [
+                      "de almacén (deseable en rubros de empaques y/o consumo masivo)",
+                      "Manejo de Excel a nivel intermedio",
+                      "Conocimiento en indicadores logísticos y rotación de inventario",
+                      "Capacidad para trabajar en equipo y seguir instrucciones",
+                      "Atención al detalle y habilidades de organización"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-de-la-serna-distribuidora-sac-1118491448.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-de-la-serna-distribuidora-sac-1118491448.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOperario de Almacén\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eOperario de Almacén\u003c/strong\u003e proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de la gestión eficiente de las operaciones diarias del almacén, asegurando la correcta recepción, almacenamiento y despacho de mercadería.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEjecutar las actividades de recepción, almacenamiento, preparación y despacho de mercadería.\u003c/li\u003e \u003cli\u003eRealizar inventarios periódicos y validar la concordancia con los registros del sistema.\u003c/li\u003e \u003cli\u003eArchivar documentos y registros relevantes para mantener un ordenamiento de las operaciones.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden del almacén para garantizar un entorno de trabajo seguro y eficiente.\u003c/li\u003e \u003cli\u003eColaborar en otras responsabilidades asignadas por el supervisor directo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en funciones de almacén (deseable en rubros de empaques y/o consumo masivo).\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eConocimiento en indicadores logísticos y rotación de inventario.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eAtención al detalle y habilidades de organización.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones Laborales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eJornada laboral de lunes a viernes \u0026#x37; am a \u0026#x34; pm y sábados por la mañana de \u0026#x37; am a \u0026#x31; \u0026#x32; am\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

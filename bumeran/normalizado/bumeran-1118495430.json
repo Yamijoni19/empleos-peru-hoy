@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118495430",
+    "clave":  "id:1118495430",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/conductor-de-camabaja-koelsa-peru-srl-1118495430.html",
+                   "capturadoEn":  "2026-10-25T22:33:23+00:00"
+               },
+    "titulo":  "Conductor de Camabaja",
+    "empresa":  "KOELSA PERU SRL",
+    "ubicacion":  "Ica - Marcona",
+    "ciudad":  "Marcona",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  3500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,000 - S/ 3,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Conductor de Camabaja Resumen del Puesto Buscamos un Conductor de Camabaja con experiencia para unirse a nuestro equipo. El candidato ideal será responsable del transporte seguro de maquinaria pesada y equipos, cumpliendo con todas las normativas de seguridad y procedimientos establecidos. Responsabilidades Transportar maquinaria pesada y equipos de forma segura. Realizar inspecciones preoperacionales del vehículo y la carga. Ejecutar correctamente las operaciones de carga, estiba, trincado y descarga de equipos. Cumplir con los procedimientos de seguridad y reportar cualquier falla o condición insegura. Mantener el vehículo en óptimas condiciones de funcionamiento. Requisitos Licencia de conducir vigente para el tipo de vehículo. Experiencia mínima de 3 años como conductor de camabaja, trasladando maquinaria pesada. Experiencia en proyectos de construcción o minería. Conocimiento de estiba, trincado y aseguramiento de carga. Conocimiento de manejo defensivo. Conocimientos básicos de inspección mecánica y seguridad vial. Disponibilidad para trabajar bajo régimen y trasladarse a diferentes proyectos. Habilidades de responsabilidad, compromiso con la seguridad, trabajo en equipo y atención al detalle.",
+    "requisitos":  [
+                       "Licencia de conducir vigente para el tipo de vehículo",
+                       "Experiencia mínima de 3 años como conductor de camabaja, trasladando maquinaria pesada",
+                       "Experiencia en proyectos de construcción o minería",
+                       "Conocimiento de estiba, trincado y aseguramiento de carga",
+                       "Conocimiento de manejo defensivo",
+                       "Conocimientos básicos de inspección mecánica y seguridad vial",
+                       "Disponibilidad para trabajar bajo régimen y trasladarse a diferentes proyectos",
+                       "Habilidades de responsabilidad, compromiso con la seguridad, trabajo en equipo y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/conductor-de-camabaja-koelsa-peru-srl-1118495430.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/conductor-de-camabaja-koelsa-peru-srl-1118495430.html",
+    "descripcion_html":  "\u003cb\u003eConductor de Camabaja\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eConductor de Camabaja\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal será responsable del transporte seguro de maquinaria pesada y equipos, cumpliendo con todas las normativas de seguridad y procedimientos establecidos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eTransportar maquinaria pesada y equipos de forma segura.\u003c/li\u003e \u003cli\u003eRealizar inspecciones preoperacionales del vehículo y la carga.\u003c/li\u003e \u003cli\u003eEjecutar correctamente las operaciones de carga, estiba, trincado y descarga de equipos.\u003c/li\u003e \u003cli\u003eCumplir con los procedimientos de seguridad y reportar cualquier falla o condición insegura.\u003c/li\u003e \u003cli\u003eMantener el vehículo en óptimas condiciones de funcionamiento.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eLicencia de conducir vigente para el tipo de vehículo.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años como conductor de camabaja, trasladando maquinaria pesada.\u003c/li\u003e \u003cli\u003eExperiencia en proyectos de construcción o minería.\u003c/li\u003e \u003cli\u003eConocimiento de estiba, trincado y aseguramiento de carga.\u003c/li\u003e \u003cli\u003eConocimiento de manejo defensivo.\u003c/li\u003e \u003cli\u003eConocimientos básicos de inspección mecánica y seguridad vial.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar bajo régimen y trasladarse a diferentes proyectos.\u003c/li\u003e \u003cli\u003eHabilidades de responsabilidad, compromiso con la seguridad, trabajo en equipo y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

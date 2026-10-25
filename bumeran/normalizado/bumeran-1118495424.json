@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495424",
+    "clave":  "id:1118495424",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-creditos-puerto-maldonado-caja-cusco-1118495424.html",
+                   "capturadoEn":  "2026-10-25T22:33:33+00:00"
+               },
+    "titulo":  "PRACTICANTE PROFESIONAL DE CREDITOS/ PUERTO MALDONADO",
+    "empresa":  "CAJA CUSCO",
+    "ubicacion":  "Madre de Dios - Puerto Maldonado",
+    "ciudad":  "Puerto Maldonado",
+    "region":  "Madre de Dios",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Te estamos buscando! Somos Caja Cusco, entidad financiera líder en la región sur del Perú y con sedes a nivel nacional, especializada en microfinanzas, ahorros y servicios financieros. Actualmente estamos en búsqueda del mejor talento para el puesto de: PRACTICANTE PROFESIONAL DE CRÉDITOS - PUERTO MALDONADO Responsabilidades Afianzar la formación académica y profesional, alineado a los valores y principios de la Caja Cusco, aplicado a la evaluación crediticia. Desempeñar actividades formativas de apoyo en el área de Créditos. Competencias Orientación al Cliente. Trabajo en Equipo. Atención a los Detalles Requisitos Mínimos Formación: Técnico Egresado o Universitario Egresado, Bachiller de las carreras de Administración, Economía, Contabilidad, Ing. Industrial y afines. Experiencia: Disponibilidad de tiempo completo de Lunes a Sábado. Fecha límite de postulación: Lunes, 26 de octubre del 2026",
+    "requisitos":  [
+                       "Mínimos",
+                       "Formación",
+                       "Técnico Egresado o Universitario Egresado, Bachiller de las carreras de Administración, Economía, Contabilidad, Ing. Industrial y afines",
+                       "Experiencia",
+                       "Disponibilidad de tiempo completo de Lunes a Sábado",
+                       "Fecha límite de postulación: Lunes, 26 de octubre del 2026"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-creditos-puerto-maldonado-caja-cusco-1118495424.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-creditos-puerto-maldonado-caja-cusco-1118495424.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Te estamos buscando!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSomos Caja Cusco, entidad financiera líder en la región sur del Perú y con sedes a nivel nacional, especializada en microfinanzas, ahorros y servicios financieros.\u003c/p\u003e\u003cp\u003eActualmente estamos en búsqueda del mejor talento para el puesto de: \u003cstrong\u003ePRACTICANTE PROFESIONAL DE CRÉDITOS - PUERTO MALDONADO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAfianzar la formación académica y profesional, alineado a los valores y principios de la Caja Cusco, aplicado a la evaluación crediticia.\u003c/li\u003e \u003cli\u003eDesempeñar actividades formativas de apoyo en el área de Créditos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCompetencias\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOrientación al Cliente.\u003c/li\u003e \u003cli\u003eTrabajo en Equipo.\u003c/li\u003e \u003cli\u003eAtención a los Detalles\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos Mínimos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFormación:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico Egresado o Universitario Egresado, Bachiller de las carreras de Administración, Economía, Contabilidad, Ing. Industrial y afines.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDisponibilidad de tiempo completo de Lunes a Sábado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFecha límite de postulación:\u003c/strong\u003e Lunes, 26 de octubre del 2026\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "* Técnico Egresado o Universitario Egresado, Bachiller de las carreras de Administración, Economía, Contabilidad, Ing",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

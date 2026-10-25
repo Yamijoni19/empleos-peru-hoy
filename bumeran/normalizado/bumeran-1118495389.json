@@ -1,0 +1,83 @@
+{
+    "id":  "bumeran-1118495389",
+    "clave":  "id:1118495389",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/business-analyst-encora-1118495389.html",
+                   "capturadoEn":  "2026-10-25T22:34:14+00:00"
+               },
+    "titulo":  "Business Analyst",
+    "empresa":  "Encora",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Coforge somos una compañía global de servicios tecnológicos y transformación digital, especializada en impulsar la innovación a través de soluciones de última generación. Contamos con presencia internacional y trabajamos junto a organizaciones líderes en diversos sectores, desarrollando proyectos de alto impacto con tecnologías modernas y metodologías ágiles. Actualmente, buscamos un Business Analyst para participar en proyectos de digitalización, optimización y automatización de procesos en el sector financiero. OBJETIVO DEL PUESTO Analizar, relevar y rediseñar procesos operativos de punta a punta, identificando oportunidades de mejora y digitalización. Serás el nexo entre las áreas de negocio y los equipos de tecnología para asegurar que las soluciones implementadas respondan a las necesidades funcionales y los objetivos del negocio. PRINCIPALES RESPONSABILIDADES - Relevar, analizar y mapear procesos actuales (AS IS), identificando oportunidades de mejora, ineficiencias y puntos críticos. - Diseñar procesos futuros (TO BE), proponiendo soluciones orientadas a la digitalización, automatización e hiperautomatización. - Identificar oportunidades de automatización mediante tecnologías como RPA, APIs, inteligencia artificial, OCR, chatbots y BPM. - Elaborar requerimientos funcionales, casos de uso, reglas de negocio y criterios de aceptación. - Coordinar con equipos de desarrollo, arquitectura, seguridad, UX, datos y usuarios de negocio para definir soluciones tecnológicas viables. - Participar en el diseño y validación de funcionalidades, interfaces, APIs y microservicios. - Gestionar y dar seguimiento a las pruebas funcionales durante las etapas de desarrollo, certificación y producción. - Identificar riesgos, dependencias e impedimentos que puedan afectar el avance de las iniciativas. - Brindar soporte al Product Owner y/o Project Manager en la planificación y seguimiento de proyectos. - Elaborar presentaciones ejecutivas y comunicar propuestas de mejora a diferentes niveles de la organización. REQUISITOS - Formación universitaria en Ingeniería Industrial, Ingeniería de Sistemas, Administración o carreras afines. - Entre 1 y 4 años de experiencia en análisis, mejora y digitalización de procesos. - Experiencia participando en proyectos de TI, transformación digital o implementación de soluciones tecnológicas. - Conocimientos de metodologías ágiles como Scrum y Kanban. - Conocimientos de metodologías de mejora continua como Lean, Six Sigma, DMAIC, PDCA y Design Thinking. - Experiencia o conocimientos en levantamiento de requerimientos, modelamiento de procesos y documentación funcional. - Manejo de herramientas de diagramación de procesos, como flujogramas, SIPOC y Swimlane. - Conocimientos de tecnologías de automatización como RPA, BPM, OCR, APIs e inteligencia artificial. - Manejo de Excel y PowerPoint. - Conocimientos básicos de Power BI, SQL, JavaScript y lectura e interpretación de estructuras JSON. - Familiaridad con herramientas como Jira, Confluence y Postman. - Capacidad analítica, comunicación efectiva, proactividad y orientación a resultados. CONOCIMIENTOS DESEABLES - Experiencia en el sector financiero, especialmente en procesos de back office, reclamos, fraude u operaciones transaccionales. - Conocimientos de Business Rules Management (BRM), con herramientas como Kogito o FICO. - Experiencia en iniciativas de automatización e hiperautomatización que integren inteligencia artificial, RPA y APIs. - Certificaciones ECBA o CCBA del IIBA.",
+    "requisitos":  [
+                       "Formación universitaria en Ingeniería Industrial, Ingeniería de Sistemas, Administración o carreras afines",
+                       "Entre 1 y 4 años de experiencia en análisis, mejora y digitalización de procesos",
+                       "Experiencia participando en proyectos de TI, transformación digital o implementación de soluciones tecnológicas",
+                       "Conocimientos de metodologías ágiles como Scrum y Kanban",
+                       "Conocimientos de metodologías de mejora continua como Lean, Six Sigma, DMAIC, PDCA y Design Thinking",
+                       "Experiencia o conocimientos en levantamiento de requerimientos, modelamiento de procesos y documentación funcional. - Manejo de herramientas de diagramación de procesos, como flujogramas, SIPOC y Swimlane",
+                       "Conocimientos de tecnologías de automatización como RPA, BPM, OCR, APIs e inteligencia artificial",
+                       "Manejo de Excel y PowerPoint",
+                       "Conocimientos básicos de Power BI, SQL, JavaScript y lectura e interpretación de estructuras JSON",
+                       "Familiaridad con herramientas como Jira, Confluence y Postman",
+                       "Capacidad analítica, comunicación efectiva, proactividad y orientación a resultados",
+                       "CONOCIMIENTOS DESEABLES",
+                       "Experiencia en el sector financiero, especialmente en procesos de back office, reclamos, fraude u operaciones transaccionales. - Conocimientos de Business Rules Management (BRM), con herramientas como Kogito o FICO",
+                       "Experiencia en iniciativas de automatización e hiperautomatización que integren inteligencia artificial, RPA y APIs",
+                       "Certificaciones ECBA o CCBA del IIBA"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/business-analyst-encora-1118495389.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/business-analyst-encora-1118495389.html",
+    "descripcion_html":  "\u003cp\u003eEn Coforge somos una compañía global de servicios tecnológicos y transformación digital, especializada en impulsar la innovación a través de soluciones de última generación. Contamos con presencia internacional y trabajamos junto a organizaciones líderes en diversos sectores, desarrollando proyectos de alto impacto con tecnologías modernas y metodologías ágiles.\u003c/p\u003e\u003cp\u003eActualmente, buscamos un Business Analyst para participar en proyectos de digitalización, optimización y automatización de procesos en el sector financiero. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOBJETIVO DEL PUESTO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e Analizar, relevar y rediseñar procesos operativos de punta a punta, identificando oportunidades de mejora y digitalización. Serás el nexo entre las áreas de negocio y los equipos de tecnología para asegurar que las soluciones implementadas respondan a las necesidades funcionales y los objetivos del negocio. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePRINCIPALES RESPONSABILIDADES \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Relevar, analizar y mapear procesos actuales (AS IS), identificando oportunidades de mejora, ineficiencias y puntos críticos.\u003c/p\u003e\u003cp\u003e - Diseñar procesos futuros (TO BE), proponiendo soluciones orientadas a la digitalización, automatización e hiperautomatización. \u003c/p\u003e\u003cp\u003e- Identificar oportunidades de automatización mediante tecnologías como RPA, APIs, inteligencia artificial, OCR, chatbots y BPM. - Elaborar requerimientos funcionales, casos de uso, reglas de negocio y criterios de aceptación. \u003c/p\u003e\u003cp\u003e- Coordinar con equipos de desarrollo, arquitectura, seguridad, UX, datos y usuarios de negocio para definir soluciones tecnológicas viables. - Participar en el diseño y validación de funcionalidades, interfaces, APIs y microservicios. \u003c/p\u003e\u003cp\u003e- Gestionar y dar seguimiento a las pruebas funcionales durante las etapas de desarrollo, certificación y producción. - Identificar riesgos, dependencias e impedimentos que puedan afectar el avance de las iniciativas. \u003c/p\u003e\u003cp\u003e- Brindar soporte al Product Owner y/o Project Manager en la planificación y seguimiento de proyectos. \u003c/p\u003e\u003cp\u003e- Elaborar presentaciones ejecutivas y comunicar propuestas de mejora a diferentes niveles de la organización. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Formación universitaria en Ingeniería Industrial, Ingeniería de Sistemas, Administración o carreras afines. \u003c/p\u003e\u003cp\u003e- Entre 1 y 4 años de experiencia en análisis, mejora y digitalización de procesos. \u003c/p\u003e\u003cp\u003e- Experiencia participando en proyectos de TI, transformación digital o implementación de soluciones tecnológicas. \u003c/p\u003e\u003cp\u003e- Conocimientos de metodologías ágiles como Scrum y Kanban. \u003c/p\u003e\u003cp\u003e- Conocimientos de metodologías de mejora continua como Lean, Six Sigma, DMAIC, PDCA y Design Thinking. \u003c/p\u003e\u003cp\u003e- Experiencia o conocimientos en levantamiento de requerimientos, modelamiento de procesos y documentación funcional. - Manejo de herramientas de diagramación de procesos, como flujogramas, SIPOC y Swimlane. \u003c/p\u003e\u003cp\u003e- Conocimientos de tecnologías de automatización como RPA, BPM, OCR, APIs e inteligencia artificial. \u003c/p\u003e\u003cp\u003e- Manejo de Excel y PowerPoint. \u003c/p\u003e\u003cp\u003e- Conocimientos básicos de Power BI, SQL, JavaScript y lectura e interpretación de estructuras JSON. \u003c/p\u003e\u003cp\u003e- Familiaridad con herramientas como Jira, Confluence y Postman. \u003c/p\u003e\u003cp\u003e- Capacidad analítica, comunicación efectiva, proactividad y orientación a resultados. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCONOCIMIENTOS DESEABLES\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Experiencia en el sector financiero, especialmente en procesos de back office, reclamos, fraude u operaciones transaccionales. - Conocimientos de Business Rules Management (BRM), con herramientas como Kogito o FICO. \u003c/p\u003e\u003cp\u003e- Experiencia en iniciativas de automatización e hiperautomatización que integren inteligencia artificial, RPA y APIs. \u003c/p\u003e\u003cp\u003e- Certificaciones ECBA o CCBA del IIBA. \u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 4 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

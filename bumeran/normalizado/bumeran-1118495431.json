@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118495431",
+    "clave":  "id:1118495431",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-tienda-ripley-jockey-chorrillos-santa-anita-san-borja-grupo-ripley-1118495431.html",
+                   "capturadoEn":  "2026-10-25T22:33:20+00:00"
+               },
+    "titulo":  "Asistente de Tienda - Ripley Jockey, Chorrillos, Santa Anita, San Borja",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Salario: S/.1300",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "En Ripley, marca líder en el rubro retail, estamos en búsqueda de un/a Asistente por Campaña Cyber para nuestra tienda CONDICIONES LABORALES: Inicio: 02/11 Contrato temporal. Áreas de apoyo: Piso de ventas, retiro en tienda, almacén y probadores, etc. Jornada Full time (46 horas semanales). Disponibilidad entre lunes a domingo. Horarios rotativos entre 10:30 am a 10:30 pm. Días de trabajo por semana: 6 trabajo, 1 descanso. Salario: S/.1300 (se realizará un prorrateo por los días trabajados). BENEFICIOS: Planilla desde el 1er día. Posibilidades de continuar en nuestras diversas campañas o de forma fija. Descuentos corporativos.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Planilla desde el 1er día",
+                       "Posibilidades de continuar en nuestras diversas campañas o de forma fija",
+                       "Descuentos corporativos"
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-tienda-ripley-jockey-chorrillos-santa-anita-san-borja-grupo-ripley-1118495431.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-tienda-ripley-jockey-chorrillos-santa-anita-san-borja-grupo-ripley-1118495431.html",
+    "descripcion_html":  "\u003cp\u003eEn Ripley, marca líder en el rubro retail, estamos en búsqueda de un/a \u003cstrong\u003eAsistente por Campaña Cyber \u003c/strong\u003epara nuestra tienda \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCONDICIONES LABORALES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInicio: 02/11\u003c/li\u003e \u003cli\u003eContrato temporal.\u003c/li\u003e \u003cli\u003eÁreas de apoyo: Piso de ventas, retiro en tienda, almacén y probadores, etc.\u003c/li\u003e \u003cli\u003eJornada Full time (46 horas semanales).\u003c/li\u003e \u003cli\u003eDisponibilidad entre lunes a domingo.\u003c/li\u003e \u003cli\u003eHorarios rotativos entre 10:30 am a 10:30 pm.\u003c/li\u003e \u003cli\u003eDías de trabajo por semana: 6 trabajo, 1 descanso.\u003c/li\u003e \u003cli\u003eSalario: S/.1300 (se realizará un prorrateo por los días trabajados).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla desde el 1er día.\u003c/li\u003e \u003cli\u003ePosibilidades de continuar en nuestras diversas campañas o de forma fija.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

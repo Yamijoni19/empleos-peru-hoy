@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118495393",
+    "clave":  "id:1118495393",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/recepcionista-de-clinica-veterinaria-clinica-veterinaria-rinconada-eirl-1118495393.html",
+                   "capturadoEn":  "2026-10-25T22:34:07+00:00"
+               },
+    "titulo":  "RECEPCIONISTA DE CLINICA VETERINARIA",
+    "empresa":  "clinica veterinaria rinconada eirl",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Recepcionista / Counter de Clínica Veterinaria – ¡Sueldo Fijo + Comisiones y Bonos! Recibir a clientes y coordinar servicios de consultas y baños con el equipo médico y de estética. Gestión y Fidelización: Contactar a nuestra comunidad de clientes (vía telefónica y presencial) para programar citas, baños y recordar tratamientos. Asesoría Comercial: Impulsar la venta presencial y telefónica desde nuestra base de datos de productos comerciales de la veterinaria, Control Digital: Registrar y hacer el seguimiento de los procedimientos y documentación interna en el sistema Vet Praxis . ¿Qué buscamos en ti? Facilidad de palabra, empatía, comunicativo(a). Capacidad de organización y gestión de archivos/documentación. Orientación al logro y gusto por las ventas o trabajo por metas. Manejo básico de herramientas informáticas ¿Qué te ofrecemos? Ingresos atractivos: Sueldo FIJO base + Comisiones y bonos por cumplimiento de metas. Horario laboral: De lunes a sábado (opcion a rotativo descansa entre semana)",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/recepcionista-de-clinica-veterinaria-clinica-veterinaria-rinconada-eirl-1118495393.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/recepcionista-de-clinica-veterinaria-clinica-veterinaria-rinconada-eirl-1118495393.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003eRecepcionista / Counter de Clínica Veterinaria – ¡Sueldo Fijo + Comisiones y Bonos!\u003c/strong\u003e\u003c/p\u003e\u003c/p\u003e \u003cul\u003e \u003cli\u003eRecibir a clientes y coordinar servicios de consultas y baños con el equipo médico y de estética.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGestión y Fidelización:\u003c/strong\u003e Contactar a nuestra comunidad de clientes (vía telefónica y presencial) para programar citas, baños y recordar tratamientos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAsesoría Comercial:\u003c/strong\u003e Impulsar la venta presencial y telefónica desde nuestra base de datos de productos comerciales de la veterinaria,\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eControl Digital:\u003c/strong\u003e Registrar y hacer el seguimiento de los procedimientos y documentación interna en el sistema \u003cstrong\u003eVet Praxis\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos en ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFacilidad de palabra, empatía, comunicativo(a).\u003c/li\u003e \u003cli\u003eCapacidad de organización y gestión de archivos/documentación.\u003c/li\u003e \u003cli\u003eOrientación al logro y gusto por las ventas o trabajo por metas.\u003c/li\u003e \u003cli\u003eManejo básico de herramientas informáticas \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eIngresos atractivos:\u003c/strong\u003e Sueldo FIJO base + Comisiones y bonos por cumplimiento de metas.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eHorario laboral:\u003c/strong\u003e De lunes a sábado (opcion a rotativo descansa entre semana)\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
