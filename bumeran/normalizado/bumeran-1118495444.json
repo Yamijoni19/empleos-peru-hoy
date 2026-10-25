@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495444",
+    "clave":  "id:1118495444",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/relacionista-comunitario-cm-horizonte-1118495444.html",
+                   "capturadoEn":  "2026-10-25T19:37:24+00:00"
+               },
+    "titulo":  "Relacionista Comunitario",
+    "empresa":  "CM HORIZONTE",
+    "ubicacion":  "La Libertad - Pataz",
+    "ciudad":  "Pataz",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  8150,
+                    "max":  14200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 8,150 - S/ 14,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Relacionista Comunitario Resumen del Puesto Estamos en la búsqueda de un Relacionista Comunitario proactivo y con excelentes habilidades interpersonales para fortalecer los vínculos con las comunidades en las que operamos. El candidato ideal será un puente de comunicación efectivo, promoviendo el entendimiento mutuo y la colaboración. Responsabilidades Establecer y mantener relaciones sólidas con líderes comunitarios y organizaciones locales. Facilitar la comunicación entre la organización y las comunidades, asegurando la transmisión de información relevante y la escucha activa de inquietudes. Identificar oportunidades para la colaboración y el desarrollo de proyectos conjuntos que beneficien a ambas partes. Organizar y participar en eventos comunitarios para fortalecer la presencia y el compromiso. Gestionar la comunicación de crisis y la resolución de conflictos de manera diplomática y efectiva. Elaborar informes sobre el estado de las relaciones comunitarias y proponer estrategias de mejora. Requisitos Formación en Comunicación, Relaciones Públicas, Sociología, Antropología o áreas afines. Experiencia comprobada en gestión de relaciones comunitarias, desarrollo social o similar. Excelentes habilidades de comunicación oral y escrita, negociación y mediación. Capacidad para trabajar de forma autónoma y en equipo, con una fuerte orientación a resultados. Habilidad para comprender y adaptarse a diversos contextos culturales y sociales. Disponibilidad para desplazamientos según sea necesario.",
+    "requisitos":  [
+                       "Formación en Comunicación, Relaciones Públicas, Sociología, Antropología o áreas afines",
+                       "Experiencia comprobada en gestión de relaciones comunitarias, desarrollo social o similar",
+                       "Excelentes habilidades de comunicación oral y escrita, negociación y mediación",
+                       "Capacidad para trabajar de forma autónoma y en equipo, con una fuerte orientación a resultados",
+                       "Habilidad para comprender y adaptarse a diversos contextos culturales y sociales",
+                       "Disponibilidad para desplazamientos según sea necesario"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/relacionista-comunitario-cm-horizonte-1118495444.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/relacionista-comunitario-cm-horizonte-1118495444.html",
+    "descripcion_html":  "\u003cb\u003eRelacionista Comunitario\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eRelacionista Comunitario\u003c/b\u003e proactivo y con excelentes habilidades interpersonales para fortalecer los vínculos con las comunidades en las que operamos. El candidato ideal será un puente de comunicación efectivo, promoviendo el entendimiento mutuo y la colaboración.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstablecer y mantener relaciones sólidas con líderes comunitarios y organizaciones locales.\u003c/li\u003e \u003cli\u003eFacilitar la comunicación entre la organización y las comunidades, asegurando la transmisión de información relevante y la escucha activa de inquietudes.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades para la colaboración y el desarrollo de proyectos conjuntos que beneficien a ambas partes.\u003c/li\u003e \u003cli\u003eOrganizar y participar en eventos comunitarios para fortalecer la presencia y el compromiso.\u003c/li\u003e \u003cli\u003eGestionar la comunicación de crisis y la resolución de conflictos de manera diplomática y efectiva.\u003c/li\u003e \u003cli\u003eElaborar informes sobre el estado de las relaciones comunitarias y proponer estrategias de mejora.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Comunicación, Relaciones Públicas, Sociología, Antropología o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en gestión de relaciones comunitarias, desarrollo social o similar.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación oral y escrita, negociación y mediación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo, con una fuerte orientación a resultados.\u003c/li\u003e \u003cli\u003eHabilidad para comprender y adaptarse a diversos contextos culturales y sociales.\u003c/li\u003e \u003cli\u003eDisponibilidad para desplazamientos según sea necesario.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

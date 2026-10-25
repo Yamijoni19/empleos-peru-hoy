@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118495465",
+    "clave":  "id:1118495465",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-clinico-comercial-fisioterapeuta-jp-rehab-srl-1118495465.html",
+                   "capturadoEn":  "2026-10-25T19:36:51+00:00"
+               },
+    "titulo":  "Asesor Clinico Comercial Fisioterapeuta",
+    "empresa":  "JP Rehab SRL",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Profesional de la salud o afines Experiencia en venta en laboratorio o equipos médicos (mínimo dos años) manejo comercial de redes sociales y whatsAppbusiness Habilidad para demostrar equipos, negociar y dar seguimiento a clientes Licencia de Conducir A1 Dinamismo, proactividad y orientacion a resultados Disponibilidad para visitas comerciales y viajes eventuales Ingreso a planilla desde el primer día Capacitación constante Línea de Carrera",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-clinico-comercial-fisioterapeuta-jp-rehab-srl-1118495465.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-clinico-comercial-fisioterapeuta-jp-rehab-srl-1118495465.html",
+    "descripcion_html":  "\u003cp\u003eProfesional de la salud o afines\u003c/p\u003e\u003cp\u003eExperiencia en venta en laboratorio o equipos médicos (mínimo dos años)\u003c/p\u003e\u003cp\u003emanejo comercial de redes sociales y whatsAppbusiness\u003c/p\u003e\u003cp\u003eHabilidad para demostrar equipos, negociar y dar seguimiento a clientes\u003c/p\u003e\u003cp\u003eLicencia de Conducir A1\u003c/p\u003e\u003cp\u003eDinamismo, proactividad y orientacion a resultados\u003c/p\u003e\u003cp\u003eDisponibilidad para visitas comerciales y viajes eventuales\u003c/p\u003e\u003cp\u003eIngreso a planilla desde el primer día\u003c/p\u003e\u003cp\u003eCapacitación constante\u003c/p\u003e\u003cp\u003eLínea de Carrera\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

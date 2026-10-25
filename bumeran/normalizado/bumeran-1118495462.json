@@ -1,0 +1,81 @@
+{
+    "id":  "bumeran-1118495462",
+    "clave":  "id:1118495462",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-eldukedecan-1118495462.html",
+                   "capturadoEn":  "2026-10-25T19:36:58+00:00"
+               },
+    "titulo":  "Asesor(a) de Ventas",
+    "empresa":  "ELDUKEDECAN",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor(a) de Ventas Perfil del Puesto Buscamos una persona proactiva, dinámica y orientada al cliente, con habilidades de comunicación y persuasión para ofrecer productos y servicios, brindar una atención de calidad y contribuir al cumplimiento de los objetivos comerciales. Funciones Principales Atender y asesorar a los clientes de manera cordial. Promocionar los productos y servicios. Realizar ventas y hacer seguimiento a los clientes. Resolver consultas y orientar sobre los servicios disponibles. Apoyar en el orden, exhibición y reposición de productos. Cumplir con las metas y objetivos de ventas establecidos. Requisitos Disponibilidad a tiempo completo. Experiencia en ventas y atención al cliente (deseable). Facilidad de palabra y habilidades de negociación. Orientación a resultados. Responsabilidad, puntualidad y buena presentación personal. Manejo básico de herramientas informáticas (deseable).",
+    "requisitos":  [
+                       "Disponibilidad a tiempo completo",
+                       "Experiencia en ventas y atención al cliente (deseable)",
+                       "Facilidad de palabra y habilidades de negociación",
+                       "Orientación a resultados",
+                       "Responsabilidad, puntualidad y buena presentación personal",
+                       "Manejo básico de herramientas informáticas (deseable)"
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Atender y asesorar a los clientes de manera cordial",
+                      "Promocionar los productos y servicios",
+                      "Realizar ventas y hacer seguimiento a los clientes",
+                      "Resolver consultas y orientar sobre los servicios disponibles",
+                      "Apoyar en el orden, exhibición y reposición de productos",
+                      "Cumplir con las metas y objetivos de ventas establecidos"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-eldukedecan-1118495462.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-eldukedecan-1118495462.html",
+    "descripcion_html":  "\u003cb\u003eAsesor(a) de Ventas\u003c/b\u003e \u003cb\u003ePerfil del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona proactiva, dinámica y orientada al cliente, con habilidades de comunicación y persuasión para ofrecer productos y servicios, brindar una atención de calidad y contribuir al cumplimiento de los objetivos comerciales.\u003c/p\u003e \u003cb\u003eFunciones Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y asesorar a los clientes de manera cordial.\u003c/li\u003e \u003cli\u003ePromocionar los productos y servicios.\u003c/li\u003e \u003cli\u003eRealizar ventas y hacer seguimiento a los clientes.\u003c/li\u003e \u003cli\u003eResolver consultas y orientar sobre los servicios disponibles.\u003c/li\u003e \u003cli\u003eApoyar en el orden, exhibición y reposición de productos.\u003c/li\u003e \u003cli\u003eCumplir con las metas y objetivos de ventas establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDisponibilidad a tiempo completo.\u003c/li\u003e \u003cli\u003eExperiencia en ventas y atención al cliente (deseable).\u003c/li\u003e \u003cli\u003eFacilidad de palabra y habilidades de negociación.\u003c/li\u003e \u003cli\u003eOrientación a resultados.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y buena presentación personal.\u003c/li\u003e \u003cli\u003eManejo básico de herramientas informáticas (deseable).\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

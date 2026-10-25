@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495446",
+    "clave":  "id:1118495446",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vendedor-senior-de-ascensores-fuji-elevator-1118495446.html",
+                   "capturadoEn":  "2026-10-25T19:37:21+00:00"
+               },
+    "titulo":  "Vendedor Senior de Ascensores",
+    "empresa":  "Fuji Elevator",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Vendedor Senior de Ascensores Resumen del Puesto Buscamos un Vendedor Senior de Ascensores con experiencia para unirse a nuestro equipo comercial. El candidato ideal será responsable de comercializar equipos de elevación, captar nuevos clientes y expandir nuestra cartera comercial. Responsabilidades Prospectar constructoras, inmobiliarias y arquitectos. Identificar oportunidades de negocio y elaborar propuestas comerciales. Negociar y cerrar ventas de manera efectiva. Promover contratos de mantenimiento y modernización de equipos. Gestionar clientes y oportunidades utilizando herramientas CRM. Requisitos Formación en Ingeniería Mecánica, Eléctrica, Electrónica, Industrial o carreras afines. Mínimo 5 años de experiencia comprobada en ventas B2B de ascensores o equipos electromecánicos. Contar con una cartera activa en el sector de la construcción e inmobiliario. Dominio de herramientas CRM y capacidad para leer planos técnicos. Competencias clave: Habilidad de negociación, venta consultiva, autonomía y fuerte orientación a resultados. Ofrecemos Remuneración competitiva: Sueldo base más comisiones sin límite. Apoyo para movilidad.",
+    "requisitos":  [
+                       "Formación en Ingeniería Mecánica, Eléctrica, Electrónica, Industrial o carreras afines",
+                       "Mínimo 5 años de experiencia comprobada en ventas B2B de ascensores o equipos electromecánicos",
+                       "Contar con una cartera activa en el sector de la construcción e inmobiliario",
+                       "Dominio de herramientas CRM y capacidad para leer planos técnicos",
+                       "Competencias clave: Habilidad de negociación, venta consultiva, autonomía y fuerte orientación a resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/vendedor-senior-de-ascensores-fuji-elevator-1118495446.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vendedor-senior-de-ascensores-fuji-elevator-1118495446.html",
+    "descripcion_html":  "\u003cb\u003eVendedor Senior de Ascensores\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eVendedor Senior de Ascensores\u003c/b\u003e con experiencia para unirse a nuestro equipo comercial. El candidato ideal será responsable de comercializar equipos de elevación, captar nuevos clientes y expandir nuestra cartera comercial.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eProspectar constructoras, inmobiliarias y arquitectos.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de negocio y elaborar propuestas comerciales.\u003c/li\u003e \u003cli\u003eNegociar y cerrar ventas de manera efectiva.\u003c/li\u003e \u003cli\u003ePromover contratos de mantenimiento y modernización de equipos.\u003c/li\u003e \u003cli\u003eGestionar clientes y oportunidades utilizando herramientas CRM.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Ingeniería Mecánica, Eléctrica, Electrónica, Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 5 años de experiencia comprobada en ventas B2B de ascensores o equipos electromecánicos.\u003c/li\u003e \u003cli\u003eContar con una cartera activa en el sector de la construcción e inmobiliario.\u003c/li\u003e \u003cli\u003eDominio de herramientas CRM y capacidad para leer planos técnicos.\u003c/li\u003e \u003cli\u003eCompetencias clave: Habilidad de negociación, venta consultiva, autonomía y fuerte orientación a resultados.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva: Sueldo base más comisiones sin límite.\u003c/li\u003e \u003cli\u003eApoyo para movilidad.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

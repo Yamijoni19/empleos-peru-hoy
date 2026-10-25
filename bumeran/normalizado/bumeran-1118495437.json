@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118495437",
+    "clave":  "id:1118495437",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-instalador-de-ascensores-fuji-elevator-1118495437.html",
+                   "capturadoEn":  "2026-10-25T19:37:42+00:00"
+               },
+    "titulo":  "Técnico Instalador de Ascensores",
+    "empresa":  "Fuji Elevator",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,000 - S/ 4,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico Instalador de Ascensores Resumen del Puesto Buscamos un Técnico Instalador de Ascensores con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de ejecutar trabajos de desmontaje, montaje, instalación y puesta en marcha de ascensores, garantizando la calidad técnica y el cumplimiento de los procedimientos de seguridad en obra. Responsabilidades Realizar el desmontaje y montaje de ascensores, incluyendo equipos panorámicos. Ejecutar el alineamiento de rieles y el ensamblaje de chasis y cabina. Realizar conexiones eléctricas, cableado de tableros de control y conexionado de motores. Apoyar en la configuración, pruebas y puesta en marcha de los equipos. Coordinar las actividades de instalación con el equipo técnico y el área de proyectos. Cumplir con los procedimientos de seguridad y gestionar los formatos correspondientes. Supervisar el uso adecuado de herramientas y equipos de protección personal (EPP). Requisitos Experiencia comprobable en instalación y montaje de ascensores. Conocimientos sólidos en mecánica y electricidad. Capacidad para interpretar planos técnicos. Habilidad para trabajar en altura y en espacios reducidos. Compromiso con las normas de seguridad y salud ocupacional. Capacidad para trabajar de forma autónoma y en equipo. Disponibilidad para trabajo de campo.",
+    "requisitos":  [
+                       "Experiencia comprobable en instalación y montaje de ascensores",
+                       "Conocimientos sólidos en mecánica y electricidad",
+                       "Capacidad para interpretar planos técnicos",
+                       "Habilidad para trabajar en altura y en espacios reducidos",
+                       "Compromiso con las normas de seguridad y salud ocupacional",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Disponibilidad para trabajo de campo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-instalador-de-ascensores-fuji-elevator-1118495437.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-instalador-de-ascensores-fuji-elevator-1118495437.html",
+    "descripcion_html":  "\u003cb\u003eTécnico Instalador de Ascensores\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico Instalador de Ascensores\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal será responsable de ejecutar trabajos de desmontaje, montaje, instalación y puesta en marcha de ascensores, garantizando la calidad técnica y el cumplimiento de los procedimientos de seguridad en obra.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el desmontaje y montaje de ascensores, incluyendo equipos panorámicos.\u003c/li\u003e \u003cli\u003eEjecutar el alineamiento de rieles y el ensamblaje de chasis y cabina.\u003c/li\u003e \u003cli\u003eRealizar conexiones eléctricas, cableado de tableros de control y conexionado de motores.\u003c/li\u003e \u003cli\u003eApoyar en la configuración, pruebas y puesta en marcha de los equipos.\u003c/li\u003e \u003cli\u003eCoordinar las actividades de instalación con el equipo técnico y el área de proyectos.\u003c/li\u003e \u003cli\u003eCumplir con los procedimientos de seguridad y gestionar los formatos correspondientes.\u003c/li\u003e \u003cli\u003eSupervisar el uso adecuado de herramientas y equipos de protección personal (EPP).\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en instalación y montaje de ascensores.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en mecánica y electricidad.\u003c/li\u003e \u003cli\u003eCapacidad para interpretar planos técnicos.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en altura y en espacios reducidos.\u003c/li\u003e \u003cli\u003eCompromiso con las normas de seguridad y salud ocupacional.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajo de campo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

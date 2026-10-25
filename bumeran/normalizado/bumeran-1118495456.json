@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118495456",
+    "clave":  "id:1118495456",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajera-facturadora-importaciones-va-car-sac-1118495456.html",
+                   "capturadoEn":  "2026-10-25T19:37:11+00:00"
+               },
+    "titulo":  "Cajera Facturadora",
+    "empresa":  "IMPORTACIONES VA CAR SAC",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cajera Facturadora Resumen del Puesto Estamos en la búsqueda de una Cajera Facturadora con experiencia para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades sólidas en el manejo de caja, facturación y atención al cliente, demostrando capacidad para trabajar de manera eficiente y organizada. Responsabilidades Procesar transacciones de venta y emitir facturas. Manejar efectivo, tarjetas de crédito y otros métodos de pago. Realizar el cuadre de caja al final de cada jornada. Brindar atención y asistencia a los clientes en el punto de venta. Mantener el área de caja ordenada y organizada. Colaborar con el equipo para asegurar un flujo de trabajo eficiente. Requisitos Experiencia previa comprobable como cajera o en roles similares de facturación. Conocimiento en el manejo de sistemas de punto de venta y facturación. Habilidad para el manejo de efectivo y transacciones financieras. Excelentes habilidades de atención al cliente y comunicación. Capacidad para trabajar bajo presión y con precisión. Organización y atención al detalle. Disponibilidad para trabajar en horarios establecidos.",
+    "requisitos":  [
+                       "Experiencia previa comprobable como cajera o en roles similares de facturación",
+                       "Conocimiento en el manejo de sistemas de punto de venta y facturación",
+                       "Habilidad para el manejo de efectivo y transacciones financieras",
+                       "Excelentes habilidades de atención al cliente y comunicación",
+                       "Capacidad para trabajar bajo presión y con precisión",
+                       "Organización y atención al detalle",
+                       "Disponibilidad para trabajar en horarios establecidos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cajera-facturadora-importaciones-va-car-sac-1118495456.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajera-facturadora-importaciones-va-car-sac-1118495456.html",
+    "descripcion_html":  "\u003cb\u003eCajera Facturadora\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una \u003cb\u003eCajera Facturadora\u003c/b\u003e con experiencia para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades sólidas en el manejo de caja, facturación y atención al cliente, demostrando capacidad para trabajar de manera eficiente y organizada.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eProcesar transacciones de venta y emitir facturas.\u003c/li\u003e \u003cli\u003eManejar efectivo, tarjetas de crédito y otros métodos de pago.\u003c/li\u003e \u003cli\u003eRealizar el cuadre de caja al final de cada jornada.\u003c/li\u003e \u003cli\u003eBrindar atención y asistencia a los clientes en el punto de venta.\u003c/li\u003e \u003cli\u003eMantener el área de caja ordenada y organizada.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar un flujo de trabajo eficiente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa comprobable como cajera o en roles similares de facturación.\u003c/li\u003e \u003cli\u003eConocimiento en el manejo de sistemas de punto de venta y facturación.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de efectivo y transacciones financieras.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de atención al cliente y comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y con precisión.\u003c/li\u003e \u003cli\u003eOrganización y atención al detalle.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios establecidos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

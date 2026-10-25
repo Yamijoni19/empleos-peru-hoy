@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118495460",
+    "clave":  "id:1118495460",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-oficina-con-experiencia-importaciones-va-car-sac-1118495460.html",
+                   "capturadoEn":  "2026-10-25T19:37:05+00:00"
+               },
+    "titulo":  "Auxiliar de Oficina con Experiencia",
+    "empresa":  "IMPORTACIONES VA CAR SAC",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Oficina con Experiencia Resumen del Puesto Estamos en la búsqueda de un Auxiliar de Oficina con Experiencia para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades organizativas sólidas y capacidad para gestionar eficientemente las tareas administrativas diarias. Responsabilidades Brindar soporte administrativo general a diferentes departamentos. Gestionar la correspondencia, tanto física como digital. Organizar y mantener archivos y bases de datos. Atender llamadas telefónicas y dirigir consultas. Coordinar la agenda y programar reuniones. Colaborar en la preparación de informes y presentaciones. Mantener el orden y la eficiencia en el área de trabajo. Requisitos Experiencia previa comprobable en roles administrativos u de oficina. Dominio de herramientas ofimáticas (procesador de texto, hojas de cálculo, presentaciones). Excelentes habilidades de organización y gestión del tiempo. Capacidad para priorizar tareas y trabajar bajo presión. Buenas habilidades de comunicación verbal y escrita. Proactividad y atención al detalle. Capacidad para trabajar de forma autónoma y colaborativa.",
+    "requisitos":  [
+                       "Experiencia previa comprobable en roles administrativos u de oficina",
+                       "Dominio de herramientas ofimáticas (procesador de texto, hojas de cálculo, presentaciones)",
+                       "Excelentes habilidades de organización y gestión del tiempo",
+                       "Capacidad para priorizar tareas y trabajar bajo presión",
+                       "Buenas habilidades de comunicación verbal y escrita",
+                       "Proactividad y atención al detalle",
+                       "Capacidad para trabajar de forma autónoma y colaborativa"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-oficina-con-experiencia-importaciones-va-car-sac-1118495460.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-oficina-con-experiencia-importaciones-va-car-sac-1118495460.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar de Oficina con Experiencia\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAuxiliar de Oficina con Experiencia\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades organizativas sólidas y capacidad para gestionar eficientemente las tareas administrativas diarias.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte administrativo general a diferentes departamentos.\u003c/li\u003e \u003cli\u003eGestionar la correspondencia, tanto física como digital.\u003c/li\u003e \u003cli\u003eOrganizar y mantener archivos y bases de datos.\u003c/li\u003e \u003cli\u003eAtender llamadas telefónicas y dirigir consultas.\u003c/li\u003e \u003cli\u003eCoordinar la agenda y programar reuniones.\u003c/li\u003e \u003cli\u003eColaborar en la preparación de informes y presentaciones.\u003c/li\u003e \u003cli\u003eMantener el orden y la eficiencia en el área de trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa comprobable en roles administrativos u de oficina.\u003c/li\u003e \u003cli\u003eDominio de herramientas ofimáticas (procesador de texto, hojas de cálculo, presentaciones).\u003c/li\u003e \u003cli\u003eExcelentes habilidades de organización y gestión del tiempo.\u003c/li\u003e \u003cli\u003eCapacidad para priorizar tareas y trabajar bajo presión.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y colaborativa.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

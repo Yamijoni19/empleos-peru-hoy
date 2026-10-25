@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495443",
+    "clave":  "id:1118495443",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-tecnico-de-instalacion-de-ascensores-fuji-elevator-1118495443.html",
+                   "capturadoEn":  "2026-10-25T19:37:28+00:00"
+               },
+    "titulo":  "Ayudante Técnico de Instalación de Ascensores",
+    "empresa":  "Fuji Elevator",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante Técnico de Instalación de Ascensores Resumen del Puesto Buscamos un Ayudante Técnico para integrarse a nuestro equipo y colaborar en las tareas de instalación de ascensores. El candidato ideal tendrá una fuerte disposición para el trabajo en equipo y el aprendizaje de nuevas habilidades técnicas. Responsabilidades Colaborar en el desmontaje y montaje de ascensores. Trasladar herramientas y materiales necesarios para la instalación. Asistir en maniobras de izaje y trabajos mecánicos y eléctricos bajo supervisión. Utilizar herramientas manuales y eléctricas de forma segura y eficiente. Mantener el orden y la limpieza del área de trabajo. Cumplir con las normas de seguridad y el uso adecuado del equipo de protección personal (EPP). Requisitos Experiencia previa en instalación, montaje o mantenimiento de ascensores, o en trabajos electromecánicos similares. Conocimientos básicos de herramientas manuales y eléctricas. Disposición para trabajar en campo y en altura. Demostrar responsabilidad, puntualidad y una sólida capacidad para trabajar en equipo. Se ofrece una contratación temporal por un período de dos meses.",
+    "requisitos":  [
+                       "Experiencia previa en instalación, montaje o mantenimiento de ascensores, o en trabajos electromecánicos similares",
+                       "Conocimientos básicos de herramientas manuales y eléctricas",
+                       "Disposición para trabajar en campo y en altura",
+                       "Demostrar responsabilidad, puntualidad y una sólida capacidad para trabajar en equipo",
+                       "Se ofrece una contratación temporal por un período de dos meses"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-tecnico-de-instalacion-de-ascensores-fuji-elevator-1118495443.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-tecnico-de-instalacion-de-ascensores-fuji-elevator-1118495443.html",
+    "descripcion_html":  "\u003cb\u003eAyudante Técnico de Instalación de Ascensores\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAyudante Técnico\u003c/b\u003e para integrarse a nuestro equipo y colaborar en las tareas de instalación de ascensores. El candidato ideal tendrá una fuerte disposición para el trabajo en equipo y el aprendizaje de nuevas habilidades técnicas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en el desmontaje y montaje de ascensores.\u003c/li\u003e \u003cli\u003eTrasladar herramientas y materiales necesarios para la instalación.\u003c/li\u003e \u003cli\u003eAsistir en maniobras de izaje y trabajos mecánicos y eléctricos bajo supervisión.\u003c/li\u003e \u003cli\u003eUtilizar herramientas manuales y eléctricas de forma segura y eficiente.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003eCumplir con las normas de seguridad y el uso adecuado del equipo de protección personal (EPP).\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en instalación, montaje o mantenimiento de ascensores, o en trabajos electromecánicos similares.\u003c/li\u003e \u003cli\u003eConocimientos básicos de herramientas manuales y eléctricas.\u003c/li\u003e \u003cli\u003eDisposición para trabajar en campo y en altura.\u003c/li\u003e \u003cli\u003eDemostrar responsabilidad, puntualidad y una sólida capacidad para trabajar en equipo.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eSe ofrece una contratación temporal por un período de dos meses.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

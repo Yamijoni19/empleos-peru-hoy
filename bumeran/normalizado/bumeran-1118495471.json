@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118495471",
+    "clave":  "id:1118495471",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/responsable-de-reclutamiento-y-seleccion-1118495471.html",
+                   "capturadoEn":  "2026-10-25T19:36:44+00:00"
+               },
+    "titulo":  "RESPONSABLE DE RECLUTAMIENTO Y SELECCION",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡ESTAMOS EN BÚSQUEDA DE UNA ENCARGADA DE RECLUTAMIENTO Y SELECCIÓN! Buscamos una profesional con amplia experiencia en procesos de reclutamiento y selección para perfiles operativos, administrativos, comerciales, técnicos y del sector salud. POSTULAR AL NUMERO 953194248 Requisitos: Experiencia mínima de 5 años en reclutamiento y selección de personal. Egresada o titulada de Psicología, Administración o carreras afines, con experiencia comprobada en el área. Capacidad de organización, planificación y gestión de procesos de selección. Indicar pretensiones salariales. Lugar de trabajo: Breña, Lima. Horario:Lunes a viernes: 09:00 a. m. a 06:00 p. m.Sábados: 09:00 a. m. a 01:00 p. m. Sueldo de acorde al mercado. ¡Te invitamos a formar parte de nuestro equipo!",
+    "requisitos":  [
+                       "Experiencia mínima de 5 años en reclutamiento y selección de personal",
+                       "Egresada o titulada de Psicología, Administración o carreras afines, con experiencia comprobada en el área",
+                       "Capacidad de organización, planificación y gestión de procesos de selección",
+                       "Indicar pretensiones salariales",
+                       "Lugar de trabajo: Breña, Lima",
+                       "Horario:Lunes a viernes: 09:00 a. m. a 06:00 p. m.Sábados: 09:00 a. m. a 01:00 p. m",
+                       "Sueldo de acorde al mercado",
+                       "¡Te invitamos a formar parte de nuestro equipo!"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/responsable-de-reclutamiento-y-seleccion-1118495471.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/responsable-de-reclutamiento-y-seleccion-1118495471.html",
+    "descripcion_html":  "\u003cp\u003e¡ESTAMOS EN BÚSQUEDA DE UNA ENCARGADA DE RECLUTAMIENTO Y SELECCIÓN!\u003c/p\u003e\u003cp\u003eBuscamos una profesional con amplia experiencia en procesos de reclutamiento y selección para perfiles operativos, administrativos, comerciales, técnicos y del sector salud. \u003cbr /\u003e\u003cstrong\u003ePOSTULAR AL NUMERO 953194248\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 5 años en reclutamiento y selección de personal.\u003c/li\u003e \u003cli\u003eEgresada o titulada de Psicología, Administración o carreras afines, con experiencia comprobada en el área.\u003c/li\u003e \u003cli\u003eCapacidad de organización, planificación y gestión de procesos de selección.\u003c/li\u003e \u003cli\u003eIndicar pretensiones salariales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eLugar de trabajo: Breña, Lima.\u003c/p\u003e\u003cul\u003e \u003cli\u003eHorario:Lunes a viernes: 09:00 a. m. a 06:00 p. m.Sábados: 09:00 a. m. a 01:00 p. m.\u003c/li\u003e \u003cli\u003eSueldo de acorde al mercado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Te invitamos a formar parte de nuestro equipo!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "Lunes a viernes: 09:00 a. m. a 06:00 p. m.Sábados: 09:00 a. m. a 01:00 p. m.",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
