@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118495786",
+    "clave":  "id:1118495786",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/urgente-labora-solo-5-dias-atencion-al-cliente-turno-manana-s.-2100-movilidad-manpowergroup-peru-1118495786.html",
+                   "capturadoEn":  "2026-10-26T19:19:00+00:00"
+               },
+    "titulo":  "Urgente! Labora SOLO 5 Días / Atención al Cliente / Turno Mañana / S./2100 + Movilidad",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2100,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Sueldo: S/ 2,100",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Por encargo de nuestro cliente líder, nos encontramos en búsqueda de talentos para cubrir la posición de: Asesores Call Center - Atención al Cliente ¿Qué harás? Resolver consultas en primera llamada Gestionar beneficios, reclamos y cuentas médicas Brindar soporte a clientes adultos estadounidenses Documentar interacciones con precisión y empatía Requisitos Secundaria completa 6 meses en atención al cliente Inglés B2 – B2+ (indispensable) Manejo de Office (indispensable) 100% presencial – San Borja Ofrecemos Sueldo: S/ 2,100 Bono hasta 15% Movilidad: S/ 80 Capacitación pagada: S/ 1,750 + movilidad Línea de carrera desde el mes 1 Lunes a viernes (descanso fines de semana) - Se pagan feriados peruanos (triple). .“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad\"",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "6 meses en atención al cliente",
+                       "Inglés B2 – B2+ (indispensable)",
+                       "Manejo de Office (indispensable)",
+                       "100% presencial – San Borja"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       ", reclamos y cuentas médicas",
+                       "Brindar soporte a clientes adultos estadounidenses",
+                       "Documentar interacciones con precisión y empatía"
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/urgente-labora-solo-5-dias-atencion-al-cliente-turno-manana-s.-2100-movilidad-manpowergroup-peru-1118495786.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/urgente-labora-solo-5-dias-atencion-al-cliente-turno-manana-s.-2100-movilidad-manpowergroup-peru-1118495786.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente líder, nos encontramos en búsqueda de talentos para cubrir la posición de:\u003c/p\u003e\u003cp\u003eAsesores Call Center - Atención al Cliente\u003c/p\u003e\u003cul\u003e \u003cli\u003e¿Qué harás?\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eResolver consultas en primera llamada\u003c/p\u003e\u003cp\u003eGestionar beneficios, reclamos y cuentas médicas\u003c/p\u003e\u003cp\u003eBrindar soporte a clientes adultos estadounidenses\u003c/p\u003e\u003cp\u003eDocumentar interacciones con precisión y empatía\u003c/p\u003e\u003cul\u003e \u003cli\u003eRequisitos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSecundaria completa\u003c/p\u003e\u003cp\u003e6 meses en atención al cliente\u003c/p\u003e\u003cp\u003eInglés B2 – B2+ (indispensable)\u003c/p\u003e\u003cp\u003eManejo de Office (indispensable)\u003c/p\u003e\u003cp\u003e100% presencial – San Borja\u003c/p\u003e\u003cul\u003e \u003cli\u003eOfrecemos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSueldo: S/ 2,100\u003c/p\u003e\u003cp\u003eBono hasta 15%\u003c/p\u003e\u003cp\u003eMovilidad: S/ 80\u003c/p\u003e\u003cp\u003eCapacitación pagada: S/ 1,750 + movilidad\u003c/p\u003e\u003cp\u003eLínea de carrera desde el mes 1\u003c/p\u003e\u003cp\u003eLunes a viernes (descanso fines de semana)\u003c/p\u003e\u003cp\u003e- Se pagan feriados peruanos (triple).\u003c/p\u003e\u003cp\u003e.“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad\u0026quot;\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118495783",
+    "clave":  "id:1118495783",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/part-time-labora-en-starbucks-baristas-aeropuerto-manpowergroup-peru-1118495783.html",
+                   "capturadoEn":  "2026-10-26T19:19:03+00:00"
+               },
+    "titulo":  "PART TIME! Labora en Starbucks / Baristas / Aeropuerto",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  600,
+                    "max":  700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 600 - S/ 700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos al mejor talento que quiera formar parte de nuestro equipo de baristas (STARBUCKS) NUEVO AEROPUERTO Requisitos: - 18 años a más - Disponibilidad para trabajar en horario rotativo, 19 horas a la semana - Trabajo en equipo y vivir nuestra misión y valores - Con o Sin Experiencia Ofrecemos: - Seguro Social - Línea de carrera y desarrollo profesional - Capacitación permanente - Convenios de estudios y otros - Flexibilidad de horarios - Grato ambiente de trabajo - Incentivos mensuales por resultados",
+    "requisitos":  [
+                       "18 años a más",
+                       "Disponibilidad para trabajar en horario rotativo, 19 horas a la semana",
+                       "Trabajo en equipo y vivir nuestra misión y valores",
+                       "Con o Sin Experiencia"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/part-time-labora-en-starbucks-baristas-aeropuerto-manpowergroup-peru-1118495783.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/part-time-labora-en-starbucks-baristas-aeropuerto-manpowergroup-peru-1118495783.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos al mejor talento que quiera formar parte de nuestro equipo de baristas (STARBUCKS)\u003c/p\u003e\u003cp\u003eNUEVO AEROPUERTO\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003e- 18 años a más\u003c/p\u003e\u003cp\u003e- Disponibilidad para trabajar en horario rotativo, 19 horas a la semana\u003c/p\u003e\u003cp\u003e- Trabajo en equipo y vivir nuestra misión y valores\u003c/p\u003e\u003cp\u003e- Con o Sin Experiencia\u003c/p\u003e\u003cp\u003eOfrecemos:\u003c/p\u003e\u003cp\u003e- Seguro Social\u003c/p\u003e\u003cp\u003e- Línea de carrera y desarrollo profesional\u003c/p\u003e\u003cp\u003e- Capacitación permanente\u003c/p\u003e\u003cp\u003e- Convenios de estudios y otros\u003c/p\u003e\u003cp\u003e- Flexibilidad de horarios\u003c/p\u003e\u003cp\u003e- Grato ambiente de trabajo\u003c/p\u003e\u003cp\u003e- Incentivos mensuales por resultados\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

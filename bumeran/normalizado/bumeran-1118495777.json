@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495777",
+    "clave":  "id:1118495777",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajera-libreria-san-isidro-lunes-a-sabado-s-1230-10-am-a-7-pm-capital-peru-rr.hh.-s.r.l-1118495777.html",
+                   "capturadoEn":  "2026-10-26T19:19:05+00:00"
+               },
+    "titulo":  "Cajera Libreria San Isidro Lunes a sabado S/1230 10 am a 7 pm",
+    "empresa":  "CAPITAL PERU RR.HH. S.R.L",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Sueldo : S/ 1230",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Estamos en búsqueda de Cajeras Vendedoras que tenga disponibilidad para laborar de lunes a sabado de 10 am a 7 pm en san isidro ( Begonias) Es que cuenten con disponibilidad completa e inmediata para turno fijo 10 am a 7 pm LUNES A SABADO ( DOMINGO DESCANSO) Requisitos Debe tener exp.en caja , Ser altamente responsables, proactivas para realizar diferentes tipos de funciones en tiendas ( orden , inventario, etc) Con DNI o Carnet de extranjeria Sueldo : S/ 1230+ Incentivos INGRESO A PLANILLA CON TODOS LOS BENEFICIOS DE LEY SOLO POSTULAR DE TENER DISPONIBILIDAD COMPLETA E INMEDIATA PARA CONVOCAR A ENTREVISTA PRESENCIAL CONFIRMANDO AL WHASTAPP 9 8 3 7 8 4 9 4 8",
+    "requisitos":  [
+                       "Debe tener exp.en caja , Ser altamente responsables, proactivas para realizar diferentes tipos de"
+                   ],
+    "funciones":  [
+                      "en tiendas ( orden , inventario, etc)",
+                      "Con DNI o Carnet de extranjeria",
+                      "Sueldo : S/ 1230+ Incentivos",
+                      "INGRESO A PLANILLA CON TODOS LOS"
+                  ],
+    "beneficios":  [
+                       "DE LEY",
+                       "SOLO POSTULAR DE TENER DISPONIBILIDAD COMPLETA E INMEDIATA PARA CONVOCAR A ENTREVISTA PRESENCIAL CONFIRMANDO AL WHASTAPP 9 8 3 7 8 4 9 4 8"
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cajera-libreria-san-isidro-lunes-a-sabado-s-1230-10-am-a-7-pm-capital-peru-rr.hh.-s.r.l-1118495777.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajera-libreria-san-isidro-lunes-a-sabado-s-1230-10-am-a-7-pm-capital-peru-rr.hh.-s.r.l-1118495777.html",
+    "descripcion_html":  "\u003cp\u003eEstamos en búsqueda de Cajeras Vendedoras que tenga disponibilidad para laborar de lunes a sabado de 10 am a 7 pm en san isidro ( Begonias)\u003c/p\u003e\u003cp\u003eEs que cuenten con disponibilidad completa e inmediata para turno fijo 10 am a 7 pm\u003c/p\u003e\u003cp\u003eLUNES A SABADO ( DOMINGO DESCANSO)\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cp\u003eDebe tener exp.en caja , Ser altamente responsables, proactivas para realizar diferentes tipos de funciones en tiendas ( orden , inventario, etc)\u003c/p\u003e\u003cp\u003eCon DNI o Carnet de extranjeria\u003c/p\u003e\u003cp\u003eSueldo : S/ 1230+ Incentivos\u003c/p\u003e\u003cp\u003eINGRESO A PLANILLA CON TODOS LOS BENEFICIOS DE LEY\u003c/p\u003e\u003cp\u003eSOLO POSTULAR DE TENER DISPONIBILIDAD COMPLETA E INMEDIATA PARA CONVOCAR A ENTREVISTA PRESENCIAL CONFIRMANDO AL WHASTAPP 9 8 3 7 8 4 9 4 8\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
