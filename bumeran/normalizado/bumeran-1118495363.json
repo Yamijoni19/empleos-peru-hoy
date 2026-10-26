@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118495363",
+    "clave":  "id:1118495363",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/se-necesita-apilador-montacargas-villa-el-salvador-cyl-consultora-1118495363.html",
+                   "capturadoEn":  "2026-10-26T01:09:57+00:00"
+               },
+    "titulo":  "Se necesita Apilador / Montacargas - Villa el Salvador",
+    "empresa":  "CyL Consultora",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡ÚNETE A NUESTRO EQUIPO DE CYL! Una empresa líder en logística, con más de 32 años de experiencia en el rubro, está buscando operarios para unirse a su equipo en la sede de Villa el Salvador. Si quieres integrarte a un equipo sólido y con trayectoria, esta es tu oportunidad. ENVÍA TU CV AL 986-825-746 / ÚNICAMENTE POR WTSP Ofrecemos: Sueldo fijo + bono Planilla al 100% Alimentación cubierta Movilidad de acercamiento Funciones: Manejo del equipo Manipular la mercadería para despacho y recepción Velar por el buen funcionamiento del equipo asignado Requisitos: Mínimo 1 año de experiencia Disponibilidad inmediata Disponibilidad para trabajar en horario rotativo",
+    "requisitos":  [
+                       "Mínimo 1 año de experiencia",
+                       "Disponibilidad inmediata",
+                       "Disponibilidad para trabajar en horario rotativo"
+                   ],
+    "funciones":  [
+                      "Manejo del equipo",
+                      "Manipular la mercadería para despacho y recepción",
+                      "Velar por el buen funcionamiento del equipo asignado"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/se-necesita-apilador-montacargas-villa-el-salvador-cyl-consultora-1118495363.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/se-necesita-apilador-montacargas-villa-el-salvador-cyl-consultora-1118495363.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡ÚNETE A NUESTRO EQUIPO DE CYL! \u003c/strong\u003eUna empresa líder en logística, con más de 32 años de experiencia en el rubro, está buscando operarios para unirse a su equipo en la sede de Villa el Salvador. Si quieres integrarte a un equipo sólido y con trayectoria, esta es tu oportunidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eENVÍA TU CV AL 986-825-746 / ÚNICAMENTE POR WTSP\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo fijo + bono\u003c/li\u003e \u003cli\u003ePlanilla al 100%\u003c/li\u003e \u003cli\u003eAlimentación cubierta\u003c/li\u003e \u003cli\u003eMovilidad de acercamiento\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eManejo del equipo\u003c/li\u003e \u003cli\u003eManipular la mercadería para despacho y recepción\u003c/li\u003e \u003cli\u003eVelar por el buen funcionamiento del equipo asignado\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 1 año de experiencia\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario rotativo\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 32 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

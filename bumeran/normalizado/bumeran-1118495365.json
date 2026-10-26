@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495365",
+    "clave":  "id:1118495365",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-para-luin-urgente-cyl-consultora-1118495365.html",
+                   "capturadoEn":  "2026-10-26T01:09:55+00:00"
+               },
+    "titulo":  "OPERARIO DE ALMACÉN PARA LUIN / URGENTE",
+    "empresa":  "CyL Consultora",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡VACANTES ABIERTAS! Súmate al equipo de CYL y lleva tu carrera al siguiente nivel. \u0026#x1f4a5; Una empresa líder en logística, con más de 32 años de experiencia en el rubro, está buscando operarios para unirse a su equipo en la sede de Lurin. Si quieres integrarte a un equipo sólido y con trayectoria, esta es tu oportunidad. EVÍA TU CV ÚNICAMENTE A 986 825 746 Ofrecemos: Sueldo fijo + bono nocturno Bono de desempeño y alimentación Beneficios acorde a la ley Línea de carrera y capacitaciones Movilidad de acercamiento Funciones: Picking, toma de inventarios. Recepción de mercadería Despacho de Mercadería Estibar y desestibar la mercadería. Requisitos: Disponibilidad para trabajar en horario rotativo Disponibilidad inmediata",
+    "requisitos":  [
+                       "Disponibilidad para trabajar en horario rotativo",
+                       "Disponibilidad inmediata"
+                   ],
+    "funciones":  [
+                      "Picking, toma de inventarios",
+                      "Recepción de mercadería",
+                      "Despacho de Mercadería",
+                      "Estibar y desestibar la mercadería"
+                  ],
+    "beneficios":  [
+                       "acorde a la ley",
+                       "Línea de carrera y capacitaciones",
+                       "Movilidad de acercamiento"
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-para-luin-urgente-cyl-consultora-1118495365.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-para-luin-urgente-cyl-consultora-1118495365.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡VACANTES ABIERTAS!\u003c/strong\u003e \u003cstrong\u003eSúmate al equipo de CYL y lleva tu carrera al siguiente nivel. \u003c/strong\u003e\u0026#x1f4a5;\u003c/p\u003e\u003cp\u003eUna empresa líder en logística, con más de 32 años de experiencia en el rubro, está buscando operarios para unirse a su equipo en la sede de Lurin. Si quieres integrarte a un equipo sólido y con trayectoria, esta es tu oportunidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEVÍA TU CV ÚNICAMENTE A 986 825 746\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo fijo + bono nocturno\u003c/li\u003e \u003cli\u003eBono de desempeño y alimentación\u003c/li\u003e \u003cli\u003eBeneficios acorde a la ley\u003c/li\u003e \u003cli\u003eLínea de carrera y capacitaciones\u003c/li\u003e \u003cli\u003eMovilidad de acercamiento\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePicking, toma de inventarios.\u003c/li\u003e \u003cli\u003eRecepción de mercadería\u003c/li\u003e \u003cli\u003eDespacho de Mercadería\u003c/li\u003e \u003cli\u003eEstibar y desestibar la mercadería.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDisponibilidad para trabajar en horario rotativo\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 32 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

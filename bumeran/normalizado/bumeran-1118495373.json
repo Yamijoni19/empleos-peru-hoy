@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118495373",
+    "clave":  "id:1118495373",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-saga-ripley-jockey-s-1600-a-s-1800-8-horas-por-dia-capital-peru-rr.hh.-s.r.l-1118495373.html",
+                   "capturadoEn":  "2026-10-26T01:09:51+00:00"
+               },
+    "titulo":  "Atencion al cliente Saga Ripley Jockey S/1600 a S/1800 (8 horas por dia)",
+    "empresa":  "CAPITAL PERU RR.HH. S.R.L",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1600 a S/1800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Tener muy buena disposición para asesorar a mujeres en la compra de prendas , absolviendo consultas, ser empática y motivación para trabajar impulsando productos de calidad A1 en textil y belleza. ( Ropa de baño, Lenceria) Noviembre a Enero o febrero (VERANO) Lugar de Trabajo : Tiendas por departamento (SAGA , RIPLEY) Zonas de Trabajo: Jockey, San Isidro , Angamos , La Rambla San Borja , San Miguel, Miraflores Edad: Indistinto Sexo: Femenino Experiencia : 1 año a mas en ventas y atención al cliente( Realización de inventarios, Orden de mercadería) de preferencia haber laborado en tiendas por Retail Manejo de Excel : Básico Dias y horarios : Promedio 8 horas x dia 1 Dia de descanso a la semana. Sueldo: S/1300 (Basico) + Comisiones ( Entre S/300 a S/550 a +) Ingreso a planilla con todos los beneficios de ley, enviar cv al 983784948 confirmando interes en ser seleccionada",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley, enviar cv al 983784948 confirmando interes en ser seleccionada"
+                   ],
+    "fecha_publicacion":  "2026-10-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-saga-ripley-jockey-s-1600-a-s-1800-8-horas-por-dia-capital-peru-rr.hh.-s.r.l-1118495373.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-saga-ripley-jockey-s-1600-a-s-1800-8-horas-por-dia-capital-peru-rr.hh.-s.r.l-1118495373.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eTener muy buena disposición para asesorar a mujeres en la compra de prendas , absolviendo consultas, ser empática y motivación para trabajar impulsando productos de calidad A1 en textil y belleza. ( Ropa de baño, Lenceria) Noviembre a Enero o febrero (VERANO)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLugar de Trabajo : Tiendas por departamento (SAGA , RIPLEY)\u003c/p\u003e\u003cp\u003eZonas de Trabajo: Jockey, San Isidro , Angamos , La Rambla San Borja , San Miguel, Miraflores\u003c/p\u003e\u003cp\u003eEdad: Indistinto\u003c/p\u003e\u003cp\u003eSexo: Femenino\u003c/p\u003e\u003cp\u003eExperiencia : 1 año a mas en ventas y atención al cliente( Realización de inventarios, Orden de mercadería) de preferencia haber laborado en tiendas por Retail\u003c/p\u003e\u003cp\u003eManejo de Excel : Básico\u003c/p\u003e\u003cp\u003eDias y horarios : Promedio 8 horas x dia\u003c/p\u003e\u003cp\u003e1 Dia de descanso a la semana.\u003c/p\u003e\u003cp\u003eSueldo: S/1300 (Basico) + Comisiones ( Entre S/300 a S/550 a +)\u003c/p\u003e\u003cp\u003eIngreso a planilla con todos los beneficios de ley, enviar cv al 983784948 confirmando interes en ser seleccionada\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
