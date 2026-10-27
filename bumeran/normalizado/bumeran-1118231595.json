@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118231595",
+    "clave":  "id:1118231595",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-ingenieria-de-sistemas-1118231595.html",
+                   "capturadoEn":  "2026-10-26T23:53:02+00:00"
+               },
+    "titulo":  "practicante de soporte técnico TI",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante colegio de Bachillerato Internacional se encuentra buscando un profesional en Practicante de Soporte Tecnico - Requisitos: Egresado o estudiante técnico y/o universitario de: Computación e Informática, Redes y Comunicaciones de Datos o carreras afines. – Experiencia Minima 1 año en funciones de soporte tecnico. Conocimiento de Diagnóstico de fallas y reparación de equipos de cómputo e impresoras. Beneficios: Pago de acorde al mercado. Buen clima laboral Utilidades EPS",
+    "requisitos":  [
+                       "Egresado o estudiante técnico y/o universitario de: Computación e Informática, Redes y Comunicaciones de Datos o carreras afines. –",
+                       "Experiencia Minima 1 año en"
+                   ],
+    "funciones":  [
+                      "de soporte tecnico",
+                      "Conocimiento de Diagnóstico de fallas y reparación de equipos de cómputo e impresoras"
+                  ],
+    "beneficios":  [
+                       "Pago de acorde al mercado",
+                       "Buen clima laboral",
+                       "Utilidades",
+                       "EPS"
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-ingenieria-de-sistemas-1118231595.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-ingenieria-de-sistemas-1118231595.html",
+    "descripcion_html":  "\u003cp\u003eImportante colegio de Bachillerato Internacional se encuentra buscando un profesional en Practicante de Soporte Tecnico -\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado o estudiante técnico y/o universitario de: Computación e Informática, Redes y Comunicaciones de Datos o carreras afines. –\u003c/li\u003e \u003cli\u003eExperiencia Minima 1 año en funciones de soporte tecnico.\u003c/li\u003e \u003cli\u003eConocimiento de Diagnóstico de fallas y reparación de equipos de cómputo e impresoras.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePago de acorde al mercado.\u003c/li\u003e \u003cli\u003eBuen clima laboral\u003c/li\u003e \u003cli\u003eUtilidades\u003c/li\u003e \u003cli\u003eEPS\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

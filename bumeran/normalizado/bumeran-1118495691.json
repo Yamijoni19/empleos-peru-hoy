@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118495691",
+    "clave":  "id:1118495691",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-para-importaciones-1118495691.html",
+                   "capturadoEn":  "2026-10-26T23:54:33+00:00"
+               },
+    "titulo":  "ASISTENTE DE LOGISTICA PARA IMPORTACIONES",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "ASISTENTE DE LOGISTICA PARA IMPORTACIONES, CON CONOCIMIENTO COMPROBADO DE CONTABILIDAD- RP, IDIOMA INGLES FLUIDO , DOMINIO EN EXCEL, WORD. OFFICE, CON VARIOS AÑOS DE EXPERIENCIA EN IMPORTACION Y PODER TOMAR INICIATIVA PROPIA PARA INTERCAMBIAR CONVERSACIONES CON PROVEEDORES DEL EXTRANJERO Y COORDINAR CON LA GERENCIA DE LA EMPRESA .",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-para-importaciones-1118495691.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-logistica-para-importaciones-1118495691.html",
+    "descripcion_html":  "\u003cp\u003eASISTENTE DE LOGISTICA PARA IMPORTACIONES, CON CONOCIMIENTO COMPROBADO DE CONTABILIDAD- RP, IDIOMA INGLES FLUIDO , DOMINIO EN EXCEL, WORD. OFFICE, CON VARIOS AÑOS DE EXPERIENCIA EN IMPORTACION Y PODER TOMAR INICIATIVA PROPIA PARA INTERCAMBIAR CONVERSACIONES CON PROVEEDORES DEL EXTRANJERO Y COORDINAR CON LA GERENCIA DE LA EMPRESA .\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

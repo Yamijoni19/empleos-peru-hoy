@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118495673",
+    "clave":  "id:1118495673",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-housekeeping-y-lavanderia-servituristicos-peru-1118495673.html",
+                   "capturadoEn":  "2026-10-26T23:54:53+00:00"
+               },
+    "titulo":  "Personal de Housekeeping y Lavandería",
+    "empresa":  "ServiTuristicos Peru",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Personal de Housekeeping y Lavandería Resumen del Puesto Buscamos personal proactivo y responsable para unirse a nuestro equipo en las áreas de Housekeeping y Lavandería. El candidato ideal deberá demostrar compromiso con la calidad y el buen desempeño de sus funciones. Funciones Principales Limpieza y acondicionamiento de habitaciones y áreas comunes. Lavado, secado, planchado y organización de ropa blanca. Requisitos Experiencia deseable en puestos similares. Responsabilidad, puntualidad y excelente disposición para el trabajo en equipo. Disponibilidad inmediata para laborar en horarios rotativos. Condiciones Laborales Pago puntual. Beneficios laborales según corresponda.",
+    "requisitos":  [
+                       "Experiencia deseable en puestos similares",
+                       "Responsabilidad, puntualidad y excelente disposición para el trabajo en equipo",
+                       "Disponibilidad inmediata para laborar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Limpieza y acondicionamiento de habitaciones y áreas comunes",
+                      "Lavado, secado, planchado y organización de ropa blanca"
+                  ],
+    "beneficios":  [
+                       "laborales según corresponda"
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-housekeeping-y-lavanderia-servituristicos-peru-1118495673.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-housekeeping-y-lavanderia-servituristicos-peru-1118495673.html",
+    "descripcion_html":  "\u003cb\u003ePersonal de Housekeeping y Lavandería\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personal proactivo y responsable para unirse a nuestro equipo en las áreas de Housekeeping y Lavandería. El candidato ideal deberá demostrar compromiso con la calidad y el buen desempeño de sus funciones.\u003c/p\u003e \u003cb\u003eFunciones Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eLimpieza y acondicionamiento de habitaciones y áreas comunes.\u003c/li\u003e \u003cli\u003eLavado, secado, planchado y organización de ropa blanca.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia deseable en puestos similares.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y excelente disposición para el trabajo en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata para laborar en horarios rotativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones Laborales\u003c/b\u003e \u003cul\u003e \u003cli\u003ePago puntual.\u003c/li\u003e \u003cli\u003eBeneficios laborales según corresponda.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
