@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118497486",
+    "clave":  "id:1118497486",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/marketing-y-redes-sociales-importaciones-cotrina-1118497486.html",
+                   "capturadoEn":  "2026-10-27T21:19:19+00:00"
+               },
+    "titulo":  "MARKETING Y REDES SOCIALES",
+    "empresa":  "IMPORTACIONES COTRINA",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f4e2; ¡BUSCAMOS PERSONAL DE MARKETING Y REDES SOCIALES! En Importaciones Cotrina buscamos una persona creativa, con iniciativa y facilidad para desenvolverse frente a cámara. \u0026#x1f4f1;✨ \u0026#x1f3a5; Funciones: • Realizar transmisiones en vivo para mostrar y vender nuestros productos . • Crear y editar videos para TikTok, Facebook e Instagram. • Proponer ideas y organizar el contenido de nuestras redes. • Publicar contenido y atender consultas e interacciones. ✅ Experiencia creando contenido y realizando lives. ✅ Manejo de CapCut y herramientas de redes sociales. ✅ Buena comunicación, responsabilidad y actitud para las ventas. \u0026#x1f4cd; Trabajo presencial: Jr. Andahuaylas N.° 1138, Int. 405, Galería Plaza Central, Cercado de Lima. \u0026#x1f4f2; Envía tu CV y ejemplos de tus videos al WhatsApp: 953765443",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "• Realizar transmisiones en vivo para mostrar y vender nuestros productos",
+                      "• Crear y editar videos para TikTok, Facebook e Instagram",
+                      "• Proponer ideas y organizar el contenido de nuestras redes",
+                      "• Publicar contenido y atender consultas e interacciones",
+                      "✅ Experiencia creando contenido y realizando lives",
+                      "✅ Manejo de CapCut y herramientas de redes sociales",
+                      "✅ Buena comunicación, responsabilidad y actitud para las ventas",
+                      "\u0026#x1f4cd; Trabajo presencial: Jr. Andahuaylas N.° 1138, Int. 405, Galería Plaza Central, Cercado de Lima",
+                      "\u0026#x1f4f2; Envía tu CV y ejemplos de tus videos al WhatsApp: 953765443"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/marketing-y-redes-sociales-importaciones-cotrina-1118497486.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/marketing-y-redes-sociales-importaciones-cotrina-1118497486.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f4e2; ¡BUSCAMOS PERSONAL DE MARKETING Y REDES SOCIALES!\u003c/p\u003e\u003cp\u003eEn Importaciones Cotrina buscamos una persona creativa, con iniciativa y facilidad para desenvolverse frente a cámara. \u0026#x1f4f1;\u0026#x2728;\u003c/p\u003e\u003cp\u003e\u0026#x1f3a5; Funciones: \u003c/p\u003e\u003cp\u003e• Realizar transmisiones en vivo para mostrar y vender nuestros productos\u003c/p\u003e\u003cp\u003e. • Crear y editar videos para TikTok, Facebook e Instagram. \u003c/p\u003e\u003cp\u003e• Proponer ideas y organizar el contenido de nuestras redes. \u003c/p\u003e\u003cp\u003e• Publicar contenido y atender consultas e interacciones.\u003c/p\u003e\u003cp\u003e\u0026#x2705; Experiencia creando contenido y realizando lives.\u003c/p\u003e\u003cp\u003e \u0026#x2705; Manejo de CapCut y herramientas de redes sociales.\u003c/p\u003e\u003cp\u003e \u0026#x2705; Buena comunicación, responsabilidad y actitud para las ventas.\u003c/p\u003e\u003cp\u003e\u0026#x1f4cd; Trabajo presencial: Jr. Andahuaylas N.° 1138, Int. 405, Galería Plaza Central, Cercado de Lima.\u003c/p\u003e\u003cp\u003e\u0026#x1f4f2; Envía tu CV y ejemplos de tus videos al WhatsApp: 953765443\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
