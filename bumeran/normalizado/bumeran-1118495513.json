@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118495513",
+    "clave":  "id:1118495513",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/florista-para-florelima-atelier-florelima-atelier-1118495513.html",
+                   "capturadoEn":  "2026-10-27T10:33:43+00:00"
+               },
+    "titulo":  "Florista para Florelima Atelier",
+    "empresa":  "FLORELIMA ATELIER",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Resumen del Puesto Buscamos un(a) Florista con experiencia, creatividad y pasión por el arte floral para unirse a nuestro equipo. El candidato ideal tendrá atención al detalle y deseará crecer profesionalmente en un entorno dinámico. Responsabilidades Elaboración de ramos, boxes florales y arreglos personalizados. Dominio de técnicas de hidratación y conservación floral. Mantenimiento de la frescura y calidad de los productos florales. Colaboración en la creación de diseños florales innovadores. Reporte y revisión de stock de flores/ mercadería Requisitos Experiencia mínima de 1 año en puestos similares. Enviar portafolio o fotografías de tus trabajos florales Pasión por las flores y el diseño floral. Compromiso y responsabilidad en las tareas asignadas.",
+    "requisitos":  [
+                       "Experiencia mínima de 1 año en puestos similares",
+                       "Enviar portafolio o fotografías de tus trabajos florales",
+                       "Pasión por las flores y el diseño floral",
+                       "Compromiso y responsabilidad en las tareas asignadas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/florista-para-florelima-atelier-florelima-atelier-1118495513.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/florista-para-florelima-atelier-florelima-atelier-1118495513.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un(a) \u003cstrong\u003eFlorista\u003c/strong\u003e con experiencia, creatividad y pasión por el arte floral para unirse a nuestro equipo. El candidato ideal tendrá atención al detalle y deseará crecer profesionalmente en un entorno dinámico.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaboración de ramos, boxes florales y arreglos personalizados.\u003c/li\u003e \u003cli\u003eDominio de técnicas de hidratación y conservación floral.\u003c/li\u003e \u003cli\u003eMantenimiento de la frescura y calidad de los productos florales.\u003c/li\u003e \u003cli\u003eColaboración en la creación de diseños florales innovadores.\u003c/li\u003e \u003cli\u003eReporte y revisión de stock de flores/ mercadería\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de \u0026#x31; año en puestos similares.\u003c/li\u003e \u003cli\u003eEnviar portafolio o fotografías de tus trabajos florales\u003c/li\u003e \u003cli\u003ePasión por las flores y el diseño floral.\u003c/li\u003e \u003cli\u003eCompromiso y responsabilidad en las tareas asignadas.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

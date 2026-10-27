@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118495516",
+    "clave":  "id:1118495516",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/recepcionista-veterinaria-denis-munoz-1118495516.html",
+                   "capturadoEn":  "2026-10-27T10:33:42+00:00"
+               },
+    "titulo":  "RECEPCIONISTA VETERINARIA",
+    "empresa":  "Denís Muñoz",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Clinica Veterinaria ubicada en Santiago de Surco, Está en busqueda de señorita para el puesto de Recepcionista. Persona responsable, ordenada, organizada, puntual que trabaje bajo presión y en grupo. Buena disposición al cliente. Tener conocimientos de Excel y word Conocimientos administrativos Pago quincenal",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/recepcionista-veterinaria-denis-munoz-1118495516.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/recepcionista-veterinaria-denis-munoz-1118495516.html",
+    "descripcion_html":  "\u003cp\u003eClinica Veterinaria ubicada en Santiago de Surco,\u003c/p\u003e\u003cp\u003eEstá en busqueda de señorita para el puesto de Recepcionista.\u003cbr /\u003e\u003c/p\u003e\u003cp\u003ePersona responsable, ordenada, organizada, puntual que trabaje bajo presión y en grupo. Buena disposición al cliente.\u003c/p\u003e\u003cp\u003eTener conocimientos de Excel y word\u003c/p\u003e\u003cp\u003eConocimientos administrativos\u003c/p\u003e\u003cp\u003ePago quincenal\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
