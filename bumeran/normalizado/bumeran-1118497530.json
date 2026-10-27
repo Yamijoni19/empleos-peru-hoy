@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118497530",
+    "clave":  "id:1118497530",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/masajistas-y-fisioterapeutas--home-wellness-home-wellness-1118497530.html",
+                   "capturadoEn":  "2026-10-27T16:38:32+00:00"
+               },
+    "titulo":  "Masajistas y fisioterapeutas – Home Wellness",
+    "empresa":  "Home Wellness",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Home Wellness, empresa peruana especializada en masajes terapéuticos, recuperación muscular y bienestar, se encuentra en búsqueda de masajistas y fisioterapeutas para incorporarse a nuestro equipo. Principales funciones: Realizar masajes descontracturantes, relajantes y terapias de recuperación muscular. Evaluar las necesidades de cada cliente y adaptar la terapia según corresponda. Brindar una atención profesional, cálida y personalizada. Cumplir con los protocolos de atención, higiene y calidad de Home Wellness. Mantener los ambientes y equipos de trabajo en óptimas condiciones. Sedes disponibles: Surco, Miraflores, San Borja, San Miguel y Barranco. Buscamos profesionales comprometidos con el bienestar de las personas, responsables y con excelente vocación de servicio. Oportunidades de crecimiento profesional: ofrecemos la posibilidad de desarrollarse dentro de una empresa en constante expansión, con una estructura organizacional sólida, procesos establecidos y oportunidades de crecimiento a largo plazo.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Realizar masajes descontracturantes, relajantes y terapias de recuperación muscular",
+                      "Evaluar las necesidades de cada cliente y adaptar la terapia según corresponda",
+                      "Brindar una atención profesional, cálida y personalizada",
+                      "Cumplir con los protocolos de atención, higiene y calidad de Home Wellness",
+                      "Mantener los ambientes y equipos de trabajo en óptimas"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/masajistas-y-fisioterapeutas--home-wellness-home-wellness-1118497530.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/masajistas-y-fisioterapeutas--home-wellness-home-wellness-1118497530.html",
+    "descripcion_html":  "\u003cp\u003eHome Wellness, empresa peruana especializada en masajes terapéuticos, recuperación muscular y bienestar, se encuentra en búsqueda de masajistas y fisioterapeutas para incorporarse a nuestro equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar masajes descontracturantes, relajantes y terapias de recuperación muscular.\u003c/li\u003e \u003cli\u003eEvaluar las necesidades de cada cliente y adaptar la terapia según corresponda.\u003c/li\u003e \u003cli\u003eBrindar una atención profesional, cálida y personalizada.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de atención, higiene y calidad de Home Wellness.\u003c/li\u003e \u003cli\u003eMantener los ambientes y equipos de trabajo en óptimas condiciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSedes disponibles:\u003c/strong\u003e Surco, Miraflores, San Borja, San Miguel y Barranco.\u003c/p\u003e\u003cp\u003eBuscamos profesionales comprometidos con el bienestar de las personas, responsables y con excelente vocación de servicio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOportunidades de crecimiento profesional:\u003c/strong\u003e ofrecemos la posibilidad de desarrollarse dentro de una empresa en constante expansión, con una estructura organizacional sólida, procesos establecidos y oportunidades de crecimiento a largo plazo.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

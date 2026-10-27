@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118497542",
+    "clave":  "id:1118497542",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutiva-coordinadora-comercial-huaraz-s-3000-a-s-4000-con-exp-seguros-o-ventas-capital-peru-rr.hh.-s.r.l-1118497542.html",
+                   "capturadoEn":  "2026-10-27T16:38:26+00:00"
+               },
+    "titulo":  "Ejecutiva Coordinadora Comercial Huaraz S/3000 a S/4000 con exp seguros o ventas",
+    "empresa":  "CAPITAL PERU RR.HH. S.R.L",
+    "ubicacion":  "Ancash - Huaraz",
+    "ciudad":  "Huaraz",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/3000 a S/4000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Estamos en procesos de seleccion de una coordinadora comercial trabajo en zona Huaraz como sede central y que tenga experiencia en seguros , banca o formatos similares Requisitos: - Experiencia y conocimiento de la region y alrededores para realizar actividades de coordinacion con canal de ventas - No estar reportada en Infocorp (INDISPENSABLE) - Con disponibilidad para traslado y formación de equipos de venta. - Tener Movilidad propia - Lograr objetivos comerciales en base a los mecanismos y políticas de trabajo establecidas. BENEFICIOS - Sueldo aproximadamente entre S/ 3000 a S/4000 + conceptos de movilidad - Ingreso a planilla con todos los beneficios sociales. - Descuentos corporativos",
+    "requisitos":  [
+                       "Experiencia y conocimiento de la region y alrededores para realizar actividades de coordinacion con canal de ventas",
+                       "No estar reportada en Infocorp (INDISPENSABLE)",
+                       "Con disponibilidad para traslado y formación de equipos de venta",
+                       "Tener Movilidad propia",
+                       "Lograr objetivos comerciales en base a los mecanismos y políticas de trabajo establecidas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "sociales",
+                       "Descuentos corporativos"
+                   ],
+    "fecha_publicacion":  "2026-10-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutiva-coordinadora-comercial-huaraz-s-3000-a-s-4000-con-exp-seguros-o-ventas-capital-peru-rr.hh.-s.r.l-1118497542.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutiva-coordinadora-comercial-huaraz-s-3000-a-s-4000-con-exp-seguros-o-ventas-capital-peru-rr.hh.-s.r.l-1118497542.html",
+    "descripcion_html":  "\u003cp\u003eEstamos en procesos de seleccion de una coordinadora comercial trabajo en zona Huaraz como sede central y que tenga experiencia en seguros , banca o formatos similares \u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003e- Experiencia y conocimiento de la region y alrededores para realizar actividades de coordinacion con canal de ventas \u003c/p\u003e\u003cp\u003e- No estar reportada en Infocorp (INDISPENSABLE)\u003c/p\u003e\u003cp\u003e- Con disponibilidad para traslado y formación de equipos de venta.\u003c/p\u003e\u003cp\u003e- Tener Movilidad propia \u003c/p\u003e\u003cp\u003e- Lograr objetivos comerciales en base a los mecanismos y políticas de trabajo establecidas.\u003c/p\u003e\u003cp\u003eBENEFICIOS\u003c/p\u003e\u003cp\u003e- Sueldo aproximadamente entre S/ 3000 a S/4000 + conceptos de movilidad\u003c/p\u003e\u003cp\u003e- Ingreso a planilla con todos los beneficios sociales.\u003c/p\u003e\u003cp\u003e- Descuentos corporativos\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

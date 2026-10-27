@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118497518",
+    "clave":  "id:1118497518",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-orica-1118497518.html",
+                   "capturadoEn":  "2026-10-27T16:38:40+00:00"
+               },
+    "titulo":  "Operario de Producción",
+    "empresa":  "Orica",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Producción Resumen del Puesto Estamos en la búsqueda de Operarios de Producción . Buscamos personas responsables, comprometidas y con disposición para trabajar en equipo, cumpliendo los procedimientos de producción y las normas de seguridad establecidas. Funciones Realizar actividades operativas en la línea de producción. Cumplir los procedimientos e instrucciones del supervisor. Mantener el orden y la limpieza del área de trabajo. Cumplir las normas de seguridad, salud ocupacional y medio ambiente. Apoyar en las actividades de producción según las necesidades de la operación. Requisitos Educación secundaria completa. Experiencia mínima de 1 año en producción u operaciones en plantas industriales: fabricación, envasado, empaquetado, etiquetado, almacén, montacargas, transporte, entre otros. Disponibilidad para trabajar en turnos rotativos.",
+    "requisitos":  [
+                       "Educación secundaria completa",
+                       "Experiencia mínima de 1 año en producción u operaciones en plantas industriales: fabricación, envasado, empaquetado, etiquetado, almacén, montacargas, transporte, entre otros",
+                       "Disponibilidad para trabajar en turnos rotativos"
+                   ],
+    "funciones":  [
+                      "Realizar actividades operativas en la línea de producción",
+                      "Cumplir los procedimientos e instrucciones del supervisor",
+                      "Mantener el orden y la limpieza del área de trabajo",
+                      "Cumplir las normas de seguridad, salud ocupacional y medio ambiente",
+                      "Apoyar en las actividades de producción según las necesidades de la operación"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-orica-1118497518.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-orica-1118497518.html",
+    "descripcion_html":  "\u003cb\u003eOperario de Producción\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de \u003cb\u003eOperarios de Producción\u003c/b\u003e. Buscamos personas responsables, comprometidas y con disposición para trabajar en equipo, cumpliendo los procedimientos de producción y las normas de seguridad establecidas.\u003c/p\u003e \u003cb\u003eFunciones\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar actividades operativas en la línea de producción.\u003c/li\u003e \u003cli\u003eCumplir los procedimientos e instrucciones del supervisor.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003eCumplir las normas de seguridad, salud ocupacional y medio ambiente.\u003c/li\u003e \u003cli\u003eApoyar en las actividades de producción según las necesidades de la operación.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEducación secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en producción u operaciones en plantas industriales: fabricación, envasado, empaquetado, etiquetado, almacén, montacargas, transporte, entre otros.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos rotativos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
