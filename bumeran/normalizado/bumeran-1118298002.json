@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118298002",
+    "clave":  "id:1118298002",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-planta-compania-minera-corire-1118298002.html",
+                   "capturadoEn":  "2026-10-27T05:03:51+00:00"
+               },
+    "titulo":  "Operador de planta",
+    "empresa":  "COMPAÑIA MINERA CORIRE",
+    "ubicacion":  "Arequipa - Caravelí",
+    "ciudad":  "Caravelí",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operador de Planta para Planta de Beneficio Resumen del Puesto Buscamos un Operador de Planta experimentado para unirse a nuestro equipo. El candidato ideal tendrá fuerte conocimiento del proceso de lixiviación de oro por agitación Responsabilidades Registro y control de los parámetros de operaciones. Operar y mantener equipos de procesamiento de minerales. Controlar la calidad de los productos minerales. Realizar tareas de mantenimiento preventivo. Realizar tares de operación que requieren esfuerzo físico. Cumplir con las normas de seguridad y medio ambiente. Requisitos Profesional técnico o universitario en metalurgia o campo relacionado. 1+ años de experiencia como operador de planta en PLANTA DE BENEFICIOS DE MINERALES. Fuerte conocimiento del proceso de lixiviación de oro por agitación. Experiencia en plantas de beneficio auríferas. Excelentes habilidades de resolución de problemas y análisis. Excelentes habilidades de comunicación verbal.",
+    "requisitos":  [
+                       "Profesional técnico o universitario en metalurgia o campo relacionado",
+                       "1+ años de experiencia como operador de planta en PLANTA DE"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "DE MINERALES",
+                       "Fuerte conocimiento del proceso de lixiviación de oro por agitación",
+                       "Experiencia en plantas de beneficio auríferas",
+                       "Excelentes habilidades de resolución de problemas y análisis",
+                       "Excelentes habilidades de comunicación verbal"
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-planta-compania-minera-corire-1118298002.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-planta-compania-minera-corire-1118298002.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOperador de Planta para Planta de Beneficio\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eOperador de Planta \u003c/strong\u003eexperimentado para unirse a nuestro equipo. El candidato ideal tendrá fuerte conocimiento del proceso de lixiviación de oro por agitación\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRegistro y control de los parámetros de operaciones.\u003c/li\u003e \u003cli\u003eOperar y mantener equipos de procesamiento de minerales.\u003c/li\u003e \u003cli\u003eControlar la calidad de los productos minerales.\u003c/li\u003e \u003cli\u003eRealizar tareas de mantenimiento preventivo.\u003c/li\u003e \u003cli\u003eRealizar tares de operación que requieren esfuerzo físico.\u003c/li\u003e \u003cli\u003eCumplir con las normas de seguridad y medio ambiente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional técnico o universitario en metalurgia o campo relacionado.\u003c/li\u003e \u003cli\u003e1+ años de experiencia como operador de planta en PLANTA DE BENEFICIOS DE MINERALES.\u003c/li\u003e \u003cli\u003eFuerte conocimiento del proceso de lixiviación de oro por agitación.\u003c/li\u003e \u003cli\u003eExperiencia en plantas de beneficio auríferas.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de resolución de problemas y análisis.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

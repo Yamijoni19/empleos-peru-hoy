@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118495612",
+    "clave":  "id:1118495612",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-marketing-digital-demedicalperu-1118495612.html",
+                   "capturadoEn":  "2026-10-27T05:03:44+00:00"
+               },
+    "titulo":  "Especialista en Marketing Digital",
+    "empresa":  "DEMEDICALPERU",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1900,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,900 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Especialista en Marketing Digital Resumen del Puesto Estamos en la búsqueda de un Especialista en Marketing Digital con formación universitaria y experiencia comprobable para unirse a nuestro equipo. El candidato ideal será proactivo, creativo y tendrá un profundo conocimiento de las estrategias de marketing online. Responsabilidades Diseñar, implementar y gestionar campañas de marketing digital en diversas plataformas. Analizar métricas y resultados para optimizar el rendimiento de las campañas. Desarrollar estrategias de contenido y SEO. Gestionar redes sociales y comunidades online. Colaborar con otros equipos para alinear las estrategias de marketing. Mantenerse actualizado sobre las últimas tendencias y herramientas del marketing digital. Requisitos Título universitario en Marketing, Publicidad, Comunicación o campo afín. Experiencia demostrable en marketing digital. Conocimiento sólido de herramientas de análisis web (ej. Google Analytics). Experiencia en gestión de campañas de publicidad online (ej. Google Ads, Social Ads). Excelentes habilidades de comunicación y redacción. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Título universitario en Marketing, Publicidad, Comunicación o campo afín",
+                       "Experiencia demostrable en marketing digital",
+                       "Conocimiento sólido de herramientas de análisis web (ej. Google Analytics)",
+                       "Experiencia en gestión de campañas de publicidad online (ej. Google Ads, Social Ads)",
+                       "Excelentes habilidades de comunicación y redacción",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-marketing-digital-demedicalperu-1118495612.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-marketing-digital-demedicalperu-1118495612.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Marketing Digital\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eEspecialista en Marketing Digital\u003c/b\u003e con formación universitaria y experiencia comprobable para unirse a nuestro equipo. El candidato ideal será proactivo, creativo y tendrá un profundo conocimiento de las estrategias de marketing online.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDiseñar, implementar y gestionar campañas de marketing digital en diversas plataformas.\u003c/li\u003e \u003cli\u003eAnalizar métricas y resultados para optimizar el rendimiento de las campañas.\u003c/li\u003e \u003cli\u003eDesarrollar estrategias de contenido y SEO.\u003c/li\u003e \u003cli\u003eGestionar redes sociales y comunidades online.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para alinear las estrategias de marketing.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las últimas tendencias y herramientas del marketing digital.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Marketing, Publicidad, Comunicación o campo afín.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en marketing digital.\u003c/li\u003e \u003cli\u003eConocimiento sólido de herramientas de análisis web (ej. Google Analytics).\u003c/li\u003e \u003cli\u003eExperiencia en gestión de campañas de publicidad online (ej. Google Ads, Social Ads).\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y redacción.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
