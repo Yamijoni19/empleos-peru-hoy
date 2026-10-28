@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118499319",
+    "clave":  "id:1118499319",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/part-time-cajero-para-peaje-santa-anita-y-agustino-manpowergroup-peru-1118499319.html",
+                   "capturadoEn":  "2026-10-28T16:01:56+00:00"
+               },
+    "titulo":  "PART TIME /Cajero para Peaje/Santa anita y Agustino",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima - El Agustino",
+    "ciudad":  "El Agustino",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  757,
+                    "max":  757,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Sueldo: S/ 757",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Por encargo de uno de nuestros clientes líderes en el mercado, nos encontramos en búsqueda del siguiente perfil: CAJEROS (AS) DE RECAUDACION PARA PEAJES FUNCIÓN PRINCIPAL Cobro y gestión de pagos en peajes. Atención directa al usuario. Manejo de caja. PERFIL Experiencia: Mínimo 3 meses de experiencia en caja, con: Certificado de trabajo. Estudios técnicos en curso / truncos o concluidos de cualquier carrera Disponibilidad completa OFRECEMOS Part Time Sueldo: S/ 757 Movilidad: S/ 60.55 Refrigerio: S/ 55.55 HORARIOS ROTATIVOS Part Time: 24 horas semanales, según necesidad operativa: 6 días de 4 horas o 3 días de 8 horas. 5. LUGARES DE TRABAJO (PEAJES) Peaje agustino y santa anita",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/part-time-cajero-para-peaje-santa-anita-y-agustino-manpowergroup-peru-1118499319.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/part-time-cajero-para-peaje-santa-anita-y-agustino-manpowergroup-peru-1118499319.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de uno de nuestros clientes líderes en el mercado, nos encontramos en búsqueda del siguiente perfil:\u003c/p\u003e\u003cp\u003eCAJEROS (AS) DE RECAUDACION PARA PEAJES\u003c/p\u003e\u003cul\u003e \u003cli\u003eFUNCIÓN PRINCIPAL\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCobro y gestión de pagos en peajes.\u003c/p\u003e\u003cp\u003eAtención directa al usuario.\u003c/p\u003e\u003cp\u003eManejo de caja.\u003c/p\u003e\u003cul\u003e \u003cli\u003ePERFIL\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eExperiencia:\u003c/p\u003e\u003cp\u003eMínimo 3 meses de experiencia en caja, con:\u003c/p\u003e\u003cp\u003eCertificado de trabajo.\u003c/p\u003e\u003cp\u003eEstudios técnicos en curso / truncos o concluidos de cualquier carrera\u003c/p\u003e\u003cp\u003eDisponibilidad completa\u003c/p\u003e\u003cul\u003e \u003cli\u003eOFRECEMOS\u003c/li\u003e\u003c/ul\u003e\u003cp\u003ePart Time\u003c/p\u003e\u003cp\u003eSueldo: S/ 757\u003c/p\u003e\u003cp\u003eMovilidad: S/ 60.55\u003c/p\u003e\u003cp\u003eRefrigerio: S/ 55.55\u003c/p\u003e\u003col\u003e \u003cli\u003eHORARIOS ROTATIVOS\u003c/li\u003e\u003c/ol\u003e\u003cp\u003ePart Time:\u003c/p\u003e\u003cp\u003e24 horas semanales, según necesidad operativa:\u003c/p\u003e\u003cp\u003e6 días de 4 horas o\u003c/p\u003e\u003cp\u003e3 días de 8 horas.\u003c/p\u003e\u003cul\u003e \u003cli\u003e5. LUGARES DE TRABAJO (PEAJES)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003ePeaje agustino y santa anita\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

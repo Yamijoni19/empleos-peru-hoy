@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118499311",
+    "clave":  "id:1118499311",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/recepcionista-asistente-administrativo-regeneris-1118499311.html",
+                   "capturadoEn":  "2026-10-28T16:02:03+00:00"
+               },
+    "titulo":  "Recepcionista / Asistente Administrativo",
+    "empresa":  "regeneris",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1900,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,900 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Recepcionista / Asistente Administrativo Resumen del Puesto Estamos en la búsqueda de un profesional para el puesto de Recepcionista / Asistente Administrativo . Buscamos a una persona responsable, sumamente organizada y con un excelente trato al cliente para integrarse a nuestro equipo. Responsabilidades Atención al cliente y gestión de consultas. Organización y gestión de agendas. Manejo de correspondencia y documentación. Soporte administrativo general a diferentes áreas. Mantenimiento del orden y la imagen del área de recepción. Requisitos Experiencia previa en puestos de recepción o asistencia administrativa. Dominio de herramientas Office (Word, Excel, Outlook). Manejo de herramientas digitales actuales. Excelente ortografía y redacción. Experiencia comprobable en atención al cliente. Alto nivel de responsabilidad, organización, proactividad y puntualidad. Disponibilidad inmediata.",
+    "requisitos":  [
+                       "Experiencia previa en puestos de recepción o asistencia administrativa",
+                       "Dominio de herramientas Office (Word, Excel, Outlook)",
+                       "Manejo de herramientas digitales actuales",
+                       "Excelente ortografía y redacción",
+                       "Experiencia comprobable en atención al cliente",
+                       "Alto nivel de responsabilidad, organización, proactividad y puntualidad",
+                       "Disponibilidad inmediata"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/recepcionista-asistente-administrativo-regeneris-1118499311.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/recepcionista-asistente-administrativo-regeneris-1118499311.html",
+    "descripcion_html":  "\u003cb\u003eRecepcionista / Asistente Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional para el puesto de \u003cb\u003eRecepcionista / Asistente Administrativo\u003c/b\u003e. Buscamos a una persona responsable, sumamente organizada y con un excelente trato al cliente para integrarse a nuestro equipo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtención al cliente y gestión de consultas.\u003c/li\u003e \u003cli\u003eOrganización y gestión de agendas.\u003c/li\u003e \u003cli\u003eManejo de correspondencia y documentación.\u003c/li\u003e \u003cli\u003eSoporte administrativo general a diferentes áreas.\u003c/li\u003e \u003cli\u003eMantenimiento del orden y la imagen del área de recepción.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de recepción o asistencia administrativa.\u003c/li\u003e \u003cli\u003eDominio de herramientas Office (Word, Excel, Outlook).\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales actuales.\u003c/li\u003e \u003cli\u003eExcelente ortografía y redacción.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en atención al cliente.\u003c/li\u003e \u003cli\u003eAlto nivel de responsabilidad, organización, proactividad y puntualidad.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

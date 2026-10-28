@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118499321",
+    "clave":  "id:1118499321",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-tienda-maquitronic-1118499321.html",
+                   "capturadoEn":  "2026-10-28T16:01:54+00:00"
+               },
+    "titulo":  "Asistente de Tienda",
+    "empresa":  "MAQUITRONIC",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Tienda Resumen del Puesto Buscamos un Asistente de Tienda proactivo y con gran capacidad de organización para unirse a nuestro equipo. El candidato ideal será responsable de supervisar las operaciones diarias de la tienda, asegurar una excelente experiencia para el cliente y liderar al personal. Responsabilidades Liderar, organizar y evaluar al personal de tienda, garantizando el cumplimiento de horarios y normas. Supervisar el funcionamiento general del local, incluyendo inventarios, caja, stock y exhibición de productos. Garantizar una excelente atención al cliente, así como el orden, limpieza y presentación de la tienda. Dar seguimiento a los indicadores de venta y proponer planes de trabajo para aumentar el rendimiento. Identificar problemas operativos, monitorear la competencia y reportar resultados a gerencia. Requisitos Educación Secundaria completa. Edad entre 18 y 30 años. Experiencia previa en roles similares es valorada. Excelentes habilidades de liderazgo y gestión de equipos. Capacidad para trabajar en un entorno dinámico y de ritmo rápido. Orientación al cliente y habilidades de comunicación. Capacidad para resolver problemas de manera efectiva.",
+    "requisitos":  [
+                       "Educación Secundaria completa",
+                       "Edad entre 18 y 30 años",
+                       "Experiencia previa en roles similares es valorada",
+                       "Excelentes habilidades de liderazgo y gestión de equipos",
+                       "Capacidad para trabajar en un entorno dinámico y de ritmo rápido",
+                       "Orientación al cliente y habilidades de comunicación",
+                       "Capacidad para resolver problemas de manera efectiva"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-tienda-maquitronic-1118499321.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-tienda-maquitronic-1118499321.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Tienda\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Tienda\u003c/b\u003e proactivo y con gran capacidad de organización para unirse a nuestro equipo. El candidato ideal será responsable de supervisar las operaciones diarias de la tienda, asegurar una excelente experiencia para el cliente y liderar al personal.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eLiderar, organizar y evaluar al personal de tienda, garantizando el cumplimiento de horarios y normas.\u003c/li\u003e \u003cli\u003eSupervisar el funcionamiento general del local, incluyendo inventarios, caja, stock y exhibición de productos.\u003c/li\u003e \u003cli\u003eGarantizar una excelente atención al cliente, así como el orden, limpieza y presentación de la tienda.\u003c/li\u003e \u003cli\u003eDar seguimiento a los indicadores de venta y proponer planes de trabajo para aumentar el rendimiento.\u003c/li\u003e \u003cli\u003eIdentificar problemas operativos, monitorear la competencia y reportar resultados a gerencia.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEducación Secundaria completa.\u003c/li\u003e \u003cli\u003eEdad entre 18 y 30 años.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles similares es valorada.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de liderazgo y gestión de equipos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno dinámico y de ritmo rápido.\u003c/li\u003e \u003cli\u003eOrientación al cliente y habilidades de comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para resolver problemas de manera efectiva.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

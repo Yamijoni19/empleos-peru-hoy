@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118499320",
+    "clave":  "id:1118499320",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-seleccion-experiencia-en-masivos-banca-disponibilidad-inmediata-1118499320.html",
+                   "capturadoEn":  "2026-10-28T16:01:55+00:00"
+               },
+    "titulo":  "Analista de Selección/ Experiencia en Masivos Banca/ Disponibilidad Inmediata",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Barranco",
+    "ciudad":  "Barranco",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Únete a nuestro equipo de selección! Nos encontramos en la búsqueda de un(a) Reclutador(a) con experiencia en procesos masivos de selección, idealmente en el sector bancario . Requisitos Experiencia en reclutamiento y selección masiva . Deseable experiencia en perfiles de banca, ventas o atención al cliente . Manejo de fuentes de reclutamiento y entrevistas por competencias. Orientación a resultados y cumplimiento de objetivos. Disponibilidad inmediata. Funciones Publicación y difusión de ofertas laborales. Filtro curricular y entrevistas. Coordinación y seguimiento de evaluaciones. Seguimiento de candidatos y cumplimiento de indicadores de cobertura. Ofrecemos \u0026#x1f3e0; Modalidad híbrida. \u0026#x1f91d; Excelente ambiente de trabajo y acompañamiento del equipo. \u0026#x1f4e9; Postula Si tienes experiencia en selección masiva , especialmente en procesos de banca, envíanos tu CV.",
+    "requisitos":  [
+                       "Experiencia en reclutamiento y selección masiva",
+                       "Deseable experiencia en perfiles de banca, ventas o atención al cliente",
+                       "Manejo de fuentes de reclutamiento y entrevistas por competencias",
+                       "Orientación a resultados y cumplimiento de objetivos",
+                       "Disponibilidad inmediata"
+                   ],
+    "funciones":  [
+                      "Publicación y difusión de ofertas laborales",
+                      "Filtro curricular y entrevistas",
+                      "Coordinación y seguimiento de evaluaciones",
+                      "Seguimiento de candidatos y cumplimiento de indicadores de cobertura"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-seleccion-experiencia-en-masivos-banca-disponibilidad-inmediata-1118499320.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-seleccion-experiencia-en-masivos-banca-disponibilidad-inmediata-1118499320.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Únete a nuestro equipo de selección!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) \u003cstrong\u003eReclutador(a)\u003c/strong\u003e con experiencia en procesos masivos de selección, idealmente en el \u003cstrong\u003esector bancario\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en \u003cstrong\u003ereclutamiento y selección masiva\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDeseable experiencia en perfiles de \u003cstrong\u003ebanca, ventas o atención al cliente\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eManejo de fuentes de reclutamiento y entrevistas por competencias.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones\u003c/p\u003e\u003cul\u003e \u003cli\u003ePublicación y difusión de ofertas laborales.\u003c/li\u003e \u003cli\u003eFiltro curricular y entrevistas.\u003c/li\u003e \u003cli\u003eCoordinación y seguimiento de evaluaciones.\u003c/li\u003e \u003cli\u003eSeguimiento de candidatos y cumplimiento de indicadores de cobertura.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOfrecemos\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u0026#x1f3e0; \u003cstrong\u003eModalidad híbrida.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u0026#x1f91d; Excelente ambiente de trabajo y acompañamiento del equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e9; Postula\u003c/p\u003e\u003cp\u003eSi tienes experiencia en \u003cstrong\u003eselección masiva\u003c/strong\u003e, especialmente en procesos de banca, \u003cstrong\u003eenvíanos tu CV.\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
