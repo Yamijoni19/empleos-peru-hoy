@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118497447",
+    "clave":  "id:1118497447",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-financiero-part-time-1118497447.html",
+                   "capturadoEn":  "2026-10-28T08:30:50+00:00"
+               },
+    "titulo":  "Asesor Financiero Part Time",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lambayeque - Chiclayo",
+    "ciudad":  "Chiclayo",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Misión del Puesto: Cumplir con la atención personalizada al cliente en lo que respecta a la colocación y seguimiento post venta de los productos financieros de activos y pasivos del banco, adecuada ejecución de las operaciones de caja y cumplir con las metas comerciales asignadas. Gestionar productos financieros por medio de Telemarketing. Además del cumplimiento de tares que indique el jefe directo.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-financiero-part-time-1118497447.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-financiero-part-time-1118497447.html",
+    "descripcion_html":  "\u003cp\u003eMisión del Puesto:\u003c/p\u003e\u003cp\u003eCumplir con la atención personalizada al cliente en lo que respecta a la colocación y seguimiento post venta de los productos financieros de activos y pasivos del banco, adecuada ejecución de las operaciones de caja y cumplir con las metas comerciales asignadas. Gestionar productos financieros por medio de Telemarketing. Además del cumplimiento de tares que indique el jefe directo.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
