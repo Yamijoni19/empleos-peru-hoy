@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118497461",
+    "clave":  "id:1118497461",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-senior-de-planeamiento-cp-rcs-capital-humano-1118497461.html",
+                   "capturadoEn":  "2026-10-28T01:22:02+00:00"
+               },
+    "titulo":  "Ingeniero Senior de Planeamiento CP",
+    "empresa":  "RCS Capital Humano",
+    "ubicacion":  "Huancavelica",
+    "ciudad":  "Huancavelica",
+    "region":  "Huancavelica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, una importante empresa en operación minera subterránea en el centro del país, estamos en búsqueda del mejor talento para cubrir el puesto de Ingeniero Senior de Planeamiento CP: Requisitos Ingeniero de Minas colegiado Experiencia de 9 años en minería subterránea y planeamiento Brevete para manejar camioneta en interior mina MS Project Intermedio Autocad Intermedio Funciones Elaborar diseño minero subterráneo en las etapas de exploración, desarrollo, preparación y explotación. Elaborar planes mineros con secuencia, considerando los recursos para la ejecución de avances y producción mina. Calcular las reservas de corto plazo con el software Deswik SO para los planes mensuales y trimestrales. Realizar el seguimiento y control de los planes diarios, semanales, mensuales y trimestrales. Elaborar el cálculo de sobrerotura de los avances ejecutados mensualmente. Calcular la flota de equipos necesaria para cumplir los planes de avances y explotación. Realizar el balance de masas de extracción mina, stock en canchas y tratamiento. Elaborar el forecast y budget de la unidad minera con metas físicas.",
+    "requisitos":  [
+                       "Ingeniero de Minas colegiado",
+                       "Experiencia de 9 años en minería subterránea y planeamiento",
+                       "Brevete para manejar camioneta en interior mina",
+                       "MS Project Intermedio",
+                       "Autocad Intermedio"
+                   ],
+    "funciones":  [
+                      "Elaborar diseño minero subterráneo en las etapas de exploración, desarrollo, preparación y explotación",
+                      "Elaborar planes mineros con secuencia, considerando los recursos para la ejecución de avances y producción mina",
+                      "Calcular las reservas de corto plazo con el software Deswik SO para los planes mensuales y trimestrales",
+                      "Realizar el seguimiento y control de los planes diarios, semanales, mensuales y trimestrales",
+                      "Elaborar el cálculo de sobrerotura de los avances ejecutados mensualmente",
+                      "Calcular la flota de equipos necesaria para cumplir los planes de avances y explotación",
+                      "Realizar el balance de masas de extracción mina, stock en canchas y tratamiento",
+                      "Elaborar el forecast y budget de la unidad minera con metas físicas"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-senior-de-planeamiento-cp-rcs-capital-humano-1118497461.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-senior-de-planeamiento-cp-rcs-capital-humano-1118497461.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003ePor encargo de nuestro cliente, una importante empresa en operación minera subterránea en el centro del país, estamos en búsqueda del mejor talento para cubrir el puesto de Ingeniero Senior de Planeamiento CP:\u003c/p\u003e\u003c/p\u003e \u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero de Minas colegiado\u003c/li\u003e \u003cli\u003eExperiencia de 9 años en minería subterránea y planeamiento\u003c/li\u003e \u003cli\u003eBrevete para manejar camioneta en interior mina\u003c/li\u003e \u003cli\u003eMS Project Intermedio\u003c/li\u003e \u003cli\u003eAutocad Intermedio\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar diseño minero subterráneo en las etapas de exploración, desarrollo, preparación y explotación.\u003c/li\u003e \u003cli\u003eElaborar planes mineros con secuencia, considerando los recursos para la ejecución de avances y producción mina.\u003c/li\u003e \u003cli\u003eCalcular las reservas de corto plazo con el software Deswik SO para los planes mensuales y trimestrales.\u003c/li\u003e \u003cli\u003eRealizar el seguimiento y control de los planes diarios, semanales, mensuales y trimestrales.\u003c/li\u003e \u003cli\u003eElaborar el cálculo de sobrerotura de los avances ejecutados mensualmente.\u003c/li\u003e \u003cli\u003eCalcular la flota de equipos necesaria para cumplir los planes de avances y explotación.\u003c/li\u003e \u003cli\u003eRealizar el balance de masas de extracción mina, stock en canchas y tratamiento.\u003c/li\u003e \u003cli\u003eElaborar el forecast y budget de la unidad minera con metas físicas.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
