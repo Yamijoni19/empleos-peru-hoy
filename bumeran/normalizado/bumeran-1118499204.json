@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118499204",
+    "clave":  "id:1118499204",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingenieros-metalurgistas-cetemin-1118499204.html",
+                   "capturadoEn":  "2026-10-28T21:03:58+00:00"
+               },
+    "titulo":  "INGENIEROS METALURGISTAS",
+    "empresa":  "CETEMIN",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿QUIERES SER PARTE DE NUESTRO EQUIPO? ¡POSTULA CON NOSOTROS(AS)! CETEMIN se encuentra en la búsqueda de INGENIERO METALURGISTA , que cuente con los siguientes requisitos: Profesión: Ingeniero(a) Metalurgista. Experiencia: 3 años de experiencia en Operación de Planta Concentradora 1 año de experiencia como instructor o capacitador técnico (deseable). Conocimientos: Trituración, tamizaje, muestreo, flotación, filtrado, separación sólido loquidos. Modalidad de trabajo: Presencial Disponibilidad INMEDIATA “En CETEMIN creemos firmemente en la igualdad de oportunidades para todos y todas, promovemos la diversidad generacional, de origen étnico, nacionalidad y son bienvenidas las personas con condiciones diferentes, de acuerdo con lo establecido en la Ley N° 29973.”",
+    "requisitos":  [
+                       "Profesión: Ingeniero(a) Metalurgista",
+                       "Experiencia",
+                       "3 años de experiencia en Operación de Planta Concentradora",
+                       "1 año de experiencia como instructor o capacitador técnico (deseable)",
+                       "Conocimientos: Trituración, tamizaje, muestreo, flotación, filtrado, separación sólido loquidos",
+                       "Modalidad de trabajo: Presencial",
+                       "Disponibilidad INMEDIATA",
+                       "“En CETEMIN creemos firmemente en la igualdad de oportunidades para todos y todas, promovemos la diversidad generacional, de origen étnico, nacionalidad y son bienvenidas las personas con"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingenieros-metalurgistas-cetemin-1118499204.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingenieros-metalurgistas-cetemin-1118499204.html",
+    "descripcion_html":  "\u003cp\u003e¿QUIERES SER PARTE DE NUESTRO EQUIPO?\u003c/p\u003e\u003cp\u003e¡POSTULA CON NOSOTROS(AS)!\u003c/p\u003e\u003cp\u003eCETEMIN se encuentra en la búsqueda de \u003cstrong\u003eINGENIERO METALURGISTA\u003c/strong\u003e, que cuente con los siguientes requisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eProfesión:\u003c/strong\u003e Ingeniero(a) Metalurgista.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e3 años de experiencia en Operación de Planta Concentradora\u003c/li\u003e \u003cli\u003e1 año de experiencia como instructor o capacitador técnico (deseable).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eConocimientos: \u003c/strong\u003eTrituración, tamizaje, muestreo, flotación, filtrado, separación sólido loquidos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eModalidad de trabajo:\u003c/strong\u003e Presencial\u003c/li\u003e \u003cli\u003eDisponibilidad \u003cstrong\u003eINMEDIATA\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e“En CETEMIN creemos firmemente en la igualdad de oportunidades para todos y todas, promovemos la diversidad generacional, de origen étnico, nacionalidad y son bienvenidas las personas con condiciones diferentes, de acuerdo con lo establecido en la Ley N° 29973.”\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "Trituración, tamizaje, muestreo, flotación, filtrado, separación sólido loquidos",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

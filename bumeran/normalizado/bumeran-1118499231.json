@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118499231",
+    "clave":  "id:1118499231",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-contable-empresa-retail-1118499231.html",
+                   "capturadoEn":  "2026-10-28T21:03:53+00:00"
+               },
+    "titulo":  "Coordinador Contable",
+    "empresa":  "Empresa retail",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4000,
+                    "max":  4500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 4,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Coordinador Contable Resumen del Puesto Estamos en la búsqueda de un Coordinador Contable con experiencia comprobada, preferentemente en los sectores de retail y gastronomía. El candidato ideal poseerá un sólido conocimiento de sistemas contables y la capacidad de gestionar eficientemente las operaciones financieras. Responsabilidades Supervisar y coordinar las actividades contables diarias. Asegurar la correcta aplicación de los principios contables y normativas vigentes. Gestionar y optimizar el uso de sistemas contables, como Concar. Colaborar con otros departamentos para garantizar la integridad de la información financiera. Participar en la elaboración de informes y análisis financieros. Identificar áreas de mejora en los procesos contables. Requisitos Formación universitaria en Contabilidad, Finanzas o carreras afines. Experiencia previa en roles de coordinación contable. Conocimiento y experiencia en el manejo de sistemas contables (ej. Concar). Experiencia en los sectores de retail y/o gastronomía será valorada. Capacidad analítica y de resolución de problemas. Habilidades de liderazgo y gestión de equipos. Excelentes habilidades de comunicación y organización.",
+    "requisitos":  [
+                       "Formación universitaria en Contabilidad, Finanzas o carreras afines",
+                       "Experiencia previa en roles de coordinación contable",
+                       "Conocimiento y experiencia en el manejo de sistemas contables (ej. Concar)",
+                       "Experiencia en los sectores de retail y/o gastronomía será valorada",
+                       "Capacidad analítica y de resolución de problemas",
+                       "Habilidades de liderazgo y gestión de equipos",
+                       "Excelentes habilidades de comunicación y organización"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-contable-empresa-retail-1118499231.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-contable-empresa-retail-1118499231.html",
+    "descripcion_html":  "\u003cb\u003eCoordinador Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eCoordinador Contable\u003c/b\u003e con experiencia comprobada, preferentemente en los sectores de retail y gastronomía. El candidato ideal poseerá un sólido conocimiento de sistemas contables y la capacidad de gestionar eficientemente las operaciones financieras.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y coordinar las actividades contables diarias.\u003c/li\u003e \u003cli\u003eAsegurar la correcta aplicación de los principios contables y normativas vigentes.\u003c/li\u003e \u003cli\u003eGestionar y optimizar el uso de sistemas contables, como Concar.\u003c/li\u003e \u003cli\u003eColaborar con otros departamentos para garantizar la integridad de la información financiera.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de informes y análisis financieros.\u003c/li\u003e \u003cli\u003eIdentificar áreas de mejora en los procesos contables.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación universitaria en Contabilidad, Finanzas o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles de coordinación contable.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en el manejo de sistemas contables (ej. Concar).\u003c/li\u003e \u003cli\u003eExperiencia en los sectores de retail y/o gastronomía será valorada.\u003c/li\u003e \u003cli\u003eCapacidad analítica y de resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo y gestión de equipos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y organización.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

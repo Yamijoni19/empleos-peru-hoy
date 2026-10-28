@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118499293",
+    "clave":  "id:1118499293",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/community-manager-atk-envios-1118499293.html",
+                   "capturadoEn":  "2026-10-28T21:03:38+00:00"
+               },
+    "titulo":  "Community Manager",
+    "empresa":  "ATK ENVIOS",
+    "ubicacion":  "Lima - Urb. Maranga - San Miguel",
+    "ciudad":  "Urb. Maranga - San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Community Manager Resumen del Puesto Buscamos un/a Community Manager creativo/a, estratégico/a y orientado/a a resultados para gestionar la comunicación digital. La persona seleccionada tendrá la oportunidad de contribuir al crecimiento y posicionamiento de marcas, conectando con clientes interesados y comunicando de manera clara los beneficios de los servicios ofrecidos. Responsabilidades Gestionar y desarrollar la presencia en redes sociales. Planificar y organizar el calendario mensual de contenidos, alineándolo con los objetivos comerciales y de comunicación. Proponer y ejecutar estrategias creativas para aumentar el alcance, la interacción y la generación de clientes potenciales. Diseñar, grabar y editar contenido digital, incluyendo videos cortos, historias y publicaciones. Requisitos Experiencia comprobada en gestión de redes sociales y creación de contenido digital. Excelentes habilidades de comunicación escrita y verbal. Capacidad para desarrollar estrategias creativas y orientadas a resultados. Conocimiento de herramientas de diseño y edición de video. Capacidad para trabajar de forma independiente y como parte de un equipo.",
+    "requisitos":  [
+                       "Experiencia comprobada en gestión de redes sociales y creación de contenido digital",
+                       "Excelentes habilidades de comunicación escrita y verbal",
+                       "Capacidad para desarrollar estrategias creativas y orientadas a resultados",
+                       "Conocimiento de herramientas de diseño y edición de video",
+                       "Capacidad para trabajar de forma independiente y como parte de un equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de los servicios ofrecidos",
+                       "Responsabilidades",
+                       "Gestionar y desarrollar la presencia en redes sociales",
+                       "Planificar y organizar el calendario mensual de contenidos, alineándolo con los objetivos comerciales y de comunicación",
+                       "Proponer y ejecutar estrategias creativas para aumentar el alcance, la interacción y la generación de clientes potenciales",
+                       "Diseñar, grabar y editar contenido digital, incluyendo videos cortos, historias y publicaciones"
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/community-manager-atk-envios-1118499293.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/community-manager-atk-envios-1118499293.html",
+    "descripcion_html":  "\u003cb\u003eCommunity Manager\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eCommunity Manager\u003c/b\u003e creativo/a, estratégico/a y orientado/a a resultados para gestionar la comunicación digital. La persona seleccionada tendrá la oportunidad de contribuir al crecimiento y posicionamiento de marcas, conectando con clientes interesados y comunicando de manera clara los beneficios de los servicios ofrecidos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar y desarrollar la presencia en redes sociales.\u003c/li\u003e \u003cli\u003ePlanificar y organizar el calendario mensual de contenidos, alineándolo con los objetivos comerciales y de comunicación.\u003c/li\u003e \u003cli\u003eProponer y ejecutar estrategias creativas para aumentar el alcance, la interacción y la generación de clientes potenciales.\u003c/li\u003e \u003cli\u003eDiseñar, grabar y editar contenido digital, incluyendo videos cortos, historias y publicaciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobada en gestión de redes sociales y creación de contenido digital.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación escrita y verbal.\u003c/li\u003e \u003cli\u003eCapacidad para desarrollar estrategias creativas y orientadas a resultados.\u003c/li\u003e \u003cli\u003eConocimiento de herramientas de diseño y edición de video.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y como parte de un equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

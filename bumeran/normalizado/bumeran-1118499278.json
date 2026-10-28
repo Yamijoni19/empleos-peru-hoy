@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118499278",
+    "clave":  "id:1118499278",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-motorprime-1118499278.html",
+                   "capturadoEn":  "2026-10-28T21:03:41+00:00"
+               },
+    "titulo":  "Asistente de Facturación",
+    "empresa":  "MOTORPRIME",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Facturación Resumen del Puesto Estamos en la búsqueda de un Asistente de Facturación con experiencia para integrarse a nuestro equipo. El candidato ideal poseerá un conocimiento sólido de los procesos de facturación y será capaz de gestionar eficientemente las tareas administrativas relacionadas. Responsabilidades Generar y emitir facturas de acuerdo a los procedimientos establecidos. Verificar la exactitud de la información en las facturas. Realizar el seguimiento de las facturas emitidas y gestionar cobros. Colaborar con otros departamentos para asegurar la correcta documentación de las transacciones. Mantener registros actualizados y organizados de las operaciones de facturación. Requisitos Formación secundaria completa o estudios afines. Experiencia mínima de 2 años en tareas de facturación o administración. Conocimiento de software de facturación o sistemas de gestión. Habilidades organizativas y atención al detalle. Capacidad para trabajar de forma autónoma y en equipo. Buenas habilidades de comunicación. Planilla MYPE desde el primer día CTS, Gratificación, ESSALUD Línea de carrera Grato ambiente laboral",
+    "requisitos":  [
+                       "Formación secundaria completa o estudios afines",
+                       "Experiencia mínima de 2 años en tareas de facturación o administración",
+                       "Conocimiento de software de facturación o sistemas de gestión",
+                       "Habilidades organizativas y atención al detalle",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Buenas habilidades de comunicación",
+                       "Planilla MYPE desde el primer día",
+                       "CTS, Gratificación, ESSALUD",
+                       "Línea de carrera",
+                       "Grato ambiente laboral"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-motorprime-1118499278.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-motorprime-1118499278.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Facturación\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente de Facturación\u003c/b\u003e con experiencia para integrarse a nuestro equipo. El candidato ideal poseerá un conocimiento sólido de los procesos de facturación y será capaz de gestionar eficientemente las tareas administrativas relacionadas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGenerar y emitir facturas de acuerdo a los procedimientos establecidos.\u003c/li\u003e \u003cli\u003eVerificar la exactitud de la información en las facturas.\u003c/li\u003e \u003cli\u003eRealizar el seguimiento de las facturas emitidas y gestionar cobros.\u003c/li\u003e \u003cli\u003eColaborar con otros departamentos para asegurar la correcta documentación de las transacciones.\u003c/li\u003e \u003cli\u003eMantener registros actualizados y organizados de las operaciones de facturación.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación secundaria completa o estudios afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en tareas de facturación o administración.\u003c/li\u003e \u003cli\u003eConocimiento de software de facturación o sistemas de gestión.\u003c/li\u003e \u003cli\u003eHabilidades organizativas y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación.\u003c/li\u003e \u003c/ul\u003e \u003cul\u003e  \u003cli\u003ePlanilla MYPE desde el primer día\u003c/li\u003e  \u003cli\u003eCTS, Gratificación, ESSALUD\u003c/li\u003e  \u003cli\u003eLínea de carrera\u003c/li\u003e  \u003cli\u003eGrato ambiente laboral\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
