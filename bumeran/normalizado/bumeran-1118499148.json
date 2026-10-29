@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118499148",
+    "clave":  "id:1118499148",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-legal-1118499148.html",
+                   "capturadoEn":  "2026-10-29T07:05:18+00:00"
+               },
+    "titulo":  "Tecnico Legal",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "⚖️ CONVOCATORIA: ABOGADOS PARA GESTIÓN Y SEGUIMIENTO DE PROCESOS LEGALES Estamos buscando abogados responsables, comprometidas y organizadas para incorporarse a nuestro equipo de trabajo y encargarse de la gestión, tramitación y seguimiento de procesos legales. Perfil requerido: Formación en Derecho y experiencia en gestión de procesos legales. Capacidad para realizar un seguimiento constante y riguroso de los expedientes. Cumplimiento de plazos, diligencias y compromisos asumidos. Organización, iniciativa y atención al detalle. Comunicación oportuna sobre el estado y los avances de cada proceso. Requisitos indispensables: ✅ Alto sentido de la responsabilidad. ✅ Compromiso real con el trabajo y los resultados. ✅ Proactividad y seguimiento permanente de los casos asignados. ✅ Seriedad, honestidad y cumplimiento de las obligaciones profesionales. Buscamos profesionales que entiendan que cada proceso legal requiere atención, constancia y responsabilidad, y que asuman sus funciones con seriedad y compromiso.",
+    "requisitos":  [
+                       "indispensables: ✅ Alto sentido de la responsabilidad. ✅ Compromiso real con el trabajo y los resultados. ✅ Proactividad y seguimiento permanente de los casos asignados. ✅ Seriedad, honestidad y cumplimiento de las obligaciones profesionales",
+                       "Buscamos profesionales que entiendan que cada proceso legal requiere atención, constancia y responsabilidad, y que asuman sus"
+                   ],
+    "funciones":  [
+                      "con seriedad y compromiso"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-legal-1118499148.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-legal-1118499148.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x2696;\u0026#xfe0f; \u003cstrong\u003eCONVOCATORIA: ABOGADOS PARA GESTIÓN Y SEGUIMIENTO DE PROCESOS LEGALES\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos buscando \u003cstrong\u003eabogados responsables, comprometidas y organizadas\u003c/strong\u003e para incorporarse a nuestro equipo de trabajo y encargarse de la gestión, tramitación y seguimiento de procesos legales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePerfil requerido:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación en Derecho y experiencia en gestión de procesos legales.\u003c/li\u003e \u003cli\u003eCapacidad para realizar un seguimiento constante y riguroso de los expedientes.\u003c/li\u003e \u003cli\u003eCumplimiento de plazos, diligencias y compromisos asumidos.\u003c/li\u003e \u003cli\u003eOrganización, iniciativa y atención al detalle.\u003c/li\u003e \u003cli\u003eComunicación oportuna sobre el estado y los avances de cada proceso.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos indispensables:\u003c/strong\u003e \u0026#x2705; Alto sentido de la responsabilidad. \u0026#x2705; Compromiso real con el trabajo y los resultados. \u0026#x2705; Proactividad y seguimiento permanente de los casos asignados. \u0026#x2705; Seriedad, honestidad y cumplimiento de las obligaciones profesionales.\u003c/p\u003e\u003cp\u003eBuscamos profesionales que entiendan que cada proceso legal requiere atención, constancia y responsabilidad, y que asuman sus funciones con seriedad y compromiso.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

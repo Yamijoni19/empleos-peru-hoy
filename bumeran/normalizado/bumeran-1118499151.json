@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118499151",
+    "clave":  "id:1118499151",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-electricidad-industrial-1118499151.html",
+                   "capturadoEn":  "2026-10-29T07:05:13+00:00"
+               },
+    "titulo":  "Practicante pre profesional - Electricidad industrial",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Practicante pre profesional Técnico electricista industrial – Callao Nos encontramos en la búsqueda de un Practicante Pre Técnico electricista industrial con las siguientes especificaciones: Requisitos: * Estudiante técnico de electricidad o carreras similares. * 3 meses de experiencia en el rubro. * Manejo de herramientas mecánicas e instrumentos. * Disponibilidad para realizar prácticas profesionales en Cercado de Lima * Proactividad, responsabilidad y disposición para el aprendizaje continuo. Beneficios: * Capacitación constante y aprendizaje práctico en planta industrial. Horarios: * Lunes a Sábado de 07:00 am - 13:00 pm.",
+    "requisitos":  [
+                       "Estudiante técnico de electricidad o carreras similares",
+                       "3 meses de experiencia en el rubro",
+                       "Manejo de herramientas mecánicas e instrumentos",
+                       "Disponibilidad para realizar prácticas profesionales en Cercado de Lima",
+                       "Proactividad, responsabilidad y disposición para el aprendizaje continuo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Capacitación constante y aprendizaje práctico en planta industrial",
+                       "Horarios: * Lunes a Sábado de 07:00 am - 13:00 pm"
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-electricidad-industrial-1118499151.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-electricidad-industrial-1118499151.html",
+    "descripcion_html":  "\u003cp\u003ePracticante pre profesional Técnico electricista industrial – Callao\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un Practicante Pre Técnico electricista industrial con las siguientes especificaciones:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e* Estudiante técnico de electricidad o carreras similares.\u003c/p\u003e\u003cp\u003e* 3 meses de experiencia en el rubro.\u003c/p\u003e\u003cp\u003e* Manejo de herramientas mecánicas e instrumentos.\u003c/p\u003e\u003cp\u003e* Disponibilidad para realizar prácticas profesionales en Cercado de Lima\u003c/p\u003e\u003cp\u003e* Proactividad, responsabilidad y disposición para el aprendizaje continuo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e* Capacitación constante y aprendizaje práctico en planta industrial.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHorarios: \u003c/strong\u003e * Lunes a Sábado de 07:00 am - 13:00 pm.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
