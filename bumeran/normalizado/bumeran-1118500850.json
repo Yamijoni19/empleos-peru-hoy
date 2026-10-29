@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118500850",
+    "clave":  "id:1118500850",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-facturacion-administracion-constructora-waki-runa-sac-1118500850.html",
+                   "capturadoEn":  "2026-10-29T20:17:43+00:00"
+               },
+    "titulo":  "PRACTICANTE PROFESIONAL DE FACTURACIÓN ADMINISTRACIÓN- CONSTRUCTORA",
+    "empresa":  "Waki Runa SAC",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente líder en Construcción estamos en la búsqueda de Practicante Profesional de Administración Funciones Apoyo en la revisión y gestión de facturas del área. Registro y seguimiento de facturas. Apoyo en la elaboración y seguimiento de órdenes de servicio. Gestión y seguimiento de órdenes de compra. Organización y control de documentación del área. Requisitos Egresado(a) de la carrera técnica Administración, Recursos Humanos, Ingeniería Industrial o carreras afines. Contar con Constancia de Egresado Manejo de Microsoft Office, principalmente Excel. Capacidad de organización, atención al detalle y seguimiento de procesos. Disponibilidad para realizar prácticas profesionales. Proactividad, Comunicación y Resolución de Problemas",
+    "requisitos":  [
+                       "Egresado(a) de la carrera técnica Administración, Recursos Humanos, Ingeniería Industrial o carreras afines",
+                       "Contar con Constancia de Egresado",
+                       "Manejo de Microsoft Office, principalmente Excel",
+                       "Capacidad de organización, atención al detalle y seguimiento de procesos",
+                       "Disponibilidad para realizar prácticas profesionales",
+                       "Proactividad, Comunicación y Resolución de Problemas"
+                   ],
+    "funciones":  [
+                      "Apoyo en la revisión y gestión de facturas del área",
+                      "Registro y seguimiento de facturas",
+                      "Apoyo en la elaboración y seguimiento de órdenes de servicio",
+                      "Gestión y seguimiento de órdenes de compra",
+                      "Organización y control de documentación del área"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-28",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-facturacion-administracion-constructora-waki-runa-sac-1118500850.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-facturacion-administracion-constructora-waki-runa-sac-1118500850.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente líder en Construcción estamos en la búsqueda de\u003cstrong\u003e Practicante Profesional de Administración\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyo en la revisión y gestión de facturas del área.\u003c/li\u003e \u003cli\u003eRegistro y seguimiento de facturas.\u003c/li\u003e \u003cli\u003eApoyo en la elaboración y seguimiento de órdenes de servicio.\u003c/li\u003e \u003cli\u003eGestión y seguimiento de órdenes de compra.\u003c/li\u003e \u003cli\u003eOrganización y control de documentación del área.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) de la carrera técnica Administración, Recursos Humanos, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eContar con Constancia de Egresado\u003c/li\u003e \u003cli\u003eManejo de Microsoft Office, principalmente Excel.\u003c/li\u003e \u003cli\u003eCapacidad de organización, atención al detalle y seguimiento de procesos.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar prácticas profesionales.\u003c/li\u003e \u003cli\u003eProactividad, Comunicación y Resolución de Problemas\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "28/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
