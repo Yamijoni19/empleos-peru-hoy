@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118500901",
+    "clave":  "id:1118500901",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-energia-lima-1118500901.html",
+                   "capturadoEn":  "2026-10-29T14:18:36+00:00"
+               },
+    "titulo":  "Ejecutivo de Ventas Energía - Lima",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa trasnacional se encuentra en busqueda del mejor perfil para ocupar la siguiente posición: Ejecutivo Comercial - Sector Energía Objetivo: Planificar el proceso de ventas en el mercado asignado, con la finalidad de colaborar con la fuerza de ventas para garantizar al cumplimiento de las cuotas asignadas. Requisitos: Profesional Universitario en Ingeniería, Ingenieróa Mecatrónica, Eléctrica y/o afines. Experiencia previa en área comercial de 2 a 3 años Manejo de productos de motores Licencia AI con 6 meses de antigüedad",
+    "requisitos":  [
+                       "Profesional Universitario en Ingeniería, Ingenieróa Mecatrónica, Eléctrica y/o afines",
+                       "Experiencia previa en área comercial de 2 a 3 años",
+                       "Manejo de productos de motores",
+                       "Licencia AI con 6 meses de antigüedad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-28",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-energia-lima-1118500901.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-energia-lima-1118500901.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa trasnacional se encuentra en busqueda del mejor perfil para ocupar la siguiente posición: \u003c/p\u003e\u003cp\u003eEjecutivo Comercial - Sector Energía \u003c/p\u003e\u003cp\u003eObjetivo:\u003c/p\u003e\u003cp\u003ePlanificar el proceso de ventas en el mercado asignado, con la finalidad de colaborar con la fuerza de ventas para garantizar al cumplimiento de las cuotas asignadas.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional Universitario en Ingeniería, Ingenieróa Mecatrónica, Eléctrica y/o afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en área comercial de 2 a 3 años\u003c/li\u003e \u003cli\u003eManejo de productos de motores\u003c/li\u003e \u003cli\u003eLicencia AI con 6 meses de antigüedad\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "28/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
