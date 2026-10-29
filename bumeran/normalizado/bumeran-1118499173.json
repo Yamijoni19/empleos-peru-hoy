@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118499173",
+    "clave":  "id:1118499173",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-digitador-crc-peru-cruise-center-1118499173.html",
+                   "capturadoEn":  "2026-10-29T00:56:21+00:00"
+               },
+    "titulo":  "Auxiliar administrativo/ digitador",
+    "empresa":  "CRC-PERU (CRUISE CENTER)",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Digitalización y archivo de documentos Redimensionamiento de archivos Creación de perfiles y archivo de documentos en las plataformas de nuestros clientes Ingreso de datos Soporte informático básico a usuarios Trámites y diligencias fuera de la oficina",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-digitador-crc-peru-cruise-center-1118499173.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-digitador-crc-peru-cruise-center-1118499173.html",
+    "descripcion_html":  "\u003cul\u003e \u003cli\u003eDigitalización y archivo de documentos\u003c/li\u003e \u003cli\u003eRedimensionamiento de archivos\u003c/li\u003e \u003cli\u003eCreación de perfiles y archivo de documentos en las plataformas de nuestros clientes\u003c/li\u003e \u003cli\u003eIngreso de datos\u003c/li\u003e \u003cli\u003eSoporte informático básico a usuarios\u003c/li\u003e \u003cli\u003eTrámites y diligencias fuera de la oficina\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118499181",
+    "clave":  "id:1118499181",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-operaciones-temporal-happy-teddies-1118499181.html",
+                   "capturadoEn":  "2026-10-29T00:56:10+00:00"
+               },
+    "titulo":  "Asistente de Operaciones (Temporal)",
+    "empresa":  "Happy Teddies",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1302,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,302",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Operaciones (Temporal) Resumen del Puesto Buscamos un Asistente de Operaciones entusiasta y organizado para unirse a nuestro equipo durante un período temporal. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico. Se proporcionará capacitación completa. Responsabilidades Ensamblar productos y preparar pedidos para su envío. Coordinar y gestionar el proceso de despacho de envíos. Realizar compras de materiales necesarios. Asistir en el cierre de ventas, interactuando con clientes que han mostrado interés. Ofrecemos Compensación mensual de S/ 1,300. Contrato temporal para los meses de noviembre y diciembre. Horario de trabajo: lunes a viernes de 12:00 p. m. a 8:00 p. m. y sábados de 9:00 a. m. a 5:00 p. m. Capacitación integral desde el primer día. Oportunidad de ganar experiencia en una empresa de tecnología innovadora. Requisitos No se requiere experiencia previa. Disponibilidad para trabajar durante los meses de noviembre y diciembre. Habilidades organizativas y atención al detalle. Capacidad para seguir instrucciones y aprender rápidamente. Actitud proactiva y disposición para colaborar en equipo.",
+    "requisitos":  [
+                       "No se requiere experiencia previa",
+                       "Disponibilidad para trabajar durante los meses de noviembre y diciembre",
+                       "Habilidades organizativas y atención al detalle",
+                       "Capacidad para seguir instrucciones y aprender rápidamente",
+                       "Actitud proactiva y disposición para colaborar en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-operaciones-temporal-happy-teddies-1118499181.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-operaciones-temporal-happy-teddies-1118499181.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Operaciones (Temporal)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Operaciones\u003c/b\u003e entusiasta y organizado para unirse a nuestro equipo durante un período temporal. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico. Se proporcionará capacitación completa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eEnsamblar productos y preparar pedidos para su envío.\u003c/li\u003e \u003cli\u003eCoordinar y gestionar el proceso de despacho de envíos.\u003c/li\u003e \u003cli\u003eRealizar compras de materiales necesarios.\u003c/li\u003e \u003cli\u003eAsistir en el cierre de ventas, interactuando con clientes que han mostrado interés.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eCompensación mensual de S/ 1,300.\u003c/li\u003e \u003cli\u003eContrato temporal para los meses de noviembre y diciembre.\u003c/li\u003e \u003cli\u003eHorario de trabajo: lunes a viernes de 12:00 p. m. a 8:00 p. m. y sábados de 9:00 a. m. a 5:00 p. m.\u003c/li\u003e \u003cli\u003eCapacitación integral desde el primer día.\u003c/li\u003e \u003cli\u003eOportunidad de ganar experiencia en una empresa de tecnología innovadora.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eNo se requiere experiencia previa.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar durante los meses de noviembre y diciembre.\u003c/li\u003e \u003cli\u003eHabilidades organizativas y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y aprender rápidamente.\u003c/li\u003e \u003cli\u003eActitud proactiva y disposición para colaborar en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

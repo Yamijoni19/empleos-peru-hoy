@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118499178",
+    "clave":  "id:1118499178",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-reportes-viettel-peru-sac-1118499178.html",
+                   "capturadoEn":  "2026-10-29T00:56:15+00:00"
+               },
+    "titulo":  "Asistente de Reportes",
+    "empresa":  "VIETTEL PERU SAC",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Bitel nos encontramos en búsqueda de un(a) Asistente de reportes para formar parte de nuestro equipo. Funciones: Realizar reportes mensuales para clientes corporativos Realizar reportes de incidencias y a solicitud de clientes Realizar reportes de KPIS para control interno Llevar el control en la obtención de evidencias y documentación para la realización de reporte Requisitos: Bachiller o técnico en: Administración, Ingeniería Industrial, o carreras afines orientadas a análisis y reportería. Experiencia mínima de 3 meses realizando reportes o tareas similares. Excel a nivel intermedio (tablas dinámicas, funciones básicas de análisis). Buena redacción y capacidad para elaborar documentos. Inglés escrito intermedio (para leer y redactar correos sencillos). Deseable (pero NO excluyente): Manejo básico de indicadores o KPIs. Conocimientos en diseño gráfico básico (solo para presentación visual de reportes).",
+    "requisitos":  [
+                       "Bachiller o técnico en: Administración, Ingeniería Industrial, o carreras afines orientadas a análisis y reportería",
+                       "Experiencia mínima de 3 meses realizando reportes o tareas similares",
+                       "Excel a nivel intermedio (tablas dinámicas,"
+                   ],
+    "funciones":  [
+                      "básicas de análisis)",
+                      "Buena redacción y capacidad para elaborar documentos",
+                      "Inglés escrito intermedio (para leer y redactar correos sencillos)",
+                      "Deseable (pero NO excluyente)",
+                      "Manejo básico de indicadores o KPIs",
+                      "Conocimientos en diseño gráfico básico (solo para presentación visual de reportes)"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-reportes-viettel-peru-sac-1118499178.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-reportes-viettel-peru-sac-1118499178.html",
+    "descripcion_html":  "\u003cp\u003eEn Bitel nos encontramos en búsqueda de un(a) \u003cstrong\u003eAsistente de reportes \u003c/strong\u003epara formar parte de nuestro equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar reportes mensuales para clientes corporativos\u003c/li\u003e \u003cli\u003eRealizar reportes de incidencias y a solicitud de clientes\u003c/li\u003e \u003cli\u003eRealizar reportes de KPIS para control interno\u003c/li\u003e \u003cli\u003eLlevar el control en la obtención de evidencias y documentación para la realización de reporte\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o técnico en: Administración, Ingeniería Industrial, o carreras afines orientadas a análisis y reportería.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 meses realizando reportes o tareas similares.\u003c/li\u003e \u003cli\u003eExcel a nivel intermedio (tablas dinámicas, funciones básicas de análisis).\u003c/li\u003e \u003cli\u003eBuena redacción y capacidad para elaborar documentos.\u003c/li\u003e \u003cli\u003eInglés escrito intermedio (para leer y redactar correos sencillos). \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDeseable (pero NO excluyente):\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eManejo básico de indicadores o KPIs.\u003c/li\u003e \u003cli\u003eConocimientos en diseño gráfico básico (solo para presentación visual de reportes).\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

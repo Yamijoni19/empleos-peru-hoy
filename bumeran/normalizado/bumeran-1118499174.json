@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118499174",
+    "clave":  "id:1118499174",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-engineer-1118499174.html",
+                   "capturadoEn":  "2026-10-29T00:56:31+00:00"
+               },
+    "titulo":  "Data Engineer",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nos encontramos en la búsqueda de un(a Data Engineer que desee aportar al desarrollo de capacidades y generar un impacto positivo en nuestra comunidad educativa. Como institución, en Laureate valoramos la diversidad y promovemos entornos inclusivos donde todas las personas tengan las mismas oportunidades de participación y desarrollo, sin distinción de origen, género, edad, discapacidad u otras condiciones. MISIÓN: Diseñar, construir y mantener los pipelines, modelos de analítica, integraciones y estructuras del Data Warehouse y Data Lake institucional del área Comercial, asegurando que los productos de datos sean confiables, eficientes y orientados a las necesidades del negocio. FORMACIÓN: Bachiller o titulado en Ingeniería de Sistemas, Informática, Software o afines. Puede ser técnico. CONOCIMIENTOS: Modelamiento de datos (relacional, dimensional, Data Vault) – nivel avanzado. Arquitectura de Data Warehouse, Data Lake y/o Lakehouse – nivel avanzado. SQL Server, Azure Synapse, BigQuery, Python u otros motores modernos – nivel avanzado. Integración y normalización de fuentes diversas (CRM, ERP, Contact Center, LMS, plataformas de ventas). Documentación de flujos de datos, diccionarios, metadatos y reglas de negocio. Deseable: arquitecturas cloud (Azure, AWS, GCP, Databricks y Microsoft Fabric). EXPERIENCIA: Mínimo 2 años en ingeniería, modelamiento o arquitectura de datos en contextos comerciales, incluyendo el diseño de modelos de datos corporativos, proyectos de integración de múltiples sistemas y arquitecturas modernas (AWS, Azure, GCP, Databricks o Microsoft Fabric). Deseable: experiencia en migraciones cloud y en iniciativas de gobierno y calidad de datos. FUNCIONES: Definir y gestionar el roadmap de productos de datos comerciales Identificar las necesidades de información del área Comercial y priorizar iniciativas de datos. Ejecutar el roadmap de datos alineado a los objetivos estratégicos del negocio. Diseñar la arquitectura de datos y modelos orientados al negocio Desarrollar modelos de datos dimensionales, estructuras y reglas de negocio para los procesos comerciales (ventas, clientes, campañas, canales). Documentar y estandarizar flujos de datos y definiciones comerciales Documentar entidades, métricas, KPIs, transformaciones y flujos, generando diccionarios de datos y glosarios de negocio. Establecer estándares de nomenclatura y trazabilidad. Revisar, aprobar y supervisar integraciones de datos comerciales Construir la orquestación de ETLs/ELTs y pipelines, asegurando que cumplan con los estándares definidos. Controlar la calidad e integridad de los datos provenientes de CRM, ERP, Contact Center y otras fuentes. Ser el puente entre el negocio y la tecnología de datos Traducir las necesidades de las áreas comerciales en requerimientos de datos. Promover la cultura data-driven y la adopción de los productos de datos.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Definir y gestionar el roadmap de productos de datos comerciales",
+                      "Identificar las necesidades de información del área Comercial y priorizar iniciativas de datos",
+                      "Ejecutar el roadmap de datos alineado a los objetivos estratégicos del negocio",
+                      "Diseñar la arquitectura de datos y modelos orientados al negocio",
+                      "Desarrollar modelos de datos dimensionales, estructuras y reglas de negocio para los procesos comerciales (ventas, clientes, campañas, canales)",
+                      "Documentar y estandarizar flujos de datos y definiciones comerciales",
+                      "Documentar entidades, métricas, KPIs, transformaciones y flujos, generando diccionarios de datos y glosarios de negocio",
+                      "Establecer estándares de nomenclatura y trazabilidad",
+                      "Revisar, aprobar y supervisar integraciones de datos comerciales",
+                      "Construir la orquestación de ETLs/ELTs y pipelines, asegurando que cumplan con los estándares definidos",
+                      "Controlar la calidad e integridad de los datos provenientes de CRM, ERP, Contact Center y otras fuentes",
+                      "Ser el puente entre el negocio y la tecnología de datos",
+                      "Traducir las necesidades de las áreas comerciales en requerimientos de datos",
+                      "Promover la cultura data-driven y la adopción de los productos de datos"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/data-engineer-1118499174.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-engineer-1118499174.html",
+    "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda de un(a \u003cstrong\u003eData Engineer\u003c/strong\u003e que desee aportar al desarrollo de capacidades y generar un impacto positivo en nuestra comunidad educativa. Como institución, en Laureate valoramos la diversidad y promovemos entornos inclusivos donde todas las personas tengan las mismas oportunidades de participación y desarrollo, sin distinción de origen, género, edad, discapacidad u otras condiciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMISIÓN: \u003c/strong\u003eDiseñar, construir y mantener los pipelines, modelos de analítica, integraciones y estructuras del Data Warehouse y Data Lake institucional del área Comercial, asegurando que los productos de datos sean confiables, eficientes y orientados a las necesidades del negocio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFORMACIÓN:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado en Ingeniería de Sistemas, Informática, Software o afines. Puede ser técnico.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCONOCIMIENTOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModelamiento de datos (relacional, dimensional, Data Vault) – nivel avanzado.\u003c/li\u003e \u003cli\u003eArquitectura de Data Warehouse, Data Lake y/o Lakehouse – nivel avanzado.\u003c/li\u003e \u003cli\u003eSQL Server, Azure Synapse, BigQuery, Python u otros motores modernos – nivel avanzado.\u003c/li\u003e \u003cli\u003eIntegración y normalización de fuentes diversas (CRM, ERP, Contact Center, LMS, plataformas de ventas).\u003c/li\u003e \u003cli\u003eDocumentación de flujos de datos, diccionarios, metadatos y reglas de negocio.\u003c/li\u003e \u003cli\u003eDeseable: arquitecturas cloud (Azure, AWS, GCP, Databricks y Microsoft Fabric).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eEXPERIENCIA:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 2 años en ingeniería, modelamiento o arquitectura de datos en contextos comerciales, incluyendo el diseño de modelos de datos corporativos, proyectos de integración de múltiples sistemas y arquitecturas modernas (AWS, Azure, GCP, Databricks o Microsoft Fabric).\u003c/li\u003e \u003cli\u003eDeseable: experiencia en migraciones cloud y en iniciativas de gobierno y calidad de datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDefinir y gestionar el roadmap de productos de datos comerciales\u003c/p\u003e\u003cul\u003e \u003cli\u003eIdentificar las necesidades de información del área Comercial y priorizar iniciativas de datos.\u003c/li\u003e \u003cli\u003eEjecutar el roadmap de datos alineado a los objetivos estratégicos del negocio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eDiseñar la arquitectura de datos y modelos orientados al negocio\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar modelos de datos dimensionales, estructuras y reglas de negocio para los procesos comerciales (ventas, clientes, campañas, canales).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eDocumentar y estandarizar flujos de datos y definiciones comerciales\u003c/p\u003e\u003cul\u003e \u003cli\u003eDocumentar entidades, métricas, KPIs, transformaciones y flujos, generando diccionarios de datos y glosarios de negocio.\u003c/li\u003e \u003cli\u003eEstablecer estándares de nomenclatura y trazabilidad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRevisar, aprobar y supervisar integraciones de datos comerciales\u003c/p\u003e\u003cul\u003e \u003cli\u003eConstruir la orquestación de ETLs/ELTs y pipelines, asegurando que cumplan con los estándares definidos.\u003c/li\u003e \u003cli\u003eControlar la calidad e integridad de los datos provenientes de CRM, ERP, Contact Center y otras fuentes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSer el puente entre el negocio y la tecnología de datos\u003c/p\u003e\u003cul\u003e \u003cli\u003eTraducir las necesidades de las áreas comerciales en requerimientos de datos.\u003c/li\u003e \u003cli\u003ePromover la cultura data-driven y la adopción de los productos de datos.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "* Bachiller o titulado en Ingeniería de Sistemas, Informática, Software o afines",
+    "herramientas":  "* Modelamiento de datos (relacional, dimensional, Data Vault) – nivel avanzado",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

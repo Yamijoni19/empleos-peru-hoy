@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118499168",
+    "clave":  "id:1118499168",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-ingenieria-civil-1118499168.html",
+                   "capturadoEn":  "2026-10-29T00:56:38+00:00"
+               },
+    "titulo":  "Practicante Profesional de Ingeniería Civil",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Practicante Profesional de Ingeniería Civil Resumen del Puesto Buscamos un Practicante Profesional de Ingeniería Civil para brindar apoyo al Ingeniero Proyectista en un proyecto de remodelación de edificaciones. El candidato ideal tendrá interés en adquirir experiencia práctica en proyectos de remodelación y edificaciones, demostrando responsabilidad, organización y proactividad. Responsabilidades Brindar apoyo al Ingeniero Proyectista en el desarrollo de proyectos de remodelación. Colaborar en la lectura y modificación de planos 2D. Asistir en la gestión de documentación técnica relacionada con el proyecto. Participar en la elaboración de informes y seguimientos del avance del proyecto. Requisitos Egresado de la carrera de Ingenieria Civil. Manejo de Auto CAD a nivel intermedio. Conocimientos de lectura y modificación de planos 2D. Manejo de Microsoft Excel a nivel intermedio. Persona responsable, organizada y proactiva. Interés en adquirir experiencia práctica en proyectos de remodelación y edificaciones.",
+    "requisitos":  [
+                       "Egresado de la carrera de Ingenieria Civil",
+                       "Manejo de Auto CAD a nivel intermedio",
+                       "Conocimientos de lectura y modificación de planos 2D",
+                       "Manejo de Microsoft Excel a nivel intermedio",
+                       "Persona responsable, organizada y proactiva",
+                       "Interés en adquirir experiencia práctica en proyectos de remodelación y edificaciones"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-ingenieria-civil-1118499168.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-ingenieria-civil-1118499168.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePracticante Profesional de Ingeniería Civil\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003ePracticante Profesional de Ingeniería Civil\u003c/strong\u003e para brindar apoyo al Ingeniero Proyectista en un proyecto de remodelación de edificaciones. El candidato ideal tendrá interés en adquirir experiencia práctica en proyectos de remodelación y edificaciones, demostrando responsabilidad, organización y proactividad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar apoyo al Ingeniero Proyectista en el desarrollo de proyectos de remodelación.\u003c/li\u003e \u003cli\u003eColaborar en la lectura y modificación de planos 2D.\u003c/li\u003e \u003cli\u003eAsistir en la gestión de documentación técnica relacionada con el proyecto.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de informes y seguimientos del avance del proyecto.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado de la carrera de Ingenieria Civil.\u003c/li\u003e \u003cli\u003eManejo de Auto CAD a nivel intermedio.\u003c/li\u003e \u003cli\u003eConocimientos de lectura y modificación de planos 2D.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003ePersona responsable, organizada y proactiva.\u003c/li\u003e \u003cli\u003eInterés en adquirir experiencia práctica en proyectos de remodelación y edificaciones.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
