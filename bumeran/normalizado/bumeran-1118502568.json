@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118502568",
+    "clave":  "id:1118502568",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-1118502568.html",
+                   "capturadoEn":  "2026-10-30T19:21:57+00:00"
+               },
+    "titulo":  "Asistente de Ventas",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Asistente de Ventas Resumen del Puesto Nos encontramos en la búsqueda de un/a Asistente de Ventas con formación en Hotelería o carreras afines. Buscamos a una persona con excelentes habilidades de comunicación, tanto oral como escrita, y con un nivel intermedio de inglés. Responsabilidades Brindar soporte al equipo de ventas en diversas tareas administrativas y operativas. Gestionar la comunicación con clientes y prospectos, asegurando una experiencia positiva. Colaborar en la preparación de informes y presentaciones comerciales. Mantener actualizada la información de clientes y ventas en el sistema CRM. Apoyar en la organización y seguimiento de actividades comerciales. Requisitos Formación en Hotelería o carreras afines. Dominio de herramientas de ofimática, especialmente Excel, a nivel intermedio. Nivel intermedio de idioma inglés. Conocimiento de sistemas CRM (deseable). Experiencia mínima de 1 año en roles similares. Excelentes habilidades de comunicación oral y escrita. Capacidad para trabajar en equipo y de forma organizada.",
+    "requisitos":  [
+                       "Formación en Hotelería o carreras afines",
+                       "Dominio de herramientas de ofimática, especialmente Excel, a nivel intermedio",
+                       "Nivel intermedio de idioma inglés",
+                       "Conocimiento de sistemas CRM (deseable)",
+                       "Experiencia mínima de 1 año en roles similares",
+                       "Excelentes habilidades de comunicación oral y escrita",
+                       "Capacidad para trabajar en equipo y de forma organizada"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-1118502568.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-ventas-1118502568.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente de Ventas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un/a \u003cstrong\u003eAsistente de Ventas\u003c/strong\u003e con formación en Hotelería o carreras afines. Buscamos a una persona con excelentes habilidades de comunicación, tanto oral como escrita, y con un nivel intermedio de inglés.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte al equipo de ventas en diversas tareas administrativas y operativas.\u003c/li\u003e \u003cli\u003eGestionar la comunicación con clientes y prospectos, asegurando una experiencia positiva.\u003c/li\u003e \u003cli\u003eColaborar en la preparación de informes y presentaciones comerciales.\u003c/li\u003e \u003cli\u003eMantener actualizada la información de clientes y ventas en el sistema CRM.\u003c/li\u003e \u003cli\u003eApoyar en la organización y seguimiento de actividades comerciales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación en Hotelería o carreras afines.\u003c/li\u003e \u003cli\u003eDominio de herramientas de ofimática, especialmente Excel, a nivel intermedio.\u003c/li\u003e \u003cli\u003eNivel intermedio de idioma inglés.\u003c/li\u003e \u003cli\u003eConocimiento de sistemas CRM (deseable).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en roles similares.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación oral y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y de forma organizada.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118502592",
+    "clave":  "id:1118502592",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/azafata-o-de-atencion-al-publico-valle-sabroso-1118502592.html",
+                   "capturadoEn":  "2026-10-30T19:21:41+00:00"
+               },
+    "titulo":  "Azafata/o de Atención al Público",
+    "empresa":  "VALLE SABROSO",
+    "ubicacion":  "Arequipa - Cocachacra",
+    "ciudad":  "Cocachacra",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Azufata/o de Atención al Público Resumen del Puesto Estamos en la búsqueda de un/a Azufata/o de Atención al Público con excelente trato y experiencia en el sector de alimentos y bebidas. El candidato ideal será responsable de brindar un servicio de calidad a nuestros clientes, manteniendo un ambiente de trabajo agradable y eficiente. Responsabilidades Atención cordial y eficiente a clientes y empresas. Mantenimiento y limpieza del área de trabajo. Preparación y habilitación de insumos necesarios para la atención. Colaboración con el equipo para asegurar la satisfacción del cliente. Requisitos Experiencia previa en atención al público, preferentemente en el sector gastronómico. Excelentes habilidades de comunicación y trato interpersonal. Capacidad para trabajar en un entorno dinámico y con horarios rotativos. Proactividad y disposición para el trabajo en equipo. Responsabilidad y atención al detalle en las tareas asignadas.",
+    "requisitos":  [
+                       "Experiencia previa en atención al público, preferentemente en el sector gastronómico",
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Capacidad para trabajar en un entorno dinámico y con horarios rotativos",
+                       "Proactividad y disposición para el trabajo en equipo",
+                       "Responsabilidad y atención al detalle en las tareas asignadas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/azafata-o-de-atencion-al-publico-valle-sabroso-1118502592.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/azafata-o-de-atencion-al-publico-valle-sabroso-1118502592.html",
+    "descripcion_html":  "\u003cb\u003eAzufata/o de Atención al Público\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un/a \u003cb\u003eAzufata/o de Atención al Público\u003c/b\u003e con excelente trato y experiencia en el sector de alimentos y bebidas. El candidato ideal será responsable de brindar un servicio de calidad a nuestros clientes, manteniendo un ambiente de trabajo agradable y eficiente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtención cordial y eficiente a clientes y empresas.\u003c/li\u003e \u003cli\u003eMantenimiento y limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003ePreparación y habilitación de insumos necesarios para la atención.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para asegurar la satisfacción del cliente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en atención al público, preferentemente en el sector gastronómico.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno dinámico y con horarios rotativos.\u003c/li\u003e \u003cli\u003eProactividad y disposición para el trabajo en equipo.\u003c/li\u003e \u003cli\u003eResponsabilidad y atención al detalle en las tareas asignadas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

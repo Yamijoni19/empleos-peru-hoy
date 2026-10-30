@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118502591",
+    "clave":  "id:1118502591",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenero-y-reparto-intidata-group-1118502591.html",
+                   "capturadoEn":  "2026-10-30T19:21:44+00:00"
+               },
+    "titulo":  "Almacenero y Reparto",
+    "empresa":  "INTIDATA GROUP",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Almacenero y Reparto Resumen del Puesto Buscamos incorporar a nuestro equipo a un Almacenero y Reparto con experiencia en el sector ferretero o de distribución. El candidato ideal poseerá conocimientos de inventario y logística, además de una actitud proactiva y orientada al servicio. Responsabilidades Recepción, almacenamiento y control de inventario de productos. Preparación de pedidos y despacho de mercadería. Realización de entregas y recorridos de reparto. Mantenimiento del orden y limpieza del área de almacén. Colaboración con otros equipos para asegurar la eficiencia operativa. Requisitos Experiencia previa en puestos similares (almacén, reparto, ferretería, distribución). Conocimiento de productos del rubro ferretero. Habilidad para el conteo de inventario y manejo de guías de remisión. Secundaria completa o estudios técnicos. Disponibilidad para trabajar en horario completo de lunes a sábado. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares (almacén, reparto, ferretería, distribución)",
+                       "Conocimiento de productos del rubro ferretero",
+                       "Habilidad para el conteo de inventario y manejo de guías de remisión",
+                       "Secundaria completa o estudios técnicos",
+                       "Disponibilidad para trabajar en horario completo de lunes a sábado",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/almacenero-y-reparto-intidata-group-1118502591.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenero-y-reparto-intidata-group-1118502591.html",
+    "descripcion_html":  "\u003cb\u003eAlmacenero y Reparto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos incorporar a nuestro equipo a un \u003cb\u003eAlmacenero y Reparto\u003c/b\u003e con experiencia en el sector ferretero o de distribución. El candidato ideal poseerá conocimientos de inventario y logística, además de una actitud proactiva y orientada al servicio.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRecepción, almacenamiento y control de inventario de productos.\u003c/li\u003e \u003cli\u003ePreparación de pedidos y despacho de mercadería.\u003c/li\u003e \u003cli\u003eRealización de entregas y recorridos de reparto.\u003c/li\u003e \u003cli\u003eMantenimiento del orden y limpieza del área de almacén.\u003c/li\u003e \u003cli\u003eColaboración con otros equipos para asegurar la eficiencia operativa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares (almacén, reparto, ferretería, distribución).\u003c/li\u003e \u003cli\u003eConocimiento de productos del rubro ferretero.\u003c/li\u003e \u003cli\u003eHabilidad para el conteo de inventario y manejo de guías de remisión.\u003c/li\u003e \u003cli\u003eSecundaria completa o estudios técnicos.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario completo de lunes a sábado.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
