@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118502609",
+    "clave":  "id:1118502609",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-y-reparto-ergoclass-1118502609.html",
+                   "capturadoEn":  "2026-10-30T14:08:27+00:00"
+               },
+    "titulo":  "Auxiliar de Almacén y Reparto",
+    "empresa":  "ERGOCLASS",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Almacén y Reparto Resumen del Puesto Buscamos personal responsable, proactivo y comprometido para integrarse a nuestro equipo como Auxiliar de Almacén y Reparto . El candidato ideal tendrá una actitud positiva y disposición para el trabajo físico y logístico. Responsabilidades Recepción, revisión y organización de mercadería. Preparación y despacho de pedidos. Carga y descarga de productos. Reparto y entrega de mercadería a clientes. Apoyo en el control de inventario. Mantener el orden y limpieza del área de trabajo. Requisitos Experiencia previa en funciones de almacén y reparto (deseable). Buena condición física para la manipulación de carga. Demostrar responsabilidad, puntualidad y capacidad para el trabajo en equipo. Conocimiento de rutas (deseable). Disponibilidad para laborar en horarios establecidos. Ofrecemos Remuneración acorde al mercado. Beneficios laborales. Un buen ambiente de trabajo. Oportunidades de desarrollo profesional.",
+    "requisitos":  [
+                       "Experiencia previa en"
+                   ],
+    "funciones":  [
+                      "de almacén y reparto (deseable)",
+                      "Buena condición física para la manipulación de carga",
+                      "Demostrar responsabilidad, puntualidad y capacidad para el trabajo en equipo",
+                      "Conocimiento de rutas (deseable)",
+                      "Disponibilidad para laborar en horarios establecidos"
+                  ],
+    "beneficios":  [
+                       "laborales",
+                       "Un buen ambiente de trabajo",
+                       "Oportunidades de desarrollo profesional"
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-y-reparto-ergoclass-1118502609.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-y-reparto-ergoclass-1118502609.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar de Almacén y Reparto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personal responsable, proactivo y comprometido para integrarse a nuestro equipo como \u003cb\u003eAuxiliar de Almacén y Reparto\u003c/b\u003e. El candidato ideal tendrá una actitud positiva y disposición para el trabajo físico y logístico.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRecepción, revisión y organización de mercadería.\u003c/li\u003e \u003cli\u003ePreparación y despacho de pedidos.\u003c/li\u003e \u003cli\u003eCarga y descarga de productos.\u003c/li\u003e \u003cli\u003eReparto y entrega de mercadería a clientes.\u003c/li\u003e \u003cli\u003eApoyo en el control de inventario.\u003c/li\u003e \u003cli\u003eMantener el orden y limpieza del área de trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en funciones de almacén y reparto (deseable).\u003c/li\u003e \u003cli\u003eBuena condición física para la manipulación de carga.\u003c/li\u003e \u003cli\u003eDemostrar responsabilidad, puntualidad y capacidad para el trabajo en equipo.\u003c/li\u003e \u003cli\u003eConocimiento de rutas (deseable).\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en horarios establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eBeneficios laborales.\u003c/li\u003e \u003cli\u003eUn buen ambiente de trabajo.\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo profesional.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

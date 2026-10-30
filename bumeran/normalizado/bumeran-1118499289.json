@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118499289",
+    "clave":  "id:1118499289",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-instalador-cctv-y-redes-rosa-astupina-figueroa-1118499289.html",
+                   "capturadoEn":  "2026-10-30T14:07:41+00:00"
+               },
+    "titulo":  "técnico instalador cctv y redes",
+    "empresa":  "Rosa Astupiña Figueroa",
+    "ubicacion":  "Lima - Villa María del Triunfo",
+    "ciudad":  "Villa María del Triunfo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1100,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,100 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico Ayudante de Instalación CCTV y Redes Requisitos: - Experiencia básica en instalación de cámaras CCTV y redes LAN. - Conocimientos básicos de electricidad. - Responsabilidad, puntualidad y disposición para aprender. - Indispensable y no negociable: residir en Villa María del Triunfo o San Juan de Miraflores. - Exclusivo para postulantes de nacionalidad peruana. Postulación: Enviar CV actualizado.",
+    "requisitos":  [
+                       "Experiencia básica en instalación de cámaras CCTV y redes LAN. - Conocimientos básicos de electricidad. - Responsabilidad, puntualidad y disposición para aprender. - Indispensable y no negociable: residir en Villa María del Triunfo o San Juan de Miraflores. - Exclusivo para postulantes de nacionalidad peruana. Postulación: Enviar CV actualizado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-instalador-cctv-y-redes-rosa-astupina-figueroa-1118499289.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-instalador-cctv-y-redes-rosa-astupina-figueroa-1118499289.html",
+    "descripcion_html":  "\u003cp\u003eTécnico Ayudante de Instalación CCTV y Redes Requisitos: - Experiencia básica en instalación de cámaras CCTV y redes LAN. - Conocimientos básicos de electricidad. - Responsabilidad, puntualidad y disposición para aprender. - Indispensable y no negociable: residir en Villa María del Triunfo o San Juan de Miraflores. - Exclusivo para postulantes de nacionalidad peruana. Postulación: Enviar CV actualizado.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

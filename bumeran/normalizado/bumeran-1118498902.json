@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118498902",
+    "clave":  "id:1118498902",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-frontend-jr-react-remoto-hiredevssoc-1118498902.html",
+                   "capturadoEn":  "2026-10-30T14:07:45+00:00"
+               },
+    "titulo":  "Desarrollador Frontend Jr (React) - Remoto",
+    "empresa":  "HireDevsSoc",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Desarrollador Frontend Jr (React) - Startup en fase inicial Resumen del Puesto Estamos construyendo un startup en etapa inicial y buscamos un Desarrollador Frontend Jr con bases sólidas en React para sumarse al equipo y ayudar a desarrollar la interfaz del producto, trabajando directamente con el fundador. La modalidad es 1 0 0% remota, freelance, con contrato por escrito antes de empezar. Es una buena oportunidad para ganar experiencia en un proyecto real. Responsabilidades - Desarrollar componentes de interfaz en React a partir de diseños y requerimientos. - Maquetar vistas responsivas para desktop y móvil. - Consumir APIs REST con apoyo del equipo. - Corregir errores y mejorar detalles de la interfaz. - Aprender y aplicar buenas prácticas de código y control de versiones. Requisitos y Habilidades Deseables componentes, hooks básicos, estado). - JavaScript (ES 6+), HTML 5 y CSS 3. - Nociones de consumo de APIs REST. - Manejo básico de Git y GitHub. - Se valorará Tailwind CSS o Bootstrap, y TypeScript. - Se consideran proyectos personales o académicos como experiencia. - GitHub o portafolio con al menos un proyecto propio. - Conexión a internet estable y equipo propio. - Ganas de aprender y buena comunicación. Proceso de Selección - Envía tu CV o tu perfil de GitHub. - Resuelve una prueba técnica corta (máximo 6 0 minutos, proyecto independiente). - Entrevista breve con el equipo. - Firma de contrato e inicio de labores.",
+    "requisitos":  [
+                       "y Habilidades Deseables componentes, hooks básicos, estado). - JavaScript (ES 6+), HTML 5 y CSS 3. - Nociones de consumo de APIs REST. - Manejo básico de Git y GitHub. - Se valorará Tailwind CSS o Bootstrap, y TypeScript. - Se consideran proyectos personales o académicos como experiencia. - GitHub o portafolio con al menos un proyecto propio. - Conexión a internet estable y equipo propio. - Ganas de aprender y buena comunicación. Proceso de Selección - Envía tu CV o tu"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-frontend-jr-react-remoto-hiredevssoc-1118498902.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-frontend-jr-react-remoto-hiredevssoc-1118498902.html",
+    "descripcion_html":  "\u003cp\u003eDesarrollador Frontend Jr (React) - Startup en fase inicial Resumen del Puesto Estamos construyendo un startup en etapa inicial y buscamos un Desarrollador Frontend Jr con bases sólidas en React para sumarse al equipo y ayudar a desarrollar la interfaz del producto, trabajando directamente con el fundador. La modalidad es \u0026#x31; \u0026#x30; \u0026#x30;% remota, freelance, con contrato por escrito antes de empezar. Es una buena oportunidad para ganar experiencia en un proyecto real. Responsabilidades - Desarrollar componentes de interfaz en React a partir de diseños y requerimientos. - Maquetar vistas responsivas para desktop y móvil. - Consumir APIs REST con apoyo del equipo. - Corregir errores y mejorar detalles de la interfaz. - Aprender y aplicar buenas prácticas de código y control de versiones. Requisitos y Habilidades Deseables componentes, hooks básicos, estado). - JavaScript (ES \u0026#x36;+), HTML \u0026#x35; y CSS \u0026#x33;. - Nociones de consumo de APIs REST. - Manejo básico de Git y GitHub. - Se valorará Tailwind CSS o Bootstrap, y TypeScript. - Se consideran proyectos personales o académicos como experiencia. - GitHub o portafolio con al menos un proyecto propio. - Conexión a internet estable y equipo propio. - Ganas de aprender y buena comunicación. Proceso de Selección - Envía tu CV o tu perfil de GitHub. - Resuelve una prueba técnica corta (máximo \u0026#x36; \u0026#x30; minutos, proyecto independiente). - Entrevista breve con el equipo. - Firma de contrato e inicio de labores.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

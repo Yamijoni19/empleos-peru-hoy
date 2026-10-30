@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118502630",
+    "clave":  "id:1118502630",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-tesoreria-tempano-1118502630.html",
+                   "capturadoEn":  "2026-10-30T14:07:56+00:00"
+               },
+    "titulo":  "Auxiliar de Tesorería",
+    "empresa":  "Tempano",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1430,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,430",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Tesorería Resumen del Puesto Buscamos un Auxiliar de Tesorería para integrarse a nuestro equipo administrativo y apoyar la gestión financiera diaria, asegurando el correcto control de ingresos, pagos y conciliaciones bancarias. Responsabilidades Administrar y controlar la caja chica, caja ingresos asegurando rendiciones precisas. Revisar y validar los ingresos diarios de la organización. Manejar los sistemas internos de registro contable. Elaborar la planilla de cobranzas y administrar pagos en efectivo. Controlar y conciliar el sistema con los movimientos bancarios. Realizar liquidaciones de abonos y reportes de control. Verificar los pagos de clientes versus los ingresos registrados en bancos. Mantener comunicación efectiva con las jefaturas del área y el equipo de ventas. Apoyar en otras tareas asignadas por la jefatura de Tesorería. Requisitos Estudios técnicos en Contabilidad o Administración. Experiencia mínima: 2 a 3 años en posiciones similares. Sólidos conocimientos en control de caja y conciliaciones bancarias. Capacidad para el manejo de sistemas de registro contable. Habilidades de organización y atención al detalle. Buenas habilidades de comunicación y trabajo en equipo.",
+    "requisitos":  [
+                       "Estudios técnicos en Contabilidad o Administración",
+                       "Experiencia mínima: 2 a 3 años en posiciones similares",
+                       "Sólidos conocimientos en control de caja y conciliaciones bancarias",
+                       "Capacidad para el manejo de sistemas de registro contable",
+                       "Habilidades de organización y atención al detalle",
+                       "Buenas habilidades de comunicación y trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-tesoreria-tempano-1118502630.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-tesoreria-tempano-1118502630.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar de Tesorería\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAuxiliar de Tesorería\u003c/b\u003e para integrarse a nuestro equipo administrativo y apoyar la gestión financiera diaria, asegurando el correcto control de ingresos, pagos y conciliaciones bancarias.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAdministrar y controlar la caja chica, caja ingresos asegurando rendiciones precisas.\u003c/li\u003e \u003cli\u003eRevisar y validar los ingresos diarios de la organización.\u003c/li\u003e \u003cli\u003eManejar los sistemas internos de registro contable.\u003c/li\u003e \u003cli\u003eElaborar la planilla de cobranzas y administrar pagos en efectivo.\u003c/li\u003e \u003cli\u003eControlar y conciliar el sistema con los movimientos bancarios.\u003c/li\u003e \u003cli\u003eRealizar liquidaciones de abonos y reportes de control.\u003c/li\u003e \u003cli\u003eVerificar los pagos de clientes versus los ingresos registrados en bancos.\u003c/li\u003e \u003cli\u003eMantener comunicación efectiva con las jefaturas del área y el equipo de ventas.\u003c/li\u003e \u003cli\u003eApoyar en otras tareas asignadas por la jefatura de Tesorería.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudios técnicos en Contabilidad o Administración.\u003c/li\u003e \u003cli\u003eExperiencia mínima: 2 a 3 años en posiciones similares.\u003c/li\u003e \u003cli\u003eSólidos conocimientos en control de caja y conciliaciones bancarias.\u003c/li\u003e \u003cli\u003eCapacidad para el manejo de sistemas de registro contable.\u003c/li\u003e \u003cli\u003eHabilidades de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118502616",
+    "clave":  "id:1118502616",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-y-cobranzas-sector-salud-rcs-capital-humano-1118502616.html",
+                   "capturadoEn":  "2026-10-30T14:08:09+00:00"
+               },
+    "titulo":  "Asistente de Facturación y Cobranzas - Sector Salud",
+    "empresa":  "RCS Capital Humano",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, empresa líder en su sector, nos encontramos en la búsqueda de un Asistente de Facturación y Cobranza para integrarse a su equipo administrativo. Requisitos Técnico en Administración de Empresas o carreras afines. Experiencia mínima de 2 años en facturación y cobranza. Manejo básico de MS Excel. Funciones principales Facturación de exámenes medicos y medicamentos Facturación de servicios a través de valorizados que se presentan al cliente Facturación de EPS Control y archivo de contrato con clientes Apoya al Jefe del area en las funciones que se le requiera Beneficios Ingreso a planilla con todos los beneficios de ley. Estabilidad laboral en empresa sólida y reconocida. Oportunidad de aprendizaje y desarrollo en gestión administrativa.",
+    "requisitos":  [
+                       "Técnico en Administración de Empresas o carreras afines",
+                       "Experiencia mínima de 2 años en facturación y cobranza",
+                       "Manejo básico de MS Excel"
+                   ],
+    "funciones":  [
+                      "que se le requiera"
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Estabilidad laboral en empresa sólida y reconocida",
+                       "Oportunidad de aprendizaje y desarrollo en gestión administrativa"
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-y-cobranzas-sector-salud-rcs-capital-humano-1118502616.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-y-cobranzas-sector-salud-rcs-capital-humano-1118502616.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, empresa líder en su sector, nos encontramos en la búsqueda de un \u003cstrong\u003eAsistente de Facturación y Cobranza\u003c/strong\u003e para integrarse a su equipo administrativo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico en Administración de Empresas o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en facturación y cobranza.\u003c/li\u003e \u003cli\u003eManejo básico de MS Excel.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003col\u003e \u003cli\u003eFacturación de exámenes medicos y medicamentos\u003c/li\u003e \u003cli\u003eFacturación de servicios a través de valorizados que se presentan al cliente\u003c/li\u003e \u003cli\u003eFacturación de EPS\u003c/li\u003e \u003cli\u003eControl y archivo de contrato con clientes\u003c/li\u003e \u003cli\u003eApoya al Jefe del area en las funciones que se le requiera\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eEstabilidad laboral en empresa sólida y reconocida.\u003c/li\u003e \u003cli\u003eOportunidad de aprendizaje y desarrollo en gestión administrativa.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

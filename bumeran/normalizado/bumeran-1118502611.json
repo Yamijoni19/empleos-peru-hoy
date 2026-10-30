@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118502611",
+    "clave":  "id:1118502611",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutiva-de-ventas-digitales-y-redes-sociales-ergoclass-1118502611.html",
+                   "capturadoEn":  "2026-10-30T14:08:23+00:00"
+               },
+    "titulo":  "Ejecutiva de Ventas Digitales y Redes Sociales",
+    "empresa":  "ERGOCLASS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ejecutiva de Ventas Digitales y Redes Sociales Resumen del Puesto Buscamos una persona dinámica, carismática y orientada a resultados para unirse a nuestro equipo comercial como Ejecutiva de Ventas Digitales y Redes Sociales . El rol principal será impulsar las ventas a través de canales digitales y gestionar la presencia en redes sociales. Responsabilidades Realizar transmisiones en vivo para promocionar productos y servicios. Atender consultas de clientes y concretar ventas a través de plataformas digitales y redes sociales. Asesorar a los clientes y realizar un seguimiento comercial efectivo. Colaborar en la creación y ejecución de contenido para redes sociales. Requisitos Buena presencia e imagen profesional. Facilidad de palabra y desenvolvimiento frente a cámaras. Experiencia previa en ventas y atención al cliente. Dominio en el manejo de redes sociales y herramientas de comunicación digital. Proactividad y una fuerte orientación a la consecución de objetivos. Ofrecemos Remuneración competitiva que incluye sueldo fijo, comisiones e incentivos. Oportunidad de desarrollo profesional y crecimiento dentro de la organización. Un ambiente de trabajo colaborativo y dinámico.",
+    "requisitos":  [
+                       "Buena presencia e imagen profesional",
+                       "Facilidad de palabra y desenvolvimiento frente a cámaras",
+                       "Experiencia previa en ventas y atención al cliente",
+                       "Dominio en el manejo de redes sociales y herramientas de comunicación digital",
+                       "Proactividad y una fuerte orientación a la consecución de objetivos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutiva-de-ventas-digitales-y-redes-sociales-ergoclass-1118502611.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutiva-de-ventas-digitales-y-redes-sociales-ergoclass-1118502611.html",
+    "descripcion_html":  "\u003cb\u003eEjecutiva de Ventas Digitales y Redes Sociales\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una persona dinámica, carismática y orientada a resultados para unirse a nuestro equipo comercial como \u003cb\u003eEjecutiva de Ventas Digitales y Redes Sociales\u003c/b\u003e. El rol principal será impulsar las ventas a través de canales digitales y gestionar la presencia en redes sociales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar transmisiones en vivo para promocionar productos y servicios.\u003c/li\u003e \u003cli\u003eAtender consultas de clientes y concretar ventas a través de plataformas digitales y redes sociales.\u003c/li\u003e \u003cli\u003eAsesorar a los clientes y realizar un seguimiento comercial efectivo.\u003c/li\u003e \u003cli\u003eColaborar en la creación y ejecución de contenido para redes sociales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eBuena presencia e imagen profesional.\u003c/li\u003e \u003cli\u003eFacilidad de palabra y desenvolvimiento frente a cámaras.\u003c/li\u003e \u003cli\u003eExperiencia previa en ventas y atención al cliente.\u003c/li\u003e \u003cli\u003eDominio en el manejo de redes sociales y herramientas de comunicación digital.\u003c/li\u003e \u003cli\u003eProactividad y una fuerte orientación a la consecución de objetivos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva que incluye sueldo fijo, comisiones e incentivos.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollo profesional y crecimiento dentro de la organización.\u003c/li\u003e \u003cli\u003eUn ambiente de trabajo colaborativo y dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118502607",
+    "clave":  "id:1118502607",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/senior-l3-application-support-engineer-remoto-code-1118502607.html",
+                   "capturadoEn":  "2026-10-30T14:08:30+00:00"
+               },
+    "titulo":  "Senior L3 Application Support Engineer (Remoto)",
+    "empresa":  "CODE",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  7000,
+                    "max":  12000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 7,000 - S/ 12,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Senior L3 Application Support Engineer (Remoto) Resumen del Puesto Buscamos un experimentado Senior L3 Application Support Engineer para unirse a nuestro equipo de soporte de aplicaciones. El candidato ideal será responsable de gestionar incidencias de usuarios de principio a fin, diagnosticando problemas en bases de datos y logs, corrigiendo datos y aplicando correcciones menores de código. Las tareas de mayor alcance serán escaladas al equipo de desarrollo con el diagnóstico previo realizado. Responsabilidades Proporcionar soporte de nivel 3 a una plataforma logística de alcance regional, asumiendo la responsabilidad sobre incidentes en producción. Analizar la causa raíz de los problemas en SQL Server y en servicios Java/Spring Boot. Coordinar las correcciones necesarias con los equipos de desarrollo. Gestionar incidentes y problemas siguiendo las mejores prácticas (ITIL). Mantener una comunicación clara y efectiva con las áreas de negocio. Requisitos Más de 5 años de experiencia en soporte de aplicaciones, con experiencia demostrable en entornos de producción. Dominio de SQL Server. Experiencia sólida en Java y Spring Boot. Fluidez en idioma inglés. Capacidad para trabajar de forma autónoma y como parte de un equipo. Excelentes habilidades analíticas y de resolución de problemas.",
+    "requisitos":  [
+                       "Más de 5 años de experiencia en soporte de aplicaciones, con experiencia demostrable en entornos de producción",
+                       "Dominio de SQL Server",
+                       "Experiencia sólida en Java y Spring Boot",
+                       "Fluidez en idioma inglés",
+                       "Capacidad para trabajar de forma autónoma y como parte de un equipo",
+                       "Excelentes habilidades analíticas y de resolución de problemas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/senior-l3-application-support-engineer-remoto-code-1118502607.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/senior-l3-application-support-engineer-remoto-code-1118502607.html",
+    "descripcion_html":  "\u003cb\u003eSenior L3 Application Support Engineer (Remoto)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un experimentado \u003cb\u003eSenior L3 Application Support Engineer\u003c/b\u003e para unirse a nuestro equipo de soporte de aplicaciones. El candidato ideal será responsable de gestionar incidencias de usuarios de principio a fin, diagnosticando problemas en bases de datos y logs, corrigiendo datos y aplicando correcciones menores de código. Las tareas de mayor alcance serán escaladas al equipo de desarrollo con el diagnóstico previo realizado.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eProporcionar soporte de nivel 3 a una plataforma logística de alcance regional, asumiendo la responsabilidad sobre incidentes en producción.\u003c/li\u003e \u003cli\u003eAnalizar la causa raíz de los problemas en SQL Server y en servicios Java/Spring Boot.\u003c/li\u003e \u003cli\u003eCoordinar las correcciones necesarias con los equipos de desarrollo.\u003c/li\u003e \u003cli\u003eGestionar incidentes y problemas siguiendo las mejores prácticas (ITIL).\u003c/li\u003e \u003cli\u003eMantener una comunicación clara y efectiva con las áreas de negocio.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eMás de 5 años de experiencia en soporte de aplicaciones, con experiencia demostrable en entornos de producción.\u003c/li\u003e \u003cli\u003eDominio de SQL Server.\u003c/li\u003e \u003cli\u003eExperiencia sólida en Java y Spring Boot.\u003c/li\u003e \u003cli\u003eFluidez en idioma inglés.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y como parte de un equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades analíticas y de resolución de problemas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
