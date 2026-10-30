@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118500787",
+    "clave":  "id:1118500787",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500787.html",
+                   "capturadoEn":  "2026-10-30T07:06:12+00:00"
+               },
+    "titulo":  "Operador de Camión de Acarreo",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Ica",
+    "ciudad":  "Ica",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-28",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500787.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500787.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 03 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "28/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

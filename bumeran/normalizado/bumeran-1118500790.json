@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118500790",
+    "clave":  "id:1118500790",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-lurin-qsi-1118500790.html",
+                   "capturadoEn":  "2026-10-30T07:06:07+00:00"
+               },
+    "titulo":  "Operario de Producción - LURIN",
+    "empresa":  "QSI",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Chryso antes QSI Productos para la Construcción es una empresa transnacional dedidaca a la producción y comercialización de aditivos y equipos para la construcción. Brindamos asesoría y productos de la más alta calidad para los rubros de construcción, minería, industrias y textil. Disponibilidad para laborar en LURIN - KM40 Realizar el proceso de producción según la instrucción de manufactura. Envasar el producto según lo indicado en la Instrucción de manufactura. Trasladar los productos terminados (envasados, rotulados) a la zona correspondiente. Llenar correctamente los registros de la Instrucción de Manufactura Mantener limpia el área de trabajo. Requisitos: Nivel mínimo: Secundaria completa No menor a un (01) año en puestos similares. Experiencia en plantas de producción Beneficios Todos los beneficios de ley Tarjeta de Alimentos Movilidad de traslado a planta lurin Horario rotativo de Lunes a Viernes de 7:00 am a 5:00 pm y Lunes a Jueves de 7:00 pm a 7:00 am (Bono nocturno) Seguro AMC cubierto al 75% y Eps al 65%",
+    "requisitos":  [
+                       "Nivel mínimo: Secundaria completa",
+                       "No menor a un (01) año en puestos similares",
+                       "Experiencia en plantas de producción"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Tarjeta de Alimentos",
+                       "Movilidad de traslado a planta lurin",
+                       "Horario rotativo de Lunes a Viernes de 7:00 am a 5:00 pm y Lunes a Jueves de 7:00 pm a 7:00 am (Bono nocturno)",
+                       "Seguro AMC cubierto al 75% y Eps al 65%"
+                   ],
+    "fecha_publicacion":  "2026-10-28",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-lurin-qsi-1118500790.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-lurin-qsi-1118500790.html",
+    "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003eChryso antes QSI Productos para la Construcción es una empresa transnacional dedidaca a la producción y comercialización de aditivos y equipos para la construcción. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eBrindamos asesoría y productos de la más alta calidad para los rubros de construcción, minería, industrias y textil.\u003c/span\u003e\u003c/p\u003e \u003cp\u003e \u003c/p\u003e\u003cul\u003e \u003cli style=\"\"\u003eDisponibilidad para laborar en LURIN - KM40\u003c/li\u003e \u003cli style=\"\"\u003eRealizar el proceso de producción según la instrucción de manufactura.\u003c/li\u003e \u003cli style=\"\"\u003eEnvasar el producto según lo indicado en la Instrucción de manufactura.\u003c/li\u003e \u003cli style=\"\"\u003eTrasladar los productos terminados (envasados, rotulados) a la zona correspondiente.\u003c/li\u003e \u003cli style=\"\"\u003eLlenar correctamente los registros de la Instrucción de Manufactura\u003c/li\u003e \u003cli style=\"\"\u003eMantener limpia el área de trabajo.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli style=\"\"\u003eNivel mínimo: Secundaria completa\u003c/li\u003e \u003cli style=\"\"\u003eNo menor a un (01) año en puestos similares.\u003c/li\u003e \u003cli style=\"\"\u003eExperiencia en plantas de producción\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eTodos los beneficios de ley\u003c/li\u003e \u003cli\u003eTarjeta de Alimentos\u003c/li\u003e \u003cli\u003eMovilidad de traslado a planta lurin\u003c/li\u003e \u003cli\u003eHorario rotativo de Lunes a Viernes de 7:00 am a 5:00 pm y Lunes a Jueves de 7:00 pm a 7:00 am (Bono nocturno)\u003c/li\u003e \u003cli\u003eSeguro AMC cubierto al 75% y Eps al 65%\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "28/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

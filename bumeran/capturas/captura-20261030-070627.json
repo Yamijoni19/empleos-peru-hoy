@@ -1,0 +1,1493 @@
+[
+    {
+        "id":  "bumeran-1118500805",
+        "clave":  "id:1118500805",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-switcher-y-transmisiones-audiovisuales-revista-nitro-1118500805.html",
+                       "capturadoEn":  "2026-10-30T07:05:44+00:00"
+                   },
+        "titulo":  "Operador de Switcher y Transmisiones Audiovisuales",
+        "empresa":  "REVISTA NITRO",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1400,
+                        "max":  1500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,400 - S/ 1,500",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Operador de Switcher y Transmisiones Audiovisuales Resumen del Puesto Buscamos un profesional proactivo, detallista y apasionado por la producción audiovisual para unirse a nuestro equipo. El candidato ideal contribuirá a garantizar la calidad técnica y visual de nuestras transmisiones, eventos y producciones institucionales. Responsabilidades Operar el switcher de video durante transmisiones en vivo, conferencias, eventos institucionales y grabaciones. Configurar y verificar previamente señales de cámaras, videos, presentaciones y demás fuentes audiovisuales. Realizar cambios de cámara en tiempo real siguiendo las indicaciones del director o responsable de producción. Gestionar transiciones, overlays y demás elementos gráficos durante las transmisiones. Coordinar permanentemente con director, operadores de audio y personal técnico involucrado. Supervisar la continuidad y calidad visual de las transmisiones y producciones audiovisuales. Operar plataformas de streaming y transmisión según los requerimientos. Requisitos Experiencia comprobable en operación de switchers de video y sistemas de transmisión audiovisual. Conocimiento de equipos de video, audio y redes de transmisión. Capacidad para trabajar bajo presión y en entornos dinámicos. Habilidades de comunicación y coordinación de equipos técnicos. Orientación a la calidad y atención al detalle. Disponibilidad para trabajar en horarios variables según la necesidad de los eventos.",
+        "requisitos":  [
+                           "Experiencia comprobable en operación de switchers de video y sistemas de transmisión audiovisual",
+                           "Conocimiento de equipos de video, audio y redes de transmisión",
+                           "Capacidad para trabajar bajo presión y en entornos dinámicos",
+                           "Habilidades de comunicación y coordinación de equipos técnicos",
+                           "Orientación a la calidad y atención al detalle",
+                           "Disponibilidad para trabajar en horarios variables según la necesidad de los eventos"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-switcher-y-transmisiones-audiovisuales-revista-nitro-1118500805.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-switcher-y-transmisiones-audiovisuales-revista-nitro-1118500805.html",
+        "descripcion_html":  "\u003cb\u003eOperador de Switcher y Transmisiones Audiovisuales\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional proactivo, detallista y apasionado por la producción audiovisual para unirse a nuestro equipo. El candidato ideal contribuirá a garantizar la calidad técnica y visual de nuestras transmisiones, eventos y producciones institucionales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eOperar el switcher de video durante transmisiones en vivo, conferencias, eventos institucionales y grabaciones.\u003c/li\u003e \u003cli\u003eConfigurar y verificar previamente señales de cámaras, videos, presentaciones y demás fuentes audiovisuales.\u003c/li\u003e \u003cli\u003eRealizar cambios de cámara en tiempo real siguiendo las indicaciones del director o responsable de producción.\u003c/li\u003e \u003cli\u003eGestionar transiciones, overlays y demás elementos gráficos durante las transmisiones.\u003c/li\u003e \u003cli\u003eCoordinar permanentemente con director, operadores de audio y personal técnico involucrado.\u003c/li\u003e \u003cli\u003eSupervisar la continuidad y calidad visual de las transmisiones y producciones audiovisuales.\u003c/li\u003e \u003cli\u003eOperar plataformas de streaming y transmisión según los requerimientos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en operación de switchers de video y sistemas de transmisión audiovisual.\u003c/li\u003e \u003cli\u003eConocimiento de equipos de video, audio y redes de transmisión.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y en entornos dinámicos.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y coordinación de equipos técnicos.\u003c/li\u003e \u003cli\u003eOrientación a la calidad y atención al detalle.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios variables según la necesidad de los eventos.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118493043",
+        "clave":  "id:1118493043",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-control-de-costos-k-line-peru-s.a.c.-1118493043.html",
+                       "capturadoEn":  "2026-10-30T07:05:45+00:00"
+                   },
+        "titulo":  "Asistente de Control de Costos",
+        "empresa":  "K LINE PERU S.A.C.",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En K LINE PERÚ S.A.C., conectamos al mundo a través de soluciones integrales de transporte marítimo, aéreo, terrestre y logística internacional. Nos diferenciamos por nuestro compromiso con la excelencia, la confianza y un servicio personalizado que responde a las necesidades de cada cliente. ¡Más que transportar carga, construimos relaciones de confianza y llevamos su negocio más lejos! Resumen del Puesto Buscamos un Asistente de Control de Costos proactivo y detallista para integrarse a nuestro equipo. El candidato(a) ideal será responsable de asegurar la correcta gestión y procesamiento de las facturas de proveedores, contribuyendo a la eficiencia operativa y al control operacional. Requisitos Egresado universitario o técnico de las carreras de Contabilidad, Administración, Finanzas o afines. Experiencia previa mínima de 06 meses en puestos similares en agencias de carga (preferente). Conocimiento de sistemas de gestión y procesamiento de facturas. Capacidad para el análisis y la resolución de problemas. Habilidades de comunicación y coordinación interdepartamental. Orientación al detalle y organización. Funciones Recepción, revisión y provisión de facturas de proveedores en el sistema para la programación de pagos. Validación de conceptos facturados y su correcta aplicación según los servicios prestados. Coordinación del seguimiento de facturas pendientes y documentación faltante con proveedores y áreas internas (Customer Service, Contabilidad). Mantenimiento del control y trazabilidad de los costos asociados a las Operaciones Logísticas. Beneficios Convenio corporativos de estudios. Trabajo híbrido. Bono child care. Aguinaldo fin de año.",
+        "requisitos":  [
+                           "Egresado universitario o técnico de las carreras de Contabilidad, Administración, Finanzas o afines",
+                           "Experiencia previa mínima de 06 meses en puestos similares en agencias de carga (preferente)",
+                           "Conocimiento de sistemas de gestión y procesamiento de facturas",
+                           "Capacidad para el análisis y la resolución de problemas",
+                           "Habilidades de comunicación y coordinación interdepartamental",
+                           "Orientación al detalle y organización"
+                       ],
+        "funciones":  [
+                          "Recepción, revisión y provisión de facturas de proveedores en el sistema para la programación de pagos",
+                          "Validación de conceptos facturados y su correcta aplicación según los servicios prestados",
+                          "Coordinación del seguimiento de facturas pendientes y documentación faltante con proveedores y áreas internas (Customer Service, Contabilidad)",
+                          "Mantenimiento del control y trazabilidad de los costos asociados a las Operaciones Logísticas"
+                      ],
+        "beneficios":  [
+                           "Convenio corporativos de estudios",
+                           "Trabajo híbrido",
+                           "Bono child care",
+                           "Aguinaldo fin de año"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-control-de-costos-k-line-peru-s.a.c.-1118493043.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-control-de-costos-k-line-peru-s.a.c.-1118493043.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003eEn K LINE PERÚ S.A.C., conectamos al mundo a través de soluciones integrales de transporte marítimo, aéreo, terrestre y logística internacional. Nos diferenciamos por nuestro compromiso con la excelencia, la confianza y un servicio personalizado que responde a las necesidades de cada cliente. ¡Más que transportar carga, construimos relaciones de confianza y llevamos su negocio más lejos!\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAsistente de Control de Costos\u003c/strong\u003e proactivo y detallista para integrarse a nuestro equipo. El candidato(a) ideal será responsable de asegurar la correcta gestión y procesamiento de las facturas de proveedores, contribuyendo a la eficiencia operativa y al control operacional.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado universitario o técnico de las carreras de Contabilidad, Administración, Finanzas o afines.\u003c/li\u003e \u003cli\u003eExperiencia previa mínima de 06 meses en puestos similares en agencias de carga (preferente).\u003c/li\u003e \u003cli\u003eConocimiento de sistemas de gestión y procesamiento de facturas.\u003c/li\u003e \u003cli\u003eCapacidad para el análisis y la resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y coordinación interdepartamental.\u003c/li\u003e \u003cli\u003eOrientación al detalle y organización.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecepción, revisión y provisión de facturas de proveedores en el sistema para la programación de pagos.\u003c/li\u003e \u003cli\u003eValidación de conceptos facturados y su correcta aplicación según los servicios prestados.\u003c/li\u003e \u003cli\u003eCoordinación del seguimiento de facturas pendientes y documentación faltante con proveedores y áreas internas (Customer Service, Contabilidad).\u003c/li\u003e \u003cli\u003eMantenimiento del control y trazabilidad de los costos asociados a las Operaciones Logísticas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConvenio corporativos de estudios.\u003c/li\u003e \u003cli\u003eTrabajo híbrido.\u003c/li\u003e \u003cli\u003eBono child care.\u003c/li\u003e \u003cli\u003eAguinaldo fin de año.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 06 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500800",
+        "clave":  "id:1118500800",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-procesos-hitss-peru-1118500800.html",
+                       "capturadoEn":  "2026-10-30T07:05:46+00:00"
+                   },
+        "titulo":  "Analista de Procesos",
+        "empresa":  "Hitss Perú",
+        "ubicacion":  "Lima - La Victoria",
+        "ciudad":  "La Victoria",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos una empresa de Soluciones Digitales y Servicios de TI con 30 años de experiencia en el mercado. Contamos con más de 8 mil colaboradores en Latinoamérica, Estados Unidos y Europa. Descripción del puesto: Te invitamos a ser parte de nuestro equipo ocupando el cargo de: Analista de Procesos - La Positiva . Requisitos: Técnico concluido en Computación e Informática o Bachiller en Ingeniería de Sistemas, Industrial, Administración o carreras afines. INDISPENSABLE Conocimientos sólidos o certificación en ITIL v4 (Gestión de Incidentes, Requerimientos y Mejora Continua). Experiencia mínima de 1 a 2 años desempeñándose en áreas de procesos, control de calidad, gestión de indicadores o mesas de ayuda de TI. Manejas la herramienta Bizagi, modelado BPM/BPMN y Excel avanzado?Manejo de Microsoft Excel avanzado. Deseable: Manejo de herramientas ITSM (Aranda / Service Desk), consultas básicas en SQL y analítica de datos. Funciones: Diseñar, documentar y mantener actualizados los flujogramas de los procesos del servicio bajo el marco de ITIL v4. Elaborar, revisar y actualizar el Manual de Organización y Funciones (MOF) y las guías operativas de la Mesa de Ayuda. Traducir los flujos de procesos operativos a requerimientos de configuración para la Suite Aranda (estados, categorías y flujos de derivación). Analizar cuellos de botella e ineficiencias en los circuitos de atención para proponer mejoras en los flujos de trabajo (workflow). Controlar y registrar cambios en los procesos, manteniendo al día la matriz de procesos, repositorios y catálogos de servicio. Realizar auditorías, monitoreo, cumplimiento de procesos y gestión del conocimiento del servicio. Horarios y Modalidad: Horario: Lunes a viernes de 9:00 am a 6:30 pm . Lugar de trabajo: Sede Hitss - La Victoria. Beneficios: Pertenecer al grupo América Móvil. Sueldo en planilla desde el primer día con todos los beneficios de ley. EPS corporativa (opcional). Convenios corporativos y oportunidades de desarrollo. “Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web!",
+        "requisitos":  [
+                           "Técnico concluido en Computación e Informática o Bachiller en Ingeniería de Sistemas, Industrial, Administración o carreras afines",
+                           "INDISPENSABLE Conocimientos sólidos o certificación en ITIL v4 (Gestión de Incidentes, Requerimientos y Mejora Continua). Experiencia mínima de 1 a 2 años desempeñándose en áreas de procesos, control de calidad, gestión de indicadores o mesas de ayuda de TI",
+                           "Manejas la herramienta Bizagi, modelado BPM/BPMN y Excel avanzado?Manejo de Microsoft Excel avanzado",
+                           "Deseable: Manejo de herramientas ITSM (Aranda / Service Desk), consultas básicas en SQL y analítica de datos"
+                       ],
+        "funciones":  [
+                          "(MOF) y las guías operativas de la Mesa de Ayuda",
+                          "Traducir los flujos de procesos operativos a requerimientos de configuración para la Suite Aranda (estados, categorías y flujos de derivación)",
+                          "Analizar cuellos de botella e ineficiencias en los circuitos de atención para proponer mejoras en los flujos de trabajo (workflow)",
+                          "Controlar y registrar cambios en los procesos, manteniendo al día la matriz de procesos, repositorios y catálogos de servicio",
+                          "Realizar auditorías, monitoreo, cumplimiento de procesos y gestión del conocimiento del servicio",
+                          "Horarios y Modalidad",
+                          "Horario: Lunes a viernes de 9:00 am a 6:30 pm",
+                          "Lugar de trabajo: Sede Hitss - La Victoria"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "EPS corporativa (opcional)",
+                           "Convenios corporativos y oportunidades de desarrollo",
+                           "“Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web!"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-procesos-hitss-peru-1118500800.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-procesos-hitss-peru-1118500800.html",
+        "descripcion_html":  "\u003cp\u003eSomos una empresa de Soluciones Digitales y Servicios de TI con 30 años de experiencia en el mercado. Contamos con más de 8 mil colaboradores en Latinoamérica, Estados Unidos y Europa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDescripción del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eTe invitamos a ser parte de nuestro equipo ocupando el cargo de: \u003cstrong\u003eAnalista de Procesos - La Positiva\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico concluido en Computación e Informática o Bachiller en Ingeniería de Sistemas, Industrial, Administración o carreras afines.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eINDISPENSABLE \u003c/strong\u003eConocimientos sólidos o certificación en ITIL v4 (Gestión de Incidentes, Requerimientos y Mejora Continua). Experiencia mínima de 1 a 2 años desempeñándose en áreas de procesos, control de calidad, gestión de indicadores o mesas de ayuda de TI.\u003c/li\u003e \u003cli\u003eManejas la herramienta Bizagi, modelado BPM/BPMN y Excel avanzado?Manejo de Microsoft Excel avanzado.\u003c/li\u003e \u003cli\u003eDeseable: Manejo de herramientas ITSM (Aranda / Service Desk), consultas básicas en SQL y analítica de datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar, documentar y mantener actualizados los flujogramas de los procesos del servicio bajo el marco de ITIL v4.\u003c/li\u003e \u003cli\u003eElaborar, revisar y actualizar el Manual de Organización y Funciones (MOF) y las guías operativas de la Mesa de Ayuda.\u003c/li\u003e \u003cli\u003eTraducir los flujos de procesos operativos a requerimientos de configuración para la Suite Aranda (estados, categorías y flujos de derivación).\u003c/li\u003e \u003cli\u003eAnalizar cuellos de botella e ineficiencias en los circuitos de atención para proponer mejoras en los flujos de trabajo (workflow).\u003c/li\u003e \u003cli\u003eControlar y registrar cambios en los procesos, manteniendo al día la matriz de procesos, repositorios y catálogos de servicio.\u003c/li\u003e \u003cli\u003eRealizar auditorías, monitoreo, cumplimiento de procesos y gestión del conocimiento del servicio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eHorarios y Modalidad:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eHorario:\u003c/strong\u003e Lunes a viernes de 9:00 am a 6:30 pm .\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Sede Hitss - La Victoria.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePertenecer al grupo América Móvil.\u003c/li\u003e \u003cli\u003eSueldo en planilla desde el primer día con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eEPS corporativa (opcional).\u003c/li\u003e \u003cli\u003eConvenios corporativos y oportunidades de desarrollo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e“Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”.\u003c/em\u003e ¡Te invitamos a revisar nuestra página web!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Lunes a viernes de 9:00 am a 6:30 pm .",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500799",
+        "clave":  "id:1118500799",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/soporte-tecnico-n2-vip-la-positiva-hitss-peru-1118500799.html",
+                       "capturadoEn":  "2026-10-30T07:05:50+00:00"
+                   },
+        "titulo":  "Soporte tecnico N2 VIP - La Positiva",
+        "empresa":  "Hitss Perú",
+        "ubicacion":  "Lima - Lince",
+        "ciudad":  "Lince",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  100,
+                        "max":  100,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "Sueldo en planilla 100",
+                        "fuente_salario":  "descripcion"
+                    },
+        "descripcion":  "Somos una empresa de Soluciones Digitales y Servicios de TI con 30 años de experiencia en el mercado. Contamos con más de 8 mil colaboradores en Latinoamérica, Estados Unidos y Europa. Te invitamos a ser parte de nuestro equipo ocupando el cargo de: OPERADOR DE MESA DE AYUDA N2 VIPS - LA POSITIVA Requisitos: -Egresado tecnico o Universitario de carrera de ing. de sistemas o afines -Conocimientos en Windows desktop (W7, W8.1, W10), Office , Office 365, Microsoft365 y networking nivel I. - 1 de año de experiencia en mesas de ayuda , servide desk , soporte tecnico con tickets Funciones: Atención y soporte técnico VIP a gerentes, subgerentes y usuarios de alta prioridad. Diagnóstico y solución de incidentes de hardware y software. Soporte a laptops, PCs, monitores, impresoras, celulares y periféricos. Instalación, configuración y actualización de sistemas y aplicaciones corporativas. Gestión y seguimiento de tickets mediante herramientas de mesa de ayuda. Coordinación con otras áreas de TI para la atención y solución de incidentes. Horarios: L- S ||| Lunes a Viernes rotativo entre 7 am - 9 pm ( 8 horas asignadas dentro de ese rango ) || Sabados: 7 am - 1 pm (1 vez al mes) Lugar de trabajo : Edificio de la Positiva - san isidro (Presencial) Beneficios: Pertenecer al grupo América Móvil. Sueldo en planilla 100% desde el primer día. EPS corporativa (opcional). Convenios corporativos. “Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web",
+        "requisitos":  [
+                           "Egresado tecnico o Universitario de carrera de ing. de sistemas o afines",
+                           "Conocimientos en Windows desktop (W7, W8.1, W10), Office , Office 365, Microsoft365 y networking nivel I",
+                           "1 de año de experiencia en mesas de ayuda , servide desk , soporte tecnico con tickets"
+                       ],
+        "funciones":  [
+                          "Atención y soporte técnico VIP a gerentes, subgerentes y usuarios de alta prioridad",
+                          "Diagnóstico y solución de incidentes de hardware y software",
+                          "Soporte a laptops, PCs, monitores, impresoras, celulares y periféricos",
+                          "Instalación, configuración y actualización de sistemas y aplicaciones corporativas",
+                          "Gestión y seguimiento de tickets mediante herramientas de mesa de ayuda",
+                          "Coordinación con otras áreas de TI para la atención y solución de incidentes",
+                          "Horarios: L- S ||| Lunes a Viernes rotativo entre 7 am - 9 pm ( 8 horas asignadas dentro de ese rango ) || Sabados: 7 am - 1 pm (1 vez al mes)",
+                          "Lugar de trabajo : Edificio de la Positiva - san isidro (Presencial)"
+                      ],
+        "beneficios":  [
+                           "Pertenecer al grupo América Móvil",
+                           "Sueldo en planilla 100% desde el primer día",
+                           "EPS corporativa (opcional)",
+                           "Convenios corporativos",
+                           "“Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/soporte-tecnico-n2-vip-la-positiva-hitss-peru-1118500799.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/soporte-tecnico-n2-vip-la-positiva-hitss-peru-1118500799.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003eSomos una empresa de Soluciones Digitales y Servicios de TI con 30 años de experiencia en el mercado. Contamos con más de 8 mil colaboradores en Latinoamérica, Estados Unidos y Europa.\u003c/p\u003e\u003c/p\u003e \u003cp\u003eTe invitamos a ser parte de nuestro equipo ocupando el cargo de: OPERADOR DE MESA DE AYUDA N2 VIPS - LA POSITIVA\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003e-Egresado tecnico o Universitario de carrera de ing. de sistemas o afines\u003c/p\u003e\u003cp\u003e-Conocimientos en Windows desktop (W7, W8.1, W10), Office , Office 365, Microsoft365 y networking nivel I.\u003c/p\u003e\u003cp\u003e- 1 de año de experiencia en mesas de ayuda , servide desk , soporte tecnico con tickets\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003col\u003e \u003cli\u003eAtención y soporte técnico VIP a gerentes, subgerentes y usuarios de alta prioridad.\u003c/li\u003e \u003cli\u003eDiagnóstico y solución de incidentes de hardware y software.\u003c/li\u003e \u003cli\u003eSoporte a laptops, PCs, monitores, impresoras, celulares y periféricos.\u003c/li\u003e \u003cli\u003eInstalación, configuración y actualización de sistemas y aplicaciones corporativas.\u003c/li\u003e \u003cli\u003eGestión y seguimiento de tickets mediante herramientas de mesa de ayuda.\u003c/li\u003e \u003cli\u003eCoordinación con otras áreas de TI para la atención y solución de incidentes.\u003c/li\u003e\u003c/ol\u003e\u003cp\u003eHorarios: L- S ||| Lunes a Viernes rotativo entre 7 am - 9 pm ( 8 horas asignadas dentro de ese rango ) || Sabados: 7 am - 1 pm (1 vez al mes)\u003c/p\u003e\u003cp\u003eLugar de trabajo : Edificio de la Positiva - san isidro (Presencial)\u003c/p\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cp\u003ePertenecer al grupo América Móvil.\u003c/p\u003e\u003cp\u003eSueldo en planilla 100% desde el primer día.\u003c/p\u003e\u003cp\u003eEPS corporativa (opcional).\u003c/p\u003e\u003cp\u003eConvenios corporativos.\u003c/p\u003e\u003cp\u003e“Global Hitss mantiene una política de contratación inclusiva, por lo que invita a cualquier persona a participar en el proceso de selección en referencia”. ¡Te invitamos a revisar nuestra página web\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 30 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500796",
+        "clave":  "id:1118500796",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practica-preprofesional-transformacion-de-procesos-y-analisis-con-ia-superintendencia-de-banca-seguros-y-afp-1118500796.html",
+                       "capturadoEn":  "2026-10-30T07:05:53+00:00"
+                   },
+        "titulo":  "PRACTICA PREPROFESIONAL-TRANSFORMACION DE PROCESOS Y ANALISIS CON IA",
+        "empresa":  "SUPERINTENDENCIA DE BANCA, SEGUROS Y AFP",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Únete a la SBS Forma parte de una institución líder cuyo propósito es la estabilidad del sistema financiero, de seguros y del sistema privado de pensiones, reconocida por su excelencia técnica, que promueve la integridad, la excelencia, la innovación y el compromiso con el servicio al ciudadano. Te invitamos a participar en nuestro proceso de selección para asumir el rol de Practicante Preprofesional de Transformación de Procesos y Análisis con IA ¿Cuáles serán tus principales desafíos? Apoyar en la automatización de procesos de validación y análisis del Informe Diario de Inversiones, desarrollando scripts en Python y utilizando herramientas de procesamiento de datos. Colaborar en el diseño, documentación y mejora continua de aplicaciones y flujos de trabajo para la generación de reportes dinámicos y visualizaciones con herramientas como Qlik Sense. Apoyar en la transformación y estructuración de información no estructurada (por ejemplo, documentos PDF o Word) para su validación automática e integración en procesos de identificación de riesgos y alertas tempranas. Utilizar herramientas de inteligencia artificial generativa para elaborar consultas, resúmenes, documentos técnicos y presentaciones. Colaborar en el diseño de prompts y flujos de trabajo con asistentes o agentes de IA, verificando la calidad y utilidad de los resultados obtenidos. Apoyar en la documentación de los procesos y resultados de las actividades desarrolladas. Otros que le sean encargadas ¿Qué perfil buscamos? Estudiante de últimos ciclos (8.º a 10.º) o egresado de Ingeniería Informática, Sistemas, Computación e Informática o carreras afines. Pertenecer al tercio superior. De preferencia haber llevado cursos específicos de Estructura de Datos, Programación con Python, Base de Datos, Machine Learning, Procesamiento de Lenguaje Natural (NLP), Diseño de Procesos, Automatización de tareas, Inteligencia Artificial Generativa o cursos relacionados con IA aplicada. Manejo de Inglés a nivel intermedio. Manejo intermedio de Microsoft Office. Manejo intermedio de bibliotecas de ciencia de datos (pandas, numpy, sklearn, etc.). Manejo intermedio de herramientas de procesamiento de lenguaje natural (NLP). Manejo intermedio de herramientas de visualización de datos (Qlik Sense, Power BI, SQL). Manejo intermedio de herramientas de Inteligencia Artificial Generativa. Interés en el desarrollo de soluciones basadas en inteligencia artificial, automatización de procesos y análisis de datos. Motivación por participar en proyectos que apliquen técnicas de machine learning y procesamiento de lenguaje natural (NLP). También: Buen manejo de herramientas de inteligencia artificial generativa para apoyar consultas; análisis de información, elaboración de documentos y presentaciones; capacidad para diseñar prompts claros y estructurados; interés en el uso de asistentes y agentes de IA para automatizar tareas y mejorar procesos; criterio para revisar y validar la información generada por herramientas de IA antes de su utilización. ¿Por qué unirte a la SBS? Tendrás retos profesionales que fortalecen tu desarrollo. Contarás con un aprendizaje continuo junto a especialistas altamente reconocidos. Podrás Participar en proyectos que generan impacto en el sistema financiero peruano. Encontrarás un gran clima de colaboración y trabajo en equipo. ¿Qué beneficios ofrecemos? Convenio renovable por 6 meses Seguro FOLA Beneficios de Ley Oportunidad de crecimiento Nota: Las labores de prácticas se realizan con modalidad presencial en San Isidro. Si buscas una carrera con propósito, crecimiento profesional y la oportunidad de contribuir al futuro del Perú, este es el lugar para ti. ¡Postula y sé parte de la SBS!",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de Ley",
+                           "Oportunidad de crecimiento",
+                           "Nota: Las labores de prácticas se realizan con modalidad presencial en San Isidro",
+                           "Si buscas una carrera con propósito, crecimiento profesional y la oportunidad de contribuir al futuro del Perú, este es el lugar para ti",
+                           "¡Postula y sé parte de la SBS!"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practica-preprofesional-transformacion-de-procesos-y-analisis-con-ia-superintendencia-de-banca-seguros-y-afp-1118500796.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practica-preprofesional-transformacion-de-procesos-y-analisis-con-ia-superintendencia-de-banca-seguros-y-afp-1118500796.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eÚnete a la SBS\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eForma parte de una institución líder cuyo propósito es la estabilidad del sistema financiero, de seguros y del sistema privado de pensiones, reconocida por su excelencia técnica, que promueve la integridad, la excelencia, la innovación y el compromiso con el servicio al ciudadano.\u003c/p\u003e\u003cp\u003eTe invitamos a participar en nuestro proceso de selección para asumir el rol de \u003cstrong\u003ePracticante Preprofesional de Transformación de Procesos y Análisis con IA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus principales desafíos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en la automatización de procesos de validación y análisis del Informe Diario de Inversiones, desarrollando scripts en Python y utilizando herramientas de procesamiento de datos.\u003c/li\u003e \u003cli\u003eColaborar en el diseño, documentación y mejora continua de aplicaciones y flujos de trabajo para la generación de reportes dinámicos y visualizaciones con herramientas como Qlik Sense.\u003c/li\u003e \u003cli\u003eApoyar en la transformación y estructuración de información no estructurada (por ejemplo, documentos PDF o Word) para su validación automática e integración en procesos de identificación de riesgos y alertas tempranas.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de inteligencia artificial generativa para elaborar consultas, resúmenes, documentos técnicos y presentaciones.\u003c/li\u003e \u003cli\u003eColaborar en el diseño de prompts y flujos de trabajo con asistentes o agentes de IA, verificando la calidad y utilidad de los resultados obtenidos.\u003c/li\u003e \u003cli\u003eApoyar en la documentación de los procesos y resultados de las actividades desarrolladas.\u003c/li\u003e \u003cli\u003eOtros que le sean encargadas\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué perfil buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante de últimos ciclos (8.º a 10.º) o egresado de Ingeniería Informática, Sistemas, Computación e Informática o carreras afines.\u003c/li\u003e \u003cli\u003ePertenecer al tercio superior.\u003c/li\u003e \u003cli\u003eDe preferencia haber llevado cursos específicos de Estructura de Datos, Programación con Python, Base de Datos, Machine Learning, Procesamiento de Lenguaje Natural (NLP), Diseño de Procesos, Automatización de tareas, Inteligencia Artificial Generativa o cursos relacionados con IA aplicada.\u003c/li\u003e \u003cli\u003eManejo de Inglés a nivel intermedio.\u003c/li\u003e \u003cli\u003eManejo intermedio de Microsoft Office.\u003c/li\u003e \u003cli\u003eManejo intermedio de bibliotecas de ciencia de datos (pandas, numpy, sklearn, etc.).\u003c/li\u003e \u003cli\u003eManejo intermedio de herramientas de procesamiento de lenguaje natural (NLP).\u003c/li\u003e \u003cli\u003eManejo intermedio de herramientas de visualización de datos (Qlik Sense, Power BI, SQL).\u003c/li\u003e \u003cli\u003eManejo intermedio de herramientas de Inteligencia Artificial Generativa.\u003c/li\u003e \u003cli\u003eInterés en el desarrollo de soluciones basadas en inteligencia artificial, automatización de procesos y análisis de datos.\u003c/li\u003e \u003cli\u003eMotivación por participar en proyectos que apliquen técnicas de machine learning y procesamiento de lenguaje natural (NLP).\u003c/li\u003e \u003cli\u003eTambién: Buen manejo de herramientas de inteligencia artificial generativa para apoyar consultas; análisis de información, elaboración de documentos y presentaciones; capacidad para diseñar prompts claros y estructurados; interés en el uso de asistentes y agentes de IA para automatizar tareas y mejorar procesos; criterio para revisar y validar la información generada por herramientas de IA antes de su utilización.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a la SBS?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTendrás retos profesionales que fortalecen tu desarrollo.\u003c/li\u003e \u003cli\u003eContarás con un aprendizaje continuo junto a especialistas altamente reconocidos.\u003c/li\u003e \u003cli\u003ePodrás Participar en proyectos que generan impacto en el sistema financiero peruano.\u003c/li\u003e \u003cli\u003eEncontrarás un gran clima de colaboración y trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué beneficios ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConvenio renovable por 6 meses\u003c/li\u003e \u003cli\u003eSeguro FOLA\u003c/li\u003e \u003cli\u003eBeneficios de Ley\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eNota: \u003c/strong\u003eLas labores de prácticas se realizan con modalidad presencial en San Isidro.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSi buscas una carrera con propósito, crecimiento profesional y la oportunidad de contribuir al futuro del Perú, este es el lugar para ti.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Postula y sé parte de la SBS!\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500795",
+        "clave":  "id:1118500795",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-juliaca-los-portales-1118500795.html",
+                       "capturadoEn":  "2026-10-30T07:05:56+00:00"
+                   },
+        "titulo":  "Ejecutivo de Ventas / Juliaca",
+        "empresa":  "Los Portales",
+        "ubicacion":  "Puno - Juliaca",
+        "ciudad":  "Juliaca",
+        "region":  "Puno",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Haz historia con nosotros y lleva tu carrera al siguiente nivel! En Los Portales S.A., con más de 60 años de trayectoria impulsando el desarrollo de negocios en el sector inmobiliario y hotelero, y brindando oportunidades para las familias peruanas, estamos en busca de un(a) Asesor de Ventas - Juliaca para formar parte de nuestro equipo. Si eres una persona apasionada por los retos, el crecimiento, el cumplimiento de objetivos y la gestión de materiales, esta es tu oportunidad de contribuir a nuestro legado de éxito. \u0026#x1f4a1;¿Cuáles serán tus desafíos? Atender en caseta de ventas al público interesado en adquirir lotes. Brindar asesoría a los clientes durante el proceso de venta. Efectuar las coordinaciones para el cliente, firma de contrato, impresión de letras, entre otras. Ingresar, preparar y actualizar en el sistema todos los requerimientos para el proceso de compra del cliente. \u0026#x1f4bc; ¿Qué buscamos? Experiencia mínima de 2 años en ventas (Indispensable) Manejo de Ms Office a nivel usuario. Importante: Trabajo de Lunes a Domingo con un día de descanso a la semana. ⭐¿Como te recompensaremos? Ingreso a planilla desde el primer día con todos los beneficios de ley. Remuneración acorde al mercado. Comisiones sin límites. Capacitaciones en una empresa en constante crecimiento. Buen clima laboral y objetivos retadores. ¡Únete a nuestro equipo y demuestra que tú también tienes la actitud portales! Las ofertas de empleo y acceso a medios de formación educativa no podrán contener requisitos que constituyan discriminación, anulación o alteración de igualdad de oportunidades de trato. Ley N° 26772",
+        "requisitos":  [
+                           "que constituyan discriminación, anulación o alteración de igualdad de oportunidades de trato",
+                           "Ley N° 26772"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Remuneración acorde al mercado",
+                           "Comisiones sin límites",
+                           "Capacitaciones en una empresa en constante crecimiento",
+                           "Buen clima laboral y objetivos retadores",
+                           "¡Únete a nuestro equipo y demuestra que tú también tienes la actitud portales!",
+                           "Las ofertas de empleo y acceso a medios de formación educativa no podrán contener"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-juliaca-los-portales-1118500795.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-ventas-juliaca-los-portales-1118500795.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003e¡Haz historia con nosotros y lleva tu carrera al siguiente nivel!\u003c/p\u003e\u003cp\u003eEn Los Portales S.A., con más de 60 años de trayectoria impulsando el desarrollo de negocios en el sector inmobiliario y hotelero, y brindando oportunidades para las familias peruanas, estamos en busca de un(a) \u003cstrong\u003eAsesor de Ventas - Juliaca \u003c/strong\u003epara formar parte de nuestro equipo. Si eres una persona apasionada por los retos, el crecimiento, el cumplimiento de objetivos y la gestión de materiales, esta es tu oportunidad de contribuir a nuestro legado de éxito.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003e\u0026#x1f4a1;¿Cuáles serán tus desafíos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtender en caseta de ventas al público interesado en adquirir lotes.\u003c/li\u003e \u003cli\u003eBrindar asesoría a los clientes durante el proceso de venta.\u003c/li\u003e \u003cli\u003eEfectuar las coordinaciones para el cliente, firma de contrato, impresión de letras, entre otras.\u003c/li\u003e \u003cli\u003eIngresar, preparar y actualizar en el sistema todos los requerimientos para el proceso de compra del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4bc;\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 2 años en ventas (Indispensable)\u003c/li\u003e \u003cli\u003eManejo de Ms Office a nivel usuario.\u003c/li\u003e \u003cli\u003eImportante: Trabajo de Lunes a Domingo con un día de descanso a la semana.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e\u0026#x2b50;¿Como te recompensaremos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla desde el primer día con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eComisiones sin límites.\u003c/li\u003e \u003cli\u003eCapacitaciones en una empresa en constante crecimiento.\u003c/li\u003e \u003cli\u003eBuen clima laboral y objetivos retadores.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Únete a nuestro equipo y demuestra que tú también tienes la actitud portales!\u003c/p\u003e\u003cp\u003eLas ofertas de empleo y acceso a medios de formación educativa no podrán contener requisitos que constituyan discriminación, anulación o alteración de igualdad de oportunidades de trato.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLey N° 26772\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500794",
+        "clave":  "id:1118500794",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-banca-personal-volante-zona-arequipa-grupo-scotiabank-1118500794.html",
+                       "capturadoEn":  "2026-10-30T07:05:57+00:00"
+                   },
+        "titulo":  "Ejecutivo Banca Personal Volante Zona Arequipa",
+        "empresa":  "Grupo Scotiabank",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  200,
+                        "max":  200,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "200 soles",
+                        "fuente_salario":  "descripcion"
+                    },
+        "descripcion":  "Scotiabank se encuentra en búsqueda de un Funcionario Banca Personal Volante - División Arequipa , ¡anímate a postular! Misión del puesto: Contribuye al éxito general de la Red de Agencias en Perú, garantizando que los objetivos, planes e iniciativas individuales específicas se lleven a cabo o se cumplan en apoyo a las estrategias y objetivos de negocios del equipo. Garantiza que todas las actividades realizadas se desarrollen de conformidad con las normas, políticas y procedimientos internos vigentes. ¿Qué requisitos debes cumplir para postular? Carrera Universitaria o Técnica concluida en temas relacionados al giro del negocio: Finanzas, Contabilidad, Administración, etc. Experiencia de 2 a 4 años como Asesor de Ventas (Plataforma), Ejecutivo Banca Personal, entre otros de similar perfil. Experiencia en ventas de productos bancarios activos y pasivos (tarjetas, seguros, cuentas de ahorro, préstamos, créditos hipotecarios, etc) Experiencia en tutelaje y gestión de cartera de clientes. Horario Laboral: Lunes a Viernes 8:30 a 6:30 pm y Sabados de 8:30 a 1:30 pm Disponibilidad para rotar en las Agencias de la División Arequipa que considera las Agencias de Mercaderes, Parque Industrial, Mall Aventura Plaza Arequipa, Cayma, Miraflores Arequipa, El Avelino, C.C. Arequipa Center, Ilo y Moquegua. ¿Cuáles serán tus funciones? Contribuir a maximizar la rentabilidad del Banco desarrollando la gestión comercial con sus actuales clientes o potenciales clientes, a través de las ventas y el servicio ofrecido; asesorándolos financieramente y cumpliendo con la disciplina de actividades de contacto con el cliente (ABP). Evaluar a su Cliente o Potencial Cliente, ofreciéndole un producto o servicio que cubra sus necesidades acordes a sus posibilidades financieras, minimizando el riesgo de incumplimiento para el Banco. Utilizar todas las herramientas del modelo de gestión comercial que el banco pone a su disposición: Counselor, ventana comercial, campañas vigentes, base de datos de inteligencia comercial, entre otras; con la finalidad de gestionar al máximo la cartera de clientes. Evaluar el desempeño de clientes de la cartera asignada que mantengan productos activos y pasivos, que le permita desarrollar y gestionar acciones de venta cruzada y/o prevención de retiros de fondos; identificando y/o reconociendo las necesidades y soluciones que satisfagan al cliente. Efectuar labores de prevención, recuperación y cobranza cuando sea pertinente, a partir de un adecuado seguimiento a su cartera de clientes con productos pasivos y activos. Aplicar las políticas de crédito, riesgo, Prevención de Lavado de Activos (Conoce a tu cliente), etc., establecidas por el Banco Atender, gestionar y hacer seguimiento o solucionar (de ser factible), las consultas y los reclamos generados por los clientes, usando los sistemas correspondientes. Debería canalizarse a través de plataforma y el Call, para centralizar los canales de atención. Atender oportunamente y hacer seguimiento a los referidos internos de las agencias y otros canales de venta. Comprende la cultura de riesgo del Banco y cómo debe considerarse el apetito de riesgo en las actividades y decisiones diarias. Beneficios Planilla Scotiabank con todos los beneficios de ley. Comisión mensual por cumplimiento de meta comercial Vale de alimentos 200 soles mensuales Bono por movilidad: 6 soles diario EPS 80% para ti, conyuge e hijos. Ser parte del Grupo Scotiabank, oportunidades de desarrollo y línea carrera. Disfruta de 4 días libres al año pagados, adicional a tus vacaciones. Programa Scotia Bienestar: acceso sin costo a consultas nutricionales y psicológicas. Bono de escolaridad: asignación anual para colaboradores con hijos en edad escolar o universitaria. Scotia Academy: acceso gratuito a más de 1,000 cursos para potenciar tu desarrollo. Descuentos especiales en universidades, escuelas de posgrado, gimnasios, servicios y más. Scotia One: acceso a productos financieros con tarifas preferenciales para colaboradores. Programas de reconocimiento y desarrollo, incluyendo becas parciales de estudio y reconocimientos a colaboradores destacados en las metas comerciales. Pertener a una empresa reconocida como Great Place to Work 2025 (Mejor Lugar para Trabajar)",
+        "requisitos":  [
+                           "debes cumplir para postular?",
+                           "Carrera Universitaria o Técnica concluida en temas relacionados al giro del negocio: Finanzas, Contabilidad, Administración, etc",
+                           "Experiencia de 2 a 4 años como Asesor de Ventas (Plataforma), Ejecutivo Banca Personal, entre otros de similar"
+                       ],
+        "funciones":  [
+                          "Contribuir a maximizar la rentabilidad del Banco desarrollando la gestión comercial con sus actuales clientes o potenciales clientes, a través de las ventas y el servicio ofrecido; asesorándolos financieramente y cumpliendo con la disciplina de actividades de contacto con el cliente (ABP)",
+                          "Evaluar a su Cliente o Potencial Cliente, ofreciéndole un producto o servicio que cubra sus necesidades acordes a sus posibilidades financieras, minimizando el riesgo de incumplimiento para el Banco",
+                          "Utilizar todas las herramientas del modelo de gestión comercial que el banco pone a su disposición: Counselor, ventana comercial, campañas vigentes, base de datos de inteligencia comercial, entre otras; con la finalidad de gestionar al máximo la cartera de clientes",
+                          "Evaluar el desempeño de clientes de la cartera asignada que mantengan productos activos y pasivos, que le permita desarrollar y gestionar acciones de venta cruzada y/o prevención de retiros de fondos; identificando y/o reconociendo las necesidades y soluciones que satisfagan al cliente",
+                          "Efectuar labores de prevención, recuperación y cobranza cuando sea pertinente, a partir de un adecuado seguimiento a su cartera de clientes con productos pasivos y activos",
+                          "Aplicar las políticas de crédito, riesgo, Prevención de Lavado de Activos (Conoce a tu cliente), etc., establecidas por el Banco",
+                          "Atender, gestionar y hacer seguimiento o solucionar (de ser factible), las consultas y los reclamos generados por los clientes, usando los sistemas correspondientes. Debería canalizarse a través de plataforma y el Call, para centralizar los canales de atención",
+                          "Atender oportunamente y hacer seguimiento a los referidos internos de las agencias y otros canales de venta",
+                          "Comprende la cultura de riesgo del Banco y cómo debe considerarse el apetito de riesgo en las actividades y decisiones diarias"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Comisión mensual por cumplimiento de meta comercial",
+                           "Vale de alimentos 200 soles mensuales",
+                           "Bono por movilidad: 6 soles diario",
+                           "EPS 80% para ti, conyuge e hijos",
+                           "Ser parte del Grupo Scotiabank, oportunidades de desarrollo y línea carrera",
+                           "Disfruta de 4 días libres al año pagados, adicional a tus vacaciones",
+                           "Programa Scotia Bienestar: acceso sin costo a consultas nutricionales y psicológicas",
+                           "Bono de escolaridad: asignación anual para colaboradores con hijos en edad escolar o universitaria",
+                           "Scotia Academy: acceso gratuito a más de 1,000 cursos para potenciar tu desarrollo",
+                           "Descuentos especiales en universidades, escuelas de posgrado, gimnasios, servicios y más",
+                           "Scotia One: acceso a productos financieros con tarifas preferenciales para colaboradores",
+                           "Programas de reconocimiento y desarrollo, incluyendo becas parciales de estudio y reconocimientos a colaboradores destacados en las metas comerciales",
+                           "Pertener a una empresa reconocida como Great Place to Work 2025 (Mejor Lugar para Trabajar)"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-banca-personal-volante-zona-arequipa-grupo-scotiabank-1118500794.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-banca-personal-volante-zona-arequipa-grupo-scotiabank-1118500794.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eScotiabank \u003c/strong\u003ese encuentra en búsqueda de un \u003cstrong\u003eFuncionario Banca Personal Volante - División Arequipa\u003c/strong\u003e, ¡anímate a postular!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMisión del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eContribuye al éxito general de la Red de Agencias en Perú, garantizando que los objetivos, planes e iniciativas individuales específicas se lleven a cabo o se cumplan en apoyo a las estrategias y objetivos de negocios del equipo. Garantiza que todas las actividades realizadas se desarrollen de conformidad con las normas, políticas y procedimientos internos vigentes.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué requisitos debes cumplir para postular?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCarrera Universitaria o Técnica concluida en temas relacionados al giro del negocio: Finanzas, Contabilidad, Administración, etc.\u003c/li\u003e \u003cli\u003eExperiencia de 2 a 4 años como Asesor de Ventas (Plataforma), Ejecutivo Banca Personal, entre otros de similar perfil.\u003c/li\u003e \u003cli\u003eExperiencia en ventas de productos bancarios activos y pasivos (tarjetas, seguros, cuentas de ahorro, préstamos, créditos hipotecarios, etc)\u003c/li\u003e \u003cli\u003eExperiencia en tutelaje y gestión de cartera de clientes.\u003c/li\u003e \u003cli\u003eHorario Laboral: Lunes a Viernes 8:30 a 6:30 pm y Sabados de 8:30 a 1:30 pm\u003c/li\u003e \u003cli\u003eDisponibilidad para rotar en las Agencias de la División Arequipa que considera las Agencias de Mercaderes, Parque Industrial, Mall Aventura Plaza Arequipa, Cayma, Miraflores Arequipa, El Avelino, C.C. Arequipa Center, Ilo y Moquegua.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus funciones?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eContribuir a maximizar la rentabilidad del Banco desarrollando la gestión comercial con sus actuales clientes o potenciales clientes, a través de las ventas y el servicio ofrecido; asesorándolos financieramente y cumpliendo con la disciplina de actividades de contacto con el cliente (ABP).\u003c/li\u003e \u003cli\u003eEvaluar a su Cliente o Potencial Cliente, ofreciéndole un producto o servicio que cubra sus necesidades acordes a sus posibilidades financieras, minimizando el riesgo de incumplimiento para el Banco.\u003c/li\u003e \u003cli\u003eUtilizar todas las herramientas del modelo de gestión comercial que el banco pone a su disposición: Counselor, ventana comercial, campañas vigentes, base de datos de inteligencia comercial, entre otras; con la finalidad de gestionar al máximo la cartera de clientes.\u003c/li\u003e \u003cli\u003eEvaluar el desempeño de clientes de la cartera asignada que mantengan productos activos y pasivos, que le permita desarrollar y gestionar acciones de venta cruzada y/o prevención de retiros de fondos; identificando y/o reconociendo las necesidades y soluciones que satisfagan al cliente.\u003c/li\u003e \u003cli\u003eEfectuar labores de prevención, recuperación y cobranza cuando sea pertinente, a partir de un adecuado seguimiento a su cartera de clientes con productos pasivos y activos.\u003c/li\u003e \u003cli\u003eAplicar las políticas de crédito, riesgo, Prevención de Lavado de Activos (Conoce a tu cliente), etc., establecidas por el Banco\u003c/li\u003e \u003cli\u003eAtender, gestionar y hacer seguimiento o solucionar (de ser factible), las consultas y los reclamos generados por los clientes, usando los sistemas correspondientes. Debería canalizarse a través de plataforma y el Call, para centralizar los canales de atención.\u003c/li\u003e \u003cli\u003eAtender oportunamente y hacer seguimiento a los referidos internos de las agencias y otros canales de venta.\u003c/li\u003e \u003cli\u003eComprende la cultura de riesgo del Banco y cómo debe considerarse el apetito de riesgo en las actividades y decisiones diarias.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla Scotiabank con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eComisión mensual por cumplimiento de meta comercial\u003c/li\u003e \u003cli\u003eVale de alimentos 200 soles mensuales\u003c/li\u003e \u003cli\u003eBono por movilidad: 6 soles diario\u003c/li\u003e \u003cli\u003eEPS 80% para ti, conyuge e hijos.\u003c/li\u003e \u003cli\u003eSer parte del Grupo Scotiabank, oportunidades de desarrollo y línea carrera.\u003c/li\u003e \u003cli\u003eDisfruta de 4 días libres al año pagados, adicional a tus vacaciones.\u003c/li\u003e \u003cli\u003ePrograma Scotia Bienestar: acceso sin costo a consultas nutricionales y psicológicas.\u003c/li\u003e \u003cli\u003eBono de escolaridad: asignación anual para colaboradores con hijos en edad escolar o universitaria.\u003c/li\u003e \u003cli\u003eScotia Academy: acceso gratuito a más de 1,000 cursos para potenciar tu desarrollo.\u003c/li\u003e \u003cli\u003eDescuentos especiales en universidades, escuelas de posgrado, gimnasios, servicios y más.\u003c/li\u003e \u003cli\u003eScotia One: acceso a productos financieros con tarifas preferenciales para colaboradores.\u003c/li\u003e \u003cli\u003eProgramas de reconocimiento y desarrollo, incluyendo becas parciales de estudio y reconocimientos a colaboradores destacados en las metas comerciales.\u003c/li\u003e \u003cli\u003ePertener a una empresa reconocida como Great Place to Work 2025 (Mejor Lugar para Trabajar)\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500793",
+        "clave":  "id:1118500793",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-programador-.net-junior-stefanini-peru-s.a-1118500793.html",
+                       "capturadoEn":  "2026-10-30T07:05:58+00:00"
+                   },
+        "titulo":  "Analista Programador .NET Junior",
+        "empresa":  "STEFANINI PERU S.A",
+        "ubicacion":  "Lima - San Borja",
+        "ciudad":  "San Borja",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Sé parte de Stefanini! En Stefanini somos más de 30,000 genios, conectados desde 41 países, co-creando un futuro mejor. ¡Sé nuestro Analista / Desarrollador .NET! Responsabilidades y atribuciones: Funciones y responsabilidades Desarrollar nuevas funcionalidades y realizar modificaciones en aplicaciones existentes utilizando VB.NET y C#. Ejecutar tareas de mantenimiento correctivo y evolutivo de sistemas de escritorio. Participar en el desarrollo, integración y consumo de APIs. Colaborar en la construcción y mantenimiento de aplicaciones web basadas en tecnologías .NET. Elaborar consultas SQL y apoyar en la implementación de cambios en bases de datos. Analizar requerimientos técnicos y funcionales bajo la orientación del analista o líder del equipo. Realizar pruebas unitarias básicas y validar el correcto funcionamiento de los cambios implementados. Documentar los cambios realizados y mantener actualizado el código fuente. Utilizar TFS o Azure DevOps para gestionar versiones, registrar cambios y dar seguimiento a las actividades asignadas. Atender incidencias y apoyar en la identificación de causas de errores en los aplicativos. Cumplir con los estándares de codificación, seguridad y calidad definidos por el área de Desarrollo. Requisitos y competencias: Experiencia: Experiencia deseable de 6 meses a 1 año en desarrollo de software, prácticas profesionales o proyectos académicos relacionados con tecnologías .NET. Se valorará la experiencia en mantenimiento de sistemas empresariales, integración de APIs, desarrollo web y uso de herramientas de control de versiones. Formación Académica Egresado, bachiller o técnico titulado de las carreras de Ingeniería de Sistemas, Ingeniería de Software, Computación e Informática o carreras afines. Conocimientos técnicos requeridos Lenguajes y tecnologías .NET Conocimientos de Visual Basic .NET (VB.NET) y C#. Fundamentos de programación orientada a objetos (POO). Desarrollo y mantenimiento de aplicaciones de escritorio con Windows Forms. Manejo de Visual Studio y herramientas de depuración. Conocimientos de .NET Framework y/o .NET moderno. Desarrollo de APIs Conocimientos básicos en desarrollo y consumo de APIs REST. Manejo de solicitudes HTTP y métodos GET, POST, PUT y DELETE. Intercambio de información mediante JSON. Conocimientos básicos de integración entre aplicaciones y servicios. Desarrollo web .NET Conocimientos básicos de desarrollo de aplicaciones web con tecnologías .NET. Fundamentos de ASP.NET y ASP.NET Core. Conocimientos de HTML, CSS y JavaScript. Manejo de formularios, validaciones e integración con servicios o bases de datos. Control de versiones y gestión de código Conocimientos de Team Foundation Server (TFS) y/o Azure DevOps. Manejo básico de repositorios, control de versiones y ramas. Conocimientos de check-in, check-out, commits, pull requests y resolución básica de conflictos. Seguimiento de tareas, requerimientos e incidencias mediante herramientas de gestión de proyectos. Bases de datos Conocimientos de SQL Server. Elaboración de consultas SQL, filtros, joins y operaciones de inserción, actualización y eliminación. Conocimientos básicos de procedimientos almacenados y vistas. Capacidad para identificar y corregir errores relacionados con consultas y acceso a datos. Competencias requeridas: Capacidad de análisis y resolución de problemas. Atención al detalle y orientación a la calidad. Disposición para aprender nuevas tecnologías. Organización y cumplimiento de plazos. Trabajo en equipo y comunicación efectiva. Responsabilidad, proactividad y compromiso. Capacidad para recibir retroalimentación y aplicar mejoras.",
+        "requisitos":  [
+                           "y competencias",
+                           "Experiencia",
+                           "Experiencia deseable de 6 meses a 1 año en desarrollo de software, prácticas profesionales o proyectos académicos relacionados con tecnologías .NET. Se valorará la experiencia en mantenimiento de sistemas empresariales, integración de APIs, desarrollo web y uso de herramientas de control de versiones",
+                           "Formación Académica",
+                           "Egresado, bachiller o técnico titulado de las carreras de Ingeniería de Sistemas, Ingeniería de Software, Computación e Informática o carreras afines",
+                           "Conocimientos técnicos requeridos",
+                           "Lenguajes y tecnologías .NET",
+                           "Conocimientos de Visual Basic .NET (VB.NET) y C#",
+                           "Fundamentos de programación orientada a objetos (POO)",
+                           "Desarrollo y mantenimiento de aplicaciones de escritorio con Windows Forms",
+                           "Manejo de Visual Studio y herramientas de depuración",
+                           "Conocimientos de .NET Framework y/o .NET moderno",
+                           "Desarrollo de APIs",
+                           "Conocimientos básicos en desarrollo y consumo de APIs REST",
+                           "Manejo de solicitudes HTTP y métodos GET, POST, PUT y DELETE",
+                           "Intercambio de información mediante JSON",
+                           "Conocimientos básicos de integración entre aplicaciones y servicios",
+                           "Desarrollo web .NET",
+                           "Conocimientos básicos de desarrollo de aplicaciones web con tecnologías .NET",
+                           "Fundamentos de ASP.NET y ASP.NET Core",
+                           "Conocimientos de HTML, CSS y JavaScript",
+                           "Manejo de formularios, validaciones e integración con servicios o bases de datos",
+                           "Control de versiones y gestión de código",
+                           "Conocimientos de Team Foundation Server (TFS) y/o Azure DevOps",
+                           "Manejo básico de repositorios, control de versiones y ramas",
+                           "Conocimientos de check-in, check-out, commits, pull requests y resolución básica de conflictos",
+                           "Seguimiento de tareas, requerimientos e incidencias mediante herramientas de gestión de proyectos",
+                           "Bases de datos",
+                           "Conocimientos de SQL Server",
+                           "Elaboración de consultas SQL, filtros, joins y operaciones de inserción, actualización y eliminación",
+                           "Conocimientos básicos de procedimientos almacenados y vistas",
+                           "Capacidad para identificar y corregir errores relacionados con consultas y acceso a datos",
+                           "Competencias requeridas",
+                           "Capacidad de análisis y resolución de problemas",
+                           "Atención al detalle y orientación a la calidad",
+                           "Disposición para aprender nuevas tecnologías",
+                           "Organización y cumplimiento de plazos",
+                           "Trabajo en equipo y comunicación efectiva",
+                           "Responsabilidad, proactividad y compromiso",
+                           "Capacidad para recibir retroalimentación y aplicar mejoras"
+                       ],
+        "funciones":  [
+                          "y responsabilidades",
+                          "Desarrollar nuevas funcionalidades y realizar modificaciones en aplicaciones existentes utilizando VB.NET y C#",
+                          "Ejecutar tareas de mantenimiento correctivo y evolutivo de sistemas de escritorio",
+                          "Participar en el desarrollo, integración y consumo de APIs",
+                          "Colaborar en la construcción y mantenimiento de aplicaciones web basadas en tecnologías .NET",
+                          "Elaborar consultas SQL y apoyar en la implementación de cambios en bases de datos",
+                          "Analizar requerimientos técnicos y funcionales bajo la orientación del analista o líder del equipo",
+                          "Realizar pruebas unitarias básicas y validar el correcto funcionamiento de los cambios implementados",
+                          "Documentar los cambios realizados y mantener actualizado el código fuente",
+                          "Utilizar TFS o Azure DevOps para gestionar versiones, registrar cambios y dar seguimiento a las actividades asignadas",
+                          "Atender incidencias y apoyar en la identificación de causas de errores en los aplicativos",
+                          "Cumplir con los estándares de codificación, seguridad y calidad definidos por el área de Desarrollo"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-programador-.net-junior-stefanini-peru-s.a-1118500793.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-programador-.net-junior-stefanini-peru-s.a-1118500793.html",
+        "descripcion_html":  "\u003cp\u003e¡Sé parte de Stefanini!\u003c/p\u003e\u003cp\u003eEn Stefanini somos más de 30,000 genios, conectados desde 41 países, co-creando un futuro mejor.\u003c/p\u003e\u003cp\u003e¡Sé nuestro\u003cstrong\u003e Analista / Desarrollador .NET!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsabilidades y atribuciones:\u003c/p\u003e\u003cp\u003eFunciones y responsabilidades\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar nuevas funcionalidades y realizar modificaciones en aplicaciones existentes utilizando VB.NET y C#.\u003c/li\u003e \u003cli\u003eEjecutar tareas de mantenimiento correctivo y evolutivo de sistemas de escritorio.\u003c/li\u003e \u003cli\u003eParticipar en el desarrollo, integración y consumo de APIs.\u003c/li\u003e \u003cli\u003eColaborar en la construcción y mantenimiento de aplicaciones web basadas en tecnologías .NET.\u003c/li\u003e \u003cli\u003eElaborar consultas SQL y apoyar en la implementación de cambios en bases de datos.\u003c/li\u003e \u003cli\u003eAnalizar requerimientos técnicos y funcionales bajo la orientación del analista o líder del equipo.\u003c/li\u003e \u003cli\u003eRealizar pruebas unitarias básicas y validar el correcto funcionamiento de los cambios implementados.\u003c/li\u003e \u003cli\u003eDocumentar los cambios realizados y mantener actualizado el código fuente.\u003c/li\u003e \u003cli\u003eUtilizar TFS o Azure DevOps para gestionar versiones, registrar cambios y dar seguimiento a las actividades asignadas.\u003c/li\u003e \u003cli\u003eAtender incidencias y apoyar en la identificación de causas de errores en los aplicativos.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de codificación, seguridad y calidad definidos por el área de Desarrollo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos y competencias:\u003c/p\u003e\u003cp\u003eExperiencia:\u003c/p\u003e\u003cp\u003eExperiencia deseable de 6 meses a 1 año en desarrollo de software, prácticas profesionales o proyectos académicos relacionados con tecnologías .NET. Se valorará la experiencia en mantenimiento de sistemas empresariales, integración de APIs, desarrollo web y uso de herramientas de control de versiones.\u003c/p\u003e\u003cp\u003eFormación Académica\u003c/p\u003e\u003cp\u003eEgresado, bachiller o técnico titulado de las carreras de Ingeniería de Sistemas, Ingeniería de Software, Computación e Informática o carreras afines.\u003c/p\u003e\u003cp\u003eConocimientos técnicos requeridos\u003c/p\u003e\u003cul\u003e \u003cli\u003eLenguajes y tecnologías .NET\u003c/li\u003e \u003cli\u003eConocimientos de Visual Basic .NET (VB.NET) y C#.\u003c/li\u003e \u003cli\u003eFundamentos de programación orientada a objetos (POO).\u003c/li\u003e \u003cli\u003eDesarrollo y mantenimiento de aplicaciones de escritorio con Windows Forms.\u003c/li\u003e \u003cli\u003eManejo de Visual Studio y herramientas de depuración.\u003c/li\u003e \u003cli\u003eConocimientos de .NET Framework y/o .NET moderno.\u003c/li\u003e \u003cli\u003eDesarrollo de APIs\u003c/li\u003e \u003cli\u003eConocimientos básicos en desarrollo y consumo de APIs REST.\u003c/li\u003e \u003cli\u003eManejo de solicitudes HTTP y métodos GET, POST, PUT y DELETE.\u003c/li\u003e \u003cli\u003eIntercambio de información mediante JSON.\u003c/li\u003e \u003cli\u003eConocimientos básicos de integración entre aplicaciones y servicios.\u003c/li\u003e \u003cli\u003eDesarrollo web .NET\u003c/li\u003e \u003cli\u003eConocimientos básicos de desarrollo de aplicaciones web con tecnologías .NET.\u003c/li\u003e \u003cli\u003eFundamentos de ASP.NET y ASP.NET Core.\u003c/li\u003e \u003cli\u003eConocimientos de HTML, CSS y JavaScript.\u003c/li\u003e \u003cli\u003eManejo de formularios, validaciones e integración con servicios o bases de datos.\u003c/li\u003e \u003cli\u003eControl de versiones y gestión de código\u003c/li\u003e \u003cli\u003eConocimientos de Team Foundation Server (TFS) y/o Azure DevOps.\u003c/li\u003e \u003cli\u003eManejo básico de repositorios, control de versiones y ramas.\u003c/li\u003e \u003cli\u003eConocimientos de check-in, check-out, commits, pull requests y resolución básica de conflictos.\u003c/li\u003e \u003cli\u003eSeguimiento de tareas, requerimientos e incidencias mediante herramientas de gestión de proyectos.\u003c/li\u003e \u003cli\u003eBases de datos\u003c/li\u003e \u003cli\u003eConocimientos de SQL Server.\u003c/li\u003e \u003cli\u003eElaboración de consultas SQL, filtros, joins y operaciones de inserción, actualización y eliminación.\u003c/li\u003e \u003cli\u003eConocimientos básicos de procedimientos almacenados y vistas.\u003c/li\u003e \u003cli\u003eCapacidad para identificar y corregir errores relacionados con consultas y acceso a datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCompetencias requeridas:\u003c/p\u003e\u003cul\u003e \u003cli\u003eCapacidad de análisis y resolución de problemas.\u003c/li\u003e \u003cli\u003eAtención al detalle y orientación a la calidad.\u003c/li\u003e \u003cli\u003eDisposición para aprender nuevas tecnologías.\u003c/li\u003e \u003cli\u003eOrganización y cumplimiento de plazos.\u003c/li\u003e \u003cli\u003eTrabajo en equipo y comunicación efectiva.\u003c/li\u003e \u003cli\u003eResponsabilidad, proactividad y compromiso.\u003c/li\u003e \u003cli\u003eCapacidad para recibir retroalimentación y aplicar mejoras.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500792",
+        "clave":  "id:1118500792",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500792.html",
+                       "capturadoEn":  "2026-10-30T07:05:59+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "La Libertad - Trujillo",
+        "ciudad":  "Trujillo",
+        "region":  "La Libertad",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500792.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500792.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500791",
+        "clave":  "id:1118500791",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-administracion-de-personal-banbif-1118500791.html",
+                       "capturadoEn":  "2026-10-30T07:06:02+00:00"
+                   },
+        "titulo":  "Analista de Administración de Personal",
+        "empresa":  "BanBif",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En BanBif, contribuimos a un propósito compartido, somos impulsores del desarrollo sostenible de las personas y el país. Eso comienza con nuestro equipo. Nuestra propuesta de valor para ti Ser parte de nuestro equipo es sumarte a una organización que te ofrece: Un Propósito común: Fomentamos la conexión entre tus valores personales y los de la organización, promoviendo un verdadero sentido de contribución. Crecimiento continuo: . Oportunidades constantes de aprendizaje y desarrollo, acompañado por líderes cercanos que impulsan tu máximo potencial. Condiciones sólidas: Un paquete integral que incluye beneficios competitivos, programas de bienestar, un modelo de trabajo flexible y una compensación transparente y equitativa. Misión Gestionar, coordinar y controlar de manera correcta, ordenada y eficiente los procesos de registro, custodia y seguimiento de la documentación del personal nuevo y actual del Banco, así como gestionar las validaciones de renta, contratos, renovaciones y el uso correcto de vacaciones, asegurando el cumplimiento normativo laboral y tributario. Funciones Gestionar el ciclo de contratación del personal a plazo fijo, incluyendo altas, contratos y renovaciones, asegurando su registro oportuno y el cumplimiento de la normativa laboral vigente. Administrar y controlar las vacaciones del personal, garantizando su correcta programación, goce y registro en los sistemas del Banco. Mantener actualizada y custodiar la información de cada colaborador, dejándola disponible y ordenada para auditorías internas y externas. Consolidar y validar la información de planilla —renta, horas extras y demás conceptos— asegurando su correcto procesamiento para el pago mensual. Requisitos Profesional universitario egresado o bachiller en Administración, Contabilidad, Economía, Recursos Humanos, Ingeniería Industrial, Ingeniería Empresarial o carreras afines. Postgrado, diplomado o certificación en Recursos Humanos. 2 a 3 años de experiencia en administración de personal y/o nómina. Conocimiento de convenios, contratos y legislación laboral vigente. Deseable: experiencia en automatización y mejora de procesos, indicadores de gestión y metodologías ágiles. Conocimientos Softwares de gestión de planillas / nómina y administración de personal: Ofisis, Scire, Adryan, SAP u otro ERP. T-Registro: cargas masivas, validación de estructuras, PVS, etc. Excel avanzado: manejo de datos, tablas dinámicas y fórmulas. Legislación laboral y tributaria aplicable a planillas. Deseable: Power BI y manejo de indicadores. Nuestra propuesta de valor para ti incluye Contrato a Plazo Indeterminado Bono anual por desempeño Utilidades Beneficios de ley Oportunidades de crecimiento Pertenecer a una empresa Great Place to Work EPS 100% para titular y dependientes directos Plan Oncológico 100% para titular y dependientes directos Modalidad de trabajo híbrida Si quieres darle un significado mayor a lo que haces y aportar con tu talento en un entorno de confianza y con Propósito, este es el lugar. Construyamos juntos algo que trascienda, un futuro mejor para todos.",
+        "requisitos":  [
+                           "Profesional universitario egresado o bachiller en Administración, Contabilidad, Economía, Recursos Humanos, Ingeniería Industrial, Ingeniería Empresarial o carreras afines",
+                           "Postgrado, diplomado o certificación en Recursos Humanos",
+                           "2 a 3 años de experiencia en administración de personal y/o nómina",
+                           "Conocimiento de convenios, contratos y legislación laboral vigente",
+                           "Deseable: experiencia en automatización y mejora de procesos, indicadores de gestión y metodologías ágiles",
+                           "Conocimientos",
+                           "Softwares de gestión de planillas / nómina y administración de personal: Ofisis, Scire, Adryan, SAP u otro ERP",
+                           "T-Registro: cargas masivas, validación de estructuras, PVS, etc",
+                           "Excel avanzado: manejo de datos, tablas dinámicas y fórmulas",
+                           "Legislación laboral y tributaria aplicable a planillas",
+                           "Deseable: Power BI y manejo de indicadores",
+                           "Nuestra propuesta de valor para ti incluye",
+                           "Contrato a Plazo Indeterminado",
+                           "Bono anual por desempeño",
+                           "Utilidades"
+                       ],
+        "funciones":  [
+                          "Gestionar el ciclo de contratación del personal a plazo fijo, incluyendo altas, contratos y renovaciones, asegurando su registro oportuno y el cumplimiento de la normativa laboral vigente",
+                          "Administrar y controlar las vacaciones del personal, garantizando su correcta programación, goce y registro en los sistemas del Banco",
+                          "Mantener actualizada y custodiar la información de cada colaborador, dejándola disponible y ordenada para auditorías internas y externas",
+                          "Consolidar y validar la información de planilla —renta, horas extras y demás conceptos— asegurando su correcto procesamiento para el pago mensual"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Oportunidades de crecimiento",
+                           "Pertenecer a una empresa Great Place to Work",
+                           "EPS 100% para titular y dependientes directos",
+                           "Plan Oncológico 100% para titular y dependientes directos",
+                           "Modalidad de trabajo híbrida",
+                           "Si quieres darle un significado mayor a lo que haces y aportar con tu talento en un entorno de confianza y con Propósito, este es el lugar. Construyamos juntos algo que trascienda, un futuro mejor para todos"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-administracion-de-personal-banbif-1118500791.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-administracion-de-personal-banbif-1118500791.html",
+        "descripcion_html":  "\u003cp\u003eEn BanBif, contribuimos a un propósito compartido, somos impulsores del desarrollo sostenible de las personas y el país. Eso comienza con nuestro equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eNuestra propuesta de valor para ti\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSer parte de nuestro equipo es sumarte a una organización que te ofrece:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eUn\u003c/strong\u003e \u003cstrong\u003ePropósito común: \u003c/strong\u003eFomentamos la conexión entre tus valores personales y los de la organización, promoviendo un verdadero sentido de contribución.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCrecimiento continuo:\u003c/strong\u003e. Oportunidades constantes de aprendizaje y desarrollo, acompañado por líderes cercanos que impulsan tu máximo potencial.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCondiciones sólidas: \u003c/strong\u003eUn paquete integral que incluye beneficios competitivos, programas de bienestar, un modelo de trabajo flexible y una compensación transparente y equitativa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eMisión\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eGestionar, coordinar y controlar de manera correcta, ordenada y eficiente los procesos de registro, custodia y seguimiento de la documentación del personal nuevo y actual del Banco, así como gestionar las validaciones de renta, contratos, renovaciones y el uso correcto de vacaciones, asegurando el cumplimiento normativo laboral y tributario.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar el ciclo de contratación del personal a plazo fijo, incluyendo altas, contratos y renovaciones, asegurando su registro oportuno y el cumplimiento de la normativa laboral vigente.\u003c/li\u003e \u003cli\u003eAdministrar y controlar las vacaciones del personal, garantizando su correcta programación, goce y registro en los sistemas del Banco.\u003c/li\u003e \u003cli\u003eMantener actualizada y custodiar la información de cada colaborador, dejándola disponible y ordenada para auditorías internas y externas.\u003c/li\u003e \u003cli\u003eConsolidar y validar la información de planilla —renta, horas extras y demás conceptos— asegurando su correcto procesamiento para el pago mensual.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional universitario egresado o bachiller en Administración, Contabilidad, Economía, Recursos Humanos, Ingeniería Industrial, Ingeniería Empresarial o carreras afines.\u003c/li\u003e \u003cli\u003ePostgrado, diplomado o certificación en Recursos Humanos.\u003c/li\u003e \u003cli\u003e2 a 3 años de experiencia en administración de personal y/o nómina.\u003c/li\u003e \u003cli\u003eConocimiento de convenios, contratos y legislación laboral vigente.\u003c/li\u003e \u003cli\u003eDeseable: experiencia en automatización y mejora de procesos, indicadores de gestión y metodologías ágiles.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSoftwares de gestión de planillas / nómina y administración de personal: Ofisis, Scire, Adryan, SAP u otro ERP.\u003c/li\u003e \u003cli\u003eT-Registro: cargas masivas, validación de estructuras, PVS, etc.\u003c/li\u003e \u003cli\u003eExcel avanzado: manejo de datos, tablas dinámicas y fórmulas.\u003c/li\u003e \u003cli\u003eLegislación laboral y tributaria aplicable a planillas.\u003c/li\u003e \u003cli\u003eDeseable: Power BI y manejo de indicadores.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eNuestra propuesta de valor para ti incluye\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eContrato a Plazo Indeterminado\u003c/li\u003e \u003cli\u003eBono anual por desempeño\u003c/li\u003e \u003cli\u003eUtilidades\u003c/li\u003e \u003cli\u003eBeneficios de ley\u003c/li\u003e \u003cli\u003eOportunidades de crecimiento\u003c/li\u003e \u003cli\u003ePertenecer a una empresa Great Place to Work\u003c/li\u003e \u003cli\u003eEPS 100% para titular y dependientes directos\u003c/li\u003e \u003cli\u003ePlan Oncológico 100% para titular y dependientes directos\u003c/li\u003e \u003cli\u003eModalidad de trabajo híbrida\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSi quieres darle un significado mayor a lo que haces y aportar con tu talento en un entorno de confianza y con Propósito, este es el lugar. Construyamos juntos algo que trascienda, un futuro mejor para todos.\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500790",
+        "clave":  "id:1118500790",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-lurin-qsi-1118500790.html",
+                       "capturadoEn":  "2026-10-30T07:06:07+00:00"
+                   },
+        "titulo":  "Operario de Producción - LURIN",
+        "empresa":  "QSI",
+        "ubicacion":  "Lima - Lurín",
+        "ciudad":  "Lurín",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Chryso antes QSI Productos para la Construcción es una empresa transnacional dedidaca a la producción y comercialización de aditivos y equipos para la construcción. Brindamos asesoría y productos de la más alta calidad para los rubros de construcción, minería, industrias y textil. Disponibilidad para laborar en LURIN - KM40 Realizar el proceso de producción según la instrucción de manufactura. Envasar el producto según lo indicado en la Instrucción de manufactura. Trasladar los productos terminados (envasados, rotulados) a la zona correspondiente. Llenar correctamente los registros de la Instrucción de Manufactura Mantener limpia el área de trabajo. Requisitos: Nivel mínimo: Secundaria completa No menor a un (01) año en puestos similares. Experiencia en plantas de producción Beneficios Todos los beneficios de ley Tarjeta de Alimentos Movilidad de traslado a planta lurin Horario rotativo de Lunes a Viernes de 7:00 am a 5:00 pm y Lunes a Jueves de 7:00 pm a 7:00 am (Bono nocturno) Seguro AMC cubierto al 75% y Eps al 65%",
+        "requisitos":  [
+                           "Nivel mínimo: Secundaria completa",
+                           "No menor a un (01) año en puestos similares",
+                           "Experiencia en plantas de producción"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Tarjeta de Alimentos",
+                           "Movilidad de traslado a planta lurin",
+                           "Horario rotativo de Lunes a Viernes de 7:00 am a 5:00 pm y Lunes a Jueves de 7:00 pm a 7:00 am (Bono nocturno)",
+                           "Seguro AMC cubierto al 75% y Eps al 65%"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-lurin-qsi-1118500790.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-lurin-qsi-1118500790.html",
+        "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003eChryso antes QSI Productos para la Construcción es una empresa transnacional dedidaca a la producción y comercialización de aditivos y equipos para la construcción. \u003c/span\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eBrindamos asesoría y productos de la más alta calidad para los rubros de construcción, minería, industrias y textil.\u003c/span\u003e\u003c/p\u003e \u003cp\u003e \u003c/p\u003e\u003cul\u003e \u003cli style=\"\"\u003eDisponibilidad para laborar en LURIN - KM40\u003c/li\u003e \u003cli style=\"\"\u003eRealizar el proceso de producción según la instrucción de manufactura.\u003c/li\u003e \u003cli style=\"\"\u003eEnvasar el producto según lo indicado en la Instrucción de manufactura.\u003c/li\u003e \u003cli style=\"\"\u003eTrasladar los productos terminados (envasados, rotulados) a la zona correspondiente.\u003c/li\u003e \u003cli style=\"\"\u003eLlenar correctamente los registros de la Instrucción de Manufactura\u003c/li\u003e \u003cli style=\"\"\u003eMantener limpia el área de trabajo.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli style=\"\"\u003eNivel mínimo: Secundaria completa\u003c/li\u003e \u003cli style=\"\"\u003eNo menor a un (01) año en puestos similares.\u003c/li\u003e \u003cli style=\"\"\u003eExperiencia en plantas de producción\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eTodos los beneficios de ley\u003c/li\u003e \u003cli\u003eTarjeta de Alimentos\u003c/li\u003e \u003cli\u003eMovilidad de traslado a planta lurin\u003c/li\u003e \u003cli\u003eHorario rotativo de Lunes a Viernes de 7:00 am a 5:00 pm y Lunes a Jueves de 7:00 pm a 7:00 am (Bono nocturno)\u003c/li\u003e \u003cli\u003eSeguro AMC cubierto al 75% y Eps al 65%\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500789",
+        "clave":  "id:1118500789",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500789.html",
+                       "capturadoEn":  "2026-10-30T07:06:08+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Cajamarca",
+        "ciudad":  "Cajamarca",
+        "region":  "Cajamarca",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500789.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500789.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500788",
+        "clave":  "id:1118500788",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-biblioteca-utp-arequipa-universidad-tecnologica-del-peru-1118500788.html",
+                       "capturadoEn":  "2026-10-30T07:06:09+00:00"
+                   },
+        "titulo":  "Asistente de Biblioteca- UTP Arequipa",
+        "empresa":  "UNIVERSIDAD TECNOLOGICA DEL PERU",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  560,
+                        "max":  565,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 560 - S/ 565",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "La Universidad Tecnológica del Perú , que forma parte del Grupo Intercorp y es parte del ranking de las mejores empresas para trabajar en el Perú según Great Place to Work* , se encuentra en búsqueda del mejor talento, para ocupar la posición de “Asistente de Biblioteca para nuestro campus en Arequipa , a continuación, los detalles: ¿A quiénes buscamos? Estudios técnicos y/o Superiores en Administración y carreras afines Experiencia mínima de 1 año realizando funciones similares. Tener conocimiento en Sistemas Integrados de Bibliotecas. Manejo de Office a Nivel Usuario. Experiencia en Atención al cliente ¿Qué funciones realizarías? Atención de consulta al usuario durante su turno. Mantenimiento del orden de los libros en los estantes. Registro de cada préstamo y atención de consulta para la elaboración de estadísticas mensuales. Elaboración del consolidado estadístico mensual. Etiquetado de libros. Forrado de libros. Supervisión del orden en la sala de Biblioteca. Supervisión del buen uso y operatividad de las computadoras, iluminación y mobiliario. Supervisión de la limpieza de la Sala. Apoyo en el inventario de libros. Otras labores que se les asigne. ¿Cuál sería tu horario de trabajo? Lunes a sábado de 1:30 pm a 10:30 pm (Modalidad presencial). ¿Por qué unirte a UTP? Atractivo salario: Reconocemos tu talento con una compensación acorde al mercado. Disfruta de todos los beneficios de ley que te corresponden por ingresar al corporativo, en planilla desde el primer día. Crecimiento profesional y capacitación constante: Desarrolla tu carrera en un entorno de aprendizaje continuo, con oportunidades de ascenso en UTP y Grupo Intercorp. Descuentos corporativos y educativos: Beneficios exclusivos Intercorp y descuentos en programas de postgrado y formación continua. Excelente clima laboral: Somos una empresa reconocida como Great Place To Work. Trabajar con un equipo altamente calificado dentro de una infraestructura moderna y equipada con la mejor tecnología. “La UTP es una universidad inclusiva y libre de discriminación, que respeta la diversidad y autenticidad de cada uno de los colaboradores.” ¡Más diversos, mejores equipos! *Según resultados GPTW 2026.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "realizarías?",
+                          "Atención de consulta al usuario durante su turno",
+                          "Mantenimiento del orden de los libros en los estantes",
+                          "Registro de cada préstamo y atención de consulta para la elaboración de estadísticas mensuales",
+                          "Elaboración del consolidado estadístico mensual",
+                          "Etiquetado de libros",
+                          "Forrado de libros",
+                          "Supervisión del orden en la sala de Biblioteca",
+                          "Supervisión del buen uso y operatividad de las computadoras, iluminación y mobiliario",
+                          "Supervisión de la limpieza de la Sala",
+                          "Apoyo en el inventario de libros",
+                          "Otras labores que se les asigne",
+                          "¿Cuál sería tu horario de trabajo?",
+                          "Lunes a sábado de 1:30 pm a 10:30 pm (Modalidad presencial)",
+                          "¿Por qué unirte a UTP?",
+                          "Atractivo salario: Reconocemos tu talento con una compensación acorde al mercado",
+                          "Disfruta de todos los"
+                      ],
+        "beneficios":  [
+                           "exclusivos Intercorp y descuentos en programas de postgrado y formación continua",
+                           "Excelente clima laboral: Somos una empresa reconocida como Great Place To Work",
+                           "Trabajar con un equipo altamente calificado dentro de una infraestructura moderna y equipada con la mejor tecnología",
+                           "“La UTP es una universidad inclusiva y libre de discriminación, que respeta la diversidad y autenticidad de cada uno de los colaboradores.”",
+                           "¡Más diversos, mejores equipos!",
+                           "Según resultados GPTW 2026"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-biblioteca-utp-arequipa-universidad-tecnologica-del-peru-1118500788.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-biblioteca-utp-arequipa-universidad-tecnologica-del-peru-1118500788.html",
+        "descripcion_html":  "\u003cp\u003eLa \u003cstrong\u003eUniversidad Tecnológica del Perú\u003c/strong\u003e, que forma parte del \u003cstrong\u003eGrupo Intercorp\u003c/strong\u003e y es parte del ranking de las mejores empresas para trabajar en el Perú según \u003cstrong\u003eGreat Place to Work*\u003c/strong\u003e, se encuentra en búsqueda del mejor talento, para ocupar la posición de \u003cstrong\u003e“Asistente de Biblioteca\u003c/strong\u003e para nuestro \u003cstrong\u003ecampus en Arequipa\u003c/strong\u003e, a continuación, los detalles:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿A quiénes buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos y/o Superiores en Administración y carreras afines\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año realizando funciones similares.\u003c/li\u003e \u003cli\u003eTener conocimiento en Sistemas Integrados de Bibliotecas.\u003c/li\u003e \u003cli\u003eManejo de Office a Nivel Usuario.\u003c/li\u003e \u003cli\u003eExperiencia en Atención al cliente\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué funciones realizarías?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtención de consulta al usuario durante su turno.\u003c/li\u003e \u003cli\u003eMantenimiento del orden de los libros en los estantes.\u003c/li\u003e \u003cli\u003eRegistro de cada préstamo y atención de consulta para la elaboración de estadísticas mensuales.\u003c/li\u003e \u003cli\u003eElaboración del consolidado estadístico mensual.\u003c/li\u003e \u003cli\u003eEtiquetado de libros.\u003c/li\u003e \u003cli\u003eForrado de libros.\u003c/li\u003e \u003cli\u003eSupervisión del orden en la sala de Biblioteca.\u003c/li\u003e \u003cli\u003eSupervisión del buen uso y operatividad de las computadoras, iluminación y mobiliario.\u003c/li\u003e \u003cli\u003eSupervisión de la limpieza de la Sala.\u003c/li\u003e \u003cli\u003eApoyo en el inventario de libros.\u003c/li\u003e \u003cli\u003eOtras labores que se les asigne.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál sería tu horario de trabajo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLunes a sábado de 1:30 pm a 10:30 pm (Modalidad presencial).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a UTP?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eAtractivo salario:\u003c/strong\u003e Reconocemos tu talento con una compensación acorde al mercado.\u003c/li\u003e \u003cli\u003eDisfruta de todos los \u003cstrong\u003ebeneficios de ley\u003c/strong\u003e que te corresponden por ingresar al corporativo, en planilla desde el primer día.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCrecimiento profesional y capacitación constante:\u003c/strong\u003e Desarrolla tu carrera en un entorno de aprendizaje continuo, con oportunidades de ascenso en UTP y Grupo Intercorp.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDescuentos corporativos y educativos:\u003c/strong\u003e Beneficios exclusivos Intercorp y descuentos en programas de postgrado y formación continua.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExcelente clima laboral:\u003c/strong\u003e Somos una empresa reconocida como Great Place To Work.\u003c/li\u003e \u003cli\u003eTrabajar con un \u003cstrong\u003eequipo altamente calificado\u003c/strong\u003e dentro de \u003cstrong\u003euna infraestructura moderna y equipada con la mejor tecnología.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e“La UTP es una universidad inclusiva y libre de discriminación, que respeta la diversidad y autenticidad de cada uno de los colaboradores.”\u003c/p\u003e\u003cp\u003e¡Más diversos, mejores equipos!\u003c/p\u003e\u003cp\u003e*Según resultados GPTW 2026.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500787",
+        "clave":  "id:1118500787",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500787.html",
+                       "capturadoEn":  "2026-10-30T07:06:12+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Ica",
+        "ciudad":  "Ica",
+        "region":  "Ica",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500787.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500787.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500786",
+        "clave":  "id:1118500786",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500786.html",
+                       "capturadoEn":  "2026-10-30T07:06:18+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Tacna",
+        "ciudad":  "Tacna",
+        "region":  "Tacna",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500786.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500786.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500785",
+        "clave":  "id:1118500785",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500785.html",
+                       "capturadoEn":  "2026-10-30T07:06:21+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Apurimac - Abancay",
+        "ciudad":  "Abancay",
+        "region":  "Apurimac",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500785.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500785.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500784",
+        "clave":  "id:1118500784",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500784.html",
+                       "capturadoEn":  "2026-10-30T07:06:24+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Ancash - Antamina",
+        "ciudad":  "Antamina",
+        "region":  "Ancash",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500784.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500784.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500782",
+        "clave":  "id:1118500782",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500782.html",
+                       "capturadoEn":  "2026-10-30T07:06:25+00:00"
+                   },
+        "titulo":  "Operador de Camión de Acarreo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Moquegua",
+        "ciudad":  "Moquegua",
+        "region":  "Moquegua",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Resumen del puesto: Responsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos. Requerimientos Educación mínima: Educación Secundaria Experiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798. Licencias de conducir: AII (Indispensable) Disponibilidad de viajar: Si",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500782.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-camion-de-acarreo-1118500782.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResumen del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de la inspección, operación y control preventivo de equipos bajo estrictos estándares técnicos y de seguridad. Encargado de reportar fallas, condiciones subestándares y eventos mecánicos/eléctricos, con disponibilidad para operar diversos equipos autorizados, participar en capacitaciones continuas y proponer mejoras en los procesos operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequerimientos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación mínima: Educación Secundaria\u003c/li\u003e \u003cli\u003eExperiencia: 03 años de experiencia en operación de camiones de acarreo a tajo abierto. Operadores de camiones CAT 793D, 793F, 798.\u003c/li\u003e \u003cli\u003eLicencias de conducir: AII (Indispensable)\u003c/li\u003e \u003cli\u003eDisponibilidad de viajar: Si\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 03 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500781",
+        "clave":  "id:1118500781",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-comercial-1118500781.html",
+                       "capturadoEn":  "2026-10-30T07:06:26+00:00"
+                   },
+        "titulo":  "Jefe Comercial",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Importante organización se encuentra en búsqueda de un Jefe Comercial de Sede , responsable de liderar la estrategia comercial, impulsar el crecimiento de la sede y asegurar el cumplimiento de objetivos de captación y matrícula. PERFIL REQUERIDO Profesional titulado en Administración, Marketing, Comunicaciones, Negocios, Educación, Ingeniería Industrial o carreras afines. Experiencia mínima de 4 años liderando equipos comerciales con resultados comprobables. Experiencia gestionando indicadores comerciales, embudos de venta y cumplimiento de metas. Experiencia coordinando equipos y canales de captación comerciales. Capacidad analítica para interpretar información comercial y ejecutar planes de acción. Experiencia en ventas consultivas en sectores como educación, servicios financieros, telecomunicaciones u otros servicios. Experiencia gestionando relaciones con instituciones, empresas o aliados estratégicos. Manejo de CRM o herramientas de seguimiento comercial. Deseable especialización en Gestión Comercial, Ventas o Liderazgo. PRINCIPALES RESPONSABILIDADES Liderar la estrategia comercial de la sede y asegurar el cumplimiento de objetivos de captación. Gestionar indicadores comerciales y proponer planes de mejora. Liderar, desarrollar y acompañar al equipo comercial. Coordinar acciones de captación y generación de demanda. Fortalecer relaciones con instituciones educativas, empresas y aliados estratégicos. Analizar resultados comerciales y presentar reportes a la dirección. PROPUESTA DE VALOR Incorporarse a una organización sólida y en crecimiento. Remuneración competitiva acorde al mercado. Oportunidades de desarrollo profesional. Beneficios corporativos.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos"
+                       ],
+        "fecha_publicacion":  "2026-10-28",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/jefe-comercial-1118500781.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-comercial-1118500781.html",
+        "descripcion_html":  "\u003cp\u003eImportante organización se encuentra en búsqueda de un \u003cstrong\u003eJefe Comercial de Sede\u003c/strong\u003e, responsable de liderar la estrategia comercial, impulsar el crecimiento de la sede y asegurar el cumplimiento de objetivos de captación y matrícula.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePERFIL REQUERIDO\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional titulado en Administración, Marketing, Comunicaciones, Negocios, Educación, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 4 años liderando equipos comerciales con resultados comprobables.\u003c/li\u003e \u003cli\u003eExperiencia gestionando indicadores comerciales, embudos de venta y cumplimiento de metas.\u003c/li\u003e \u003cli\u003eExperiencia coordinando equipos y canales de captación comerciales.\u003c/li\u003e \u003cli\u003eCapacidad analítica para interpretar información comercial y ejecutar planes de acción.\u003c/li\u003e \u003cli\u003eExperiencia en ventas consultivas en sectores como educación, servicios financieros, telecomunicaciones u otros servicios.\u003c/li\u003e \u003cli\u003eExperiencia gestionando relaciones con instituciones, empresas o aliados estratégicos.\u003c/li\u003e \u003cli\u003eManejo de CRM o herramientas de seguimiento comercial.\u003c/li\u003e \u003cli\u003eDeseable especialización en Gestión Comercial, Ventas o Liderazgo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePRINCIPALES RESPONSABILIDADES\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar la estrategia comercial de la sede y asegurar el cumplimiento de objetivos de captación.\u003c/li\u003e \u003cli\u003eGestionar indicadores comerciales y proponer planes de mejora.\u003c/li\u003e \u003cli\u003eLiderar, desarrollar y acompañar al equipo comercial.\u003c/li\u003e \u003cli\u003eCoordinar acciones de captación y generación de demanda.\u003c/li\u003e \u003cli\u003eFortalecer relaciones con instituciones educativas, empresas y aliados estratégicos.\u003c/li\u003e \u003cli\u003eAnalizar resultados comerciales y presentar reportes a la dirección.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePROPUESTA DE VALOR\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIncorporarse a una organización sólida y en crecimiento.\u003c/li\u003e \u003cli\u003eRemuneración competitiva acorde al mercado.\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo profesional.\u003c/li\u003e \u003cli\u003eBeneficios corporativos.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 4 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "28/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]
