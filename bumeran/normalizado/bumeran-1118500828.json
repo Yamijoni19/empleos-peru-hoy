@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118500828",
+    "clave":  "id:1118500828",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/representante-de-ventas-de-vehiculos-electricos-trunorth-moda-masculina-1118500828.html",
+                   "capturadoEn":  "2026-10-30T00:59:19+00:00"
+               },
+    "titulo":  "Representante de Ventas de Vehículos Eléctricos",
+    "empresa":  "Trunorth Moda masculina",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Representante de Ventas de Vehículos Eléctricos Resumen del Puesto Estamos en la búsqueda de profesionales dinámicos y proactivos con excelentes habilidades de comunicación para unirse a nuestro equipo de ventas. El rol principal será la atención al cliente, la participación en transmisiones en vivo y el apoyo en las áreas de ventas y facturación. Responsabilidades Brindar atención al cliente de manera efectiva y cordial. Participar activamente en transmisiones en vivo para promocionar productos. Colaborar en los procesos de venta y facturación. Mantenerse informado sobre las características y beneficios de los vehículos eléctricos. Contribuir a un ambiente de trabajo positivo y colaborativo. Requisitos Manejo básico de redes sociales. Excelentes habilidades de comunicación verbal y escrita. Proactividad y facilidad para el aprendizaje. Ganas de desarrollarse en el área de ventas. No se requiere experiencia previa, se ofrecerá capacitación.",
+    "requisitos":  [
+                       "Manejo básico de redes sociales",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Proactividad y facilidad para el aprendizaje",
+                       "Ganas de desarrollarse en el área de ventas",
+                       "No se requiere experiencia previa, se ofrecerá capacitación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de los vehículos eléctricos",
+                       "Contribuir a un ambiente de trabajo positivo y colaborativo"
+                   ],
+    "fecha_publicacion":  "2026-10-28",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/representante-de-ventas-de-vehiculos-electricos-trunorth-moda-masculina-1118500828.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/representante-de-ventas-de-vehiculos-electricos-trunorth-moda-masculina-1118500828.html",
+    "descripcion_html":  "\u003cb\u003eRepresentante de Ventas de Vehículos Eléctricos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de profesionales dinámicos y proactivos con excelentes habilidades de comunicación para unirse a nuestro equipo de ventas. El rol principal será la atención al cliente, la participación en transmisiones en vivo y el apoyo en las áreas de ventas y facturación.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar atención al cliente de manera efectiva y cordial.\u003c/li\u003e \u003cli\u003eParticipar activamente en transmisiones en vivo para promocionar productos.\u003c/li\u003e \u003cli\u003eColaborar en los procesos de venta y facturación.\u003c/li\u003e \u003cli\u003eMantenerse informado sobre las características y beneficios de los vehículos eléctricos.\u003c/li\u003e \u003cli\u003eContribuir a un ambiente de trabajo positivo y colaborativo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eManejo básico de redes sociales.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eProactividad y facilidad para el aprendizaje.\u003c/li\u003e \u003cli\u003eGanas de desarrollarse en el área de ventas.\u003c/li\u003e \u003cli\u003eNo se requiere experiencia previa, se ofrecerá capacitación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "28/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
