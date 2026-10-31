@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118504019",
+    "clave":  "id:1118504019",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-jr.-de-atraccion-de-talento-1118504019.html",
+                   "capturadoEn":  "2026-10-31T17:43:39+00:00"
+               },
+    "titulo":  "Analista Jr. de Atracción de Talento",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000",
+                    "fuente_salario":  "jsonld"
+                },
+    "descripcion":  "Importante consultora se encuentra en búsqueda de un(a): Analista Jr. de Atracción de Talento Misón: Gestionar procesos de reclutamiento y selección para diversos clientes Requisitos: Egresado o Bachiller en Psicología. Experiencia mínima de 1 año realizando procesos de reclutamiento y selección. Experiencia manejando procesos masivos. Manejo de entrevistas por competencias. Excelente capacidad de organización, comunicación y seguimiento. Alta orientación a resultados y capacidad para trabajar con múltiples procesos simultáneamente. Beneficios Ingreso a planilla con todos los beneficios de ley. Remuneración fija de S/ 2,000. Modalidad híbrida: 3 días de trabajo remoto. 2 días presenciales en San Isidro. Trabajo de lunes a viernes.",
+    "requisitos":  [
+                       "Egresado o Bachiller en Psicología",
+                       "Experiencia mínima de 1 año realizando procesos de reclutamiento y selección",
+                       "Experiencia manejando procesos masivos",
+                       "Manejo de entrevistas por competencias",
+                       "Excelente capacidad de organización, comunicación y seguimiento",
+                       "Alta orientación a resultados y capacidad para trabajar con múltiples procesos simultáneamente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Remuneración fija de S/ 2,000",
+                       "Modalidad híbrida",
+                       "3 días de trabajo remoto",
+                       "2 días presenciales en San Isidro",
+                       "Trabajo de lunes a viernes"
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-jr.-de-atraccion-de-talento-1118504019.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-jr.-de-atraccion-de-talento-1118504019.html",
+    "descripcion_html":  "\u003cp\u003eImportante consultora se encuentra en búsqueda de un(a):\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eAnalista Jr. de Atracción de Talento\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMisón:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eGestionar procesos de reclutamiento y selección para diversos clientes\u003c/p\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eEgresado o Bachiller en Psicología.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año realizando procesos de reclutamiento y selección.\u003c/li\u003e \u003cli\u003eExperiencia manejando procesos masivos.\u003c/li\u003e \u003cli\u003eManejo de entrevistas por competencias.\u003c/li\u003e \u003cli\u003eExcelente capacidad de organización, comunicación y seguimiento.\u003c/li\u003e \u003cli\u003eAlta orientación a resultados y capacidad para trabajar con múltiples procesos simultáneamente.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eRemuneración fija de S/ 2,000.\u003c/li\u003e \u003cli\u003eModalidad híbrida: \u003cul\u003e \u003cli\u003e3 días de trabajo remoto.\u003c/li\u003e \u003cli\u003e2 días presenciales en San Isidro.\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e \u003cli\u003eTrabajo de lunes a viernes.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

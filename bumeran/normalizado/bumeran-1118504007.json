@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118504007",
+    "clave":  "id:1118504007",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-1118504007.html",
+                   "capturadoEn":  "2026-10-31T17:44:00+00:00"
+               },
+    "titulo":  "Auxiliar administrativo",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "PERFIL: Profesional en Administración, Contabilidad, Computación o afines. Experiencia de 02 años minimo en roles similares Experiencia en el área de finanzas (deseable). Manejo de Ms. Office a nivel intermedio. Disponibilidad para trabajar en Rambla. OBJETIVO DEL PUESTO: Asistir al área de finanzas",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-1118504007.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-1118504007.html",
+    "descripcion_html":  "\u003cp\u003ePERFIL:\u003c/p\u003e\u003cp\u003eProfesional en Administración, Contabilidad, Computación o afines.\u003c/p\u003e\u003cp\u003eExperiencia de 02 años minimo en roles similares\u003c/p\u003e\u003cp\u003eExperiencia en el área de finanzas (deseable).\u003c/p\u003e\u003cp\u003eManejo de Ms. Office a nivel intermedio.\u003c/p\u003e\u003cp\u003eDisponibilidad para trabajar en Rambla.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003eOBJETIVO DEL PUESTO:\u003c/p\u003e\u003cp\u003eAsistir al área de finanzas\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 02 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

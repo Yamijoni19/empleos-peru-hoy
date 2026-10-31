@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118501592",
+    "clave":  "id:1118501592",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-programador-.net-dotnet-1118501592.html",
+                   "capturadoEn":  "2026-10-31T17:43:28+00:00"
+               },
+    "titulo":  "Analista Programador .NET",
+    "empresa":  "DOTNET",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  4000,
+                    "max":  4500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 4,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Analista Programador .NET Resumen del Puesto Buscamos un Analista Programador .NET con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un sólido conocimiento en desarrollo .NET y será capaz de trabajar de forma independiente y como parte de un equipo. Responsabilidades Desarrollar y mantener aplicaciones utilizando ASP .Net Core MVC y C#. Implementar interfaces de usuario con\u0026#x1f4f7; Colaborar con otros miembros del equipo para diseñar y entregar soluciones de software. Participar en todas las fases del ciclo de vida del desarrollo de software. Asegurar la calidad y el rendimiento del código desarrollado. Requisitos Experiencia comprobada en desarrollo .NET, incluyendo ASP .Net Core MVC y C#. para el desarrollo front-end.Conocimiento de\u0026#x1f4f7; Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades de resolución de problemas y atención al detalle. Buenas habilidades de comunicación.",
+    "requisitos":  [
+                       "Experiencia comprobada en desarrollo .NET, incluyendo ASP .Net Core MVC y C#",
+                       "para el desarrollo front-end.Conocimiento de\u0026#x1f4f7",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Excelentes habilidades de resolución de problemas y atención al detalle",
+                       "Buenas habilidades de comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-programador-.net-dotnet-1118501592.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-programador-.net-dotnet-1118501592.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAnalista Programador .NET\u003c/strong\u003e \u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAnalista Programador .NET\u003c/strong\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un sólido conocimiento en desarrollo .NET y será capaz de trabajar de forma independiente y como parte de un equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar y mantener aplicaciones utilizando ASP .Net Core MVC y C#.\u003c/li\u003e \u003cli\u003eImplementar interfaces de usuario con\u0026#x1f4f7;\u003c/li\u003e \u003cli\u003eColaborar con otros miembros del equipo para diseñar y entregar soluciones de software.\u003c/li\u003e \u003cli\u003eParticipar en todas las fases del ciclo de vida del desarrollo de software.\u003c/li\u003e \u003cli\u003eAsegurar la calidad y el rendimiento del código desarrollado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobada en desarrollo .NET, incluyendo ASP .Net Core MVC y C#.\u003c/li\u003e \u003cli\u003epara el desarrollo front-end.Conocimiento de\u0026#x1f4f7;\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de resolución de problemas y atención al detalle.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
