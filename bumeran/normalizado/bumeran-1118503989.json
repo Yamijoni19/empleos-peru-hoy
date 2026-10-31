@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118503989",
+    "clave":  "id:1118503989",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/representante-medico-arequipa-1118503989.html",
+                   "capturadoEn":  "2026-10-31T21:33:14+00:00"
+               },
+    "titulo":  "Representante Médico - Arequipa",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  5000,
+                    "max":  5000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 5,000",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Reconocida empresa de la industria farmacéutica se encuentra en la búsqueda de un Representante Médico para la zona de Arequipa. Si cuentas con más de 3 años de experiencia realizando visitas médicas en la ciudad de Arequipa y te apasiona gestionar y promocionar productos farmacéuticos. ¡Esta oportunidad es para ti! De preferencia tener residencia en Arequipa y conocer Tacna, Ilo o Moquegua. Requisitos: Orientación comercial Capacidad analítica Creatividad y persuasión Buen nivel de comunicación Ánalisis y solución de problemas",
+    "requisitos":  [
+                       "Orientación comercial",
+                       "Capacidad analítica",
+                       "Creatividad y persuasión",
+                       "Buen nivel de comunicación",
+                       "Ánalisis y solución de problemas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/representante-medico-arequipa-1118503989.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/representante-medico-arequipa-1118503989.html",
+    "descripcion_html":  "\u003cp\u003eReconocida empresa de la industria farmacéutica se encuentra en la búsqueda de un Representante Médico para la zona de Arequipa.\u003c/p\u003e\u003cp\u003eSi cuentas con más de 3 años de experiencia realizando visitas médicas en la ciudad de Arequipa y te apasiona gestionar y promocionar productos farmacéuticos. ¡Esta oportunidad es para ti!\u003c/p\u003e\u003cp\u003eDe preferencia tener residencia en Arequipa y conocer Tacna, Ilo o Moquegua.\u003c/p\u003e\u003cp\u003e\u003cu\u003eRequisitos:\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOrientación comercial\u003c/li\u003e \u003cli\u003eCapacidad analítica\u003c/li\u003e \u003cli\u003eCreatividad y persuasión\u003c/li\u003e \u003cli\u003eBuen nivel de comunicación\u003c/li\u003e \u003cli\u003eÁnalisis y solución de problemas\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

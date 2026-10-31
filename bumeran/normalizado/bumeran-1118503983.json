@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118503983",
+    "clave":  "id:1118503983",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-ingenieria-electromecanica-1118503983.html",
+                   "capturadoEn":  "2026-10-31T21:33:19+00:00"
+               },
+    "titulo":  "Practicante de Ingeniería Electromecánica",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Practicante de Ingeniería Electromecánica Resumen del Puesto Buscamos estudiantes de la carrera profesional de Ingeniería Electromecánica para unirse a nuestro equipo bajo la modalidad de prácticas pre profesionales. El candidato ideal tendrá interés en el área de supervisión y mantenimiento de equipos electromecánicos. Responsabilidades Supervisar el funcionamiento de los equipos electromecánicos instalados. Colaborar en la identificación de posibles fallos o anomalías en los equipos. Apoyar en la ejecución de tareas de mantenimiento preventivo y correctivo. Registrar información relevante sobre el estado y operación de los equipos. Aprender y aplicar los procedimientos establecidos para la gestión de equipos electromecánicos. Requisitos Estudiante de los últimos ciclos de la carrera profesional de Ingeniería Electromecánica. Disponibilidad para realizar prácticas pre profesionales. Interés en el área de mantenimiento y supervisión de equipos electromecánicos. Capacidad de aprendizaje y proactividad. Habilidades básicas de observación y registro de datos.",
+    "requisitos":  [
+                       "Estudiante de los últimos ciclos de la carrera profesional de Ingeniería Electromecánica",
+                       "Disponibilidad para realizar prácticas pre profesionales",
+                       "Interés en el área de mantenimiento y supervisión de equipos electromecánicos",
+                       "Capacidad de aprendizaje y proactividad",
+                       "Habilidades básicas de observación y registro de datos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-ingenieria-electromecanica-1118503983.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-ingenieria-electromecanica-1118503983.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePracticante de Ingeniería Electromecánica\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos estudiantes de la carrera profesional de \u003cstrong\u003eIngeniería Electromecánica\u003c/strong\u003e para unirse a nuestro equipo bajo la modalidad de prácticas pre profesionales. El candidato ideal tendrá interés en el área de supervisión y mantenimiento de equipos electromecánicos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSupervisar el funcionamiento de los equipos electromecánicos instalados.\u003c/li\u003e \u003cli\u003eColaborar en la identificación de posibles fallos o anomalías en los equipos.\u003c/li\u003e \u003cli\u003eApoyar en la ejecución de tareas de mantenimiento preventivo y correctivo.\u003c/li\u003e \u003cli\u003eRegistrar información relevante sobre el estado y operación de los equipos.\u003c/li\u003e \u003cli\u003eAprender y aplicar los procedimientos establecidos para la gestión de equipos electromecánicos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante de los últimos ciclos de la carrera profesional de Ingeniería Electromecánica.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar prácticas pre profesionales.\u003c/li\u003e \u003cli\u003eInterés en el área de mantenimiento y supervisión de equipos electromecánicos.\u003c/li\u003e \u003cli\u003eCapacidad de aprendizaje y proactividad.\u003c/li\u003e \u003cli\u003eHabilidades básicas de observación y registro de datos.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118503988",
+    "clave":  "id:1118503988",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingenieroa-cloud-cloud-engineer-experis-peru-1118503988.html",
+                   "capturadoEn":  "2026-10-31T21:33:15+00:00"
+               },
+    "titulo":  "Ingeniero(a) Cloud - Cloud Engineer",
+    "empresa":  "EXPERIS PERU",
+    "ubicacion":  "Lima - La Molina",
+    "ciudad":  "La Molina",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f680; Ingeniero/a Cloud ¡Únete a nuestro equipo y lleva tu talento al siguiente nivel! En Experis, buscamos un/a Ingeniero/a Cloud para sumarse a un importante grupo empresarial del sector retail. Tu misión será diseñar, implementar y hacer evolucionar las plataformas cloud de la compañía, principalmente en Microsoft Azure , construyendo entornos escalables, seguros, resilientes y costo-eficientes que soporten los servicios críticos del negocio. Si te gusta automatizar y aplicar buenas prácticas de ingeniería cloud, ¡este es tu lugar! ¿Qué buscamos? Profesional en Ingeniería de Sistemas, Informática, Computación, Telecomunicaciones, Electrónica o carreras afines (técnico o universitario concluido). 3 a 5 años de experiencia como Especialista o Ingeniero/a Cloud. Experiencia sólida en Microsoft Azure e Infrastructure as Code. Inglés intermedio. Certificaciones AZ-104, AZ-305 y/o Terraform Associate (deseables). ¿Cuáles serán tus principales retos? Diseñar, implementar y hacer evolucionar la infraestructura y los servicios cloud en Azure. Gestionar compute, storage, networking, PaaS, balanceadores, conectividad, Key Vault, monitoreo y backup. Implementar IaC y desarrollar automatizaciones con Terraform, PowerShell, Bash y Git. Asegurar disponibilidad, rendimiento, resiliencia y observabilidad end-to-end de los workloads críticos. Trabajar con Ciberseguridad en políticas cloud, hardening, gestión de secretos e identidades técnicas. Aplicar prácticas FinOps: monitoreo de consumo, dimensionamiento y optimización de costos. Atender incidentes cloud L2/L3, participar en Major Incidents y en Gestión de Cambios. Coordinar con Microsoft y proveedores especializados, y apoyar las capacidades de Data \u0026 AI. Conocimientos técnicos requeridos Cloud: Microsoft Azure (compute, storage, networking, PaaS) Infrastructure as Code: Terraform Automatización y versionado: PowerShell, Bash, Git Seguridad e identidad: Azure Entra ID, Key Vault, gestión de secretos Contenedores: Docker / Kubernetes Operación: Observabilidad y monitoreo, FinOps Buenas prácticas: Gestión de Cambios, documentación y estándares cloud ¿Qué competencias valoramos? Mentalidad de automatización y mejora continua Pensamiento analítico y resolución de problemas bajo presión Autonomía y orientación a resultados Colaboración con equipos técnicos y proveedores Curiosidad y aprendizaje constante en tecnologías cloud ¡Postula y sé parte del desafío! ¡Postula ahora y comparte tu talento con Experis! \u0026#x1f4bc;",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingenieroa-cloud-cloud-engineer-experis-peru-1118503988.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingenieroa-cloud-cloud-engineer-experis-peru-1118503988.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f680; Ingeniero/a Cloud\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Únete a nuestro equipo y lleva tu talento al siguiente nivel!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn Experis, buscamos un/a \u003cstrong\u003eIngeniero/a Cloud\u003c/strong\u003e para sumarse a un importante grupo empresarial del sector retail. Tu misión será diseñar, implementar y hacer evolucionar las plataformas cloud de la compañía, principalmente en \u003cstrong\u003eMicrosoft Azure\u003c/strong\u003e, construyendo entornos escalables, seguros, resilientes y costo-eficientes que soporten los servicios críticos del negocio. Si te gusta automatizar y aplicar buenas prácticas de ingeniería cloud, ¡este es tu lugar!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional en Ingeniería de Sistemas, Informática, Computación, Telecomunicaciones, Electrónica o carreras afines (técnico o universitario concluido).\u003c/li\u003e \u003cli\u003e3 a 5 años de experiencia como Especialista o Ingeniero/a Cloud.\u003c/li\u003e \u003cli\u003eExperiencia sólida en Microsoft Azure e Infrastructure as Code.\u003c/li\u003e \u003cli\u003eInglés intermedio.\u003c/li\u003e \u003cli\u003eCertificaciones AZ-104, AZ-305 y/o Terraform Associate (deseables).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus principales retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar, implementar y hacer evolucionar la infraestructura y los servicios cloud en Azure.\u003c/li\u003e \u003cli\u003eGestionar compute, storage, networking, PaaS, balanceadores, conectividad, Key Vault, monitoreo y backup.\u003c/li\u003e \u003cli\u003eImplementar IaC y desarrollar automatizaciones con Terraform, PowerShell, Bash y Git.\u003c/li\u003e \u003cli\u003eAsegurar disponibilidad, rendimiento, resiliencia y observabilidad end-to-end de los workloads críticos.\u003c/li\u003e \u003cli\u003eTrabajar con Ciberseguridad en políticas cloud, hardening, gestión de secretos e identidades técnicas.\u003c/li\u003e \u003cli\u003eAplicar prácticas FinOps: monitoreo de consumo, dimensionamiento y optimización de costos.\u003c/li\u003e \u003cli\u003eAtender incidentes cloud L2/L3, participar en Major Incidents y en Gestión de Cambios.\u003c/li\u003e \u003cli\u003eCoordinar con Microsoft y proveedores especializados, y apoyar las capacidades de Data \u0026 AI.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos técnicos requeridos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eCloud:\u003c/strong\u003e Microsoft Azure (compute, storage, networking, PaaS)\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eInfrastructure as Code:\u003c/strong\u003e Terraform\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAutomatización y versionado:\u003c/strong\u003e PowerShell, Bash, Git\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSeguridad e identidad:\u003c/strong\u003e Azure Entra ID, Key Vault, gestión de secretos\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eContenedores:\u003c/strong\u003e Docker / Kubernetes\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eOperación:\u003c/strong\u003e Observabilidad y monitoreo, FinOps\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eBuenas prácticas:\u003c/strong\u003e Gestión de Cambios, documentación y estándares cloud\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué competencias valoramos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMentalidad de automatización y mejora continua\u003c/li\u003e \u003cli\u003ePensamiento analítico y resolución de problemas bajo presión\u003c/li\u003e \u003cli\u003eAutonomía y orientación a resultados\u003c/li\u003e \u003cli\u003eColaboración con equipos técnicos y proveedores\u003c/li\u003e \u003cli\u003eCuriosidad y aprendizaje constante en tecnologías cloud\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Postula y sé parte del desafío!\u003c/strong\u003e ¡Postula ahora y comparte tu talento con Experis! \u0026#x1f4bc;\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
