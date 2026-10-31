@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504051",
+    "clave":  "id:1118504051",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-y-cobranzas-adrian-velasquez-1118504051.html",
+                   "capturadoEn":  "2026-10-31T12:28:01+00:00"
+               },
+    "titulo":  "Asistente de Facturación y Cobranzas",
+    "empresa":  "Adrian Velasquez",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Facturación y Cobranzas Resumen del Puesto Buscamos un Asistente de Facturación y Cobranzas organizado y con sólidos conocimientos contables para integrarse a nuestro equipo. El candidato ideal será proactivo y detallista, con capacidad para gestionar eficientemente los procesos de facturación y seguimiento de pagos. Responsabilidades Realizar la emisión de facturación de manera oportuna. Gestionar integralmente las cobranzas, incluyendo el seguimiento telefónico y por correo de cuentas por cobrar. Llevar a cabo el cálculo y control de detracciones. Efectuar la conciliación bancaria. Colaborar en la gestión de contratos con clientes y personal. Brindar apoyo en otros procesos operativos y administrativos. Requisitos Formación en Contabilidad, Administración o áreas afines. Experiencia mínima de 1 año en posiciones similares. Conocimientos en cálculo de detracciones, conciliación bancaria y manejo de Excel a nivel intermedio. Alta capacidad de atención al detalle y organización. Habilidades para trabajar de forma autónoma y colaborativa.",
+    "requisitos":  [
+                       "Formación en Contabilidad, Administración o áreas afines",
+                       "Experiencia mínima de 1 año en posiciones similares",
+                       "Conocimientos en cálculo de detracciones, conciliación bancaria y manejo de Excel a nivel intermedio",
+                       "Alta capacidad de atención al detalle y organización",
+                       "Habilidades para trabajar de forma autónoma y colaborativa"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-y-cobranzas-adrian-velasquez-1118504051.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-y-cobranzas-adrian-velasquez-1118504051.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Facturación y Cobranzas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Facturación y Cobranzas\u003c/b\u003e organizado y con sólidos conocimientos contables para integrarse a nuestro equipo. El candidato ideal será proactivo y detallista, con capacidad para gestionar eficientemente los procesos de facturación y seguimiento de pagos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar la emisión de facturación de manera oportuna.\u003c/li\u003e \u003cli\u003eGestionar integralmente las cobranzas, incluyendo el seguimiento telefónico y por correo de cuentas por cobrar.\u003c/li\u003e \u003cli\u003eLlevar a cabo el cálculo y control de detracciones.\u003c/li\u003e \u003cli\u003eEfectuar la conciliación bancaria.\u003c/li\u003e \u003cli\u003eColaborar en la gestión de contratos con clientes y personal.\u003c/li\u003e \u003cli\u003eBrindar apoyo en otros procesos operativos y administrativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Contabilidad, Administración o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en posiciones similares.\u003c/li\u003e \u003cli\u003eConocimientos en cálculo de detracciones, conciliación bancaria y manejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eAlta capacidad de atención al detalle y organización.\u003c/li\u003e \u003cli\u003eHabilidades para trabajar de forma autónoma y colaborativa.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
