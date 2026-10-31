@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118502515",
+    "clave":  "id:1118502515",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/freelance-de-reclutamiento-y-seleccion-veolia-peru-1118502515.html",
+                   "capturadoEn":  "2026-10-31T05:40:18+00:00"
+               },
+    "titulo":  "Freelance de Reclutamiento y Selección",
+    "empresa":  "Veolia Perú",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡En Veolia Perú seguimos creciendo! Nos encontramos en la búsqueda de nuevos talentos que quieran generar un impacto real dentro de una organización global con propósito. Puesto: Freelance de Reclutamiento y Selección ¿Qué buscamos? Bachiller o titulado/a en Psicología, Administración, Recursos Humanos o carreras afines. Experiencia mínima de 3 años como Analista de Reclutamiento y Selección, gestionando procesos integrales (levantamiento de perfil, búsqueda, validaciones, evaluación y cierre) para posiciones operativas, técnicas y mandos medios (supervisores). Experiencia previa en soporte a procesos de licitación (deseable) y procesos regulares desde operativos a supervisores Manejo de Excel a nivel intermedio. Alta capacidad de organización y análisis. Beneficios Oportunidad de crecimiento en una empresa global.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Oportunidad de crecimiento en una empresa global"
+                   ],
+    "fecha_publicacion":  "2026-10-29",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/freelance-de-reclutamiento-y-seleccion-veolia-peru-1118502515.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/freelance-de-reclutamiento-y-seleccion-veolia-peru-1118502515.html",
+    "descripcion_html":  "\u003cp\u003e¡En Veolia Perú seguimos creciendo! Nos encontramos en la búsqueda de nuevos talentos que quieran generar un impacto real dentro de una organización global con propósito.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePuesto: Freelance de Reclutamiento y Selección\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado/a en Psicología, Administración, Recursos Humanos o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años como Analista de Reclutamiento y Selección, gestionando procesos integrales (levantamiento de perfil, búsqueda, validaciones, evaluación y cierre) para posiciones operativas, técnicas y mandos medios (supervisores).\u003c/li\u003e \u003cli\u003eExperiencia previa en soporte a procesos de licitación (deseable) y procesos regulares desde operativos a supervisores\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eAlta capacidad de organización y análisis.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOportunidad de crecimiento en una empresa global.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "29/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
