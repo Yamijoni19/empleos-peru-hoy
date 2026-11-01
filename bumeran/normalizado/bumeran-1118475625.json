@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118475625",
+    "clave":  "id:1118475625",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-de-motocicletas-kasei-motors-sociedad-anonima-cerrada-1118475625.html",
+                   "capturadoEn":  "2026-11-01T07:32:02+00:00"
+               },
+    "titulo":  "Asesor(a) de Ventas de Motocicletas",
+    "empresa":  "KASEI MOTORS SOCIEDAD ANONIMA CERRADA",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor(a) de Ventas de Motocicletas Resumen del Puesto Buscamos un(a) Asesor(a) de Ventas de Motocicletas proactivo(a) y con gran vocación de servicio para unirse a nuestro equipo comercial. El candidato ideal tendrá experiencia en ventas y un fuerte interés en el sector de motocicletas, buscando siempre superar las expectativas del cliente. Responsabilidades Principales Atender y asesorar a clientes interesados en la adquisición de motocicletas, tanto de forma presencial como digital. Guiar a los clientes a través de los procesos de financiamiento, así como en la gestión de documentación y seguros. Realizar el seguimiento de clientes potenciales y existentes, abarcando desde la prospección y cotización hasta el cierre de ventas. Requisitos del Puesto Educación: Secundaria completa. Experiencia: Mínimo 1 año en ventas, preferentemente en el rubro automotriz, motocicletas o productos de valor similar. Competencias: Alta capacidad de negociación, orientación a resultados, habilidades de persuasión y excelente disposición para el trabajo en equipo. Ofrecemos Remuneración competitiva acorde al mercado, complementada con un atractivo esquema de comisiones sin límite. Incorporación formal desde el primer día de trabajo.",
+    "requisitos":  [
+                       "del Puesto",
+                       "Educación: Secundaria completa",
+                       "Experiencia: Mínimo 1 año en ventas, preferentemente en el rubro automotriz, motocicletas o productos de valor similar",
+                       "Competencias: Alta capacidad de negociación, orientación a resultados, habilidades de persuasión y excelente disposición para el trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-30",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-de-motocicletas-kasei-motors-sociedad-anonima-cerrada-1118475625.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-de-motocicletas-kasei-motors-sociedad-anonima-cerrada-1118475625.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesor(a) de Ventas de Motocicletas\u003c/strong\u003e \u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un(a) \u003cstrong\u003eAsesor(a) de Ventas de Motocicletas\u003c/strong\u003e proactivo(a) y con gran vocación de servicio para unirse a nuestro equipo comercial. El candidato ideal tendrá experiencia en ventas y un fuerte interés en el sector de motocicletas, buscando siempre superar las expectativas del cliente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades Principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtender y asesorar a clientes interesados en la adquisición de motocicletas, tanto de forma presencial como digital.\u003c/li\u003e \u003cli\u003eGuiar a los clientes a través de los procesos de financiamiento, así como en la gestión de documentación y seguros.\u003c/li\u003e \u003cli\u003eRealizar el seguimiento de clientes potenciales y existentes, abarcando desde la prospección y cotización hasta el cierre de ventas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación: Secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia: Mínimo 1 año en ventas, preferentemente en el rubro automotriz, motocicletas o productos de valor similar.\u003c/li\u003e \u003cli\u003eCompetencias: Alta capacidad de negociación, orientación a resultados, habilidades de persuasión y excelente disposición para el trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración competitiva acorde al mercado, complementada con un atractivo esquema de comisiones sin límite.\u003c/li\u003e \u003cli\u003eIncorporación formal desde el primer día de trabajo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "30/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
