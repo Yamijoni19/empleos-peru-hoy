@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118504295",
+    "clave":  "id:1118504295",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-recursos-humanos-reclutadora-starlatin-1118504295.html",
+                   "capturadoEn":  "2026-11-01T15:07:04+00:00"
+               },
+    "titulo":  "Especialista en Recursos Humanos / Reclutador(a)",
+    "empresa":  "StarLatin",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Especialista en Recursos Humanos / Reclutador(a) Resumen del Puesto Buscamos un(a) Especialista en Recursos Humanos / Reclutador(a) para unirse a nuestro equipo. Serás responsable de identificar y atraer talento, gestionando el ciclo completo de reclutamiento y apoyando en la administración de personal. Responsabilidades Reclutamiento y selección de diversos perfiles, incluyendo creadores de contenido, streamers, moderadores y personal operativo, utilizando diversas plataformas. Gestión de entrevistas, evaluación inicial y seguimiento del proceso de contratación. Apoyo en la inducción (onboarding), control de asistencia y administración básica del personal. Requisitos Experiencia previa mínima de 6 meses a 1 año en reclutamiento, selección o gestión de Recursos Humanos. Se valorará positivamente el interés o experiencia previa en el sector de redes sociales, streaming o entretenimiento digital. Excelentes habilidades de comunicación interpersonal y proactividad. Capacidad para trabajar de forma organizada y eficiente.",
+    "requisitos":  [
+                       "Experiencia previa mínima de 6 meses a 1 año en reclutamiento, selección o gestión de Recursos Humanos",
+                       "Se valorará positivamente el interés o experiencia previa en el sector de redes sociales, streaming o entretenimiento digital",
+                       "Excelentes habilidades de comunicación interpersonal y proactividad",
+                       "Capacidad para trabajar de forma organizada y eficiente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-recursos-humanos-reclutadora-starlatin-1118504295.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-recursos-humanos-reclutadora-starlatin-1118504295.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Recursos Humanos / Reclutador(a)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eEspecialista en Recursos Humanos / Reclutador(a)\u003c/b\u003e para unirse a nuestro equipo. Serás responsable de identificar y atraer talento, gestionando el ciclo completo de reclutamiento y apoyando en la administración de personal.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eReclutamiento y selección de diversos perfiles, incluyendo creadores de contenido, streamers, moderadores y personal operativo, utilizando diversas plataformas.\u003c/li\u003e \u003cli\u003eGestión de entrevistas, evaluación inicial y seguimiento del proceso de contratación.\u003c/li\u003e \u003cli\u003eApoyo en la inducción (onboarding), control de asistencia y administración básica del personal.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa mínima de 6 meses a 1 año en reclutamiento, selección o gestión de Recursos Humanos.\u003c/li\u003e \u003cli\u003eSe valorará positivamente el interés o experiencia previa en el sector de redes sociales, streaming o entretenimiento digital.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación interpersonal y proactividad.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma organizada y eficiente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

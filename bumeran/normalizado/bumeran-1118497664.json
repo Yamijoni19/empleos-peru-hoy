@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118497664",
+    "clave":  "id:1118497664",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/empresa-solicita-practicantes-en-soporte-y-mantenimiento-de-equipos-informaticos-importaciones-naliony-e.i.r.l-1118497664.html",
+                   "capturadoEn":  "2026-11-01T15:07:20+00:00"
+               },
+    "titulo":  "EMPRESA SOLICITA PRACTICANTES en Soporte y Mantenimiento de Equipos Informáticos",
+    "empresa":  "IMPORTACIONES NALIONY E.I.R.L",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Pracricantes en Soporte y Mantenimiento de Equipos Informáticos Resumen del Puesto Estamos en búsqueda de jóvenes talentosos y proactivos para unirse a nuestro equipo en calidad de pasantes, enfocados en el área de soporte y mantenimiento de equipos informáticos. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico. Responsabilidades Asistir en la instalación, configuración y mantenimiento de computadoras y laptops. Colaborar en la identificación y solución de problemas técnicos de hardware y software. Participar en el reemplazo de piezas y periféricos de equipos informáticos. Brindar soporte básico a usuarios en relación con sus equipos. Documentar las tareas realizadas y los problemas resueltos. Requisitos Estudiantes de carreras técnicas o universitarias relacionadas con informática, sistemas o afines. Interés y conocimientos básicos en hardware y software de computadoras y laptops. Capacidad para el aprendizaje rápido y la resolución de problemas. Habilidad para trabajar en equipo y seguir instrucciones. Proactividad y buena disposición para el aprendizaje.",
+    "requisitos":  [
+                       "Estudiantes de carreras técnicas o universitarias relacionadas con informática, sistemas o afines",
+                       "Interés y conocimientos básicos en hardware y software de computadoras y laptops",
+                       "Capacidad para el aprendizaje rápido y la resolución de problemas",
+                       "Habilidad para trabajar en equipo y seguir instrucciones",
+                       "Proactividad y buena disposición para el aprendizaje"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/empresa-solicita-practicantes-en-soporte-y-mantenimiento-de-equipos-informaticos-importaciones-naliony-e.i.r.l-1118497664.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/empresa-solicita-practicantes-en-soporte-y-mantenimiento-de-equipos-informaticos-importaciones-naliony-e.i.r.l-1118497664.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePracricantes en Soporte y Mantenimiento de Equipos Informáticos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en búsqueda de jóvenes talentosos y proactivos para unirse a nuestro equipo en calidad de pasantes, enfocados en el área de soporte y mantenimiento de equipos informáticos. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno dinámico.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsistir en la instalación, configuración y mantenimiento de computadoras y laptops.\u003c/li\u003e \u003cli\u003eColaborar en la identificación y solución de problemas técnicos de hardware y software.\u003c/li\u003e \u003cli\u003eParticipar en el reemplazo de piezas y periféricos de equipos informáticos.\u003c/li\u003e \u003cli\u003eBrindar soporte básico a usuarios en relación con sus equipos.\u003c/li\u003e \u003cli\u003eDocumentar las tareas realizadas y los problemas resueltos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiantes de carreras técnicas o universitarias relacionadas con informática, sistemas o afines.\u003c/li\u003e \u003cli\u003eInterés y conocimientos básicos en hardware y software de computadoras y laptops.\u003c/li\u003e \u003cli\u003eCapacidad para el aprendizaje rápido y la resolución de problemas.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eProactividad y buena disposición para el aprendizaje.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

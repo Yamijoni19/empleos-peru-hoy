@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118504296",
+    "clave":  "id:1118504296",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-para-transmisiones-en-vivo-starlatin-1118504296.html",
+                   "capturadoEn":  "2026-11-01T15:07:03+00:00"
+               },
+    "titulo":  "Creadora de Contenido para Transmisiones en Vivo",
+    "empresa":  "StarLatin",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2004,
+                    "max":  5000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,004 - S/ 5,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Creadora de Contenido para Transmisiones en Vivo Resumen del Puesto Buscamos Creadoras de Contenido con carisma y energía para unirse a nuestro equipo de transmisiones grupales en vivo. Si te apasiona el entretenimiento digital y disfrutas interactuando con audiencias, esta oportunidad es para ti. Buscamos personas con una actitud positiva y ganas de crecer en el mundo del streaming. Responsabilidades Participar activamente en transmisiones en vivo grupales, interactuando con la audiencia a través de diversas plataformas digitales. Colaborar de manera efectiva con otras creadoras y el equipo de producción para asegurar un ambiente dinámico y entretenido. Mantener una imagen profesional y positiva durante las transmisiones, siguiendo las directrices de contenido y horarios establecidos. Contribuir a la creación de contenido atractivo y diverso, que incluya canto, baile, dinámicas de juegos y conversación amena. Requisitos Excelente presencia frente a la cámara y una personalidad carismática, alegre y sociable. Habilidad para comunicarse de forma fluida y entusiasta, con una fuerte disposición para el trabajo en equipo. Se valorará el gusto o talento para la música, el baile o el entretenimiento digital. No se requiere experiencia previa, ya que se ofrecerá capacitación completa. Disponibilidad para participar en transmisiones según la programación acordada.",
+    "requisitos":  [
+                       "Excelente presencia frente a la cámara y una personalidad carismática, alegre y sociable",
+                       "Habilidad para comunicarse de forma fluida y entusiasta, con una fuerte disposición para el trabajo en equipo",
+                       "Se valorará el gusto o talento para la música, el baile o el entretenimiento digital. No se requiere experiencia previa, ya que se ofrecerá capacitación completa",
+                       "Disponibilidad para participar en transmisiones según la programación acordada"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-para-transmisiones-en-vivo-starlatin-1118504296.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/creadora-de-contenido-para-transmisiones-en-vivo-starlatin-1118504296.html",
+    "descripcion_html":  "\u003cb\u003eCreadora de Contenido para Transmisiones en Vivo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos \u003cb\u003eCreadoras de Contenido\u003c/b\u003e con carisma y energía para unirse a nuestro equipo de transmisiones grupales en vivo. Si te apasiona el entretenimiento digital y disfrutas interactuando con audiencias, esta oportunidad es para ti. Buscamos personas con una actitud positiva y ganas de crecer en el mundo del streaming.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eParticipar activamente en transmisiones en vivo grupales, interactuando con la audiencia a través de diversas plataformas digitales.\u003c/li\u003e \u003cli\u003eColaborar de manera efectiva con otras creadoras y el equipo de producción para asegurar un ambiente dinámico y entretenido.\u003c/li\u003e \u003cli\u003eMantener una imagen profesional y positiva durante las transmisiones, siguiendo las directrices de contenido y horarios establecidos.\u003c/li\u003e \u003cli\u003eContribuir a la creación de contenido atractivo y diverso, que incluya canto, baile, dinámicas de juegos y conversación amena.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExcelente presencia frente a la cámara y una personalidad carismática, alegre y sociable.\u003c/li\u003e \u003cli\u003eHabilidad para comunicarse de forma fluida y entusiasta, con una fuerte disposición para el trabajo en equipo.\u003c/li\u003e \u003cli\u003eSe valorará el gusto o talento para la música, el baile o el entretenimiento digital. No se requiere experiencia previa, ya que se ofrecerá capacitación completa.\u003c/li\u003e \u003cli\u003eDisponibilidad para participar en transmisiones según la programación acordada.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

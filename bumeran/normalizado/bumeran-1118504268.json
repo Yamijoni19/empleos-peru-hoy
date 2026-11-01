@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118504268",
+    "clave":  "id:1118504268",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-legal-cia-alpayana-1118504268.html",
+                   "capturadoEn":  "2026-11-01T15:07:17+00:00"
+               },
+    "titulo":  "Asistente Legal",
+    "empresa":  "CIA ALPAYANA",
+    "ubicacion":  "Lima - Magdalena del Mar",
+    "ciudad":  "Magdalena del Mar",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4200,
+                    "max":  7300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,200 - S/ 7,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Legal Resumen del Puesto Nos encontramos en la búsqueda de Asistentes Legales para integrarse a nuestro equipo. Buscamos profesionales con formación en derecho, que puedan aportar al área legal de la organización. Se valorará la proactividad y la capacidad de aprendizaje. Responsabilidades Colaborar en la preparación de documentos legales. Realizar investigaciones jurídicas y recopilación de información. Dar soporte en la gestión de expedientes y trámites legales. Asistir en la organización y archivo de documentación legal. Apoyar al equipo legal en diversas tareas administrativas y operativas. Requisitos Formación académica en Derecho (egresado, bachiller o titulado). Conocimientos básicos de legislación y procedimientos legales. Habilidad para la investigación y análisis de información. Capacidad de organización y atención al detalle. Buenas habilidades de comunicación. Disposición para el trabajo en equipo y el aprendizaje continuo.",
+    "requisitos":  [
+                       "Formación académica en Derecho (egresado, bachiller o titulado)",
+                       "Conocimientos básicos de legislación y procedimientos legales",
+                       "Habilidad para la investigación y análisis de información",
+                       "Capacidad de organización y atención al detalle",
+                       "Buenas habilidades de comunicación",
+                       "Disposición para el trabajo en equipo y el aprendizaje continuo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-legal-cia-alpayana-1118504268.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-legal-cia-alpayana-1118504268.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Legal\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de \u003cb\u003eAsistentes Legales\u003c/b\u003e para integrarse a nuestro equipo. Buscamos profesionales con formación en derecho, que puedan aportar al área legal de la organización. Se valorará la proactividad y la capacidad de aprendizaje.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación de documentos legales.\u003c/li\u003e \u003cli\u003eRealizar investigaciones jurídicas y recopilación de información.\u003c/li\u003e \u003cli\u003eDar soporte en la gestión de expedientes y trámites legales.\u003c/li\u003e \u003cli\u003eAsistir en la organización y archivo de documentación legal.\u003c/li\u003e \u003cli\u003eApoyar al equipo legal en diversas tareas administrativas y operativas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica en Derecho (egresado, bachiller o titulado).\u003c/li\u003e \u003cli\u003eConocimientos básicos de legislación y procedimientos legales.\u003c/li\u003e \u003cli\u003eHabilidad para la investigación y análisis de información.\u003c/li\u003e \u003cli\u003eCapacidad de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación.\u003c/li\u003e \u003cli\u003eDisposición para el trabajo en equipo y el aprendizaje continuo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

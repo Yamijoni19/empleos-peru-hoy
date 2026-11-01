@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118504297",
+    "clave":  "id:1118504297",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-operativo-y-traductor-bilingue-chino-espanol-starlatin-1118504297.html",
+                   "capturadoEn":  "2026-11-01T15:07:02+00:00"
+               },
+    "titulo":  "Asistente Operativo y Traductor Bilingüe (Chino - Español)",
+    "empresa":  "StarLatin",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4000,
+                    "max":  6000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 6,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Operativo y Traductor Bilingüe (Chino - Español) Resumen del Puesto Estamos en la búsqueda de un(a) Asistente Operativo y Traductor Bilingüe con dominio fluido de chino mandarín y español para integrarse a nuestro equipo. El candidato ideal poseerá excelentes habilidades de comunicación, proactividad y un gran interés en el dinámico mundo de los medios digitales y el entretenimiento. Responsabilidades Realizar interpretación y traducción fluida entre el idioma chino mandarín y español, facilitando la comunicación entre la dirección y el equipo. Brindar apoyo operativo en la gestión de transmisiones en vivo (live streaming) y coordinar actividades con los participantes. Elaborar y traducir reportes, métricas y comunicados internos, asegurando la claridad y precisión de la información. Requisitos Dominio fluido o nativo de chino mandarín y español, tanto en expresión oral como escrita. Sólidas habilidades interpersonales, demostrando proactividad y un alto sentido de la responsabilidad. Se valorará el interés en redes sociales, plataformas de streaming o entornos multiculturales. Capacidad para integrarse a un equipo de trabajo dinámico.",
+    "requisitos":  [
+                       "Dominio fluido o nativo de chino mandarín y español, tanto en expresión oral como escrita",
+                       "Sólidas habilidades interpersonales, demostrando proactividad y un alto sentido de la responsabilidad",
+                       "Se valorará el interés en redes sociales, plataformas de streaming o entornos multiculturales",
+                       "Capacidad para integrarse a un equipo de trabajo dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-operativo-y-traductor-bilingue-chino-espanol-starlatin-1118504297.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-operativo-y-traductor-bilingue-chino-espanol-starlatin-1118504297.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Operativo y Traductor Bilingüe (Chino - Español)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un(a) \u003cb\u003eAsistente Operativo y Traductor Bilingüe\u003c/b\u003e con dominio fluido de \u003cb\u003echino mandarín y español\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal poseerá excelentes habilidades de comunicación, proactividad y un gran interés en el dinámico mundo de los medios digitales y el entretenimiento.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar interpretación y traducción fluida entre el idioma chino mandarín y español, facilitando la comunicación entre la dirección y el equipo.\u003c/li\u003e \u003cli\u003eBrindar apoyo operativo en la gestión de transmisiones en vivo (live streaming) y coordinar actividades con los participantes.\u003c/li\u003e \u003cli\u003eElaborar y traducir reportes, métricas y comunicados internos, asegurando la claridad y precisión de la información.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDominio fluido o nativo de chino mandarín y español, tanto en expresión oral como escrita.\u003c/li\u003e \u003cli\u003eSólidas habilidades interpersonales, demostrando proactividad y un alto sentido de la responsabilidad.\u003c/li\u003e \u003cli\u003eSe valorará el interés en redes sociales, plataformas de streaming o entornos multiculturales.\u003c/li\u003e \u003cli\u003eCapacidad para integrarse a un equipo de trabajo dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

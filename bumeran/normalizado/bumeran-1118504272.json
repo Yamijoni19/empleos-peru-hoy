@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504272",
+    "clave":  "id:1118504272",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-ambiental-cia-alpayana-1118504272.html",
+                   "capturadoEn":  "2026-11-01T15:07:14+00:00"
+               },
+    "titulo":  "Asistente Ambiental",
+    "empresa":  "CIA ALPAYANA",
+    "ubicacion":  "Lima - Yauyos",
+    "ciudad":  "Yauyos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4600,
+                    "max":  7800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,600 - S/ 7,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Ambiental Resumen del Puesto Estamos en la búsqueda de un Asistente Ambiental proactivo y con gran capacidad de aprendizaje para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos en normativas ambientales y estará dispuesto a colaborar activamente en la gestión y supervisión de actividades relacionadas con el medio ambiente. Responsabilidades Apoyar en la implementación y seguimiento de planes y programas ambientales. Colaborar en la supervisión del cumplimiento de la normativa ambiental vigente. Participar en la elaboración de informes y registros ambientales. Asistir en la identificación y evaluación de riesgos ambientales. Contribuir a la promoción de buenas prácticas ambientales en las operaciones. Requisitos Formación técnica o universitaria en carreras afines a Medio Ambiente, Ingeniería Ambiental, o similar. Se valorará experiencia previa en roles similares o en el sector de operaciones. Conocimiento de la legislación ambiental aplicable. Capacidad para el trabajo en equipo y proactividad. Habilidades de organización y atención al detalle.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en carreras afines a Medio Ambiente, Ingeniería Ambiental, o similar",
+                       "Se valorará experiencia previa en roles similares o en el sector de operaciones",
+                       "Conocimiento de la legislación ambiental aplicable",
+                       "Capacidad para el trabajo en equipo y proactividad",
+                       "Habilidades de organización y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-ambiental-cia-alpayana-1118504272.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-ambiental-cia-alpayana-1118504272.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Ambiental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente Ambiental\u003c/b\u003e proactivo y con gran capacidad de aprendizaje para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos en normativas ambientales y estará dispuesto a colaborar activamente en la gestión y supervisión de actividades relacionadas con el medio ambiente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la implementación y seguimiento de planes y programas ambientales.\u003c/li\u003e \u003cli\u003eColaborar en la supervisión del cumplimiento de la normativa ambiental vigente.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de informes y registros ambientales.\u003c/li\u003e \u003cli\u003eAsistir en la identificación y evaluación de riesgos ambientales.\u003c/li\u003e \u003cli\u003eContribuir a la promoción de buenas prácticas ambientales en las operaciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en carreras afines a Medio Ambiente, Ingeniería Ambiental, o similar.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa en roles similares o en el sector de operaciones.\u003c/li\u003e \u003cli\u003eConocimiento de la legislación ambiental aplicable.\u003c/li\u003e \u003cli\u003eCapacidad para el trabajo en equipo y proactividad.\u003c/li\u003e \u003cli\u003eHabilidades de organización y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

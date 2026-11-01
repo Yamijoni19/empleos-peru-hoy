@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504276",
+    "clave":  "id:1118504276",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-turno-tarde-umari-1118504276.html",
+                   "capturadoEn":  "2026-11-01T15:07:11+00:00"
+               },
+    "titulo":  "Ayudante de Cocina (Turno Tarde)",
+    "empresa":  "UMARI",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina (Turno Tarde) Resumen del Puesto Estamos en la búsqueda de un Ayudante de Cocina dinámico y con ganas de aprender para unirse a nuestro equipo en el turno de tarde. Si tienes vocación por la gastronomía y te gusta trabajar en un ambiente de ritmo ágil, esta oportunidad es para ti. No se requiere experiencia previa, ya que brindaremos la capacitación necesaria. Responsabilidades Asistir en la preparación de alimentos bajo supervisión. Mantener la limpieza y el orden en la cocina y áreas de trabajo. Colaborar con el equipo para asegurar un servicio eficiente. Realizar tareas básicas de corte, limpieza y organización de ingredientes. Seguir las normativas de higiene y seguridad alimentaria. Requisitos Actitud proactiva y disposición para aprender. Capacidad para trabajar en equipo. Habilidad para seguir instrucciones. Disponibilidad para trabajar en turno tarde. Gusto por el área de alimentos y bebidas.",
+    "requisitos":  [
+                       "Actitud proactiva y disposición para aprender",
+                       "Capacidad para trabajar en equipo",
+                       "Habilidad para seguir instrucciones",
+                       "Disponibilidad para trabajar en turno tarde",
+                       "Gusto por el área de alimentos y bebidas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-turno-tarde-umari-1118504276.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-turno-tarde-umari-1118504276.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Cocina (Turno Tarde)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAyudante de Cocina\u003c/b\u003e dinámico y con ganas de aprender para unirse a nuestro equipo en el turno de tarde. Si tienes vocación por la gastronomía y te gusta trabajar en un ambiente de ritmo ágil, esta oportunidad es para ti. No se requiere experiencia previa, ya que brindaremos la capacitación necesaria.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en la preparación de alimentos bajo supervisión.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en la cocina y áreas de trabajo.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar un servicio eficiente.\u003c/li\u003e \u003cli\u003eRealizar tareas básicas de corte, limpieza y organización de ingredientes.\u003c/li\u003e \u003cli\u003eSeguir las normativas de higiene y seguridad alimentaria.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eActitud proactiva y disposición para aprender.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eHabilidad para seguir instrucciones.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turno tarde.\u003c/li\u003e \u003cli\u003eGusto por el área de alimentos y bebidas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
