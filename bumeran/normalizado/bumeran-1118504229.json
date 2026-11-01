@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118504229",
+    "clave":  "id:1118504229",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-guardia-20x10-procesos-planta-de-beneficio-de-minerales-en-andahuaylas-outcall-s.a.c-1118504229.html",
+                   "capturadoEn":  "2026-11-01T19:39:38+00:00"
+               },
+    "titulo":  "Supervisor de Guardia 20x10 (Procesos), Planta de Beneficio de Minerales en Andahuaylas",
+    "empresa":  "OUTCALL S.A.C",
+    "ubicacion":  "Apurimac - Andahuaylas",
+    "ciudad":  "Andahuaylas",
+    "region":  "Apurimac",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Convocar y dirigir reuniones operativas al inicio del turno para coordinar trabajos pendientes, prioridades, recursos y operatividad de equipos. Controlar las actividades de chancado, molienda, flotación, filtrado y relavera de molino seco, asegurando recursos para la continuidad del proceso. Generar reportes de fin de turno sobre producción, insumos, equipos y personal. Liderar al personal operativo, velando por su seguridad y el cuidado de las instalaciones. Informar permanentemente al jefe inmediato sobre la marcha del proceso productivo. Verificar el cumplimiento de normas, especificaciones y procedimientos operativos. Planificar y coordinar mantenimientos preventivos, correctivos y predictivos. Asegurar el cumplimiento de los programas de producción según las metas establecidas. Implementar políticas de calidad, medio ambiente y prevención de riesgos laborales. Supervisar el uso de insumos químicos, verificando parámetros de flotación. Controlar el grado de concentrado y la recuperación del proceso. Apoyar en auditorías y conservar evidencias de gestión.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-guardia-20x10-procesos-planta-de-beneficio-de-minerales-en-andahuaylas-outcall-s.a.c-1118504229.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-guardia-20x10-procesos-planta-de-beneficio-de-minerales-en-andahuaylas-outcall-s.a.c-1118504229.html",
+    "descripcion_html":  "\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConvocar y dirigir reuniones operativas al inicio del turno para coordinar trabajos pendientes, prioridades, recursos y operatividad de equipos.\u003c/li\u003e \u003cli\u003eControlar las actividades de chancado, molienda, flotación, filtrado y relavera de molino seco, asegurando recursos para la continuidad del proceso.\u003c/li\u003e \u003cli\u003eGenerar reportes de fin de turno sobre producción, insumos, equipos y personal.\u003c/li\u003e \u003cli\u003eLiderar al personal operativo, velando por su seguridad y el cuidado de las instalaciones.\u003c/li\u003e \u003cli\u003eInformar permanentemente al jefe inmediato sobre la marcha del proceso productivo.\u003c/li\u003e \u003cli\u003eVerificar el cumplimiento de normas, especificaciones y procedimientos operativos.\u003c/li\u003e \u003cli\u003ePlanificar y coordinar mantenimientos preventivos, correctivos y predictivos.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los programas de producción según las metas establecidas.\u003c/li\u003e \u003cli\u003eImplementar políticas de calidad, medio ambiente y prevención de riesgos laborales.\u003c/li\u003e \u003cli\u003eSupervisar el uso de insumos químicos, verificando parámetros de flotación.\u003c/li\u003e \u003cli\u003eControlar el grado de concentrado y la recuperación del proceso.\u003c/li\u003e \u003cli\u003eApoyar en auditorías y conservar evidencias de gestión.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

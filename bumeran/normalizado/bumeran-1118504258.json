@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118504258",
+    "clave":  "id:1118504258",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-senior-de-gestion-humana-1118504258.html",
+                   "capturadoEn":  "2026-11-01T19:39:09+00:00"
+               },
+    "titulo":  "ANALISTA SENIOR DE GESTIÓN HUMANA",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Junin - Junín",
+    "ciudad":  "Junín",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "ANALISTA SENIOR DE GESTIÓN HUMANA Estamos en búsqueda de un(a) Analista Senior de Gestión Humana para la UM Morococha. REQUISITOS: Bachiller o titulado(a) en Administración, Recursos Humanos, Relaciones Industriales, Psicología, Ingeniería Industrial o afines. Mínimo 2 años de experiencia en Recursos Humanos. Experiencia en indicadores de Gestión Humana. Excel y Power BI a nivel intermedio/avanzado. Disponibilidad para trabajar bajo régimen minero. BENEFICIOS: Planilla completa con beneficios de ley. Alimentación y habitabilidad cubiertas al 100%. Movilidad de acercamiento. Oportunidad de desarrollo profesional. Lugar de trabajo: Morococha, Junín. POSTULA AQUÍ: https://forms.gle/6vnpzzd3RXvLXdYH6",
+    "requisitos":  [
+                       "Bachiller o titulado(a) en Administración, Recursos Humanos, Relaciones Industriales, Psicología, Ingeniería Industrial o afines",
+                       "Mínimo 2 años de experiencia en Recursos Humanos",
+                       "Experiencia en indicadores de Gestión Humana",
+                       "Excel y Power BI a nivel intermedio/avanzado",
+                       "Disponibilidad para trabajar bajo régimen minero"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Alimentación y habitabilidad cubiertas al 100%",
+                       "Movilidad de acercamiento",
+                       "Oportunidad de desarrollo profesional",
+                       "Lugar de trabajo: Morococha, Junín",
+                       "POSTULA AQUÍ: https://forms.gle/6vnpzzd3RXvLXdYH6"
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-senior-de-gestion-humana-1118504258.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-senior-de-gestion-humana-1118504258.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eANALISTA SENIOR DE GESTIÓN HUMANA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en búsqueda de un(a) Analista Senior de Gestión Humana para la UM Morococha.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Bachiller o titulado(a) en Administración, Recursos Humanos, Relaciones Industriales, Psicología, Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003e Mínimo 2 años de experiencia en Recursos Humanos.\u003c/li\u003e \u003cli\u003e Experiencia en indicadores de Gestión Humana.\u003c/li\u003e \u003cli\u003e Excel y Power BI a nivel intermedio/avanzado.\u003c/li\u003e \u003cli\u003e Disponibilidad para trabajar bajo régimen minero.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Planilla completa con beneficios de ley.\u003c/li\u003e \u003cli\u003e Alimentación y habitabilidad cubiertas al 100%.\u003c/li\u003e \u003cli\u003e Movilidad de acercamiento.\u003c/li\u003e \u003cli\u003e Oportunidad de desarrollo profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eLugar de trabajo: Morococha, Junín.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePOSTULA AQUÍ: \u003c/strong\u003ehttps://forms.gle/6vnpzzd3RXvLXdYH6\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

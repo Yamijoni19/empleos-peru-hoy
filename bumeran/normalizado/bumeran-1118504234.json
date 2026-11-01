@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118504234",
+    "clave":  "id:1118504234",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/chef-de-cocina-titulado-consorcios-quillabamba-1118504234.html",
+                   "capturadoEn":  "2026-11-01T19:39:31+00:00"
+               },
+    "titulo":  "Chef de Cocina Titulado",
+    "empresa":  "Consorcios Quillabamba",
+    "ubicacion":  "Cuzco - La Convencion",
+    "ciudad":  "La Convencion",
+    "region":  "Cuzco",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  6000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 6,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Chef de Cocina Titulado Resumen del Puesto Buscamos un Chef de Cocina Titulado para unirse a nuestro equipo. El candidato ideal tendrá pasión por la gastronomía, habilidades culinarias excepcionales y capacidad para liderar un equipo en un entorno dinámico. Responsabilidades Diseñar y ejecutar menús creativos y deliciosos. Supervisar las operaciones diarias de la cocina. Gestionar el inventario y asegurar la calidad de los ingredientes. Capacitar y liderar al personal de cocina. Mantener altos estándares de higiene y seguridad alimentaria. Colaborar con otros departamentos para garantizar una experiencia culinaria excepcional. Requisitos Título profesional en Gastronomía, Cocina o campo relacionado. Experiencia previa en la preparación y elaboración de menús. Conocimientos en técnicas culinarias y gestión de cocina. Capacidad de organización, liderazgo y trabajo en equipo. Responsabilidad, compromiso y puntualidad. Excelentes habilidades de comunicación.",
+    "requisitos":  [
+                       "Título profesional en Gastronomía, Cocina o campo relacionado",
+                       "Experiencia previa en la preparación y elaboración de menús",
+                       "Conocimientos en técnicas culinarias y gestión de cocina",
+                       "Capacidad de organización, liderazgo y trabajo en equipo",
+                       "Responsabilidad, compromiso y puntualidad",
+                       "Excelentes habilidades de comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/chef-de-cocina-titulado-consorcios-quillabamba-1118504234.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/chef-de-cocina-titulado-consorcios-quillabamba-1118504234.html",
+    "descripcion_html":  "\u003cb\u003eChef de Cocina Titulado\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eChef de Cocina Titulado\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal tendrá pasión por la gastronomía, habilidades culinarias excepcionales y capacidad para liderar un equipo en un entorno dinámico.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003eDiseñar\u003c/b\u003e y ejecutar menús creativos y deliciosos.\u003c/li\u003e \u003cli\u003e\u003cb\u003eSupervisar\u003c/b\u003e las operaciones diarias de la cocina.\u003c/li\u003e \u003cli\u003e\u003cb\u003eGestionar\u003c/b\u003e el inventario y asegurar la calidad de los ingredientes.\u003c/li\u003e \u003cli\u003e\u003cb\u003eCapacitar\u003c/b\u003e y liderar al personal de cocina.\u003c/li\u003e \u003cli\u003e\u003cb\u003eMantener\u003c/b\u003e altos estándares de higiene y seguridad alimentaria.\u003c/li\u003e \u003cli\u003e\u003cb\u003eColaborar\u003c/b\u003e con otros departamentos para garantizar una experiencia culinaria excepcional.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo profesional en Gastronomía, Cocina o campo relacionado.\u003c/li\u003e \u003cli\u003eExperiencia previa en la preparación y elaboración de menús.\u003c/li\u003e \u003cli\u003eConocimientos en técnicas culinarias y gestión de cocina.\u003c/li\u003e \u003cli\u003eCapacidad de organización, liderazgo y trabajo en equipo.\u003c/li\u003e \u003cli\u003eResponsabilidad, compromiso y puntualidad.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
