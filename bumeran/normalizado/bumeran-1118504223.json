@@ -1,0 +1,92 @@
+{
+    "id":  "bumeran-1118504223",
+    "clave":  "id:1118504223",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-enginner-banco-indra-peru-1118504223.html",
+                   "capturadoEn":  "2026-11-01T23:35:33+00:00"
+               },
+    "titulo":  "Data Enginner (banco)",
+    "empresa":  "INDRA PERU",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Un lugar para ti! INDRA es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo. Es un proveedor líder mundial de soluciones propias en segmentos específicos de los mercados de Transporte y Defensa, y la empresa líder en consultoría de transformación digital y Tecnologías de la Información en España y Latinoamérica. Con cerca de 48.000 empleados, presencia local en 46 países y operaciones comerciales en más de 140 países. Nos encontramos en búsqueda de un(a): Ingeniero de Datos Funciones: Liderar técnicamente al equipo de ingeniería de datos. Diseñar y desarrollar pipelines de ingesta y transformación de datos desde fuentes bancarias, bases de datos, APIs y archivos batch. Construir y evolucionar frameworks reutilizables de ingesta, calidad e historificación. Optimizar procesos, rendimiento y costos en Databricks. Realizar code reviews y asegurar estándares de desarrollo. Participar en estimaciones técnicas, despliegues y atención de incidencias en producción. Requisitos: +5 años de experiencia en Ingeniería de Datos. 3 años de experiencia en Databricks y Spark en entornos productivos. 2 años de experiencia en el sector bancario o financiero. Experiencia intermedia en AWS Experiencia liderando técnicamente equipos de ingeniería de datos. Conocimientos clave: Databricks avanzado: Delta Lake, Workflows, Auto Loader y optimización de jobs y clusters. Spark avanzado: PySpark y Spark SQL. AWS intermedio: servicios del ecosistema AWS. Python, Git/Bitbucket y CI/CD. Procesamiento de datos: ETL/ELT, MERGE, SCD, idempotencia y reprocesamiento. Unity Catalog y gestión de seguridad y accesos a datos. Modalidad: Híbrida, San Isidro. Beneficios: Oportunidad de aprendizaje y crecimiento profesional en sector bancario. Entorno de trabajo colaborativo y de apoyo. EPS 100% para el colaborador. Acceso a la plataforma Udemy 100% gratuita. Asesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo. Convenios corporativos y educativos. Planilla al 100% (Vacaciones, CTS, Gratificación, etc.) Seguro vida Ley. Si tienes experiencia como Data enginner o Lead Enginner en banca ¡queremos conocerte!",
+    "requisitos":  [
+                       "+5 años de experiencia en Ingeniería de Datos",
+                       "3 años de experiencia en Databricks y Spark en entornos productivos",
+                       "2 años de experiencia en el sector bancario o financiero",
+                       "Experiencia intermedia en AWS",
+                       "Experiencia liderando técnicamente equipos de ingeniería de datos",
+                       "Conocimientos clave",
+                       "Databricks avanzado: Delta Lake, Workflows, Auto Loader y optimización de jobs y clusters",
+                       "Spark avanzado: PySpark y Spark SQL",
+                       "AWS intermedio: servicios del ecosistema AWS",
+                       "Python, Git/Bitbucket y CI/CD",
+                       "Procesamiento de datos: ETL/ELT, MERGE, SCD, idempotencia y reprocesamiento",
+                       "Unity Catalog y gestión de seguridad y accesos a datos",
+                       "Modalidad: Híbrida, San Isidro"
+                   ],
+    "funciones":  [
+                      "Liderar técnicamente al equipo de ingeniería de datos",
+                      "Diseñar y desarrollar pipelines de ingesta y transformación de datos desde fuentes bancarias, bases de datos, APIs y archivos batch",
+                      "Construir y evolucionar frameworks reutilizables de ingesta, calidad e historificación",
+                      "Optimizar procesos, rendimiento y costos en Databricks",
+                      "Realizar code reviews y asegurar estándares de desarrollo",
+                      "Participar en estimaciones técnicas, despliegues y atención de incidencias en producción"
+                  ],
+    "beneficios":  [
+                       "Oportunidad de aprendizaje y crecimiento profesional en sector bancario",
+                       "Entorno de trabajo colaborativo y de apoyo. EPS 100% para el colaborador",
+                       "Acceso a la plataforma Udemy 100% gratuita",
+                       "Asesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo",
+                       "Convenios corporativos y educativos. Planilla al 100% (Vacaciones, CTS, Gratificación, etc.)",
+                       "Seguro vida Ley",
+                       "Si tienes experiencia como Data enginner o Lead Enginner en banca ¡queremos conocerte!"
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/data-enginner-banco-indra-peru-1118504223.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-enginner-banco-indra-peru-1118504223.html",
+    "descripcion_html":  "\u003cp\u003eUn lugar para ti! INDRA es una de las principales compañías globales de tecnología y consultoría y el socio tecnológico para las operaciones clave de los negocios de sus clientes en todo el mundo. Es un proveedor líder mundial de soluciones propias en segmentos específicos de los mercados de Transporte y Defensa, y la empresa líder en consultoría de transformación digital y Tecnologías de la Información en España y Latinoamérica. Con cerca de 48.000 empleados, presencia local en 46 países y operaciones comerciales en más de 140 países. Nos encontramos en búsqueda de un(a):\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIngeniero de Datos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eLiderar técnicamente al equipo de ingeniería de datos.\u003c/li\u003e \u003cli\u003eDiseñar y desarrollar pipelines de ingesta y transformación de datos desde fuentes bancarias, bases de datos, APIs y archivos batch.\u003c/li\u003e \u003cli\u003eConstruir y evolucionar frameworks reutilizables de ingesta, calidad e historificación.\u003c/li\u003e \u003cli\u003eOptimizar procesos, rendimiento y costos en Databricks.\u003c/li\u003e \u003cli\u003eRealizar code reviews y asegurar estándares de desarrollo.\u003c/li\u003e \u003cli\u003eParticipar en estimaciones técnicas, despliegues y atención de incidencias en producción.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003e+5 años de experiencia en Ingeniería de Datos.\u003c/li\u003e \u003cli\u003e3 años de experiencia en Databricks y Spark en entornos productivos.\u003c/li\u003e \u003cli\u003e2 años de experiencia en el sector bancario o financiero.\u003c/li\u003e \u003cli\u003eExperiencia intermedia en AWS\u003c/li\u003e \u003cli\u003eExperiencia liderando técnicamente equipos de ingeniería de datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eConocimientos clave:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eDatabricks avanzado:\u003c/strong\u003e Delta Lake, Workflows, Auto Loader y optimización de jobs y clusters.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSpark avanzado:\u003c/strong\u003e PySpark y Spark SQL.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAWS intermedio:\u003c/strong\u003e servicios del ecosistema AWS.\u003c/li\u003e \u003cli\u003ePython, Git/Bitbucket y CI/CD.\u003c/li\u003e \u003cli\u003eProcesamiento de datos: ETL/ELT, MERGE, SCD, idempotencia y reprocesamiento.\u003c/li\u003e \u003cli\u003eUnity Catalog y gestión de seguridad y accesos a datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eModalidad: Híbrida, San Isidro.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eOportunidad de aprendizaje y crecimiento profesional en sector bancario.\u003c/li\u003e \u003cli\u003eEntorno de trabajo colaborativo y de apoyo. EPS 100% para el colaborador.\u003c/li\u003e \u003cli\u003eAcceso a la plataforma Udemy 100% gratuita.\u003c/li\u003e \u003cli\u003eAsesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo.\u003c/li\u003e \u003cli\u003eConvenios corporativos y educativos. Planilla al 100% (Vacaciones, CTS, Gratificación, etc.)\u003c/li\u003e \u003cli\u003eSeguro vida Ley.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSi tienes experiencia como Data enginner o Lead Enginner en banca ¡queremos conocerte!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

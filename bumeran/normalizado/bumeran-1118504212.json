@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118504212",
+    "clave":  "id:1118504212",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-a-de-produccion-textil-apjl-textil-s.a.c.-1118504212.html",
+                   "capturadoEn":  "2026-11-01T23:35:50+00:00"
+               },
+    "titulo":  "Operario/a de Producción Textil",
+    "empresa":  "APJL TEXTIL S.A.C.",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario/a de Producción Textil Resumen del Puesto Buscamos un/a Operario/a de Producción Textil con entusiasmo y responsabilidad para integrarse a un equipo dinámico. El candidato ideal tendrá interés en el sector textil y la capacidad de adaptarse a diferentes tareas productivas. Responsabilidades Colaborar activamente en los distintos procesos de producción textil. Realizar la inspección, clasificación y organización de materiales textiles. Asistir en la operación de maquinaria bajo supervisión directa. Contribuir al mantenimiento del orden y la limpieza en el área de trabajo. Requisitos Educación secundaria completa. Experiencia previa en entornos de producción o plantas industriales (valorada, no excluyente). Demostrar responsabilidad, puntualidad y una actitud proactiva hacia el aprendizaje. Disponibilidad para trabajar en esquemas de turnos rotativos. Beneficios Incorporación a planilla desde el inicio. Reconocimiento de todos los beneficios laborales correspondientes. Compensación económica competitiva en el mercado. Oportunidades de formación y desarrollo profesional. Ambiente de trabajo positivo y posibilidades de crecimiento interno.",
+    "requisitos":  [
+                       "Educación secundaria completa",
+                       "Experiencia previa en entornos de producción o plantas industriales (valorada, no excluyente)",
+                       "Demostrar responsabilidad, puntualidad y una actitud proactiva hacia el aprendizaje",
+                       "Disponibilidad para trabajar en esquemas de turnos rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "laborales correspondientes",
+                       "Compensación económica competitiva en el mercado",
+                       "Oportunidades de formación y desarrollo profesional",
+                       "Ambiente de trabajo positivo y posibilidades de crecimiento interno"
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-a-de-produccion-textil-apjl-textil-s.a.c.-1118504212.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-a-de-produccion-textil-apjl-textil-s.a.c.-1118504212.html",
+    "descripcion_html":  "\u003cb\u003eOperario/a de Producción Textil\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eOperario/a de Producción Textil\u003c/b\u003e con entusiasmo y responsabilidad para integrarse a un equipo dinámico. El candidato ideal tendrá interés en el sector textil y la capacidad de adaptarse a diferentes tareas productivas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar activamente en los distintos procesos de producción textil.\u003c/li\u003e \u003cli\u003eRealizar la inspección, clasificación y organización de materiales textiles.\u003c/li\u003e \u003cli\u003eAsistir en la operación de maquinaria bajo supervisión directa.\u003c/li\u003e \u003cli\u003eContribuir al mantenimiento del orden y la limpieza en el área de trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEducación secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia previa en entornos de producción o plantas industriales (valorada, no excluyente).\u003c/li\u003e \u003cli\u003eDemostrar responsabilidad, puntualidad y una actitud proactiva hacia el aprendizaje.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en esquemas de turnos rotativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eIncorporación a planilla desde el inicio.\u003c/li\u003e \u003cli\u003eReconocimiento de todos los beneficios laborales correspondientes.\u003c/li\u003e \u003cli\u003eCompensación económica competitiva en el mercado.\u003c/li\u003e \u003cli\u003eOportunidades de formación y desarrollo profesional.\u003c/li\u003e \u003cli\u003eAmbiente de trabajo positivo y posibilidades de crecimiento interno.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

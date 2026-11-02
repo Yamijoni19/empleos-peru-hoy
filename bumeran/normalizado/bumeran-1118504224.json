@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504224",
+    "clave":  "id:1118504224",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-contabilidad-y-auxiliar-comercial-alevi-s.a.c-1118504224.html",
+                   "capturadoEn":  "2026-11-01T23:35:29+00:00"
+               },
+    "titulo":  "Practicante de Contabilidad y Auxiliar",
+    "empresa":  "COMERCIAL ALEVI S.A.C",
+    "ubicacion":  "Lima - Villa María del Triunfo",
+    "ciudad":  "Villa María del Triunfo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante de Contabilidad y Auxiliar Resumen del Puesto Nos encontramos en la búsqueda de un Practicante de Contabilidad y Auxiliar para integrarse a nuestro equipo. Esta posición es ideal para quienes buscan adquirir experiencia práctica en el área contable, apoyando en un amplio espectro de tareas. Responsabilidades Colaborar en el registro de transacciones financieras. Asistir en la preparación de informes contables y financieros. Apoyar en la conciliación de cuentas. Mantener la organización y precisión de la documentación contable. Colaborar con el equipo en diversas tareas administrativas y contables según sea necesario. Requisitos Estudiante o recién egresado de carreras afines a Contabilidad, Administración o Finanzas. Conocimientos básicos de principios contables. Atención al detalle y alta capacidad de organización. Habilidad para seguir instrucciones y aprender rápidamente. Proactividad y disposición para el trabajo en equipo.",
+    "requisitos":  [
+                       "Estudiante o recién egresado de carreras afines a Contabilidad, Administración o Finanzas",
+                       "Conocimientos básicos de principios contables",
+                       "Atención al detalle y alta capacidad de organización",
+                       "Habilidad para seguir instrucciones y aprender rápidamente",
+                       "Proactividad y disposición para el trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-31",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-contabilidad-y-auxiliar-comercial-alevi-s.a.c-1118504224.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-contabilidad-y-auxiliar-comercial-alevi-s.a.c-1118504224.html",
+    "descripcion_html":  "\u003cb\u003ePracticante de Contabilidad y Auxiliar\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de un \u003cb\u003ePracticante de Contabilidad y Auxiliar\u003c/b\u003e para integrarse a nuestro equipo. Esta posición es ideal para quienes buscan adquirir experiencia práctica en el área contable, apoyando en un amplio espectro de tareas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en el registro de transacciones financieras.\u003c/li\u003e \u003cli\u003eAsistir en la preparación de informes contables y financieros.\u003c/li\u003e \u003cli\u003eApoyar en la conciliación de cuentas.\u003c/li\u003e \u003cli\u003eMantener la organización y precisión de la documentación contable.\u003c/li\u003e \u003cli\u003eColaborar con el equipo en diversas tareas administrativas y contables según sea necesario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante o recién egresado de carreras afines a Contabilidad, Administración o Finanzas.\u003c/li\u003e \u003cli\u003eConocimientos básicos de principios contables.\u003c/li\u003e \u003cli\u003eAtención al detalle y alta capacidad de organización.\u003c/li\u003e \u003cli\u003eHabilidad para seguir instrucciones y aprender rápidamente.\u003c/li\u003e \u003cli\u003eProactividad y disposición para el trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "31/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
