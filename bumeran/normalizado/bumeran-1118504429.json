@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504429",
+    "clave":  "id:1118504429",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-costos--licitaciones-publicas-1118504429.html",
+                   "capturadoEn":  "2026-11-02T15:50:46+00:00"
+               },
+    "titulo":  "ASISTENTE DE COSTOS – LICITACIONES PÚBLICAS",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nos encontramos en la búsqueda de un(a) Asistente de Costos – Licitaciones para una empresa del sector construcción, que brinde soporte en la elaboración de costos, presupuestos y cotizaciones para proyectos de obras públicas y privadas. Requisitos: Técnico, egresado, bachiller o titulado en Ingeniería Civil. Experiencia mínima de 1 año como Asistente de Costos o prácticas preprofesionales o profesionales en las áreas de licitaciones y/o presupuestos en empresas del sector construcción (deseable). Experiencia brindando soporte en cotizaciones para la elaboración de costos y presupuestos de obras viales, carreteras, hospitales y/u obras públicas, tanto en ejecución de obra como en expedientes técnicos. Conocimientos en análisis de expedientes técnicos de proyectos. Conocimientos en costos, presupuestos, cotizaciones y Ley de Contrataciones del Estado. Manejo de MS Project y S10.",
+    "requisitos":  [
+                       "Técnico, egresado, bachiller o titulado en Ingeniería Civil",
+                       "Experiencia mínima de 1 año como Asistente de Costos o prácticas preprofesionales o profesionales en las áreas de licitaciones y/o presupuestos en empresas del sector construcción (deseable)",
+                       "Experiencia brindando soporte en cotizaciones para la elaboración de costos y presupuestos de obras viales, carreteras, hospitales y/u obras públicas, tanto en ejecución de obra como en expedientes técnicos",
+                       "Conocimientos en análisis de expedientes técnicos de proyectos",
+                       "Conocimientos en costos, presupuestos, cotizaciones y Ley de Contrataciones del Estado",
+                       "Manejo de MS Project y S10"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-costos--licitaciones-publicas-1118504429.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-costos--licitaciones-publicas-1118504429.html",
+    "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda de un(a) \u003cstrong\u003eAsistente de Costos – Licitaciones\u003c/strong\u003e para una empresa del sector construcción, que brinde soporte en la elaboración de costos, presupuestos y cotizaciones para proyectos de obras públicas y privadas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico, egresado, bachiller o titulado en Ingeniería Civil.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año como Asistente de Costos o prácticas preprofesionales o profesionales en las áreas de licitaciones y/o presupuestos en empresas del sector construcción (deseable).\u003c/li\u003e \u003cli\u003eExperiencia brindando soporte en cotizaciones para la elaboración de costos y presupuestos de obras viales, carreteras, hospitales y/u obras públicas, tanto en ejecución de obra como en expedientes técnicos.\u003c/li\u003e \u003cli\u003eConocimientos en análisis de expedientes técnicos de proyectos.\u003c/li\u003e \u003cli\u003eConocimientos en costos, presupuestos, cotizaciones y Ley de Contrataciones del Estado.\u003c/li\u003e \u003cli\u003eManejo de MS Project y S10.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

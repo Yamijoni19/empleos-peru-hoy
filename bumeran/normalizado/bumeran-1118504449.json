@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118504449",
+    "clave":  "id:1118504449",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-de-software-freelance-demedicalperu-1118504449.html",
+                   "capturadoEn":  "2026-11-02T15:50:26+00:00"
+               },
+    "titulo":  "Desarrollador de Software Freelance",
+    "empresa":  "DEMEDICALPERU",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1000,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Desarrollador de Software Freelance Resumen del Puesto Buscamos un Desarrollador de Software con experiencia en modalidad freelance para unirse a nuestro equipo. El candidato ideal tendrá la capacidad de crear soluciones de software innovadoras, incluyendo el desarrollo y mantenimiento de sistemas CRM y la administración y actualización de páginas web. Responsabilidades Desarrollar y mantener sistemas CRM, con especial énfasis en la integración con plataformas de mensajería como WhatsApp. Administrar y actualizar páginas web, asegurando su correcto funcionamiento y optimización. Colaborar con el equipo para definir y ejecutar soluciones técnicas. Identificar y resolver problemas técnicos de manera eficiente. Mantenerse actualizado sobre las últimas tendencias y tecnologías en desarrollo de software. Requisitos Experiencia comprobada en desarrollo de software y programación. Conocimiento y experiencia en la creación de sistemas CRM. Experiencia en administración y actualización de páginas web. Habilidades sólidas en resolución de problemas y pensamiento analítico. Capacidad para trabajar de forma autónoma y gestionar proyectos de manera efectiva. Excelentes habilidades de comunicación.",
+    "requisitos":  [
+                       "Experiencia comprobada en desarrollo de software y programación",
+                       "Conocimiento y experiencia en la creación de sistemas CRM",
+                       "Experiencia en administración y actualización de páginas web",
+                       "Habilidades sólidas en resolución de problemas y pensamiento analítico",
+                       "Capacidad para trabajar de forma autónoma y gestionar proyectos de manera efectiva",
+                       "Excelentes habilidades de comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-de-software-freelance-demedicalperu-1118504449.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-de-software-freelance-demedicalperu-1118504449.html",
+    "descripcion_html":  "\u003cb\u003eDesarrollador de Software Freelance\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDesarrollador de Software\u003c/b\u003e con experiencia en modalidad freelance para unirse a nuestro equipo. El candidato ideal tendrá la capacidad de crear soluciones de software innovadoras, incluyendo el desarrollo y mantenimiento de sistemas CRM y la administración y actualización de páginas web.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003eDesarrollar\u003c/b\u003e y mantener sistemas CRM, con especial énfasis en la integración con plataformas de mensajería como WhatsApp.\u003c/li\u003e \u003cli\u003e\u003cb\u003eAdministrar\u003c/b\u003e y actualizar páginas web, asegurando su correcto funcionamiento y optimización.\u003c/li\u003e \u003cli\u003e\u003cb\u003eColaborar\u003c/b\u003e con el equipo para definir y ejecutar soluciones técnicas.\u003c/li\u003e \u003cli\u003e\u003cb\u003eIdentificar\u003c/b\u003e y resolver problemas técnicos de manera eficiente.\u003c/li\u003e \u003cli\u003e\u003cb\u003eMantenerse actualizado\u003c/b\u003e sobre las últimas tendencias y tecnologías en desarrollo de software.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobada en desarrollo de software y programación.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en la creación de sistemas CRM.\u003c/li\u003e \u003cli\u003eExperiencia en administración y actualización de páginas web.\u003c/li\u003e \u003cli\u003eHabilidades sólidas en resolución de problemas y pensamiento analítico.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y gestionar proyectos de manera efectiva.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
