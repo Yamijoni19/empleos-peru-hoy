@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118504421",
+    "clave":  "id:1118504421",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/docente-de-contabilidad-taller-virtual-radix-hub-31-academic-1118504421.html",
+                   "capturadoEn":  "2026-11-02T23:29:40+00:00"
+               },
+    "titulo":  "Docente de Contabilidad - Taller Virtual",
+    "empresa":  "RADIX HUB 31 ACADEMIC",
+    "ubicacion":  "Lima - Ancón",
+    "ciudad":  "Ancón",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "BUSCO CONTADOR PÚBLICO COLEGIADO ESPECIALISTA EN LA DOCENCIA CON METOGOLOGÍA DE ENSEÑANZA PARA UN TALLER DE 15 HORAS POR ZOOM CONTABILIDAD PARA NO CONTADORES Docente de Contabilidad - Taller Virtual Resumen del Puesto Buscamos un profesional con sólida experiencia pedagógica para impartir un taller intensivo y virtual de contabilidad. El objetivo es capacitar a personas sin conocimientos previos, enseñando de manera práctica el manejo de comprobantes de pago, obligaciones tributarias básicas y herramientas digitales esenciales. Responsabilidades Diseñar y dictar un taller de contabilidad enfocado en la práctica. Explicar conceptos contables de forma clara y sencilla. Enseñar el manejo de comprobantes de pago y obligaciones tributarias básicas. Instruir en el uso de herramientas digitales relevantes para la contabilidad. Fomentar un ambiente de aprendizaje dinámico y participativo. Requisitos Título de Contador Público o ser egresado de la carrera. Experiencia comprobada en docencia o capacitación. Habilidad para simplificar y explicar conceptos contables complejos. Capacidad para impartir formación de manera virtual. Excelentes habilidades de comunicación y didáctica.",
+    "requisitos":  [
+                       "Título de Contador Público o ser egresado de la carrera",
+                       "Experiencia comprobada en docencia o capacitación",
+                       "Habilidad para simplificar y explicar conceptos contables complejos",
+                       "Capacidad para impartir formación de manera virtual",
+                       "Excelentes habilidades de comunicación y didáctica"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/docente-de-contabilidad-taller-virtual-radix-hub-31-academic-1118504421.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/docente-de-contabilidad-taller-virtual-radix-hub-31-academic-1118504421.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eBUSCO CONTADOR PÚBLICO COLEGIADO ESPECIALISTA EN LA DOCENCIA CON METOGOLOGÍA DE ENSEÑANZA PARA UN TALLER DE 15 HORAS POR ZOOM CONTABILIDAD PARA NO CONTADORES\u003c/p\u003e\u003c/p\u003e \u003cb\u003eDocente de Contabilidad - Taller Virtual\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional con sólida experiencia pedagógica para impartir un taller intensivo y virtual de contabilidad. El objetivo es capacitar a personas sin conocimientos previos, enseñando de manera práctica el manejo de comprobantes de pago, obligaciones tributarias básicas y herramientas digitales esenciales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDiseñar y dictar un taller de contabilidad enfocado en la práctica.\u003c/li\u003e \u003cli\u003eExplicar conceptos contables de forma clara y sencilla.\u003c/li\u003e \u003cli\u003eEnseñar el manejo de comprobantes de pago y obligaciones tributarias básicas.\u003c/li\u003e \u003cli\u003eInstruir en el uso de herramientas digitales relevantes para la contabilidad.\u003c/li\u003e \u003cli\u003eFomentar un ambiente de aprendizaje dinámico y participativo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Contador Público o ser egresado de la carrera.\u003c/li\u003e \u003cli\u003eExperiencia comprobada en docencia o capacitación.\u003c/li\u003e \u003cli\u003eHabilidad para simplificar y explicar conceptos contables complejos.\u003c/li\u003e \u003cli\u003eCapacidad para impartir formación de manera virtual.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y didáctica.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Contador Público o ser egresado de la carrera",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

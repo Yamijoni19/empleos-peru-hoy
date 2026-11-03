@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504428",
+    "clave":  "id:1118504428",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-electricidad-ado-electric-1118504428.html",
+                   "capturadoEn":  "2026-11-02T23:29:36+00:00"
+               },
+    "titulo":  "Practicante de Electricidad",
+    "empresa":  "Ado Electric",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  800,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 800 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante de Electricidad Resumen del Puesto Estamos en búsqueda de un Practicante de Electricidad , idealmente en los últimos ciclos de estudio o recién egresado de carreras como Electricidad Industrial o Ingeniería Eléctrica. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno profesional. Responsabilidades Asistir en la instalación, mantenimiento y reparación de sistemas eléctricos. Colaborar con el equipo técnico en la ejecución de proyectos eléctricos. Apoyar en la revisión y diagnóstico de fallas eléctricas. Participar en la elaboración de documentación técnica y reportes. Aprender y aplicar normativas y procedimientos de seguridad eléctrica. Requisitos Estar cursando los últimos ciclos o ser egresado de Electricidad Industrial, Ingeniería Eléctrica o carreras afines. Conocimientos básicos de electricidad y sistemas eléctricos. Proactividad y ganas de aprender. Capacidad para trabajar en equipo. Habilidad para seguir instrucciones y procedimientos.",
+    "requisitos":  [
+                       "Estar cursando los últimos ciclos o ser egresado de Electricidad Industrial, Ingeniería Eléctrica o carreras afines",
+                       "Conocimientos básicos de electricidad y sistemas eléctricos",
+                       "Proactividad y ganas de aprender",
+                       "Capacidad para trabajar en equipo",
+                       "Habilidad para seguir instrucciones y procedimientos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-electricidad-ado-electric-1118504428.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-electricidad-ado-electric-1118504428.html",
+    "descripcion_html":  "\u003cb\u003ePracticante de Electricidad\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en búsqueda de un \u003cb\u003ePracticante de Electricidad\u003c/b\u003e, idealmente en los últimos ciclos de estudio o recién egresado de carreras como Electricidad Industrial o Ingeniería Eléctrica. Esta es una excelente oportunidad para adquirir experiencia práctica en un entorno profesional.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en la instalación, mantenimiento y reparación de sistemas eléctricos.\u003c/li\u003e \u003cli\u003eColaborar con el equipo técnico en la ejecución de proyectos eléctricos.\u003c/li\u003e \u003cli\u003eApoyar en la revisión y diagnóstico de fallas eléctricas.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de documentación técnica y reportes.\u003c/li\u003e \u003cli\u003eAprender y aplicar normativas y procedimientos de seguridad eléctrica.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstar cursando los últimos ciclos o ser egresado de Electricidad Industrial, Ingeniería Eléctrica o carreras afines.\u003c/li\u003e \u003cli\u003eConocimientos básicos de electricidad y sistemas eléctricos.\u003c/li\u003e \u003cli\u003eProactividad y ganas de aprender.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eHabilidad para seguir instrucciones y procedimientos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

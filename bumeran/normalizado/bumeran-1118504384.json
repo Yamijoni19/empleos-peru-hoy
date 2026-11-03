@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118504384",
+    "clave":  "id:1118504384",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-cybersoc-n2-on-empresas-1118504384.html",
+                   "capturadoEn":  "2026-11-02T23:30:03+00:00"
+               },
+    "titulo":  "Analista de Cybersoc N2",
+    "empresa":  "ON Empresas",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Buscamos un perfil con experiencia en investigación y respuesta a incidentes , capaz de analizar eventos de seguridad de mayor complejidad, correlacionar amenazas y contribuir activamente a la mejora de las capacidades de detección y respuesta del CyberSOC. ¿Qué buscamos? Titulado universitario en Sistemas y/o Ingeniería Electrónica y/o Ingeniería Telecomunicaciones y/o Ingeniería Informática y/o Ingeniería de Computación o afines. 2 años de experiencia como Especialista en servicios de un SOC y/o especialista en servicios de CyberSOC y/o gestor de procesos de ciberseguridad en un SOC/CyberSOC y/o Analista Ethical Hacking y/o especialista Forense y/o especialista en PenTesting/Pentester y/o analista de analisis de vulnerabilidades de aplicaciones y/o analista de vulnerabilidades red y/o especialista de ciberseguridad y/o especialista de seguridad perimetral/interna y/o Analista de SOC y/o Analista de Ciberseguridad y/o cargos de operación SOC/CyberSOC, gestión de procesos de ciberseguridad, análisis forense, Ethical Hacking, PenTesting, análisis de vulnerabilidades y seguridad perimetral. 2 años de experiencia en operaciones de Ciberseguridad, SOC o CyberSOC , realizando monitoreo, análisis e investigación de incidentes de seguridad. Experiencia en operación de plataformas SIEM/XDR , análisis y correlación de eventos y gestión de casos de uso. Experiencia aplicando MITRE ATT\u0026CK en procesos de detección y respuesta. Experiencia en elaboración y mejora de procedimientos y playbooks de respuesta. Experiencia realizando seguimiento de indicadores y cumplimiento de SLA. Deseable experiencia en Threat Hunting, Threat Intelligence, SOAR y operaciones SOC 24x7. Contar con 1 curso en operaciones de SIEM o SOAR u OSINT o en respuesta a incidentes o MITRE ATTACK. Conocimientos técnicos: SIEM – QRadar: nivel intermedio/avanzado. SIEM/XDR – Cortex XSIAM: nivel intermedio. SOAR – QRadar AppHost: nivel intermedio/avanzado. Análisis Forense – Cyber Triage: nivel intermedio. Threat Hunting / TIP: nivel intermedio. ¿Cuáles serán tus principales retos? Investigar y resolver incidentes de seguridad N2 mediante análisis de logs y correlación de eventos. Analizar alertas en SIEM, EDR y XDR , determinando su criticidad. Realizar análisis básico de malware y tráfico sospechoso. Ejecutar Threat Hunting y análisis de amenazas con Threat Intelligence. Mejorar playbooks, procedimientos y casos de uso del CyberSOC. Apoyar y guiar a analistas en el triaje de alertas. Ejecutar escaneos de vulnerabilidades y proponer remediaciones. Elaborar reportes técnicos de incidentes y gestión. Beneficios ON Empresas Utilidades atractivas según rentabilidad de nuestra empresa. EPS y Seguro Oncológico cubiertos al 100%. Línea de Carrera para continuar con tu crecimiento profesional. Constante capacitación. Descuentos corporativos. Convenios educativos en post grado e idiomas. Día libre por tu cumpleaños. ¡Postula y refiere! En ON Empresas llegamos para darle la vuelta a todo, desafiando lo convencional para impulsar la evolución digital de las organizaciones. Desde hace 22 años, combinamos innovación y agilidad, con la cercanía que nos caracteriza, para crear soluciones personalizadas que acompañan su crecimiento y optimizan sus resultados. Con más de 1,000 colaboradores, 5 Data Centers, 1 CyberSOC, NOC, 1 Centro propio de atención técnico especializado 24x7 y 7 sedes a nivel nacional. Respaldamos la confianza de más de 12,000 empresas que nos eligen para transformar sus operaciones. Nuestra propuesta de valor integra Conectividad, Cloud privado, Ciberseguridad, Servicios gestionados, Data center, y Telefonía corporativa, todo con la determinación de no solo conectar empresas, sino de darles la vuelta hacia el futuro \"En ON Empresas creemos en la igualdad de oportunidades y la no discriminación laboral. Promovemos la diversidad basada en la raza, género, orientación sexual, religión, origen étnico, edad, estado civil, identidad de género, discapacidad o cualquier otra característica, de acuerdo con lo establecido en la Ley N° 29973\"",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "ON Empresas",
+                       "Utilidades atractivas según rentabilidad de nuestra empresa",
+                       "EPS y Seguro Oncológico cubiertos al 100%",
+                       "Línea de Carrera para continuar con tu crecimiento profesional",
+                       "Constante capacitación",
+                       "Descuentos corporativos",
+                       "Convenios educativos en post grado e idiomas",
+                       "Día libre por tu cumpleaños",
+                       "¡Postula y refiere!",
+                       "En ON Empresas llegamos para darle la vuelta a todo, desafiando lo convencional para impulsar la evolución digital de las organizaciones. Desde hace 22 años, combinamos innovación y agilidad, con la cercanía que nos caracteriza, para crear soluciones personalizadas que acompañan su crecimiento y optimizan sus resultados. Con más de 1,000 colaboradores, 5 Data Centers, 1 CyberSOC, NOC, 1 Centro propio de atención técnico especializado 24x7 y 7 sedes a nivel nacional. Respaldamos la confianza de más de 12,000 empresas que nos eligen para transformar sus operaciones",
+                       "Nuestra propuesta de valor integra Conectividad, Cloud privado, Ciberseguridad, Servicios gestionados, Data center, y Telefonía corporativa, todo con la determinación de no solo conectar empresas, sino de darles la vuelta hacia el futuro",
+                       "\"En ON Empresas creemos en la igualdad de oportunidades y la no discriminación laboral. Promovemos la diversidad basada en la raza, género, orientación sexual, religión, origen étnico, edad, estado civil, identidad de género, discapacidad o cualquier otra característica, de acuerdo con lo establecido en la Ley N° 29973\""
+                   ],
+    "fecha_publicacion":  "2026-11-01",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-cybersoc-n2-on-empresas-1118504384.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-cybersoc-n2-on-empresas-1118504384.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos un perfil con experiencia en \u003cstrong\u003einvestigación y respuesta a incidentes\u003c/strong\u003e, capaz de analizar eventos de seguridad de mayor complejidad, correlacionar amenazas y contribuir activamente a la mejora de las capacidades de detección y respuesta del CyberSOC.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eTitulado universitario \u003c/strong\u003een Sistemas y/o Ingeniería Electrónica y/o Ingeniería Telecomunicaciones y/o Ingeniería Informática y/o Ingeniería de Computación o afines.\u003c/li\u003e \u003cli\u003e2 años de experiencia como Especialista en servicios de un SOC y/o especialista en servicios de CyberSOC y/o gestor de procesos de ciberseguridad en un SOC/CyberSOC y/o Analista Ethical Hacking y/o especialista Forense y/o especialista en PenTesting/Pentester y/o analista de analisis de vulnerabilidades de aplicaciones y/o analista de vulnerabilidades red y/o especialista de ciberseguridad y/o especialista de seguridad perimetral/interna y/o Analista de SOC y/o Analista de Ciberseguridad y/o cargos de operación SOC/CyberSOC, gestión de procesos de ciberseguridad, análisis forense, Ethical Hacking, PenTesting, análisis de vulnerabilidades y seguridad perimetral.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003e2 años de experiencia en operaciones de Ciberseguridad, SOC o CyberSOC\u003c/strong\u003e, realizando monitoreo, análisis e investigación de incidentes de seguridad.\u003c/li\u003e \u003cli\u003eExperiencia en operación de plataformas \u003cstrong\u003eSIEM/XDR\u003c/strong\u003e, análisis y correlación de eventos y gestión de casos de uso.\u003c/li\u003e \u003cli\u003eExperiencia aplicando \u003cstrong\u003eMITRE ATT\u0026CK\u003c/strong\u003e en procesos de detección y respuesta.\u003c/li\u003e \u003cli\u003eExperiencia en elaboración y mejora de procedimientos y playbooks de respuesta.\u003c/li\u003e \u003cli\u003eExperiencia realizando seguimiento de indicadores y cumplimiento de SLA.\u003c/li\u003e \u003cli\u003eDeseable experiencia en \u003cstrong\u003eThreat Hunting, Threat Intelligence, SOAR\u003c/strong\u003e y operaciones SOC 24x7.\u003c/li\u003e \u003cli\u003eContar con 1 curso en operaciones de SIEM o SOAR u OSINT o en respuesta a incidentes o \u003cstrong\u003eMITRE ATTACK.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eConocimientos técnicos:\u003c/strong\u003eSIEM – QRadar: nivel intermedio/avanzado. SIEM/XDR – Cortex XSIAM: nivel intermedio. SOAR – QRadar AppHost: nivel intermedio/avanzado. Análisis Forense – Cyber Triage: nivel intermedio. Threat Hunting / TIP: nivel intermedio. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus principales retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInvestigar y resolver incidentes de seguridad N2 mediante análisis de logs y correlación de eventos.\u003c/li\u003e \u003cli\u003eAnalizar alertas en \u003cstrong\u003eSIEM, EDR y XDR\u003c/strong\u003e, determinando su criticidad.\u003c/li\u003e \u003cli\u003eRealizar análisis básico de malware y tráfico sospechoso.\u003c/li\u003e \u003cli\u003eEjecutar \u003cstrong\u003eThreat Hunting\u003c/strong\u003e y análisis de amenazas con Threat Intelligence.\u003c/li\u003e \u003cli\u003eMejorar playbooks, procedimientos y casos de uso del CyberSOC.\u003c/li\u003e \u003cli\u003eApoyar y guiar a analistas en el triaje de alertas.\u003c/li\u003e \u003cli\u003eEjecutar escaneos de vulnerabilidades y proponer remediaciones.\u003c/li\u003e \u003cli\u003eElaborar reportes técnicos de incidentes y gestión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios ON Empresas\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUtilidades atractivas según rentabilidad de nuestra empresa.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico cubiertos al 100%.\u003c/li\u003e \u003cli\u003eLínea de Carrera para continuar con tu crecimiento profesional.\u003c/li\u003e \u003cli\u003eConstante capacitación.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e \u003cli\u003eConvenios educativos en post grado e idiomas.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Postula y refiere!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eON Empresas\u003c/strong\u003e llegamos para darle la vuelta a todo, desafiando lo convencional para impulsar la evolución digital de las organizaciones. Desde hace 22 años, combinamos innovación y agilidad, con la cercanía que nos caracteriza, para crear soluciones personalizadas que acompañan su crecimiento y optimizan sus resultados. Con más de 1,000 colaboradores, 5 Data Centers, 1 CyberSOC, NOC, 1 Centro propio de atención técnico especializado 24x7 y 7 sedes a nivel nacional. Respaldamos la confianza de más de 12,000 empresas que nos eligen para transformar sus operaciones.\u003c/p\u003e\u003cp\u003eNuestra propuesta de valor integra Conectividad, Cloud privado, Ciberseguridad, Servicios gestionados, Data center, y Telefonía corporativa, todo con la determinación de no solo conectar empresas, sino de darles la vuelta hacia el futuro\u003c/p\u003e\u003cp\u003e\u0026quot;En ON Empresas creemos en la igualdad de oportunidades y la no discriminación laboral. Promovemos la diversidad basada en la raza, género, orientación sexual, religión, origen étnico, edad, estado civil, identidad de género, discapacidad o cualquier otra característica, de acuerdo con lo establecido en la Ley N° 29973\u0026quot;\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "01/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
