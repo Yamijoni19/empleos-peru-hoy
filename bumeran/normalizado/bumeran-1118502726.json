@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118502726",
+    "clave":  "id:1118502726",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/becarioa-de-marketing-20474456049-1118502726.html",
+                   "capturadoEn":  "2026-11-03T15:06:33+00:00"
+               },
+    "titulo":  "Becario(a) de Marketing",
+    "empresa":  "20474456049",
+    "ubicacion":  "Lima - Lurigancho",
+    "ciudad":  "Lurigancho",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.1,230",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Administración de materiales de publicidad para el equipo de ventas. Publicar y organizar eventos comerciales Reporte de puntos de ventas, y rutas. Diseño publicitario de afiches, flyer etc Funciones que se le asigne por su jefe inmediato Disponibilidad en laborar en la zona de Huachipa",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "que se le asigne por su jefe inmediato",
+                      "Disponibilidad en laborar en la zona de Huachipa"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/becarioa-de-marketing-20474456049-1118502726.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/becarioa-de-marketing-20474456049-1118502726.html",
+    "descripcion_html":  "\u003cp\u003eAdministración de materiales de publicidad para el equipo de ventas.\u003c/p\u003e\u003cp\u003ePublicar y organizar eventos comerciales \u003c/p\u003e\u003cp\u003eReporte de puntos de ventas, y rutas.\u003c/p\u003e\u003cp\u003eDiseño publicitario de afiches, flyer etc \u003c/p\u003e\u003cp\u003eFunciones que se le asigne por su jefe inmediato\u003c/p\u003e\u003cp\u003eDisponibilidad en laborar en la zona de Huachipa\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

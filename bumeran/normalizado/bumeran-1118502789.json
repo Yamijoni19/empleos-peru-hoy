@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118502789",
+    "clave":  "id:1118502789",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-farmacia-y-bioquimica-20474456049-1118502789.html",
+                   "capturadoEn":  "2026-11-03T15:06:32+00:00"
+               },
+    "titulo":  "Practicante de Farmacia y Bioquimica",
+    "empresa":  "20474456049",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.1,230",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Dirigido a egresadas(o) de farmacia y bioquimica. Aprendizaje de procedimientos internos en la fabricación de productos farmacéuticos. Reforzar los conocimientos de Buenas prácticas de manufactura y buenas practicas de laboratorio, en el ejercicio del dia a dia. Funciones especificas que recibiran del jefe(a) inmediato, segun MOF . Ofrecemos contrato en planilla + utilidades anuales Brindamos Bus de acercamiento dependiendo distrito de residencia Ofrecemos alimentación de lunes a viernes (almuerzo)",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "especificas que recibiran del jefe(a) inmediato, segun MOF"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-farmacia-y-bioquimica-20474456049-1118502789.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-farmacia-y-bioquimica-20474456049-1118502789.html",
+    "descripcion_html":  "\u003cp\u003eDirigido a egresadas(o) de farmacia y bioquimica.\u003c/p\u003e\u003cp\u003eAprendizaje de procedimientos internos en la fabricación de productos farmacéuticos.\u003c/p\u003e\u003cp\u003eReforzar los conocimientos de Buenas prácticas de manufactura y buenas practicas de laboratorio, en el ejercicio del dia a dia.\u003c/p\u003e\u003cp\u003eFunciones especificas que recibiran del jefe(a) inmediato, segun MOF .\u003c/p\u003e\u003cp\u003eOfrecemos contrato en planilla + utilidades anuales\u003c/p\u003e\u003cp\u003eBrindamos Bus de acercamiento dependiendo distrito de residencia\u003c/p\u003e\u003cp\u003eOfrecemos alimentación de lunes a viernes (almuerzo)\u003c/p\u003e\u003cp\u003e \u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

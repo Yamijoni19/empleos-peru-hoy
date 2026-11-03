@@ -1,0 +1,81 @@
+{
+    "id":  "bumeran-1118500946",
+    "clave":  "id:1118500946",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenista-para-optica-centro-optico-ely-1118500946.html",
+                   "capturadoEn":  "2026-11-03T15:06:40+00:00"
+               },
+    "titulo":  "Almacenista para Optica",
+    "empresa":  "CENTRO OPTICO ELY",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "SE SOLICITA ALMACENISTA CON EXPERIENCIA \u0026#x1f4cd; Lugar: Cercado de Lima, Jr. Huancavelica. \u0026#x1f552; Horario: Horarios a convenir según las necesidades de la empresa, incluye refrigerio. \u0026#x1f4b0; Sueldo: A convenir según experiencia. \u0026#x1f4e6; REQUISITOS Experiencia en almacenes, preferentemente del rubro de Ópticas. Conocimiento de monturas, lunas, lentes e insumos ópticos. Experiencia en inventarios físicos, control de stock y cuadre de diferencias. Manejo de sistemas informáticos y codificación de productos. \u0026#x1f3af; FUNCIONES PRINCIPALES Organizar y clasificar los productos del almacén. Ingresar monturas al sistema con sus códigos y características. Registrar entradas, salidas y transferencias entre tiendas. Realizar inventarios físicos y cuadres mensuales. Controlar el stock, abastecer las tiendas y elaborar reportes para la administración. \u0026#x1f4e9; POSTULACIÓN: - Envía tu CV actualizado y adjunta la copia de DNI/CE",
+    "requisitos":  [
+                       "Experiencia en almacenes, preferentemente del rubro de Ópticas",
+                       "Conocimiento de monturas, lunas, lentes e insumos ópticos",
+                       "Experiencia en inventarios físicos, control de stock y cuadre de diferencias",
+                       "Manejo de sistemas informáticos y codificación de productos",
+                       "\u0026#x1f3af"
+                   ],
+    "funciones":  [
+                      "PRINCIPALES",
+                      "Organizar y clasificar los productos del almacén",
+                      "Ingresar monturas al sistema con sus códigos y características",
+                      "Registrar entradas, salidas y transferencias entre tiendas",
+                      "Realizar inventarios físicos y cuadres mensuales",
+                      "Controlar el stock, abastecer las tiendas y elaborar reportes para la administración",
+                      "\u0026#x1f4e9; POSTULACIÓN",
+                      "Envía tu CV actualizado y adjunta la copia de DNI/CE"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/almacenista-para-optica-centro-optico-ely-1118500946.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenista-para-optica-centro-optico-ely-1118500946.html",
+    "descripcion_html":  "\u003cp\u003eSE SOLICITA ALMACENISTA CON EXPERIENCIA\u003c/p\u003e\u003cp\u003e \u0026#x1f4cd; Lugar: Cercado de Lima, Jr. Huancavelica.\u003c/p\u003e\u003cp\u003e \u0026#x1f552; Horario: Horarios a convenir según las necesidades de la empresa, incluye refrigerio. \u003c/p\u003e\u003cp\u003e \u0026#x1f4b0; Sueldo: A convenir según experiencia. \u003c/p\u003e\u003cp\u003e \u0026#x1f4e6; REQUISITOS \u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en almacenes, preferentemente del rubro de Ópticas. \u003c/li\u003e \u003cli\u003eConocimiento de monturas, lunas, lentes e insumos ópticos.\u003c/li\u003e \u003cli\u003eExperiencia en inventarios físicos, control de stock y cuadre de diferencias. \u003c/li\u003e \u003cli\u003eManejo de sistemas informáticos y codificación de productos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f3af; FUNCIONES PRINCIPALES \u003c/p\u003e\u003cul\u003e \u003cli\u003eOrganizar y clasificar los productos del almacén. \u003c/li\u003e \u003cli\u003eIngresar monturas al sistema con sus códigos y características.\u003c/li\u003e \u003cli\u003eRegistrar entradas, salidas y transferencias entre tiendas.\u003c/li\u003e \u003cli\u003eRealizar inventarios físicos y cuadres mensuales.\u003c/li\u003e \u003cli\u003eControlar el stock, abastecer las tiendas y elaborar reportes para la administración. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f4e9; POSTULACIÓN: \u003c/p\u003e\u003cp\u003e- Envía tu CV actualizado y adjunta la copia de DNI/CE\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "Horarios a convenir según las necesidades de la empresa, incluye refrigerio.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

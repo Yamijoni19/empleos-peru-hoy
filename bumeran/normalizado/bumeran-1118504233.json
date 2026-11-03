@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118504233",
+    "clave":  "id:1118504233",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-dental-en-san-juan-de-lurigancho-tiempo-completo-43508770-1118504233.html",
+                   "capturadoEn":  "2026-11-03T15:06:26+00:00"
+               },
+    "titulo":  "ASISTENTE DENTAL en SAN JUAN DE LURIGANCHO / TIEMPO COMPLETO",
+    "empresa":  "43508770",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Dental Resumen del Puesto Buscamos una srta para ASISTENTE DENTAL con una actitud proactiva y excelentes habilidades interpersonales para unirse a nuestro equipo. El candidato ideal será organizado, responsable y capaz de brindar una atención excepcional al paciente. Responsabilidades Asistir a los profesionales en procedimientos clínicos y tratamientos. Preparar y mantener la limpieza de ambientes, instrumental, materiales y equipos, cumpliendo con los estándares de higiene y bioseguridad. Realizar el registro de historias clínicas y citas de pacientes. Brindar apoyo en la gestión de insumos y materiales. Ofrecer una atención al paciente que asegure una experiencia positiva y cómoda. Requisitos Experiencia previa como Asistente Dental en clínicas (deseable). Conocimientos en Microsoft Office. Trato amable, actitud proactiva y capacidad para el trabajo en equipo. PUNTUALIDAD, RESPONSABILIDAD y buena organización. Disponibilidad para empleo presencial a tiempo completo. Beneficios Oportunidades de capacitación continua.",
+    "requisitos":  [
+                       "Experiencia previa como Asistente Dental en clínicas (deseable)",
+                       "Conocimientos en Microsoft Office",
+                       "Trato amable, actitud proactiva y capacidad para el trabajo en equipo",
+                       "PUNTUALIDAD, RESPONSABILIDAD y buena organización",
+                       "Disponibilidad para empleo presencial a tiempo completo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Oportunidades de capacitación continua"
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-dental-en-san-juan-de-lurigancho-tiempo-completo-43508770-1118504233.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-dental-en-san-juan-de-lurigancho-tiempo-completo-43508770-1118504233.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente Dental\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una srta para \u003cstrong\u003eASISTENTE DENTAL\u003c/strong\u003e con una actitud proactiva y excelentes habilidades interpersonales para unirse a nuestro equipo. El candidato ideal será organizado, responsable y capaz de brindar una atención excepcional al paciente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsistir a los profesionales en procedimientos clínicos y tratamientos.\u003c/li\u003e \u003cli\u003ePreparar y mantener la limpieza de ambientes, instrumental, materiales y equipos, cumpliendo con los estándares de higiene y bioseguridad.\u003c/li\u003e \u003cli\u003eRealizar el registro de historias clínicas y citas de pacientes.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la gestión de insumos y materiales.\u003c/li\u003e \u003cli\u003eOfrecer una atención al paciente que asegure una experiencia positiva y cómoda.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa como Asistente Dental en clínicas (deseable).\u003c/li\u003e \u003cli\u003eConocimientos en Microsoft Office.\u003c/li\u003e \u003cli\u003eTrato amable, actitud proactiva y capacidad para el trabajo en equipo.\u003c/li\u003e \u003cli\u003ePUNTUALIDAD, RESPONSABILIDAD y buena organización.\u003c/li\u003e \u003cli\u003eDisponibilidad para empleo presencial a tiempo completo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOportunidades de capacitación continua.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

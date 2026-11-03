@@ -1,0 +1,1422 @@
+[
+    {
+        "id":  "bumeran-1118504233",
+        "clave":  "id:1118504233",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-dental-en-san-juan-de-lurigancho-tiempo-completo-43508770-1118504233.html",
+                       "capturadoEn":  "2026-11-03T15:06:26+00:00"
+                   },
+        "titulo":  "ASISTENTE DENTAL en SAN JUAN DE LURIGANCHO / TIEMPO COMPLETO",
+        "empresa":  "43508770",
+        "ubicacion":  "Lima - San Juan De Lurigancho.",
+        "ciudad":  "San Juan De Lurigancho.",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1300,
+                        "max":  1400,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,300 - S/ 1,400",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Asistente Dental Resumen del Puesto Buscamos una srta para ASISTENTE DENTAL con una actitud proactiva y excelentes habilidades interpersonales para unirse a nuestro equipo. El candidato ideal será organizado, responsable y capaz de brindar una atención excepcional al paciente. Responsabilidades Asistir a los profesionales en procedimientos clínicos y tratamientos. Preparar y mantener la limpieza de ambientes, instrumental, materiales y equipos, cumpliendo con los estándares de higiene y bioseguridad. Realizar el registro de historias clínicas y citas de pacientes. Brindar apoyo en la gestión de insumos y materiales. Ofrecer una atención al paciente que asegure una experiencia positiva y cómoda. Requisitos Experiencia previa como Asistente Dental en clínicas (deseable). Conocimientos en Microsoft Office. Trato amable, actitud proactiva y capacidad para el trabajo en equipo. PUNTUALIDAD, RESPONSABILIDAD y buena organización. Disponibilidad para empleo presencial a tiempo completo. Beneficios Oportunidades de capacitación continua.",
+        "requisitos":  [
+                           "Experiencia previa como Asistente Dental en clínicas (deseable)",
+                           "Conocimientos en Microsoft Office",
+                           "Trato amable, actitud proactiva y capacidad para el trabajo en equipo",
+                           "PUNTUALIDAD, RESPONSABILIDAD y buena organización",
+                           "Disponibilidad para empleo presencial a tiempo completo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Oportunidades de capacitación continua"
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-dental-en-san-juan-de-lurigancho-tiempo-completo-43508770-1118504233.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-dental-en-san-juan-de-lurigancho-tiempo-completo-43508770-1118504233.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente Dental\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una srta para \u003cstrong\u003eASISTENTE DENTAL\u003c/strong\u003e con una actitud proactiva y excelentes habilidades interpersonales para unirse a nuestro equipo. El candidato ideal será organizado, responsable y capaz de brindar una atención excepcional al paciente.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsistir a los profesionales en procedimientos clínicos y tratamientos.\u003c/li\u003e \u003cli\u003ePreparar y mantener la limpieza de ambientes, instrumental, materiales y equipos, cumpliendo con los estándares de higiene y bioseguridad.\u003c/li\u003e \u003cli\u003eRealizar el registro de historias clínicas y citas de pacientes.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la gestión de insumos y materiales.\u003c/li\u003e \u003cli\u003eOfrecer una atención al paciente que asegure una experiencia positiva y cómoda.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa como Asistente Dental en clínicas (deseable).\u003c/li\u003e \u003cli\u003eConocimientos en Microsoft Office.\u003c/li\u003e \u003cli\u003eTrato amable, actitud proactiva y capacidad para el trabajo en equipo.\u003c/li\u003e \u003cli\u003ePUNTUALIDAD, RESPONSABILIDAD y buena organización.\u003c/li\u003e \u003cli\u003eDisponibilidad para empleo presencial a tiempo completo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOportunidades de capacitación continua.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118504098",
+        "clave":  "id:1118504098",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenadora-grafica-y-audiovisual-edwards-podologos-amp-podiatras-sociedad-anonima-cerrada-1118504098.html",
+                       "capturadoEn":  "2026-11-03T15:06:27+00:00"
+                   },
+        "titulo":  "Diseñadora Gráfica y Audiovisual",
+        "empresa":  "EDWARDS PODOLOGOS \u0026amp; PODIATRAS SOCIEDAD ANONIMA CERRADA",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2500,
+                        "max":  2600,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2,500 - S/ 2,600",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Somos un Centro Médico Laser de Estética con 6 0 años en el mercado. Buscamos una Diseñadora gráfica y audiovisual. Funciones principales Planificación y gestión de contenidos: elaboración de la parrilla/calendario de contenidos para redes sociales, alineada a campañas, promociones y objetivos de comunicación. Diseño gráfico: creación de piezas visuales para redes sociales, campañas digitales y materiales para puntos de venta (POP). Edición audiovisual: edición de videos y piezas audiovisuales para contenido orgánico y campañas de publicidad pagada en redes sociales. Producción de contenido: planificación, grabación y producción de contenido audiovisual utilizando cámaras, celulares, drone y otras herramientas de producción. El/la postulante deberá contar con disponibilidad para trabajar en cualquiera de nuestras sedes, de acuerdo con la programación establecida, pudiendo ser asignado/a a una sede diferente cada día de la semana. Por ello, es indispensable tener flexibilidad para desplazarse entre las distintas sedes y disponibilidad para trabajar de lunes a sábados, según el cronograma de grabaciones. ¿Qué necesitas para postular? Experiencia mínima de un año en puestos similares, de preferencia en empresas afines al rubro. Contar con estudios en diseño gráfico o similares. Trabajo solo mujeres. Remuneración: 2 5 0 0 soles Disponibilidad: Inmediata Horario: Lunes a Viernes 1 0: 0 0AM a 5: 0 0PM y Sábados 1 0AM y 1PM. Ubicación: San Isidro, Miraflores, Surco y San Borja.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Planificación y gestión de contenidos: elaboración de la parrilla/calendario de contenidos para redes sociales, alineada a campañas, promociones y objetivos de comunicación",
+                          "Diseño gráfico: creación de piezas visuales para redes sociales, campañas digitales y materiales para puntos de venta (POP)",
+                          "Edición audiovisual: edición de videos y piezas audiovisuales para contenido orgánico y campañas de publicidad pagada en redes sociales",
+                          "Producción de contenido: planificación, grabación y producción de contenido audiovisual utilizando cámaras, celulares, drone y otras herramientas de producción",
+                          "El/la postulante deberá contar con disponibilidad para trabajar en cualquiera de nuestras sedes, de acuerdo con la programación establecida, pudiendo ser asignado/a a una sede diferente cada día de la semana. Por ello, es indispensable tener flexibilidad para desplazarse entre las distintas sedes y disponibilidad para trabajar de lunes a sábados, según el cronograma de grabaciones",
+                          "¿Qué necesitas para postular?",
+                          "Experiencia mínima de un año en puestos similares, de preferencia en empresas afines al rubro",
+                          "Contar con estudios en diseño gráfico o similares",
+                          "Trabajo solo mujeres",
+                          "Remuneración: 2 5 0 0 soles",
+                          "Disponibilidad: Inmediata",
+                          "Horario: Lunes a Viernes 1 0: 0 0AM a 5: 0 0PM y Sábados 1 0AM y 1PM",
+                          "Ubicación: San Isidro, Miraflores, Surco y San Borja"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/disenadora-grafica-y-audiovisual-edwards-podologos-amp-podiatras-sociedad-anonima-cerrada-1118504098.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenadora-grafica-y-audiovisual-edwards-podologos-amp-podiatras-sociedad-anonima-cerrada-1118504098.html",
+        "descripcion_html":  "\u003cp\u003eSomos un Centro Médico Laser de Estética con \u0026#x36; \u0026#x30; años en el mercado. Buscamos una Diseñadora gráfica y audiovisual.\u003c/p\u003e\u003cp\u003eFunciones principales\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanificación y gestión de contenidos: elaboración de la parrilla/calendario de contenidos para redes sociales, alineada a campañas, promociones y objetivos de comunicación.\u003c/li\u003e \u003cli\u003eDiseño gráfico: creación de piezas visuales para redes sociales, campañas digitales y materiales para puntos de venta (POP).\u003c/li\u003e \u003cli\u003eEdición audiovisual: edición de videos y piezas audiovisuales para contenido orgánico y campañas de publicidad pagada en redes sociales.\u003c/li\u003e \u003cli\u003eProducción de contenido: planificación, grabación y producción de contenido audiovisual utilizando cámaras, celulares, drone y otras herramientas de producción.\u003c/li\u003e \u003cli\u003eEl/la postulante deberá contar con disponibilidad para trabajar en cualquiera de nuestras sedes, de acuerdo con la programación establecida, pudiendo ser asignado/a a una sede diferente cada día de la semana. Por ello, es indispensable tener flexibilidad para desplazarse entre las distintas sedes y disponibilidad para trabajar de lunes a sábados, según el cronograma de grabaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué necesitas para postular?\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de un año en puestos similares, de preferencia en empresas afines al rubro.\u003c/li\u003e \u003cli\u003eContar con estudios en diseño gráfico o similares.\u003c/li\u003e \u003cli\u003eTrabajo solo mujeres.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRemuneración: \u0026#x32; \u0026#x35; \u0026#x30; \u0026#x30; soles\u003c/p\u003e\u003cp\u003eDisponibilidad: Inmediata\u003c/p\u003e\u003cp\u003eHorario: Lunes a Viernes \u0026#x31; \u0026#x30;: \u0026#x30; \u0026#x30;AM a \u0026#x35;: \u0026#x30; \u0026#x30;PM y Sábados \u0026#x31; \u0026#x30;AM y \u0026#x31;PM.\u003c/p\u003e\u003cp\u003eUbicación: San Isidro, Miraflores, Surco y San Borja.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Lunes a Viernes 1 0: 0 0AM a 5: 0 0PM y Sábados 1 0AM y 1PM.",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118504069",
+        "clave":  "id:1118504069",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/estamos-en-busqueda-de-auxiliar-contable-business-partner-peru-1118504069.html",
+                       "capturadoEn":  "2026-11-03T15:06:28+00:00"
+                   },
+        "titulo":  "Estamos en búsqueda de Auxiliar Contable",
+        "empresa":  "Business Partner Peru",
+        "ubicacion":  "Lima - La Victoria",
+        "ciudad":  "La Victoria",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1400,
+                        "max":  1800,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,400 - S/ 1,800",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Auxiliar Contable Resumen del Puesto Buscamos un Auxiliar Contable proactivo y organizado para integrarse al equipo. El candidato ideal poseerá conocimientos sólidos en registros contables y un buen manejo de herramientas ofimáticas y sistemas de gestión. Responsabilidades Realizar el registro de compras, ventas y comprobantes contables. Llevar a cabo el archivo y control documentario, así como las provisiones y asientos contables básicos. Ejecutar conciliaciones bancarias, manejo de caja chica, arqueos y rendiciones. Dar seguimiento a cuentas por rendir, pagos a proveedores, cobranzas y vencimientos. Gestionar detracciones y retenciones. Se valorará conocimiento de impuestos y declaraciones mensuales. Se valorará experiencia con documentación de transporte, viáticos, combustible y liquidaciones. Requisitos Formación técnica o universitaria egresada en Contabilidad. Dominio de Microsoft Excel a nivel intermedio. Experiencia en el manejo de sistemas de gestión. Capacidad para trabajar de forma organizada y metódica. Habilidades de comunicación y trabajo en equipo.",
+        "requisitos":  [
+                           "Formación técnica o universitaria egresada en Contabilidad",
+                           "Dominio de Microsoft Excel a nivel intermedio",
+                           "Experiencia en el manejo de sistemas de gestión",
+                           "Capacidad para trabajar de forma organizada y metódica",
+                           "Habilidades de comunicación y trabajo en equipo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/estamos-en-busqueda-de-auxiliar-contable-business-partner-peru-1118504069.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/estamos-en-busqueda-de-auxiliar-contable-business-partner-peru-1118504069.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAuxiliar Contable\u003c/strong\u003e \u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAuxiliar Contable\u003c/strong\u003e proactivo y organizado para integrarse al equipo. El candidato ideal poseerá conocimientos sólidos en registros contables y un buen manejo de herramientas ofimáticas y sistemas de gestión.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar el registro de compras, ventas y comprobantes contables.\u003c/li\u003e \u003cli\u003eLlevar a cabo el archivo y control documentario, así como las provisiones y asientos contables básicos.\u003c/li\u003e \u003cli\u003eEjecutar conciliaciones bancarias, manejo de caja chica, arqueos y rendiciones.\u003c/li\u003e \u003cli\u003eDar seguimiento a cuentas por rendir, pagos a proveedores, cobranzas y vencimientos.\u003c/li\u003e \u003cli\u003eGestionar detracciones y retenciones. Se valorará conocimiento de impuestos y declaraciones mensuales.\u003c/li\u003e \u003cli\u003eSe valorará experiencia con documentación de transporte, viáticos, combustible y liquidaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación técnica o universitaria egresada en Contabilidad.\u003c/li\u003e \u003cli\u003eDominio de Microsoft Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eExperiencia en el manejo de sistemas de gestión.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma organizada y metódica.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118503382",
+        "clave":  "id:1118503382",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/promotor-de-ventas-bcp-expansion-1118503382.html",
+                       "capturadoEn":  "2026-11-03T15:06:29+00:00"
+                   },
+        "titulo":  "PROMOTOR DE VENTAS - BCP",
+        "empresa":  "Expansion",
+        "ubicacion":  "Tacna",
+        "ciudad":  "Tacna",
+        "region":  "Tacna",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Expansion, empresa dedicada a la gestión comercial y socio estratégico de importantes entidades financieras, se encuentra en búsqueda de nuevos talentos para integrarse a nuestro equipo de ventas. Actualmente, estamos en búsqueda de Promotores(as) de Ventas para formar parte de nuestro equipo comercial asignado al BCP, enfocados en la promoción y colocación de créditos por convenio. ¿Te apasionan las ventas y buscas una oportunidad para crecer profesionalmente y generar ingresos de acuerdo con tus resultados? ¡Esta es tu oportunidad! Buscamos personas proactivas, con habilidades de comunicación, negociación y orientación al cumplimiento de objetivos comerciales, que quieran desarrollar su carrera en el sector financiero. MODALIDAD DE TRABAJO Full time. Trabajo híbrido REQUISITOS Experiencia en ventas cualquier rubro Facilidad de comunicación, negociación y persuasión. Actitud proactiva y orientación a resultados. Capacidad para trabajar en equipo y cumplir objetivos comerciales. Manejo básico de Microsoft Office. Disponibilidad para realizar trabajo de campo. FUNCIONES Promocionar y ofrecer créditos del BCP. Captar y asesorar a clientes potenciales. Identificar oportunidades comerciales y generar nuevas ventas. Gestionar y realizar seguimiento a la cartera de clientes asignada. Brindar información sobre los productos financieros y orientar a los clientes durante el proceso comercial. Cumplir con las metas y objetivos de ventas establecidos. Reportar las gestiones comerciales realizadas. BENEFICIOS Comisiones ilimitadas según resultados. Bonos adicionales por campañas comerciales. Línea de carrera y oportunidades de crecimiento profesional. Capacitación constante. Acompañamiento y soporte comercial. Herramientas de gestión para el desarrollo de tus actividades. Oportunidad de desarrollarte en el sector financiero. ¡Potencia tus habilidades comerciales y gana de acuerdo con tu desempeño! Si buscas una oportunidad para crecer, alcanzar tus metas y desarrollar una carrera en ventas financieras, esta oportunidad es para ti. ¡Postula y forma parte de nuestro equipo comercial asignado al BCP!",
+        "requisitos":  [
+                           "Experiencia en ventas cualquier rubro",
+                           "Facilidad de comunicación, negociación y persuasión",
+                           "Actitud proactiva y orientación a resultados",
+                           "Capacidad para trabajar en equipo y cumplir objetivos comerciales",
+                           "Manejo básico de Microsoft Office",
+                           "Disponibilidad para realizar trabajo de campo"
+                       ],
+        "funciones":  [
+                          "Promocionar y ofrecer créditos del BCP",
+                          "Captar y asesorar a clientes potenciales",
+                          "Identificar oportunidades comerciales y generar nuevas ventas",
+                          "Gestionar y realizar seguimiento a la cartera de clientes asignada",
+                          "Brindar información sobre los productos financieros y orientar a los clientes durante el proceso comercial",
+                          "Cumplir con las metas y objetivos de ventas establecidos",
+                          "Reportar las gestiones comerciales realizadas"
+                      ],
+        "beneficios":  [
+                           "Comisiones ilimitadas según resultados",
+                           "Bonos adicionales por campañas comerciales",
+                           "Línea de carrera y oportunidades de crecimiento profesional",
+                           "Capacitación constante",
+                           "Acompañamiento y soporte comercial",
+                           "Herramientas de gestión para el desarrollo de tus actividades",
+                           "Oportunidad de desarrollarte en el sector financiero",
+                           "¡Potencia tus habilidades comerciales y gana de acuerdo con tu desempeño! Si buscas una oportunidad para crecer, alcanzar tus metas y desarrollar una carrera en ventas financieras, esta oportunidad es para ti",
+                           "¡Postula y forma parte de nuestro equipo comercial asignado al BCP!"
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/promotor-de-ventas-bcp-expansion-1118503382.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/promotor-de-ventas-bcp-expansion-1118503382.html",
+        "descripcion_html":  "\u003cp\u003eExpansion, empresa dedicada a la gestión comercial y socio estratégico de importantes entidades financieras, se encuentra en búsqueda de nuevos talentos para integrarse a nuestro equipo de ventas.\u003c/p\u003e\u003cp\u003eActualmente, estamos en búsqueda de Promotores(as) de Ventas para formar parte de nuestro equipo comercial asignado al BCP, enfocados en la promoción y colocación de créditos por convenio.\u003c/p\u003e\u003cp\u003e¿Te apasionan las ventas y buscas una oportunidad para crecer profesionalmente y generar ingresos de acuerdo con tus resultados? ¡Esta es tu oportunidad!\u003c/p\u003e\u003cp\u003eBuscamos personas proactivas, con habilidades de comunicación, negociación y orientación al cumplimiento de objetivos comerciales, que quieran desarrollar su carrera en el sector financiero.\u003c/p\u003e\u003cp\u003eMODALIDAD DE TRABAJO\u003c/p\u003e\u003cul\u003e \u003cli\u003eFull time.\u003c/li\u003e \u003cli\u003eTrabajo híbrido\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eREQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas cualquier rubro\u003c/li\u003e \u003cli\u003eFacilidad de comunicación, negociación y persuasión.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientación a resultados.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y cumplir objetivos comerciales.\u003c/li\u003e \u003cli\u003eManejo básico de Microsoft Office.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar trabajo de campo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFUNCIONES\u003c/p\u003e\u003cul\u003e \u003cli\u003ePromocionar y ofrecer créditos del BCP.\u003c/li\u003e \u003cli\u003eCaptar y asesorar a clientes potenciales.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades comerciales y generar nuevas ventas.\u003c/li\u003e \u003cli\u003eGestionar y realizar seguimiento a la cartera de clientes asignada.\u003c/li\u003e \u003cli\u003eBrindar información sobre los productos financieros y orientar a los clientes durante el proceso comercial.\u003c/li\u003e \u003cli\u003eCumplir con las metas y objetivos de ventas establecidos.\u003c/li\u003e \u003cli\u003eReportar las gestiones comerciales realizadas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBENEFICIOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eComisiones ilimitadas según resultados.\u003c/li\u003e \u003cli\u003eBonos adicionales por campañas comerciales.\u003c/li\u003e \u003cli\u003eLínea de carrera y oportunidades de crecimiento profesional.\u003c/li\u003e \u003cli\u003eCapacitación constante.\u003c/li\u003e \u003cli\u003eAcompañamiento y soporte comercial.\u003c/li\u003e \u003cli\u003eHerramientas de gestión para el desarrollo de tus actividades.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollarte en el sector financiero.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Potencia tus habilidades comerciales y gana de acuerdo con tu desempeño! Si buscas una oportunidad para crecer, alcanzar tus metas y desarrollar una carrera en ventas financieras, esta oportunidad es para ti.\u003c/p\u003e\u003cp\u003e¡Postula y forma parte de nuestro equipo comercial asignado al BCP!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118503377",
+        "clave":  "id:1118503377",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/promotor-de-ventas-bcp-expansion-1118503377.html",
+                       "capturadoEn":  "2026-11-03T15:06:30+00:00"
+                   },
+        "titulo":  "PROMOTOR DE VENTAS - BCP",
+        "empresa":  "Expansion",
+        "ubicacion":  "Cajamarca",
+        "ciudad":  "Cajamarca",
+        "region":  "Cajamarca",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Expansion, empresa dedicada a la gestión comercial y socio estratégico de importantes entidades financieras, se encuentra en búsqueda de nuevos talentos para integrarse a nuestro equipo de ventas. Actualmente, estamos en búsqueda de Promotores(as) de Ventas para formar parte de nuestro equipo comercial asignado al BCP, enfocados en la promoción y colocación de créditos por convenio. ¿Te apasionan las ventas y buscas una oportunidad para crecer profesionalmente y generar ingresos de acuerdo con tus resultados? ¡Esta es tu oportunidad! Buscamos personas proactivas, con habilidades de comunicación, negociación y orientación al cumplimiento de objetivos comerciales, que quieran desarrollar su carrera en el sector financiero. MODALIDAD DE TRABAJO Full time. Trabajo híbrido REQUISITOS Experiencia en ventas cualquier rubro Facilidad de comunicación, negociación y persuasión. Actitud proactiva y orientación a resultados. Capacidad para trabajar en equipo y cumplir objetivos comerciales. Manejo básico de Microsoft Office. Disponibilidad para realizar trabajo de campo. FUNCIONES Promocionar y ofrecer créditos del BCP. Captar y asesorar a clientes potenciales. Identificar oportunidades comerciales y generar nuevas ventas. Gestionar y realizar seguimiento a la cartera de clientes asignada. Brindar información sobre los productos financieros y orientar a los clientes durante el proceso comercial. Cumplir con las metas y objetivos de ventas establecidos. Reportar las gestiones comerciales realizadas. BENEFICIOS Comisiones ilimitadas según resultados. Bonos adicionales por campañas comerciales. Línea de carrera y oportunidades de crecimiento profesional. Capacitación constante. Acompañamiento y soporte comercial. Herramientas de gestión para el desarrollo de tus actividades. Oportunidad de desarrollarte en el sector financiero. ¡Potencia tus habilidades comerciales y gana de acuerdo con tu desempeño! Si buscas una oportunidad para crecer, alcanzar tus metas y desarrollar una carrera en ventas financieras, esta oportunidad es para ti. ¡Postula y forma parte de nuestro equipo comercial asignado al BCP!",
+        "requisitos":  [
+                           "Experiencia en ventas cualquier rubro",
+                           "Facilidad de comunicación, negociación y persuasión",
+                           "Actitud proactiva y orientación a resultados",
+                           "Capacidad para trabajar en equipo y cumplir objetivos comerciales",
+                           "Manejo básico de Microsoft Office",
+                           "Disponibilidad para realizar trabajo de campo"
+                       ],
+        "funciones":  [
+                          "Promocionar y ofrecer créditos del BCP",
+                          "Captar y asesorar a clientes potenciales",
+                          "Identificar oportunidades comerciales y generar nuevas ventas",
+                          "Gestionar y realizar seguimiento a la cartera de clientes asignada",
+                          "Brindar información sobre los productos financieros y orientar a los clientes durante el proceso comercial",
+                          "Cumplir con las metas y objetivos de ventas establecidos",
+                          "Reportar las gestiones comerciales realizadas"
+                      ],
+        "beneficios":  [
+                           "Comisiones ilimitadas según resultados",
+                           "Bonos adicionales por campañas comerciales",
+                           "Línea de carrera y oportunidades de crecimiento profesional",
+                           "Capacitación constante",
+                           "Acompañamiento y soporte comercial",
+                           "Herramientas de gestión para el desarrollo de tus actividades",
+                           "Oportunidad de desarrollarte en el sector financiero",
+                           "¡Potencia tus habilidades comerciales y gana de acuerdo con tu desempeño! Si buscas una oportunidad para crecer, alcanzar tus metas y desarrollar una carrera en ventas financieras, esta oportunidad es para ti",
+                           "¡Postula y forma parte de nuestro equipo comercial asignado al BCP!"
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/promotor-de-ventas-bcp-expansion-1118503377.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/promotor-de-ventas-bcp-expansion-1118503377.html",
+        "descripcion_html":  "\u003cp\u003eExpansion, empresa dedicada a la gestión comercial y socio estratégico de importantes entidades financieras, se encuentra en búsqueda de nuevos talentos para integrarse a nuestro equipo de ventas.\u003c/p\u003e\u003cp\u003eActualmente, estamos en búsqueda de Promotores(as) de Ventas para formar parte de nuestro equipo comercial asignado al BCP, enfocados en la promoción y colocación de créditos por convenio.\u003c/p\u003e\u003cp\u003e¿Te apasionan las ventas y buscas una oportunidad para crecer profesionalmente y generar ingresos de acuerdo con tus resultados? ¡Esta es tu oportunidad!\u003c/p\u003e\u003cp\u003eBuscamos personas proactivas, con habilidades de comunicación, negociación y orientación al cumplimiento de objetivos comerciales, que quieran desarrollar su carrera en el sector financiero.\u003c/p\u003e\u003cp\u003eMODALIDAD DE TRABAJO\u003c/p\u003e\u003cul\u003e \u003cli\u003eFull time.\u003c/li\u003e \u003cli\u003eTrabajo híbrido\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eREQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas cualquier rubro\u003c/li\u003e \u003cli\u003eFacilidad de comunicación, negociación y persuasión.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientación a resultados.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y cumplir objetivos comerciales.\u003c/li\u003e \u003cli\u003eManejo básico de Microsoft Office.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar trabajo de campo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFUNCIONES\u003c/p\u003e\u003cul\u003e \u003cli\u003ePromocionar y ofrecer créditos del BCP.\u003c/li\u003e \u003cli\u003eCaptar y asesorar a clientes potenciales.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades comerciales y generar nuevas ventas.\u003c/li\u003e \u003cli\u003eGestionar y realizar seguimiento a la cartera de clientes asignada.\u003c/li\u003e \u003cli\u003eBrindar información sobre los productos financieros y orientar a los clientes durante el proceso comercial.\u003c/li\u003e \u003cli\u003eCumplir con las metas y objetivos de ventas establecidos.\u003c/li\u003e \u003cli\u003eReportar las gestiones comerciales realizadas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBENEFICIOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eComisiones ilimitadas según resultados.\u003c/li\u003e \u003cli\u003eBonos adicionales por campañas comerciales.\u003c/li\u003e \u003cli\u003eLínea de carrera y oportunidades de crecimiento profesional.\u003c/li\u003e \u003cli\u003eCapacitación constante.\u003c/li\u003e \u003cli\u003eAcompañamiento y soporte comercial.\u003c/li\u003e \u003cli\u003eHerramientas de gestión para el desarrollo de tus actividades.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollarte en el sector financiero.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Potencia tus habilidades comerciales y gana de acuerdo con tu desempeño! Si buscas una oportunidad para crecer, alcanzar tus metas y desarrollar una carrera en ventas financieras, esta oportunidad es para ti.\u003c/p\u003e\u003cp\u003e¡Postula y forma parte de nuestro equipo comercial asignado al BCP!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118502789",
+        "clave":  "id:1118502789",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-farmacia-y-bioquimica-20474456049-1118502789.html",
+                       "capturadoEn":  "2026-11-03T15:06:32+00:00"
+                   },
+        "titulo":  "Practicante de Farmacia y Bioquimica",
+        "empresa":  "20474456049",
+        "ubicacion":  "Lima - Ate",
+        "ciudad":  "Ate",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1230,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/.1,230",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "Dirigido a egresadas(o) de farmacia y bioquimica. Aprendizaje de procedimientos internos en la fabricación de productos farmacéuticos. Reforzar los conocimientos de Buenas prácticas de manufactura y buenas practicas de laboratorio, en el ejercicio del dia a dia. Funciones especificas que recibiran del jefe(a) inmediato, segun MOF . Ofrecemos contrato en planilla + utilidades anuales Brindamos Bus de acercamiento dependiendo distrito de residencia Ofrecemos alimentación de lunes a viernes (almuerzo)",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "especificas que recibiran del jefe(a) inmediato, segun MOF"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-de-farmacia-y-bioquimica-20474456049-1118502789.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-farmacia-y-bioquimica-20474456049-1118502789.html",
+        "descripcion_html":  "\u003cp\u003eDirigido a egresadas(o) de farmacia y bioquimica.\u003c/p\u003e\u003cp\u003eAprendizaje de procedimientos internos en la fabricación de productos farmacéuticos.\u003c/p\u003e\u003cp\u003eReforzar los conocimientos de Buenas prácticas de manufactura y buenas practicas de laboratorio, en el ejercicio del dia a dia.\u003c/p\u003e\u003cp\u003eFunciones especificas que recibiran del jefe(a) inmediato, segun MOF .\u003c/p\u003e\u003cp\u003eOfrecemos contrato en planilla + utilidades anuales\u003c/p\u003e\u003cp\u003eBrindamos Bus de acercamiento dependiendo distrito de residencia\u003c/p\u003e\u003cp\u003eOfrecemos alimentación de lunes a viernes (almuerzo)\u003c/p\u003e\u003cp\u003e \u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118502726",
+        "clave":  "id:1118502726",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/becarioa-de-marketing-20474456049-1118502726.html",
+                       "capturadoEn":  "2026-11-03T15:06:33+00:00"
+                   },
+        "titulo":  "Becario(a) de Marketing",
+        "empresa":  "20474456049",
+        "ubicacion":  "Lima - Lurigancho",
+        "ciudad":  "Lurigancho",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1230,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/.1,230",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "Administración de materiales de publicidad para el equipo de ventas. Publicar y organizar eventos comerciales Reporte de puntos de ventas, y rutas. Diseño publicitario de afiches, flyer etc Funciones que se le asigne por su jefe inmediato Disponibilidad en laborar en la zona de Huachipa",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "que se le asigne por su jefe inmediato",
+                          "Disponibilidad en laborar en la zona de Huachipa"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/becarioa-de-marketing-20474456049-1118502726.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/becarioa-de-marketing-20474456049-1118502726.html",
+        "descripcion_html":  "\u003cp\u003eAdministración de materiales de publicidad para el equipo de ventas.\u003c/p\u003e\u003cp\u003ePublicar y organizar eventos comerciales \u003c/p\u003e\u003cp\u003eReporte de puntos de ventas, y rutas.\u003c/p\u003e\u003cp\u003eDiseño publicitario de afiches, flyer etc \u003c/p\u003e\u003cp\u003eFunciones que se le asigne por su jefe inmediato\u003c/p\u003e\u003cp\u003eDisponibilidad en laborar en la zona de Huachipa\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118502594",
+        "clave":  "id:1118502594",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/senorita-terapista-masajista-o-estudiante-de-fisioterapia.-samara-spa-1118502594.html",
+                       "capturadoEn":  "2026-11-03T15:06:34+00:00"
+                   },
+        "titulo":  "Señorita terapista masajista o estudiante de fisioterapia.",
+        "empresa":  "Samara Spa",
+        "ubicacion":  "Lima - La Victoria",
+        "ciudad":  "La Victoria",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1300,
+                        "max":  1600,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,300 - S/ 1,600",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Se requiere personal femenino con o sin experiencia en el rubro de masajes y cosmetología. Proactiva, responsable, honrada, ordenada, honesta. Con vocación de servicio y atención al cliente. - Se ofrece buen ambiente laboral. - Sueldo competitivo. - Ubicados en Santa Catalina, la mejor zona de La Victoria. Céntrico de muy fácil acceso a cualquier distrito de Lima. - Pagos semanales. - Realizamos capacitaciones para mejorar las técnicas de masajes relajantes, descontracturantes, ashiatsu, tailandes, piedras calientes, 4 manos y masajes terapéuticos, ventosas. Así como también capacitaciones en limpiezas faciales, depilaciones, manicure y pedicure. - Contratación inmediata, PAGOS PUNTUALES.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/senorita-terapista-masajista-o-estudiante-de-fisioterapia.-samara-spa-1118502594.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/senorita-terapista-masajista-o-estudiante-de-fisioterapia.-samara-spa-1118502594.html",
+        "descripcion_html":  "\u003cp\u003eSe requiere personal femenino con o sin experiencia en el rubro de masajes y cosmetología. Proactiva, responsable, honrada, ordenada, honesta. Con vocación de servicio y atención al cliente. \u003cbr /\u003e- Se ofrece buen ambiente laboral. \u003cbr /\u003e- Sueldo competitivo.\u003cbr /\u003e- Ubicados en Santa Catalina, la mejor zona de La Victoria. Céntrico de muy fácil acceso a cualquier distrito de Lima. \u003cbr /\u003e- Pagos semanales. \u003cbr /\u003e- Realizamos capacitaciones para mejorar las técnicas de masajes relajantes, descontracturantes, ashiatsu, tailandes, piedras calientes, \u0026#x34; manos y masajes terapéuticos, ventosas. Así como también capacitaciones en limpiezas faciales, depilaciones, manicure y pedicure. \u003cbr /\u003e- Contratación inmediata, PAGOS PUNTUALES.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118502291",
+        "clave":  "id:1118502291",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/realizador-audiovisual-y-editor-avil-professional-1118502291.html",
+                       "capturadoEn":  "2026-11-03T15:06:35+00:00"
+                   },
+        "titulo":  "Realizador Audiovisual y Editor",
+        "empresa":  "AVIL PROFESSIONAL",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "FILMMAKER Y EDITOR AUDIOVISUAL – SEMI SENIOR AVIL Professional Perú | Lima En AVIL Professional buscamos un Filmmaker y Editor Audiovisual creativo, dinámico y con experiencia comprobada en producción y edición de contenido digital, publicitario y educativo. Buscamos un profesional autónomo, proactivo y resolutivo, con excelente comunicación y capacidad para desarrollar proyectos audiovisuales desde la grabación hasta la entrega final. Principales funciones Producir y editar videos publicitarios para campañas de pauta digital (Meta Ads, TikTok Ads). Crear contenido educativo, comercial e institucional. Grabar y editar reels, shorts, entrevistas, testimonios y videos para redes sociales. Aplicar transiciones, efectos visuales, animaciones y técnicas modernas de edición. Realizar cobertura audiovisual de eventos, capacitaciones y lanzamientos. Operar cámaras profesionales, equipos de iluminación y audio. Gestionar transmisiones en vivo y streaming multicámara. Realizar sesiones fotográficas de productos, eventos y contenido comercial. Ejecutar ediciones rápidas desde celular y ediciones profesionales en PC. Proponer ideas, formatos y soluciones audiovisuales que eleven la calidad del contenido. Requisitos indispensables Mínimo 3 años de experiencia comprobada en producción y edición audiovisual. Dominio de Adobe Premiere Pro, After Effects, Photoshop y herramientas de Adobe Creative Cloud. Experiencia en edición de videos para publicidad digital y contenido educativo. Manejo profesional de cámaras, encuadres, iluminación y captura de audio. Experiencia en transmisiones en vivo, OBS Studio o plataformas similares. Dominio de edición móvil (CapCut u otras herramientas). Conocimiento de formatos verticales, tendencias audiovisuales y storytelling. Excelente expresión verbal, comunicación y capacidad de coordinación. Portafolio audiovisual obligatorio y referencias laborales verificables. Competencias Proactividad, creatividad y autonomía. Capacidad resolutiva y rapidez de ejecución. Organización y cumplimiento de plazos. Comunicación clara, fluida y articulada. Trabajo en equipo y orientación a resultados. Mentalidad de crecimiento y mejora continua. Ofrecemos Integrarte a una marca internacional en expansión. Participar en proyectos de publicidad, educación y eventos. Oportunidades de crecimiento y desarrollo profesional. Ambiente creativo, dinámico y orientado a resultados. Remuneración acorde con experiencia y competencias. Cursos pagados por la empresa Postulación: Enviar CV actualizado, portafolio audiovisual y referencias laborales. Importante: No es una posición junior. Buscamos experiencia real, dominio técnico y capacidad para trabajar con autonomía.",
+        "requisitos":  [
+                           "indispensables",
+                           "Mínimo 3 años de experiencia comprobada en producción y edición audiovisual",
+                           "Dominio de Adobe Premiere Pro, After Effects, Photoshop y herramientas de Adobe Creative Cloud",
+                           "Experiencia en edición de videos para publicidad digital y contenido educativo",
+                           "Manejo profesional de cámaras, encuadres, iluminación y captura de audio",
+                           "Experiencia en transmisiones en vivo, OBS Studio o plataformas similares",
+                           "Dominio de edición móvil (CapCut u otras herramientas)",
+                           "Conocimiento de formatos verticales, tendencias audiovisuales y storytelling",
+                           "Excelente expresión verbal, comunicación y capacidad de coordinación",
+                           "Portafolio audiovisual obligatorio y referencias laborales verificables",
+                           "Competencias",
+                           "Proactividad, creatividad y autonomía",
+                           "Capacidad resolutiva y rapidez de ejecución",
+                           "Organización y cumplimiento de plazos",
+                           "Comunicación clara, fluida y articulada",
+                           "Trabajo en equipo y orientación a resultados",
+                           "Mentalidad de crecimiento y mejora continua"
+                       ],
+        "funciones":  [
+                          "Producir y editar videos publicitarios para campañas de pauta digital (Meta Ads, TikTok Ads)",
+                          "Crear contenido educativo, comercial e institucional",
+                          "Grabar y editar reels, shorts, entrevistas, testimonios y videos para redes sociales",
+                          "Aplicar transiciones, efectos visuales, animaciones y técnicas modernas de edición",
+                          "Realizar cobertura audiovisual de eventos, capacitaciones y lanzamientos",
+                          "Operar cámaras profesionales, equipos de iluminación y audio",
+                          "Gestionar transmisiones en vivo y streaming multicámara",
+                          "Realizar sesiones fotográficas de productos, eventos y contenido comercial",
+                          "Ejecutar ediciones rápidas desde celular y ediciones profesionales en PC",
+                          "Proponer ideas, formatos y soluciones audiovisuales que eleven la calidad del contenido"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/realizador-audiovisual-y-editor-avil-professional-1118502291.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/realizador-audiovisual-y-editor-avil-professional-1118502291.html",
+        "descripcion_html":  "\u003cp\u003eFILMMAKER Y EDITOR AUDIOVISUAL – SEMI SENIOR\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAVIL Professional Perú | Lima\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn AVIL Professional buscamos un \u003cstrong\u003eFilmmaker y Editor Audiovisual\u003c/strong\u003e creativo, dinámico y con experiencia comprobada en producción y edición de contenido digital, publicitario y educativo.\u003c/p\u003e\u003cp\u003eBuscamos un profesional autónomo, proactivo y resolutivo, con excelente comunicación y capacidad para desarrollar proyectos audiovisuales desde la grabación hasta la entrega final.\u003c/p\u003e\u003cp\u003ePrincipales funciones\u003c/p\u003e\u003cul\u003e \u003cli\u003eProducir y editar videos publicitarios para campañas de pauta digital (Meta Ads, TikTok Ads).\u003c/li\u003e \u003cli\u003eCrear contenido educativo, comercial e institucional.\u003c/li\u003e \u003cli\u003eGrabar y editar reels, shorts, entrevistas, testimonios y videos para redes sociales.\u003c/li\u003e \u003cli\u003eAplicar transiciones, efectos visuales, animaciones y técnicas modernas de edición.\u003c/li\u003e \u003cli\u003eRealizar cobertura audiovisual de eventos, capacitaciones y lanzamientos.\u003c/li\u003e \u003cli\u003eOperar cámaras profesionales, equipos de iluminación y audio.\u003c/li\u003e \u003cli\u003eGestionar transmisiones en vivo y streaming multicámara.\u003c/li\u003e \u003cli\u003eRealizar sesiones fotográficas de productos, eventos y contenido comercial.\u003c/li\u003e \u003cli\u003eEjecutar ediciones rápidas desde celular y ediciones profesionales en PC.\u003c/li\u003e \u003cli\u003eProponer ideas, formatos y soluciones audiovisuales que eleven la calidad del contenido.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos indispensables\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eMínimo \u0026#x33; años de experiencia comprobada\u003c/strong\u003e en producción y edición audiovisual.\u003c/li\u003e \u003cli\u003eDominio de Adobe Premiere Pro, After Effects, Photoshop y herramientas de Adobe Creative Cloud.\u003c/li\u003e \u003cli\u003eExperiencia en edición de videos para publicidad digital y contenido educativo.\u003c/li\u003e \u003cli\u003eManejo profesional de cámaras, encuadres, iluminación y captura de audio.\u003c/li\u003e \u003cli\u003eExperiencia en transmisiones en vivo, OBS Studio o plataformas similares.\u003c/li\u003e \u003cli\u003eDominio de edición móvil (CapCut u otras herramientas).\u003c/li\u003e \u003cli\u003eConocimiento de formatos verticales, tendencias audiovisuales y storytelling.\u003c/li\u003e \u003cli\u003eExcelente expresión verbal, comunicación y capacidad de coordinación.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003ePortafolio audiovisual obligatorio y referencias laborales verificables.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCompetencias\u003c/p\u003e\u003cul\u003e \u003cli\u003eProactividad, creatividad y autonomía.\u003c/li\u003e \u003cli\u003eCapacidad resolutiva y rapidez de ejecución.\u003c/li\u003e \u003cli\u003eOrganización y cumplimiento de plazos.\u003c/li\u003e \u003cli\u003eComunicación clara, fluida y articulada.\u003c/li\u003e \u003cli\u003eTrabajo en equipo y orientación a resultados.\u003c/li\u003e \u003cli\u003eMentalidad de crecimiento y mejora continua.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOfrecemos\u003c/p\u003e\u003cul\u003e \u003cli\u003eIntegrarte a una marca internacional en expansión.\u003c/li\u003e \u003cli\u003eParticipar en proyectos de publicidad, educación y eventos.\u003c/li\u003e \u003cli\u003eOportunidades de crecimiento y desarrollo profesional.\u003c/li\u003e \u003cli\u003eAmbiente creativo, dinámico y orientado a resultados.\u003c/li\u003e \u003cli\u003eRemuneración acorde con experiencia y competencias.\u003c/li\u003e \u003cli\u003eCursos pagados por la empresa\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePostulación:\u003c/strong\u003e Enviar CV actualizado, portafolio audiovisual y referencias laborales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eImportante:\u003c/strong\u003e No es una posición junior. Buscamos experiencia real, dominio técnico y capacidad para trabajar con autonomía.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118502279",
+        "clave":  "id:1118502279",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/terapeuta-masajes-triny-delivery-1118502279.html",
+                       "capturadoEn":  "2026-11-03T15:06:36+00:00"
+                   },
+        "titulo":  "terapeuta",
+        "empresa":  "Masajes Triny Delivery",
+        "ubicacion":  "Lima - La Molina",
+        "ciudad":  "La Molina",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,230 - S/ 1,500",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "¡OPORTUNIDAD LABORAL! | TERAPEUTAS Y MASOTERAPEUTAS Empresa: Grupo de Inversiones Baldeón Nombre comercial: Masajes Triny Delivery Puesto: Terapeuta de Masajes / Masoterapeuta Modalidad: Atención de masajes a domicilio (Delivery) Horario: 2: 0 0 p. m. a 1 1: 0 0 p. m. Descanso: 2 días a la semana, de lunes a viernes, según programación. ¿Quiénes somos? Somos una empresa peruana especializada en masoterapia y bienestar, con más de 1 5 años de experiencia en el mercado. En Masajes Triny Delivery brindamos servicios personalizados de masajes a domicilio, orientados a la relajación, el bienestar y la satisfacción de nuestros clientes. Contamos con un equipo comprometido con la calidad del servicio, la atención profesional y el cumplimiento de nuestros estándares de atención. ¿Cuál será tu función? Brindar sesiones de masajes a domicilio según los servicios solicitados por los clientes. Aplicar técnicas de masoterapia de acuerdo con la formación y experiencia profesional. Mantener un trato cordial, respetuoso y profesional con los clientes. Cumplir con los protocolos de atención, higiene y presentación personal. Coordinar las atenciones y los desplazamientos asignados con el equipo de operaciones. Cuidar los materiales y equipos de trabajo proporcionados para el servicio. Requisitos Experiencia en masoterapia, terapias manuales o servicios de masaje. Conocimiento práctico de uno o varios tipos de masajes. Responsabilidad, puntualidad y vocación de servicio. Buena comunicación, presentación personal y disposición para el trabajo a domicilio. Disponibilidad para laborar de 2: 0 0 p. m. a 1 1: 0 0 p. m. Disponibilidad para desplazarse a los distritos de atención de acuerdo con la programación. Tipos de masajes que ofrecemos Masajes relajantes y antiestrés. Masajes descontracturantes. Masajes deportivos. Drenaje linfático. Masajes reductores. Masajes terapéuticos. Reflexología. Shiatsu. Se valorará especialmente el dominio de varias técnicas y la capacidad de brindar una atención personalizada, dentro del ámbito de la formación profesional de cada postulante. Beneficios Pagos por comisión, según los servicios realizados y las condiciones acordadas. Pagos semanales. Bonificaciones sujetas a las condiciones y metas establecidas por la empresa. Dos días de descanso a la semana, programados de lunes a viernes. Oportunidad de integrarse a una empresa con más de 1 5 años de trayectoria. Atención de servicios mediante una programación coordinada con el equipo. Modalidad de pago: Según el acuerdo contractual y la modalidad de vinculación correspondiente. Para servicios independientes, se podrá solicitar recibo por honorarios (RH), según corresponda. Zonas de atención La Molina, Santiago de Surco, San Borja, San Isidro, Miraflores, Barranco, Chorrillos, Pueblo Libre, Surquillo, Magdalena del Mar, playas de Sur Chico y zonas cercanas a Asia, según disponibilidad y programación. ¡Postula y forma parte de nuestro equipo! Si cuentas con experiencia en masoterapia y deseas desarrollar tus habilidades en una empresa especializada en bienestar, queremos conocerte. Masajes Triny Delivery Grupo de Inversiones Baldeón Postulaciones: Enviar CV o información de experiencia y disponibilidad por el canal de contacto indicado en esta convocatoria.",
+        "requisitos":  [
+                           "Experiencia en masoterapia, terapias manuales o servicios de masaje",
+                           "Conocimiento práctico de uno o varios tipos de masajes",
+                           "Responsabilidad, puntualidad y vocación de servicio",
+                           "Buena comunicación, presentación personal y disposición para el trabajo a domicilio",
+                           "Disponibilidad para laborar de 2: 0 0 p. m. a 1 1: 0 0 p. m",
+                           "Disponibilidad para desplazarse a los distritos de atención de acuerdo con la programación",
+                           "Tipos de masajes que"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Pagos por comisión, según los servicios realizados y las"
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/terapeuta-masajes-triny-delivery-1118502279.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/terapeuta-masajes-triny-delivery-1118502279.html",
+        "descripcion_html":  "\u003cp\u003e¡OPORTUNIDAD LABORAL! | TERAPEUTAS Y MASOTERAPEUTAS\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEmpresa:\u003c/strong\u003e Grupo de Inversiones Baldeón \u003cdiv style=\"display:inline-block;\"\u003e\u003cimg width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"\u003e\u003c/div\u003e \u003cstrong\u003eNombre comercial:\u003c/strong\u003e Masajes Triny Delivery \u003cstrong\u003ePuesto:\u003c/strong\u003e Terapeuta de Masajes / Masoterapeuta \u003cstrong\u003eModalidad:\u003c/strong\u003e Atención de masajes a domicilio (Delivery) \u003cstrong\u003eHorario:\u003c/strong\u003e \u0026#x32;: \u0026#x30; \u0026#x30; p. m. a \u0026#x31; \u0026#x31;: \u0026#x30; \u0026#x30; p. m. \u003cstrong\u003eDescanso:\u003c/strong\u003e \u0026#x32; días a la semana, de lunes a viernes, según programación.\u003c/p\u003e\u003cp\u003e¿Quiénes somos?\u003c/p\u003e\u003cp\u003eSomos una empresa peruana especializada en masoterapia y bienestar, con más de \u0026#x31; \u0026#x35; años de experiencia en el mercado. En Masajes Triny Delivery brindamos servicios personalizados de masajes a domicilio, orientados a la relajación, el bienestar y la satisfacción de nuestros clientes.\u003c/p\u003e\u003cp\u003eContamos con un equipo comprometido con la calidad del servicio, la atención profesional y el cumplimiento de nuestros estándares de atención.\u003c/p\u003e\u003cp\u003e¿Cuál será tu función?\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar sesiones de masajes a domicilio según los servicios solicitados por los clientes.\u003c/li\u003e \u003cli\u003eAplicar técnicas de masoterapia de acuerdo con la formación y experiencia profesional.\u003c/li\u003e \u003cli\u003eMantener un trato cordial, respetuoso y profesional con los clientes.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de atención, higiene y presentación personal.\u003c/li\u003e \u003cli\u003eCoordinar las atenciones y los desplazamientos asignados con el equipo de operaciones.\u003c/li\u003e \u003cli\u003eCuidar los materiales y equipos de trabajo proporcionados para el servicio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en masoterapia, terapias manuales o servicios de masaje.\u003c/li\u003e \u003cli\u003eConocimiento práctico de uno o varios tipos de masajes.\u003c/li\u003e \u003cli\u003eResponsabilidad, puntualidad y vocación de servicio.\u003c/li\u003e \u003cli\u003eBuena comunicación, presentación personal y disposición para el trabajo a domicilio.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de \u0026#x32;: \u0026#x30; \u0026#x30; p. m. a \u0026#x31; \u0026#x31;: \u0026#x30; \u0026#x30; p. m.\u003c/li\u003e \u003cli\u003eDisponibilidad para desplazarse a los distritos de atención de acuerdo con la programación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eTipos de masajes que ofrecemos\u003c/p\u003e\u003cul\u003e \u003cli\u003eMasajes relajantes y antiestrés.\u003c/li\u003e \u003cli\u003eMasajes descontracturantes.\u003c/li\u003e \u003cli\u003eMasajes deportivos.\u003c/li\u003e \u003cli\u003eDrenaje linfático.\u003c/li\u003e \u003cli\u003eMasajes reductores.\u003c/li\u003e \u003cli\u003eMasajes terapéuticos.\u003c/li\u003e \u003cli\u003eReflexología.\u003c/li\u003e \u003cli\u003eShiatsu.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSe valorará especialmente el dominio de varias técnicas y la capacidad de brindar una atención personalizada, dentro del ámbito de la formación profesional de cada postulante.\u003c/p\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003ePagos por comisión, según los servicios realizados y las condiciones acordadas.\u003c/li\u003e \u003cli\u003ePagos semanales.\u003c/li\u003e \u003cli\u003eBonificaciones sujetas a las condiciones y metas establecidas por la empresa.\u003c/li\u003e \u003cli\u003eDos días de descanso a la semana, programados de lunes a viernes.\u003c/li\u003e \u003cli\u003eOportunidad de integrarse a una empresa con más de \u0026#x31; \u0026#x35; años de trayectoria.\u003c/li\u003e \u003cli\u003eAtención de servicios mediante una programación coordinada con el equipo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eModalidad de pago:\u003c/strong\u003e Según el acuerdo contractual y la modalidad de vinculación correspondiente. Para servicios independientes, se podrá solicitar recibo por honorarios (RH), según corresponda.\u003c/p\u003e\u003cp\u003eZonas de atención\u003c/p\u003e\u003cp\u003eLa Molina, Santiago de Surco, San Borja, San Isidro, Miraflores, Barranco, Chorrillos, Pueblo Libre, Surquillo, Magdalena del Mar, playas de Sur Chico y zonas cercanas a Asia, según disponibilidad y programación.\u003c/p\u003e\u003cp\u003e¡Postula y forma parte de nuestro equipo!\u003c/p\u003e\u003cp\u003eSi cuentas con experiencia en masoterapia y deseas desarrollar tus habilidades en una empresa especializada en bienestar, queremos conocerte.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMasajes Triny Delivery\u003c/strong\u003e Grupo de Inversiones Baldeón \u003cdiv style=\"display:inline-block;\"\u003e\u003cimg width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"\u003e\u003c/div\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePostulaciones:\u003c/strong\u003e Enviar CV o información de experiencia y disponibilidad por el canal de contacto indicado en esta convocatoria.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "2: 0 0 p. m. a 1 1: 0 0 p. m. Descanso: 2 días a la semana, de lunes a viernes, según programación.",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118502097",
+        "clave":  "id:1118502097",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/senorita-asistente-de-tesoreria-y-contabilidad-aspiratek-1118502097.html",
+                       "capturadoEn":  "2026-11-03T15:06:37+00:00"
+                   },
+        "titulo":  "Señorita asistente de Tesorería y Contabilidad",
+        "empresa":  "Aspiratek",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1800,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,800 - S/ 2,000",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Srta. Asistente de Tesorería y Contabilidad Resumen del Puesto Estamos buscando una Asistente Contable y Tesorería , para unirse a nuestro equipo. La candidata ideal deberá contar con estudios en contabilidad y experiencia en el área contable / Logistica / Tesorería Responsabilidades Registro de operaciones contables. Conciliaciones bancarias. Archivo y control de documentación contable. Apoyo en cierres contables y tareas administrativas del área. SIRE, PLAME, PDT, libros contables. Pagos a proveedores Manejo de la Caja chica de la empresa Pagos a Contratistas Requisitos Estudios en Contabilidad, egresada de Universidad o Instituto. Experiencia minima 2 años comprobables. Manejo de sistemas contables (deseable CONCAR). Conocimientos en registros contables, conciliaciones bancarias y apoyo en declaraciones. Ordenada, responsable y proactiva. Capacidad para trabajar en equipo. Importante: Indicar email y celular en su hoja de vida. Ofrecemos Excelente ambiente laboral, oficina Top en Miraflores. Remuneración atractiva. Posibilidades de crecimiento profesional. Enviar CV con numero de celular o email .",
+        "requisitos":  [
+                           "Estudios en Contabilidad, egresada de Universidad o Instituto",
+                           "Experiencia minima 2 años comprobables",
+                           "Manejo de sistemas contables (deseable CONCAR)",
+                           "Conocimientos en registros contables, conciliaciones bancarias y apoyo en declaraciones",
+                           "Ordenada, responsable y proactiva",
+                           "Capacidad para trabajar en equipo",
+                           "Importante: Indicar email y celular en su hoja de vida"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/senorita-asistente-de-tesoreria-y-contabilidad-aspiratek-1118502097.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/senorita-asistente-de-tesoreria-y-contabilidad-aspiratek-1118502097.html",
+        "descripcion_html":  "\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSrta. Asistente de Tesorería y Contabilidad\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos buscando una \u003cstrong\u003eAsistente Contable y Tesorería\u003c/strong\u003e, para unirse a nuestro equipo. La candidata ideal deberá contar con estudios en contabilidad y experiencia en el área contable / Logistica / Tesorería\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRegistro de operaciones contables.\u003c/li\u003e \u003cli\u003eConciliaciones bancarias.\u003c/li\u003e \u003cli\u003eArchivo y control de documentación contable.\u003c/li\u003e \u003cli\u003eApoyo en cierres contables y tareas administrativas del área.\u003c/li\u003e \u003cli\u003eSIRE, PLAME, PDT, libros contables.\u003c/li\u003e \u003cli\u003ePagos a proveedores\u003c/li\u003e \u003cli\u003eManejo de la Caja chica de la empresa\u003c/li\u003e \u003cli\u003ePagos a Contratistas\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios en Contabilidad, egresada de Universidad o Instituto.\u003c/li\u003e \u003cli\u003eExperiencia minima \u0026#x32; años comprobables.\u003c/li\u003e \u003cli\u003eManejo de sistemas contables (deseable CONCAR).\u003c/li\u003e \u003cli\u003eConocimientos en registros contables, conciliaciones bancarias y apoyo en declaraciones.\u003c/li\u003e \u003cli\u003eOrdenada, responsable y proactiva.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eImportante: Indicar email y celular en su hoja de vida.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExcelente ambiente laboral, oficina Top en Miraflores.\u003c/li\u003e \u003cli\u003eRemuneración atractiva.\u003c/li\u003e \u003cli\u003ePosibilidades de crecimiento profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEnviar CV con numero de celular o email .\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118501750",
+        "clave":  "id:1118501750",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-work-courier-1118501750.html",
+                       "capturadoEn":  "2026-11-03T15:06:38+00:00"
+                   },
+        "titulo":  "ASISTENTE",
+        "empresa":  "WORK COURIER",
+        "ubicacion":  "Lima - Villa María del Triunfo",
+        "ciudad":  "Villa María del Triunfo",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1250,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,230 - S/ 1,250",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "¡Buscamos Asistente Administrativo! Sobre nosotros: Somos WorlK Courier, una empresa dedicada al rubro de transporte y entrega de mensajería a nivel nacional. Nos encontramos en la búsqueda de una persona organizada y con ganas de crecer con nosotros. ¿Cuáles serán tus funciones? Registrar y organizar las guías de remisión, facturas y documentos de las rutas. Brindar apoyo en la atención telefónica o por correo a clientes y proveedores. Realizar el seguimiento de los envíos y reportar incidencias del día. Apoyar en el control de asistencia o tareo básico del personal operativo (conductores y ayudantes). Mantener actualizadas las bases de datos y archivos de la oficina. ¿Qué requisitos necesitas? Estudios técnicos o universitarios (en curso, truncos o concluidos) de Administración o carreras afines. Manejo básico o intermedio de Microsoft Excel y herramientas de oficina. Experiencia mínima de 6 meses en puestos similares (Deseable, no indispensable). Ser una persona organizada, proactiva y con buena comunicación. Residir en Lima. ¿Qué ofrecemos? Trabajo estable en oficina y pagos siempre puntuales. Buen clima de trabajo y aprendizaje continuo. ¡Postula enviando tu CV y forma parte de nuestro equipo administrativo!",
+        "requisitos":  [
+                           "necesitas?",
+                           "Estudios técnicos o universitarios (en curso, truncos o concluidos) de Administración o carreras afines",
+                           "Manejo básico o intermedio de Microsoft Excel y herramientas de oficina",
+                           "Experiencia mínima de 6 meses en puestos similares (Deseable, no indispensable)",
+                           "Ser una persona organizada, proactiva y con buena comunicación",
+                           "Residir en Lima",
+                           "¿Qué"
+                       ],
+        "funciones":  [
+                          "Registrar y organizar las guías de remisión, facturas y documentos de las rutas",
+                          "Brindar apoyo en la atención telefónica o por correo a clientes y proveedores",
+                          "Realizar el seguimiento de los envíos y reportar incidencias del día",
+                          "Apoyar en el control de asistencia o tareo básico del personal operativo (conductores y ayudantes)",
+                          "Mantener actualizadas las bases de datos y archivos de la oficina",
+                          "¿Qué"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-work-courier-1118501750.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-work-courier-1118501750.html",
+        "descripcion_html":  "\u003cp\u003e¡Buscamos Asistente Administrativo!\u003c/p\u003e\u003cp\u003eSobre nosotros: Somos WorlK Courier, una empresa dedicada al rubro de transporte y entrega de mensajería a nivel nacional. Nos encontramos en la búsqueda de una persona organizada y con ganas de crecer con nosotros.\u003c/p\u003e\u003cp\u003e¿Cuáles serán tus funciones?\u003c/p\u003e\u003cul\u003e \u003cli\u003eRegistrar y organizar las guías de remisión, facturas y documentos de las rutas.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la atención telefónica o por correo a clientes y proveedores.\u003c/li\u003e \u003cli\u003eRealizar el seguimiento de los envíos y reportar incidencias del día.\u003c/li\u003e \u003cli\u003eApoyar en el control de asistencia o tareo básico del personal operativo (conductores y ayudantes).\u003c/li\u003e \u003cli\u003eMantener actualizadas las bases de datos y archivos de la oficina.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué requisitos necesitas?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios (en curso, truncos o concluidos) de Administración o carreras afines.\u003c/li\u003e \u003cli\u003eManejo básico o intermedio de Microsoft Excel y herramientas de oficina.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u0026#x36; meses en puestos similares (Deseable, no indispensable).\u003c/li\u003e \u003cli\u003eSer una persona organizada, proactiva y con buena comunicación.\u003c/li\u003e \u003cli\u003eResidir en Lima.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eTrabajo estable en oficina y pagos siempre puntuales.\u003c/li\u003e \u003cli\u003eBuen clima de trabajo y aprendizaje continuo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Postula enviando tu CV y forma parte de nuestro equipo administrativo!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118501391",
+        "clave":  "id:1118501391",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-marvannss-logistic-sac-1118501391.html",
+                       "capturadoEn":  "2026-11-03T15:06:39+00:00"
+                   },
+        "titulo":  "Asistente administrativo",
+        "empresa":  "MARVANNSS LOGISTIC SAC",
+        "ubicacion":  "Lima - Comas",
+        "ciudad":  "Comas",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1300,
+                        "max":  1700,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,300 - S/ 1,700",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Somos una empresa del sector transporte y estamos en búsqueda de una persona responsable, organizada y proactiva para integrarse a nuestro equipo de trabajo en Lima. \u0026#x1f4cb; FUNCIONES PRINCIPALES: Control y rendición de caja chica. Gestión de cotizaciones y soporte en compras. Control y seguimiento de pagos a proveedores. Soporte en facturación y emisión de comprobantes. Seguimiento de cuentas por cobrar y gestión de cobranzas. Organización y archivo de documentación administrativa. Apoyo en otras actividades administrativas según las necesidades de la empresa. ✅ REQUISITOS: Estudios técnicos o superiores en Administración, Contabilidad o carreras afines. Manejo de Excel y herramientas de Office. Experiencia en funciones administrativas, caja chica, compras, facturación o cobranzas. Organización, responsabilidad, proactividad y atención al detalle. \u0026#x1f4cd; Lugar de trabajo: Lima. \u0026#x1f4e9; ¿Cumples con el perfil? Envíanos tu CV y forma parte de nuestro equipo .",
+        "requisitos":  [
+                           "Estudios técnicos o superiores en Administración, Contabilidad o carreras afines",
+                           "Manejo de Excel y herramientas de Office",
+                           "Experiencia en"
+                       ],
+        "funciones":  [
+                          "administrativas, caja chica, compras, facturación o cobranzas",
+                          "Organización, responsabilidad, proactividad y atención al detalle",
+                          "\u0026#x1f4cd; Lugar de trabajo: Lima",
+                          "\u0026#x1f4e9; ¿Cumples con el"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-marvannss-logistic-sac-1118501391.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-marvannss-logistic-sac-1118501391.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/p\u003e \u003cp\u003eSomos una empresa del sector transporte y estamos en búsqueda de una persona responsable, organizada y proactiva para integrarse a nuestro equipo de trabajo en Lima.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e \u0026#x1f4cb; FUNCIONES PRINCIPALES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControl y rendición de caja chica.\u003c/li\u003e \u003cli\u003eGestión de cotizaciones y soporte en compras.\u003c/li\u003e \u003cli\u003eControl y seguimiento de pagos a proveedores.\u003c/li\u003e \u003cli\u003eSoporte en facturación y emisión de comprobantes.\u003c/li\u003e \u003cli\u003eSeguimiento de cuentas por cobrar y gestión de cobranzas.\u003c/li\u003e \u003cli\u003eOrganización y archivo de documentación administrativa.\u003c/li\u003e \u003cli\u003eApoyo en otras actividades administrativas según las necesidades de la empresa.\u003c/li\u003e \u003cli\u003e\u003cbr /\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003e \u0026#x2705; REQUISITOS:\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eEstudios técnicos o superiores en Administración, Contabilidad o carreras afines.\u003c/li\u003e \u003cli\u003eManejo de Excel y herramientas de Office.\u003c/li\u003e \u003cli\u003eExperiencia en funciones administrativas, caja chica, compras, facturación o cobranzas.\u003c/li\u003e \u003cli\u003eOrganización, responsabilidad, proactividad y atención al detalle.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f4cd; \u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Lima.\u003c/p\u003e\u003cp\u003e \u0026#x1f4e9; \u003cstrong\u003e¿Cumples con el perfil?\u003c/strong\u003e Envíanos tu CV y forma parte de nuestro equipo .\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500946",
+        "clave":  "id:1118500946",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenista-para-optica-centro-optico-ely-1118500946.html",
+                       "capturadoEn":  "2026-11-03T15:06:40+00:00"
+                   },
+        "titulo":  "Almacenista para Optica",
+        "empresa":  "CENTRO OPTICO ELY",
+        "ubicacion":  "Lima - Cercado De Lima",
+        "ciudad":  "Cercado De Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  2300,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,500 - S/ 2,300",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "SE SOLICITA ALMACENISTA CON EXPERIENCIA \u0026#x1f4cd; Lugar: Cercado de Lima, Jr. Huancavelica. \u0026#x1f552; Horario: Horarios a convenir según las necesidades de la empresa, incluye refrigerio. \u0026#x1f4b0; Sueldo: A convenir según experiencia. \u0026#x1f4e6; REQUISITOS Experiencia en almacenes, preferentemente del rubro de Ópticas. Conocimiento de monturas, lunas, lentes e insumos ópticos. Experiencia en inventarios físicos, control de stock y cuadre de diferencias. Manejo de sistemas informáticos y codificación de productos. \u0026#x1f3af; FUNCIONES PRINCIPALES Organizar y clasificar los productos del almacén. Ingresar monturas al sistema con sus códigos y características. Registrar entradas, salidas y transferencias entre tiendas. Realizar inventarios físicos y cuadres mensuales. Controlar el stock, abastecer las tiendas y elaborar reportes para la administración. \u0026#x1f4e9; POSTULACIÓN: - Envía tu CV actualizado y adjunta la copia de DNI/CE",
+        "requisitos":  [
+                           "Experiencia en almacenes, preferentemente del rubro de Ópticas",
+                           "Conocimiento de monturas, lunas, lentes e insumos ópticos",
+                           "Experiencia en inventarios físicos, control de stock y cuadre de diferencias",
+                           "Manejo de sistemas informáticos y codificación de productos",
+                           "\u0026#x1f3af"
+                       ],
+        "funciones":  [
+                          "PRINCIPALES",
+                          "Organizar y clasificar los productos del almacén",
+                          "Ingresar monturas al sistema con sus códigos y características",
+                          "Registrar entradas, salidas y transferencias entre tiendas",
+                          "Realizar inventarios físicos y cuadres mensuales",
+                          "Controlar el stock, abastecer las tiendas y elaborar reportes para la administración",
+                          "\u0026#x1f4e9; POSTULACIÓN",
+                          "Envía tu CV actualizado y adjunta la copia de DNI/CE"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/almacenista-para-optica-centro-optico-ely-1118500946.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenista-para-optica-centro-optico-ely-1118500946.html",
+        "descripcion_html":  "\u003cp\u003eSE SOLICITA ALMACENISTA CON EXPERIENCIA\u003c/p\u003e\u003cp\u003e \u0026#x1f4cd; Lugar: Cercado de Lima, Jr. Huancavelica.\u003c/p\u003e\u003cp\u003e \u0026#x1f552; Horario: Horarios a convenir según las necesidades de la empresa, incluye refrigerio. \u003c/p\u003e\u003cp\u003e \u0026#x1f4b0; Sueldo: A convenir según experiencia. \u003c/p\u003e\u003cp\u003e \u0026#x1f4e6; REQUISITOS \u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en almacenes, preferentemente del rubro de Ópticas. \u003c/li\u003e \u003cli\u003eConocimiento de monturas, lunas, lentes e insumos ópticos.\u003c/li\u003e \u003cli\u003eExperiencia en inventarios físicos, control de stock y cuadre de diferencias. \u003c/li\u003e \u003cli\u003eManejo de sistemas informáticos y codificación de productos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f3af; FUNCIONES PRINCIPALES \u003c/p\u003e\u003cul\u003e \u003cli\u003eOrganizar y clasificar los productos del almacén. \u003c/li\u003e \u003cli\u003eIngresar monturas al sistema con sus códigos y características.\u003c/li\u003e \u003cli\u003eRegistrar entradas, salidas y transferencias entre tiendas.\u003c/li\u003e \u003cli\u003eRealizar inventarios físicos y cuadres mensuales.\u003c/li\u003e \u003cli\u003eControlar el stock, abastecer las tiendas y elaborar reportes para la administración. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f4e9; POSTULACIÓN: \u003c/p\u003e\u003cp\u003e- Envía tu CV actualizado y adjunta la copia de DNI/CE\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Horarios a convenir según las necesidades de la empresa, incluye refrigerio.",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500944",
+        "clave":  "id:1118500944",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-en-optica-centro-optico-ely-1118500944.html",
+                       "capturadoEn":  "2026-11-03T15:06:41+00:00"
+                   },
+        "titulo":  "Asesor de ventas en Optica",
+        "empresa":  "CENTRO OPTICO ELY",
+        "ubicacion":  "Lima - Cercado De Lima",
+        "ciudad":  "Cercado De Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  2484,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,500 - S/ 2,484",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "\u0026#x1f4e2; CENTRO ÓPTICO SOLICITA VENDEDORES(AS) DE ÓPTICA Lugar de trabajo: Cercado de Lima – Jr. Huancavelica Área: Ventas y atención al cliente \u0026#x1f4cc; REQUISITOS Experiencia en ventas (de preferencia en el rubro de Ópticas) Conocimientos de lentes monofocales, bifocales y multifocales. Capacidad para asesorar a los clientes y recomendar productos según sus necesidades. Habilidad comercial, facilidad de palabra y orientación al cumplimiento de metas. Buen trato al cliente y capacidad para trabajar en equipo. \u0026#x1f552; HORARIOS DE TRABAJO Los descansos semanales se organizarán conforme a la jornada y al horario acordado. También podemos evaluar otras opciones de horario y condiciones económicas según la experiencia y el perfil del candidato. \u0026#x1f4b0; SUELDO, COMISIONES Y OPORTUNIDAD DE CRECIMIENTO Sueldo base: remuneración acorde con la jornada y las condiciones del mercado. Comisiones por ventas, sujeto a la experiencia y el perfil del candidato. \u0026#x1f3af; FUNCIONES PRINCIPALES Brindar atención amable, profesional y personalizada. Ofrecer monturas y lentes según las necesidades del cliente. Asesorar sobre las características básicas de los lentes monofocales, bifocales y multifocales. Cumplir los objetivos comerciales y realizar seguimiento a las oportunidades de venta. Registrar correctamente las ventas, los pagos y los pedidos. Hacer seguimiento a los pedidos hasta confirmar la entrega correcta al cliente. Cumplir los procedimientos de caja, atención, ventas y posventa. Mantener ordenado el espacio de trabajo y cuidar los productos. \u0026#x1f464; ¿QUÉ PERSONA BUSCAMOS? Una persona honesta, organizada, respetuosa y con iniciativa; que tenga mentalidad comercial, disposición para aprender y compromiso con sus resultados. Valoramos a quienes saben trabajar en equipo, respetan las normas de la empresa y comprenden que una venta termina cuando el cliente recibe correctamente su producto y queda satisfecho con la atención. \u0026#x1f4e9; ¿CÓMO POSTULAR? Envía tu CV, indicando tu experiencia en ventas, tus conocimientos en óptica. Adjuntar copia de DNI/CE",
+        "requisitos":  [
+                           "Experiencia en ventas (de preferencia en el rubro de Ópticas)",
+                           "Conocimientos de lentes monofocales, bifocales y multifocales",
+                           "Capacidad para asesorar a los clientes y recomendar productos según sus necesidades",
+                           "Habilidad comercial, facilidad de palabra y orientación al cumplimiento de metas",
+                           "Buen trato al cliente y capacidad para trabajar en equipo",
+                           "\u0026#x1f552; HORARIOS DE TRABAJO",
+                           "Los descansos semanales se organizarán conforme a la jornada y al horario acordado. También podemos evaluar otras opciones de horario y"
+                       ],
+        "funciones":  [
+                          "PRINCIPALES",
+                          "Brindar atención amable, profesional y personalizada",
+                          "Ofrecer monturas y lentes según las necesidades del cliente",
+                          "Asesorar sobre las características básicas de los lentes monofocales, bifocales y multifocales",
+                          "Cumplir los objetivos comerciales y realizar seguimiento a las oportunidades de venta",
+                          "Registrar correctamente las ventas, los pagos y los pedidos",
+                          "Hacer seguimiento a los pedidos hasta confirmar la entrega correcta al cliente",
+                          "Cumplir los procedimientos de caja, atención, ventas y posventa",
+                          "Mantener ordenado el espacio de trabajo y cuidar los productos",
+                          "\u0026#x1f464; ¿QUÉ PERSONA BUSCAMOS?",
+                          "Una persona honesta, organizada, respetuosa y con iniciativa; que tenga mentalidad comercial, disposición para aprender y compromiso con sus resultados. Valoramos a quienes saben trabajar en equipo, respetan las normas de la empresa y comprenden que una venta termina cuando el cliente recibe correctamente su producto y queda satisfecho con la atención",
+                          "\u0026#x1f4e9; ¿CÓMO POSTULAR?",
+                          "Envía tu CV, indicando tu experiencia en ventas, tus conocimientos en óptica",
+                          "Adjuntar copia de DNI/CE"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-en-optica-centro-optico-ely-1118500944.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-en-optica-centro-optico-ely-1118500944.html",
+        "descripcion_html":  "\u003cp\u003e \u0026#x1f4e2; CENTRO ÓPTICO SOLICITA VENDEDORES(AS) DE ÓPTICA \u003c/p\u003e\u003cp\u003eLugar de trabajo: Cercado de Lima – Jr. Huancavelica \u003c/p\u003e\u003cp\u003eÁrea: Ventas y atención al cliente \u003c/p\u003e\u003cp\u003e \u0026#x1f4cc; REQUISITOS \u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en ventas (de preferencia en el rubro de Ópticas)\u003c/li\u003e \u003cli\u003eConocimientos de lentes monofocales, bifocales y multifocales.\u003c/li\u003e \u003cli\u003eCapacidad para asesorar a los clientes y recomendar productos según sus necesidades.\u003c/li\u003e \u003cli\u003eHabilidad comercial, facilidad de palabra y orientación al cumplimiento de metas.\u003c/li\u003e \u003cli\u003eBuen trato al cliente y capacidad para trabajar en equipo. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f552; HORARIOS DE TRABAJO \u003c/p\u003e\u003cp\u003eLos descansos semanales se organizarán conforme a la jornada y al horario acordado. También podemos evaluar otras opciones de horario y condiciones económicas según la experiencia y el perfil del candidato. \u003c/p\u003e\u003cp\u003e \u0026#x1f4b0; SUELDO, COMISIONES Y OPORTUNIDAD DE CRECIMIENTO \u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo base: remuneración acorde con la jornada y las condiciones del mercado. \u003c/li\u003e \u003cli\u003eComisiones por ventas, sujeto a la experiencia y el perfil del candidato.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f3af; FUNCIONES PRINCIPALES \u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención amable, profesional y personalizada.\u003c/li\u003e \u003cli\u003eOfrecer monturas y lentes según las necesidades del cliente.\u003c/li\u003e \u003cli\u003eAsesorar sobre las características básicas de los lentes monofocales, bifocales y multifocales.\u003c/li\u003e \u003cli\u003eCumplir los objetivos comerciales y realizar seguimiento a las oportunidades de venta.\u003c/li\u003e \u003cli\u003eRegistrar correctamente las ventas, los pagos y los pedidos.\u003c/li\u003e \u003cli\u003eHacer seguimiento a los pedidos hasta confirmar la entrega correcta al cliente.\u003c/li\u003e \u003cli\u003eCumplir los procedimientos de caja, atención, ventas y posventa.\u003c/li\u003e \u003cli\u003eMantener ordenado el espacio de trabajo y cuidar los productos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f464; ¿QUÉ PERSONA BUSCAMOS? \u003c/p\u003e\u003cp\u003eUna persona honesta, organizada, respetuosa y con iniciativa; que tenga mentalidad comercial, disposición para aprender y compromiso con sus resultados. Valoramos a quienes saben trabajar en equipo, respetan las normas de la empresa y comprenden que una venta termina cuando el cliente recibe correctamente su producto y queda satisfecho con la atención.\u003c/p\u003e\u003cp\u003e \u0026#x1f4e9; ¿CÓMO POSTULAR? \u003c/p\u003e\u003cp\u003eEnvía tu CV, indicando tu experiencia en ventas, tus conocimientos en óptica. \u003c/p\u003e\u003cp\u003eAdjuntar copia de DNI/CE\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500935",
+        "clave":  "id:1118500935",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/creador-a-de-contenido-digital-isabella-catalogo-1118500935.html",
+                       "capturadoEn":  "2026-11-03T15:06:42+00:00"
+                   },
+        "titulo":  "Creador/a de Contenido Digital",
+        "empresa":  "Isabella Catalogo",
+        "ubicacion":  "Lima - Los Olivos",
+        "ciudad":  "Los Olivos",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1600,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,600 - S/ 2,000",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Creador/a de Contenido Digital Resumen del Puesto Estamos en la búsqueda de un/a Creador/a de Contenido Digital con experiencia para unirse a nuestro equipo. El candidato/a ideal tendrá una pasión por la creación de contenido atractivo y efectivo para plataformas digitales, con un enfoque en estrategias de venta. Responsabilidades Crear y desarrollar contenido digital innovador para redes sociales. Grabar y editar videos de alta calidad. Utilizar herramientas de inteligencia artificial para optimizar la creación de contenido. Elaborar guiones con un enfoque claro en la generación de ventas. Gestionar y mantener la presencia en redes sociales de marcas. Colaborar con equipos para asegurar la coherencia de la marca y los objetivos de marketing. Requisitos Mínimo 2 años de experiencia comprobada en la creación de contenido para redes sociales. Habilidades sólidas en grabación y edición de video. Experiencia en el uso de herramientas de inteligencia artificial aplicadas a la creación de contenido. Capacidad para desarrollar estrategias de contenido orientadas a la venta. Excelentes habilidades de comunicación y creatividad. Capacidad para trabajar de forma autónoma y en equipo. tiempo completo o medio tiempo",
+        "requisitos":  [
+                           "Mínimo 2 años de experiencia comprobada en la creación de contenido para redes sociales",
+                           "Habilidades sólidas en grabación y edición de video",
+                           "Experiencia en el uso de herramientas de inteligencia artificial aplicadas a la creación de contenido",
+                           "Capacidad para desarrollar estrategias de contenido orientadas a la venta",
+                           "Excelentes habilidades de comunicación y creatividad",
+                           "Capacidad para trabajar de forma autónoma y en equipo",
+                           "tiempo completo o medio tiempo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/creador-a-de-contenido-digital-isabella-catalogo-1118500935.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/creador-a-de-contenido-digital-isabella-catalogo-1118500935.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eCreador/a de Contenido Digital\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un/a \u003cstrong\u003eCreador/a de Contenido Digital\u003c/strong\u003e con experiencia para unirse a nuestro equipo. El candidato/a ideal tendrá una pasión por la creación de contenido atractivo y efectivo para plataformas digitales, con un enfoque en estrategias de venta.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCrear y desarrollar contenido digital innovador para redes sociales.\u003c/li\u003e \u003cli\u003eGrabar y editar videos de alta calidad.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de inteligencia artificial para optimizar la creación de contenido.\u003c/li\u003e \u003cli\u003eElaborar guiones con un enfoque claro en la generación de ventas.\u003c/li\u003e \u003cli\u003eGestionar y mantener la presencia en redes sociales de marcas.\u003c/li\u003e \u003cli\u003eColaborar con equipos para asegurar la coherencia de la marca y los objetivos de marketing.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo \u0026#x32; años de experiencia comprobada en la creación de contenido para redes sociales.\u003c/li\u003e \u003cli\u003eHabilidades sólidas en grabación y edición de video.\u003c/li\u003e \u003cli\u003eExperiencia en el uso de herramientas de inteligencia artificial aplicadas a la creación de contenido.\u003c/li\u003e \u003cli\u003eCapacidad para desarrollar estrategias de contenido orientadas a la venta.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y creatividad.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003etiempo completo o medio tiempo\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500932",
+        "clave":  "id:1118500932",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/creador-a-de-contenido-digital-alejandro-macedo-silva-1118500932.html",
+                       "capturadoEn":  "2026-11-03T15:06:43+00:00"
+                   },
+        "titulo":  "Creador/a de Contenido Digital",
+        "empresa":  "Alejandro Macedo Silva",
+        "ubicacion":  "Lima - Los Olivos",
+        "ciudad":  "Los Olivos",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1600,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,600 - S/ 2,000",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Creador/a de Contenido Digital Resumen del Puesto Estamos en la búsqueda de un/a Creador/a de Contenido Digital con experiencia para unirse a nuestro equipo. El candidato/a ideal tendrá una pasión por la creación de contenido atractivo y efectivo para plataformas digitales, con un enfoque en estrategias de venta. Responsabilidades Crear y desarrollar contenido digital innovador para redes sociales. Grabar y editar videos de alta calidad. Utilizar herramientas de inteligencia artificial para optimizar la creación de contenido. Elaborar guiones con un enfoque claro en la generación de ventas. Gestionar y mantener la presencia en redes sociales de marcas. Colaborar con equipos para asegurar la coherencia de la marca y los objetivos de marketing. Requisitos Mínimo 2 años de experiencia comprobada en la creación de contenido para redes sociales. Habilidades sólidas en grabación y edición de video. Experiencia en el uso de herramientas de inteligencia artificial aplicadas a la creación de contenido. Capacidad para desarrollar guiones orientados a la venta. Experiencia en la gestión de redes sociales para marcas o negocios. Excelentes habilidades de comunicación y creatividad. Disponibilidad para trabajar en un esquema de medio tiempo O tiempo completo",
+        "requisitos":  [
+                           "Mínimo 2 años de experiencia comprobada en la creación de contenido para redes sociales",
+                           "Habilidades sólidas en grabación y edición de video",
+                           "Experiencia en el uso de herramientas de inteligencia artificial aplicadas a la creación de contenido",
+                           "Capacidad para desarrollar guiones orientados a la venta",
+                           "Experiencia en la gestión de redes sociales para marcas o negocios",
+                           "Excelentes habilidades de comunicación y creatividad",
+                           "Disponibilidad para trabajar en un esquema de medio tiempo O tiempo completo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/creador-a-de-contenido-digital-alejandro-macedo-silva-1118500932.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/creador-a-de-contenido-digital-alejandro-macedo-silva-1118500932.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eCreador/a de Contenido Digital\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un/a \u003cstrong\u003eCreador/a de Contenido Digital\u003c/strong\u003e con experiencia para unirse a nuestro equipo. El candidato/a ideal tendrá una pasión por la creación de contenido atractivo y efectivo para plataformas digitales, con un enfoque en estrategias de venta.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCrear y desarrollar contenido digital innovador para redes sociales.\u003c/li\u003e \u003cli\u003eGrabar y editar videos de alta calidad.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de inteligencia artificial para optimizar la creación de contenido.\u003c/li\u003e \u003cli\u003eElaborar guiones con un enfoque claro en la generación de ventas.\u003c/li\u003e \u003cli\u003eGestionar y mantener la presencia en redes sociales de marcas.\u003c/li\u003e \u003cli\u003eColaborar con equipos para asegurar la coherencia de la marca y los objetivos de marketing.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo \u0026#x32; años de experiencia comprobada en la creación de contenido para redes sociales.\u003c/li\u003e \u003cli\u003eHabilidades sólidas en grabación y edición de video.\u003c/li\u003e \u003cli\u003eExperiencia en el uso de herramientas de inteligencia artificial aplicadas a la creación de contenido.\u003c/li\u003e \u003cli\u003eCapacidad para desarrollar guiones orientados a la venta.\u003c/li\u003e \u003cli\u003eExperiencia en la gestión de redes sociales para marcas o negocios.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y creatividad.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en un esquema de medio tiempo O tiempo completo\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118500895",
+        "clave":  "id:1118500895",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-o-bachiller-en-derecho-procesal-civil-y-recuperacion-judicial-anonimo-1118500895.html",
+                       "capturadoEn":  "2026-11-03T15:06:44+00:00"
+                   },
+        "titulo":  "Practicante o Bachiller en Derecho - Procesal Civil y Recuperación Judicial",
+        "empresa":  "ANONIMO",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  123,
+                        "max":  124,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 123 - S/ 124",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Practicante o Bachiller en Derecho - Procesal Civil y Recuperación Judicial Practicante o Bachiller en Derecho - Procesal Civil y Recuperación Judicial Resumen del Puesto Estamos en la búsqueda de un Practicante o Bachiller en Derecho con interés en desarrollarse en las áreas de Derecho Procesal Civil y Recuperación Judicial de Créditos. Modalidad 1 0 0% remoto, solo 2 veces por semana, 6 horas por dìa. Los dias se pueden coordinar a requerimiento. Responsabilidades Redacción y elaboración de escritos judiciales. Elaboración y presentación de escritos de impulso procesal. Seguimiento y revisión del estado de expedientes judiciales. Revisión de resoluciones y control de plazos procesales. Seguimiento de actuaciones pendientes ante los juzgados. Actualización y control de la cartera judicial. Uso de plataformas del poder judicial. Requisitos Estudiante de Derecho de últimos ciclos o bachiller en Derecho. Conocimientos en procesos de obligación de dar suma de dinero. Conocimientos en ejecución de garantías hipotecarias. Conocimientos en procesos concursales. Conocimientos en procesos únicos de ejecución y otros procesos ejecutivos. Buena redacción jurídica. Capacidad de organización y responsabilidad. \u0026#x1f4e9; Postulación Las personas interesadas enviar su CV.",
+        "requisitos":  [
+                           "Estudiante de Derecho de últimos ciclos o bachiller en Derecho",
+                           "Conocimientos en procesos de obligación de dar suma de dinero",
+                           "Conocimientos en ejecución de garantías hipotecarias",
+                           "Conocimientos en procesos concursales",
+                           "Conocimientos en procesos únicos de ejecución y otros procesos ejecutivos",
+                           "Buena redacción jurídica",
+                           "Capacidad de organización y responsabilidad",
+                           "\u0026#x1f4e9; Postulación",
+                           "Las personas interesadas enviar su CV"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-03",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-o-bachiller-en-derecho-procesal-civil-y-recuperacion-judicial-anonimo-1118500895.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-o-bachiller-en-derecho-procesal-civil-y-recuperacion-judicial-anonimo-1118500895.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003ePracticante o Bachiller en Derecho - Procesal Civil y Recuperación Judicial\u003c/strong\u003e\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003ePracticante o Bachiller en Derecho - Procesal Civil y Recuperación Judicial\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003ePracticante o Bachiller en Derecho\u003c/strong\u003e con interés en desarrollarse en las áreas de Derecho Procesal Civil y Recuperación Judicial de Créditos. Modalidad \u0026#x31; \u0026#x30; \u0026#x30;% remoto, solo \u0026#x32; veces por semana, \u0026#x36; horas por dìa. Los dias se pueden coordinar a requerimiento.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRedacción y elaboración de escritos judiciales.\u003c/li\u003e \u003cli\u003eElaboración y presentación de escritos de impulso procesal.\u003c/li\u003e \u003cli\u003eSeguimiento y revisión del estado de expedientes judiciales.\u003c/li\u003e \u003cli\u003eRevisión de resoluciones y control de plazos procesales.\u003c/li\u003e \u003cli\u003eSeguimiento de actuaciones pendientes ante los juzgados.\u003c/li\u003e \u003cli\u003eActualización y control de la cartera judicial.\u003c/li\u003e \u003cli\u003eUso de plataformas del poder judicial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante de Derecho de últimos ciclos o bachiller en Derecho.\u003c/li\u003e \u003cli\u003eConocimientos en procesos de obligación de dar suma de dinero.\u003c/li\u003e \u003cli\u003eConocimientos en ejecución de garantías hipotecarias.\u003c/li\u003e \u003cli\u003eConocimientos en procesos concursales.\u003c/li\u003e \u003cli\u003eConocimientos en procesos únicos de ejecución y otros procesos ejecutivos.\u003c/li\u003e \u003cli\u003eBuena redacción jurídica.\u003c/li\u003e \u003cli\u003eCapacidad de organización y responsabilidad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f4e9; \u003cstrong\u003ePostulación\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLas personas interesadas enviar su CV.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "03/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]

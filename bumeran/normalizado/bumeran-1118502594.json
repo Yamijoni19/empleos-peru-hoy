@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118502594",
+    "clave":  "id:1118502594",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/senorita-terapista-masajista-o-estudiante-de-fisioterapia.-samara-spa-1118502594.html",
+                   "capturadoEn":  "2026-11-03T15:06:34+00:00"
+               },
+    "titulo":  "Señorita terapista masajista o estudiante de fisioterapia.",
+    "empresa":  "Samara Spa",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Se requiere personal femenino con o sin experiencia en el rubro de masajes y cosmetología. Proactiva, responsable, honrada, ordenada, honesta. Con vocación de servicio y atención al cliente. - Se ofrece buen ambiente laboral. - Sueldo competitivo. - Ubicados en Santa Catalina, la mejor zona de La Victoria. Céntrico de muy fácil acceso a cualquier distrito de Lima. - Pagos semanales. - Realizamos capacitaciones para mejorar las técnicas de masajes relajantes, descontracturantes, ashiatsu, tailandes, piedras calientes, 4 manos y masajes terapéuticos, ventosas. Así como también capacitaciones en limpiezas faciales, depilaciones, manicure y pedicure. - Contratación inmediata, PAGOS PUNTUALES.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/senorita-terapista-masajista-o-estudiante-de-fisioterapia.-samara-spa-1118502594.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/senorita-terapista-masajista-o-estudiante-de-fisioterapia.-samara-spa-1118502594.html",
+    "descripcion_html":  "\u003cp\u003eSe requiere personal femenino con o sin experiencia en el rubro de masajes y cosmetología. Proactiva, responsable, honrada, ordenada, honesta. Con vocación de servicio y atención al cliente. \u003cbr /\u003e- Se ofrece buen ambiente laboral. \u003cbr /\u003e- Sueldo competitivo.\u003cbr /\u003e- Ubicados en Santa Catalina, la mejor zona de La Victoria. Céntrico de muy fácil acceso a cualquier distrito de Lima. \u003cbr /\u003e- Pagos semanales. \u003cbr /\u003e- Realizamos capacitaciones para mejorar las técnicas de masajes relajantes, descontracturantes, ashiatsu, tailandes, piedras calientes, \u0026#x34; manos y masajes terapéuticos, ventosas. Así como también capacitaciones en limpiezas faciales, depilaciones, manicure y pedicure. \u003cbr /\u003e- Contratación inmediata, PAGOS PUNTUALES.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

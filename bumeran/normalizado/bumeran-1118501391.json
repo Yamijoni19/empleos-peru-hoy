@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118501391",
+    "clave":  "id:1118501391",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-marvannss-logistic-sac-1118501391.html",
+                   "capturadoEn":  "2026-11-03T15:06:39+00:00"
+               },
+    "titulo":  "Asistente administrativo",
+    "empresa":  "MARVANNSS LOGISTIC SAC",
+    "ubicacion":  "Lima - Comas",
+    "ciudad":  "Comas",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Somos una empresa del sector transporte y estamos en búsqueda de una persona responsable, organizada y proactiva para integrarse a nuestro equipo de trabajo en Lima. \u0026#x1f4cb; FUNCIONES PRINCIPALES: Control y rendición de caja chica. Gestión de cotizaciones y soporte en compras. Control y seguimiento de pagos a proveedores. Soporte en facturación y emisión de comprobantes. Seguimiento de cuentas por cobrar y gestión de cobranzas. Organización y archivo de documentación administrativa. Apoyo en otras actividades administrativas según las necesidades de la empresa. ✅ REQUISITOS: Estudios técnicos o superiores en Administración, Contabilidad o carreras afines. Manejo de Excel y herramientas de Office. Experiencia en funciones administrativas, caja chica, compras, facturación o cobranzas. Organización, responsabilidad, proactividad y atención al detalle. \u0026#x1f4cd; Lugar de trabajo: Lima. \u0026#x1f4e9; ¿Cumples con el perfil? Envíanos tu CV y forma parte de nuestro equipo .",
+    "requisitos":  [
+                       "Estudios técnicos o superiores en Administración, Contabilidad o carreras afines",
+                       "Manejo de Excel y herramientas de Office",
+                       "Experiencia en"
+                   ],
+    "funciones":  [
+                      "administrativas, caja chica, compras, facturación o cobranzas",
+                      "Organización, responsabilidad, proactividad y atención al detalle",
+                      "\u0026#x1f4cd; Lugar de trabajo: Lima",
+                      "\u0026#x1f4e9; ¿Cumples con el"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-marvannss-logistic-sac-1118501391.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-marvannss-logistic-sac-1118501391.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/p\u003e \u003cp\u003eSomos una empresa del sector transporte y estamos en búsqueda de una persona responsable, organizada y proactiva para integrarse a nuestro equipo de trabajo en Lima.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e \u0026#x1f4cb; FUNCIONES PRINCIPALES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControl y rendición de caja chica.\u003c/li\u003e \u003cli\u003eGestión de cotizaciones y soporte en compras.\u003c/li\u003e \u003cli\u003eControl y seguimiento de pagos a proveedores.\u003c/li\u003e \u003cli\u003eSoporte en facturación y emisión de comprobantes.\u003c/li\u003e \u003cli\u003eSeguimiento de cuentas por cobrar y gestión de cobranzas.\u003c/li\u003e \u003cli\u003eOrganización y archivo de documentación administrativa.\u003c/li\u003e \u003cli\u003eApoyo en otras actividades administrativas según las necesidades de la empresa.\u003c/li\u003e \u003cli\u003e\u003cbr /\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003e \u0026#x2705; REQUISITOS:\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eEstudios técnicos o superiores en Administración, Contabilidad o carreras afines.\u003c/li\u003e \u003cli\u003eManejo de Excel y herramientas de Office.\u003c/li\u003e \u003cli\u003eExperiencia en funciones administrativas, caja chica, compras, facturación o cobranzas.\u003c/li\u003e \u003cli\u003eOrganización, responsabilidad, proactividad y atención al detalle.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x1f4cd; \u003cstrong\u003eLugar de trabajo:\u003c/strong\u003e Lima.\u003c/p\u003e\u003cp\u003e \u0026#x1f4e9; \u003cstrong\u003e¿Cumples con el perfil?\u003c/strong\u003e Envíanos tu CV y forma parte de nuestro equipo .\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
