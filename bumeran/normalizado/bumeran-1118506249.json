@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118506249",
+    "clave":  "id:1118506249",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-para-programa-de-idiomas-cecilia-tello-1118506249.html",
+                   "capturadoEn":  "2026-11-03T20:59:06+00:00"
+               },
+    "titulo":  "Asistente Administrativo para Programa de Idiomas",
+    "empresa":  "CECILIA Tello",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativo para Programa de Idiomas Resumen del Puesto Buscamos un profesional proactivo y organizado para unirse al equipo de nuestro Programa de Idiomas para Extranjeros. El objetivo del puesto es brindar soporte administrativo, logístico y de atención al estudiante internacional, garantizando el correcto funcionamiento del programa y una experiencia académica de excelencia. Responsabilidades Principales Atender y orientar a los estudiantes internacionales de manera presencial, telefónica y por correo electrónico (en español e inglés). Gestionar los procesos de inscripción, matrícula y registro de calificaciones de los alumnos. Brindar soporte administrativo a la coordinación académica y al equipo de profesores. Coordinar la logística de las actividades culturales, excursiones y eventos extracurriculares del programa. Mantener actualizadas las bases de datos, expedientes de los alumnos y el archivo documentario. Apoyar en la difusión del programa y en la gestión de comunicaciones. Requisitos Experiencia previa en roles administrativos o de soporte. Excelentes habilidades de comunicación en español e inglés, tanto oral como escrita. Capacidad para gestionar múltiples tareas y prioridades de manera eficiente. Habilidades organizativas y atención al detalle. Manejo de herramientas ofimáticas y sistemas de gestión de bases de datos. Actitud proactiva y vocación de servicio.",
+    "requisitos":  [
+                       "Experiencia previa en roles administrativos o de soporte",
+                       "Excelentes habilidades de comunicación en español e inglés, tanto oral como escrita",
+                       "Capacidad para gestionar múltiples tareas y prioridades de manera eficiente",
+                       "Habilidades organizativas y atención al detalle",
+                       "Manejo de herramientas ofimáticas y sistemas de gestión de bases de datos",
+                       "Actitud proactiva y vocación de servicio"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-para-programa-de-idiomas-cecilia-tello-1118506249.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-para-programa-de-idiomas-cecilia-tello-1118506249.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Administrativo para Programa de Idiomas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional proactivo y organizado para unirse al equipo de nuestro Programa de Idiomas para Extranjeros. El objetivo del puesto es brindar soporte administrativo, logístico y de atención al estudiante internacional, garantizando el correcto funcionamiento del programa y una experiencia académica de excelencia.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y orientar a los estudiantes internacionales de manera presencial, telefónica y por correo electrónico (en español e inglés).\u003c/li\u003e \u003cli\u003eGestionar los procesos de inscripción, matrícula y registro de calificaciones de los alumnos.\u003c/li\u003e \u003cli\u003eBrindar soporte administrativo a la coordinación académica y al equipo de profesores.\u003c/li\u003e \u003cli\u003eCoordinar la logística de las actividades culturales, excursiones y eventos extracurriculares del programa.\u003c/li\u003e \u003cli\u003eMantener actualizadas las bases de datos, expedientes de los alumnos y el archivo documentario.\u003c/li\u003e \u003cli\u003eApoyar en la difusión del programa y en la gestión de comunicaciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles administrativos o de soporte.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación en español e inglés, tanto oral como escrita.\u003c/li\u003e \u003cli\u003eCapacidad para gestionar múltiples tareas y prioridades de manera eficiente.\u003c/li\u003e \u003cli\u003eHabilidades organizativas y atención al detalle.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas y sistemas de gestión de bases de datos.\u003c/li\u003e \u003cli\u003eActitud proactiva y vocación de servicio.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
