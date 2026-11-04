@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118507983",
+    "clave":  "id:1118507983",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-confeccion-textil-sin-experiencia-toldos-dycris-e.i.r.l.-1118507983.html",
+                   "capturadoEn":  "2026-11-04T22:38:29+00:00"
+               },
+    "titulo":  "Operario de Confección Textil (Sin Experiencia)",
+    "empresa":  "Toldos Dycris E.I.R.L.",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Confección Textil (Sin Experiencia) Resumen del Puesto Nos encontramos en la búsqueda de un Operario de Confección Textil para unirse a nuestro equipo. Esta es una excelente oportunidad para personas sin experiencia previa que deseen iniciar su carrera en el sector textil y aprender el oficio. Valoramos la responsabilidad y el compromiso. Responsabilidades Asistir en las tareas de confección textil. Aprender y aplicar técnicas de producción. Colaborar con el equipo para alcanzar los objetivos de producción. Mantener un entorno de trabajo ordenado y seguro. Seguir las indicaciones de los supervisores para asegurar la calidad del producto. Requisitos Ganas de aprender y desarrollarse en el área de confección textil. Actitud responsable y proactiva. Capacidad para seguir instrucciones. Disponibilidad para trabajar en equipo. Beneficios Se ofrece la posibilidad de un incremento salarial basado en el desempeño individual y la velocidad de producción, promoviendo el crecimiento profesional dentro de la organización.",
+    "requisitos":  [
+                       "Ganas de aprender y desarrollarse en el área de confección textil",
+                       "Actitud responsable y proactiva",
+                       "Capacidad para seguir instrucciones",
+                       "Disponibilidad para trabajar en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Se ofrece la posibilidad de un incremento salarial basado en el desempeño individual y la velocidad de producción, promoviendo el crecimiento profesional dentro de la organización"
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-confeccion-textil-sin-experiencia-toldos-dycris-e.i.r.l.-1118507983.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-confeccion-textil-sin-experiencia-toldos-dycris-e.i.r.l.-1118507983.html",
+    "descripcion_html":  "\u003cb\u003eOperario de Confección Textil (Sin Experiencia)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de un \u003cb\u003eOperario de Confección Textil\u003c/b\u003e para unirse a nuestro equipo. Esta es una excelente oportunidad para personas sin experiencia previa que deseen iniciar su carrera en el sector textil y aprender el oficio. Valoramos la responsabilidad y el compromiso.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en las tareas de confección textil.\u003c/li\u003e \u003cli\u003eAprender y aplicar técnicas de producción.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para alcanzar los objetivos de producción.\u003c/li\u003e \u003cli\u003eMantener un entorno de trabajo ordenado y seguro.\u003c/li\u003e \u003cli\u003eSeguir las indicaciones de los supervisores para asegurar la calidad del producto.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eGanas de aprender y desarrollarse en el área de confección textil.\u003c/li\u003e \u003cli\u003eActitud responsable y proactiva.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en equipo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cp\u003eSe ofrece la posibilidad de un incremento salarial basado en el desempeño individual y la velocidad de producción, promoviendo el crecimiento profesional dentro de la organización.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
