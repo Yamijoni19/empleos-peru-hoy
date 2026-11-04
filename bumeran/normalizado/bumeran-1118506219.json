@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118506219",
+    "clave":  "id:1118506219",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-contable-estudio-polo-1118506219.html",
+                   "capturadoEn":  "2026-11-04T01:20:38+00:00"
+               },
+    "titulo":  "Practicante Contable",
+    "empresa":  "ESTUDIO POLO",
+    "ubicacion":  "Lima - Pueblo Libre",
+    "ciudad":  "Pueblo Libre",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  616,
+                    "max":  1232,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 616 - S/ 1,232",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Contable Resumen del Puesto Estamos en la búsqueda de un Practicante Contable proactivo y con gran disposición para aprender y desarrollarse en el área contable. El candidato ideal poseerá conocimientos básicos del Plan Contable y la dinámica de las cuentas, además de demostrar responsabilidad y un fuerte compromiso con el aprendizaje continuo. Responsabilidades Asistir en la elaboración y registro de operaciones contables. Colaborar en la conciliación de cuentas. Apoyar en la preparación de informes y análisis financieros básicos. Mantener la documentación contable organizada y actualizada. Participar en la revisión de la dinámica de las cuentas contables. Requisitos Estudiante de los últimos ciclos o egresado de Contabilidad o carreras afines. Conocimiento del Plan Contable General y la dinámica de las cuentas. Habilidades de organización y atención al detalle. Capacidad para trabajar en equipo y seguir instrucciones. Actitud proactiva y muchas ganas de aprender.",
+    "requisitos":  [
+                       "Estudiante de los últimos ciclos o egresado de Contabilidad o carreras afines",
+                       "Conocimiento del Plan Contable General y la dinámica de las cuentas",
+                       "Habilidades de organización y atención al detalle",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Actitud proactiva y muchas ganas de aprender"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-contable-estudio-polo-1118506219.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-contable-estudio-polo-1118506219.html",
+    "descripcion_html":  "\u003cb\u003ePracticante Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003ePracticante Contable\u003c/b\u003e proactivo y con gran disposición para aprender y desarrollarse en el área contable. El candidato ideal poseerá conocimientos básicos del Plan Contable y la dinámica de las cuentas, además de demostrar responsabilidad y un fuerte compromiso con el aprendizaje continuo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en la elaboración y registro de operaciones contables.\u003c/li\u003e \u003cli\u003eColaborar en la conciliación de cuentas.\u003c/li\u003e \u003cli\u003eApoyar en la preparación de informes y análisis financieros básicos.\u003c/li\u003e \u003cli\u003eMantener la documentación contable organizada y actualizada.\u003c/li\u003e \u003cli\u003eParticipar en la revisión de la dinámica de las cuentas contables.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante de los últimos ciclos o egresado de Contabilidad o carreras afines.\u003c/li\u003e \u003cli\u003eConocimiento del Plan Contable General y la dinámica de las cuentas.\u003c/li\u003e \u003cli\u003eHabilidades de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eActitud proactiva y muchas ganas de aprender.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
