@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118506177",
+    "clave":  "id:1118506177",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-cadista-jmt-outdoors-1118506177.html",
+                   "capturadoEn":  "2026-11-04T09:11:22+00:00"
+               },
+    "titulo":  "Ingeniero Cadista",
+    "empresa":  "JMT OUTDOORS",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa líder en el mercado se encuentra en la búsqueda de: INGENIERO/A CADISTA Requisitos: Bachiller en Ing. (Engresado) Técnico en dibujo Experiencia en cadista Experiencia en dibujo de edificaciones y estructuras metálicas PODER LABORAR EN VILLA EL SALVADOR Beneficios: Planilla Régimen General Participación en utilidades Línea de carrera",
+    "requisitos":  [
+                       "Bachiller en Ing. (Engresado)",
+                       "Técnico en dibujo",
+                       "Experiencia en cadista",
+                       "Experiencia en dibujo de edificaciones y estructuras metálicas",
+                       "PODER LABORAR EN VILLA EL SALVADOR"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Planilla Régimen General",
+                       "Participación en utilidades",
+                       "Línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-cadista-jmt-outdoors-1118506177.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-cadista-jmt-outdoors-1118506177.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa líder en el mercado se encuentra en la búsqueda de:\u003c/p\u003e\u003cp\u003e\u003cu\u003eINGENIERO/A CADISTA\u003c/u\u003e\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller en Ing. (Engresado)\u003c/li\u003e \u003cli\u003eTécnico en dibujo\u003c/li\u003e \u003cli\u003eExperiencia en cadista\u003c/li\u003e \u003cli\u003eExperiencia en dibujo de edificaciones y estructuras metálicas\u003c/li\u003e \u003cli\u003ePODER LABORAR EN VILLA EL SALVADOR\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla Régimen General\u003c/li\u003e \u003cli\u003eParticipación en utilidades\u003c/li\u003e \u003cli\u003eLínea de carrera\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

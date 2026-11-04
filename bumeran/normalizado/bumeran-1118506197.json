@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118506197",
+    "clave":  "id:1118506197",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-bodega-ripley-miraflores-grupo-ripley-1118506197.html",
+                   "capturadoEn":  "2026-11-04T09:10:52+00:00"
+               },
+    "titulo":  "Operario de Bodega- Ripley Miraflores",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Misión Ser colaborador activo del Jefe de Almacén en la recepción y despacho de muebles y enseres. Funciones Colaborar con las actividades de RECEPCIÓN Y DESPACHO de muebles y enseres. Requisitos Tener disponibilidad para trabajar de 6 am a 3 pm",
+    "requisitos":  [
+                       "Tener disponibilidad para trabajar de 6 am a 3 pm"
+                   ],
+    "funciones":  [
+                      "Colaborar con las actividades de RECEPCIÓN Y DESPACHO de muebles y enseres"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-bodega-ripley-miraflores-grupo-ripley-1118506197.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-bodega-ripley-miraflores-grupo-ripley-1118506197.html",
+    "descripcion_html":  "\u003cp\u003eMisión\u003c/p\u003e\u003cp\u003eSer colaborador activo del Jefe de Almacén en la recepción y despacho de muebles y enseres.\u003c/p\u003e\u003cp\u003eFunciones\u003c/p\u003e\u003cp\u003eColaborar con las actividades de \u003cstrong\u003eRECEPCIÓN Y DESPACHO\u003c/strong\u003e de muebles y enseres.\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cp\u003eTener disponibilidad para trabajar de 6 am a 3 pm\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

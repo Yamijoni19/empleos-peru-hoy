@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118506171",
+    "clave":  "id:1118506171",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-inmobiliarias-premium-lima-1118506171.html",
+                   "capturadoEn":  "2026-11-04T09:11:34+00:00"
+               },
+    "titulo":  "Asesor de Ventas Inmobiliarias - Premium (Lima)",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  2500,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/2,500",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Somos una importante Empresa del sector inmobiliario, nos encontramos en la búsqueda del mejor Talento para ocupar el puesto de ASESOR INMOBILIARIO para productos Premium, únete a nuestro equipo!! Qué necesitas: Experiencia de 2 años en venta de intangibles o 01 año en el sector inmobiliario Conocimientos en técnicas de ventas Contar con cartera de clientes (Deseable) Conocimiento en Office y CRM básico Cuáles serán tus retos: Captar y asesorar a potenciales clientes para crear o ampliar la cartera Registro diario de las actividades en el CRM Cumplimiento de cuota de ventas Qué te ofrecemos: Sueldo fijo + comisiones ilimitadas Comisiones atractivas, por encima del mercado Línea de carrera",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-inmobiliarias-premium-lima-1118506171.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-inmobiliarias-premium-lima-1118506171.html",
+    "descripcion_html":  "\u003cp\u003eSomos una importante Empresa del sector inmobiliario, nos encontramos en la búsqueda del mejor Talento para ocupar el puesto de ASESOR INMOBILIARIO para productos Premium, únete a nuestro equipo!!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQué necesitas:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eExperiencia de 2 años en venta de intangibles o 01 año en el sector inmobiliario\u003c/p\u003e\u003cp\u003eConocimientos en técnicas de ventas\u003c/p\u003e\u003cp\u003eContar con cartera de clientes (Deseable)\u003c/p\u003e\u003cp\u003eConocimiento en Office y CRM básico\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCuáles serán tus retos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eCaptar y asesorar a potenciales clientes para crear o ampliar la cartera\u003c/p\u003e\u003cp\u003eRegistro diario de las actividades en el CRM\u003c/p\u003e\u003cp\u003eCumplimiento de cuota de ventas\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQué te ofrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSueldo fijo + comisiones ilimitadas\u003c/p\u003e\u003cp\u003eComisiones atractivas, por encima del mercado\u003c/p\u003e\u003cp\u003eLínea de carrera\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

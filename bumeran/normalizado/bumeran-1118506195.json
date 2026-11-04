@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118506195",
+    "clave":  "id:1118506195",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/agente-de-atencion-al-cliente-voz-y-chat-konecta-1118506195.html",
+                   "capturadoEn":  "2026-11-04T09:10:57+00:00"
+               },
+    "titulo":  "Agente de Atención al Cliente (Voz y Chat)",
+    "empresa":  "KONECTA",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1399,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,399 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Agente de Atención al Cliente (Voz y Chat) Resumen del Puesto Buscamos personas proactivas y con excelente disposición para unirse a nuestro equipo como Agente de Atención al Cliente , gestionando consultas a través de voz y chat. Si tienes experiencia previa en atención al cliente o en centros de contacto, ¡esta oportunidad es para ti! Responsabilidades Brindar soporte y resolver consultas de clientes por vía telefónica y chat. Asegurar una experiencia de cliente positiva y eficiente. Cumplir con los objetivos de calidad y atención establecidos. Requisitos Experiencia previa en atención al cliente o centros de contacto es valorada. Habilidades de comunicación claras y efectivas. Capacidad para trabajar en un entorno dinámico. Disponibilidad para trabajar en turnos fijos de mañana o tarde (a elección). Beneficios Sueldo fijo competitivo más bonificaciones por desempeño y asistencia. Contrato desde el inicio.",
+    "requisitos":  [
+                       "Experiencia previa en atención al cliente o centros de contacto es valorada",
+                       "Habilidades de comunicación claras y efectivas",
+                       "Capacidad para trabajar en un entorno dinámico",
+                       "Disponibilidad para trabajar en turnos fijos de mañana o tarde (a elección)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Sueldo fijo competitivo más bonificaciones por desempeño y asistencia",
+                       "Contrato desde el inicio"
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/agente-de-atencion-al-cliente-voz-y-chat-konecta-1118506195.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/agente-de-atencion-al-cliente-voz-y-chat-konecta-1118506195.html",
+    "descripcion_html":  "\u003cb\u003eAgente de Atención al Cliente (Voz y Chat)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personas proactivas y con excelente disposición para unirse a nuestro equipo como \u003cb\u003eAgente de Atención al Cliente\u003c/b\u003e, gestionando consultas a través de voz y chat. Si tienes experiencia previa en atención al cliente o en centros de contacto, ¡esta oportunidad es para ti!\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte y resolver consultas de clientes por vía telefónica y chat.\u003c/li\u003e \u003cli\u003eAsegurar una experiencia de cliente positiva y eficiente.\u003c/li\u003e \u003cli\u003eCumplir con los objetivos de calidad y atención establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en atención al cliente o centros de contacto es valorada.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación claras y efectivas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno dinámico.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos fijos de mañana o tarde (a elección).\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eSueldo fijo competitivo más bonificaciones por desempeño y asistencia.\u003c/li\u003e \u003cli\u003eContrato desde el inicio.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

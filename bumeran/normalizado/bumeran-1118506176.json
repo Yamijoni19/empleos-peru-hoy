@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118506176",
+    "clave":  "id:1118506176",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-lima-ferreyros-sa-1118506176.html",
+                   "capturadoEn":  "2026-11-04T09:11:25+00:00"
+               },
+    "titulo":  "Operario de Almacén - Lima",
+    "empresa":  "FERREYROS SA",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Misión: Recepcionar, almacenar y despachar los pedidos de repuestos a los diferentes canales de atención de la compañía, utilizando los equipos de manipulación y herramientas necesarias en el sistema, como RF y el módulo requerido en el SAP. Funciones: Realizar la recepción, almacenaje y despacho de repuestos según el proceso al cual es asignado haciendo uso del RF (radiofrecuencia) para leer los códigos de barra. Realizar el conteo, inspección y ordenamiento de repuestos según el proceso al cual es asignado, reportando las fallas visibles como daños y oxido. Realizar la optimización de ubicaciones, consolidando los repuestos en las ubicaciones disponibles para generar espacio. Generar documentos de despacho como guía de remisión, manifiesto de carga y validar documentos de ingreso, brindando conformidad a las cantidades recibidas / despachadas. Realizar el movimiento de repuestos de una zona a otra, utilizando equipos como transpaleta manual, elevadores eléctricos a combustión, para lo cual la empresa realizará capacitaciones y certificaciones. Realizar el inventario de repuestos, una vez al mes y participar en el inventario anual. Cumplir con los requisitos legales y otros voluntarios en materia de SSMA aplicables a sus actividades; así como a las normativas, procedimientos e instructivos de FERREYROS; a fin de mantener y mejorar la gestión de SSMA. Asumir otras funciones que le sean asignadas por su jefe inmediato, con el fin de mantener la eficiencia en el área y/o Gerencia. Requisitos: Secundaria completa Experiencia certificada de 6 meses en puestos similares. Disponibilidad para trabajar en horarios rotativos",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Experiencia certificada de 6 meses en puestos similares",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      "que le sean asignadas por su jefe inmediato, con el fin de mantener la eficiencia en el área y/o Gerencia"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-lima-ferreyros-sa-1118506176.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-lima-ferreyros-sa-1118506176.html",
+    "descripcion_html":  "\u003cp\u003eMisión:\u003c/p\u003e\u003cp\u003eRecepcionar, almacenar y despachar los pedidos de repuestos a los diferentes canales de atención de la compañía, utilizando los equipos de manipulación y herramientas necesarias en el sistema, como RF y el módulo requerido en el SAP.\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar la recepción, almacenaje y despacho de repuestos según el proceso al cual es asignado haciendo uso del RF (radiofrecuencia) para leer los códigos de barra.\u003c/li\u003e \u003cli\u003eRealizar el conteo, inspección y ordenamiento de repuestos según el proceso al cual es asignado, reportando las fallas visibles como daños y oxido.\u003c/li\u003e \u003cli\u003eRealizar la optimización de ubicaciones, consolidando los repuestos en las ubicaciones disponibles para generar espacio.\u003c/li\u003e \u003cli\u003eGenerar documentos de despacho como guía de remisión, manifiesto de carga y validar documentos de ingreso, brindando conformidad a las cantidades recibidas / despachadas.\u003c/li\u003e \u003cli\u003eRealizar el movimiento de repuestos de una zona a otra, utilizando equipos como transpaleta manual, elevadores eléctricos a combustión, para lo cual la empresa realizará capacitaciones y certificaciones.\u003c/li\u003e \u003cli\u003eRealizar el inventario de repuestos, una vez al mes y participar en el inventario anual.\u003c/li\u003e \u003cli\u003eCumplir con los requisitos legales y otros voluntarios en materia de SSMA aplicables a sus actividades; así como a las normativas, procedimientos e instructivos de FERREYROS; a fin de mantener y mejorar la gestión de SSMA.\u003c/li\u003e \u003cli\u003eAsumir otras funciones que le sean asignadas por su jefe inmediato, con el fin de mantener la eficiencia en el área y/o Gerencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa \u003c/li\u003e \u003cli\u003eExperiencia certificada de 6 meses en puestos similares.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

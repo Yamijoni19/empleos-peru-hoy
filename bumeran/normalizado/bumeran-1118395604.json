@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118395604",
+    "clave":  "id:1118395604",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-soporte-tecnico-importaciones-naliony-e.i.r.l-1118395604.html",
+                   "capturadoEn":  "2026-11-04T09:10:53+00:00"
+               },
+    "titulo":  "Practicante de Soporte Técnico",
+    "empresa":  "IMPORTACIONES NALIONY E.I.R.L",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Practicante de Soporte Técnico Resumen del Puesto Estamos en la búsqueda de un Practicante de Soporte Técnico con entusiasmo por aprender y desarrollarse en el área de tecnología. El candidato ideal tendrá interés en la resolución de problemas técnicos y en brindar asistencia a usuarios. Responsabilidades Brindar soporte técnico básico a usuarios. Asistir en la instalación y configuración de hardware y software. Colaborar en el mantenimiento preventivo de equipos. Documentar incidencias y soluciones. Apoyar al equipo en diversas tareas técnicas. Requisitos Estudiante o recién egresado de carreras técnicas o universitarias relacionadas con informática, sistemas o afines. Conocimientos básicos de sistemas operativos y hardware. Capacidad de aprendizaje y proactividad. Habilidades de comunicación y atención al detalle. Ganas de adquirir experiencia práctica en el área de soporte técnico.",
+    "requisitos":  [
+                       "Estudiante o recién egresado de carreras técnicas o universitarias relacionadas con informática, sistemas o afines",
+                       "Conocimientos básicos de sistemas operativos y hardware",
+                       "Capacidad de aprendizaje y proactividad",
+                       "Habilidades de comunicación y atención al detalle",
+                       "Ganas de adquirir experiencia práctica en el área de soporte técnico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-02",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-soporte-tecnico-importaciones-naliony-e.i.r.l-1118395604.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-soporte-tecnico-importaciones-naliony-e.i.r.l-1118395604.html",
+    "descripcion_html":  "\u003cb\u003ePracticante de Soporte Técnico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003ePracticante de Soporte Técnico\u003c/b\u003e con entusiasmo por aprender y desarrollarse en el área de tecnología. El candidato ideal tendrá interés en la resolución de problemas técnicos y en brindar asistencia a usuarios.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte técnico básico a usuarios.\u003c/li\u003e \u003cli\u003eAsistir en la instalación y configuración de hardware y software.\u003c/li\u003e \u003cli\u003eColaborar en el mantenimiento preventivo de equipos.\u003c/li\u003e \u003cli\u003eDocumentar incidencias y soluciones.\u003c/li\u003e \u003cli\u003eApoyar al equipo en diversas tareas técnicas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante o recién egresado de carreras técnicas o universitarias relacionadas con informática, sistemas o afines.\u003c/li\u003e \u003cli\u003eConocimientos básicos de sistemas operativos y hardware.\u003c/li\u003e \u003cli\u003eCapacidad de aprendizaje y proactividad.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y atención al detalle.\u003c/li\u003e \u003cli\u003eGanas de adquirir experiencia práctica en el área de soporte técnico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "02/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
