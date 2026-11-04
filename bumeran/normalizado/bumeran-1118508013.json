@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118508013",
+    "clave":  "id:1118508013",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-empresas-pg-servim-sac-1118508013.html",
+                   "capturadoEn":  "2026-11-04T17:14:21+00:00"
+               },
+    "titulo":  "Administrador de Empresas",
+    "empresa":  "P\u0026G SERVIM SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Administrador de Empresas Resumen del Puesto Buscamos un profesional responsable, organizado, proactivo y con capacidad de liderazgo para gestionar y supervisar eficientemente las actividades administrativas y operativas. El candidato ideal poseerá una sólida experiencia en gestión empresarial y habilidades de liderazgo. Responsabilidades Gestionar y supervisar actividades administrativas y operativas. Coordinar y supervisar procesos administrativos. Asegurar la eficiencia en las operaciones diarias. Colaborar con diferentes áreas para optimizar la gestión. Implementar mejoras en los procesos administrativos. Requisitos Profesional o bachiller en Administración de Empresas, Ingeniería Industrial, Negocios Internacionales o carreras afines. Mínimo 2 años de experiencia en funciones administrativas y de gestión empresarial. Experiencia en coordinación y supervisión de procesos administrativos. Manejo de Microsoft Office, especialmente Excel nivel avanzado.",
+    "requisitos":  [
+                       "Profesional o bachiller en Administración de Empresas, Ingeniería Industrial, Negocios Internacionales o carreras afines",
+                       "Mínimo 2 años de experiencia en"
+                   ],
+    "funciones":  [
+                      "administrativas y de gestión empresarial",
+                      "Experiencia en coordinación y supervisión de procesos administrativos",
+                      "Manejo de Microsoft Office, especialmente Excel nivel avanzado"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/administrador-de-empresas-pg-servim-sac-1118508013.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-empresas-pg-servim-sac-1118508013.html",
+    "descripcion_html":  "\u003cb\u003eAdministrador de Empresas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional responsable, organizado, proactivo y con capacidad de liderazgo para gestionar y supervisar eficientemente las actividades administrativas y operativas. El candidato ideal poseerá una sólida experiencia en gestión empresarial y habilidades de liderazgo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar y supervisar actividades administrativas y operativas.\u003c/li\u003e \u003cli\u003eCoordinar y supervisar procesos administrativos.\u003c/li\u003e \u003cli\u003eAsegurar la eficiencia en las operaciones diarias.\u003c/li\u003e \u003cli\u003eColaborar con diferentes áreas para optimizar la gestión.\u003c/li\u003e \u003cli\u003eImplementar mejoras en los procesos administrativos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eProfesional o bachiller en Administración de Empresas, Ingeniería Industrial, Negocios Internacionales o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 2 años de experiencia en funciones administrativas y de gestión empresarial.\u003c/li\u003e \u003cli\u003eExperiencia en coordinación y supervisión de procesos administrativos.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Office, especialmente Excel nivel avanzado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

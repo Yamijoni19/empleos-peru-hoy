@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118508048",
+    "clave":  "id:1118508048",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-contabilidad-modalidad-hibrida-altrix-1118508048.html",
+                   "capturadoEn":  "2026-11-04T17:14:13+00:00"
+               },
+    "titulo":  "Asistente de Contabilidad (Modalidad Híbrida)",
+    "empresa":  "ALTRIX",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Asistente de Contabilidad (Modalidad Híbrida) Resumen del Puesto Estamos en la búsqueda de un(a) Asistente de Contabilidad proactivo(a) y organizado(a) para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en áreas contables y tributarias, con capacidad para gestionar eficientemente las operaciones diarias. Responsabilidades Realizar el registro y control de operaciones contables. Gestionar la revisión y emisión de comprobantes de pago (facturas, boletas, notas de crédito). Llevar a cabo conciliaciones bancarias y de cuentas. Colaborar en la elaboración de reportes contables y tributarios. Brindar apoyo en la liquidación de servicios y en los cierres mensuales. Requisitos Egresado(a) o técnico(a) en Contabilidad. Experiencia mínima de 2 años en posiciones similares. Conocimientos sólidos en facturación, conciliaciones, libros contables y obligaciones tributarias. Dominio de Microsoft Excel a nivel intermedio-avanzado. Ofrecemos Modalidad de trabajo híbrida. Oportunidad de desarrollo profesional en un entorno dinámico.",
+    "requisitos":  [
+                       "Egresado(a) o técnico(a) en Contabilidad",
+                       "Experiencia mínima de 2 años en posiciones similares",
+                       "Conocimientos sólidos en facturación, conciliaciones, libros contables y obligaciones tributarias",
+                       "Dominio de Microsoft Excel a nivel intermedio-avanzado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-contabilidad-modalidad-hibrida-altrix-1118508048.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-contabilidad-modalidad-hibrida-altrix-1118508048.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Contabilidad (Modalidad Híbrida)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un(a) \u003cb\u003eAsistente de Contabilidad\u003c/b\u003e proactivo(a) y organizado(a) para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en áreas contables y tributarias, con capacidad para gestionar eficientemente las operaciones diarias.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el registro y control de operaciones contables.\u003c/li\u003e \u003cli\u003eGestionar la revisión y emisión de comprobantes de pago (facturas, boletas, notas de crédito).\u003c/li\u003e \u003cli\u003eLlevar a cabo conciliaciones bancarias y de cuentas.\u003c/li\u003e \u003cli\u003eColaborar en la elaboración de reportes contables y tributarios.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la liquidación de servicios y en los cierres mensuales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEgresado(a) o técnico(a) en Contabilidad.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en posiciones similares.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en facturación, conciliaciones, libros contables y obligaciones tributarias.\u003c/li\u003e \u003cli\u003eDominio de Microsoft Excel a nivel intermedio-avanzado.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eModalidad de trabajo híbrida.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollo profesional en un entorno dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

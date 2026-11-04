@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118508020",
+    "clave":  "id:1118508020",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-del-hogar-y-cuidado-infantil-encasa-1118508020.html",
+                   "capturadoEn":  "2026-11-04T17:14:20+00:00"
+               },
+    "titulo":  "Asistente del Hogar y Cuidado Infantil",
+    "empresa":  "Encasa",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1000,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Servicios varios Asistente del Hogar y Cuidado Infantil Resumen del Puesto Estamos en la búsqueda de una persona responsable, paciente y con excelente trato para integrarse a un hogar. Las funciones principales incluirán la realización de labores domésticas y el cuidado de dos niños de 11 y 4 años. Condiciones de Trabajo Jornada laboral de 8 horas diarias, de lunes a sábado. Modalidad de trabajo sin pernocte. Responsabilidades Mantenimiento general del hogar. Supervisión y cuidado de los niños. Colaboración en la organización de actividades infantiles. Requisitos Experiencia comprobable en labores domésticas y cuidado infantil. Disponibilidad de referencias laborales previas. Se valorará experiencia previa con niños en el rango de edad especificado.",
+    "requisitos":  [
+                       "Experiencia comprobable en labores domésticas y cuidado infantil",
+                       "Disponibilidad de referencias laborales previas",
+                       "Se valorará experiencia previa con niños en el rango de edad especificado"
+                   ],
+    "funciones":  [
+                      "principales incluirán la realización de labores domésticas y el cuidado de dos niños de 11 y 4 años"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-03",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-del-hogar-y-cuidado-infantil-encasa-1118508020.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-del-hogar-y-cuidado-infantil-encasa-1118508020.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eServicios varios\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAsistente del Hogar y Cuidado Infantil\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una persona responsable, paciente y con excelente trato para integrarse a un hogar. Las funciones principales incluirán la realización de labores domésticas y el cuidado de dos niños de 11 y 4 años.\u003c/p\u003e \u003cb\u003eCondiciones de Trabajo\u003c/b\u003e \u003cul\u003e \u003cli\u003eJornada laboral de 8 horas diarias, de lunes a sábado.\u003c/li\u003e \u003cli\u003eModalidad de trabajo sin pernocte.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eMantenimiento general del hogar.\u003c/li\u003e \u003cli\u003eSupervisión y cuidado de los niños.\u003c/li\u003e \u003cli\u003eColaboración en la organización de actividades infantiles.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en labores domésticas y cuidado infantil.\u003c/li\u003e \u003cli\u003eDisponibilidad de referencias laborales previas.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa con niños en el rango de edad especificado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "03/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
