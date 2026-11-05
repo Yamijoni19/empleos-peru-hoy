@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118509772",
+    "clave":  "id:1118509772",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-call-center-urbancity-inmobiliaria-1118509772.html",
+                   "capturadoEn":  "2026-11-05T12:20:05+00:00"
+               },
+    "titulo":  "Asesor Comercial - Call Center",
+    "empresa":  "URBANCITY INMOBILIARIA",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Comercial - Call Center Resumen del Puesto Estamos en la búsqueda de un Asesor Comercial proactivo y con excelentes habilidades de comunicación para unirse a nuestro equipo de Call Center. El candidato ideal tendrá experiencia en ventas y un fuerte enfoque en la atención al cliente, contribuyendo al crecimiento en el sector inmobiliario, específicamente en la venta de lotes. Responsabilidades Atender llamadas entrantes y salientes para ofrecer información y asesoramiento sobre productos inmobiliarios. Identificar las necesidades de los clientes y presentar soluciones adecuadas. Gestionar consultas y objeciones de manera efectiva. Realizar seguimiento de prospectos y oportunidades de venta. Colaborar con el equipo para alcanzar objetivos comerciales. Mantener registros precisos de las interacciones con los clientes. Requisitos Experiencia previa en ventas y atención al cliente. Excelentes habilidades de comunicación verbal y escrita. Capacidad para trabajar en un entorno de Call Center. Orientación a resultados y cumplimiento de objetivos. Proactividad y actitud positiva. Conocimiento del sector inmobiliario (deseable). Se ofrece sueldo base más comisiones .",
+    "requisitos":  [
+                       "Experiencia previa en ventas y atención al cliente",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad para trabajar en un entorno de Call Center",
+                       "Orientación a resultados y cumplimiento de objetivos",
+                       "Proactividad y actitud positiva",
+                       "Conocimiento del sector inmobiliario (deseable)",
+                       "Se ofrece sueldo base más comisiones"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-call-center-urbancity-inmobiliaria-1118509772.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-call-center-urbancity-inmobiliaria-1118509772.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Comercial - Call Center\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsesor Comercial\u003c/b\u003e proactivo y con excelentes habilidades de comunicación para unirse a nuestro equipo de Call Center. El candidato ideal tendrá experiencia en ventas y un fuerte enfoque en la atención al cliente, contribuyendo al crecimiento en el sector inmobiliario, específicamente en la venta de lotes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender llamadas entrantes y salientes para ofrecer información y asesoramiento sobre productos inmobiliarios.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades de los clientes y presentar soluciones adecuadas.\u003c/li\u003e \u003cli\u003eGestionar consultas y objeciones de manera efectiva.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de prospectos y oportunidades de venta.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para alcanzar objetivos comerciales.\u003c/li\u003e \u003cli\u003eMantener registros precisos de las interacciones con los clientes.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en ventas y atención al cliente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno de Call Center.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eProactividad y actitud positiva.\u003c/li\u003e \u003cli\u003eConocimiento del sector inmobiliario (deseable).\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eSe ofrece \u003cb\u003esueldo base más comisiones\u003c/b\u003e.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118509764",
+    "clave":  "id:1118509764",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-con-experiencia-compania-nexa-1118509764.html",
+                   "capturadoEn":  "2026-11-05T12:20:15+00:00"
+               },
+    "titulo":  "Médico Ocupacional con Experiencia",
+    "empresa":  "COMPAÑÍA NEXA",
+    "ubicacion":  "Ica - Chincha",
+    "ciudad":  "Chincha",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1420,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,420 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Médico Ocupacional con Experiencia Resumen del Puesto Nos encontramos en la búsqueda de un profesional Médico con experiencia comprobable en Medicina Ocupacional para integrarse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento de la salud laboral, normativas vigentes y la capacidad de gestionar programas de prevención y promoción de la salud en el ámbito laboral. Responsabilidades Realizar exámenes médicos preocupacionales, periódicos, de egreso y de reincorporación laboral. Diagnosticar y tratar patologías relacionadas con el trabajo. Diseñar e implementar programas de vigilancia médica y de salud ocupacional. Asesorar sobre la prevención de riesgos laborales y la promoción de hábitos saludables. Elaborar informes técnicos y mantener actualizada la documentación médica. Colaborar con otros profesionales para garantizar un ambiente de trabajo seguro y saludable. Requisitos Título de Médico Cirujano. Especialización o formación en Medicina del Trabajo / Medicina Ocupacional. Experiencia mínima de [indicar años, ej: 3] años en puestos similares. Conocimiento de la legislación vigente en materia de salud y seguridad laboral. Capacidad para el trabajo en equipo y excelentes habilidades de comunicación. Proactividad y orientación a resultados.",
+    "requisitos":  [
+                       "Título de Médico Cirujano",
+                       "Especialización o formación en Medicina del Trabajo / Medicina Ocupacional",
+                       "Experiencia mínima de [indicar años, ej: 3] años en puestos similares",
+                       "Conocimiento de la legislación vigente en materia de salud y seguridad laboral",
+                       "Capacidad para el trabajo en equipo y excelentes habilidades de comunicación",
+                       "Proactividad y orientación a resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-con-experiencia-compania-nexa-1118509764.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-con-experiencia-compania-nexa-1118509764.html",
+    "descripcion_html":  "\u003cb\u003eMédico Ocupacional con Experiencia\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de un profesional Médico con experiencia comprobable en Medicina Ocupacional para integrarse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento de la salud laboral, normativas vigentes y la capacidad de gestionar programas de prevención y promoción de la salud en el ámbito laboral.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar exámenes médicos preocupacionales, periódicos, de egreso y de reincorporación laboral.\u003c/li\u003e \u003cli\u003eDiagnosticar y tratar patologías relacionadas con el trabajo.\u003c/li\u003e \u003cli\u003eDiseñar e implementar programas de vigilancia médica y de salud ocupacional.\u003c/li\u003e \u003cli\u003eAsesorar sobre la prevención de riesgos laborales y la promoción de hábitos saludables.\u003c/li\u003e \u003cli\u003eElaborar informes técnicos y mantener actualizada la documentación médica.\u003c/li\u003e \u003cli\u003eColaborar con otros profesionales para garantizar un ambiente de trabajo seguro y saludable.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Médico Cirujano.\u003c/li\u003e \u003cli\u003eEspecialización o formación en Medicina del Trabajo / Medicina Ocupacional.\u003c/li\u003e \u003cli\u003eExperiencia mínima de [indicar años, ej: 3] años en puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento de la legislación vigente en materia de salud y seguridad laboral.\u003c/li\u003e \u003cli\u003eCapacidad para el trabajo en equipo y excelentes habilidades de comunicación.\u003c/li\u003e \u003cli\u003eProactividad y orientación a resultados.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Médico Cirujano",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

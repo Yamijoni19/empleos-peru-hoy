@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118509765",
+    "clave":  "id:1118509765",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-nexa-1118509765.html",
+                   "capturadoEn":  "2026-11-05T12:20:13+00:00"
+               },
+    "titulo":  "Especialista en Relaciones Comunitarias",
+    "empresa":  "COMPAÑÍA NEXA",
+    "ubicacion":  "Ica - Chincha",
+    "ciudad":  "Chincha",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  8500,
+                    "max":  9000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 8,500 - S/ 9,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Especialista en Relaciones Comunitarias Resumen del Puesto Estamos en la búsqueda de un Especialista en Relaciones Comunitarias proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas. Responsabilidades Desarrollar e implementar estrategias para la participación comunitaria. Fomentar y mantener relaciones positivas con organizaciones y líderes comunitarios. Organizar y coordinar eventos y actividades comunitarias. Comunicar eficazmente los objetivos e iniciativas a las partes interesadas de la comunidad. Identificar oportunidades para la colaboración y el apoyo mutuo. Gestionar la reputación y la imagen pública en el ámbito comunitario. Requisitos Formación en Comunicación, Relaciones Públicas, Sociología o campo afín. Experiencia demostrable en gestión de relaciones comunitarias o desarrollo social. Excelentes habilidades de comunicación verbal y escrita. Capacidad para establecer y mantener relaciones interpersonales efectivas. Habilidades de organización y gestión de eventos. Proactividad y capacidad para trabajar de forma autónoma y en equipo. Compromiso con el desarrollo y el bienestar comunitario.",
+    "requisitos":  [
+                       "Formación en Comunicación, Relaciones Públicas, Sociología o campo afín",
+                       "Experiencia demostrable en gestión de relaciones comunitarias o desarrollo social",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad para establecer y mantener relaciones interpersonales efectivas",
+                       "Habilidades de organización y gestión de eventos",
+                       "Proactividad y capacidad para trabajar de forma autónoma y en equipo",
+                       "Compromiso con el desarrollo y el bienestar comunitario"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-nexa-1118509765.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-relaciones-comunitarias-compania-nexa-1118509765.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eEspecialista en Relaciones Comunitarias\u003c/b\u003e proactivo y con excelentes habilidades interpersonales para fortalecer nuestros vínculos con la comunidad. El candidato ideal será un comunicador nato, capaz de construir y mantener relaciones sólidas y positivas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar e implementar estrategias para la participación comunitaria.\u003c/li\u003e \u003cli\u003eFomentar y mantener relaciones positivas con organizaciones y líderes comunitarios.\u003c/li\u003e \u003cli\u003eOrganizar y coordinar eventos y actividades comunitarias.\u003c/li\u003e \u003cli\u003eComunicar eficazmente los objetivos e iniciativas a las partes interesadas de la comunidad.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades para la colaboración y el apoyo mutuo.\u003c/li\u003e \u003cli\u003eGestionar la reputación y la imagen pública en el ámbito comunitario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Comunicación, Relaciones Públicas, Sociología o campo afín.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en gestión de relaciones comunitarias o desarrollo social.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para establecer y mantener relaciones interpersonales efectivas.\u003c/li\u003e \u003cli\u003eHabilidades de organización y gestión de eventos.\u003c/li\u003e \u003cli\u003eProactividad y capacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eCompromiso con el desarrollo y el bienestar comunitario.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
