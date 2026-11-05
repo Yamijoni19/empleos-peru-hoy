@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118509749",
+    "clave":  "id:1118509749",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-carwash-playa-de-estacionamiento-senor-de-los-milagros-1118509749.html",
+                   "capturadoEn":  "2026-11-05T20:39:45+00:00"
+               },
+    "titulo":  "Operario de Carwash",
+    "empresa":  "playa de estacionamiento señor de los milagros",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Carwash Resumen del Puesto Buscamos un Operario de Carwash con disponibilidad inmediata para unirse a nuestro equipo. El candidato ideal tendrá experiencia previa en el rubro, será puntual, honesto y demostrará un excelente trato al cliente. Responsabilidades Realizar el lavado exterior, interior, aspirado y secado detallado de vehículos. Gestionar el estacionamiento de los autos de manera eficiente. Requisitos Experiencia previa comprobable en lavado de autos (carwash). Puntualidad y honestidad. Habilidad para brindar un buen trato al cliente. Documento de identidad vigente.",
+    "requisitos":  [
+                       "Experiencia previa comprobable en lavado de autos (carwash)",
+                       "Puntualidad y honestidad",
+                       "Habilidad para brindar un buen trato al cliente",
+                       "Documento de identidad vigente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-carwash-playa-de-estacionamiento-senor-de-los-milagros-1118509749.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-carwash-playa-de-estacionamiento-senor-de-los-milagros-1118509749.html",
+    "descripcion_html":  "\u003cb\u003eOperario de Carwash\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eOperario de Carwash\u003c/b\u003e con disponibilidad inmediata para unirse a nuestro equipo. El candidato ideal tendrá experiencia previa en el rubro, será puntual, honesto y demostrará un excelente trato al cliente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el lavado exterior, interior, aspirado y secado detallado de vehículos.\u003c/li\u003e \u003cli\u003eGestionar el estacionamiento de los autos de manera eficiente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa comprobable en lavado de autos (carwash).\u003c/li\u003e \u003cli\u003ePuntualidad y honestidad.\u003c/li\u003e \u003cli\u003eHabilidad para brindar un buen trato al cliente.\u003c/li\u003e \u003cli\u003eDocumento de identidad vigente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

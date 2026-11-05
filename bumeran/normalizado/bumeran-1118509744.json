@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118509744",
+    "clave":  "id:1118509744",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/psicologa-organizacional-especialista-en-seguridad-basada-en-el-comportamiento-y-habilidades-blandas-canchanya-ingenieros-srl-1118509744.html",
+                   "capturadoEn":  "2026-11-05T20:39:51+00:00"
+               },
+    "titulo":  "PSICOLOGA ORGANIZACIONAL ESPECIALISTA EN SEGURIDAD BASADA EN EL COMPORTAMIENTO Y HABILIDADES BLANDAS",
+    "empresa":  "CANCHANYA INGENIEROS SRL",
+    "ubicacion":  "Lima - La Molina",
+    "ciudad":  "La Molina",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Canchanya Ingenieros SRL estamos en la búsqueda de PSICOLOGA ORGANIZACIONAL ESPECIALISTA EN SBC Y HABILIDADES BLANDAS. REQUISITOS Experiencia en el Sector Minero. Experiencia en Programas de Seguridad Basado en el comportamiento. Experencia en Programas de desarrollo de habilidades blandas. Experiencia en Programas de Competencias Especialista en dinamicas y tecnicas vivenciales para la supervision. Disponibilidad para viajar al extranjero Disponibilidad inmediata FUNCIONES Generar el diagnóstico situacional correspondiente a la Seguridad Basada en el Comportamiento Implementar y desarrollar el programa conductual aplicado a la seguridad Basada en el Comportamiento. DISPONIBILIDAD Inmediata",
+    "requisitos":  [
+                       "Experiencia en el Sector Minero",
+                       "Experiencia en Programas de Seguridad Basado en el comportamiento",
+                       "Experencia en Programas de desarrollo de habilidades blandas",
+                       "Experiencia en Programas de Competencias",
+                       "Especialista en dinamicas y tecnicas vivenciales para la supervision",
+                       "Disponibilidad para viajar al extranjero",
+                       "Disponibilidad inmediata"
+                   ],
+    "funciones":  [
+                      "Generar el diagnóstico situacional correspondiente a la Seguridad Basada en el Comportamiento",
+                      "Implementar y desarrollar el programa conductual aplicado a la seguridad Basada en el Comportamiento",
+                      "DISPONIBILIDAD",
+                      "Inmediata"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/psicologa-organizacional-especialista-en-seguridad-basada-en-el-comportamiento-y-habilidades-blandas-canchanya-ingenieros-srl-1118509744.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/psicologa-organizacional-especialista-en-seguridad-basada-en-el-comportamiento-y-habilidades-blandas-canchanya-ingenieros-srl-1118509744.html",
+    "descripcion_html":  "\u003cp\u003eEn Canchanya Ingenieros SRL estamos en la búsqueda de PSICOLOGA ORGANIZACIONAL ESPECIALISTA EN SBC Y HABILIDADES BLANDAS.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en el Sector Minero.\u003c/li\u003e \u003cli\u003eExperiencia en Programas de Seguridad Basado en el comportamiento.\u003c/li\u003e \u003cli\u003eExperencia en Programas de desarrollo de habilidades blandas.\u003c/li\u003e \u003cli\u003eExperiencia en Programas de Competencias\u003c/li\u003e \u003cli\u003eEspecialista en dinamicas y tecnicas vivenciales para la supervision.\u003c/li\u003e \u003cli\u003eDisponibilidad para viajar al extranjero\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGenerar el diagnóstico situacional correspondiente a la Seguridad Basada en el Comportamiento\u003c/li\u003e \u003cli\u003eImplementar y desarrollar el programa conductual aplicado a la seguridad Basada en el Comportamiento.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDISPONIBILIDAD\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInmediata\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

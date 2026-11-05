@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118509756",
+    "clave":  "id:1118509756",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-monitoreo-on-empresas-1118509756.html",
+                   "capturadoEn":  "2026-11-05T20:39:36+00:00"
+               },
+    "titulo":  "Analista de Monitoreo",
+    "empresa":  "ON Empresas",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Qué buscamos? Mínimo 3 años en roles relacionados a servicios de monitoreo. Certificación vigente de nivel Administrador IBM INSTANA, o equivalente o superior. Disponibilidad para laborar de manera presencial en San Isidro. Beneficios ON Empresas Utilidades atractivas según rentabilidad de nuestra empresa. EPS y Seguro Oncológico cubiertos al 100%. Línea de Carrera para continuar con tu crecimiento profesional. Constante capacitación. Descuentos corporativos. Convenios educativos en post grado e idiomas. Día libre por tu cumpleaños.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "ON Empresas",
+                       "Utilidades atractivas según rentabilidad de nuestra empresa",
+                       "EPS y Seguro Oncológico cubiertos al 100%",
+                       "Línea de Carrera para continuar con tu crecimiento profesional",
+                       "Constante capacitación",
+                       "Descuentos corporativos",
+                       "Convenios educativos en post grado e idiomas",
+                       "Día libre por tu cumpleaños"
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-monitoreo-on-empresas-1118509756.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-monitoreo-on-empresas-1118509756.html",
+    "descripcion_html":  "\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo 3 años en roles relacionados a servicios de monitoreo.\u003c/li\u003e \u003cli\u003eCertificación vigente de nivel Administrador IBM INSTANA, o equivalente o superior.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de manera presencial en San Isidro.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios ON Empresas\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUtilidades atractivas según rentabilidad de nuestra empresa.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico cubiertos al 100%.\u003c/li\u003e \u003cli\u003eLínea de Carrera para continuar con tu crecimiento profesional.\u003c/li\u003e \u003cli\u003eConstante capacitación.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e \u003cli\u003eConvenios educativos en post grado e idiomas.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
