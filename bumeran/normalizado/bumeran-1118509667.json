@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118509667",
+    "clave":  "id:1118509667",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/administrador-de-reustarante-huacho-1118509667.html",
+                   "capturadoEn":  "2026-11-06T09:24:34+00:00"
+               },
+    "titulo":  "Administrador de Reustarante- Huacho",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Huacho",
+    "ciudad":  "Huacho",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nos encontramos en la busqueda de Administrador para Huacho REQUISITOS: - Estudios técnicos o universitarios en Administración de Empresas, Hotelería, Gastronomía y otras afines. 3 años de experiencia en cadena de restaurantes o cafeterias (indispensable) - Conocimiento de BPM, Kardex, inventarios - Manejo de KPIS o indicadores de gestión - Manejo de herramientas informáticas a niveles intermedios. - Vivir cerca o de fácil acceso al centro de HUACHO. BENEFICIOS: - Ingreso a planilla con beneficio de Ley. - Pagos quincenales - Alimentación al 100% - Oportunidad de línea de carrera.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios en Administración de Empresas, Hotelería, Gastronomía y otras afines",
+                       "3 años de experiencia en cadena de restaurantes o cafeterias (indispensable)",
+                       "Conocimiento de BPM, Kardex, inventarios",
+                       "Manejo de KPIS o indicadores de gestión",
+                       "Manejo de herramientas informáticas a niveles intermedios",
+                       "Vivir cerca o de fácil acceso al centro de HUACHO"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Ingreso a planilla con beneficio de Ley",
+                       "Pagos quincenales",
+                       "Alimentación al 100%",
+                       "Oportunidad de línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/administrador-de-reustarante-huacho-1118509667.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/administrador-de-reustarante-huacho-1118509667.html",
+    "descripcion_html":  "\u003cp\u003eNos encontramos en la busqueda de Administrador para Huacho \u003c/p\u003e\u003cp\u003eREQUISITOS:\u003c/p\u003e\u003cp\u003e- Estudios técnicos o universitarios en Administración de Empresas, Hotelería, Gastronomía y otras afines.\u003c/p\u003e\u003cp\u003e3 años de experiencia en cadena de restaurantes o cafeterias (indispensable)\u003c/p\u003e\u003cp\u003e- Conocimiento de BPM, Kardex, inventarios\u003c/p\u003e\u003cp\u003e- Manejo de KPIS o indicadores de gestión\u003c/p\u003e\u003cp\u003e- Manejo de herramientas informáticas a niveles intermedios.\u003c/p\u003e\u003cp\u003e- Vivir cerca o de fácil acceso al centro de HUACHO.\u003c/p\u003e\u003cp\u003eBENEFICIOS:\u003c/p\u003e\u003cp\u003e- Ingreso a planilla con beneficio de Ley.\u003c/p\u003e\u003cp\u003e- Pagos quincenales\u003c/p\u003e\u003cp\u003e- Alimentación al 100%\u003c/p\u003e\u003cp\u003e- Oportunidad de línea de carrera.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

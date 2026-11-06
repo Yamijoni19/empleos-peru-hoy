@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118509676",
+    "clave":  "id:1118509676",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/colaborador-multifuncional-heladeria-trhuman-1118509676.html",
+                   "capturadoEn":  "2026-11-06T09:24:14+00:00"
+               },
+    "titulo":  "Colaborador Multifuncional - Heladería",
+    "empresa":  "TRHUMAN",
+    "ubicacion":  "Lima",
+    "ciudad":  "",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f4e2; COLABORADOR MULTIFUNCIONAL – HELADERÍA Descripción del puesto: Nos encontramos en la búsqueda de un(a) Colaborador(a) Multifuncional para heladería, con orientación al servicio y atención al cliente, responsable de brindar una experiencia agradable a los clientes, apoyando en las diferentes actividades operativas y comerciales de la tienda. Funciones principales: Brindar atención cordial y personalizada a los clientes. Realizar el despacho y servido de gelatos según los requerimientos de los clientes. Preparar bebidas y alimentos de acuerdo con los procedimientos establecidos. Brindar apoyo en las operaciones de caja y cobro. Mantener el orden, limpieza y presentación de la tienda. Verificar la correcta exhibición y conservación de los productos. Apoyar en las diferentes actividades operativas de la heladería. Requisitos: Experiencia en atención al cliente, restaurantes, cafeterías, heladerías o negocios similares (deseable). Conocimientos básicos de manipulación de alimentos. Habilidades de comunicación y orientación al servicio. Capacidad para trabajar en equipo y realizar diversas funciones. Persona responsable, dinámica, proactiva y con buena actitud. Perfil que buscamos: Una persona dinámica, amable y con vocación de servicio, que disfrute trabajar en equipo y tenga disposición para desempeñarse en distintas actividades dentro de la heladería.",
+    "requisitos":  [
+                       "Experiencia en atención al cliente, restaurantes, cafeterías, heladerías o negocios similares (deseable)",
+                       "Conocimientos básicos de manipulación de alimentos",
+                       "Habilidades de comunicación y orientación al servicio",
+                       "Capacidad para trabajar en equipo y realizar diversas"
+                   ],
+    "funciones":  [
+                      "Persona responsable, dinámica, proactiva y con buena actitud"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/colaborador-multifuncional-heladeria-trhuman-1118509676.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/colaborador-multifuncional-heladeria-trhuman-1118509676.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f4e2; COLABORADOR MULTIFUNCIONAL – HELADERÍA\u003c/p\u003e\u003cp\u003eDescripción del puesto:\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) Colaborador(a) Multifuncional para heladería, con orientación al servicio y atención al cliente, responsable de brindar una experiencia agradable a los clientes, apoyando en las diferentes actividades operativas y comerciales de la tienda.\u003c/p\u003e\u003cp\u003eFunciones principales:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención cordial y personalizada a los clientes.\u003c/li\u003e \u003cli\u003eRealizar el despacho y servido de gelatos según los requerimientos de los clientes.\u003c/li\u003e \u003cli\u003ePreparar bebidas y alimentos de acuerdo con los procedimientos establecidos.\u003c/li\u003e \u003cli\u003eBrindar apoyo en las operaciones de caja y cobro.\u003c/li\u003e \u003cli\u003eMantener el orden, limpieza y presentación de la tienda.\u003c/li\u003e \u003cli\u003eVerificar la correcta exhibición y conservación de los productos.\u003c/li\u003e \u003cli\u003eApoyar en las diferentes actividades operativas de la heladería.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en atención al cliente, restaurantes, cafeterías, heladerías o negocios similares (deseable).\u003c/li\u003e \u003cli\u003eConocimientos básicos de manipulación de alimentos.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y orientación al servicio.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y realizar diversas funciones.\u003c/li\u003e \u003cli\u003ePersona responsable, dinámica, proactiva y con buena actitud.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003ePerfil que buscamos: Una persona dinámica, amable y con vocación de servicio, que disfrute trabajar en equipo y tenga disposición para desempeñarse en distintas actividades dentro de la heladería.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

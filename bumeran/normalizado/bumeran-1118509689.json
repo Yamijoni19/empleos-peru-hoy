@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118509689",
+    "clave":  "id:1118509689",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-geomecanico-senior-adgeminco-sac-1118509689.html",
+                   "capturadoEn":  "2026-11-06T09:23:50+00:00"
+               },
+    "titulo":  "INGENIERO GEOMECÁNICO SENIOR",
+    "empresa":  "ADGEMINCO SAC",
+    "ubicacion":  "Arequipa - Condesuyos",
+    "ciudad":  "Condesuyos",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Requisitos: Profesional Titulado, Colegiado y Habilitado en Ingeniería de Minas o Ingeniería Geológica. Experiencia mínima de 5 años en puestos afines en minería subterranea. Conocimientos en Geomecánica. Disponibilidad para laborar bajo régimen 14x07 en campamento minero ubicado en San Juan de Chorunga, Arequipa. Funciones: Planificar y dirigir la gestión geomecánica de la operación minera, estableciendo actividades, responsables, frecuencia, recursos e indicadores de cumplimiento. Caracterizar y clasificar el macizo rocoso en interior mina y determinar el tipo de sostenimiento. Brindar soporte técnico y recomendaciones al área de Planeamiento e Ingeniería, en base a las propiedades del macizo rocoso (secuencia de minado). Supervisar la ejecución de tareas y avances de acuerdo a la planificación semanal y mensual del área de geomecánica. Diseñar el sistema de sostenimiento adecuado (pernos, cable bolting, malla, shotcrete), de acuerdo al mecanismo de falla y tipo de excavación.",
+    "requisitos":  [
+                       "Profesional Titulado, Colegiado y Habilitado en Ingeniería de Minas o Ingeniería Geológica",
+                       "Experiencia mínima de 5 años en puestos afines en minería subterranea",
+                       "Conocimientos en Geomecánica",
+                       "Disponibilidad para laborar bajo régimen 14x07 en campamento minero ubicado en San Juan de Chorunga, Arequipa"
+                   ],
+    "funciones":  [
+                      "Planificar y dirigir la gestión geomecánica de la operación minera, estableciendo actividades, responsables, frecuencia, recursos e indicadores de cumplimiento",
+                      "Caracterizar y clasificar el macizo rocoso en interior mina y determinar el tipo de sostenimiento",
+                      "Brindar soporte técnico y recomendaciones al área de Planeamiento e Ingeniería, en base a las propiedades del macizo rocoso (secuencia de minado)",
+                      "Supervisar la ejecución de tareas y avances de acuerdo a la planificación semanal y mensual del área de geomecánica",
+                      "Diseñar el sistema de sostenimiento adecuado (pernos, cable bolting, malla, shotcrete), de acuerdo al mecanismo de falla y tipo de excavación"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-geomecanico-senior-adgeminco-sac-1118509689.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-geomecanico-senior-adgeminco-sac-1118509689.html",
+    "descripcion_html":  "\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional Titulado, Colegiado y Habilitado en Ingeniería de Minas o Ingeniería Geológica.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 5 años en puestos afines en minería subterranea. \u003c/li\u003e \u003cli\u003eConocimientos en Geomecánica. \u003c/li\u003e \u003cli\u003eDisponibilidad para laborar bajo régimen 14x07 en campamento minero ubicado en San Juan de Chorunga, Arequipa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanificar y dirigir la gestión geomecánica de la operación minera, estableciendo actividades, responsables, frecuencia, recursos e indicadores de cumplimiento.\u003c/li\u003e \u003cli\u003eCaracterizar y clasificar el macizo rocoso en interior mina y determinar el tipo de sostenimiento.\u003c/li\u003e \u003cli\u003eBrindar soporte técnico y recomendaciones al área de Planeamiento e Ingeniería, en base a las propiedades del macizo rocoso (secuencia de minado).\u003c/li\u003e \u003cli\u003eSupervisar la ejecución de tareas y avances de acuerdo a la planificación semanal y mensual del área de geomecánica.\u003c/li\u003e \u003cli\u003eDiseñar el sistema de sostenimiento adecuado (pernos, cable bolting, malla, shotcrete), de acuerdo al mecanismo de falla y tipo de excavación.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

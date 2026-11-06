@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118509672",
+    "clave":  "id:1118509672",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-produccion-trhuman-1118509672.html",
+                   "capturadoEn":  "2026-11-06T09:24:26+00:00"
+               },
+    "titulo":  "AUXILIAR DE PRODUCCION",
+    "empresa":  "TRHUMAN",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f4e2; AUXILIAR DE PRODUCCIÓN Descripción del puesto: Nos encontramos en la búsqueda de un(a) Auxiliar de Producción, responsable de apoyar en la elaboración y preparación de productos de pastelería y heladería, cumpliendo con los estándares de calidad, higiene y orden establecidos por la empresa. Funciones principales: Apoyar en la elaboración de helados artesanales, kekes, tortas y galletas. Realizar el porcionamiento y acondicionamiento de insumos para la producción. Preparar salsas, mezclas y otros alimentos según las indicaciones establecidas. Mantener el orden y limpieza del área de producción y de los utensilios utilizados. Cumplir con las normas de higiene, manipulación de alimentos y seguridad alimentaria. Apoyar en las diferentes actividades del proceso productivo según los requerimientos del área. Requisitos sugeridos: Experiencia en producción de alimentos, pastelería, panadería, heladería o cocina (deseable). Conocimientos básicos de manipulación de alimentos. Persona responsable, organizada, puntual y con disposición para aprender. Capacidad para trabajar en equipo y bajo indicaciones.",
+    "requisitos":  [
+                       "sugeridos",
+                       "Experiencia en producción de alimentos, pastelería, panadería, heladería o cocina (deseable)",
+                       "Conocimientos básicos de manipulación de alimentos",
+                       "Persona responsable, organizada, puntual y con disposición para aprender",
+                       "Capacidad para trabajar en equipo y bajo indicaciones"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Apoyar en la elaboración de helados artesanales, kekes, tortas y galletas",
+                      "Realizar el porcionamiento y acondicionamiento de insumos para la producción",
+                      "Preparar salsas, mezclas y otros alimentos según las indicaciones establecidas",
+                      "Mantener el orden y limpieza del área de producción y de los utensilios utilizados",
+                      "Cumplir con las normas de higiene, manipulación de alimentos y seguridad alimentaria",
+                      "Apoyar en las diferentes actividades del proceso productivo según los requerimientos del área"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-produccion-trhuman-1118509672.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-produccion-trhuman-1118509672.html",
+    "descripcion_html":  "\u003cp\u003e\u0026#x1f4e2; AUXILIAR DE PRODUCCIÓN\u003c/p\u003e\u003cp\u003eDescripción del puesto:\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) Auxiliar de Producción, responsable de apoyar en la elaboración y preparación de productos de pastelería y heladería, cumpliendo con los estándares de calidad, higiene y orden establecidos por la empresa.\u003c/p\u003e\u003cp\u003eFunciones principales:\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en la elaboración de helados artesanales, kekes, tortas y galletas.\u003c/li\u003e \u003cli\u003eRealizar el porcionamiento y acondicionamiento de insumos para la producción.\u003c/li\u003e \u003cli\u003ePreparar salsas, mezclas y otros alimentos según las indicaciones establecidas.\u003c/li\u003e \u003cli\u003eMantener el orden y limpieza del área de producción y de los utensilios utilizados.\u003c/li\u003e \u003cli\u003eCumplir con las normas de higiene, manipulación de alimentos y seguridad alimentaria.\u003c/li\u003e \u003cli\u003eApoyar en las diferentes actividades del proceso productivo según los requerimientos del área.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos sugeridos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en producción de alimentos, pastelería, panadería, heladería o cocina (deseable).\u003c/li\u003e \u003cli\u003eConocimientos básicos de manipulación de alimentos.\u003c/li\u003e \u003cli\u003ePersona responsable, organizada, puntual y con disposición para aprender.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y bajo indicaciones.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
