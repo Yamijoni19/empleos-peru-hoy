@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118511459",
+    "clave":  "id:1118511459",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-part-time-6h-la-molina-s-850-1118511459.html",
+                   "capturadoEn":  "2026-11-06T17:29:24+00:00"
+               },
+    "titulo":  "AYUDANTE DE COCINA PART TIME (6H) - LA MOLINA - S/850",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - La Molina",
+    "ciudad":  "La Molina",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  850,
+                    "max":  850,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "Remuneración: 850 soles",
+                    "fuente_salario":  "html"
+                },
+    "descripcion":  "Ayudante de Cocina (Tiempo Parcial) Propósito: Asistir en la preparación de alimentos nutritivos para residentes de un centro geriátrico, manteniendo la higiene y seguridad alimentaria. Responsabilidades Clave: Preparación de ingredientes y asistencia en la elaboración de comidas, incluyendo dietas especiales. Limpieza y mantenimiento de la cocina y utensilios. Apoyo en la recepción y almacenamiento de suministros. Horario: 6 horas diarias, 6 días a la semana, de 8:00 a.m. a 2:00 p.m. Requisitos: Conocimiento básico de manipulación de alimentos. Capacidad para seguir instrucciones y trabajar en equipo. Actitud amable y respetuosa hacia los residentes. Se valorará experiencia previa en cocinas y en especial en la elaboración de alimentos para personas mayores y conocimientos de dietas especiales. Se requiere certificado de manipulación de alimentos. Condiciones: Entorno de cocina en un centro geriátrico. Remuneración: 850 soles",
+    "requisitos":  [
+                       "Conocimiento básico de manipulación de alimentos",
+                       "Capacidad para seguir instrucciones y trabajar en equipo",
+                       "Actitud amable y respetuosa hacia los residentes",
+                       "Se valorará experiencia previa en cocinas y en especial en la elaboración de alimentos para personas mayores y conocimientos de dietas especiales",
+                       "Se requiere certificado de manipulación de alimentos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-05",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-part-time-6h-la-molina-s-850-1118511459.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-part-time-6h-la-molina-s-850-1118511459.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAyudante de Cocina (Tiempo Parcial)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePropósito: Asistir en la preparación de alimentos nutritivos para residentes de un centro geriátrico, manteniendo la higiene y seguridad alimentaria.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades Clave:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePreparación de ingredientes y asistencia en la elaboración de comidas, incluyendo dietas especiales.\u003c/p\u003e\u003cp\u003eLimpieza y mantenimiento de la cocina y utensilios.\u003c/p\u003e\u003cp\u003eApoyo en la recepción y almacenamiento de suministros.\u003c/p\u003e\u003cp\u003eHorario: 6 horas diarias, 6 días a la semana, de 8:00 a.m. a 2:00 p.m.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eConocimiento básico de manipulación de alimentos.\u003c/p\u003e\u003cp\u003eCapacidad para seguir instrucciones y trabajar en equipo.\u003c/p\u003e\u003cp\u003eActitud amable y respetuosa hacia los residentes.\u003c/p\u003e\u003cp\u003eSe valorará experiencia previa en cocinas y en especial en la elaboración de alimentos para personas mayores y conocimientos de dietas especiales.\u003c/p\u003e\u003cp\u003eSe requiere certificado de manipulación de alimentos.\u003c/p\u003e\u003cp\u003eCondiciones: Entorno de cocina en un centro geriátrico.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRemuneración: 850 soles\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "6 horas diarias, 6 días a la semana, de 8:00 a.m. a 2:00 p.m.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "05/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
