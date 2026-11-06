@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118511402",
+    "clave":  "id:1118511402",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cocinero-principal-smasher-1118511402.html",
+                   "capturadoEn":  "2026-11-06T23:08:08+00:00"
+               },
+    "titulo":  "Cocinero Principal",
+    "empresa":  "SMASHER",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cocinero Principal Resumen del Puesto Buscamos un Cocinero Principal con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una sólida trayectoria en la preparación de alimentos de alta calidad y la gestión de operaciones de cocina. Se valorará la experiencia en entornos de comida rápida premium o gastropubs. Responsabilidades Supervisar y ejecutar la preparación de alimentos, asegurando la calidad y consistencia. Gestionar las operaciones diarias de la cocina, incluyendo la organización y el control de inventario. Dirigir y capacitar al personal de cocina, fomentando un ambiente de trabajo positivo y eficiente. Mantener altos estándares de higiene y seguridad alimentaria. Gestionar el estrés y mantener la calma bajo presión durante los momentos de alta demanda. Requisitos Experiencia demostrable de al menos 2 años como Cocinero Principal, Encargado de Cocina o Jefe de Partida. Formación técnica en Gastronomía, Arte Culinario o áreas afines (truncos o concluidos). Habilidades de liderazgo comprobadas para dirigir equipos. Capacidad para trabajar con un alto sentido de urgencia y excelente organización. Disponibilidad para obtener o mantener la documentación sanitaria vigente. Habilidad para trabajar en un entorno de ritmo rápido y alta exigencia.",
+    "requisitos":  [
+                       "Experiencia demostrable de al menos 2 años como Cocinero Principal, Encargado de Cocina o Jefe de Partida",
+                       "Formación técnica en Gastronomía, Arte Culinario o áreas afines (truncos o concluidos)",
+                       "Habilidades de liderazgo comprobadas para dirigir equipos",
+                       "Capacidad para trabajar con un alto sentido de urgencia y excelente organización",
+                       "Disponibilidad para obtener o mantener la documentación sanitaria vigente",
+                       "Habilidad para trabajar en un entorno de ritmo rápido y alta exigencia"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-05",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cocinero-principal-smasher-1118511402.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cocinero-principal-smasher-1118511402.html",
+    "descripcion_html":  "\u003cb\u003eCocinero Principal\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eCocinero Principal\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una sólida trayectoria en la preparación de alimentos de alta calidad y la gestión de operaciones de cocina. Se valorará la experiencia en entornos de comida rápida premium o gastropubs.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y ejecutar la preparación de alimentos, asegurando la calidad y consistencia.\u003c/li\u003e \u003cli\u003eGestionar las operaciones diarias de la cocina, incluyendo la organización y el control de inventario.\u003c/li\u003e \u003cli\u003eDirigir y capacitar al personal de cocina, fomentando un ambiente de trabajo positivo y eficiente.\u003c/li\u003e \u003cli\u003eMantener altos estándares de higiene y seguridad alimentaria.\u003c/li\u003e \u003cli\u003eGestionar el estrés y mantener la calma bajo presión durante los momentos de alta demanda.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia demostrable de al menos 2 años como Cocinero Principal, Encargado de Cocina o Jefe de Partida.\u003c/li\u003e \u003cli\u003eFormación técnica en Gastronomía, Arte Culinario o áreas afines (truncos o concluidos).\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo comprobadas para dirigir equipos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar con un alto sentido de urgencia y excelente organización.\u003c/li\u003e \u003cli\u003eDisponibilidad para obtener o mantener la documentación sanitaria vigente.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en un entorno de ritmo rápido y alta exigencia.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "05/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

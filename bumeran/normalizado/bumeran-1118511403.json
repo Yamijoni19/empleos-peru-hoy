@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118511403",
+    "clave":  "id:1118511403",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-ica-1118511403.html",
+                   "capturadoEn":  "2026-11-06T23:08:05+00:00"
+               },
+    "titulo":  "Ingeniero Residente - ICA",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Ica",
+    "ciudad":  "Ica",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa del sector construcción se encuentra en búsqueda de de un INGENIERO RESIDENTE Requisitos: Ingeniero civil titulado, colegiado y habilitado Experíencia profesional no menor de cuatro (04) años, sustentado con copia del diploma de incorporación al Colegio de Ingenieros. Experiencia profesional de al menos 3 años como Residente y/o Ingeniero residente en la ejecución de obras Beneficios: EPS al 100% Planilla desde el día 1 Descuentos corporativos exclusivos Modalidad de trabajo: Presencial (Ica) Horario: L-S ¡Anímate a postular!",
+    "requisitos":  [
+                       "Ingeniero civil titulado, colegiado y habilitado",
+                       "Experíencia profesional no menor de cuatro (04) años, sustentado con copia del diploma de incorporación al Colegio de Ingenieros",
+                       "Experiencia profesional de al menos 3 años como Residente y/o Ingeniero residente en la ejecución de obras"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "EPS al 100%",
+                       "Planilla desde el día 1",
+                       "Descuentos corporativos exclusivos",
+                       "Modalidad de trabajo: Presencial (Ica) Horario: L-S",
+                       "¡Anímate a postular!"
+                   ],
+    "fecha_publicacion":  "2026-11-05",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-ica-1118511403.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-ica-1118511403.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa del sector construcción se encuentra en búsqueda de de un\u003cstrong\u003e INGENIERO RESIDENTE\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniero civil titulado, colegiado y habilitado\u003c/li\u003e \u003cli\u003eExperíencia profesional no menor de cuatro (04) años, sustentado con copia del diploma de incorporación al Colegio de Ingenieros.\u003c/li\u003e \u003cli\u003eExperiencia profesional de al menos 3 años como Residente y/o Ingeniero residente en la ejecución de obras\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEPS al 100%\u003c/li\u003e \u003cli\u003ePlanilla desde el día 1\u003c/li\u003e \u003cli\u003eDescuentos corporativos exclusivos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eModalidad de trabajo: \u003cstrong\u003ePresencial (Ica) Horario: L-S\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Anímate a postular!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "L-S",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "05/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
