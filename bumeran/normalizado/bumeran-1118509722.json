@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118509722",
+    "clave":  "id:1118509722",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-tecnico-comercial-fabalti-sac-1118509722.html",
+                   "capturadoEn":  "2026-11-06T01:32:27+00:00"
+               },
+    "titulo":  "Asesor Técnico Comercial",
+    "empresa":  "FABALTI SAC",
+    "ubicacion":  "Lima - Urb. Maranga - San Miguel",
+    "ciudad":  "Urb. Maranga - San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 4,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Técnico Comercial Resumen del Puesto Buscamos un Asesor Técnico Comercial con experiencia para unirse a nuestro equipo y enfocado en el desarrollo y gestión de oportunidades de negocio en el sector industrial. El candidato ideal poseerá habilidades sólidas en ventas técnicas y una probada capacidad para construir y mantener relaciones comerciales. Responsabilidades Desarrollar y gestionar oportunidades de negocio en el sector industrial. Captar y fidelizar clientes, promoviendo soluciones y servicios. Elaborar cotizaciones y propuestas comerciales. Gestionar el ciclo completo de ventas, desde la prospección hasta el cierre. Realizar visitas comerciales según sea necesario. Requisitos Formación académica en Ingeniería Química, Industrial o Mecánica. Experiencia mínima de 2 años en ventas técnicas o industriales. Experiencia demostrable en negociación, prospección y cierre de ventas. Capacidad para trabajar de forma independiente y proactiva. Excelentes habilidades de comunicación y relaciones interpersonales. Ofrecemos Remuneración competitiva acorde al mercado. Comisiones basadas en resultados.",
+    "requisitos":  [
+                       "Formación académica en Ingeniería Química, Industrial o Mecánica",
+                       "Experiencia mínima de 2 años en ventas técnicas o industriales",
+                       "Experiencia demostrable en negociación, prospección y cierre de ventas",
+                       "Capacidad para trabajar de forma independiente y proactiva",
+                       "Excelentes habilidades de comunicación y relaciones interpersonales"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-tecnico-comercial-fabalti-sac-1118509722.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-tecnico-comercial-fabalti-sac-1118509722.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Técnico Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsesor Técnico Comercial\u003c/b\u003e con experiencia para unirse a nuestro equipo y enfocado en el desarrollo y gestión de oportunidades de negocio en el sector industrial. El candidato ideal poseerá habilidades sólidas en ventas técnicas y una probada capacidad para construir y mantener relaciones comerciales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar y gestionar oportunidades de negocio en el sector industrial.\u003c/li\u003e \u003cli\u003eCaptar y fidelizar clientes, promoviendo soluciones y servicios.\u003c/li\u003e \u003cli\u003eElaborar cotizaciones y propuestas comerciales.\u003c/li\u003e \u003cli\u003eGestionar el ciclo completo de ventas, desde la prospección hasta el cierre.\u003c/li\u003e \u003cli\u003eRealizar visitas comerciales según sea necesario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica en Ingeniería Química, Industrial o Mecánica.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en ventas técnicas o industriales.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en negociación, prospección y cierre de ventas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y proactiva.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva acorde al mercado.\u003c/li\u003e \u003cli\u003eComisiones basadas en resultados.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

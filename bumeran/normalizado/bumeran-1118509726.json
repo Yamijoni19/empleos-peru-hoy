@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118509726",
+    "clave":  "id:1118509726",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cajero-fast-food-pedro-asencios-1118509726.html",
+                   "capturadoEn":  "2026-11-06T01:32:16+00:00"
+               },
+    "titulo":  "Cajero Fast Food",
+    "empresa":  "Pedro Asencios",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1430,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,430",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cajero Fast Food Resumen del Puesto Estamos en la búsqueda de un Cajero Fast Food dinámico y orientado al cliente para unirse a nuestro equipo. El candidato ideal será responsable de gestionar las transacciones de los clientes de manera eficiente y amigable, asegurando una experiencia positiva. Responsabilidades Procesar pedidos y pagos de los clientes de forma precisa y rápida. Manejar efectivo, tarjetas de crédito y otros métodos de pago. Mantener la limpieza y el orden del área de caja. Responder a las consultas de los clientes y resolver problemas básicos. Colaborar con el equipo para asegurar un servicio fluido. Requisitos Experiencia previa en atención al cliente o caja es deseable. Habilidades básicas de matemáticas y manejo de dinero. Capacidad para trabajar en un entorno de ritmo rápido. Excelentes habilidades de comunicación y trato interpersonal. Actitud positiva y proactiva. Disponibilidad para trabajar en horarios rotativos.",
+    "requisitos":  [
+                       "Experiencia previa en atención al cliente o caja es deseable",
+                       "Habilidades básicas de matemáticas y manejo de dinero",
+                       "Capacidad para trabajar en un entorno de ritmo rápido",
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Actitud positiva y proactiva",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cajero-fast-food-pedro-asencios-1118509726.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cajero-fast-food-pedro-asencios-1118509726.html",
+    "descripcion_html":  "\u003cb\u003eCajero Fast Food\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eCajero Fast Food\u003c/b\u003e dinámico y orientado al cliente para unirse a nuestro equipo. El candidato ideal será responsable de gestionar las transacciones de los clientes de manera eficiente y amigable, asegurando una experiencia positiva.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eProcesar pedidos y pagos de los clientes de forma precisa y rápida.\u003c/li\u003e \u003cli\u003eManejar efectivo, tarjetas de crédito y otros métodos de pago.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden del área de caja.\u003c/li\u003e \u003cli\u003eResponder a las consultas de los clientes y resolver problemas básicos.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar un servicio fluido.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en atención al cliente o caja es deseable.\u003c/li\u003e \u003cli\u003eHabilidades básicas de matemáticas y manejo de dinero.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno de ritmo rápido.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eActitud positiva y proactiva.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

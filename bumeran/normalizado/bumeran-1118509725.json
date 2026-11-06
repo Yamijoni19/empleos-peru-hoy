@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118509725",
+    "clave":  "id:1118509725",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-industrial-fabalti-sac-1118509725.html",
+                   "capturadoEn":  "2026-11-06T01:32:19+00:00"
+               },
+    "titulo":  "Técnico Electricista Industrial",
+    "empresa":  "FABALTI SAC",
+    "ubicacion":  "Lima - Urb. Maranga - San Miguel",
+    "ciudad":  "Urb. Maranga - San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico Electricista Industrial Resumen del Puesto Buscamos un Técnico Electricista Industrial para realizar instalaciones y mantenimiento de equipos en plantas de tratamiento de agua. El candidato ideal poseerá experiencia en mantenimiento eléctrico industrial y conocimientos técnicos específicos del área. Responsabilidades Realizar instalaciones y mantenimiento de equipos eléctricos y electromecánicos. Diagnosticar y solucionar fallas en sistemas eléctricos. Ejecutar mantenimiento preventivo y correctivo. Interpretar planos eléctricos para la correcta ejecución de tareas. Trabajar en campo según sea necesario. Requisitos Técnico egresado en Electricidad Industrial o carreras afines. Experiencia mínima de 2 años en mantenimiento eléctrico industrial. Conocimiento en ensamblaje, montaje y mantenimiento de tableros eléctricos de fuerza y control. Conocimientos de motores, bombas, variadores de frecuencia y sistemas de control. Capacidad para interpretar planos eléctricos. Disponibilidad para trabajos en campo.",
+    "requisitos":  [
+                       "Técnico egresado en Electricidad Industrial o carreras afines",
+                       "Experiencia mínima de 2 años en mantenimiento eléctrico industrial",
+                       "Conocimiento en ensamblaje, montaje y mantenimiento de tableros eléctricos de fuerza y control",
+                       "Conocimientos de motores, bombas, variadores de frecuencia y sistemas de control",
+                       "Capacidad para interpretar planos eléctricos",
+                       "Disponibilidad para trabajos en campo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-industrial-fabalti-sac-1118509725.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-industrial-fabalti-sac-1118509725.html",
+    "descripcion_html":  "\u003cb\u003eTécnico Electricista Industrial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico Electricista Industrial\u003c/b\u003e para realizar instalaciones y mantenimiento de equipos en plantas de tratamiento de agua. El candidato ideal poseerá experiencia en mantenimiento eléctrico industrial y conocimientos técnicos específicos del área.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar instalaciones y mantenimiento de equipos eléctricos y electromecánicos.\u003c/li\u003e \u003cli\u003eDiagnosticar y solucionar fallas en sistemas eléctricos.\u003c/li\u003e \u003cli\u003eEjecutar mantenimiento preventivo y correctivo.\u003c/li\u003e \u003cli\u003eInterpretar planos eléctricos para la correcta ejecución de tareas.\u003c/li\u003e \u003cli\u003eTrabajar en campo según sea necesario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTécnico egresado en Electricidad Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en mantenimiento eléctrico industrial.\u003c/li\u003e \u003cli\u003eConocimiento en ensamblaje, montaje y mantenimiento de tableros eléctricos de fuerza y control.\u003c/li\u003e \u003cli\u003eConocimientos de motores, bombas, variadores de frecuencia y sistemas de control.\u003c/li\u003e \u003cli\u003eCapacidad para interpretar planos eléctricos.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajos en campo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

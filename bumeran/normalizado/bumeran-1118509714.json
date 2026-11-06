@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118509714",
+    "clave":  "id:1118509714",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mozo-de-restaurante-punto-italiano-1118509714.html",
+                   "capturadoEn":  "2026-11-06T01:32:50+00:00"
+               },
+    "titulo":  "Mozo de Restaurante",
+    "empresa":  "Punto Italiano",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Mozo de Restaurante Resumen del Puesto Estamos en la búsqueda de Mozos de Restaurante con una actitud positiva, compromiso y una genuina pasión por el servicio al cliente. Si disfrutas creando experiencias memorables para los comensales y te desenvuelves con soltura en un ambiente dinámico, esta oportunidad es para ti. Responsabilidades Atender a los clientes de manera cordial y eficiente, asegurando una experiencia gastronómica placentera. Tomar pedidos con precisión y transmitir las solicitudes a la cocina y barra. Servir alimentos y bebidas siguiendo los estándares de presentación y calidad. Mantener la limpieza y el orden de las mesas y el área de servicio. Gestionar pagos y cierres de cuenta. Colaborar con el equipo para garantizar un servicio fluido y coordinado. Requisitos Experiencia previa en puestos similares es valorada. Excelentes habilidades de comunicación y trato interpersonal. Capacidad para trabajar en equipo y bajo presión. Actitud proactiva, orientada al servicio y con atención al detalle. Disponibilidad para trabajar en horarios rotativos.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares es valorada",
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Capacidad para trabajar en equipo y bajo presión",
+                       "Actitud proactiva, orientada al servicio y con atención al detalle",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mozo-de-restaurante-punto-italiano-1118509714.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mozo-de-restaurante-punto-italiano-1118509714.html",
+    "descripcion_html":  "\u003cb\u003eMozo de Restaurante\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de \u003cb\u003eMozos de Restaurante\u003c/b\u003e con una actitud positiva, compromiso y una genuina pasión por el servicio al cliente. Si disfrutas creando experiencias memorables para los comensales y te desenvuelves con soltura en un ambiente dinámico, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender a los clientes de manera cordial y eficiente, asegurando una experiencia gastronómica placentera.\u003c/li\u003e \u003cli\u003eTomar pedidos con precisión y transmitir las solicitudes a la cocina y barra.\u003c/li\u003e \u003cli\u003eServir alimentos y bebidas siguiendo los estándares de presentación y calidad.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden de las mesas y el área de servicio.\u003c/li\u003e \u003cli\u003eGestionar pagos y cierres de cuenta.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para garantizar un servicio fluido y coordinado.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares es valorada.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y bajo presión.\u003c/li\u003e \u003cli\u003eActitud proactiva, orientada al servicio y con atención al detalle.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

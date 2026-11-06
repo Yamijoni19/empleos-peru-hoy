@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118509728",
+    "clave":  "id:1118509728",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-pedro-asencios-1118509728.html",
+                   "capturadoEn":  "2026-11-06T01:32:08+00:00"
+               },
+    "titulo":  "Ayudante de Cocina",
+    "empresa":  "Pedro Asencios",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1430,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,430",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina Resumen del Puesto Estamos en la búsqueda de un Ayudante de Cocina proactivo y con gran disposición para integrarse a un equipo dinámico en el sector de la gastronomía rápida. El candidato ideal deberá poseer habilidades básicas de cocina y un fuerte compromiso con la higiene y la eficiencia en el área de trabajo. Responsabilidades Asistir en la preparación de alimentos siguiendo las recetas y estándares establecidos. Mantener la limpieza y el orden en la cocina, incluyendo utensilios, superficies y equipos. Colaborar en la recepción y almacenamiento de insumos. Apoyar al equipo de cocina en las tareas diarias para asegurar un servicio ágil y de calidad. Cumplir con las normativas de seguridad alimentaria e higiene. Requisitos Experiencia previa en puestos similares es valorada, pero no excluyente. Conocimientos básicos de técnicas de cocina y manipulación de alimentos. Capacidad para trabajar en un entorno de ritmo rápido. Actitud positiva, ganas de aprender y trabajar en equipo. Responsabilidad y atención al detalle.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares es valorada, pero no excluyente",
+                       "Conocimientos básicos de técnicas de cocina y manipulación de alimentos",
+                       "Capacidad para trabajar en un entorno de ritmo rápido",
+                       "Actitud positiva, ganas de aprender y trabajar en equipo",
+                       "Responsabilidad y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-04",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-pedro-asencios-1118509728.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-pedro-asencios-1118509728.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAyudante de Cocina\u003c/b\u003e proactivo y con gran disposición para integrarse a un equipo dinámico en el sector de la gastronomía rápida. El candidato ideal deberá poseer habilidades básicas de cocina y un fuerte compromiso con la higiene y la eficiencia en el área de trabajo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en la preparación de alimentos siguiendo las recetas y estándares establecidos.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en la cocina, incluyendo utensilios, superficies y equipos.\u003c/li\u003e \u003cli\u003eColaborar en la recepción y almacenamiento de insumos.\u003c/li\u003e \u003cli\u003eApoyar al equipo de cocina en las tareas diarias para asegurar un servicio ágil y de calidad.\u003c/li\u003e \u003cli\u003eCumplir con las normativas de seguridad alimentaria e higiene.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares es valorada, pero no excluyente.\u003c/li\u003e \u003cli\u003eConocimientos básicos de técnicas de cocina y manipulación de alimentos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno de ritmo rápido.\u003c/li\u003e \u003cli\u003eActitud positiva, ganas de aprender y trabajar en equipo.\u003c/li\u003e \u003cli\u003eResponsabilidad y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "04/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
