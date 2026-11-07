@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513123",
+    "clave":  "id:1118513123",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinadora-dental-impacto-dental-s.a.c.-1118513123.html",
+                   "capturadoEn":  "2026-11-07T20:52:19+00:00"
+               },
+    "titulo":  "Coordinadora Dental",
+    "empresa":  "IMPACTO DENTAL S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Coordinadora Dental Resumen del Puesto Buscamos una Coordinadora Dental proactiva y organizada para integrarse a nuestro equipo. El rol implica la gestión de la recepción, el apoyo administrativo y la coordinación de la agenda de pacientes, asegurando un flujo de trabajo eficiente y una excelente experiencia para quienes nos visitan. Responsabilidades Gestión de la recepción y atención a pacientes. Coordinación y agendamiento de citas. Manejo de comunicaciones y consultas de pacientes. Soporte en la asistencia clínica a los profesionales. Supervisión de protocolos de esterilización y desinfección. Gestión del cierre de caja diario. Colaboración con el equipo para el óptimo funcionamiento del consultorio. Requisitos Experiencia previa en asistencia dental y/o gestión de recepción en entornos clínicos. Conocimientos sólidos en procedimientos de esterilización y desinfección. Habilidades organizativas y de gestión del tiempo. Capacidad para manejar múltiples tareas simultáneamente. Excelentes habilidades de comunicación interpersonal. Proactividad y orientación al detalle.",
+    "requisitos":  [
+                       "Experiencia previa en asistencia dental y/o gestión de recepción en entornos clínicos",
+                       "Conocimientos sólidos en procedimientos de esterilización y desinfección",
+                       "Habilidades organizativas y de gestión del tiempo",
+                       "Capacidad para manejar múltiples tareas simultáneamente",
+                       "Excelentes habilidades de comunicación interpersonal",
+                       "Proactividad y orientación al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinadora-dental-impacto-dental-s.a.c.-1118513123.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinadora-dental-impacto-dental-s.a.c.-1118513123.html",
+    "descripcion_html":  "\u003cb\u003eCoordinadora Dental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eCoordinadora Dental\u003c/b\u003e proactiva y organizada para integrarse a nuestro equipo. El rol implica la gestión de la recepción, el apoyo administrativo y la coordinación de la agenda de pacientes, asegurando un flujo de trabajo eficiente y una excelente experiencia para quienes nos visitan.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestión de la recepción y atención a pacientes.\u003c/li\u003e \u003cli\u003eCoordinación y agendamiento de citas.\u003c/li\u003e \u003cli\u003eManejo de comunicaciones y consultas de pacientes.\u003c/li\u003e \u003cli\u003eSoporte en la asistencia clínica a los profesionales.\u003c/li\u003e \u003cli\u003eSupervisión de protocolos de esterilización y desinfección.\u003c/li\u003e \u003cli\u003eGestión del cierre de caja diario.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para el óptimo funcionamiento del consultorio.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en asistencia dental y/o gestión de recepción en entornos clínicos.\u003c/li\u003e \u003cli\u003eConocimientos sólidos en procedimientos de esterilización y desinfección.\u003c/li\u003e \u003cli\u003eHabilidades organizativas y de gestión del tiempo.\u003c/li\u003e \u003cli\u003eCapacidad para manejar múltiples tareas simultáneamente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación interpersonal.\u003c/li\u003e \u003cli\u003eProactividad y orientación al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

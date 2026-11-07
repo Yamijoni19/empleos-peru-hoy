@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118513124",
+    "clave":  "id:1118513124",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/trabajo-remoto-asesores-de-retenciones-fidelizacion-turno-manana-domingo-libre-1118513124.html",
+                   "capturadoEn":  "2026-11-07T20:52:18+00:00"
+               },
+    "titulo":  "Trabajo remoto /Asesores de Retenciones (fidelización) / Turno mañana / Domingo libre",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Urb. Higuereta - Santiago De Surco",
+    "ciudad":  "Urb. Higuereta - Santiago De Surco",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1230",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Por encargo de nuestro cliente del rubro de telecomunicaciones, nos encontramos en la búsqueda de Asesores) de Atención al cliente retenciones (fidelización) - Trabajo Remoto, para público chileno. ¿Qué estamos buscando? Secundaria completa. Con o sin experiencia en el rubro, pero con mucha enfoque en atención al cliente. Excelente nivel comunicativo, fluidez verbal. Ganas de aprender y capacitarse. Disponibilidad para realizar trabajo virtual. Contar con laptop personal para realizar la capacitación, luego de ello se le otorgará equipo de la empresa. ¿Qué te ofrecemos? Sueldo básico de S/1230 + S/ 70 bono de bienvenida (los 3 primeros meses) + comisión promedio de S/400 a más. Contrato en planilla completa al 100%. (Cts, utilidades, gratificaciones, vacaciones, asignación familiar, seguro vida ley, descuentos corporativos con institutos y universidades) Capacitaciones pagadas de 18 días (S/ 40 por día). Línea de carrera y capacitación constante. Buen clima laboral y entrenamiento continuo ¡Promovemos el empleo formal, brindando trabajo a más personas!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/trabajo-remoto-asesores-de-retenciones-fidelizacion-turno-manana-domingo-libre-1118513124.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/trabajo-remoto-asesores-de-retenciones-fidelizacion-turno-manana-domingo-libre-1118513124.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente del rubro de telecomunicaciones, nos encontramos en la búsqueda de Asesores) de Atención al cliente retenciones (fidelización) - Trabajo Remoto, para público chileno.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué estamos buscando?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eCon o sin experiencia en el rubro, pero con mucha enfoque en atención al cliente.\u003c/li\u003e \u003cli\u003eExcelente nivel comunicativo, fluidez verbal.\u003c/li\u003e \u003cli\u003eGanas de aprender y capacitarse.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar trabajo virtual.\u003c/li\u003e \u003cli\u003eContar con laptop personal para realizar la capacitación, luego de ello se le otorgará equipo de la empresa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo básico de S/1230 + S/ 70 bono de bienvenida (los 3 primeros meses) + comisión promedio de S/400 a más.\u003c/li\u003e \u003cli\u003eContrato en planilla completa al 100%. (Cts, utilidades, gratificaciones, vacaciones, asignación familiar, seguro vida ley, descuentos corporativos con institutos y universidades)\u003c/li\u003e \u003cli\u003eCapacitaciones pagadas de 18 días (S/ 40 por día).\u003c/li\u003e \u003cli\u003eLínea de carrera y capacitación constante.\u003c/li\u003e \u003cli\u003eBuen clima laboral y entrenamiento continuo\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Promovemos el empleo formal, brindando trabajo a más personas!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118513112",
+    "clave":  "id:1118513112",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/impulsador-de-ventas-tacna-y-moquegua-adecco-peru-s.a.-1118513112.html",
+                   "capturadoEn":  "2026-11-07T20:52:29+00:00"
+               },
+    "titulo":  "Impulsador de ventas - Tacna y Moquegua",
+    "empresa":  "ADECCO PERU S.A.",
+    "ubicacion":  "Tacna",
+    "ciudad":  "Tacna",
+    "region":  "Tacna",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Impulsador de ventas – Adecco Perú - TACNA Y MOQUEGUA ¿Quiénes somos? : Adecco es una empresa líder a nivel mundial en soluciones de Recursos Humanos, especializada en reclutamiento, selección y gestión del talento. Funciones: Promover e impulsar equipos celulares y ofertas de planes telefónicos Mantener los módulos en orden y limpio Mantenerse informado de las características más resaltantes de los planes telefónicos, servicios fijos y así generar una adecuada venta. Requisitos: Persona dinámica, proactiva, QUE SEPA VENDER Y TENGA TRATO AL CLIENTE. Buenas habilidades de comunicación y negociación. Beneficios: Ingreso a planilla desde el primer día. Todos los beneficios de ley al 100% SI ESTAS INTERESADO Y QUIERES QUE TU PROCESO SEA MAS ÁGIL, MANDA TU CV AL NUMERO 967 092 893",
+    "requisitos":  [
+                       "Persona dinámica, proactiva, QUE SEPA VENDER Y TENGA TRATO AL CLIENTE",
+                       "Buenas habilidades de comunicación y negociación"
+                   ],
+    "funciones":  [
+                      "Promover e impulsar equipos celulares y ofertas de planes telefónicos",
+                      "Mantener los módulos en orden y limpio",
+                      "Mantenerse informado de las características más resaltantes de los planes telefónicos, servicios fijos y así generar una adecuada venta"
+                  ],
+    "beneficios":  [
+                       "de ley al 100%",
+                       "SI ESTAS INTERESADO Y QUIERES QUE TU PROCESO SEA MAS ÁGIL, MANDA TU CV AL NUMERO 967 092 893"
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/impulsador-de-ventas-tacna-y-moquegua-adecco-peru-s.a.-1118513112.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/impulsador-de-ventas-tacna-y-moquegua-adecco-peru-s.a.-1118513112.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eImpulsador de ventas – Adecco Perú - TACNA Y MOQUEGUA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cem\u003e¿Quiénes somos? \u003c/em\u003e\u003c/u\u003e\u003cu\u003e:\u003c/u\u003e Adecco es una empresa líder a nivel mundial en soluciones de Recursos Humanos, especializada en reclutamiento, selección y gestión del talento.\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cem\u003eFunciones:\u003c/em\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePromover e impulsar equipos celulares y ofertas de planes telefónicos\u003c/li\u003e \u003cli\u003eMantener los módulos en orden y limpio\u003c/li\u003e \u003cli\u003eMantenerse informado de las características más resaltantes de los planes telefónicos, servicios fijos y así generar una adecuada venta.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cem\u003eRequisitos:\u003c/em\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePersona dinámica, proactiva, \u003cstrong\u003eQUE SEPA VENDER Y TENGA TRATO AL CLIENTE.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación y negociación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cem\u003eBeneficios:\u003c/em\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla desde el primer día.\u003c/li\u003e \u003cli\u003eTodos los beneficios de ley al 100%\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSI ESTAS INTERESADO Y QUIERES QUE TU PROCESO SEA MAS ÁGIL, MANDA TU CV AL NUMERO 967 092 893\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
