@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118513127",
+    "clave":  "id:1118513127",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-limpieza-1600-callao-adecco-peru-s.a.-1118513127.html",
+                   "capturadoEn":  "2026-11-07T16:26:10+00:00"
+               },
+    "titulo":  "Operario de limpieza 1600 Callao",
+    "empresa":  "ADECCO PERU S.A.",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1380,
+                    "max":  1380,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,380",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Imporatne empresa del secotr industrial busca ayudantes de limpieza para su planta de producción en el Callao. Se requiere experiencia mínima de 3 meses en limpieza y disponibilidad para turnos rotativos de 8 horas. Ofrecemos sueldo de S/ 1,380 - 1600 , ingreso a planilla desde el primer día, alimentación cubierta al 100% y utilidades de 5 a 6 sueldos, con todos los beneficios de ley. Únete a la familia Paraíso y forma parte de nuestra línea de carrera. Formación Experiencia mínima de 3 meses en limpieza. Disponibilidad para laborar turnos rotativos de 8 horas. Disponibilidad para laborar en el Callao.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley. Únete a la familia Paraíso y forma parte de nuestra línea de carrera",
+                       "Formación",
+                       "Experiencia mínima de 3 meses en limpieza",
+                       "Disponibilidad para laborar turnos rotativos de 8 horas",
+                       "Disponibilidad para laborar en el Callao"
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-limpieza-1600-callao-adecco-peru-s.a.-1118513127.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-limpieza-1600-callao-adecco-peru-s.a.-1118513127.html",
+    "descripcion_html":  "\u003cp\u003eImporatne empresa del secotr industrial busca ayudantes de limpieza para su planta de producción en el Callao. Se requiere experiencia mínima de 3 meses en limpieza y disponibilidad para turnos rotativos de 8 horas.\u003c/p\u003e\u003cp\u003eOfrecemos sueldo de S/ 1,380 - 1600 , ingreso a planilla desde el primer día, alimentación cubierta al 100% y utilidades de 5 a 6 sueldos, con todos los beneficios de ley. Únete a la familia Paraíso y forma parte de nuestra línea de carrera.\u003c/p\u003e\u003cp\u003eFormación\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 3 meses en limpieza.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar turnos rotativos de 8 horas.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en el Callao.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

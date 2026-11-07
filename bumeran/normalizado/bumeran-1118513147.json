@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513147",
+    "clave":  "id:1118513147",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/abogado-junior-aboga-1118513147.html",
+                   "capturadoEn":  "2026-11-07T16:25:55+00:00"
+               },
+    "titulo":  "Abogado Junior",
+    "empresa":  "ABOGA",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Abogado Junior Resumen del Puesto Buscamos un Abogado Junior proactivo y con excelentes habilidades de comunicación y redacción para integrarse a nuestro equipo. El candidato ideal poseerá una sólida formación académica y la capacidad de desenvolverse con destreza en el ámbito legal. Responsabilidades Asistir en la preparación de documentos legales y contratos. Realizar investigaciones jurídicas y análisis de casos. Colaborar con abogados senior en diversas áreas del derecho. Mantener una comunicación fluida y efectiva con clientes y colegas. Garantizar la correcta redacción y presentación de escritos legales. Requisitos Título universitario en Derecho. Colegiatura y habilitación profesional vigentes. Sólidas habilidades de comunicación oral y escrita. Capacidad para la investigación y el análisis jurídico. Proactividad, organización y atención al detalle. Habilidad para trabajar en equipo y bajo presión.",
+    "requisitos":  [
+                       "Título universitario en Derecho",
+                       "Colegiatura y habilitación profesional vigentes",
+                       "Sólidas habilidades de comunicación oral y escrita",
+                       "Capacidad para la investigación y el análisis jurídico",
+                       "Proactividad, organización y atención al detalle",
+                       "Habilidad para trabajar en equipo y bajo presión"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/abogado-junior-aboga-1118513147.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/abogado-junior-aboga-1118513147.html",
+    "descripcion_html":  "\u003cb\u003eAbogado Junior\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAbogado Junior\u003c/b\u003e proactivo y con excelentes habilidades de comunicación y redacción para integrarse a nuestro equipo. El candidato ideal poseerá una sólida formación académica y la capacidad de desenvolverse con destreza en el ámbito legal.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en la preparación de documentos legales y contratos.\u003c/li\u003e \u003cli\u003eRealizar investigaciones jurídicas y análisis de casos.\u003c/li\u003e \u003cli\u003eColaborar con abogados senior en diversas áreas del derecho.\u003c/li\u003e \u003cli\u003eMantener una comunicación fluida y efectiva con clientes y colegas.\u003c/li\u003e \u003cli\u003eGarantizar la correcta redacción y presentación de escritos legales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Derecho.\u003c/li\u003e \u003cli\u003eColegiatura y habilitación profesional vigentes.\u003c/li\u003e \u003cli\u003eSólidas habilidades de comunicación oral y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para la investigación y el análisis jurídico.\u003c/li\u003e \u003cli\u003eProactividad, organización y atención al detalle.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y bajo presión.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

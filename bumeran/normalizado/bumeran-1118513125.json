@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513125",
+    "clave":  "id:1118513125",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-dental-impacto-dental-s.a.c.-1118513125.html",
+                   "capturadoEn":  "2026-11-07T16:26:11+00:00"
+               },
+    "titulo":  "Auxiliar Dental",
+    "empresa":  "IMPACTO DENTAL S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar Dental Resumen del Puesto Buscamos un Auxiliar Dental proactivo y organizado para brindar soporte en el área de atención odontológica. El candidato ideal será responsable de mantener la higiene y el orden del consultorio, así como de preparar el instrumental y las unidades dentales para la atención de pacientes. Responsabilidades Colaborar en la esterilización y desinfección del instrumental y equipos. Mantener la limpieza y el orden general del consultorio dental. Preparar la unidad dental para cada paciente, asegurando la disponibilidad y el correcto estado del instrumental. Asistir en la gestión de materiales e insumos del consultorio. Cumplir con los protocolos de bioseguridad establecidos. Requisitos Formación o experiencia previa en el área dental o de asistencia. Conocimiento de técnicas de esterilización y desinfección. Capacidad para seguir instrucciones y protocolos de trabajo. Atención al detalle y compromiso con la higiene y el orden. Habilidad para trabajar en equipo y mantener una comunicación fluida. Actitud proactiva y disposición para aprender.",
+    "requisitos":  [
+                       "Formación o experiencia previa en el área dental o de asistencia",
+                       "Conocimiento de técnicas de esterilización y desinfección",
+                       "Capacidad para seguir instrucciones y protocolos de trabajo",
+                       "Atención al detalle y compromiso con la higiene y el orden",
+                       "Habilidad para trabajar en equipo y mantener una comunicación fluida",
+                       "Actitud proactiva y disposición para aprender"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-dental-impacto-dental-s.a.c.-1118513125.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-dental-impacto-dental-s.a.c.-1118513125.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar Dental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAuxiliar Dental\u003c/b\u003e proactivo y organizado para brindar soporte en el área de atención odontológica. El candidato ideal será responsable de mantener la higiene y el orden del consultorio, así como de preparar el instrumental y las unidades dentales para la atención de pacientes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la esterilización y desinfección del instrumental y equipos.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden general del consultorio dental.\u003c/li\u003e \u003cli\u003ePreparar la unidad dental para cada paciente, asegurando la disponibilidad y el correcto estado del instrumental.\u003c/li\u003e \u003cli\u003eAsistir en la gestión de materiales e insumos del consultorio.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de bioseguridad establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación o experiencia previa en el área dental o de asistencia.\u003c/li\u003e \u003cli\u003eConocimiento de técnicas de esterilización y desinfección.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y protocolos de trabajo.\u003c/li\u003e \u003cli\u003eAtención al detalle y compromiso con la higiene y el orden.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y mantener una comunicación fluida.\u003c/li\u003e \u003cli\u003eActitud proactiva y disposición para aprender.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
