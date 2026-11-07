@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118511396",
+    "clave":  "id:1118511396",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-almacen-informatica-dataplus-sac-1118511396.html",
+                   "capturadoEn":  "2026-11-07T02:47:26+00:00"
+               },
+    "titulo":  "Ayudante de Almacén",
+    "empresa":  "INFORMATICA DATAPLUS SAC",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1350,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,350 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Almacén Resumen del Puesto Estamos en la búsqueda de un Ayudante de Almacén proactivo y organizado para integrarse a nuestro equipo. La persona seleccionada será responsable de las tareas de embalaje, traslado y despacho de pedidos, asegurando la eficiencia y el cumplimiento de los objetivos. Responsabilidades Realizar el embalaje adecuado de los productos para su envío. Trasladar la mercadería dentro del área de almacén. Preparar y despachar los pedidos según las indicaciones recibidas. Mantener el orden y la limpieza del espacio de trabajo. Colaborar en el cumplimiento de las metas de producción y despacho. Requisitos Experiencia previa en tareas de almacén, embalaje o logística (no excluyente). Capacidad para seguir instrucciones y trabajar de manera metódica. Habilidad para trabajar en equipo y mantener una actitud positiva. Disponibilidad para realizar tareas de esfuerzo físico moderado. Se valorará la proactividad y el compromiso con las tareas asignadas.",
+    "requisitos":  [
+                       "Experiencia previa en tareas de almacén, embalaje o logística (no excluyente)",
+                       "Capacidad para seguir instrucciones y trabajar de manera metódica",
+                       "Habilidad para trabajar en equipo y mantener una actitud positiva",
+                       "Disponibilidad para realizar tareas de esfuerzo físico moderado",
+                       "Se valorará la proactividad y el compromiso con las tareas asignadas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-05",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-almacen-informatica-dataplus-sac-1118511396.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-almacen-informatica-dataplus-sac-1118511396.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Almacén\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAyudante de Almacén\u003c/b\u003e proactivo y organizado para integrarse a nuestro equipo. La persona seleccionada será responsable de las tareas de embalaje, traslado y despacho de pedidos, asegurando la eficiencia y el cumplimiento de los objetivos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el embalaje adecuado de los productos para su envío.\u003c/li\u003e \u003cli\u003eTrasladar la mercadería dentro del área de almacén.\u003c/li\u003e \u003cli\u003ePreparar y despachar los pedidos según las indicaciones recibidas.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del espacio de trabajo.\u003c/li\u003e \u003cli\u003eColaborar en el cumplimiento de las metas de producción y despacho.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en tareas de almacén, embalaje o logística (no excluyente).\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y trabajar de manera metódica.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y mantener una actitud positiva.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar tareas de esfuerzo físico moderado.\u003c/li\u003e \u003cli\u003eSe valorará la proactividad y el compromiso con las tareas asignadas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "05/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
