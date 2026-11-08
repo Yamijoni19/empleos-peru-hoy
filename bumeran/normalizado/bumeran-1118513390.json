@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513390",
+    "clave":  "id:1118513390",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-lavado-de-vehiculos-ravel-motors-sac-1118513390.html",
+                   "capturadoEn":  "2026-11-08T15:11:38+00:00"
+               },
+    "titulo":  "Operario de Lavado de Vehículos",
+    "empresa":  "Ravel Motors SAC",
+    "ubicacion":  "Lima - Comas",
+    "ciudad":  "Comas",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Lavado de Vehículos Resumen del Puesto Estamos en la búsqueda de un Operario de Lavado de Vehículos con experiencia y dedicación para unirse a nuestro equipo. El candidato ideal será responsable de asegurar la limpieza y presentación impecable de motocicletas y automóviles, manteniendo altos estándares de calidad en cada servicio. Responsabilidades Realizar el lavado y secado de motocicletas y automóviles. Aplicar productos de limpieza y detallado de manera efectiva. Asegurar la correcta manipulación de equipos y materiales de limpieza. Mantener el área de trabajo limpia y organizada. Colaborar con el equipo para optimizar los tiempos de servicio. Verificar la satisfacción del cliente con el servicio prestado. Requisitos Experiencia previa en lavado de vehículos (motocicletas y automóviles). Conocimiento de técnicas y productos de limpieza automotriz. Atención al detalle y compromiso con la calidad. Capacidad para trabajar de forma eficiente y autónoma. Habilidad para seguir instrucciones y procedimientos establecidos. Actitud proactiva y disposición para el trabajo en equipo.",
+    "requisitos":  [
+                       "Experiencia previa en lavado de vehículos (motocicletas y automóviles)",
+                       "Conocimiento de técnicas y productos de limpieza automotriz",
+                       "Atención al detalle y compromiso con la calidad",
+                       "Capacidad para trabajar de forma eficiente y autónoma",
+                       "Habilidad para seguir instrucciones y procedimientos establecidos",
+                       "Actitud proactiva y disposición para el trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-lavado-de-vehiculos-ravel-motors-sac-1118513390.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-lavado-de-vehiculos-ravel-motors-sac-1118513390.html",
+    "descripcion_html":  "\u003cb\u003eOperario de Lavado de Vehículos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eOperario de Lavado de Vehículos\u003c/b\u003e con experiencia y dedicación para unirse a nuestro equipo. El candidato ideal será responsable de asegurar la limpieza y presentación impecable de motocicletas y automóviles, manteniendo altos estándares de calidad en cada servicio.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el lavado y secado de motocicletas y automóviles.\u003c/li\u003e \u003cli\u003eAplicar productos de limpieza y detallado de manera efectiva.\u003c/li\u003e \u003cli\u003eAsegurar la correcta manipulación de equipos y materiales de limpieza.\u003c/li\u003e \u003cli\u003eMantener el área de trabajo limpia y organizada.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para optimizar los tiempos de servicio.\u003c/li\u003e \u003cli\u003eVerificar la satisfacción del cliente con el servicio prestado.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en lavado de vehículos (motocicletas y automóviles).\u003c/li\u003e \u003cli\u003eConocimiento de técnicas y productos de limpieza automotriz.\u003c/li\u003e \u003cli\u003eAtención al detalle y compromiso con la calidad.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma eficiente y autónoma.\u003c/li\u003e \u003cli\u003eHabilidad para seguir instrucciones y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eActitud proactiva y disposición para el trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

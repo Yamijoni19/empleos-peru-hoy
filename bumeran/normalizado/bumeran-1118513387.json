@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513387",
+    "clave":  "id:1118513387",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-ravel-motors-sac-1118513387.html",
+                   "capturadoEn":  "2026-11-08T15:11:39+00:00"
+               },
+    "titulo":  "Asesor Comercial",
+    "empresa":  "Ravel Motors SAC",
+    "ubicacion":  "Lima - Comas",
+    "ciudad":  "Comas",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  4000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 4,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Comercial Resumen del Puesto Buscamos un Asesor Comercial proactivo y con gran capacidad de persuasión para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas y un fuerte interés en el sector de vehículos motorizados, demostrando habilidades para identificar y satisfacer las necesidades de los clientes. Responsabilidades Atender y asesorar a los clientes sobre nuestros productos. Identificar las necesidades de los clientes y ofrecer soluciones adecuadas. Gestionar el proceso de venta desde el primer contacto hasta el cierre. Realizar seguimiento a clientes potenciales y existentes. Cumplir con los objetivos de venta establecidos. Mantenerse actualizado sobre las características y beneficios de los productos. Requisitos Experiencia previa en roles de ventas, preferiblemente en el sector automotriz o de vehículos. Excelentes habilidades de comunicación, negociación y cierre de ventas. Orientación a resultados y al logro de objetivos. Capacidad para trabajar de forma autónoma y en equipo. Actitud positiva y proactiva. Conocimiento del mercado de vehículos motorizados es un plus.",
+    "requisitos":  [
+                       "Experiencia previa en roles de ventas, preferiblemente en el sector automotriz o de vehículos",
+                       "Excelentes habilidades de comunicación, negociación y cierre de ventas",
+                       "Orientación a resultados y al logro de objetivos",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Actitud positiva y proactiva",
+                       "Conocimiento del mercado de vehículos motorizados es un plus"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de los productos"
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-ravel-motors-sac-1118513387.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-ravel-motors-sac-1118513387.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsesor Comercial\u003c/b\u003e proactivo y con gran capacidad de persuasión para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas y un fuerte interés en el sector de vehículos motorizados, demostrando habilidades para identificar y satisfacer las necesidades de los clientes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y asesorar a los clientes sobre nuestros productos.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades de los clientes y ofrecer soluciones adecuadas.\u003c/li\u003e \u003cli\u003eGestionar el proceso de venta desde el primer contacto hasta el cierre.\u003c/li\u003e \u003cli\u003eRealizar seguimiento a clientes potenciales y existentes.\u003c/li\u003e \u003cli\u003eCumplir con los objetivos de venta establecidos.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las características y beneficios de los productos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de ventas, preferiblemente en el sector automotriz o de vehículos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, negociación y cierre de ventas.\u003c/li\u003e \u003cli\u003eOrientación a resultados y al logro de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eActitud positiva y proactiva.\u003c/li\u003e \u003cli\u003eConocimiento del mercado de vehículos motorizados es un plus.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

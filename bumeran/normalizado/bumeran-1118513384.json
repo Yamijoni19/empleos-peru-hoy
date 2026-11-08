@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513384",
+    "clave":  "id:1118513384",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-y-logistica-jas-innovacion-y-proyectos-mineros-1118513384.html",
+                   "capturadoEn":  "2026-11-08T15:11:41+00:00"
+               },
+    "titulo":  "asistente contable y logistica",
+    "empresa":  "JAS INNOVACION Y PROYECTOS MINEROS",
+    "ubicacion":  "Arequipa - Cerro Colorado",
+    "ciudad":  "Cerro Colorado",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Brindar soporte básico en tareas contables, asegurando la correcta gestión y control de almacenes. Requisitos: Control de inventarios y órdenes de compra. control de estados de flujo de caja y caja chica. Gestión y depósito de viáticos al personal. Coordinación con áreas de logística, operaciones y movilidad. Control documental y archivo contable. Elaboración de reportes financieros semanales/mensuales. Apoyo en procesos de reclutamiento y selección de personal.",
+    "requisitos":  [
+                       "Control de inventarios y órdenes de compra",
+                       "control de estados de flujo de caja y caja chica",
+                       "Gestión y depósito de viáticos al personal",
+                       "Coordinación con áreas de logística, operaciones y movilidad",
+                       "Control documental y archivo contable",
+                       "Elaboración de reportes financieros semanales/mensuales",
+                       "Apoyo en procesos de reclutamiento y selección de personal"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-y-logistica-jas-innovacion-y-proyectos-mineros-1118513384.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-y-logistica-jas-innovacion-y-proyectos-mineros-1118513384.html",
+    "descripcion_html":  "\u003cp\u003eBrindar soporte básico en tareas contables, asegurando la correcta gestión y control de almacenes.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003e Control de inventarios y órdenes de compra.\u003c/li\u003e \u003cli\u003e control de estados de flujo de caja y caja chica.\u003c/li\u003e \u003cli\u003e Gestión y depósito de viáticos al personal.\u003c/li\u003e \u003cli\u003e Coordinación con áreas de logística, operaciones y movilidad.\u003c/li\u003e \u003cli\u003e Control documental y archivo contable.\u003c/li\u003e \u003cli\u003e Elaboración de reportes financieros semanales/mensuales.\u003c/li\u003e \u003cli\u003e Apoyo en procesos de reclutamiento y selección de personal.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

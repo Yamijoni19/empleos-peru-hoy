@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513385",
+    "clave":  "id:1118513385",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/desarrollador-junior-por-proyecto-servitek-consulting-1118513385.html",
+                   "capturadoEn":  "2026-11-08T15:11:42+00:00"
+               },
+    "titulo":  "Desarrollador Junior (Por Proyecto)",
+    "empresa":  "SERVITEK CONSULTING",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Desarrollador Junior (Por Proyecto) Resumen del Puesto Buscamos un/a Desarrollador/a Junior con gran potencial y ganas de aprender para unirse a nuestro equipo en proyectos tecnológicos. El rol implica brindar soporte en codificación, pruebas e integración de componentes de software, con un enfoque en el aprendizaje de SAP. Responsabilidades Principales Desarrollo y ajuste de programas, interfaces y reportes de acuerdo a especificaciones técnicas. Ejecución de pruebas unitarias y validación de componentes de software. Elaboración y entrega de documentación técnica de los desarrollos. Atención, diagnóstico y corrección de incidencias técnicas. Requisitos Experiencia previa en desarrollo de software. Conocimientos en codificación, pruebas e integración de software. Interés y disposición para aprender sobre SAP. Capacidad para trabajar de forma independiente y gestionar entregas. Habilidades de resolución de problemas y atención al detalle. Buenas habilidades de comunicación.",
+    "requisitos":  [
+                       "Experiencia previa en desarrollo de software",
+                       "Conocimientos en codificación, pruebas e integración de software",
+                       "Interés y disposición para aprender sobre SAP",
+                       "Capacidad para trabajar de forma independiente y gestionar entregas",
+                       "Habilidades de resolución de problemas y atención al detalle",
+                       "Buenas habilidades de comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/desarrollador-junior-por-proyecto-servitek-consulting-1118513385.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/desarrollador-junior-por-proyecto-servitek-consulting-1118513385.html",
+    "descripcion_html":  "\u003cb\u003eDesarrollador Junior (Por Proyecto)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eDesarrollador/a Junior\u003c/b\u003e con gran potencial y ganas de aprender para unirse a nuestro equipo en proyectos tecnológicos. El rol implica brindar soporte en codificación, pruebas e integración de componentes de software, con un enfoque en el aprendizaje de SAP.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollo y ajuste de programas, interfaces y reportes de acuerdo a especificaciones técnicas.\u003c/li\u003e \u003cli\u003eEjecución de pruebas unitarias y validación de componentes de software.\u003c/li\u003e \u003cli\u003eElaboración y entrega de documentación técnica de los desarrollos.\u003c/li\u003e \u003cli\u003eAtención, diagnóstico y corrección de incidencias técnicas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en desarrollo de software.\u003c/li\u003e \u003cli\u003eConocimientos en codificación, pruebas e integración de software.\u003c/li\u003e \u003cli\u003eInterés y disposición para aprender sobre SAP.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y gestionar entregas.\u003c/li\u003e \u003cli\u003eHabilidades de resolución de problemas y atención al detalle.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
