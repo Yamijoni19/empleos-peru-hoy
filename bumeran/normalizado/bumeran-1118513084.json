@@ -1,0 +1,99 @@
+{
+    "id":  "bumeran-1118513084",
+    "clave":  "id:1118513084",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-de-soporte-ti-n2-grupo-electrodata-sac-1118513084.html",
+                   "capturadoEn":  "2026-11-08T00:35:24+00:00"
+               },
+    "titulo":  "ESPECIALISTA DE SOPORTE TI N2",
+    "empresa":  "GRUPO ELECTRODATA SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "Temporal",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/. 1,230",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "En Grupo Electrodata, desarrollamos soluciones eficientes e innovadoras en tecnología de la información y comunicaciones, buscando ser reconocidos como socios estratégicos de nuestros clientes a través de un servicio personalizado y especializado. Se requiere incorporar a un ESPECIALISTA DE SOPORTE TI N2 con el siguiente perfil: Requisitos: Deseable Bachiller o titulado en Ingeniería de Sistemas, Ingeniería Electrónica, Industrial o carreras afines. Mínimo 8 años en soporte técnico de segundo nivel. Conocimiento en fundamentos ITIL. Conocimientos de productos Microsoft (Office, Project, Windows) Conocimientos de comunicaciones. Conocimiento de equipo de cómputo en general Disponibilidad para trabajar presencialmente en San Borja. Experiencia en: Soporte y atención prioritaria a usuarios Super VIP y VIP. Gestión y seguimiento de incidentes y requerimientos críticos. Gestión de problemas y análisis de causa raíz (RCA). Coordinación, escalamiento y seguimiento de casos con proveedores. Soporte técnico de hardware, software, sistemas operativos y aplicaciones. Manejo de herramientas ITSM y conocimientos de ITIL. Funciones: Resolver incidencias y solicitudes de nivel 2 (N2) relacionadas con hardware, software, redes, accesos y periféricos del usuario final. Priorizar y dar seguimiento continuo a la atención de usuarios VIP/Super VIP e incidentes críticos, cumpliendo estrictamente con los SLA establecidos. Analizar y solucionar casos escalados por N1 , aplicando soluciones definitivas o temporales, y derivar a terceros o proveedores lo que exceda su alcance. Investigar la causa raíz (RCA) de fallas críticas o repetitivas, especialmente en usuarios Super VIP, para implementar mejoras preventivas y correctivas. Garantizar la actualización y mantenimiento mensual de los equipos mediante parches de seguridad, optimización de BIOS, drivers y revisiones periódicas a VIPs. Administrar el stock de contingencia , preparando, configurando y recuperando dispositivos (laptops, iPhones, periféricos) para asegurar la continuidad operativa de los VIPs. Gestionar ingresos de personal VIP y ceses confidenciales , configurando perfiles, accesos y herramientas según los protocolos de seguridad vigentes. Monitorear y dar soporte en consolas de seguridad (como Absolute), atendiendo alertas técnicas y coordinando acciones correctivas entre los distintos niveles. Controlar el ciclo de vida de los activos de TI en Lima, registrando marcas, series, contratos, asignaciones y movimientos en coordinación con el Gestor de Inventario. Supervisar los almacenes de TI en sedes , validando junto al Gestor de Inventario los accesos, ingresos, salidas y el orden de los dispositivos almacenados. Hacer seguimiento a garantías y reparaciones de hardware , coordinando con proveedores y el Gestor de Inventario para que los equipos retornen operativos a tiempo. Documentar detalladamente cada ticket en la plataforma de gestión, registrando diagnósticos, evidencias, soluciones y escalamientos bajo las normas del SLA. Instalar y configurar herramientas corporativas , periféricos y aplicaciones autorizadas, asegurando que cumplan con los estándares técnicos del cliente. Beneficios: EPS cubierto al 100% en plan base para el titular y un derechohabiente Seguro Oncològico Vida Ley y SCTR desde el primer dìa Oportunidad de crecimiento Buen ambiente laboral",
+    "requisitos":  [
+                       "Deseable Bachiller o titulado en Ingeniería de Sistemas, Ingeniería Electrónica, Industrial o carreras afines",
+                       "Mínimo 8 años en soporte técnico de segundo nivel",
+                       "Conocimiento en fundamentos ITIL",
+                       "Conocimientos de productos Microsoft (Office, Project, Windows)",
+                       "Conocimientos de comunicaciones",
+                       "Conocimiento de equipo de cómputo en general",
+                       "Disponibilidad para trabajar presencialmente en San Borja",
+                       "Experiencia en",
+                       "Soporte y atención prioritaria a usuarios Super VIP y VIP",
+                       "Gestión y seguimiento de incidentes y requerimientos críticos",
+                       "Gestión de problemas y análisis de causa raíz (RCA)",
+                       "Coordinación, escalamiento y seguimiento de casos con proveedores",
+                       "Soporte técnico de hardware, software, sistemas operativos y aplicaciones",
+                       "Manejo de herramientas ITSM y conocimientos de ITIL"
+                   ],
+    "funciones":  [
+                      "Resolver incidencias y solicitudes de nivel 2 (N2) relacionadas con hardware, software, redes, accesos y periféricos del usuario final",
+                      "Priorizar y dar seguimiento continuo a la atención de usuarios VIP/Super VIP e incidentes críticos, cumpliendo estrictamente con los SLA establecidos",
+                      "Analizar y solucionar casos escalados por N1, aplicando soluciones definitivas o temporales, y derivar a terceros o proveedores lo que exceda su alcance",
+                      "Investigar la causa raíz (RCA) de fallas críticas o repetitivas, especialmente en usuarios Super VIP, para implementar mejoras preventivas y correctivas",
+                      "Garantizar la actualización y mantenimiento mensual de los equipos mediante parches de seguridad, optimización de BIOS, drivers y revisiones periódicas a VIPs",
+                      "Administrar el stock de contingencia, preparando, configurando y recuperando dispositivos (laptops, iPhones, periféricos) para asegurar la continuidad operativa de los VIPs",
+                      "Gestionar ingresos de personal VIP y ceses confidenciales, configurando perfiles, accesos y herramientas según los protocolos de seguridad vigentes",
+                      "Monitorear y dar soporte en consolas de seguridad (como Absolute), atendiendo alertas técnicas y coordinando acciones correctivas entre los distintos niveles",
+                      "Controlar el ciclo de vida de los activos de TI en Lima, registrando marcas, series, contratos, asignaciones y movimientos en coordinación con el Gestor de Inventario",
+                      "Supervisar los almacenes de TI en sedes, validando junto al Gestor de Inventario los accesos, ingresos, salidas y el orden de los dispositivos almacenados",
+                      "Hacer seguimiento a garantías y reparaciones de hardware, coordinando con proveedores y el Gestor de Inventario para que los equipos retornen operativos a tiempo",
+                      "Documentar detalladamente cada ticket en la plataforma de gestión, registrando diagnósticos, evidencias, soluciones y escalamientos bajo las normas del SLA",
+                      "Instalar y configurar herramientas corporativas, periféricos y aplicaciones autorizadas, asegurando que cumplan con los estándares técnicos del cliente"
+                  ],
+    "beneficios":  [
+                       "EPS cubierto al 100% en plan base para el titular y un derechohabiente",
+                       "Seguro Oncològico",
+                       "Vida Ley y SCTR desde el primer dìa",
+                       "Oportunidad de crecimiento",
+                       "Buen ambiente laboral"
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-de-soporte-ti-n2-grupo-electrodata-sac-1118513084.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-de-soporte-ti-n2-grupo-electrodata-sac-1118513084.html",
+    "descripcion_html":  "\u003cp\u003eEn Grupo Electrodata, desarrollamos soluciones eficientes e innovadoras en tecnología de la información y comunicaciones, buscando ser reconocidos como socios estratégicos de nuestros clientes a través de un servicio personalizado y especializado.\u003c/p\u003e\u003cp\u003eSe requiere incorporar a un \u003cstrong\u003eESPECIALISTA DE SOPORTE TI N2 \u003c/strong\u003econ el siguiente perfil:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDeseable Bachiller o titulado en Ingeniería de Sistemas, Ingeniería Electrónica, Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 8 años en soporte técnico de segundo nivel.\u003c/li\u003e \u003cli\u003eConocimiento en fundamentos ITIL.\u003c/li\u003e \u003cli\u003eConocimientos de productos Microsoft (Office, Project, Windows)\u003c/li\u003e \u003cli\u003eConocimientos de comunicaciones.\u003c/li\u003e \u003cli\u003eConocimiento de equipo de cómputo en general\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar presencialmente en San Borja.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia en:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSoporte y atención prioritaria a usuarios Super VIP y VIP.\u003c/li\u003e \u003cli\u003eGestión y seguimiento de incidentes y requerimientos críticos.\u003c/li\u003e \u003cli\u003eGestión de problemas y análisis de causa raíz (RCA).\u003c/li\u003e \u003cli\u003eCoordinación, escalamiento y seguimiento de casos con proveedores.\u003c/li\u003e \u003cli\u003eSoporte técnico de hardware, software, sistemas operativos y aplicaciones.\u003c/li\u003e \u003cli\u003eManejo de herramientas ITSM y conocimientos de ITIL.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eResolver incidencias y solicitudes de nivel 2 (N2)\u003c/strong\u003e relacionadas con hardware, software, redes, accesos y periféricos del usuario final.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003ePriorizar y dar seguimiento continuo\u003c/strong\u003e a la atención de usuarios VIP/Super VIP e incidentes críticos, cumpliendo estrictamente con los SLA establecidos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAnalizar y solucionar casos escalados por N1\u003c/strong\u003e, aplicando soluciones definitivas o temporales, y derivar a terceros o proveedores lo que exceda su alcance.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eInvestigar la causa raíz (RCA)\u003c/strong\u003e de fallas críticas o repetitivas, especialmente en usuarios Super VIP, para implementar mejoras preventivas y correctivas.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGarantizar la actualización y mantenimiento\u003c/strong\u003e mensual de los equipos mediante parches de seguridad, optimización de BIOS, drivers y revisiones periódicas a VIPs.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAdministrar el stock de contingencia\u003c/strong\u003e, preparando, configurando y recuperando dispositivos (laptops, iPhones, periféricos) para asegurar la continuidad operativa de los VIPs.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eGestionar ingresos de personal VIP y ceses confidenciales\u003c/strong\u003e, configurando perfiles, accesos y herramientas según los protocolos de seguridad vigentes.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eMonitorear y dar soporte en consolas de seguridad\u003c/strong\u003e (como Absolute), atendiendo alertas técnicas y coordinando acciones correctivas entre los distintos niveles.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eControlar el ciclo de vida de los activos de TI\u003c/strong\u003e en Lima, registrando marcas, series, contratos, asignaciones y movimientos en coordinación con el Gestor de Inventario.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSupervisar los almacenes de TI en sedes\u003c/strong\u003e, validando junto al Gestor de Inventario los accesos, ingresos, salidas y el orden de los dispositivos almacenados.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eHacer seguimiento a garantías y reparaciones de hardware\u003c/strong\u003e, coordinando con proveedores y el Gestor de Inventario para que los equipos retornen operativos a tiempo.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDocumentar detalladamente cada ticket\u003c/strong\u003e en la plataforma de gestión, registrando diagnósticos, evidencias, soluciones y escalamientos bajo las normas del SLA.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eInstalar y configurar herramientas corporativas\u003c/strong\u003e, periféricos y aplicaciones autorizadas, asegurando que cumplan con los estándares técnicos del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEPS cubierto al 100% en plan base para el titular y un derechohabiente\u003c/li\u003e \u003cli\u003eSeguro Oncològico\u003c/li\u003e \u003cli\u003eVida Ley y SCTR desde el primer dìa\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento\u003c/li\u003e \u003cli\u003eBuen ambiente laboral\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

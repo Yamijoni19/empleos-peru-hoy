@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118513093",
+    "clave":  "id:1118513093",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-qa-para-pruebas-de-calidad-en-ibm-mainframe-integration-quality-project-management-s.a.c.-iq-project-s.a.c.-1118513093.html",
+                   "capturadoEn":  "2026-11-08T00:35:13+00:00"
+               },
+    "titulo":  "ANALISTA QA PARA PRUEBAS DE CALIDAD EN IBM MAINFRAME",
+    "empresa":  "INTEGRATION \u0026 QUALITY PROJECT MANAGEMENT S.A.C. - IQ PROJECT S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "iQ Project se encuentra en búsqueda de un Analista QA para Pruebas de Calidad en IBM Mainframe , con experiencia en el sector bancario y aseguramiento de calidad de aplicaciones. REQUISITOS Profesional de Ingeniería de Sistemas, Informática o carreras afines. Experiencia en el sector bancario. Experiencia realizando pruebas de calidad en aplicaciones desarrolladas en IBM Mainframe (DB2, COBOL y JCL). Experiencia realizando consultas (queries) en IBM DB2. Conocimiento y experiencia en lenguaje Gherkin. Experiencia en preparación y ejecución de planes de pruebas. Experiencia utilizando Jira y Xray. Experiencia trabajando con metodologías ágiles (Scrum). CONDICIONES LABORALES Modalidad: Híbrida. Ubicación: Lima Metropolitana. Disponibilidad: Inmediata. POSTULACIÓN Si cumples con los requisitos y estás interesado en formar parte de nuestro equipo, postula aquí para participar en el proceso de selección. iQ Project | Oportunidades laborales en tecnología",
+    "requisitos":  [
+                       "y estás interesado en formar parte de nuestro equipo, postula aquí para participar en el proceso de selección",
+                       "iQ Project | Oportunidades laborales en tecnología"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-qa-para-pruebas-de-calidad-en-ibm-mainframe-integration-quality-project-management-s.a.c.-iq-project-s.a.c.-1118513093.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-qa-para-pruebas-de-calidad-en-ibm-mainframe-integration-quality-project-management-s.a.c.-iq-project-s.a.c.-1118513093.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eiQ Project se encuentra en búsqueda de un Analista QA para Pruebas de Calidad en IBM Mainframe\u003c/strong\u003e, con experiencia en el sector bancario y aseguramiento de calidad de aplicaciones.\u003c/p\u003e\u003cp\u003eREQUISITOS\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional de Ingeniería de Sistemas, Informática o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia en el sector bancario.\u003c/li\u003e \u003cli\u003eExperiencia realizando pruebas de calidad en aplicaciones desarrolladas en IBM Mainframe (DB2, COBOL y JCL).\u003c/li\u003e \u003cli\u003eExperiencia realizando consultas (queries) en IBM DB2.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en lenguaje Gherkin.\u003c/li\u003e \u003cli\u003eExperiencia en preparación y ejecución de planes de pruebas.\u003c/li\u003e \u003cli\u003eExperiencia utilizando Jira y Xray.\u003c/li\u003e \u003cli\u003eExperiencia trabajando con metodologías ágiles (Scrum).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCONDICIONES LABORALES\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eModalidad:\u003c/strong\u003e Híbrida.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eUbicación:\u003c/strong\u003e Lima Metropolitana.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDisponibilidad:\u003c/strong\u003e Inmediata.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003ePOSTULACIÓN\u003c/p\u003e\u003cp\u003eSi cumples con los requisitos y estás interesado en formar parte de nuestro equipo, postula aquí para participar en el proceso de selección.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eiQ Project | Oportunidades laborales en tecnología\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
