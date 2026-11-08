@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118513049",
+    "clave":  "id:1118513049",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-sector-minero-tecsup-1118513049.html",
+                   "capturadoEn":  "2026-11-08T07:19:16+00:00"
+               },
+    "titulo":  "Asistente Administrativo - Sector minero",
+    "empresa":  "TECSUP",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Tecsup , institución líder en educación tecnológica, cuenta con más de 40 años en el mercado formando profesionales innovadores y éticos. En esta oportunidad se busca un Asistente Administrativo con las siguientes características: Perfil Profesional: Egresado técnico Administración o carreras afines. Experiencia mínima de 4 años. Experiencia deseable de 1 año como Asistente Administrativo o puestos afines, de preferencia de proyectos. Funciones: Cumplir con las tareas asignada de acuerdo al proyecto asignado (mediante las herramientas asignadas y sistemasTecsup como SINS, SAPR, SCOM, Safety) y recomendar oportunidades de mejora durante la ejecución del proyecto. Coordinar el ingreso de los participantes de cursos a las capacitaciones ( revisión de solicitudes, aprobación de pagos y programación de cursos en el sistema). Coordinar la habilitación y apoyo logístico de traslados, alimentación y alojamiento a docentes para el caso de cursos presenciales in situ. Analizar, interpretar y evaluar de forma crítica datos e información relacionados a las funciones de su puesto para una optima toma de decisión. Importante considerar: Modalidad de trabajo: Teletrabajo Parcial Horario de trabajo: Lunes a Viernes de 8:00 a.m. a 06:30 p.m.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "de su puesto para una optima toma de decisión",
+                      "Importante considerar",
+                      "Modalidad de trabajo: Teletrabajo Parcial",
+                      "Horario de trabajo: Lunes a Viernes de 8:00 a.m. a 06:30 p.m"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-06",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-sector-minero-tecsup-1118513049.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-sector-minero-tecsup-1118513049.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eTecsup\u003c/strong\u003e, institución líder en educación tecnológica, cuenta con más de 40 años en el mercado formando profesionales innovadores y éticos.\u003c/p\u003e\u003cp\u003eEn esta oportunidad se busca un \u003cstrong\u003eAsistente Administrativo \u003c/strong\u003econ las siguientes características:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePerfil Profesional:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado técnico Administración o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 4 años.\u003c/li\u003e \u003cli\u003eExperiencia deseable de 1 año como Asistente Administrativo o puestos afines, de preferencia de proyectos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCumplir con las tareas asignada de acuerdo al proyecto asignado (mediante las herramientas asignadas y sistemasTecsup como SINS, SAPR, SCOM, Safety) y recomendar oportunidades de mejora durante la ejecución del proyecto.\u003c/li\u003e \u003cli\u003eCoordinar el ingreso de los participantes de cursos a las capacitaciones ( revisión de solicitudes, aprobación de pagos y programación de cursos en el sistema).\u003c/li\u003e \u003cli\u003eCoordinar la habilitación y apoyo logístico de traslados, alimentación y alojamiento a docentes para el caso de cursos presenciales in situ.\u003c/li\u003e \u003cli\u003eAnalizar, interpretar y evaluar de forma crítica datos e información relacionados a las funciones de su puesto para una optima toma de decisión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eImportante considerar:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad de trabajo: Teletrabajo Parcial\u003c/li\u003e \u003cli\u003eHorario de trabajo: Lunes a Viernes de 8:00 a.m. a 06:30 p.m.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 4 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "06/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
