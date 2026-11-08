@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118513336",
+    "clave":  "id:1118513336",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/subgerente-de-ti-ingles-avanzado-1118513336.html",
+                   "capturadoEn":  "2026-11-08T19:41:55+00:00"
+               },
+    "titulo":  "SUBGERENTE DE TI / INGLES AVANZADO",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¿Qué realizaras? Proponer e implementar mejoras en los sistemas digitales para optimizar la eficiencia operativa. Liderar proyectos de desarrollo de soluciones digitales e Inteligencia Artificial (IA), desde su conceptualización hasta su implementación. Coordinar equipos interdisciplinarios y proveedores para asegurar el cumplimiento de los proyectos. Supervisar pruebas piloto y asegurar la escalabilidad de las soluciones implementadas. Desarrollar algoritmos y modelos de IA aplicados a las necesidades del negocio. Integrar soluciones digitales y de IA en los sistemas de la organización. Asesorar a las diferentes áreas en temas de tecnología e Inteligencia Artificial. Asegurar el cumplimiento de las normativas legales, éticas y de privacidad de datos ¿Qué Buscamos? Profesional de Ingeniería de Sistemas, Informática u otras carreras profesionales afines. Deseable cursos de especialización en Gestión de Proyectos de TI o ITIL. Experiencia mínima de 05 años en el puesto. Experiencia mínima de 03 años en el desarrollo y control de calidad de software (Deseable). Inglés a nivel avanzado. Manejo de Ms Project a nivel avanzado. Manejo de Power BI, ITIL, SQL server, Azure y Cisco.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/subgerente-de-ti-ingles-avanzado-1118513336.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/subgerente-de-ti-ingles-avanzado-1118513336.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Qué realizaras?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProponer e implementar mejoras en los sistemas digitales para optimizar la eficiencia operativa.\u003c/li\u003e \u003cli\u003eLiderar proyectos de desarrollo de soluciones digitales e Inteligencia Artificial (IA), desde su conceptualización hasta su implementación.\u003c/li\u003e \u003cli\u003eCoordinar equipos interdisciplinarios y proveedores para asegurar el cumplimiento de los proyectos.\u003c/li\u003e \u003cli\u003eSupervisar pruebas piloto y asegurar la escalabilidad de las soluciones implementadas.\u003c/li\u003e \u003cli\u003eDesarrollar algoritmos y modelos de IA aplicados a las necesidades del negocio.\u003c/li\u003e \u003cli\u003eIntegrar soluciones digitales y de IA en los sistemas de la organización.\u003c/li\u003e \u003cli\u003eAsesorar a las diferentes áreas en temas de tecnología e Inteligencia Artificial.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las normativas legales, éticas y de privacidad de datos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué Buscamos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional de Ingeniería de Sistemas, Informática u otras carreras profesionales afines.\u003c/li\u003e \u003cli\u003eDeseable cursos de especialización en Gestión de Proyectos de TI o ITIL.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 05 años en el puesto.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 03 años en el desarrollo y control de calidad de software (Deseable).\u003c/li\u003e \u003cli\u003eInglés a nivel avanzado.\u003c/li\u003e \u003cli\u003eManejo de Ms Project a nivel avanzado.\u003c/li\u003e \u003cli\u003eManejo de Power BI, ITIL, SQL server, Azure y Cisco.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 05 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513359",
+    "clave":  "id:1118513359",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ejesa-sac-1118513359.html",
+                   "capturadoEn":  "2026-11-08T19:41:07+00:00"
+               },
+    "titulo":  "Asesor de Ventas",
+    "empresa":  "EJESA SAC",
+    "ubicacion":  "Lima - San Martín De Porres - Lima",
+    "ciudad":  "San Martín De Porres - Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor de Ventas Resumen del Puesto Buscamos un Asesor de Ventas proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal poseerá un alto sentido comercial, habilidades de persuasión y empatía, y una sólida experiencia en el cierre de ventas y la gestión de relaciones con clientes. Responsabilidades Realizar el cierre efectivo de ventas. Elaborar cotizaciones y propuestas comerciales. Llevar a cabo el seguimiento de clientes y mantener una comunicación continua. Brindar atención al público, tanto de forma presencial como en línea. Identificar oportunidades de negocio y contribuir al crecimiento comercial. Requisitos Experiencia mínima de 2 años en atención al público y ventas. Excelentes habilidades de comunicación a todo nivel. Personalidad extrovertida, empática y persuasiva. Alto sentido comercial y orientación a resultados. Capacidad para trabajar de forma organizada y metódica. Disponibilidad para cumplir con un horario de trabajo establecido.",
+    "requisitos":  [
+                       "Experiencia mínima de 2 años en atención al público y ventas",
+                       "Excelentes habilidades de comunicación a todo nivel",
+                       "Personalidad extrovertida, empática y persuasiva",
+                       "Alto sentido comercial y orientación a resultados",
+                       "Capacidad para trabajar de forma organizada y metódica",
+                       "Disponibilidad para cumplir con un horario de trabajo establecido"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ejesa-sac-1118513359.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-ejesa-sac-1118513359.html",
+    "descripcion_html":  "\u003cb\u003eAsesor de Ventas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsesor de Ventas\u003c/b\u003e proactivo y con gran capacidad de comunicación para unirse a nuestro equipo. El candidato ideal poseerá un alto sentido comercial, habilidades de persuasión y empatía, y una sólida experiencia en el cierre de ventas y la gestión de relaciones con clientes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el cierre efectivo de ventas.\u003c/li\u003e \u003cli\u003eElaborar cotizaciones y propuestas comerciales.\u003c/li\u003e \u003cli\u003eLlevar a cabo el seguimiento de clientes y mantener una comunicación continua.\u003c/li\u003e \u003cli\u003eBrindar atención al público, tanto de forma presencial como en línea.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de negocio y contribuir al crecimiento comercial.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 2 años en atención al público y ventas.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación a todo nivel.\u003c/li\u003e \u003cli\u003ePersonalidad extrovertida, empática y persuasiva.\u003c/li\u003e \u003cli\u003eAlto sentido comercial y orientación a resultados.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma organizada y metódica.\u003c/li\u003e \u003cli\u003eDisponibilidad para cumplir con un horario de trabajo establecido.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

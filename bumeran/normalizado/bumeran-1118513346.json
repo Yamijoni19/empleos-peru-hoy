@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118513346",
+    "clave":  "id:1118513346",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/meseroa--restaurante-oriental-1118513346.html",
+                   "capturadoEn":  "2026-11-08T19:41:29+00:00"
+               },
+    "titulo":  "Mesero(A) – Restaurante Oriental",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Santa Anita",
+    "ciudad":  "Santa Anita",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "PERFIL Secundaria completa. Experiencia en atención al cliente, toma de pedidos y servicio en salón. Conocimiento de buenas prácticas de atención e higiene. Disponibilidad para trabajar en Colectora, Santa Anita, en el horario de 11:00 a. m. a 11:30 p. m. FUNCIONES Recibir y atender cordialmente a los clientes. Presentar la carta y brindar información sobre los platos disponibles. Tomar y registrar los pedidos correctamente. Coordinar con cocina la preparación y entrega de los pedidos. Servir los alimentos y bebidas, verificando que los pedidos estén completos. Mantener limpias y ordenadas las mesas y el área de atención. Atender consultas y reclamos de los clientes de manera amable y oportuna. BENEFICIOS Remuneración acorde al mercado. Incorporación a un equipo de trabajo. Buen ambiente laboral.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Recibir y atender cordialmente a los clientes",
+                      "Presentar la carta y brindar información sobre los platos disponibles",
+                      "Tomar y registrar los pedidos correctamente",
+                      "Coordinar con cocina la preparación y entrega de los pedidos",
+                      "Servir los alimentos y bebidas, verificando que los pedidos estén completos",
+                      "Mantener limpias y ordenadas las mesas y el área de atención",
+                      "Atender consultas y reclamos de los clientes de manera amable y oportuna"
+                  ],
+    "beneficios":  [
+                       "Remuneración acorde al mercado",
+                       "Incorporación a un equipo de trabajo",
+                       "Buen ambiente laboral"
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/meseroa--restaurante-oriental-1118513346.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/meseroa--restaurante-oriental-1118513346.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePERFIL\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia en atención al cliente, toma de pedidos y servicio en salón.\u003c/li\u003e \u003cli\u003eConocimiento de buenas prácticas de atención e higiene.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en Colectora, Santa Anita, en el horario de 11:00 a. m. a 11:30 p. m.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecibir y atender cordialmente a los clientes.\u003c/li\u003e \u003cli\u003ePresentar la carta y brindar información sobre los platos disponibles.\u003c/li\u003e \u003cli\u003eTomar y registrar los pedidos correctamente.\u003c/li\u003e \u003cli\u003eCoordinar con cocina la preparación y entrega de los pedidos.\u003c/li\u003e \u003cli\u003eServir los alimentos y bebidas, verificando que los pedidos estén completos.\u003c/li\u003e \u003cli\u003eMantener limpias y ordenadas las mesas y el área de atención.\u003c/li\u003e \u003cli\u003eAtender consultas y reclamos de los clientes de manera amable y oportuna.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eIncorporación a un equipo de trabajo.\u003c/li\u003e \u003cli\u003eBuen ambiente laboral.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

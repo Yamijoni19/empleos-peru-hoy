@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513355",
+    "clave":  "id:1118513355",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-ejesa-sac-1118513355.html",
+                   "capturadoEn":  "2026-11-08T19:41:12+00:00"
+               },
+    "titulo":  "Asistente de Marketing Digital",
+    "empresa":  "EJESA SAC",
+    "ubicacion":  "Lima - San Martín De Porres - Lima",
+    "ciudad":  "San Martín De Porres - Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Marketing Digital Resumen del Puesto Buscamos un Asistente de Marketing Digital proactivo y creativo para unirse a nuestro equipo. El candidato ideal poseerá un agudo sentido comercial, habilidades excepcionales de comunicación y experiencia en la creación de contenido digital. Responsabilidades Crear contenido atractivo y relevante para diversas plataformas digitales. Capturar y editar material visual (fotografías y videos) de alta calidad. Actualizar y mantener catálogos de productos y materiales de marketing. Colaborar con el equipo para desarrollar e implementar estrategias de marketing digital. Monitorear y analizar el rendimiento de las campañas digitales. Mantener una comunicación fluida y efectiva a todos los niveles de la organización. Requisitos Experiencia demostrable en marketing digital y creación de contenido. Dominio de herramientas de fotografía y edición de video. Excelentes habilidades de redacción y comunicación. Capacidad para trabajar de forma autónoma y gestionar múltiples tareas. Fuerte sentido comercial y orientación a resultados. Conocimiento de las últimas tendencias en marketing digital.",
+    "requisitos":  [
+                       "Experiencia demostrable en marketing digital y creación de contenido",
+                       "Dominio de herramientas de fotografía y edición de video",
+                       "Excelentes habilidades de redacción y comunicación",
+                       "Capacidad para trabajar de forma autónoma y gestionar múltiples tareas",
+                       "Fuerte sentido comercial y orientación a resultados",
+                       "Conocimiento de las últimas tendencias en marketing digital"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-ejesa-sac-1118513355.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-ejesa-sac-1118513355.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Marketing Digital\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Marketing Digital\u003c/b\u003e proactivo y creativo para unirse a nuestro equipo. El candidato ideal poseerá un agudo sentido comercial, habilidades excepcionales de comunicación y experiencia en la creación de contenido digital.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003eCrear\u003c/b\u003e contenido atractivo y relevante para diversas plataformas digitales.\u003c/li\u003e \u003cli\u003e\u003cb\u003eCapturar\u003c/b\u003e y editar material visual (fotografías y videos) de alta calidad.\u003c/li\u003e \u003cli\u003e\u003cb\u003eActualizar\u003c/b\u003e y mantener catálogos de productos y materiales de marketing.\u003c/li\u003e \u003cli\u003e\u003cb\u003eColaborar\u003c/b\u003e con el equipo para desarrollar e implementar estrategias de marketing digital.\u003c/li\u003e \u003cli\u003e\u003cb\u003eMonitorear\u003c/b\u003e y analizar el rendimiento de las campañas digitales.\u003c/li\u003e \u003cli\u003e\u003cb\u003eMantener\u003c/b\u003e una comunicación fluida y efectiva a todos los niveles de la organización.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia demostrable en marketing digital y creación de contenido.\u003c/li\u003e \u003cli\u003eDominio de herramientas de fotografía y edición de video.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de redacción y comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y gestionar múltiples tareas.\u003c/li\u003e \u003cli\u003eFuerte sentido comercial y orientación a resultados.\u003c/li\u003e \u003cli\u003eConocimiento de las últimas tendencias en marketing digital.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
