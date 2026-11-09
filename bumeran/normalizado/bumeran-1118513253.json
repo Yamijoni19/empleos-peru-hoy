@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513253",
+    "clave":  "id:1118513253",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-gas-de-camisea-1118513253.html",
+                   "capturadoEn":  "2026-11-09T06:26:10+00:00"
+               },
+    "titulo":  "Médico Ocupacional",
+    "empresa":  "GAS DE CAMISEA",
+    "ubicacion":  "Cuzco - Cusco",
+    "ciudad":  "Cusco",
+    "region":  "Cuzco",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  160,
+                    "max":  161,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 160 - S/ 161",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Médico Ocupacional Resumen del Puesto Estamos en la búsqueda de un profesional médico con experiencia en salud ocupacional para integrarse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento de la normativa vigente y será capaz de promover un ambiente de trabajo seguro y saludable. Responsabilidades Realizar evaluaciones médicas pre-ocupacionales, periódicas y de egreso. Identificar y evaluar riesgos laborales en el lugar de trabajo. Diseñar e implementar programas de vigilancia médica y promoción de la salud. Asesorar sobre medidas preventivas y de control de enfermedades profesionales. Mantener actualizada la documentación médica y los registros de salud de los trabajadores. Colaborar con otros departamentos para asegurar el cumplimiento de las normativas de seguridad y salud. Requisitos Título de Médico Cirujano. Especialización o experiencia comprobada en Medicina del Trabajo o Salud Ocupacional. Conocimiento de la legislación y normativas de seguridad y salud laboral. Capacidad para el análisis de riesgos y la elaboración de planes de acción. Habilidades de comunicación y trabajo en equipo. Orientación a la prevención y promoción de la salud.",
+    "requisitos":  [
+                       "Título de Médico Cirujano",
+                       "Especialización o experiencia comprobada en Medicina del Trabajo o Salud Ocupacional",
+                       "Conocimiento de la legislación y normativas de seguridad y salud laboral",
+                       "Capacidad para el análisis de riesgos y la elaboración de planes de acción",
+                       "Habilidades de comunicación y trabajo en equipo",
+                       "Orientación a la prevención y promoción de la salud"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-gas-de-camisea-1118513253.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-ocupacional-gas-de-camisea-1118513253.html",
+    "descripcion_html":  "\u003cb\u003eMédico Ocupacional\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional médico con experiencia en salud ocupacional para integrarse a nuestro equipo. El candidato ideal poseerá un profundo conocimiento de la normativa vigente y será capaz de promover un ambiente de trabajo seguro y saludable.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar evaluaciones médicas pre-ocupacionales, periódicas y de egreso.\u003c/li\u003e \u003cli\u003eIdentificar y evaluar riesgos laborales en el lugar de trabajo.\u003c/li\u003e \u003cli\u003eDiseñar e implementar programas de vigilancia médica y promoción de la salud.\u003c/li\u003e \u003cli\u003eAsesorar sobre medidas preventivas y de control de enfermedades profesionales.\u003c/li\u003e \u003cli\u003eMantener actualizada la documentación médica y los registros de salud de los trabajadores.\u003c/li\u003e \u003cli\u003eColaborar con otros departamentos para asegurar el cumplimiento de las normativas de seguridad y salud.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Médico Cirujano.\u003c/li\u003e \u003cli\u003eEspecialización o experiencia comprobada en Medicina del Trabajo o Salud Ocupacional.\u003c/li\u003e \u003cli\u003eConocimiento de la legislación y normativas de seguridad y salud laboral.\u003c/li\u003e \u003cli\u003eCapacidad para el análisis de riesgos y la elaboración de planes de acción.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eOrientación a la prevención y promoción de la salud.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Título de Médico Cirujano",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

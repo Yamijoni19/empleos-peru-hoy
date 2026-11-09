@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513267",
+    "clave":  "id:1118513267",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-dental-clinica-artizahn-1118513267.html",
+                   "capturadoEn":  "2026-11-09T06:26:00+00:00"
+               },
+    "titulo":  "Asistente Dental",
+    "empresa":  "CLINICA ARTIZAHN",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Dental Resumen del Puesto Buscamos un Asistente Dental proactivo y con gran disposición para integrarse a un equipo enfocado en rehabilitación oral, estética y tratamiento del bruxismo. El candidato ideal será una persona ordenada, puntual y con deseos de aprender y crecer profesionalmente en un entorno que valora la atención al detalle. Responsabilidades Preparar el área de trabajo y el instrumental necesario para cada procedimiento. Asistir al profesional odontólogo durante los tratamientos. Realizar la toma de radiografías y fotografías clínicas. Asegurar la limpieza, desinfección y esterilización del instrumental y equipos siguiendo los protocolos establecidos. Gestionar el inventario de materiales y notificar sobre la necesidad de reposición. Colaborar en la atención y recepción de pacientes cuando sea requerido. Requisitos Formación técnica en asistencia dental o enfermería (titulada o egresada). Experiencia previa como asistente dental (mínimo 6 meses, deseable 1 año). Conocimiento y aplicación de protocolos de bioseguridad y esterilización. Habilidades de organización y atención al detalle. Capacidad para trabajar en equipo y seguir instrucciones. Actitud proactiva y ganas de desarrollo profesional.",
+    "requisitos":  [
+                       "Formación técnica en asistencia dental o enfermería (titulada o egresada)",
+                       "Experiencia previa como asistente dental (mínimo 6 meses, deseable 1 año)",
+                       "Conocimiento y aplicación de protocolos de bioseguridad y esterilización",
+                       "Habilidades de organización y atención al detalle",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Actitud proactiva y ganas de desarrollo profesional"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-dental-clinica-artizahn-1118513267.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-dental-clinica-artizahn-1118513267.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Dental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente Dental\u003c/b\u003e proactivo y con gran disposición para integrarse a un equipo enfocado en rehabilitación oral, estética y tratamiento del bruxismo. El candidato ideal será una persona ordenada, puntual y con deseos de aprender y crecer profesionalmente en un entorno que valora la atención al detalle.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003ePreparar el área de trabajo y el instrumental necesario para cada procedimiento.\u003c/li\u003e \u003cli\u003eAsistir al profesional odontólogo durante los tratamientos.\u003c/li\u003e \u003cli\u003eRealizar la toma de radiografías y fotografías clínicas.\u003c/li\u003e \u003cli\u003eAsegurar la limpieza, desinfección y esterilización del instrumental y equipos siguiendo los protocolos establecidos.\u003c/li\u003e \u003cli\u003eGestionar el inventario de materiales y notificar sobre la necesidad de reposición.\u003c/li\u003e \u003cli\u003eColaborar en la atención y recepción de pacientes cuando sea requerido.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica en asistencia dental o enfermería (titulada o egresada).\u003c/li\u003e \u003cli\u003eExperiencia previa como asistente dental (mínimo 6 meses, deseable 1 año).\u003c/li\u003e \u003cli\u003eConocimiento y aplicación de protocolos de bioseguridad y esterilización.\u003c/li\u003e \u003cli\u003eHabilidades de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eActitud proactiva y ganas de desarrollo profesional.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

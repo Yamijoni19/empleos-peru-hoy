@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513259",
+    "clave":  "id:1118513259",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-sector-educativo-xintech-sac-1118513259.html",
+                   "capturadoEn":  "2026-11-09T06:26:05+00:00"
+               },
+    "titulo":  "Asesor de Ventas - Sector Educativo",
+    "empresa":  "XINTECH SAC",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1450,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,450 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor de Ventas - Sector Educativo Resumen del Puesto Estamos en la búsqueda de un Asesor de Ventas proactivo y con gran capacidad de comunicación para integrarse a nuestro equipo en el dinámico sector educativo. El candidato ideal poseerá experiencia en ventas y un genuino interés por el desarrollo académico y profesional de los estudiantes. Responsabilidades Atender y asesorar a potenciales estudiantes sobre nuestra oferta académica. Identificar las necesidades y objetivos de los aspirantes para ofrecer soluciones educativas personalizadas. Gestionar el proceso de inscripción y seguimiento de los interesados. Colaborar con el equipo para alcanzar los objetivos de captación. Mantener actualizada la información sobre programas y beneficios. Requisitos Experiencia comprobable en roles de ventas, preferentemente en el sector educativo o servicios. Excelentes habilidades de comunicación, negociación y persuasión. Orientación a resultados y al logro de metas. Capacidad para trabajar de forma autónoma y en equipo. Actitud positiva y vocación de servicio. Conocimiento del sector educativo será valorado.",
+    "requisitos":  [
+                       "Experiencia comprobable en roles de ventas, preferentemente en el sector educativo o servicios",
+                       "Excelentes habilidades de comunicación, negociación y persuasión",
+                       "Orientación a resultados y al logro de metas",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Actitud positiva y vocación de servicio",
+                       "Conocimiento del sector educativo será valorado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-sector-educativo-xintech-sac-1118513259.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-sector-educativo-xintech-sac-1118513259.html",
+    "descripcion_html":  "\u003cb\u003eAsesor de Ventas - Sector Educativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsesor de Ventas\u003c/b\u003e proactivo y con gran capacidad de comunicación para integrarse a nuestro equipo en el dinámico sector educativo. El candidato ideal poseerá experiencia en ventas y un genuino interés por el desarrollo académico y profesional de los estudiantes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y asesorar a potenciales estudiantes sobre nuestra oferta académica.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades y objetivos de los aspirantes para ofrecer soluciones educativas personalizadas.\u003c/li\u003e \u003cli\u003eGestionar el proceso de inscripción y seguimiento de los interesados.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para alcanzar los objetivos de captación.\u003c/li\u003e \u003cli\u003eMantener actualizada la información sobre programas y beneficios.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en roles de ventas, preferentemente en el sector educativo o servicios.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, negociación y persuasión.\u003c/li\u003e \u003cli\u003eOrientación a resultados y al logro de metas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eActitud positiva y vocación de servicio.\u003c/li\u003e \u003cli\u003eConocimiento del sector educativo será valorado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
