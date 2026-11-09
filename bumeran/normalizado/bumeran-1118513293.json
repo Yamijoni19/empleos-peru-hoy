@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118513293",
+    "clave":  "id:1118513293",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-comercial-pallets-standard-1118513293.html",
+                   "capturadoEn":  "2026-11-08T23:42:40+00:00"
+               },
+    "titulo":  "Ejecutivo/a Comercial",
+    "empresa":  "PALLETS STANDARD",
+    "ubicacion":  "Ica",
+    "ciudad":  "Ica",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡ EN PALLETS STANDARD BUSCAMOS PERSONAL ! Ejecutivo/a Comercial Resumen del Puesto Buscamos un/a Ejecutivo/a Comercial proactivo/a y orientado/a a resultados para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas B2B y una sólida capacidad de negociación y comunicación. Responsabilidades Gestionar y desarrollar relaciones con clientes corporativos. Identificar oportunidades de negocio y alcanzar metas comerciales. Realizar seguimiento efectivo a clientes y prospectos. Colaborar con otros equipos para asegurar la satisfacción del cliente. Participar en visitas comerciales y presentaciones de productos/servicios. Requisitos Formación académica en Administración, Marketing, Negocios Internacionales, Comercio Exterior, Ingeniería Industrial o carreras afines. Experiencia mínima de 1 año en ventas B2B o atención a clientes corporativos. Habilidades de negociación, comunicación efectiva y seguimiento a clientes. Orientación a resultados y cumplimiento de metas comerciales. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Formación académica en Administración, Marketing, Negocios Internacionales, Comercio Exterior, Ingeniería Industrial o carreras afines",
+                       "Experiencia mínima de 1 año en ventas B2B o atención a clientes corporativos",
+                       "Habilidades de negociación, comunicación efectiva y seguimiento a clientes",
+                       "Orientación a resultados y cumplimiento de metas comerciales",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-comercial-pallets-standard-1118513293.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-comercial-pallets-standard-1118513293.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003e¡ EN PALLETS STANDARD BUSCAMOS PERSONAL !\u003c/strong\u003e\u003c/p\u003e\u003c/p\u003e \u003cb\u003eEjecutivo/a Comercial\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eEjecutivo/a Comercial\u003c/b\u003e proactivo/a y orientado/a a resultados para unirse a nuestro equipo. El candidato ideal tendrá experiencia en ventas B2B y una sólida capacidad de negociación y comunicación.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar y desarrollar relaciones con clientes corporativos.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de negocio y alcanzar metas comerciales.\u003c/li\u003e \u003cli\u003eRealizar seguimiento efectivo a clientes y prospectos.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para asegurar la satisfacción del cliente.\u003c/li\u003e \u003cli\u003eParticipar en visitas comerciales y presentaciones de productos/servicios.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica en Administración, Marketing, Negocios Internacionales, Comercio Exterior, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en ventas B2B o atención a clientes corporativos.\u003c/li\u003e \u003cli\u003eHabilidades de negociación, comunicación efectiva y seguimiento a clientes.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de metas comerciales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

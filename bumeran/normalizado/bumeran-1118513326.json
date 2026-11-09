@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513326",
+    "clave":  "id:1118513326",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/inspector-logistico-liderman-fm-1118513326.html",
+                   "capturadoEn":  "2026-11-08T23:42:09+00:00"
+               },
+    "titulo":  "Inspector Logístico",
+    "empresa":  "Liderman fm",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Inspector Logístico Resumen del Puesto Buscamos un Inspector Logístico con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una sólida comprensión de los procesos logísticos y será capaz de garantizar la integridad de la mercancía durante su recepción y manipulación. Responsabilidades Inspeccionar el estado físico de la mercancía recibida en el área de carga antes de su ingreso. Verificar y conciliar la cantidad de unidades físicas contra la orden de compra durante las operaciones de carga y descarga. Registrar de inmediato cualquier discrepancia o daño detectado en el sistema correspondiente y completar los formatos de incidencias. Asegurar el cumplimiento de las normativas internas y procedimientos operativos. Mantener un registro detallado de las actividades realizadas. Requisitos Documento de identidad vigente. Buena condición física. Educación secundaria completa. Experiencia de 3 a 6 años en funciones de despacho, conteo, inspección, registro o vigilancia. Buenas habilidades de comunicación. Capacidad para trabajar de forma independiente y como parte de un equipo.",
+    "requisitos":  [
+                       "Documento de identidad vigente",
+                       "Buena condición física",
+                       "Educación secundaria completa",
+                       "Experiencia de 3 a 6 años en"
+                   ],
+    "funciones":  [
+                      "de despacho, conteo, inspección, registro o vigilancia",
+                      "Buenas habilidades de comunicación",
+                      "Capacidad para trabajar de forma independiente y como parte de un equipo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/inspector-logistico-liderman-fm-1118513326.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/inspector-logistico-liderman-fm-1118513326.html",
+    "descripcion_html":  "\u003cb\u003eInspector Logístico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eInspector Logístico\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una sólida comprensión de los procesos logísticos y será capaz de garantizar la integridad de la mercancía durante su recepción y manipulación.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eInspeccionar el estado físico de la mercancía recibida en el área de carga antes de su ingreso.\u003c/li\u003e \u003cli\u003eVerificar y conciliar la cantidad de unidades físicas contra la orden de compra durante las operaciones de carga y descarga.\u003c/li\u003e \u003cli\u003eRegistrar de inmediato cualquier discrepancia o daño detectado en el sistema correspondiente y completar los formatos de incidencias.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las normativas internas y procedimientos operativos.\u003c/li\u003e \u003cli\u003eMantener un registro detallado de las actividades realizadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eDocumento de identidad vigente.\u003c/li\u003e \u003cli\u003eBuena condición física.\u003c/li\u003e \u003cli\u003eEducación secundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia de 3 a 6 años en funciones de despacho, conteo, inspección, registro o vigilancia.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y como parte de un equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

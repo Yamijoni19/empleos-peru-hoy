@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118513323",
+    "clave":  "id:1118513323",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/lavador-de-autos-liderman-fm-1118513323.html",
+                   "capturadoEn":  "2026-11-08T23:42:15+00:00"
+               },
+    "titulo":  "Lavador de Autos",
+    "empresa":  "Liderman fm",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1630,
+                    "max":  2150,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,630 - S/ 2,150",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Lavador de Autos Resumen del Puesto Buscamos un Lavador de Autos con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una buena condición física, habilidades de comunicación y experiencia en el cuidado de vehículos. Responsabilidades Realizar el pre-lavado de vehículos, retirando el exceso de suciedad. Lavar los vehículos utilizando técnicas adecuadas para proteger la pintura. Limpiar cristales, parabrisas, ventanas y espejos retrovisores. Secar los vehículos a mano con materiales apropiados. Asegurar la limpieza y el buen estado de los vehículos. Requisitos Secundaria completa. Experiencia previa en lavado de autos. Buena condición física. Habilidades de comunicación. Capacidad para seguir instrucciones y procedimientos de limpieza.",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Experiencia previa en lavado de autos",
+                       "Buena condición física",
+                       "Habilidades de comunicación",
+                       "Capacidad para seguir instrucciones y procedimientos de limpieza"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-07",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/lavador-de-autos-liderman-fm-1118513323.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/lavador-de-autos-liderman-fm-1118513323.html",
+    "descripcion_html":  "\u003cb\u003eLavador de Autos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eLavador de Autos\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá una buena condición física, habilidades de comunicación y experiencia en el cuidado de vehículos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el pre-lavado de vehículos, retirando el exceso de suciedad.\u003c/li\u003e \u003cli\u003eLavar los vehículos utilizando técnicas adecuadas para proteger la pintura.\u003c/li\u003e \u003cli\u003eLimpiar cristales, parabrisas, ventanas y espejos retrovisores.\u003c/li\u003e \u003cli\u003eSecar los vehículos a mano con materiales apropiados.\u003c/li\u003e \u003cli\u003eAsegurar la limpieza y el buen estado de los vehículos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia previa en lavado de autos.\u003c/li\u003e \u003cli\u003eBuena condición física.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y procedimientos de limpieza.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "07/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
