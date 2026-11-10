@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118513564",
+    "clave":  "id:1118513564",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-textil-sin-experiencia-toldos-dycris-e.i.r.l.-1118513564.html",
+                   "capturadoEn":  "2026-11-10T01:30:31+00:00"
+               },
+    "titulo":  "Operario de Producción Textil (Sin Experiencia)",
+    "empresa":  "Toldos Dycris E.I.R.L.",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1240,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,240 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Estamos contratando personal Operario de Producción Textil (Sin Experiencia) Resumen del Puesto Buscamos un Operario de Producción Textil con gran motivación para aprender y desarrollarse en el rubro textil. Si tienes ganas de iniciar tu carrera en un entorno productivo y dinámico, esta es tu oportunidad. Responsabilidades Colaborar en el corte y preparación de materiales textiles. Asistir en la confección y fabricación de diversos productos textiles. Participar en tareas de armado, acabados y control de calidad de los productos. Mantener el orden y la limpieza del área de trabajo. Brindar apoyo en las distintas actividades del área de producción. Requisitos No se requiere experiencia previa. Se valorará la responsabilidad, puntualidad y compromiso. Disponibilidad para aprender y trabajar en equipo. Actitud proactiva y ganas de desarrollarse profesionalmente.",
+    "requisitos":  [
+                       "No se requiere experiencia previa",
+                       "Se valorará la responsabilidad, puntualidad y compromiso",
+                       "Disponibilidad para aprender y trabajar en equipo",
+                       "Actitud proactiva y ganas de desarrollarse profesionalmente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-textil-sin-experiencia-toldos-dycris-e.i.r.l.-1118513564.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-textil-sin-experiencia-toldos-dycris-e.i.r.l.-1118513564.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEstamos contratando personal\u003c/p\u003e\u003c/p\u003e \u003cb\u003eOperario de Producción Textil (Sin Experiencia)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eOperario de Producción Textil\u003c/b\u003e con gran motivación para aprender y desarrollarse en el rubro textil. Si tienes ganas de iniciar tu carrera en un entorno productivo y dinámico, esta es tu oportunidad.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en el corte y preparación de materiales textiles.\u003c/li\u003e \u003cli\u003eAsistir en la confección y fabricación de diversos productos textiles.\u003c/li\u003e \u003cli\u003eParticipar en tareas de armado, acabados y control de calidad de los productos.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003eBrindar apoyo en las distintas actividades del área de producción.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eNo se requiere experiencia previa.\u003c/li\u003e \u003cli\u003eSe valorará la responsabilidad, puntualidad y compromiso.\u003c/li\u003e \u003cli\u003eDisponibilidad para aprender y trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud proactiva y ganas de desarrollarse profesionalmente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

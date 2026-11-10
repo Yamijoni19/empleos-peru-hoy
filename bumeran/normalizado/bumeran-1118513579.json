@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513579",
+    "clave":  "id:1118513579",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/trabaja-3-veces-por-semana-en-caja-wong-dos-de-mayo-san-isidro-cencosud-peru-s.a-1118513579.html",
+                   "capturadoEn":  "2026-11-10T01:30:13+00:00"
+               },
+    "titulo":  "Trabaja 3 veces por semana en caja Wong dos de Mayo - San Isidro",
+    "empresa":  "Cencosud Perú S.A",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  540,
+                    "max":  540,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "s/540",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "#SomosCENCOSUD, empresa transnacional y una de las minoristas más grandes de América Latina. En esta oportunidad nos encontramos en búsqueda de nuevos talentos para nuestras áreas de cajero o reponedor. Disponibilidad para trabajar en nuestra tienda ya sea en nuestra tienda de WONG DOS DE MAYO . Solo se escoge una tienda. Contar con secundaria completa. DNI VIGENTE. Horarios de trabajo y beneficios: Horario rotativo (apertura y cierre) Sueldo Pick time s/540 + S/40 (movilidad) + 2 bonos de s/. 42.5(A partir del 4to mes) se labora 3 veces por semana y 4 días de descansa (diario se labora 8 horas) horario de 2:30pm a 10:30pm Ingresa a la planilla con todos los beneficios de la ley Asignación familiar legal y Cencosud Asignación por escolaridad ¡Únete a nuestra gran familia, contamos contigo! #TrabajaEnCencosudPerú #UnMundoDeDesafiosParaTi “Está prohibida la discriminación en esta empresa, Ley N° 29973”",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de la ley",
+                       "Asignación familiar legal y Cencosud",
+                       "Asignación por escolaridad",
+                       "¡Únete a nuestra gran familia, contamos contigo!",
+                       "#TrabajaEnCencosudPerú #UnMundoDeDesafiosParaTi",
+                       "“Está prohibida la discriminación en esta empresa, Ley N° 29973”"
+                   ],
+    "fecha_publicacion":  "2026-11-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/trabaja-3-veces-por-semana-en-caja-wong-dos-de-mayo-san-isidro-cencosud-peru-s.a-1118513579.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/trabaja-3-veces-por-semana-en-caja-wong-dos-de-mayo-san-isidro-cencosud-peru-s.a-1118513579.html",
+    "descripcion_html":  "\u003cp\u003e#SomosCENCOSUD, empresa transnacional y una de las minoristas más grandes de América Latina. En esta oportunidad nos encontramos en búsqueda de nuevos talentos para nuestras áreas de cajero o reponedor.\u003c/p\u003e\u003cul\u003e \u003cli\u003eDisponibilidad para trabajar en nuestra tienda ya sea en nuestra tienda de WONG DOS DE MAYO . Solo se escoge una tienda.\u003c/li\u003e \u003cli\u003eContar con secundaria completa.\u003c/li\u003e \u003cli\u003eDNI VIGENTE.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eHorarios de trabajo y beneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eHorario rotativo (apertura y cierre)\u003c/li\u003e \u003cli\u003eSueldo Pick time s/540 + S/40 (movilidad) + 2 bonos de s/. 42.5(A partir del 4to mes) se labora 3 veces por semana y 4 días de descansa (diario se labora 8 horas) horario de 2:30pm a 10:30pm\u003c/li\u003e \u003cli\u003eIngresa a la planilla con todos los beneficios de la ley\u003c/li\u003e \u003cli\u003eAsignación familiar legal y Cencosud\u003c/li\u003e \u003cli\u003eAsignación por escolaridad\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Únete a nuestra gran familia, contamos contigo!\u003c/p\u003e\u003cp\u003e#TrabajaEnCencosudPerú #UnMundoDeDesafiosParaTi\u003c/p\u003e\u003cp\u003e“Está prohibida la discriminación en esta empresa, Ley N° 29973”\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
