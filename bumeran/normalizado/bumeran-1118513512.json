@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513512",
+    "clave":  "id:1118513512",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-obra-ascendit.studio-1118513512.html",
+                   "capturadoEn":  "2026-11-10T09:49:49+00:00"
+               },
+    "titulo":  "Asistente de Obra",
+    "empresa":  "Ascendit.Studio",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1000,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Obra Resumen del Puesto Buscamos un/a Asistente de Obra proactivo/a y con gran atención al detalle para integrarse a nuestro equipo de diseño e interiorismo. El candidato ideal apoyará en la supervisión y gestión de proyectos, asegurando la correcta ejecución y cumplimiento de los estándares de calidad. Responsabilidades Colaborar en la supervisión de obras y proyectos. Apoyar en la gestión de recursos y cronogramas. Coordinar con diferentes equipos y proveedores. Realizar seguimiento de avances y reportar incidencias. Asegurar el cumplimiento de especificaciones técnicas y de diseño. Requisitos Bachiller en Arquitectura o carrera afín. Experiencia mínima de 6 meses en campo o supervisión de obras. Dominio de herramientas de diseño como Autocad y Sketchup. Disponibilidad inmediata para incorporarse. Capacidad para trabajar en equipo y bajo presión. Habilidades de organización y planificación.",
+    "requisitos":  [
+                       "Bachiller en Arquitectura o carrera afín",
+                       "Experiencia mínima de 6 meses en campo o supervisión de obras",
+                       "Dominio de herramientas de diseño como Autocad y Sketchup",
+                       "Disponibilidad inmediata para incorporarse",
+                       "Capacidad para trabajar en equipo y bajo presión",
+                       "Habilidades de organización y planificación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-obra-ascendit.studio-1118513512.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-obra-ascendit.studio-1118513512.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Obra\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eAsistente de Obra\u003c/b\u003e proactivo/a y con gran atención al detalle para integrarse a nuestro equipo de diseño e interiorismo. El candidato ideal apoyará en la supervisión y gestión de proyectos, asegurando la correcta ejecución y cumplimiento de los estándares de calidad.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la supervisión de obras y proyectos.\u003c/li\u003e \u003cli\u003eApoyar en la gestión de recursos y cronogramas.\u003c/li\u003e \u003cli\u003eCoordinar con diferentes equipos y proveedores.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de avances y reportar incidencias.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de especificaciones técnicas y de diseño.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eBachiller en Arquitectura o carrera afín.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en campo o supervisión de obras.\u003c/li\u003e \u003cli\u003eDominio de herramientas de diseño como Autocad y Sketchup.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata para incorporarse.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y bajo presión.\u003c/li\u003e \u003cli\u003eHabilidades de organización y planificación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

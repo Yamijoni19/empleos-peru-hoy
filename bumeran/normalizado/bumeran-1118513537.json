@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118513537",
+    "clave":  "id:1118513537",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-planeamiento-financiero-1118513537.html",
+                   "capturadoEn":  "2026-11-10T09:49:25+00:00"
+               },
+    "titulo":  "Practicante Pre Profesional de Planeamiento Financiero",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa del rubro Industrial se encuentra en búsqueda de dos Practicantes para sus equipos de Control de Gestión y Planeamiento Financiero. Estudiante de 7mo y/o 8vo ciclo de Finanzas, Economía u otros relacionados. Dominio de inglés a nivel intermedio. Manejo Excel a nivel avanzado. Manejo dashboards e indicadores de gestión. Deseable experiencia previa en empresas industriales, retail, consumo masivo o negocios de alta interacción con clientes. Si consideras que tu perfil calza con nuestra búsqueda, te invitamos a participar.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-planeamiento-financiero-1118513537.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-pre-profesional-de-planeamiento-financiero-1118513537.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa del rubro Industrial se encuentra en búsqueda de dos Practicantes para sus equipos de Control de Gestión y Planeamiento Financiero.\u003c/p\u003e\u003col\u003e \u003cli\u003eEstudiante de 7mo y/o 8vo ciclo de Finanzas, Economía u otros relacionados.\u003c/li\u003e \u003cli\u003eDominio de inglés a nivel intermedio.\u003c/li\u003e \u003cli\u003eManejo Excel a nivel avanzado.\u003c/li\u003e \u003cli\u003eManejo dashboards e indicadores de gestión.\u003c/li\u003e\u003c/ol\u003e\u003cp\u003eDeseable experiencia previa en empresas industriales, retail, consumo masivo o negocios de alta interacción con clientes.\u003c/p\u003e\u003cp\u003eSi consideras que tu perfil calza con nuestra búsqueda, te invitamos a participar.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

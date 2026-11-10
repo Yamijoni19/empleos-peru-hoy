@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513516",
+    "clave":  "id:1118513516",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-helados-peruanos-sac-1118513516.html",
+                   "capturadoEn":  "2026-11-10T09:49:42+00:00"
+               },
+    "titulo":  "Asistente Administrativa",
+    "empresa":  "HELADOS PERUANOS SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativa Resumen del Puesto Nos encontramos en la búsqueda de una Asistente Administrativa proactiva y organizada para integrarse a nuestro equipo. El rol es fundamental para el soporte de las operaciones diarias y reportará directamente a la Gerencia Administrativa. Responsabilidades Gestión de procesos de facturación y cobranzas. Control y seguimiento de inventarios y almacenes. Atención y soporte a clientes. Colaboración en la gestión de equipos de trabajo. Soporte general a las tareas administrativas de la gerencia. Requisitos Título universitario en carreras afines a administración, contabilidad o gestión. Experiencia comprobable en facturación, cobranzas y control de almacenes. Habilidades sólidas en atención al cliente. Experiencia en supervisión o manejo de personal. Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades de organización y planificación.",
+    "requisitos":  [
+                       "Título universitario en carreras afines a administración, contabilidad o gestión",
+                       "Experiencia comprobable en facturación, cobranzas y control de almacenes",
+                       "Habilidades sólidas en atención al cliente",
+                       "Experiencia en supervisión o manejo de personal",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Excelentes habilidades de organización y planificación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-helados-peruanos-sac-1118513516.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativa-helados-peruanos-sac-1118513516.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Administrativa\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de una \u003cb\u003eAsistente Administrativa\u003c/b\u003e proactiva y organizada para integrarse a nuestro equipo. El rol es fundamental para el soporte de las operaciones diarias y reportará directamente a la Gerencia Administrativa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestión de procesos de facturación y cobranzas.\u003c/li\u003e \u003cli\u003eControl y seguimiento de inventarios y almacenes.\u003c/li\u003e \u003cli\u003eAtención y soporte a clientes.\u003c/li\u003e \u003cli\u003eColaboración en la gestión de equipos de trabajo.\u003c/li\u003e \u003cli\u003eSoporte general a las tareas administrativas de la gerencia.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en carreras afines a administración, contabilidad o gestión.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en facturación, cobranzas y control de almacenes.\u003c/li\u003e \u003cli\u003eHabilidades sólidas en atención al cliente.\u003c/li\u003e \u003cli\u003eExperiencia en supervisión o manejo de personal.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de organización y planificación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

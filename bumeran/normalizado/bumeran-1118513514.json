@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513514",
+    "clave":  "id:1118513514",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/repartidor-motorizado-helados-peruanos-sac-1118513514.html",
+                   "capturadoEn":  "2026-11-10T09:49:45+00:00"
+               },
+    "titulo":  "Repartidor Motorizado",
+    "empresa":  "HELADOS PERUANOS SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Repartidor Motorizado Resumen del Puesto Buscamos un Repartidor Motorizado proactivo y responsable para unirse a nuestro equipo. El candidato ideal será capaz de gestionar eficientemente las rutas de entrega y mantener una comunicación fluida con los clientes. Responsabilidades Realizar visitas diarias a clientes para la gestión de productos. Llevar a cabo la limpieza y orden de los productos en los puntos de venta. Efectuar el conteo de inventario de productos. Reportar las visitas realizadas mediante registros visuales. Despachar pedidos según la programación establecida. Mantener la documentación personal y del vehículo en regla. Requisitos Licencia de conducir vigente. Experiencia previa en labores de reparto y atención al cliente. Conocimiento de rutas y planificación logística. Habilidad para el manejo de herramientas de reporte digital. Capacidad para trabajar de forma autónoma y organizada. Disponibilidad para desplazarse diariamente.",
+    "requisitos":  [
+                       "Licencia de conducir vigente",
+                       "Experiencia previa en labores de reparto y atención al cliente",
+                       "Conocimiento de rutas y planificación logística",
+                       "Habilidad para el manejo de herramientas de reporte digital",
+                       "Capacidad para trabajar de forma autónoma y organizada",
+                       "Disponibilidad para desplazarse diariamente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-08",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/repartidor-motorizado-helados-peruanos-sac-1118513514.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/repartidor-motorizado-helados-peruanos-sac-1118513514.html",
+    "descripcion_html":  "\u003cb\u003eRepartidor Motorizado\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eRepartidor Motorizado\u003c/b\u003e proactivo y responsable para unirse a nuestro equipo. El candidato ideal será capaz de gestionar eficientemente las rutas de entrega y mantener una comunicación fluida con los clientes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar visitas diarias a clientes para la gestión de productos.\u003c/li\u003e \u003cli\u003eLlevar a cabo la limpieza y orden de los productos en los puntos de venta.\u003c/li\u003e \u003cli\u003eEfectuar el conteo de inventario de productos.\u003c/li\u003e \u003cli\u003eReportar las visitas realizadas mediante registros visuales.\u003c/li\u003e \u003cli\u003eDespachar pedidos según la programación establecida.\u003c/li\u003e \u003cli\u003eMantener la documentación personal y del vehículo en regla.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eLicencia de conducir vigente.\u003c/li\u003e \u003cli\u003eExperiencia previa en labores de reparto y atención al cliente.\u003c/li\u003e \u003cli\u003eConocimiento de rutas y planificación logística.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de herramientas de reporte digital.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y organizada.\u003c/li\u003e \u003cli\u003eDisponibilidad para desplazarse diariamente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "08/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
