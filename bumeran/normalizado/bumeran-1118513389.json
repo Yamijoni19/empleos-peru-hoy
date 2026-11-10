@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118513389",
+    "clave":  "id:1118513389",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-marketing-digital-favian-ai-1118513389.html",
+                   "capturadoEn":  "2026-11-10T17:50:00+00:00"
+               },
+    "titulo":  "Practicante de Marketing Digital",
+    "empresa":  "FAVIAN AI",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  500,
+                    "max":  500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.500",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Somos un emprendimiento de consultoría en inteligencia artificial que ayuda a pequeños y medianos negocios a crecer combinando marketing digital y growth con IA. Trabajamos principalmente con Claude , también con GPT , y exploramos constantemente nuevas herramientas de IA. Buscamos a una persona curiosa y con muchas ganas de aprender y hacer crecer proyectos . Más que experiencia previa, valoramos la actitud: te guiaremos en todo momento para que aprendas haciendo. Qué harás (aprendiendo con acompañamiento constante) • Explorar y aplicar herramientas de IA (Claude, GPT y otras) en proyectos reales. • Apoyar en desarrollo web: crear y mejorar páginas y landing pages. • Participar en estrategias de marketing digital, desde la idea hasta la ejecución. • Aprender a combinar IA, web y marketing para hacer crecer negocios. Qué buscamos • Estudiante de últimos ciclos o egresado/a (marketing, comunicaciones, ingeniería, diseño o carreras afines). • Curiosidad por la IA, la tecnología y el marketing digital. • Ganas reales de aprender, crecer y proponer ideas. Sobre la modalidad Por ahora es una colaboración con pagos por proyecto (no en planilla), pensada para alguien dispuest a aprender y seguir haciendo crecer el negocio. Lo valioso es que es una etapa temprana con posibilidad real de crecimiento : a medida que el proyecto y los resultados crezcan, también crece tu rol, tus responsabilidades y las oportunidades dentro del equipo. Horario: flexible, de acuerdo a tu disponibilidad.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-marketing-digital-favian-ai-1118513389.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-marketing-digital-favian-ai-1118513389.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eSomos un emprendimiento de consultoría en inteligencia artificial que ayuda a pequeños y medianos negocios a crecer combinando marketing digital y growth con IA. Trabajamos principalmente con \u003cstrong\u003eClaude\u003c/strong\u003e, también con \u003cstrong\u003eGPT\u003c/strong\u003e, y exploramos constantemente nuevas herramientas de IA.\u003c/p\u003e\u003c/p\u003e \u003cp\u003eBuscamos a una persona \u003cstrong\u003ecuriosa y con muchas ganas de aprender y hacer crecer proyectos\u003c/strong\u003e. Más que experiencia previa, valoramos la actitud: \u003cstrong\u003ete guiaremos en todo momento\u003c/strong\u003e para que aprendas haciendo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQué harás (aprendiendo con acompañamiento constante)\u003c/strong\u003e • Explorar y aplicar herramientas de IA (Claude, GPT y otras) en proyectos reales. • Apoyar en desarrollo web: crear y mejorar páginas y landing pages. • Participar en estrategias de marketing digital, desde la idea hasta la ejecución. • Aprender a combinar IA, web y marketing para hacer crecer negocios.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQué buscamos\u003c/strong\u003e • Estudiante de últimos ciclos o egresado/a (marketing, comunicaciones, ingeniería, diseño o carreras afines). • Curiosidad por la IA, la tecnología y el marketing digital. • Ganas reales de aprender, crecer y proponer ideas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSobre la modalidad\u003c/strong\u003e Por ahora es una \u003cstrong\u003ecolaboración con pagos por proyecto\u003c/strong\u003e (no en planilla), pensada para alguien dispuest a aprender y seguir haciendo crecer el negocio. Lo valioso es que es una etapa temprana con \u003cstrong\u003eposibilidad real de crecimiento\u003c/strong\u003e: a medida que el proyecto y los resultados crezcan, también crece tu rol, tus responsabilidades y las oportunidades dentro del equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHorario:\u003c/strong\u003e flexible, de acuerdo a tu disponibilidad.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "flexible, de acuerdo a tu disponibilidad.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

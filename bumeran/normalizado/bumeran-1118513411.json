@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513411",
+    "clave":  "id:1118513411",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-captura-de-datos-rapportgraf-peru-s.a.c.-1118513411.html",
+                   "capturadoEn":  "2026-11-10T17:49:57+00:00"
+               },
+    "titulo":  "Auxiliar de Captura de Datos",
+    "empresa":  "RAPPORTGRAF PERU S.A.C.",
+    "ubicacion":  "Lima - Aucallama",
+    "ciudad":  "Aucallama",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4550,
+                    "max":  4580,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,550 - S/ 4,580",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar de Captura de Datos Resumen del Puesto Estamos en la búsqueda de un Auxiliar de Captura de Datos proactivo y detallista para integrarse a nuestro equipo. El candidato ideal poseerá habilidades sólidas en la entrada y validación de información, asegurando la precisión y la integridad de los datos. Responsabilidades Realizar la entrada de datos de diversas fuentes en sistemas designados. Verificar la exactitud y completitud de la información capturada. Identificar y corregir errores en los registros de datos. Colaborar con otros miembros del equipo para asegurar la consistencia de los datos. Envíanos tu información profesional a nuestro canal de contacto directo en t e l e g r a m: Mykolatieto Mantener la confidencialidad de la información manejada. Requisitos Educación secundaria completa o equivalente. Experiencia previa en tareas de entrada de datos o administrativas. Dominio de herramientas ofimáticas, especialmente hojas de cálculo. Atención al detalle y alta precisión en el trabajo. Capacidad para seguir instrucciones y procedimientos establecidos. Habilidad para organizar y gestionar tareas de manera eficiente.",
+    "requisitos":  [
+                       "Educación secundaria completa o equivalente",
+                       "Experiencia previa en tareas de entrada de datos o administrativas",
+                       "Dominio de herramientas ofimáticas, especialmente hojas de cálculo",
+                       "Atención al detalle y alta precisión en el trabajo",
+                       "Capacidad para seguir instrucciones y procedimientos establecidos",
+                       "Habilidad para organizar y gestionar tareas de manera eficiente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-captura-de-datos-rapportgraf-peru-s.a.c.-1118513411.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-captura-de-datos-rapportgraf-peru-s.a.c.-1118513411.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAuxiliar de Captura de Datos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eAuxiliar de Captura de Datos\u003c/strong\u003e proactivo y detallista para integrarse a nuestro equipo. El candidato ideal poseerá habilidades sólidas en la entrada y validación de información, asegurando la precisión y la integridad de los datos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar la entrada de datos de diversas fuentes en sistemas designados.\u003c/li\u003e \u003cli\u003eVerificar la exactitud y completitud de la información capturada.\u003c/li\u003e \u003cli\u003eIdentificar y corregir errores en los registros de datos.\u003c/li\u003e \u003cli\u003eColaborar con otros miembros del equipo para asegurar la consistencia de los datos.\u003c/li\u003e \u003cli\u003eEnvíanos tu información profesional a nuestro canal de contacto directo en t e l e g r a m: Mykolatieto\u003c/li\u003e \u003cli\u003eMantener la confidencialidad de la información manejada.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación secundaria completa o equivalente.\u003c/li\u003e \u003cli\u003eExperiencia previa en tareas de entrada de datos o administrativas.\u003c/li\u003e \u003cli\u003eDominio de herramientas ofimáticas, especialmente hojas de cálculo.\u003c/li\u003e \u003cli\u003eAtención al detalle y alta precisión en el trabajo.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y procedimientos establecidos.\u003c/li\u003e \u003cli\u003eHabilidad para organizar y gestionar tareas de manera eficiente.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513368",
+    "clave":  "id:1118513368",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-mantenimiento-handyman-julio-gonzales-1118513368.html",
+                   "capturadoEn":  "2026-11-10T17:50:03+00:00"
+               },
+    "titulo":  "Técnico de Mantenimiento (Handyman)",
+    "empresa":  "Julio Gonzales",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1000,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico de Mantenimiento (Handyman) Resumen del Puesto Buscamos un Técnico de Mantenimiento (Handyman) responsable y proactivo para unirse a nuestro equipo de Operaciones. El candidato ideal poseerá habilidades sólidas para llevar a cabo trabajos de mantenimiento general, reparaciones y la conservación de instalaciones y equipos. Responsabilidades Realizar tareas de mantenimiento preventivo y correctivo en instalaciones y equipos. Llevar a cabo reparaciones generales de albañilería, electricidad, plomería y carpintería. Asegurar la conservación y buen estado de las infraestructuras. Identificar y solucionar problemas técnicos de manera eficiente. Colaborar con otros equipos para garantizar el correcto funcionamiento de las operaciones. Requisitos Experiencia comprobable en trabajos de mantenimiento general y reparaciones. Conocimientos en diversas áreas técnicas (electricidad, plomería, carpintería, etc.). Capacidad para trabajar de forma autónoma y resolver problemas. Habilidades de organización y gestión del tiempo. Actitud proactiva y orientada a la solución. Responsabilidad y atención al detalle.",
+    "requisitos":  [
+                       "Experiencia comprobable en trabajos de mantenimiento general y reparaciones",
+                       "Conocimientos en diversas áreas técnicas (electricidad, plomería, carpintería, etc.)",
+                       "Capacidad para trabajar de forma autónoma y resolver problemas",
+                       "Habilidades de organización y gestión del tiempo",
+                       "Actitud proactiva y orientada a la solución",
+                       "Responsabilidad y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-mantenimiento-handyman-julio-gonzales-1118513368.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-mantenimiento-handyman-julio-gonzales-1118513368.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eTécnico de Mantenimiento (Handyman)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eTécnico de Mantenimiento (Handyman)\u003c/strong\u003e responsable y proactivo para unirse a nuestro equipo de Operaciones. El candidato ideal poseerá habilidades sólidas para llevar a cabo trabajos de mantenimiento general, reparaciones y la conservación de instalaciones y equipos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar tareas de mantenimiento preventivo y correctivo en instalaciones y equipos.\u003c/li\u003e \u003cli\u003eLlevar a cabo reparaciones generales de albañilería, electricidad, plomería y carpintería.\u003c/li\u003e \u003cli\u003eAsegurar la conservación y buen estado de las infraestructuras.\u003c/li\u003e \u003cli\u003eIdentificar y solucionar problemas técnicos de manera eficiente.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para garantizar el correcto funcionamiento de las operaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en trabajos de mantenimiento general y reparaciones.\u003c/li\u003e \u003cli\u003eConocimientos en diversas áreas técnicas (electricidad, plomería, carpintería, etc.).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y resolver problemas.\u003c/li\u003e \u003cli\u003eHabilidades de organización y gestión del tiempo.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientada a la solución.\u003c/li\u003e \u003cli\u003eResponsabilidad y atención al detalle.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

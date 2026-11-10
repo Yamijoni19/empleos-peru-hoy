@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118513308",
+    "clave":  "id:1118513308",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-seguridad-y-salud-en-el-trabajo-sst-lifetree-1118513308.html",
+                   "capturadoEn":  "2026-11-10T17:50:10+00:00"
+               },
+    "titulo":  "Practicante Profesional de Seguridad y Salud en el Trabajo (SST)",
+    "empresa":  "LIFETREE",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Apoyar en la ejecución de inducciones de seguridad dirigidas al personal nuevo y trabajadores que realizan cambios de puesto o área. Participar en inspecciones de Seguridad y Salud en el Trabajo, identificando condiciones y actos inseguros. Apoyar en la verificación del cumplimiento de los procedimientos, estándares y medidas preventivas de seguridad establecidos. Brindar apoyo en la ejecución de charlas de seguridad, sensibilización y capacitaciones preventivas. Elaborar reportes de inspecciones, observaciones de seguridad, hallazgos y seguimiento de acciones correctivas. Apoyar en la elaboración, actualización y organización de documentos y registros del SGSST. Participar en actividades de identificación de peligros y evaluación de riesgos laborales. Apoyar en el seguimiento de las medidas preventivas y correctivas implementadas. Cumplir con las disposiciones internas de Seguridad y Salud en el Trabajo. Realizar otras actividades relacionadas con su formación y las funciones propias del puesto, bajo supervisión del profesional responsable",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "propias del puesto, bajo supervisión del profesional responsable"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-seguridad-y-salud-en-el-trabajo-sst-lifetree-1118513308.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-seguridad-y-salud-en-el-trabajo-sst-lifetree-1118513308.html",
+    "descripcion_html":  "\u003col\u003e \u003cli\u003eApoyar en la ejecución de inducciones de seguridad dirigidas al personal nuevo y trabajadores que realizan cambios de puesto o área.\u003c/li\u003e \u003cli\u003eParticipar en inspecciones de Seguridad y Salud en el Trabajo, identificando condiciones y actos inseguros.\u003c/li\u003e \u003cli\u003eApoyar en la verificación del cumplimiento de los procedimientos, estándares y medidas preventivas de seguridad establecidos.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la ejecución de charlas de seguridad, sensibilización y capacitaciones preventivas.\u003c/li\u003e \u003cli\u003eElaborar reportes de inspecciones, observaciones de seguridad, hallazgos y seguimiento de acciones correctivas.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración, actualización y organización de documentos y registros del SGSST.\u003c/li\u003e \u003cli\u003eParticipar en actividades de identificación de peligros y evaluación de riesgos laborales.\u003c/li\u003e \u003cli\u003eApoyar en el seguimiento de las medidas preventivas y correctivas implementadas.\u003c/li\u003e \u003cli\u003eCumplir con las disposiciones internas de Seguridad y Salud en el Trabajo.\u003c/li\u003e \u003cli\u003eRealizar otras actividades relacionadas con su formación y las funciones propias del puesto, bajo supervisión del profesional responsable\u003c/li\u003e\u003c/ol\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

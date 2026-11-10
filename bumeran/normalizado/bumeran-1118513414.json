@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513414",
+    "clave":  "id:1118513414",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenero-de-obra-inssel-ingenieria-1118513414.html",
+                   "capturadoEn":  "2026-11-10T17:49:56+00:00"
+               },
+    "titulo":  "Almacenero de Obra",
+    "empresa":  "INSSEL INGENIERIA",
+    "ubicacion":  "Lima - Santa Anima Lima",
+    "ciudad":  "Santa Anima Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Almacenero de Obra Resumen del Puesto Buscamos un Almacenero de Obra para unirse a nuestro equipo. El candidato ideal será responsable de controlar, organizar y administrar los materiales, herramientas y equipos del almacén de obra. Se requiere una persona responsable, organizada y con experiencia en la gestión de almacenes en proyectos de construcción. Responsabilidades Controlar, organizar y administrar los materiales, herramientas y equipos del almacén. Realizar la recepción y verificación de materiales. Registrar ingresos y salidas de materiales y equipos. Mantener actualizado el inventario de forma precisa. Entregar materiales y equipos al personal autorizado. Garantizar el orden y el adecuado almacenamiento de los recursos. Llevar el control documentario relacionado con el almacén. Reportar oportunamente cualquier faltante o requerimiento de materiales. Requisitos Experiencia previa comprobable en almacenes de obra o similares. Capacidad demostrada para organizar y gestionar inventarios. Habilidades de control y registro de entradas y salidas. Conocimiento en la correcta disposición y almacenamiento de materiales. Persona responsable, proactiva y con atención al detalle. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Experiencia previa comprobable en almacenes de obra o similares",
+                       "Capacidad demostrada para organizar y gestionar inventarios",
+                       "Habilidades de control y registro de entradas y salidas",
+                       "Conocimiento en la correcta disposición y almacenamiento de materiales",
+                       "Persona responsable, proactiva y con atención al detalle",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/almacenero-de-obra-inssel-ingenieria-1118513414.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenero-de-obra-inssel-ingenieria-1118513414.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAlmacenero de Obra\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAlmacenero de Obra\u003c/strong\u003e para unirse a nuestro equipo. El candidato ideal será responsable de controlar, organizar y administrar los materiales, herramientas y equipos del almacén de obra. Se requiere una persona responsable, organizada y con experiencia en la gestión de almacenes en proyectos de construcción.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControlar, organizar y administrar los materiales, herramientas y equipos del almacén.\u003c/li\u003e \u003cli\u003eRealizar la recepción y verificación de materiales.\u003c/li\u003e \u003cli\u003eRegistrar ingresos y salidas de materiales y equipos.\u003c/li\u003e \u003cli\u003eMantener actualizado el inventario de forma precisa.\u003c/li\u003e \u003cli\u003eEntregar materiales y equipos al personal autorizado.\u003c/li\u003e \u003cli\u003eGarantizar el orden y el adecuado almacenamiento de los recursos.\u003c/li\u003e \u003cli\u003eLlevar el control documentario relacionado con el almacén.\u003c/li\u003e \u003cli\u003eReportar oportunamente cualquier faltante o requerimiento de materiales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa comprobable en almacenes de obra o similares.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para organizar y gestionar inventarios.\u003c/li\u003e \u003cli\u003eHabilidades de control y registro de entradas y salidas.\u003c/li\u003e \u003cli\u003eConocimiento en la correcta disposición y almacenamiento de materiales.\u003c/li\u003e \u003cli\u003ePersona responsable, proactiva y con atención al detalle.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118513320",
+    "clave":  "id:1118513320",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/promotores-de-ventas-bitel-1118513320.html",
+                   "capturadoEn":  "2026-11-10T17:50:07+00:00"
+               },
+    "titulo":  "promotores de ventas",
+    "empresa":  "bitel",
+    "ubicacion":  "Lima - Santa Anita",
+    "ciudad":  "Santa Anita",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Buscamos promotores de ventas con experiencia o sin experiencia para ventas de chips prepagos, pospagos, portabilidades, migraciones y internet para la casa informacion al 9 1 0 3 9 8 0 6 8 lugar de trabajo santa anita mercado universal contar con celular android para las activaciones se le brindara chaleco gorras publicidad",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/promotores-de-ventas-bitel-1118513320.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/promotores-de-ventas-bitel-1118513320.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos promotores de ventas con experiencia o sin experiencia para ventas de chips prepagos, pospagos, portabilidades, migraciones y internet para la casa informacion al \u0026#x39; \u0026#x31; \u0026#x30; \u0026#x33; \u0026#x39; \u0026#x38; \u0026#x30; \u0026#x36; \u0026#x38; lugar de trabajo santa anita mercado universal contar con celular android para las activaciones se le brindara chaleco gorras publicidad\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
