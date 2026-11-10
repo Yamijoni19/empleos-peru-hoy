@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118513181",
+    "clave":  "id:1118513181",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/conductor-para-servicios-veterinarios-veterinaria-runa-luna-1118513181.html",
+                   "capturadoEn":  "2026-11-10T23:21:15+00:00"
+               },
+    "titulo":  "Conductor para Servicios Veterinarios",
+    "empresa":  "VETERINARIA RUNA LUNA",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Conductor para Servicios Veterinarios Resumen del Puesto Estamos en la búsqueda de un Conductor responsable y con vocación de servicio para integrarse a nuestro equipo. El candidato ideal deberá poseer una licencia de conducir vigente y demostrar un trato amable y cuidadoso hacia los animales. Responsabilidades Realizar traslados de animales y materiales relacionados con servicios veterinarios. Asegurar el bienestar y la seguridad de los animales durante los traslados. Manejar vehículos de forma segura y eficiente, incluyendo transmisiones mecánicas. Mantener el vehículo en óptimas condiciones de limpieza y funcionamiento. Colaborar con el equipo para garantizar la correcta ejecución de los servicios. Requisitos Licencia de conducir vigente (categoría A 1 o equivalente). Experiencia demostrable en el manejo de vehículos con transmisión mecánica. Paciencia, empatía y un genuino afecto por los animales. Disponibilidad para trabajar en horario de lunes a sábado. Capacidad para iniciar labores de forma inmediata. Excelentes habilidades de conducción y conocimiento de normas de tránsito. Interesados comunicarse directamente",
+    "requisitos":  [
+                       "Licencia de conducir vigente (categoría A 1 o equivalente)",
+                       "Experiencia demostrable en el manejo de vehículos con transmisión mecánica",
+                       "Paciencia, empatía y un genuino afecto por los animales",
+                       "Disponibilidad para trabajar en horario de lunes a sábado",
+                       "Capacidad para iniciar labores de forma inmediata",
+                       "Excelentes habilidades de conducción y conocimiento de normas de tránsito",
+                       "Interesados comunicarse directamente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/conductor-para-servicios-veterinarios-veterinaria-runa-luna-1118513181.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/conductor-para-servicios-veterinarios-veterinaria-runa-luna-1118513181.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eConductor para Servicios Veterinarios\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eConductor\u003c/strong\u003e responsable y con vocación de servicio para integrarse a nuestro equipo. El candidato ideal deberá poseer una licencia de conducir vigente y demostrar un trato amable y cuidadoso hacia los animales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar traslados de animales y materiales relacionados con servicios veterinarios.\u003c/li\u003e \u003cli\u003eAsegurar el bienestar y la seguridad de los animales durante los traslados.\u003c/li\u003e \u003cli\u003eManejar vehículos de forma segura y eficiente, incluyendo transmisiones mecánicas.\u003c/li\u003e \u003cli\u003eMantener el vehículo en óptimas condiciones de limpieza y funcionamiento.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para garantizar la correcta ejecución de los servicios.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLicencia de conducir vigente (categoría A \u0026#x31; o equivalente).\u003c/li\u003e \u003cli\u003eExperiencia demostrable en el manejo de vehículos con transmisión mecánica.\u003c/li\u003e \u003cli\u003ePaciencia, empatía y un genuino afecto por los animales.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario de lunes a sábado.\u003c/li\u003e \u003cli\u003eCapacidad para iniciar labores de forma inmediata.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de conducción y conocimiento de normas de tránsito.\u003c/li\u003e \u003cli\u003eInteresados comunicarse directamente\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

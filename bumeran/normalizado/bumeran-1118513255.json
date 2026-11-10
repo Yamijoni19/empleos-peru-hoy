@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513255",
+    "clave":  "id:1118513255",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-de-ventas-treinta-sac-1118513255.html",
+                   "capturadoEn":  "2026-11-10T23:20:52+00:00"
+               },
+    "titulo":  "Ejecutivo/a de Ventas",
+    "empresa":  "TREINTA SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ejecutivo/a de Ventas Resumen del Puesto En Mase buscamos Ejecutivos/as de Ventas con experiencia y motivación para incrementar sus ingresos. El rol principal será la comercialización de servicios en entornos residenciales. Tenemos para puesto PART TIME Y FULL TIME. Responsabilidades Comercializar servicios en edificios residenciales. Gestionar y desarrollar una cartera de clientes. Cumplir con los objetivos de venta establecidos. Proporcionar información detallada sobre los servicios ofrecidos. Requisitos Estudios superiores o técnicos concluidos. Experiencia comprobable en ventas. Habilidades de comunicación y negociación. Orientación a resultados y proactividad. Capacidad para trabajar de forma autónoma. Beneficios Ingreso a planilla. Horario PART TIME y FULL TIME. Sueldo básico competitivo. Cartera de clientes asignada. Beneficios de movilidad. Potencial de ingresos atractivo.",
+    "requisitos":  [
+                       "Estudios superiores o técnicos concluidos",
+                       "Experiencia comprobable en ventas",
+                       "Habilidades de comunicación y negociación",
+                       "Orientación a resultados y proactividad",
+                       "Capacidad para trabajar de forma autónoma"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de movilidad",
+                       "Potencial de ingresos atractivo"
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-de-ventas-treinta-sac-1118513255.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-de-ventas-treinta-sac-1118513255.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEjecutivo/a de Ventas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn Mase buscamos \u003cstrong\u003eEjecutivos/as de Ventas\u003c/strong\u003e con experiencia y motivación para incrementar sus ingresos. El rol principal será la comercialización de servicios en entornos residenciales. Tenemos para puesto \u003cstrong\u003ePART TIME Y FULL TIME. \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComercializar servicios en edificios residenciales.\u003c/li\u003e \u003cli\u003eGestionar y desarrollar una cartera de clientes.\u003c/li\u003e \u003cli\u003eCumplir con los objetivos de venta establecidos.\u003c/li\u003e \u003cli\u003eProporcionar información detallada sobre los servicios ofrecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios superiores o técnicos concluidos.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en ventas.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y negociación.\u003c/li\u003e \u003cli\u003eOrientación a resultados y proactividad.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla.\u003c/li\u003e \u003cli\u003eHorario PART TIME y FULL TIME. \u003c/li\u003e \u003cli\u003eSueldo básico competitivo.\u003c/li\u003e \u003cli\u003eCartera de clientes asignada.\u003c/li\u003e \u003cli\u003eBeneficios de movilidad.\u003c/li\u003e \u003cli\u003ePotencial de ingresos atractivo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

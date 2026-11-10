@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118513237",
+    "clave":  "id:1118513237",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-carga-area-blauer-consultores-1118513237.html",
+                   "capturadoEn":  "2026-11-10T23:21:00+00:00"
+               },
+    "titulo":  "Auxiliar de Carga Área",
+    "empresa":  "Blauer Consultores",
+    "ubicacion":  "Gobierno Regional del Callao",
+    "ciudad":  "Gobierno Regional del Callao",
+    "region":  "Gobierno Regional del Callao",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En Blauer Consultores estamos buscando Auxiliares de Carga Área para nuestro cliente Talma. Si eres proactivo y con gran disposición para trabajar. Esta es una excelente oportunidad para quienes buscan iniciar su trayectoria profesional en un entorno dinámico. Responsabilidades Recepcionar y trasladar la carga. Asistir en las operaciones de carga y descarga de mercancías. Identificar carga en mal estado y registrar sus datos en el sistema. Verificar la correcta clasificación de los envíos. Colaborar en la organización y optimización del espacio de almacenamiento. Mantener el orden y la limpieza en las áreas de trabajo. Cumplir con las normativas de seguridad y procedimientos establecidos. Requisitos Educación secundaria completa. Capacidad para realizar esfuerzo físico y trabajar en equipo. Actitud proactiva y orientada a los resultados. Disponibilidad para trabajar en horarios rotativos. No se requiere experiencia previa.",
+    "requisitos":  [
+                       "Educación secundaria completa",
+                       "Capacidad para realizar esfuerzo físico y trabajar en equipo",
+                       "Actitud proactiva y orientada a los resultados",
+                       "Disponibilidad para trabajar en horarios rotativos",
+                       "No se requiere experiencia previa"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-carga-area-blauer-consultores-1118513237.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-carga-area-blauer-consultores-1118513237.html",
+    "descripcion_html":  "\u003cp\u003eEn Blauer Consultores estamos buscando \u003cstrong\u003eAuxiliares de Carga Área\u003c/strong\u003e para nuestro cliente Talma. Si eres proactivo y con gran disposición para trabajar. Esta es una excelente oportunidad para quienes buscan iniciar su trayectoria profesional en un entorno dinámico.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecepcionar y trasladar la carga.\u003c/li\u003e \u003cli\u003eAsistir en las operaciones de carga y descarga de mercancías.\u003c/li\u003e \u003cli\u003eIdentificar carga en mal estado y registrar sus datos en el sistema.\u003c/li\u003e \u003cli\u003eVerificar la correcta clasificación de los envíos.\u003c/li\u003e \u003cli\u003eColaborar en la organización y optimización del espacio de almacenamiento.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza en las áreas de trabajo.\u003c/li\u003e \u003cli\u003eCumplir con las normativas de seguridad y procedimientos establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEducación secundaria completa.\u003c/li\u003e \u003cli\u003eCapacidad para realizar esfuerzo físico y trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientada a los resultados.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos.\u003c/li\u003e \u003cli\u003eNo se requiere experiencia previa.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

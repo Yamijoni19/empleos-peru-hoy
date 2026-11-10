@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118513230",
+    "clave":  "id:1118513230",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/recepcionista-de-hotel-ht-kira-1118513230.html",
+                   "capturadoEn":  "2026-11-10T23:21:02+00:00"
+               },
+    "titulo":  "Recepcionista de Hotel",
+    "empresa":  "HT KIRA",
+    "ubicacion":  "Lima - San Juan de Miraflores",
+    "ciudad":  "San Juan de Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Recepcionista de Hotel Resumen del Puesto Buscamos un Recepcionista de Hotel proactivo y con gran vocación de servicio para unirse a nuestro equipo. El candidato ideal será la primera cara de nuestro establecimiento, asegurando una experiencia positiva y memorable para todos nuestros huéspedes. Valoramos la actitud, la capacidad de aprendizaje y el compromiso con la excelencia en el servicio. Responsabilidades Principales Realizar el registro de huéspedes y la actualización de información en los sistemas de gestión hotelera. Atender de manera cordial y eficiente las llamadas telefónicas, mensajes y consultas presenciales de los huéspedes. Gestionar los procesos de check-in y check-out de manera ágil y precisa. Administrar la caja, procesando cobros en efectivo y con tarjeta con la máxima transparencia y seguridad. Requisitos Se valorará experiencia previa, pero se priorizará una actitud positiva y la capacidad de aprendizaje rápido. Conocimientos básicos de computación y disposición para familiarizarse con sistemas de gestión hotelera (CRM). Demostrar honestidad, puntualidad y un alto sentido de la responsabilidad. Disponibilidad para integrarse a un entorno laboral formal y seguro. Beneficios Incorporación a planilla con todos los beneficios de ley. Buen ambiente laboral",
+    "requisitos":  [
+                       "Se valorará experiencia previa, pero se priorizará una actitud positiva y la capacidad de aprendizaje rápido",
+                       "Conocimientos básicos de computación y disposición para familiarizarse con sistemas de gestión hotelera (CRM)",
+                       "Demostrar honestidad, puntualidad y un alto sentido de la responsabilidad",
+                       "Disponibilidad para integrarse a un entorno laboral formal y seguro"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Buen ambiente laboral"
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/recepcionista-de-hotel-ht-kira-1118513230.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/recepcionista-de-hotel-ht-kira-1118513230.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRecepcionista de Hotel\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eRecepcionista de Hotel\u003c/strong\u003e proactivo y con gran vocación de servicio para unirse a nuestro equipo. El candidato ideal será la primera cara de nuestro establecimiento, asegurando una experiencia positiva y memorable para todos nuestros huéspedes. Valoramos la actitud, la capacidad de aprendizaje y el compromiso con la excelencia en el servicio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades Principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar el registro de huéspedes y la actualización de información en los sistemas de gestión hotelera.\u003c/li\u003e \u003cli\u003eAtender de manera cordial y eficiente las llamadas telefónicas, mensajes y consultas presenciales de los huéspedes.\u003c/li\u003e \u003cli\u003eGestionar los procesos de check-in y check-out de manera ágil y precisa.\u003c/li\u003e \u003cli\u003eAdministrar la caja, procesando cobros en efectivo y con tarjeta con la máxima transparencia y seguridad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSe valorará experiencia previa, pero se priorizará una actitud positiva y la capacidad de aprendizaje rápido.\u003c/li\u003e \u003cli\u003eConocimientos básicos de computación y disposición para familiarizarse con sistemas de gestión hotelera (CRM).\u003c/li\u003e \u003cli\u003eDemostrar honestidad, puntualidad y un alto sentido de la responsabilidad.\u003c/li\u003e \u003cli\u003eDisponibilidad para integrarse a un entorno laboral formal y seguro.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIncorporación a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eBuen ambiente laboral\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

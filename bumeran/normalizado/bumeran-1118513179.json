@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513179",
+    "clave":  "id:1118513179",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/community-manager-solutions-company-vicorpcav-sac-1118513179.html",
+                   "capturadoEn":  "2026-11-10T23:21:17+00:00"
+               },
+    "titulo":  "Community Manager",
+    "empresa":  "SOLUTIONS COMPANY VICORPCAV SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Nos caracterizamos por trabajar con profesionalismo, responsabilidad y eficiencia, ofreciendo un servicio personalizado que genera confianza y valor en cada proyecto que desarrollamos. Community Manager Resumen del Puesto Buscamos un profesional creativo, dinámico y proactivo, con una gran pasión por las redes sociales, para integrarse a nuestro equipo. El candidato ideal será responsable de la gestión y crecimiento de nuestra presencia en plataformas digitales. Responsabilidades Gestionar activamente las redes sociales. Crear y programar contenido atractivo y relevante para diversas plataformas. Interactuar con la comunidad, respondiendo consultas y comentarios de manera oportuna. Proponer e implementar estrategias para aumentar el alcance y la interacción. Monitorear tendencias del sector y analizar el rendimiento de las acciones. Colaborar con el equipo de Marketing en la coordinación de campañas digitales. Requisitos Formación en Marketing, Comunicaciones o áreas afines. Experiencia comprobable en gestión de redes sociales. Conocimiento de las principales plataformas sociales. Excelentes habilidades de redacción, comunicación y creatividad. Manejo básico de herramientas de diseño y edición. Capacidad de organización y de trabajo en equipo.",
+    "requisitos":  [
+                       "Formación en Marketing, Comunicaciones o áreas afines",
+                       "Experiencia comprobable en gestión de redes sociales",
+                       "Conocimiento de las principales plataformas sociales",
+                       "Excelentes habilidades de redacción, comunicación y creatividad",
+                       "Manejo básico de herramientas de diseño y edición",
+                       "Capacidad de organización y de trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/community-manager-solutions-company-vicorpcav-sac-1118513179.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/community-manager-solutions-company-vicorpcav-sac-1118513179.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eNos caracterizamos por trabajar con profesionalismo, responsabilidad y eficiencia, ofreciendo un servicio personalizado que genera confianza y valor en cada proyecto que desarrollamos.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eCommunity Manager\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un profesional creativo, dinámico y proactivo, con una gran pasión por las redes sociales, para integrarse a nuestro equipo. El candidato ideal será responsable de la gestión y crecimiento de nuestra presencia en plataformas digitales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar activamente las redes sociales.\u003c/li\u003e \u003cli\u003eCrear y programar contenido atractivo y relevante para diversas plataformas.\u003c/li\u003e \u003cli\u003eInteractuar con la comunidad, respondiendo consultas y comentarios de manera oportuna.\u003c/li\u003e \u003cli\u003eProponer e implementar estrategias para aumentar el alcance y la interacción.\u003c/li\u003e \u003cli\u003eMonitorear tendencias del sector y analizar el rendimiento de las acciones.\u003c/li\u003e \u003cli\u003eColaborar con el equipo de Marketing en la coordinación de campañas digitales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación en Marketing, Comunicaciones o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en gestión de redes sociales.\u003c/li\u003e \u003cli\u003eConocimiento de las principales plataformas sociales.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de redacción, comunicación y creatividad.\u003c/li\u003e \u003cli\u003eManejo básico de herramientas de diseño y edición.\u003c/li\u003e \u003cli\u003eCapacidad de organización y de trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
