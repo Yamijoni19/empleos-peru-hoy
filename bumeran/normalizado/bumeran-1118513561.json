@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118513561",
+    "clave":  "id:1118513561",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicantes-de-electronica-y-electricidad-falcon-peru-1118513561.html",
+                   "capturadoEn":  "2026-11-11T14:31:42+00:00"
+               },
+    "titulo":  "Practicantes de Electrónica y Electricidad",
+    "empresa":  "Falcon Peru",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  500,
+                    "max":  600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 500 - S/ 600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicantes de Electrónica y Electricidad (Lima) Apoyar en la instalación y prueba de sistemas de seguridad electrónica (cámaras CCTV, cercos eléctricos, alarmas, entre otros). Asistir al equipo técnico en trabajos de campo. Colaborar en la configuración, pruebas y entrega de los sistemas. Mantener el orden de las herramientas y materiales.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicantes-de-electronica-y-electricidad-falcon-peru-1118513561.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicantes-de-electronica-y-electricidad-falcon-peru-1118513561.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003ePracticantes de Electrónica y Electricidad (Lima)\u003c/strong\u003e\u003c/p\u003e\u003c/p\u003e \u003cul\u003e \u003cli\u003eApoyar en la instalación y prueba de sistemas de seguridad electrónica (cámaras CCTV, cercos eléctricos, alarmas, entre otros).\u003c/li\u003e \u003cli\u003eAsistir al equipo técnico en trabajos de campo.\u003c/li\u003e \u003cli\u003eColaborar en la configuración, pruebas y entrega de los sistemas.\u003c/li\u003e \u003cli\u003eMantener el orden de las herramientas y materiales.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

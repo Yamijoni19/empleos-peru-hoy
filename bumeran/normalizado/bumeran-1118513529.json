@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513529",
+    "clave":  "id:1118513529",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cocinero-a-7-puertos4-1118513529.html",
+                   "capturadoEn":  "2026-11-11T14:31:45+00:00"
+               },
+    "titulo":  "Cocinero/a",
+    "empresa":  "7 Puertos4",
+    "ubicacion":  "Lima - La Molina",
+    "ciudad":  "La Molina",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cocinero/a Resumen del Puesto Estamos en la búsqueda de un/a Cocinero/a con experiencia y pasión por la gastronomía para unirse a nuestro equipo. El candidato ideal poseerá un dominio de técnicas culinarias, con especial énfasis en la preparación de platos de cocina internacional, tanto en preparaciones calientes como frías. Responsabilidades Preparar y ejecutar platos de alta calidad, siguiendo estándares establecidos. Colaborar en la innovación y desarrollo de nuevas propuestas para el menú. Mantener la excelencia en la presentación y servicio de los alimentos. Trabajar de manera eficiente en un entorno dinámico y de alta demanda. Asegurar la limpieza y el orden en la cocina, cumpliendo con las normativas de higiene y seguridad alimentaria. Participar activamente en el equipo, compartiendo conocimientos y colaborando en el logro de objetivos comunes. Requisitos Experiencia comprobable en puestos de cocina. Conocimiento y habilidad en técnicas culinarias, incluyendo cocina caliente y fría. Capacidad creativa y proactiva para la mejora continua. Habilidad para trabajar en equipo y bajo presión. Disposición para aprender y adaptarse a nuevos desafíos. Actitud positiva y compromiso con la calidad.",
+    "requisitos":  [
+                       "Experiencia comprobable en puestos de cocina",
+                       "Conocimiento y habilidad en técnicas culinarias, incluyendo cocina caliente y fría",
+                       "Capacidad creativa y proactiva para la mejora continua",
+                       "Habilidad para trabajar en equipo y bajo presión",
+                       "Disposición para aprender y adaptarse a nuevos desafíos",
+                       "Actitud positiva y compromiso con la calidad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cocinero-a-7-puertos4-1118513529.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cocinero-a-7-puertos4-1118513529.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eCocinero/a\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un/a \u003cstrong\u003eCocinero/a\u003c/strong\u003e con experiencia y pasión por la gastronomía para unirse a nuestro equipo. El candidato ideal poseerá un dominio de técnicas culinarias, con especial énfasis en la preparación de platos de cocina internacional, tanto en preparaciones calientes como frías.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePreparar y ejecutar platos de alta calidad, siguiendo estándares establecidos.\u003c/li\u003e \u003cli\u003eColaborar en la innovación y desarrollo de nuevas propuestas para el menú.\u003c/li\u003e \u003cli\u003eMantener la excelencia en la presentación y servicio de los alimentos.\u003c/li\u003e \u003cli\u003eTrabajar de manera eficiente en un entorno dinámico y de alta demanda.\u003c/li\u003e \u003cli\u003eAsegurar la limpieza y el orden en la cocina, cumpliendo con las normativas de higiene y seguridad alimentaria.\u003c/li\u003e \u003cli\u003eParticipar activamente en el equipo, compartiendo conocimientos y colaborando en el logro de objetivos comunes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en puestos de cocina.\u003c/li\u003e \u003cli\u003eConocimiento y habilidad en técnicas culinarias, incluyendo cocina caliente y fría.\u003c/li\u003e \u003cli\u003eCapacidad creativa y proactiva para la mejora continua.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y bajo presión.\u003c/li\u003e \u003cli\u003eDisposición para aprender y adaptarse a nuevos desafíos.\u003c/li\u003e \u003cli\u003eActitud positiva y compromiso con la calidad.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

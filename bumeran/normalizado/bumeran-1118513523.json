@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118513523",
+    "clave":  "id:1118513523",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-logistico-de-almacen-eligeme-sac-1118513523.html",
+                   "capturadoEn":  "2026-11-11T14:31:48+00:00"
+               },
+    "titulo":  "Operario Logístico de Almacén",
+    "empresa":  "ELIGEME SAC",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario Logístico de Almacén Resumen del Puesto Estamos en la búsqueda de un Operario Logístico de Almacén dinámico y proactivo para integrarse a nuestro equipo. Esta posición es ideal para personas que buscan desarrollarse en el área de logística, con o sin experiencia previa. Se valorará la capacidad de aprendizaje y la disposición para asumir diversas tareas dentro del almacén. Responsabilidades Realizar tareas de picking y packing de mercadería. Participar en la gestión de inventario . Colaborar en la preparación y despacho de envíos . Mantener el orden y la limpieza del área de trabajo. Asistir en otras funciones logísticas según sea necesario. Requisitos Edad: entre 1 8 y 2 0 años. No se requiere experiencia previa, pero se valorará. Conocimientos básicos de logística (deseable). Capacidad para trabajar en equipo. Actitud proactiva y responsable. Disponibilidad para trabajar en modalidad part time o full time .",
+    "requisitos":  [
+                       "Edad: entre 1 8 y 2 0 años",
+                       "No se requiere experiencia previa, pero se valorará",
+                       "Conocimientos básicos de logística (deseable)",
+                       "Capacidad para trabajar en equipo",
+                       "Actitud proactiva y responsable",
+                       "Disponibilidad para trabajar en modalidad part time o full time"
+                   ],
+    "funciones":  [
+                      "logísticas según sea necesario"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-logistico-de-almacen-eligeme-sac-1118513523.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-logistico-de-almacen-eligeme-sac-1118513523.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOperario Logístico de Almacén\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eOperario Logístico de Almacén\u003c/strong\u003e dinámico y proactivo para integrarse a nuestro equipo. Esta posición es ideal para personas que buscan desarrollarse en el área de logística, con o sin experiencia previa. Se valorará la capacidad de aprendizaje y la disposición para asumir diversas tareas dentro del almacén.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar tareas de \u003cstrong\u003epicking\u003c/strong\u003e y \u003cstrong\u003epacking\u003c/strong\u003e de mercadería.\u003c/li\u003e \u003cli\u003eParticipar en la gestión de \u003cstrong\u003einventario\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eColaborar en la preparación y despacho de \u003cstrong\u003eenvíos\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eMantener el orden y la limpieza del área de trabajo.\u003c/li\u003e \u003cli\u003eAsistir en otras funciones logísticas según sea necesario.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEdad: entre \u0026#x31; \u0026#x38; y \u0026#x32; \u0026#x30; años.\u003c/li\u003e \u003cli\u003eNo se requiere experiencia previa, pero se valorará.\u003c/li\u003e \u003cli\u003eConocimientos básicos de logística (deseable).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud proactiva y responsable.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en modalidad \u003cstrong\u003epart time\u003c/strong\u003e o \u003cstrong\u003efull time\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
