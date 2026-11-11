@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118516922",
+    "clave":  "id:1118516922",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-instalaciones-domiciliarias-jmconnect-1118516922.html",
+                   "capturadoEn":  "2026-11-11T21:57:24+00:00"
+               },
+    "titulo":  "Técnico de Instalaciones Domiciliarias",
+    "empresa":  "JMCONNECT",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Empresa de Telecomunicaciones que ofrece sueldo fijo más bonos, oportunidad de crecimiento y buen ambiente laboral; buscamos personal para instalaciones que tenga conocimiento en cableado y fibra óptica, buen manejo de herramientas y equipos técnicos, personal con responsabilidad y compromiso. Ésta es tu oportunidad. Técnico de Instalaciones Domiciliarias Resumen del Puesto Buscamos un Técnico de Instalaciones Domiciliarias con experiencia para unirse a nuestro equipo. El candidato ideal tendrá conocimientos en fibra óptica y cableado, manejo de herramientas técnicas y un fuerte compromiso con la calidad del servicio. Responsabilidades Ejecutar trabajos de instalación de servicios domiciliarios. Realizar instalaciones de fibra óptica y cableado. Manejar adecuadamente herramientas y equipos técnicos. Asegurar la correcta funcionalidad de los servicios instalados. Mantener un alto nivel de responsabilidad y compromiso en las tareas asignadas. Requisitos Experiencia comprobable en instalación de servicios domiciliarios. Conocimientos en fibra óptica y cableado. Manejo de herramientas y equipos técnicos. Capacidad para trabajar en equipo. Responsabilidad y compromiso. Orientación a la calidad y al cumplimiento de objetivos.",
+    "requisitos":  [
+                       "Experiencia comprobable en instalación de servicios domiciliarios",
+                       "Conocimientos en fibra óptica y cableado",
+                       "Manejo de herramientas y equipos técnicos",
+                       "Capacidad para trabajar en equipo",
+                       "Responsabilidad y compromiso",
+                       "Orientación a la calidad y al cumplimiento de objetivos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-instalaciones-domiciliarias-jmconnect-1118516922.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-instalaciones-domiciliarias-jmconnect-1118516922.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEmpresa de Telecomunicaciones que ofrece sueldo fijo más bonos, oportunidad de crecimiento y buen ambiente laboral; buscamos personal para instalaciones que tenga conocimiento en cableado y fibra óptica, buen manejo de herramientas y equipos técnicos, personal con responsabilidad y compromiso.\u003c/p\u003e\u003cp\u003eÉsta es tu oportunidad.\u003c/p\u003e\u003c/p\u003e \u003cb\u003eTécnico de Instalaciones Domiciliarias\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico de Instalaciones Domiciliarias\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá conocimientos en fibra óptica y cableado, manejo de herramientas técnicas y un fuerte compromiso con la calidad del servicio.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eEjecutar trabajos de instalación de servicios domiciliarios.\u003c/li\u003e \u003cli\u003eRealizar instalaciones de fibra óptica y cableado.\u003c/li\u003e \u003cli\u003eManejar adecuadamente herramientas y equipos técnicos.\u003c/li\u003e \u003cli\u003eAsegurar la correcta funcionalidad de los servicios instalados.\u003c/li\u003e \u003cli\u003eMantener un alto nivel de responsabilidad y compromiso en las tareas asignadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en instalación de servicios domiciliarios.\u003c/li\u003e \u003cli\u003eConocimientos en fibra óptica y cableado.\u003c/li\u003e \u003cli\u003eManejo de herramientas y equipos técnicos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eResponsabilidad y compromiso.\u003c/li\u003e \u003cli\u003eOrientación a la calidad y al cumplimiento de objetivos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

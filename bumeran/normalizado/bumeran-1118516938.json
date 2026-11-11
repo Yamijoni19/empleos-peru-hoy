@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118516938",
+    "clave":  "id:1118516938",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ing-de-diseno--especialidad-electricista-tigerengineering-colombia-s.a.s.-sucursal-del-peru-summum-1118516938.html",
+                   "capturadoEn":  "2026-11-11T21:57:19+00:00"
+               },
+    "titulo":  "ING DE DISEÑO – ESPECIALIDAD ELECTRICISTA",
+    "empresa":  "TIGERENGINEERING COLOMBIA S.A.S. SUCURSAL DEL PERU (SUMMUM)",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Título Profesional de Ingeniero Eléctrico, Mecánico Eléctrico o afines, con experiencia de más de 6 años en ingeniería eléctrica para esta disciplina en el sector de Oil \u0026 Gas. Experiencia en diseño de sistemas eléctricos de baja y media tensión de proyectos Industriales, Hidrocarburos y/o Minería. Dominio de Software de diseño ETAP, Digsilent o similar. Conocimiento del Código Nacional de Electricidad y aplicación de normas internacionales IEC, IEEE, NFPA, NACE, API. Funciones principales: Elaboración de ingeniería para proyectos Upstream and Downstream en la disciplina electricidad Dominio de software de diseño y cálculos de su especialidad para dimensionamiento de componentes y sistemas de baja y media tensión. Desarrollo de ingeniería asociada a sistemas de generación, distribución, sistemas de protecciones. Elaboración de especificaciones técnicas, hojas de datos, memorias de cálculo y otros asociados a su disciplina. Beneficios: - Ingreso a planilla con todos los beneficios de ley desde el primer día de labores - EPS cubierta al 100% - Seguro Oncologico Cubierto al 100%",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Elaboración de ingeniería para proyectos Upstream and Downstream en la disciplina electricidad",
+                      "Dominio de software de diseño y cálculos de su especialidad para dimensionamiento de componentes y sistemas de baja y media tensión",
+                      "Desarrollo de ingeniería asociada a sistemas de generación, distribución, sistemas de protecciones",
+                      "Elaboración de especificaciones técnicas, hojas de datos, memorias de cálculo y otros asociados a su disciplina"
+                  ],
+    "beneficios":  [
+                       "de ley desde el primer día de labores",
+                       "EPS cubierta al 100%",
+                       "Seguro Oncologico Cubierto al 100%"
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ing-de-diseno--especialidad-electricista-tigerengineering-colombia-s.a.s.-sucursal-del-peru-summum-1118516938.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ing-de-diseno--especialidad-electricista-tigerengineering-colombia-s.a.s.-sucursal-del-peru-summum-1118516938.html",
+    "descripcion_html":  "\u003cp\u003eTítulo Profesional de Ingeniero Eléctrico, Mecánico Eléctrico o afines, con experiencia de más de 6 años en ingeniería eléctrica para esta disciplina en el sector de Oil \u0026 Gas. \u003c/p\u003e\u003cp\u003eExperiencia en diseño de sistemas eléctricos de baja y media tensión de proyectos Industriales, Hidrocarburos y/o Minería. \u003c/p\u003e\u003cp\u003eDominio de Software de diseño ETAP, Digsilent o similar. \u003c/p\u003e\u003cp\u003eConocimiento del Código Nacional de Electricidad y aplicación de normas internacionales IEC, IEEE, NFPA, NACE, API. \u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eElaboración de ingeniería para proyectos Upstream and Downstream en la disciplina electricidad\u003c/p\u003e\u003cp\u003eDominio de software de diseño y cálculos de su especialidad para dimensionamiento de componentes y sistemas de baja y media tensión. \u003c/p\u003e\u003cp\u003eDesarrollo de ingeniería asociada a sistemas de generación, distribución, sistemas de protecciones. \u003c/p\u003e\u003cp\u003eElaboración de especificaciones técnicas, hojas de datos, memorias de cálculo y otros asociados a su disciplina.\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003e- Ingreso a planilla con todos los beneficios de ley desde el primer día de labores\u003c/p\u003e\u003cp\u003e- EPS cubierta al 100%\u003c/p\u003e\u003cp\u003e- Seguro Oncologico Cubierto al 100%\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

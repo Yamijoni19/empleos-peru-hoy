@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118516941",
+    "clave":  "id:1118516941",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-y-carga-aeroportuaria-|-convocatoria-presencial--viernes-13-talma-servicios-aeroportuarios-1118516941.html",
+                   "capturadoEn":  "2026-11-11T21:57:17+00:00"
+               },
+    "titulo":  "Operario de Almacén y Carga Aeroportuaria | CONVOCATORIA PRESENCIAL – VIERNES 13",
+    "empresa":  "Talma Servicios Aeroportuarios",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  2100,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.2100",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "¡VEN DIRECTAMENTE A NUESTRA CONVOCATORIA PRESENCIAL! ✈️ En Talma buscamos personas interesadas en formar parte de nuestras operaciones aeroportuarias. Fecha: Viernes 13 de noviembre Hora: 8:00 a. m. Lugar: Lima Cargo City (Av. Elmer Faucett 2879 - Callao) Trae tu DNI y CV actualizado ¿Qué necesitas? Secundaria completa. Vivir en zonas aledañas al Aeropuerto Jorge Chávez o tener facilidad para trasladarte a la zona. Disponibilidad para realizar labores operativas. Disponibilidad para trabajar en horarios rotativos. (Colócalo solo si aplica.) ¿Qué realizarás? Apoyarás en nuestras operaciones de carga, realizando actividades como recepción, clasificación, estiba, desestiba, paletizado y despacho de carga, cumpliendo los procedimientos de seguridad y calidad establecidos. ¿Interesado/a? No necesitas esperar una llamada. Preséntate directamente este viernes 13 a las 8:00 a. m. con tu DNI y CV. ¡Te esperamos! Sé parte de Talma y del mundo aeroportuario. ✈️",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-y-carga-aeroportuaria-|-convocatoria-presencial--viernes-13-talma-servicios-aeroportuarios-1118516941.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-y-carga-aeroportuaria-|-convocatoria-presencial--viernes-13-talma-servicios-aeroportuarios-1118516941.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡VEN DIRECTAMENTE A NUESTRA CONVOCATORIA PRESENCIAL! \u0026#x2708;\u0026#xfe0f;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eTalma\u003c/strong\u003e buscamos personas interesadas en formar parte de nuestras operaciones aeroportuarias.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFecha:\u003c/strong\u003e Viernes 13 de noviembre \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHora:\u003c/strong\u003e 8:00 a. m. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLugar:\u003c/strong\u003e Lima Cargo City (Av. Elmer Faucett 2879 - Callao)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTrae tu DNI y CV actualizado\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitas?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eVivir en zonas aledañas al Aeropuerto Jorge Chávez o tener facilidad para trasladarte a la zona.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar labores operativas.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos. \u003cem\u003e(Colócalo solo si aplica.)\u003c/em\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué realizarás?\u003c/strong\u003e Apoyarás en nuestras operaciones de carga, realizando actividades como recepción, clasificación, estiba, desestiba, paletizado y despacho de carga, cumpliendo los procedimientos de seguridad y calidad establecidos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Interesado/a?\u003c/strong\u003e No necesitas esperar una llamada. \u003cstrong\u003ePreséntate directamente este viernes 13 a las 8:00 a. m. con tu DNI y CV.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Te esperamos! Sé parte de Talma y del mundo aeroportuario. \u0026#x2708;\u0026#xfe0f;\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
