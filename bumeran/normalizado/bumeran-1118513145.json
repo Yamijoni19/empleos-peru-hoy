@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118513145",
+    "clave":  "id:1118513145",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/personal-de-atencion-al-cliente-part-y-full-time-katenm-s.r.l.-1118513145.html",
+                   "capturadoEn":  "2026-11-11T06:17:22+00:00"
+               },
+    "titulo":  "Personal de Atención al Cliente Part y Full Time",
+    "empresa":  "Katenm S.R.L.",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1231,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,231",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En Katenm estamos en la búsqueda de Personal de Atención al Cliente. Si te apasiona brindar una excelente atención y deseas formar parte de un equipo comprometido con la calidad y el servicio, ¡esta oportunidad es para ti! \u0026#x1f4cb; Requisitos: Experiencia previa en atención al cliente o puestos similares. Disponibilidad para laborar en turnos rotativos. Proactividad, responsabilidad y orientación al trabajo en equipo. Comunicación asertiva y excelente trato al cliente. ✨ Beneficios: Remuneración acorde al mercado. Ingreso a planilla. Excelente ambiente laboral. ¡Esperamos conocerte y que formes parte de la familia Katenm Pastelería!",
+    "requisitos":  [
+                       "Experiencia previa en atención al cliente o puestos similares",
+                       "Disponibilidad para laborar en turnos rotativos",
+                       "Proactividad, responsabilidad y orientación al trabajo en equipo",
+                       "Comunicación asertiva y excelente trato al cliente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Remuneración acorde al mercado",
+                       "Ingreso a planilla",
+                       "Excelente ambiente laboral",
+                       "¡Esperamos conocerte y que formes parte de la familia Katenm Pastelería!"
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/personal-de-atencion-al-cliente-part-y-full-time-katenm-s.r.l.-1118513145.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/personal-de-atencion-al-cliente-part-y-full-time-katenm-s.r.l.-1118513145.html",
+    "descripcion_html":  "\u003cp\u003eEn Katenm estamos en la búsqueda de Personal de Atención al Cliente. Si te apasiona brindar una excelente atención y deseas formar parte de un equipo comprometido con la calidad y el servicio, ¡esta oportunidad es para ti!\u003c/p\u003e\u003cp\u003e \u0026#x1f4cb; \u003cem\u003eRequisitos:\u003c/em\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en atención al cliente o puestos similares.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en turnos rotativos.\u003c/li\u003e \u003cli\u003eProactividad, responsabilidad y orientación al trabajo en equipo.\u003c/li\u003e \u003cli\u003eComunicación asertiva y excelente trato al cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e \u0026#x2728; \u003cem\u003eBeneficios:\u003c/em\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eIngreso a planilla.\u003c/li\u003e \u003cli\u003eExcelente ambiente laboral.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Esperamos conocerte y que formes parte de la familia Katenm Pastelería!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
