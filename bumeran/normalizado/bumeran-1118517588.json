@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118517588",
+    "clave":  "id:1118517588",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/counter-caja-ejercicio-y-mas-s.a.c.-1118517588.html",
+                   "capturadoEn":  "2026-11-12T18:55:38+00:00"
+               },
+    "titulo":  "Counter - Caja",
+    "empresa":  "EJERCICIO Y MAS S.A.C.",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1229,
+                    "max":  1230,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,229 - S/ 1,230",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "GIMNASIO SPORTLIFE FITNESS CLUB En Sportlife Fitness Club buscamos una persona responsable, organizada y con buen trato para atender a nuestros socios y visitantes y encargarse de la caja y counter. Funciones principales Recibir y orientar a socios y visitantes, y verificar su ingreso al gimnasio. Realizar cobros, emitir comprobantes y efectuar el cierre de caja. Resolver consultas sobre horarios, servicios y clases. Requisitos Experiencia en caja, recepción o atención al cliente. Manejo de POS y herramientas informáticas básicas. Buena comunicación, atención al detalle y vocación de servicio. Condiciones del puesto Horario Full Time ( 8 horas) Turno Tarde o Turno Mañana. Ingreso a planilla con todos los beneficios de ley. ¡Postula y forma parte del equipo Sportlife!",
+    "requisitos":  [
+                       "Experiencia en caja, recepción o atención al cliente",
+                       "Manejo de POS y herramientas informáticas básicas",
+                       "Buena comunicación, atención al detalle y vocación de servicio"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Recibir y orientar a socios y visitantes, y verificar su ingreso al gimnasio",
+                      "Realizar cobros, emitir comprobantes y efectuar el cierre de caja",
+                      "Resolver consultas sobre horarios, servicios y clases"
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "¡Postula y forma parte del equipo Sportlife!"
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/counter-caja-ejercicio-y-mas-s.a.c.-1118517588.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/counter-caja-ejercicio-y-mas-s.a.c.-1118517588.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eGIMNASIO SPORTLIFE FITNESS CLUB\u003c/strong\u003e En Sportlife Fitness Club buscamos una persona responsable, organizada y con buen trato para atender a nuestros socios y visitantes y encargarse de la caja y counter.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecibir y orientar a socios y visitantes, y verificar su ingreso al gimnasio.\u003c/li\u003e \u003cli\u003eRealizar cobros, emitir comprobantes y efectuar el cierre de caja.\u003c/li\u003e \u003cli\u003eResolver consultas sobre horarios, servicios y clases.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia en caja, recepción o atención al cliente.\u003c/li\u003e \u003cli\u003eManejo de POS y herramientas informáticas básicas.\u003c/li\u003e \u003cli\u003eBuena comunicación, atención al detalle y vocación de servicio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones del puesto\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eHorario Full Time ( 8 horas)\u003c/li\u003e \u003cli\u003eTurno Tarde o Turno Mañana.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Postula y forma parte del equipo Sportlife!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

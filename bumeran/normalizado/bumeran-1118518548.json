@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118518548",
+    "clave":  "id:1118518548",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/quimico-farmaceutico-sector-minero-minera-buenaventura-1118518548.html",
+                   "capturadoEn":  "2026-11-12T18:55:23+00:00"
+               },
+    "titulo":  "Químico Farmacéutico - Sector Minero",
+    "empresa":  "MINERA BUENAVENTURA",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  7200,
+                    "max":  9800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 7,200 - S/ 9,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Químico Farmacéutico - Sector Minero Resumen del Puesto Estamos en la búsqueda de un Químico Farmacéutico con experiencia para integrarse a nuestro equipo en el sector minero. El profesional ideal deberá poseer un sólido conocimiento técnico y la capacidad de aplicar principios científicos en un entorno industrial desafiante. Responsabilidades Supervisar y controlar procesos químicos relacionados con la actividad minera. Garantizar el cumplimiento de normativas de seguridad y calidad en el manejo de sustancias. Realizar análisis y pruebas para asegurar la eficiencia y optimización de los procesos. Colaborar con equipos multidisciplinarios para la resolución de problemas técnicos. Mantenerse actualizado sobre avances tecnológicos y metodologías en química aplicada al sector. Requisitos Título universitario de Químico Farmacéutico o carrera afín. Experiencia comprobable en el sector minero o industrias de procesos similares. Conocimiento en normativas de seguridad industrial y gestión ambiental. Habilidades analíticas y de resolución de problemas. Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades de comunicación.",
+    "requisitos":  [
+                       "Título universitario de Químico Farmacéutico o carrera afín",
+                       "Experiencia comprobable en el sector minero o industrias de procesos similares",
+                       "Conocimiento en normativas de seguridad industrial y gestión ambiental",
+                       "Habilidades analíticas y de resolución de problemas",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Excelentes habilidades de comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/quimico-farmaceutico-sector-minero-minera-buenaventura-1118518548.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/quimico-farmaceutico-sector-minero-minera-buenaventura-1118518548.html",
+    "descripcion_html":  "\u003cb\u003eQuímico Farmacéutico - Sector Minero\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eQuímico Farmacéutico\u003c/b\u003e con experiencia para integrarse a nuestro equipo en el sector minero. El profesional ideal deberá poseer un sólido conocimiento técnico y la capacidad de aplicar principios científicos en un entorno industrial desafiante.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y controlar procesos químicos relacionados con la actividad minera.\u003c/li\u003e \u003cli\u003eGarantizar el cumplimiento de normativas de seguridad y calidad en el manejo de sustancias.\u003c/li\u003e \u003cli\u003eRealizar análisis y pruebas para asegurar la eficiencia y optimización de los procesos.\u003c/li\u003e \u003cli\u003eColaborar con equipos multidisciplinarios para la resolución de problemas técnicos.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre avances tecnológicos y metodologías en química aplicada al sector.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario de Químico Farmacéutico o carrera afín.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en el sector minero o industrias de procesos similares.\u003c/li\u003e \u003cli\u003eConocimiento en normativas de seguridad industrial y gestión ambiental.\u003c/li\u003e \u003cli\u003eHabilidades analíticas y de resolución de problemas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

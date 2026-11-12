@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118518544",
+    "clave":  "id:1118518544",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-ssoma-minera-buenaventura-1118518544.html",
+                   "capturadoEn":  "2026-11-12T18:55:26+00:00"
+               },
+    "titulo":  "Asistente SSOMA",
+    "empresa":  "MINERA BUENAVENTURA",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4600,
+                    "max":  5900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,600 - S/ 5,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente SSOMA Resumen del Puesto Nos encontramos en la búsqueda de un Asistente SSOMA para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos en Seguridad, Salud Ocupacional y Medio Ambiente, con capacidad para colaborar en la implementación y seguimiento de políticas y procedimientos. Responsabilidades Apoyar en la ejecución de planes y programas de SSOMA. Colaborar en la identificación de peligros y evaluación de riesgos. Participar en la inspección de áreas de trabajo y equipos. Asistir en la elaboración de reportes e indicadores de gestión de SSOMA. Contribuir a la promoción de una cultura de seguridad y salud en el trabajo. Requisitos Formación técnica o universitaria en carreras afines a SSOMA, Ingeniería, Prevención de Riesgos o similar. Experiencia previa en el área de SSOMA, preferentemente en entornos industriales o de operaciones. Conocimiento de normativas y estándares de seguridad y salud ocupacional. Capacidad de análisis, organización y atención al detalle. Habilidades de comunicación y trabajo en equipo.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en carreras afines a SSOMA, Ingeniería, Prevención de Riesgos o similar",
+                       "Experiencia previa en el área de SSOMA, preferentemente en entornos industriales o de operaciones",
+                       "Conocimiento de normativas y estándares de seguridad y salud ocupacional",
+                       "Capacidad de análisis, organización y atención al detalle",
+                       "Habilidades de comunicación y trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-ssoma-minera-buenaventura-1118518544.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-ssoma-minera-buenaventura-1118518544.html",
+    "descripcion_html":  "\u003cb\u003eAsistente SSOMA\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de un \u003cb\u003eAsistente SSOMA\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos en Seguridad, Salud Ocupacional y Medio Ambiente, con capacidad para colaborar en la implementación y seguimiento de políticas y procedimientos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la ejecución de planes y programas de SSOMA.\u003c/li\u003e \u003cli\u003eColaborar en la identificación de peligros y evaluación de riesgos.\u003c/li\u003e \u003cli\u003eParticipar en la inspección de áreas de trabajo y equipos.\u003c/li\u003e \u003cli\u003eAsistir en la elaboración de reportes e indicadores de gestión de SSOMA.\u003c/li\u003e \u003cli\u003eContribuir a la promoción de una cultura de seguridad y salud en el trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en carreras afines a SSOMA, Ingeniería, Prevención de Riesgos o similar.\u003c/li\u003e \u003cli\u003eExperiencia previa en el área de SSOMA, preferentemente en entornos industriales o de operaciones.\u003c/li\u003e \u003cli\u003eConocimiento de normativas y estándares de seguridad y salud ocupacional.\u003c/li\u003e \u003cli\u003eCapacidad de análisis, organización y atención al detalle.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

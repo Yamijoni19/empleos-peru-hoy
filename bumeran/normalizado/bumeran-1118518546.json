@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118518546",
+    "clave":  "id:1118518546",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-minera-buenaventura-1118518546.html",
+                   "capturadoEn":  "2026-11-12T18:55:24+00:00"
+               },
+    "titulo":  "Asistente Contable",
+    "empresa":  "MINERA BUENAVENTURA",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4100,
+                    "max":  5200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,100 - S/ 5,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Contable Resumen del Puesto Estamos en la búsqueda de Asistentes Contables para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en contabilidad y la capacidad de adaptarse a diferentes entornos de trabajo, incluyendo oficinas y operaciones en campo. Responsabilidades Colaborar en la preparación y registro de operaciones contables. Apoyar en la conciliación de cuentas y la elaboración de informes. Asistir en la gestión de documentación contable y financiera. Participar en la implementación de procedimientos contables. Adaptarse a las necesidades operativas de la organización. Requisitos Formación técnica o universitaria en Contabilidad o áreas afines. Experiencia previa en funciones contables. Conocimiento de principios contables básicos. Capacidad de organización y atención al detalle. Habilidad para trabajar en equipo y bajo supervisión. Disponibilidad para desplazarse a diferentes locaciones de trabajo.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en Contabilidad o áreas afines",
+                       "Experiencia previa en"
+                   ],
+    "funciones":  [
+                      "contables",
+                      "Conocimiento de principios contables básicos",
+                      "Capacidad de organización y atención al detalle",
+                      "Habilidad para trabajar en equipo y bajo supervisión",
+                      "Disponibilidad para desplazarse a diferentes locaciones de trabajo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-minera-buenaventura-1118518546.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-minera-buenaventura-1118518546.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de \u003cb\u003eAsistentes Contables\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en contabilidad y la capacidad de adaptarse a diferentes entornos de trabajo, incluyendo oficinas y operaciones en campo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación y registro de operaciones contables.\u003c/li\u003e \u003cli\u003eApoyar en la conciliación de cuentas y la elaboración de informes.\u003c/li\u003e \u003cli\u003eAsistir en la gestión de documentación contable y financiera.\u003c/li\u003e \u003cli\u003eParticipar en la implementación de procedimientos contables.\u003c/li\u003e \u003cli\u003eAdaptarse a las necesidades operativas de la organización.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en Contabilidad o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en funciones contables.\u003c/li\u003e \u003cli\u003eConocimiento de principios contables básicos.\u003c/li\u003e \u003cli\u003eCapacidad de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo y bajo supervisión.\u003c/li\u003e \u003cli\u003eDisponibilidad para desplazarse a diferentes locaciones de trabajo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
