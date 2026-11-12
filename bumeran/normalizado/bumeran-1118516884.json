@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118516884",
+    "clave":  "id:1118516884",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnicos-de-mantenimiento-preventivo-y-correctivo-inyectores-manpowergroup-peru-1118516884.html",
+                   "capturadoEn":  "2026-11-12T02:59:31+00:00"
+               },
+    "titulo":  "Técnicos de Mantenimiento Preventivo y correctivo / Inyectores",
+    "empresa":  "ManpowerGroup Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "stamos buscando técnicos de mantenimiento para incorporarse de manera urgente en nuestro equipo industrial. Funciones Gestionar tareas de mantenimiento preventivo y correctivo en instalaciones industriales. Coordinar con proveedores y proveedores de servicios técnicos. Analizar informes de mantenimiento y proponer mejoras. Colaborar con el equipo de producción para asegurar el funcionamiento óptimo de las máquinas. Requisitos Experiencia previa en mantenimiento industrial. Conocimiento de sistemas mecánicos y eléctricos. Capacidad para trabajar en equipo y resolver problemas técnicos. Disponibilidad para trabajar en turnos, incluyendo fines de semana. Beneficios Ofrecemos un salario competitivo dentro del mercado. Contarás con oportunidades de desarrollo profesional. Acceso a programas de formación continua. El rol ofrece una oportunidad única para desarrollar habilidades técnicas y contribuir al éxito de nuestro equipo.",
+    "requisitos":  [
+                       "Experiencia previa en mantenimiento industrial",
+                       "Conocimiento de sistemas mecánicos y eléctricos",
+                       "Capacidad para trabajar en equipo y resolver problemas técnicos",
+                       "Disponibilidad para trabajar en turnos, incluyendo fines de semana"
+                   ],
+    "funciones":  [
+                      "Gestionar tareas de mantenimiento preventivo y correctivo en instalaciones industriales",
+                      "Coordinar con proveedores y proveedores de servicios técnicos",
+                      "Analizar informes de mantenimiento y proponer mejoras",
+                      "Colaborar con el equipo de producción para asegurar el funcionamiento óptimo de las máquinas"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnicos-de-mantenimiento-preventivo-y-correctivo-inyectores-manpowergroup-peru-1118516884.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnicos-de-mantenimiento-preventivo-y-correctivo-inyectores-manpowergroup-peru-1118516884.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003estamos buscando técnicos de mantenimiento para incorporarse de manera urgente en nuestro equipo industrial.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar tareas de mantenimiento preventivo y correctivo en instalaciones industriales.\u003c/li\u003e \u003cli\u003eCoordinar con proveedores y proveedores de servicios técnicos.\u003c/li\u003e \u003cli\u003eAnalizar informes de mantenimiento y proponer mejoras.\u003c/li\u003e \u003cli\u003eColaborar con el equipo de producción para asegurar el funcionamiento óptimo de las máquinas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en mantenimiento industrial.\u003c/li\u003e \u003cli\u003eConocimiento de sistemas mecánicos y eléctricos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y resolver problemas técnicos.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos, incluyendo fines de semana.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOfrecemos un salario competitivo dentro del mercado.\u003c/li\u003e \u003cli\u003eContarás con oportunidades de desarrollo profesional.\u003c/li\u003e \u003cli\u003eAcceso a programas de formación continua.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEl rol ofrece una oportunidad única para desarrollar habilidades técnicas y contribuir al éxito de nuestro equipo.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

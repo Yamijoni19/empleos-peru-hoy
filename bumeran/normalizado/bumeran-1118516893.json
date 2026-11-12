@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118516893",
+    "clave":  "id:1118516893",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-preprofesional-de-ingenieria-civil-grupo-habikon-s.a.c.-1118516893.html",
+                   "capturadoEn":  "2026-11-12T02:59:11+00:00"
+               },
+    "titulo":  "Practicante Preprofesional de Ingeniería Civil",
+    "empresa":  "Grupo Habikon S.A.C.",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Preprofesional de Ingeniería Civil Resumen del Puesto Buscamos un Practicante Preprofesional de Ingeniería Civil para unirse a nuestro equipo. El candidato ideal será estudiante de los últimos ciclos de la carrera, con sólidos conocimientos técnicos y habilidades para el desarrollo de proyectos. Responsabilidades Apoyo en la elaboración de presupuestos y programación de obras. Colaboración en la revisión de expedientes e informes técnicos. Asistencia en la búsqueda de información sobre obras y trámites relacionados. Soporte en la gestión de plataformas y documentación digital. Requisitos Estudiante de Ingeniería Civil (9no o 10mo ciclo). Manejo de herramientas ofimáticas (Word, Excel, PowerPoint) y AutoCAD. Conocimiento de software de gestión de proyectos (S10, MS Project). Familiaridad con plataformas de gestión pública. Habilidad para realizar trámites digitales. Disponibilidad inmediata. Beneficios Convenio de prácticas profesionales. Oportunidad de desarrollo y aprendizaje en el área de construcción. Facilidades para el trámite de Bachiller.",
+    "requisitos":  [
+                       "Estudiante de Ingeniería Civil (9no o 10mo ciclo)",
+                       "Manejo de herramientas ofimáticas (Word, Excel, PowerPoint) y AutoCAD",
+                       "Conocimiento de software de gestión de proyectos (S10, MS Project)",
+                       "Familiaridad con plataformas de gestión pública",
+                       "Habilidad para realizar trámites digitales",
+                       "Disponibilidad inmediata"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Convenio de prácticas profesionales",
+                       "Oportunidad de desarrollo y aprendizaje en el área de construcción",
+                       "Facilidades para el trámite de Bachiller"
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-preprofesional-de-ingenieria-civil-grupo-habikon-s.a.c.-1118516893.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-preprofesional-de-ingenieria-civil-grupo-habikon-s.a.c.-1118516893.html",
+    "descripcion_html":  "\u003cb\u003ePracticante Preprofesional de Ingeniería Civil\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003ePracticante Preprofesional de Ingeniería Civil\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal será estudiante de los últimos ciclos de la carrera, con sólidos conocimientos técnicos y habilidades para el desarrollo de proyectos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyo en la elaboración de presupuestos y programación de obras.\u003c/li\u003e \u003cli\u003eColaboración en la revisión de expedientes e informes técnicos.\u003c/li\u003e \u003cli\u003eAsistencia en la búsqueda de información sobre obras y trámites relacionados.\u003c/li\u003e \u003cli\u003eSoporte en la gestión de plataformas y documentación digital.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante de Ingeniería Civil (9no o 10mo ciclo).\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas (Word, Excel, PowerPoint) y AutoCAD.\u003c/li\u003e \u003cli\u003eConocimiento de software de gestión de proyectos (S10, MS Project).\u003c/li\u003e \u003cli\u003eFamiliaridad con plataformas de gestión pública.\u003c/li\u003e \u003cli\u003eHabilidad para realizar trámites digitales.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eBeneficios\u003c/b\u003e \u003cul\u003e \u003cli\u003eConvenio de prácticas profesionales.\u003c/li\u003e \u003cli\u003eOportunidad de desarrollo y aprendizaje en el área de construcción.\u003c/li\u003e \u003cli\u003eFacilidades para el trámite de Bachiller.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

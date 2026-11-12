@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118516917",
+    "clave":  "id:1118516917",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-telecomunicaciones-jmconnect-1118516917.html",
+                   "capturadoEn":  "2026-11-12T02:58:46+00:00"
+               },
+    "titulo":  "Técnico de Telecomunicaciones",
+    "empresa":  "JMCONNECT",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1600,
+                    "max":  2200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,600 - S/ 2,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Empresa de Telecomunicaciones que ofrece sueldo fijo más bonos, oportunidad de crecimiento y buen ambiente laboral; buscamos personal para instalaciones que tenga conocimiento en cableado y fibra óptica, buen manejo de herramientas y equipos técnicos, personal con responsabilidad y compromiso. Ésta es tu oportunidad. Técnico de Telecomunicaciones Resumen del Puesto Nos encontramos en la búsqueda de Técnicos de Telecomunicaciones para unirse a nuestro equipo. El rol principal será la realización de trabajos de instalación, mantenimiento y reparación de servicios de internet, fibra óptica y cableado. Responsabilidades Instalación de servicios de internet, fibra óptica y cableado. Realización de mantenimiento preventivo y correctivo de redes. Diagnóstico y reparación de averías en sistemas de telecomunicaciones. Asegurar la calidad del servicio ofrecido al cliente. Documentación de intervenciones realizadas. Requisitos Conocimientos técnicos sólidos en telecomunicaciones, redes e instalación de cableado. Experiencia previa en roles similares. Alta responsabilidad y compromiso con las tareas asignadas. Disponibilidad inmediata para comenzar a trabajar. Capacidad para trabajar de forma autónoma y resolver problemas técnicos. Se valorará la proactividad y la orientación al cliente.",
+    "requisitos":  [
+                       "Conocimientos técnicos sólidos en telecomunicaciones, redes e instalación de cableado",
+                       "Experiencia previa en roles similares",
+                       "Alta responsabilidad y compromiso con las tareas asignadas",
+                       "Disponibilidad inmediata para comenzar a trabajar",
+                       "Capacidad para trabajar de forma autónoma y resolver problemas técnicos",
+                       "Se valorará la proactividad y la orientación al cliente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-telecomunicaciones-jmconnect-1118516917.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-telecomunicaciones-jmconnect-1118516917.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEmpresa de Telecomunicaciones que ofrece sueldo fijo más bonos, oportunidad de crecimiento y buen ambiente laboral; buscamos personal para instalaciones que tenga conocimiento en cableado y fibra óptica, buen manejo de herramientas y equipos técnicos, personal con responsabilidad y compromiso.\u003c/p\u003e\u003cp\u003eÉsta es tu oportunidad.\u003c/p\u003e\u003c/p\u003e \u003cb\u003eTécnico de Telecomunicaciones\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de \u003cb\u003eTécnicos de Telecomunicaciones\u003c/b\u003e para unirse a nuestro equipo. El rol principal será la realización de trabajos de instalación, mantenimiento y reparación de servicios de internet, fibra óptica y cableado.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eInstalación de servicios de internet, fibra óptica y cableado.\u003c/li\u003e \u003cli\u003eRealización de mantenimiento preventivo y correctivo de redes.\u003c/li\u003e \u003cli\u003eDiagnóstico y reparación de averías en sistemas de telecomunicaciones.\u003c/li\u003e \u003cli\u003eAsegurar la calidad del servicio ofrecido al cliente.\u003c/li\u003e \u003cli\u003eDocumentación de intervenciones realizadas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eConocimientos técnicos sólidos en telecomunicaciones, redes e instalación de cableado.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles similares.\u003c/li\u003e \u003cli\u003eAlta responsabilidad y compromiso con las tareas asignadas.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata para comenzar a trabajar.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y resolver problemas técnicos.\u003c/li\u003e \u003cli\u003eSe valorará la proactividad y la orientación al cliente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

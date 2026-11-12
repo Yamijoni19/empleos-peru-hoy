@@ -1,0 +1,83 @@
+{
+    "id":  "bumeran-1118516915",
+    "clave":  "id:1118516915",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-administrativo-solutions-mech-peru-1118516915.html",
+                   "capturadoEn":  "2026-11-12T02:58:50+00:00"
+               },
+    "titulo":  "Asistente Comercial Administrativo",
+    "empresa":  "Solutions Mech Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Comercial Administrativo Resumen del Puesto Buscamos un(a) Asistente Comercial Administrativo organizado(a), proactivo(a) y orientado(a) a resultados, con interés en desarrollarse en el área comercial y de abastecimiento industrial. El candidato ideal se integrará a nuestro equipo para apoyar en diversas funciones administrativas y comerciales. Responsabilidades Apoyar en la gestión de pedidos y cotizaciones. Coordinar la logística de entrega de equipos y repuestos. Mantener actualizada la base de datos de clientes y proveedores. Colaborar en la preparación de informes comerciales. Realizar tareas administrativas generales para el área comercial. Interactuar con diferentes áreas para asegurar el flujo de información. Requisitos Formación técnica o universitaria en áreas administrativas, comerciales o afines. Experiencia previa en puestos similares (deseable). Habilidades de organización y planificación. Capacidad para trabajar bajo presión y cumplir con plazos. Excelentes habilidades de comunicación y relaciones interpersonales. Manejo de herramientas ofimáticas. Proactividad y orientación al detalle.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en áreas administrativas, comerciales o afines",
+                       "Experiencia previa en puestos similares (deseable)",
+                       "Habilidades de organización y planificación",
+                       "Capacidad para trabajar bajo presión y cumplir con plazos",
+                       "Excelentes habilidades de comunicación y relaciones interpersonales",
+                       "Manejo de herramientas ofimáticas",
+                       "Proactividad y orientación al detalle"
+                   ],
+    "funciones":  [
+                      "administrativas y comerciales",
+                      "Responsabilidades",
+                      "Apoyar en la gestión de pedidos y cotizaciones",
+                      "Coordinar la logística de entrega de equipos y repuestos",
+                      "Mantener actualizada la base de datos de clientes y proveedores",
+                      "Colaborar en la preparación de informes comerciales",
+                      "Realizar tareas administrativas generales para el área comercial",
+                      "Interactuar con diferentes áreas para asegurar el flujo de información"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-10",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-administrativo-solutions-mech-peru-1118516915.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-administrativo-solutions-mech-peru-1118516915.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Comercial Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eAsistente Comercial Administrativo\u003c/b\u003e organizado(a), proactivo(a) y orientado(a) a resultados, con interés en desarrollarse en el área comercial y de abastecimiento industrial. El candidato ideal se integrará a nuestro equipo para apoyar en diversas funciones administrativas y comerciales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la gestión de pedidos y cotizaciones.\u003c/li\u003e \u003cli\u003eCoordinar la logística de entrega de equipos y repuestos.\u003c/li\u003e \u003cli\u003eMantener actualizada la base de datos de clientes y proveedores.\u003c/li\u003e \u003cli\u003eColaborar en la preparación de informes comerciales.\u003c/li\u003e \u003cli\u003eRealizar tareas administrativas generales para el área comercial.\u003c/li\u003e \u003cli\u003eInteractuar con diferentes áreas para asegurar el flujo de información.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en áreas administrativas, comerciales o afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en puestos similares (deseable).\u003c/li\u003e \u003cli\u003eHabilidades de organización y planificación.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y cumplir con plazos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y relaciones interpersonales.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas.\u003c/li\u003e \u003cli\u003eProactividad y orientación al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "10/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
