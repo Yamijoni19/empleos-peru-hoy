@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118518591",
+    "clave":  "id:1118518591",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-inmobiliario-lider-grupo-constructor-1118518591.html",
+                   "capturadoEn":  "2026-11-12T11:07:00+00:00"
+               },
+    "titulo":  "Asesor Comercial Inmobiliario",
+    "empresa":  "LIDER GRUPO CONSTRUCTOR",
+    "ubicacion":  "Lima - Comas",
+    "ciudad":  "Comas",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos Lider Grupo Constructor, un grupo de empresas peruanas con más de 24 años en el sector inmobiliario. Con 39 proyectos entregados y más de 10,600 familias que confían en nosotros, nos destacamos por nuestra calidad, compromiso social y por contar con un gran ambiente laboral reconocido por Great Place To Work. ¡Únete a un equipo que construye sueños! Exponer la propuesta de valor del proyecto a los clientes potenciales. Absolver consultas y realizar el seguimiento respectivo a las necesidades de los clientes durante el proceso de venta. Ejecutar los procesos y protocolos establecidos como parte de la experiencia Lider. Concretar la venta de las unidades inmobiliarias a su cargo de acuerdo a las metas establecidas. Requisitos: Formación universitaria o técnica en curso o finalizada en carreras afines. Experiencia mínima de 02 años como Asesor comercial para el sector inmobiliario (Excluyente). Manejo de Office a nivel intermedio. Disponibilidad para laborar en horario rotativo en Lima Norte. Beneficios Remuneración + atractivo esquema de comisiones. Programa de Incentivos EPS cubierta al 100%. Seguro Oncológico al 100%. Cuponera de días libres.",
+    "requisitos":  [
+                       "Formación universitaria o técnica en curso o finalizada en carreras afines",
+                       "Experiencia mínima de 02 años como Asesor comercial para el sector inmobiliario (Excluyente)",
+                       "Manejo de Office a nivel intermedio",
+                       "Disponibilidad para laborar en horario rotativo en Lima Norte"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Remuneración + atractivo esquema de comisiones",
+                       "Programa de Incentivos",
+                       "EPS cubierta al 100%",
+                       "Seguro Oncológico al 100%",
+                       "Cuponera de días libres"
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-inmobiliario-lider-grupo-constructor-1118518591.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-inmobiliario-lider-grupo-constructor-1118518591.html",
+    "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003eSomos Lider Grupo Constructor, un grupo de empresas peruanas con más de 24 años en el sector inmobiliario. Con 39 proyectos entregados y más de 10,600 familias que confían en nosotros, nos destacamos por nuestra calidad, compromiso social y por contar con un gran ambiente laboral reconocido por Great Place To Work. ¡Únete a un equipo que construye sueños!\u003c/span\u003e\u003c/p\u003e \u003cul\u003e \u003cli\u003eExponer la propuesta de valor del proyecto a los clientes potenciales.\u003c/li\u003e \u003cli\u003eAbsolver consultas y realizar el seguimiento respectivo a las necesidades de los clientes durante el proceso de venta.\u003c/li\u003e \u003cli\u003eEjecutar los procesos y protocolos establecidos como parte de la experiencia Lider.\u003c/li\u003e \u003cli\u003eConcretar la venta de las unidades inmobiliarias a su cargo de acuerdo a las metas establecidas.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eFormación universitaria o técnica en curso o finalizada en carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 02 años como Asesor comercial para el sector inmobiliario (Excluyente).\u003c/li\u003e \u003cli\u003eManejo de Office a nivel intermedio.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en horario rotativo en Lima Norte.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eRemuneración + atractivo esquema de comisiones.\u003c/li\u003e \u003cli\u003ePrograma de Incentivos\u003c/li\u003e \u003cli\u003eEPS cubierta al 100%.\u003c/li\u003e \u003cli\u003eSeguro Oncológico al 100%.\u003c/li\u003e \u003cli\u003eCuponera de días libres.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 02 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

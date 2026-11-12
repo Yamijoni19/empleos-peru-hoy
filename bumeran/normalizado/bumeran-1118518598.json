@@ -1,0 +1,81 @@
+{
+    "id":  "bumeran-1118518598",
+    "clave":  "id:1118518598",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-comercial-administrativo-solutions-mech-peru-1118518598.html",
+                   "capturadoEn":  "2026-11-12T11:06:52+00:00"
+               },
+    "titulo":  "Asistente Comercial Administrativo",
+    "empresa":  "Solutions Mech Perú",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Comercial Administrativo Resumen del Puesto Buscamos un(a) Asistente Comercial Administrativo organizado(a), proactivo(a) y orientado(a) a resultados, con interés en desarrollarse en el área comercial y de abastecimiento industrial. El candidato ideal se integrará a nuestro equipo para apoyar en diversas funciones administrativas y comerciales. Responsabilidades Apoyar en la gestión comercial y administrativa. Coordinar la logística de suministro de equipos y repuestos. Mantener registros y bases de datos actualizadas. Colaborar con el equipo en la consecución de objetivos comerciales. Realizar tareas administrativas generales para asegurar el buen funcionamiento del área. Requisitos Experiencia previa en roles comerciales o administrativos. Habilidades organizativas y de gestión del tiempo. Proactividad y orientación a la resolución de problemas. Capacidad para trabajar de forma autónoma y en equipo. Conocimientos básicos de herramientas ofimáticas. Interés en el sector industrial y de abastecimiento.",
+    "requisitos":  [
+                       "Experiencia previa en roles comerciales o administrativos",
+                       "Habilidades organizativas y de gestión del tiempo",
+                       "Proactividad y orientación a la resolución de problemas",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Conocimientos básicos de herramientas ofimáticas",
+                       "Interés en el sector industrial y de abastecimiento"
+                   ],
+    "funciones":  [
+                      "administrativas y comerciales",
+                      "Responsabilidades",
+                      "Apoyar en la gestión comercial y administrativa",
+                      "Coordinar la logística de suministro de equipos y repuestos",
+                      "Mantener registros y bases de datos actualizadas",
+                      "Colaborar con el equipo en la consecución de objetivos comerciales",
+                      "Realizar tareas administrativas generales para asegurar el buen funcionamiento del área"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-comercial-administrativo-solutions-mech-peru-1118518598.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-comercial-administrativo-solutions-mech-peru-1118518598.html",
+    "descripcion_html":  "\u003cb\u003eAsistente Comercial Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eAsistente Comercial Administrativo\u003c/b\u003e organizado(a), proactivo(a) y orientado(a) a resultados, con interés en desarrollarse en el área comercial y de abastecimiento industrial. El candidato ideal se integrará a nuestro equipo para apoyar en diversas funciones administrativas y comerciales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en la gestión comercial y administrativa.\u003c/li\u003e \u003cli\u003eCoordinar la logística de suministro de equipos y repuestos.\u003c/li\u003e \u003cli\u003eMantener registros y bases de datos actualizadas.\u003c/li\u003e \u003cli\u003eColaborar con el equipo en la consecución de objetivos comerciales.\u003c/li\u003e \u003cli\u003eRealizar tareas administrativas generales para asegurar el buen funcionamiento del área.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles comerciales o administrativos.\u003c/li\u003e \u003cli\u003eHabilidades organizativas y de gestión del tiempo.\u003c/li\u003e \u003cli\u003eProactividad y orientación a la resolución de problemas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eConocimientos básicos de herramientas ofimáticas.\u003c/li\u003e \u003cli\u003eInterés en el sector industrial y de abastecimiento.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

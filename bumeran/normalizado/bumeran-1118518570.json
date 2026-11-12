@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118518570",
+    "clave":  "id:1118518570",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-marketing-gacorp-grupo-inmobiliario-1118518570.html",
+                   "capturadoEn":  "2026-11-12T11:07:06+00:00"
+               },
+    "titulo":  "Coordinador de Marketing",
+    "empresa":  "Gacorp Grupo Inmobiliario",
+    "ubicacion":  "San Martín - Tarapoto",
+    "ciudad":  "Tarapoto",
+    "region":  "San Martín",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Coordinador de Marketing Resumen del Puesto Estamos en la búsqueda de un profesional dinámico y creativo para ocupar la posición de Coordinador de Marketing . El rol principal será el diseño e implementación de estrategias de marketing integrales, abarcando desde el posicionamiento de marca hasta la gestión de campañas y la creación de contenido para plataformas digitales. Responsabilidades Diseñar y ejecutar estrategias de posicionamiento de marca. Planificar, desarrollar y supervisar campañas de marketing orientadas a ventas. Crear y gestionar contenido atractivo y relevante para redes sociales y otros canales digitales. Analizar el rendimiento de las campañas y proponer mejoras. Colaborar con equipos internos para asegurar la coherencia de la comunicación de marca. Investigar tendencias del mercado y de la competencia. Requisitos Formación académica en Marketing, Publicidad, Comunicación o áreas afines. Experiencia comprobable en coordinación de marketing y gestión de campañas. Sólidos conocimientos en estrategias de marca y marketing digital. Habilidad para la creación de contenido y gestión de redes sociales. Capacidad analítica y de resolución de problemas. Excelentes habilidades de comunicación y organización. Proactividad y capacidad para trabajar en un entorno dinámico.",
+    "requisitos":  [
+                       "Formación académica en Marketing, Publicidad, Comunicación o áreas afines",
+                       "Experiencia comprobable en coordinación de marketing y gestión de campañas",
+                       "Sólidos conocimientos en estrategias de marca y marketing digital",
+                       "Habilidad para la creación de contenido y gestión de redes sociales",
+                       "Capacidad analítica y de resolución de problemas",
+                       "Excelentes habilidades de comunicación y organización",
+                       "Proactividad y capacidad para trabajar en un entorno dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-marketing-gacorp-grupo-inmobiliario-1118518570.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-marketing-gacorp-grupo-inmobiliario-1118518570.html",
+    "descripcion_html":  "\u003cb\u003eCoordinador de Marketing\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional dinámico y creativo para ocupar la posición de \u003cb\u003eCoordinador de Marketing\u003c/b\u003e. El rol principal será el diseño e implementación de estrategias de marketing integrales, abarcando desde el posicionamiento de marca hasta la gestión de campañas y la creación de contenido para plataformas digitales.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDiseñar y ejecutar estrategias de posicionamiento de marca.\u003c/li\u003e \u003cli\u003ePlanificar, desarrollar y supervisar campañas de marketing orientadas a ventas.\u003c/li\u003e \u003cli\u003eCrear y gestionar contenido atractivo y relevante para redes sociales y otros canales digitales.\u003c/li\u003e \u003cli\u003eAnalizar el rendimiento de las campañas y proponer mejoras.\u003c/li\u003e \u003cli\u003eColaborar con equipos internos para asegurar la coherencia de la comunicación de marca.\u003c/li\u003e \u003cli\u003eInvestigar tendencias del mercado y de la competencia.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica en Marketing, Publicidad, Comunicación o áreas afines.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en coordinación de marketing y gestión de campañas.\u003c/li\u003e \u003cli\u003eSólidos conocimientos en estrategias de marca y marketing digital.\u003c/li\u003e \u003cli\u003eHabilidad para la creación de contenido y gestión de redes sociales.\u003c/li\u003e \u003cli\u003eCapacidad analítica y de resolución de problemas.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y organización.\u003c/li\u003e \u003cli\u003eProactividad y capacidad para trabajar en un entorno dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

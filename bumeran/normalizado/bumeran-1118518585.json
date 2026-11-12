@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118518585",
+    "clave":  "id:1118518585",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-chimbote-b2b-alicorp-1118518585.html",
+                   "capturadoEn":  "2026-11-12T11:07:03+00:00"
+               },
+    "titulo":  "Asesor Comercial Chimbote B2B",
+    "empresa":  "Alicorp",
+    "ubicacion":  "Ancash - Chimbote",
+    "ciudad":  "Chimbote",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Alicorp nos comprometemos a seguir alimentando un mañana mejor, promoviendo procesos de atracción de talento de manera inclusiva, enfocados en la igualdad de oportunidades, trabajando en equipo y valorando el talento diverso. Nuestros procesos de selección y contratación se desarrollan sin discriminación de ninguna índole y por ningún motivo. ¿Cuál será tu desafío? Ejecutar la estrategia comercial de la organización en los clientes asignados y en las distribuidoras exclusivas de Alicorp para asegurar el cumplimiento de los planes de venta, indicadores clave y efectiva puesta en marcha de los proyectos comerciales dentro del territorio asignado, para garantizar la satisfacción del cliente, desarrollar el portafolio de productos y detectar oportunidades mediante el conocimiento del mercado y la competencia. ¿Qué harás en tu rol? Planificar los objetivos según cliente y categoría. Recabar, en el trabajo de campo, oportunidades y revisar precios y acciones de la competencia. Ejecutar acciones diseñadas por Trade y asegurar la correcta ejecución por parte de los canales. Realizar la cobranza, compensación de cuentas y tener ordenado y al día el estado de cuentas de los clientes. Auditar a los clientes, mediante el control de inventarios y arqueos de caja. ¿Qué necesitamos de ti? Egresado de las carreras de Administración, Finanzas y/o afines. Disponibilidad de residir en Chimbote. Experiencia mínima de 3 años en Ventas. Excel a nivel Intermedio.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-chimbote-b2b-alicorp-1118518585.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-chimbote-b2b-alicorp-1118518585.html",
+    "descripcion_html":  "\u003cp\u003eEn Alicorp nos comprometemos a seguir alimentando un mañana mejor, promoviendo procesos de atracción de talento de manera inclusiva, enfocados en la igualdad de oportunidades, trabajando en equipo y valorando el talento diverso. Nuestros procesos de selección y contratación se desarrollan sin discriminación de ninguna índole y por ningún motivo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál será tu desafío?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEjecutar la estrategia comercial de la organización en los clientes asignados y en las distribuidoras exclusivas de Alicorp para asegurar el cumplimiento de los planes de venta, indicadores clave y efectiva puesta en marcha de los proyectos comerciales dentro del territorio asignado, para garantizar la satisfacción del cliente, desarrollar el portafolio de productos y detectar oportunidades mediante el conocimiento del mercado y la competencia.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué harás en tu rol?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePlanificar los objetivos según cliente y categoría.\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecabar, en el trabajo de campo, oportunidades y revisar precios y acciones de la competencia.\u003c/li\u003e \u003cli\u003eEjecutar acciones diseñadas por Trade y asegurar la correcta ejecución por parte de los canales.\u003c/li\u003e \u003cli\u003eRealizar la cobranza, compensación de cuentas y tener ordenado y al día el estado de cuentas de los clientes.\u003c/li\u003e \u003cli\u003eAuditar a los clientes, mediante el control de inventarios y arqueos de caja.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado de las carreras de Administración, Finanzas y/o afines.\u003c/li\u003e \u003cli\u003eDisponibilidad de residir en Chimbote.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en Ventas.\u003c/li\u003e \u003cli\u003eExcel a nivel Intermedio.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

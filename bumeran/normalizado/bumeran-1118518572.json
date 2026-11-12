@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118518572",
+    "clave":  "id:1118518572",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-comercial-inmobiliario-kunay-1118518572.html",
+                   "capturadoEn":  "2026-11-12T11:07:05+00:00"
+               },
+    "titulo":  "Asesor Comercial Inmobiliario",
+    "empresa":  "kunay",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  12000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 12,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesor Comercial Inmobiliario Resumen del Puesto Buscamos un Asesor Comercial Inmobiliario proactivo y con gran capacidad de gestión para unirse a nuestro equipo. Si tienes experiencia en el sector y te apasiona el trato con el cliente, esta es tu oportunidad. Se ofrece un sistema comisional competitivo. Responsabilidades Gestionar la cartera de clientes y prospectos. Atención y seguimiento de leads y oportunidades de negocio. Coordinación de visitas y cierres comerciales. Mantener un excelente clima laboral y de trabajo en equipo. Cumplimiento de metas comerciales. Requisitos Experiencia comprobable en ventas, preferentemente en el sector inmobiliario. Habilidades de negociación y cierre de ventas. Orientación a resultados y cumplimiento de objetivos. Capacidad para trabajar de forma autónoma y organizada. Disponibilidad inmediata. Modalidad: Presencial Área: Comercial Jornada: Full-time",
+    "requisitos":  [
+                       "Experiencia comprobable en ventas, preferentemente en el sector inmobiliario",
+                       "Habilidades de negociación y cierre de ventas",
+                       "Orientación a resultados y cumplimiento de objetivos",
+                       "Capacidad para trabajar de forma autónoma y organizada",
+                       "Disponibilidad inmediata",
+                       "Modalidad: Presencial",
+                       "Área: Comercial",
+                       "Jornada: Full-time"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-comercial-inmobiliario-kunay-1118518572.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-comercial-inmobiliario-kunay-1118518572.html",
+    "descripcion_html":  "\u003cb\u003eAsesor Comercial Inmobiliario\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsesor Comercial Inmobiliario\u003c/b\u003e proactivo y con gran capacidad de gestión para unirse a nuestro equipo. Si tienes experiencia en el sector y te apasiona el trato con el cliente, esta es tu oportunidad. Se ofrece un sistema comisional competitivo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar la cartera de clientes y prospectos.\u003c/li\u003e \u003cli\u003eAtención y seguimiento de leads y oportunidades de negocio.\u003c/li\u003e \u003cli\u003eCoordinación de visitas y cierres comerciales.\u003c/li\u003e \u003cli\u003eMantener un excelente clima laboral y de trabajo en equipo.\u003c/li\u003e \u003cli\u003eCumplimiento de metas comerciales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en ventas, preferentemente en el sector inmobiliario.\u003c/li\u003e \u003cli\u003eHabilidades de negociación y cierre de ventas.\u003c/li\u003e \u003cli\u003eOrientación a resultados y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y organizada.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata.\u003c/li\u003e \u003c/ul\u003e \u003cp\u003eModalidad: Presencial\u003c/p\u003e \u003cp\u003eÁrea: Comercial\u003c/p\u003e \u003cp\u003eJornada: Full-time\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
