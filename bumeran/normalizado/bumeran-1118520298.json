@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118520298",
+    "clave":  "id:1118520298",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-o-reparto-adecco-peru-s.a.-1118520298.html",
+                   "capturadoEn":  "2026-11-13T16:22:23+00:00"
+               },
+    "titulo":  "Auxiliar de Almacén o Reparto",
+    "empresa":  "ADECCO PERU S.A.",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Auxiliar de Almacén y Reparto Resumen del Puesto Estamos en la búsqueda de un Auxiliar de Almacén y Reparto proactivo y organizado para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades para la gestión eficiente de inventarios y la coordinación de entregas, demostrando capacidad para trabajar de manera autónoma y colaborativa. Responsabilidades Recepción, verificación y almacenamiento de mercancías. Preparación de pedidos y alistamiento para despacho. Realización de entregas de productos a clientes. Mantenimiento del orden y la limpieza en las instalaciones del almacén. Colaboración con el equipo para asegurar la fluidez de las operaciones logísticas. Manejo de documentación relacionada con el inventario y los repartos. Requisitos Experiencia previa en roles de almacén y/o reparto. Conocimientos básicos de gestión de inventarios. Habilidad para el manejo de herramientas de manipulación de carga. Capacidad para planificar rutas de reparto eficientes. Excelentes habilidades de organización y atención al detalle. Buena disposición para el trabajo físico y en equipo. Licencia de conducir vigente (si aplica para el rol de reparto).",
+    "requisitos":  [
+                       "Experiencia previa en roles de almacén y/o reparto",
+                       "Conocimientos básicos de gestión de inventarios",
+                       "Habilidad para el manejo de herramientas de manipulación de carga",
+                       "Capacidad para planificar rutas de reparto eficientes",
+                       "Excelentes habilidades de organización y atención al detalle",
+                       "Buena disposición para el trabajo físico y en equipo",
+                       "Licencia de conducir vigente (si aplica para el rol de reparto)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-o-reparto-adecco-peru-s.a.-1118520298.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-de-almacen-o-reparto-adecco-peru-s.a.-1118520298.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAuxiliar de Almacén y Reparto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eAuxiliar de Almacén y Reparto\u003c/strong\u003e proactivo y organizado para integrarse a nuestro equipo. El candidato ideal deberá poseer habilidades para la gestión eficiente de inventarios y la coordinación de entregas, demostrando capacidad para trabajar de manera autónoma y colaborativa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecepción, verificación y almacenamiento de mercancías.\u003c/li\u003e \u003cli\u003ePreparación de pedidos y alistamiento para despacho.\u003c/li\u003e \u003cli\u003eRealización de entregas de productos a clientes.\u003c/li\u003e \u003cli\u003eMantenimiento del orden y la limpieza en las instalaciones del almacén.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para asegurar la fluidez de las operaciones logísticas.\u003c/li\u003e \u003cli\u003eManejo de documentación relacionada con el inventario y los repartos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en roles de almacén y/o reparto.\u003c/li\u003e \u003cli\u003eConocimientos básicos de gestión de inventarios.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de herramientas de manipulación de carga.\u003c/li\u003e \u003cli\u003eCapacidad para planificar rutas de reparto eficientes.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eBuena disposición para el trabajo físico y en equipo.\u003c/li\u003e \u003cli\u003eLicencia de conducir vigente (si aplica para el rol de reparto).\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
