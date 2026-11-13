@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118520004",
+    "clave":  "id:1118520004",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/community-manager-enrik-import-1118520004.html",
+                   "capturadoEn":  "2026-11-13T22:37:36+00:00"
+               },
+    "titulo":  "Community Manager",
+    "empresa":  "ENRIK IMPORT",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Community Manager Resumen del Puesto Buscamos un/a Community Manager creativo/a, proactivo/a y con orientación a resultados para unirse a nuestro equipo. Serás responsable de la gestión de nuestras comunidades online, la creación de contenido atractivo y la implementación de estrategias digitales para potenciar nuestra presencia y ventas. Responsabilidades Gestionar y administrar las plataformas de redes sociales. Crear, diseñar y publicar contenido original y de valor. Realizar transmisiones en vivo para promocionar productos e impulsar las ventas. Elaborar calendarios de contenido y estrategias digitales. Gestionar la interacción con la comunidad y responder consultas de manera oportuna. Apoyar en el desarrollo y ejecución de campañas de marketing digital y publicidad. Analizar métricas clave y elaborar reportes de resultados para optimizar estrategias. Contribuir al incremento de las ventas a través de canales digitales. Requisitos Egresado/a o bachiller de Comunicación, Marketing, Publicidad o carreras afines. Experiencia mínima de 1 año como Community Manager o en roles de marketing digital. Experiencia o conocimientos demostrables en la gestión de plataformas de video en vivo y redes sociales. Conocimientos en estrategias de ventas digitales y gestión de redes sociales. Excelente redacción, ortografía y habilidades de comunicación. Perfil creativo, proactivo y con gran capacidad de organización.",
+    "requisitos":  [
+                       "Egresado/a o bachiller de Comunicación, Marketing, Publicidad o carreras afines",
+                       "Experiencia mínima de 1 año como Community Manager o en roles de marketing digital",
+                       "Experiencia o conocimientos demostrables en la gestión de plataformas de video en vivo y redes sociales",
+                       "Conocimientos en estrategias de ventas digitales y gestión de redes sociales",
+                       "Excelente redacción, ortografía y habilidades de comunicación"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/community-manager-enrik-import-1118520004.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/community-manager-enrik-import-1118520004.html",
+    "descripcion_html":  "\u003cb\u003eCommunity Manager\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eCommunity Manager\u003c/b\u003e creativo/a, proactivo/a y con orientación a resultados para unirse a nuestro equipo. Serás responsable de la gestión de nuestras comunidades online, la creación de contenido atractivo y la implementación de estrategias digitales para potenciar nuestra presencia y ventas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar y administrar las plataformas de redes sociales.\u003c/li\u003e \u003cli\u003eCrear, diseñar y publicar contenido original y de valor.\u003c/li\u003e \u003cli\u003eRealizar transmisiones en vivo para promocionar productos e impulsar las ventas.\u003c/li\u003e \u003cli\u003eElaborar calendarios de contenido y estrategias digitales.\u003c/li\u003e \u003cli\u003eGestionar la interacción con la comunidad y responder consultas de manera oportuna.\u003c/li\u003e \u003cli\u003eApoyar en el desarrollo y ejecución de campañas de marketing digital y publicidad.\u003c/li\u003e \u003cli\u003eAnalizar métricas clave y elaborar reportes de resultados para optimizar estrategias.\u003c/li\u003e \u003cli\u003eContribuir al incremento de las ventas a través de canales digitales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEgresado/a o bachiller de Comunicación, Marketing, Publicidad o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año como Community Manager o en roles de marketing digital.\u003c/li\u003e \u003cli\u003eExperiencia o conocimientos demostrables en la gestión de plataformas de video en vivo y redes sociales.\u003c/li\u003e \u003cli\u003eConocimientos en estrategias de ventas digitales y gestión de redes sociales.\u003c/li\u003e \u003cli\u003eExcelente redacción, ortografía y habilidades de comunicación.\u003c/li\u003e \u003cli\u003ePerfil creativo, proactivo y con gran capacidad de organización.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

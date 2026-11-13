@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118519994",
+    "clave":  "id:1118519994",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-apilador-villa-el-salvador-1118519994.html",
+                   "capturadoEn":  "2026-11-13T22:37:49+00:00"
+               },
+    "titulo":  "OPERADOR DE APILADOR - VILLA EL SALVADOR",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1500 a S/1800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Importante empresa se encuentra en búsqueda de OPERADOR DE APILADORA – VILLA EL SALVADOR. Requisitos: Secundaria completa. Mínimo 1 año de experiencia operando apiladores eléctricos en almacenes o industrias. Certificación vigente de operador de apilador eléctrico. (Deseable) Manejo de apilador de doble profundidad. Conocimiento de normas de seguridad en operación de equipos eléctricos. Ofrecemos: Salario: S/1500 a S/1800 de acuerdo a la experiencia. Planilla completa desde el primer día de labores. Otros beneficios corporativos.",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Mínimo 1 año de experiencia operando apiladores eléctricos en almacenes o industrias",
+                       "Certificación vigente de operador de apilador eléctrico. (Deseable)",
+                       "Manejo de apilador de doble profundidad",
+                       "Conocimiento de normas de seguridad en operación de equipos eléctricos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "corporativos"
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-apilador-villa-el-salvador-1118519994.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-apilador-villa-el-salvador-1118519994.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eImportante empresa se encuentra en búsqueda de OPERADOR DE APILADORA – VILLA EL SALVADOR.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia operando apiladores eléctricos en almacenes o industrias.\u003c/li\u003e \u003cli\u003eCertificación vigente de operador de apilador eléctrico. \u003cem\u003e(Deseable)\u003c/em\u003e\u003c/li\u003e \u003cli\u003eManejo de apilador de doble profundidad.\u003c/li\u003e \u003cli\u003eConocimiento de normas de seguridad en operación de equipos eléctricos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario: S/1500 a S/1800 de acuerdo a la experiencia.\u003c/li\u003e \u003cli\u003ePlanilla completa desde el primer día de labores.\u003c/li\u003e \u003cli\u003eOtros beneficios corporativos.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

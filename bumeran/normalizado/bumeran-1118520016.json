@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118520016",
+    "clave":  "id:1118520016",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/especialista-en-marketing-digital-y-ventas-importaciones-naliony-e.i.r.l-1118520016.html",
+                   "capturadoEn":  "2026-11-13T22:37:26+00:00"
+               },
+    "titulo":  "Especialista en Marketing Digital y Ventas",
+    "empresa":  "IMPORTACIONES NALIONY E.I.R.L",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Especialista en Marketing Digital y Ventas Resumen del Puesto Buscamos un profesional dinámico y proactivo en el área de Marketing Digital y Ventas , con experiencia en la promoción y comercialización de productos tecnológicos. El candidato ideal poseerá un profundo conocimiento de las estrategias de marketing digital y habilidades de venta efectivas para impulsar el crecimiento. Responsabilidades Desarrollar e implementar estrategias de marketing digital para aumentar la visibilidad y el alcance de los productos. Gestionar campañas publicitarias en diversas plataformas digitales. Analizar métricas de rendimiento y optimizar las estrategias para alcanzar los objetivos de venta. Identificar oportunidades de mercado y desarrollar planes de acción para la captación de nuevos clientes. Colaborar con equipos internos para asegurar una experiencia de cliente integral. Mantenerse actualizado sobre las últimas tendencias en marketing digital y tecnología. Requisitos Experiencia comprobada en marketing digital y ventas, preferentemente en el sector tecnológico. Dominio de herramientas de análisis web y plataformas de publicidad digital. Excelentes habilidades de comunicación, negociación y cierre de ventas. Capacidad para trabajar de forma autónoma y orientada a resultados. Creatividad y habilidad para generar contenido atractivo. Conocimiento de productos tecnológicos como laptops y accesorios es un plus.",
+    "requisitos":  [
+                       "Experiencia comprobada en marketing digital y ventas, preferentemente en el sector tecnológico",
+                       "Dominio de herramientas de análisis web y plataformas de publicidad digital",
+                       "Excelentes habilidades de comunicación, negociación y cierre de ventas",
+                       "Capacidad para trabajar de forma autónoma y orientada a resultados",
+                       "Creatividad y habilidad para generar contenido atractivo",
+                       "Conocimiento de productos tecnológicos como laptops y accesorios es un plus"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/especialista-en-marketing-digital-y-ventas-importaciones-naliony-e.i.r.l-1118520016.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/especialista-en-marketing-digital-y-ventas-importaciones-naliony-e.i.r.l-1118520016.html",
+    "descripcion_html":  "\u003cb\u003eEspecialista en Marketing Digital y Ventas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional dinámico y proactivo en el área de \u003cb\u003eMarketing Digital y Ventas\u003c/b\u003e, con experiencia en la promoción y comercialización de productos tecnológicos. El candidato ideal poseerá un profundo conocimiento de las estrategias de marketing digital y habilidades de venta efectivas para impulsar el crecimiento.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar e implementar estrategias de marketing digital para aumentar la visibilidad y el alcance de los productos.\u003c/li\u003e \u003cli\u003eGestionar campañas publicitarias en diversas plataformas digitales.\u003c/li\u003e \u003cli\u003eAnalizar métricas de rendimiento y optimizar las estrategias para alcanzar los objetivos de venta.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades de mercado y desarrollar planes de acción para la captación de nuevos clientes.\u003c/li\u003e \u003cli\u003eColaborar con equipos internos para asegurar una experiencia de cliente integral.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre las últimas tendencias en marketing digital y tecnología.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobada en marketing digital y ventas, preferentemente en el sector tecnológico.\u003c/li\u003e \u003cli\u003eDominio de herramientas de análisis web y plataformas de publicidad digital.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, negociación y cierre de ventas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y orientada a resultados.\u003c/li\u003e \u003cli\u003eCreatividad y habilidad para generar contenido atractivo.\u003c/li\u003e \u003cli\u003eConocimiento de productos tecnológicos como laptops y accesorios es un plus.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

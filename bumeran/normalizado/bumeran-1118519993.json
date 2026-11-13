@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118519993",
+    "clave":  "id:1118519993",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-reefer-regrigeracion-contenedores-vacios-1118519993.html",
+                   "capturadoEn":  "2026-11-13T22:37:53+00:00"
+               },
+    "titulo":  "TECNICO REEFER - (REGRIGERACIÓN) CONTENEDORES VACIOS",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1900,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,900 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Importante empresa se encuentra en búsqueda de Técnicos Reefers - Callao. Realizar el monitoreo de los parámetros en los contenedores y atender los servicios Cold Treament. Programar los parámetros de los contenedores, así como también alertar a la jefatura inmediata en caso estén fuera de rango. Recepción y despacho de contenedores reefers. Mantenimientos preventivos y correctivos. Reparación de contenedores reefers. Requisitos: Técnico egresado en Refrigeración Industrial y Aire Acondicionado o Electricidad Industrial. Estudios en reparación de Contenedores, conocimientos en reparación de reefer (Termo King, Carrier, Daikin, Star cool, Super Freezer y Atmósfera Controlada). Mínimo de 1 año como Técnico Reefer. Disponibilidad para laborar en el Callao. Ofrecemos: Ingreso a planilla con todos los beneficios de ley. Alimentación cubierta al 100%.",
+    "requisitos":  [
+                       "Técnico egresado en Refrigeración Industrial y Aire Acondicionado o Electricidad Industrial",
+                       "Estudios en reparación de Contenedores, conocimientos en reparación de reefer (Termo King, Carrier, Daikin, Star cool, Super Freezer y Atmósfera Controlada)",
+                       "Mínimo de 1 año como Técnico Reefer",
+                       "Disponibilidad para laborar en el Callao"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Alimentación cubierta al 100%"
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-reefer-regrigeracion-contenedores-vacios-1118519993.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-reefer-regrigeracion-contenedores-vacios-1118519993.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa se encuentra en búsqueda de Técnicos Reefers - Callao.\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar el monitoreo de los parámetros en los contenedores y atender los servicios Cold Treament.\u003c/li\u003e \u003cli\u003eProgramar los parámetros de los contenedores, así como también alertar a la jefatura inmediata en caso estén fuera de rango.\u003c/li\u003e \u003cli\u003eRecepción y despacho de contenedores reefers.\u003c/li\u003e \u003cli\u003eMantenimientos preventivos y correctivos.\u003c/li\u003e \u003cli\u003eReparación de contenedores reefers.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico egresado en Refrigeración Industrial y Aire Acondicionado o Electricidad Industrial.\u003c/li\u003e \u003cli\u003eEstudios en reparación de Contenedores, conocimientos en reparación de reefer (Termo King, Carrier, Daikin, Star cool, Super Freezer y Atmósfera Controlada).\u003c/li\u003e \u003cli\u003eMínimo de 1 año como Técnico Reefer.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en el Callao.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eOfrecemos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eAlimentación cubierta al 100%.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

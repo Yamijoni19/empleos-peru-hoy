@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118519982",
+    "clave":  "id:1118519982",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-transporte-petroamerica-1118519982.html",
+                   "capturadoEn":  "2026-11-13T22:38:07+00:00"
+               },
+    "titulo":  "Practicante Profesional de Transporte",
+    "empresa":  "PETROAMERICA",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Petroamérica creemos en la energía del talento. Buscamos un/a Practicante Profesional de Transporte para apoyar en la programación de viajes de cisternas de combustibles líquidos. Principales funciones Apoyar en la elaboración de la programación diaria de viajes según los pedidos, los horarios de carga y entrega y la disponibilidad de cisternas y conductores. Actualizar la programación cuando cambie la unidad asignada, el conductor o el horario de un viaje. Hacer seguimiento a las salidas, cargas y entregas, y comunicar al equipo las demoras o incidencias que requieran atención. Registrar los viajes realizados, pendientes y reprogramados, y apoyar en la elaboración de reportes de cumplimiento. Revisar y organizar la documentación de los viajes. Requisitos Egresado/a de Ingeniería Industrial, Administración, Logística o carreras afines. Manejo de Excel a nivel intermedio. Interés en programación de transporte y seguimiento de operaciones. Deseable experiencia previa de prácticas en transporte, distribución, despacho o logística.",
+    "requisitos":  [
+                       "Egresado/a de Ingeniería Industrial, Administración, Logística o carreras afines",
+                       "Manejo de Excel a nivel intermedio",
+                       "Interés en programación de transporte y seguimiento de operaciones",
+                       "Deseable experiencia previa de prácticas en transporte, distribución, despacho o logística"
+                   ],
+    "funciones":  [
+                      "Apoyar en la elaboración de la programación diaria de viajes según los pedidos, los horarios de carga y entrega y la disponibilidad de cisternas y conductores",
+                      "Actualizar la programación cuando cambie la unidad asignada, el conductor o el horario de un viaje",
+                      "Hacer seguimiento a las salidas, cargas y entregas, y comunicar al equipo las demoras o incidencias que requieran atención",
+                      "Registrar los viajes realizados, pendientes y reprogramados, y apoyar en la elaboración de reportes de cumplimiento",
+                      "Revisar y organizar la documentación de los viajes"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-transporte-petroamerica-1118519982.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-transporte-petroamerica-1118519982.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEn Petroamérica creemos en la energía del talento. Buscamos un/a \u003cstrong\u003ePracticante Profesional de Transporte\u003c/strong\u003e para apoyar en la programación de viajes de cisternas de combustibles líquidos.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003ePrincipales funciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en la elaboración de la programación diaria de viajes según los pedidos, los horarios de carga y entrega y la disponibilidad de cisternas y conductores.\u003c/li\u003e \u003cli\u003eActualizar la programación cuando cambie la unidad asignada, el conductor o el horario de un viaje.\u003c/li\u003e \u003cli\u003eHacer seguimiento a las salidas, cargas y entregas, y comunicar al equipo las demoras o incidencias que requieran atención.\u003c/li\u003e \u003cli\u003eRegistrar los viajes realizados, pendientes y reprogramados, y apoyar en la elaboración de reportes de cumplimiento.\u003c/li\u003e \u003cli\u003eRevisar y organizar la documentación de los viajes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado/a de Ingeniería Industrial, Administración, Logística o carreras afines.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eInterés en programación de transporte y seguimiento de operaciones.\u003c/li\u003e \u003cli\u003eDeseable experiencia previa de prácticas en transporte, distribución, despacho o logística.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

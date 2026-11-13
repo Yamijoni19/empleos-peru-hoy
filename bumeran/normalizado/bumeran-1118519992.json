@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118519992",
+    "clave":  "id:1118519992",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/plancheroa-y-meseroa-el-take-1118519992.html",
+                   "capturadoEn":  "2026-11-13T22:37:56+00:00"
+               },
+    "titulo":  "Planchero(a) y Mesero(a)",
+    "empresa":  "El TAKE",
+    "ubicacion":  "Lima - Pueblo Libre",
+    "ciudad":  "Pueblo Libre",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  615,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 615 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Planchero(a) y Mesero(a) Resumen del Puesto Buscamos personas proactivas, con iniciativa y excelente trato al cliente para integrarse a nuestro equipo. Si te apasiona el servicio y disfrutas del ambiente dinámico, esta oportunidad es para ti. Responsabilidades Planchero(a): Preparación de alimentos en plancha, asegurando la calidad y tiempos de entrega. Mantenimiento del área de trabajo limpia y ordenada. Mesero(a): Atención a clientes, toma de pedidos, servicio de alimentos y bebidas. Mantenimiento de la limpieza y presentación del área de comedor. Colaborar con el equipo para asegurar una experiencia positiva para el cliente. Cumplir con los estándares de higiene y seguridad alimentaria. Requisitos Experiencia previa en puestos similares es valorada. Proactividad, iniciativa y gran capacidad de trabajo en equipo. Excelente trato al cliente y habilidades de comunicación. Disponibilidad para trabajar en turnos rotativos (mañana, tarde/noche). Flexibilidad horaria para cubrir diferentes jornadas. Capacidad para trabajar bajo presión y en un entorno dinámico. Condiciones Modalidad de empleo: Tiempo parcial y tiempo completo. Se ofrece un ambiente de trabajo colaborativo y oportunidades de desarrollo.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares es valorada",
+                       "Proactividad, iniciativa y gran capacidad de trabajo en equipo",
+                       "Excelente trato al cliente y habilidades de comunicación",
+                       "Disponibilidad para trabajar en turnos rotativos (mañana, tarde/noche)",
+                       "Flexibilidad horaria para cubrir diferentes jornadas",
+                       "Capacidad para trabajar bajo presión y en un entorno dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/plancheroa-y-meseroa-el-take-1118519992.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/plancheroa-y-meseroa-el-take-1118519992.html",
+    "descripcion_html":  "\u003cb\u003ePlanchero(a) y Mesero(a)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personas proactivas, con iniciativa y excelente trato al cliente para integrarse a nuestro equipo. Si te apasiona el servicio y disfrutas del ambiente dinámico, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003ePlanchero(a):\u003c/b\u003e Preparación de alimentos en plancha, asegurando la calidad y tiempos de entrega. Mantenimiento del área de trabajo limpia y ordenada.\u003c/li\u003e \u003cli\u003e\u003cb\u003eMesero(a):\u003c/b\u003e Atención a clientes, toma de pedidos, servicio de alimentos y bebidas. Mantenimiento de la limpieza y presentación del área de comedor.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para asegurar una experiencia positiva para el cliente.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de higiene y seguridad alimentaria.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares es valorada.\u003c/li\u003e \u003cli\u003eProactividad, iniciativa y gran capacidad de trabajo en equipo.\u003c/li\u003e \u003cli\u003eExcelente trato al cliente y habilidades de comunicación.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos rotativos (mañana, tarde/noche).\u003c/li\u003e \u003cli\u003eFlexibilidad horaria para cubrir diferentes jornadas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar bajo presión y en un entorno dinámico.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones\u003c/b\u003e \u003cul\u003e \u003cli\u003eModalidad de empleo: Tiempo parcial y tiempo completo.\u003c/li\u003e \u003cli\u003eSe ofrece un ambiente de trabajo colaborativo y oportunidades de desarrollo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
