@@ -1,0 +1,85 @@
+{
+    "id":  "bumeran-1118518450",
+    "clave":  "id:1118518450",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-de-la-seguridad-senior-1118518450.html",
+                   "capturadoEn":  "2026-11-13T07:57:52+00:00"
+               },
+    "titulo":  "Ingeniero de Ciberseguridad",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nos encontramos en la búsqueda de un Ingeniero de Ciberseguridad Funciones: - Liderar el programa de seguridad de la información del Grupo Prestamype (roadmap, registro de riesgos y marco NIST CSF 2.0), para reducir los riesgos priorizados y reportar avances mensuales al CTO. - Crear, mantener y hacer cumplir las políticas de seguridad del holding para activos, software, datos e inteligencia artificial, para establecer estándares únicos y verificables en todas las empresas del grupo. - Diseñar e implementar la estrategia DevSecOps del holding (análisis de código, dependencias, secretos, contenedores e infraestructura como código integrados en cada pull request y pipeline CI/CD), para que ningún cambio llegue a producción con vulnerabilidades críticas. - Habilitar a los equipos de ingeniería en desarrollo seguro mediante modelado de amenazas en los flujos que mueven dinero, estándares de código seguro y acompañamiento en la remediación, para reducir vulnerabilidades desde el diseño. - Definir y asegurar la seguridad de las soluciones de IA del holding (agentes, RAG, Bedrock, n8n, Apps Script): reglas sobre qué datos ingresan a los modelos, protección contra prompt injection y fuga de información, gestión de secretos e inventario de casos de uso, para adoptar IA de forma segura y escalable. - Incorporar IA en las operaciones de seguridad (revisión automatizada de código, triage de alertas, análisis de vulnerabilidades y generación de evidencias), para multiplicar la capacidad del equipo y acortar los tiempos de detección y remediación. - Definir y auditar los controles de seguridad en AWS (guardrails, logging centralizado, separación de cuentas y servicios nativos de seguridad), para proteger la información y la operación del corporativo. - Liderar la detección y respuesta a incidentes de seguridad, coordinando con el proveedor de monitoreo 24/7 y manteniendo playbooks y simulacros, para contener los incidentes y cumplir los plazos de notificación regulatorios. - Definir los requisitos de seguridad para proveedores y dar soporte técnico al Oficial de Datos Personales y a las auditorías regulatorias (SMV, SBS/UIF), para asegurar el cumplimiento normativo. Requisitos: Formación y experiencia: Bachiller o titulado de las carreras de Ingeniería de Sistemas, Ingeniería de Software, Ingeniería Informática, Ciencias de la Computación o afines. 6 años en seguridad de la información, de los cuales al menos 2 en seguridad cloud (AWS), DevSecOps o seguridad de aplicaciones. Deseable experiencia en banca o afines. Conocimientos : Conocimientos en Seguridad en AWS (IAM, GuardDuty, Security Hub, KMS, CloudTrail); DevSecOps y CI/CD (SAST, SCA, escaneo de secretos, infraestructura como código y contenedores); seguridad de aplicaciones y APIs (OWASP Top 10, OWASP API Security, modelado de amenazas). Conocimiento en seguridad de IA (OWASP Top 10 para LLM, prompt injection, gobierno de datos en modelos). Conocimiento en el uso de IA y agentes para automatizar operaciones de seguridad; respuesta a incidentes; NIST CSF 2.0 / ISO 27001; Python o scripting para automatización; inglés técnico intermedio-avanzado. Deseable conocimiento de Ley 29733 y su reglamento; certificaciones AWS Security Specialty, CISSP, CCSP u OSCP. Beneficios Modalidad de trabajo híbrida",
+    "requisitos":  [
+                       "Formación y experiencia",
+                       "Bachiller o titulado de las carreras de Ingeniería de Sistemas, Ingeniería de Software, Ingeniería Informática, Ciencias de la Computación o afines",
+                       "6 años en seguridad de la información, de los cuales al menos 2 en seguridad cloud (AWS), DevSecOps o seguridad de aplicaciones",
+                       "Deseable experiencia en banca o afines",
+                       "Conocimientos",
+                       "Conocimientos en Seguridad en AWS (IAM, GuardDuty, Security Hub, KMS, CloudTrail); DevSecOps y CI/CD (SAST, SCA, escaneo de secretos, infraestructura como código y contenedores); seguridad de aplicaciones y APIs (OWASP Top 10, OWASP API Security, modelado de amenazas)",
+                       "Conocimiento en seguridad de IA (OWASP Top 10 para LLM, prompt injection, gobierno de datos en modelos)",
+                       "Conocimiento en el uso de IA y agentes para automatizar operaciones de seguridad; respuesta a incidentes; NIST CSF 2.0 / ISO 27001; Python o scripting para automatización; inglés técnico intermedio-avanzado",
+                       "Deseable conocimiento de Ley 29733 y su reglamento; certificaciones AWS Security Specialty, CISSP, CCSP u OSCP"
+                   ],
+    "funciones":  [
+                      "Liderar el programa de seguridad de la información del Grupo Prestamype (roadmap, registro de riesgos y marco NIST CSF 2.0), para reducir los riesgos priorizados y reportar avances mensuales al CTO",
+                      "Crear, mantener y hacer cumplir las políticas de seguridad del holding para activos, software, datos e inteligencia artificial, para establecer estándares únicos y verificables en todas las empresas del grupo",
+                      "Diseñar e implementar la estrategia DevSecOps del holding (análisis de código, dependencias, secretos, contenedores e infraestructura como código integrados en cada pull request y pipeline CI/CD), para que ningún cambio llegue a producción con vulnerabilidades críticas",
+                      "Habilitar a los equipos de ingeniería en desarrollo seguro mediante modelado de amenazas en los flujos que mueven dinero, estándares de código seguro y acompañamiento en la remediación, para reducir vulnerabilidades desde el diseño",
+                      "Definir y asegurar la seguridad de las soluciones de IA del holding (agentes, RAG, Bedrock, n8n, Apps Script): reglas sobre qué datos ingresan a los modelos, protección contra prompt injection y fuga de información, gestión de secretos e inventario de casos de uso, para adoptar IA de forma segura y escalable",
+                      "Incorporar IA en las operaciones de seguridad (revisión automatizada de código, triage de alertas, análisis de vulnerabilidades y generación de evidencias), para multiplicar la capacidad del equipo y acortar los tiempos de detección y remediación",
+                      "Definir y auditar los controles de seguridad en AWS (guardrails, logging centralizado, separación de cuentas y servicios nativos de seguridad), para proteger la información y la operación del corporativo",
+                      "Liderar la detección y respuesta a incidentes de seguridad, coordinando con el proveedor de monitoreo 24/7 y manteniendo playbooks y simulacros, para contener los incidentes y cumplir los plazos de notificación regulatorios",
+                      "Definir los"
+                  ],
+    "beneficios":  [
+                       "Modalidad de trabajo híbrida"
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-de-la-seguridad-senior-1118518450.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-de-la-seguridad-senior-1118518450.html",
+    "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda de un Ingeniero\u003cstrong\u003e \u003c/strong\u003ede Ciberseguridad\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cp\u003e- Liderar el programa de seguridad de la información del Grupo Prestamype (roadmap, registro de riesgos y marco NIST CSF 2.0), para reducir los riesgos priorizados y reportar avances mensuales al CTO.\u003c/p\u003e\u003cp\u003e- Crear, mantener y hacer cumplir las políticas de seguridad del holding para activos, software, datos e inteligencia artificial, para establecer estándares únicos y verificables en todas las empresas del grupo.\u003c/p\u003e\u003cp\u003e- Diseñar e implementar la estrategia DevSecOps del holding (análisis de código, dependencias, secretos, contenedores e infraestructura como código integrados en cada pull request y pipeline CI/CD), para que ningún cambio llegue a producción con vulnerabilidades críticas.\u003c/p\u003e\u003cp\u003e- Habilitar a los equipos de ingeniería en desarrollo seguro mediante modelado de amenazas en los flujos que mueven dinero, estándares de código seguro y acompañamiento en la remediación, para reducir vulnerabilidades desde el diseño.\u003c/p\u003e\u003cp\u003e- Definir y asegurar la seguridad de las soluciones de IA del holding (agentes, RAG, Bedrock, n8n, Apps Script): reglas sobre qué datos ingresan a los modelos, protección contra prompt injection y fuga de información, gestión de secretos e inventario de casos de uso, para adoptar IA de forma segura y escalable.\u003c/p\u003e\u003cp\u003e- Incorporar IA en las operaciones de seguridad (revisión automatizada de código, triage de alertas, análisis de vulnerabilidades y generación de evidencias), para multiplicar la capacidad del equipo y acortar los tiempos de detección y remediación.\u003c/p\u003e\u003cp\u003e- Definir y auditar los controles de seguridad en AWS (guardrails, logging centralizado, separación de cuentas y servicios nativos de seguridad), para proteger la información y la operación del corporativo.\u003c/p\u003e\u003cp\u003e- Liderar la detección y respuesta a incidentes de seguridad, coordinando con el proveedor de monitoreo 24/7 y manteniendo playbooks y simulacros, para contener los incidentes y cumplir los plazos de notificación regulatorios.\u003c/p\u003e\u003cp\u003e- Definir los requisitos de seguridad para proveedores y dar soporte técnico al Oficial de Datos Personales y a las auditorías regulatorias (SMV, SBS/UIF), para asegurar el cumplimiento normativo.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003eFormación y experiencia:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado de las carreras de Ingeniería de Sistemas, Ingeniería de Software, Ingeniería Informática, Ciencias de la Computación o afines.\u003c/li\u003e \u003cli\u003e6 años en seguridad de la información, de los cuales al menos 2 en seguridad cloud (AWS), DevSecOps o seguridad de aplicaciones.\u003c/li\u003e \u003cli\u003eDeseable experiencia en banca o afines.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eConocimientos :\u003c/p\u003e\u003cul\u003e \u003cli\u003eConocimientos en Seguridad en AWS (IAM, GuardDuty, Security Hub, KMS, CloudTrail); DevSecOps y CI/CD (SAST, SCA, escaneo de secretos, infraestructura como código y contenedores); seguridad de aplicaciones y APIs (OWASP Top 10, OWASP API Security, modelado de amenazas).\u003c/li\u003e \u003cli\u003eConocimiento en seguridad de IA (OWASP Top 10 para LLM, prompt injection, gobierno de datos en modelos).\u003c/li\u003e \u003cli\u003eConocimiento en el uso de IA y agentes para automatizar operaciones de seguridad; respuesta a incidentes; NIST CSF 2.0 / ISO 27001; Python o scripting para automatización; inglés técnico intermedio-avanzado.\u003c/li\u003e \u003cli\u003eDeseable conocimiento de Ley 29733 y su reglamento; certificaciones AWS Security Specialty, CISSP, CCSP u OSCP.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad de trabajo híbrida\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "* Conocimientos en Seguridad en AWS (IAM, GuardDuty, Security Hub, KMS, CloudTrail); DevSecOps y CI/CD (SAST, SCA, escaneo de secretos, infraestructura como código y contenedores); seguridad de aplicaciones y APIs (OWASP Top 10, OWASP API Security, modelado de amenazas)",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

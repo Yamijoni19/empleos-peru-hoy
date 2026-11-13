@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118518478",
+    "clave":  "id:1118518478",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-con-experiencia-cmac-tacna-s.a.-1118518478.html",
+                   "capturadoEn":  "2026-11-13T07:57:37+00:00"
+               },
+    "titulo":  "ANALISTA DE CREDITOS - CON EXPERIENCIA",
+    "empresa":  "CMAC TACNA S.A.",
+    "ubicacion":  "Arequipa - Cerro Colorado",
+    "ciudad":  "Cerro Colorado",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "La Caja Municipal de Ahorro y Crédito de Tacna S.A. (CMAC TACNA) , es una institución de intermediación financiera, clasificada en el Sistema no Bancario del Sistema Financiero Peruano; que actúa bajo la forma de Sociedad Anónima, con autonomía económica, administrativa y financiera. Realizar la promoción, captación, evaluación y análisis de la capacidad de pago de los clientes recurrentes y potenciales de la CMAC Tacna S.A. para el otorgamiento de créditos, atendiendo las normas que rigen los mismos. Asegurar el cumplimiento de las metas individuales asignadas a su cargo. Ser responsable del crédito otorgado hasta su total recuperación Realizar la promoción, captación, evaluación y análisis de la capacidad de pago de los clientes recurrentes y potenciales de la CMAC Tacna S.A. para el otorgamiento de créditos, atendiendo las normas que rigen los mismos. Asegurar el cumplimiento de las metas individuales asignadas a su cargo. Ser responsable del crédito otorgado hasta su total recuperación Requisitos: Certificados de Estudios de Instituto terminados o universidad (egresado o hasta el 3er año de estudios de carrera universitaria) en Administración, Economía, Contabilidad y/o carreras afines (*) Beneficios Seguridad Social Beneficios de Salud y Familia Capacitación y Crecimiento Clima Laboral",
+    "requisitos":  [
+                       "Certificados de Estudios de Instituto terminados o universidad (egresado o hasta el 3er año de estudios de carrera universitaria) en Administración, Economía, Contabilidad y/o carreras afines (*)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de Salud y Familia",
+                       "Capacitación y Crecimiento",
+                       "Clima Laboral"
+                   ],
+    "fecha_publicacion":  "2026-11-11",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-con-experiencia-cmac-tacna-s.a.-1118518478.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-con-experiencia-cmac-tacna-s.a.-1118518478.html",
+    "descripcion_html":  "\u003cp\u003eLa \u003cstrong\u003eCaja Municipal de Ahorro y Crédito de Tacna S.A. (CMAC TACNA)\u003c/strong\u003e, es una institución de intermediación financiera, clasificada en el Sistema no Bancario del Sistema Financiero Peruano; que actúa bajo la forma de Sociedad Anónima, con autonomía económica, administrativa y financiera.\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar la promoción, captación, evaluación y análisis de la capacidad de pago de los clientes recurrentes y potenciales de la CMAC Tacna S.A. para el otorgamiento de créditos, atendiendo las normas que rigen los mismos.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las metas individuales asignadas a su cargo.\u003c/li\u003e \u003cli\u003eSer responsable del crédito otorgado hasta su total recuperación\u003c/li\u003e \u003cli\u003eRealizar la promoción, captación, evaluación y análisis de la capacidad de pago de los clientes recurrentes y potenciales de la CMAC Tacna S.A. para el otorgamiento de créditos, atendiendo las normas que rigen los mismos.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las metas individuales asignadas a su cargo.\u003c/li\u003e \u003cli\u003eSer responsable del crédito otorgado hasta su total recuperación\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003eCertificados de Estudios de Instituto terminados o universidad (egresado o hasta el 3er año de estudios de carrera universitaria) en Administración, Economía, Contabilidad y/o carreras afines (*)\u003c/p\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSeguridad Social\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios de Salud y Familia\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCapacitación y Crecimiento\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eClima Laboral\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "11/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
