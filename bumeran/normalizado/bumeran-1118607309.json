@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118607309",
+    "clave":  "id:1118607309",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/contabilidad-asistente-1118607309.html",
+                   "capturadoEn":  "2026-11-14T17:07:15+00:00"
+               },
+    "titulo":  "Contabilidad Asistente",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante cadena hotelera internacional francesa Accor está en la búsqueda de un Asistente Contable para su sede Hotel Novotel Lima San Isidro. Algunas funciones entre otras son : Brindar soporte contable y administrativo al área de Administración y Finanzas y a los hoteles. Registro de operaciones contables ( documentos, cajas chicas, entre otros) Apoyo en la programación y ejecución de pagos extraordinarios. Apoyo en funciones de cierre.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "de cierre"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/contabilidad-asistente-1118607309.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/contabilidad-asistente-1118607309.html",
+    "descripcion_html":  "\u003cp\u003e\u003cem\u003eImportante cadena hotelera internacional francesa Accor está en la búsqueda de un Asistente Contable para su sede Hotel Novotel Lima San Isidro.\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eAlgunas funciones entre otras son :\u003c/em\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cem\u003eBrindar soporte contable y administrativo al área de Administración y Finanzas y a los hoteles.\u003c/em\u003e\u003c/li\u003e \u003cli\u003e\u003cem\u003eRegistro de operaciones contables ( documentos, cajas chicas, entre otros)\u003c/em\u003e\u003c/li\u003e \u003cli\u003e\u003cem\u003eApoyo en la programación y ejecución de pagos extraordinarios.\u003c/em\u003e\u003c/li\u003e \u003cli\u003e\u003cem\u003eApoyo en funciones de cierre.\u003c/em\u003e\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118480481",
+    "clave":  "id:1118480481",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-desarrollador-full-stack-.net-typsa-1118480481.html",
+                   "capturadoEn":  "2026-11-14T17:07:26+00:00"
+               },
+    "titulo":  "Analista Desarrollador Full Stack .NET",
+    "empresa":  "TYPSA",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "TYPSA, empresa especializada en consultoría de ingeniería y arquitectura, con participación en proyectos de gran envergadura, se encuentra en la búsqueda de un profesional que desee incorporarse a nuestro equipo de trabajo. Requisitos Formación academica: Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software o carreras afines. Conocimientos técnicos: SQL Server – Nivel intermedio. .NET 6 o superior (.NET Core), ASP.NET y Entity Framework. Conocimientos en Clean Architecture (Arquitectura Limpia). C#. JavaScript, Bootstrap, HTML y CSS. Git y GitHub – Nivel intermedio. Principales funciones: Desarrollar, implementar y mantener aplicaciones de software. Realizar mejoras y actualizaciones en las aplicaciones existentes. Identificar, analizar y solucionar errores técnicos para garantizar el correcto funcionamiento de las aplicaciones. Participar en el desarrollo y mantenimiento de funcionalidades Backend y Frontend. Brindar soporte técnico para asegurar la continuidad operativa de las aplicaciones.",
+    "requisitos":  [
+                       "Formación academica",
+                       "Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software o carreras afines",
+                       "Conocimientos técnicos",
+                       "SQL Server – Nivel intermedio",
+                       "NET 6 o superior (.NET Core), ASP.NET y Entity Framework",
+                       "Conocimientos en Clean Architecture (Arquitectura Limpia)",
+                       "C#",
+                       "JavaScript, Bootstrap, HTML y CSS",
+                       "Git y GitHub – Nivel intermedio",
+                       "Principales"
+                   ],
+    "funciones":  [
+                      "Desarrollar, implementar y mantener aplicaciones de software",
+                      "Realizar mejoras y actualizaciones en las aplicaciones existentes",
+                      "Identificar, analizar y solucionar errores técnicos para garantizar el correcto funcionamiento de las aplicaciones",
+                      "Participar en el desarrollo y mantenimiento de funcionalidades Backend y Frontend",
+                      "Brindar soporte técnico para asegurar la continuidad operativa de las aplicaciones"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-10-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-desarrollador-full-stack-.net-typsa-1118480481.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-desarrollador-full-stack-.net-typsa-1118480481.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eTYPSA, empresa especializada en consultoría de ingeniería y arquitectura, con participación en proyectos de gran envergadura, se encuentra en la búsqueda de un profesional que desee incorporarse a nuestro equipo de trabajo.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFormación academica:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTitulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software o carreras afines.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eConocimientos técnicos:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSQL Server – Nivel intermedio.\u003c/li\u003e \u003cli\u003e.NET 6 o superior (.NET Core), ASP.NET y Entity Framework.\u003c/li\u003e \u003cli\u003eConocimientos en Clean Architecture (Arquitectura Limpia).\u003c/li\u003e \u003cli\u003eC#.\u003c/li\u003e \u003cli\u003eJavaScript, Bootstrap, HTML y CSS.\u003c/li\u003e \u003cli\u003eGit y GitHub – Nivel intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar, implementar y mantener aplicaciones de software.\u003c/li\u003e \u003cli\u003eRealizar mejoras y actualizaciones en las aplicaciones existentes.\u003c/li\u003e \u003cli\u003eIdentificar, analizar y solucionar errores técnicos para garantizar el correcto funcionamiento de las aplicaciones.\u003c/li\u003e \u003cli\u003eParticipar en el desarrollo y mantenimiento de funcionalidades Backend y Frontend.\u003c/li\u003e \u003cli\u003eBrindar soporte técnico para asegurar la continuidad operativa de las aplicaciones.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/10/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,83 @@
+{
+    "id":  "bumeran-1118454312",
+    "clave":  "id:1118454312",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitecto-de-datos-sector-banca-indra-peru-1118454312.html",
+                   "capturadoEn":  "2026-11-14T17:07:19+00:00"
+               },
+    "titulo":  "Arquitecto de Datos - Sector Banca",
+    "empresa":  "INDRA PERU",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "More digital. More human. More Minsait. Somos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. Buscamos a un ARQUITECTO DE DATOS. Requisitos: Más de 4 años de experiencia como Arquitecto de datos u otras especialidades de arquitectura, o 5 años como desarrollador de soluciones de Datos en distintas plataformas (Relacionales y NoSQL, Analíticas y Operativas, con tecnologías Cloud y On premise de Bigdata) Indispensable tener experiencia en diseño de arquitectura de datos e implementación de lineamientos. Experiencia con Azure SQL, Python, PySpark, Databricks SQL, plataformas y herramientas de Azure Data factory, ADLS y Big Data. Experiencia en diseños de arquitectura DevOps. Conocimientos en frameworks de arquitectura (TOGAF, DAMA). Conocimientos en herramientas de integración continua y despliegue continuo (DataOps y MLOps). Experiencia en herramientas de consumo de información como Power BI y PowerApps. Experiencia en modelos SQL y NoSQL. Experiencia trabajar con metodologías ágiles (SCRUM). Funciones: Comprende e interpreta los requerimientos del Negocio (Funcionales y No Funcionales): investiga, identifica Eventos, Actores, Uso o Propósito. Define los lineamientos y set de herramientas de ingeniería (captura y procesamiento), consumo (análisis, exploratorio, analítico), y almacenamiento que deberán utilizarse para el desarrollo de casos de uso de productos de datos. Diseña la arquitectura de datos de los requerimientos y su estrategia de despliegue en base a los lineamientos y estándares definidos. Apoya y ejecuta la habilitación de herramientas y componentes de data.(estandariza, define uso, flujo operativo y despliegue en producción de plataformas de datos) de manera autónoma Apoya en la ejecución de pruebas de concepto a través de la exploración, investigación, y contrastación de alternativas de acuerdo a las necesidades de las tribus y unidades de negocio. Proporciona expertise y consultoría alrededor de mejores prácticas de Data y Analytics. Beneficios: Planilla al 100% (Vacaciones, CTS, Gratificación, etc.) EPS al 100% Acceso a la plataforma Udemy 100% gratuita. Descuentos corporativos. Asesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo. Modalidad híbrida. Horario de trabajo: De lunes a viernes de 9:00am a 6:30pm. Beneficios corporativos Minsait, technology for a more human future! Nuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social. .",
+    "requisitos":  [
+                       "Más de 4 años de experiencia como Arquitecto de datos u otras especialidades de arquitectura, o 5 años como desarrollador de soluciones de Datos en distintas plataformas (Relacionales y NoSQL, Analíticas y Operativas, con tecnologías Cloud y On premise de Bigdata)",
+                       "Indispensable tener experiencia en diseño de arquitectura de datos e implementación de lineamientos",
+                       "Experiencia con Azure SQL, Python, PySpark, Databricks SQL, plataformas y herramientas de Azure Data factory, ADLS y Big Data",
+                       "Experiencia en diseños de arquitectura DevOps",
+                       "Conocimientos en frameworks de arquitectura (TOGAF, DAMA)",
+                       "Conocimientos en herramientas de integración continua y despliegue continuo (DataOps y MLOps)",
+                       "Experiencia en herramientas de consumo de información como Power BI y PowerApps",
+                       "Experiencia en modelos SQL y NoSQL",
+                       "Experiencia trabajar con metodologías ágiles (SCRUM)"
+                   ],
+    "funciones":  [
+                      "Comprende e interpreta los requerimientos del Negocio (Funcionales y No Funcionales): investiga, identifica Eventos, Actores, Uso o Propósito",
+                      "Define los lineamientos y set de herramientas de ingeniería (captura y procesamiento), consumo (análisis, exploratorio, analítico), y almacenamiento que deberán utilizarse para el desarrollo de casos de uso de productos de datos",
+                      "Diseña la arquitectura de datos de los requerimientos y su estrategia de despliegue en base a los lineamientos y estándares definidos",
+                      "Apoya y ejecuta la habilitación de herramientas y componentes de data.(estandariza, define uso, flujo operativo y despliegue en producción de plataformas de datos) de manera autónoma",
+                      "Apoya en la ejecución de pruebas de concepto a través de la exploración, investigación, y contrastación de alternativas de acuerdo a las necesidades de las tribus y unidades de negocio",
+                      "Proporciona expertise y consultoría alrededor de mejores prácticas de Data y Analytics"
+                  ],
+    "beneficios":  [
+                       "corporativos Minsait, technology for a more human future!",
+                       "Nuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social"
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/arquitecto-de-datos-sector-banca-indra-peru-1118454312.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitecto-de-datos-sector-banca-indra-peru-1118454312.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eMore digital. More human. More Minsait.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSomos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. Buscamos a un \u003cstrong\u003eARQUITECTO DE DATOS.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMás de 4 años de experiencia como Arquitecto de datos u otras especialidades de arquitectura, o 5 años como desarrollador de soluciones de Datos en distintas plataformas (Relacionales y NoSQL, Analíticas y Operativas, con tecnologías Cloud y On premise de Bigdata)\u003c/li\u003e \u003cli\u003eIndispensable tener experiencia en diseño de arquitectura de datos e implementación de lineamientos.\u003c/li\u003e \u003cli\u003eExperiencia con Azure SQL, Python, PySpark, Databricks SQL, plataformas y herramientas de Azure Data factory, ADLS y Big Data.\u003c/li\u003e \u003cli\u003eExperiencia en diseños de arquitectura DevOps.\u003c/li\u003e \u003cli\u003eConocimientos en frameworks de arquitectura (TOGAF, DAMA).\u003c/li\u003e \u003cli\u003eConocimientos en herramientas de integración continua y despliegue continuo (DataOps y MLOps).\u003c/li\u003e \u003cli\u003eExperiencia en herramientas de consumo de información como Power BI y PowerApps.\u003c/li\u003e \u003cli\u003eExperiencia en modelos SQL y NoSQL.\u003c/li\u003e \u003cli\u003eExperiencia trabajar con metodologías ágiles (SCRUM).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComprende e interpreta los requerimientos del Negocio (Funcionales y No Funcionales): investiga, identifica Eventos, Actores, Uso o Propósito.\u003c/li\u003e \u003cli\u003eDefine los lineamientos y set de herramientas de ingeniería (captura y procesamiento), consumo (análisis, exploratorio, analítico), y almacenamiento que deberán utilizarse para el desarrollo de casos de uso de productos de datos.\u003c/li\u003e \u003cli\u003eDiseña la arquitectura de datos de los requerimientos y su estrategia de despliegue en base a los lineamientos y estándares definidos.\u003c/li\u003e \u003cli\u003eApoya y ejecuta la habilitación de herramientas y componentes de data.(estandariza, define uso, flujo operativo y despliegue en producción de plataformas de datos) de manera autónoma\u003c/li\u003e \u003cli\u003eApoya en la ejecución de pruebas de concepto a través de la exploración, investigación, y contrastación de alternativas de acuerdo a las necesidades de las tribus y unidades de negocio.\u003c/li\u003e \u003cli\u003eProporciona expertise y consultoría alrededor de mejores prácticas de Data y Analytics.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla al 100% (Vacaciones, CTS, Gratificación, etc.)\u003c/li\u003e \u003cli\u003eEPS al 100%\u003c/li\u003e \u003cli\u003eAcceso a la plataforma Udemy 100% gratuita.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e \u003cli\u003eAsesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo.\u003c/li\u003e \u003cli\u003eModalidad híbrida. Horario de trabajo: De lunes a viernes de 9:00am a 6:30pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eBeneficios corporativos Minsait, technology for a more human future!\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eNuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social.\u003c/em\u003e.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 4 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

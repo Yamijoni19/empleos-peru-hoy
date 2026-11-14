@@ -1,0 +1,1570 @@
+[
+    {
+        "id":  "bumeran-1118607311",
+        "clave":  "id:1118607311",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitecto-de-data-ia-indra-peru-1118607311.html",
+                       "capturadoEn":  "2026-11-14T17:07:14+00:00"
+                   },
+        "titulo":  "Arquitecto de Data \u0026 IA",
+        "empresa":  "INDRA PERU",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Sé parte de nuestro equipo! More digital. More human. More Minsait. Somos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. El futuro se construye con talento. Y en Indra Group, estamos en la búsqueda de un: Arquitecto de Data \u0026 IA. Funciones del puesto: Diseño de Arquitecturas de Solución para iniciativas de alta complejidad e impacto estratégico. Diseño de Arquitectura de Solución considerando los entregables: Diagramas de Arquitectura de Aplicaciones As Is y To Be, Diagramas de Arquitectura de Integración y Componentes As Is y To Be, Inventario de Componentes definidos en el diseño. Participa en la definición de roadmaps tecnológicos, evaluación de plataformas emergentes y en la toma de decisiones clave para iniciativas basadas en inteligencia artificial, automatización e innovación digital. Conocimientos asociados o requisitos: +5 años de experiencia: Diseño de arquitecturas de solución complejas orientadas a datos e inteligencia artificial. Evaluación técnica de plataformas, frameworks y herramientas de IA. Definición de lineamientos técnicos, estándares de arquitectura y principios de gobierno. Diseño de soluciones basadas en IA explicable (XAI), IA ética y responsable. Gestión de riesgos tecnológicos, interoperabilidad y resiliencia de soluciones. Experiencia en dominios regulados (banca, seguros, salud). Participación activa en definición de roadmaps tecnológicos y estrategias de evolución arquitectónica. Experiencia diseñando arquitecturas enterprise de IA generativa, incluyendo soluciones multi-agente y patrones de orquestación. Dominio del ecosistema de IA en Azure: Azure AI Foundry, Azure OpenAI, Azure AI Search Integración con servicios cloud bajo principios del Azure Well-Architected Framework Experiencia sólida en plataforma Databricks: Mosaic AI, MLflow, Unity Catalog, Delta Lake Model Serving, Vector Search, Workflows Implementación de pipelines de datos e IA bajo modelo lakehouse Conocimiento avanzado en: LLMs, RAG, embeddings Prompt engineering y evaluación de modelos/agentes MCP (Model Context Protocol), tool calling y diseño de agentes Experiencia en desarrollo: Python, SQL Diseño y consumo de APIs REST / microservicios Conocimientos en: Contenerización (Docker, Kubernetes) CI/CD e Infraestructura como código (Terraform) Prácticas de seguridad y gobierno: Entra ID, RBAC, Key Vault, Private Endpoints Observabilidad: Azure Monitor, Application Insights, OpenTelemetry Experiencia integrando soluciones de IA con: Plataformas de datos (lakehouse, DWH) Sistemas corporativos y servicios cloud Deseable: Experiencia con frameworks como LangChain, LangGraph, Semantic Kernel, AutoGen o CrewAI ¿Qué ofrecemos? Seguro EPS cubierto al 100% Seguro Vida Ley Programa de Certificaciones Acceso a la plataforma de cursos Udemy 100% gratuita. Asesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo. Convenios corporativos y educativos. Cultura colaborativa y oportunidades de crecimiento. Proyectos tecnológicos de gran escala. Modalidad híbrida (Presencial, 2 veces por semana) – En Chorrillos o en La Molina. Minsait, technology for a more human future! Nuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción, ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social.",
+        "requisitos":  [
+                           "+5 años de experiencia",
+                           "Diseño de arquitecturas de solución complejas orientadas a datos e inteligencia artificial",
+                           "Evaluación técnica de plataformas, frameworks y herramientas de IA",
+                           "Definición de lineamientos técnicos, estándares de arquitectura y principios de gobierno",
+                           "Diseño de soluciones basadas en IA explicable (XAI), IA ética y responsable",
+                           "Gestión de riesgos tecnológicos, interoperabilidad y resiliencia de soluciones",
+                           "Experiencia en dominios regulados (banca, seguros, salud)",
+                           "Participación activa en definición de roadmaps tecnológicos y estrategias de evolución arquitectónica",
+                           "Experiencia diseñando arquitecturas enterprise de IA generativa, incluyendo soluciones multi-agente y patrones de orquestación",
+                           "Dominio del ecosistema de IA en Azure: Azure AI Foundry, Azure OpenAI, Azure AI Search",
+                           "Integración con servicios cloud bajo principios del Azure Well-Architected Framework",
+                           "Experiencia sólida en plataforma Databricks",
+                           "Mosaic AI, MLflow, Unity Catalog, Delta Lake",
+                           "Model Serving, Vector Search, Workflows",
+                           "Implementación de pipelines de datos e IA bajo modelo lakehouse",
+                           "Conocimiento avanzado en",
+                           "LLMs, RAG, embeddings",
+                           "Prompt engineering y evaluación de modelos/agentes",
+                           "MCP (Model Context Protocol), tool calling y diseño de agentes",
+                           "Experiencia en desarrollo",
+                           "Python, SQL",
+                           "Diseño y consumo de APIs REST / microservicios",
+                           "Conocimientos en",
+                           "Contenerización (Docker, Kubernetes)",
+                           "CI/CD e Infraestructura como código (Terraform)",
+                           "Prácticas de seguridad y gobierno",
+                           "Entra ID, RBAC, Key Vault, Private Endpoints",
+                           "Observabilidad: Azure Monitor, Application Insights, OpenTelemetry",
+                           "Experiencia integrando soluciones de IA con",
+                           "Plataformas de datos (lakehouse, DWH)",
+                           "Sistemas corporativos y servicios cloud",
+                           "Deseable: Experiencia con frameworks como LangChain, LangGraph, Semantic Kernel, AutoGen o CrewAI",
+                           "¿Qué"
+                       ],
+        "funciones":  [
+                          "del puesto",
+                          "Diseño de Arquitecturas de Solución para iniciativas de alta complejidad e impacto estratégico",
+                          "Diseño de Arquitectura de Solución considerando los entregables: Diagramas de Arquitectura de Aplicaciones As Is y To Be, Diagramas de Arquitectura de Integración y Componentes As Is y To Be, Inventario de Componentes definidos en el diseño",
+                          "Participa en la definición de roadmaps tecnológicos, evaluación de plataformas emergentes y en la toma de decisiones clave para iniciativas basadas en inteligencia artificial, automatización e innovación digital",
+                          "Conocimientos asociados o"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/arquitecto-de-data-ia-indra-peru-1118607311.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitecto-de-data-ia-indra-peru-1118607311.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eSé parte de nuestro equipo! More digital. More human. More Minsait.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSomos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. El futuro se construye con talento. Y en Indra Group, estamos en la búsqueda de un: \u003cstrong\u003eArquitecto de Data \u0026 IA.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseño de Arquitecturas de Solución para iniciativas de alta complejidad e impacto estratégico.\u003c/li\u003e \u003cli\u003eDiseño de Arquitectura de Solución considerando los entregables: Diagramas de Arquitectura de Aplicaciones As Is y To Be, Diagramas de Arquitectura de Integración y Componentes As Is y To Be, Inventario de Componentes definidos en el diseño.\u003c/li\u003e \u003cli\u003eParticipa en la definición de roadmaps tecnológicos, evaluación de plataformas emergentes y en la toma de decisiones clave para iniciativas basadas en inteligencia artificial, automatización e innovación digital.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos asociados o requisitos:\u003c/strong\u003e +5 años de experiencia:\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseño de arquitecturas de solución complejas orientadas a datos e inteligencia artificial. \u003c/li\u003e \u003cli\u003eEvaluación técnica de plataformas, frameworks y herramientas de IA. \u003c/li\u003e \u003cli\u003eDefinición de lineamientos técnicos, estándares de arquitectura y principios de gobierno. \u003c/li\u003e \u003cli\u003eDiseño de soluciones basadas en IA explicable (XAI), IA ética y responsable. \u003c/li\u003e \u003cli\u003eGestión de riesgos tecnológicos, interoperabilidad y resiliencia de soluciones. \u003c/li\u003e \u003cli\u003eExperiencia en dominios regulados (banca, seguros, salud). \u003c/li\u003e \u003cli\u003eParticipación activa en definición de roadmaps tecnológicos y estrategias de evolución arquitectónica. \u003c/li\u003e \u003cli\u003eExperiencia diseñando arquitecturas enterprise de IA generativa, incluyendo soluciones multi-agente y patrones de orquestación. \u003c/li\u003e \u003cli\u003eDominio del ecosistema de IA en Azure: Azure AI Foundry, Azure OpenAI, Azure AI Search\u003c/li\u003e \u003cli\u003eIntegración con servicios cloud bajo principios del Azure Well-Architected Framework\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia sólida en plataforma Databricks:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMosaic AI, MLflow, Unity Catalog, Delta Lake\u003c/li\u003e \u003cli\u003eModel Serving, Vector Search, Workflows\u003c/li\u003e \u003cli\u003eImplementación de pipelines de datos e IA bajo modelo lakehouse\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimiento avanzado en:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLLMs, RAG, embeddings\u003c/li\u003e \u003cli\u003ePrompt engineering y evaluación de modelos/agentes\u003c/li\u003e \u003cli\u003eMCP (Model Context Protocol), tool calling y diseño de agentes\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia en desarrollo:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePython, SQL\u003c/li\u003e \u003cli\u003eDiseño y consumo de APIs REST / microservicios\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos en:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eContenerización (Docker, Kubernetes)\u003c/li\u003e \u003cli\u003eCI/CD e Infraestructura como código (Terraform)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePrácticas de seguridad y gobierno:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEntra ID, RBAC, Key Vault, Private Endpoints\u003c/li\u003e \u003cli\u003eObservabilidad: Azure Monitor, Application Insights, OpenTelemetry\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia integrando soluciones de IA con:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlataformas de datos (lakehouse, DWH)\u003c/li\u003e \u003cli\u003eSistemas corporativos y servicios cloud\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDeseable: \u003c/strong\u003eExperiencia con frameworks como LangChain, LangGraph, Semantic Kernel, AutoGen o CrewAI\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSeguro EPS cubierto al 100%\u003c/li\u003e \u003cli\u003eSeguro Vida Ley\u003c/li\u003e \u003cli\u003ePrograma de Certificaciones\u003c/li\u003e \u003cli\u003eAcceso a la plataforma de cursos Udemy 100% gratuita.\u003c/li\u003e \u003cli\u003eAsesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo.\u003c/li\u003e \u003cli\u003eConvenios corporativos y educativos.\u003c/li\u003e \u003cli\u003eCultura colaborativa y oportunidades de crecimiento.\u003c/li\u003e \u003cli\u003eProyectos tecnológicos de gran escala.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eModalidad híbrida (Presencial, 2 veces por semana) – En Chorrillos o en La Molina.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMinsait, technology for a more human future!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eNuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción, ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607309",
+        "clave":  "id:1118607309",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/contabilidad-asistente-1118607309.html",
+                       "capturadoEn":  "2026-11-14T17:07:15+00:00"
+                   },
+        "titulo":  "Contabilidad Asistente",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Importante cadena hotelera internacional francesa Accor está en la búsqueda de un Asistente Contable para su sede Hotel Novotel Lima San Isidro. Algunas funciones entre otras son : Brindar soporte contable y administrativo al área de Administración y Finanzas y a los hoteles. Registro de operaciones contables ( documentos, cajas chicas, entre otros) Apoyo en la programación y ejecución de pagos extraordinarios. Apoyo en funciones de cierre.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "de cierre"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/contabilidad-asistente-1118607309.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/contabilidad-asistente-1118607309.html",
+        "descripcion_html":  "\u003cp\u003e\u003cem\u003eImportante cadena hotelera internacional francesa Accor está en la búsqueda de un Asistente Contable para su sede Hotel Novotel Lima San Isidro.\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eAlgunas funciones entre otras son :\u003c/em\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cem\u003eBrindar soporte contable y administrativo al área de Administración y Finanzas y a los hoteles.\u003c/em\u003e\u003c/li\u003e \u003cli\u003e\u003cem\u003eRegistro de operaciones contables ( documentos, cajas chicas, entre otros)\u003c/em\u003e\u003c/li\u003e \u003cli\u003e\u003cem\u003eApoyo en la programación y ejecución de pagos extraordinarios.\u003c/em\u003e\u003c/li\u003e \u003cli\u003e\u003cem\u003eApoyo en funciones de cierre.\u003c/em\u003e\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118454312",
+        "clave":  "id:1118454312",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitecto-de-datos-sector-banca-indra-peru-1118454312.html",
+                       "capturadoEn":  "2026-11-14T17:07:19+00:00"
+                   },
+        "titulo":  "Arquitecto de Datos - Sector Banca",
+        "empresa":  "INDRA PERU",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "More digital. More human. More Minsait. Somos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. Buscamos a un ARQUITECTO DE DATOS. Requisitos: Más de 4 años de experiencia como Arquitecto de datos u otras especialidades de arquitectura, o 5 años como desarrollador de soluciones de Datos en distintas plataformas (Relacionales y NoSQL, Analíticas y Operativas, con tecnologías Cloud y On premise de Bigdata) Indispensable tener experiencia en diseño de arquitectura de datos e implementación de lineamientos. Experiencia con Azure SQL, Python, PySpark, Databricks SQL, plataformas y herramientas de Azure Data factory, ADLS y Big Data. Experiencia en diseños de arquitectura DevOps. Conocimientos en frameworks de arquitectura (TOGAF, DAMA). Conocimientos en herramientas de integración continua y despliegue continuo (DataOps y MLOps). Experiencia en herramientas de consumo de información como Power BI y PowerApps. Experiencia en modelos SQL y NoSQL. Experiencia trabajar con metodologías ágiles (SCRUM). Funciones: Comprende e interpreta los requerimientos del Negocio (Funcionales y No Funcionales): investiga, identifica Eventos, Actores, Uso o Propósito. Define los lineamientos y set de herramientas de ingeniería (captura y procesamiento), consumo (análisis, exploratorio, analítico), y almacenamiento que deberán utilizarse para el desarrollo de casos de uso de productos de datos. Diseña la arquitectura de datos de los requerimientos y su estrategia de despliegue en base a los lineamientos y estándares definidos. Apoya y ejecuta la habilitación de herramientas y componentes de data.(estandariza, define uso, flujo operativo y despliegue en producción de plataformas de datos) de manera autónoma Apoya en la ejecución de pruebas de concepto a través de la exploración, investigación, y contrastación de alternativas de acuerdo a las necesidades de las tribus y unidades de negocio. Proporciona expertise y consultoría alrededor de mejores prácticas de Data y Analytics. Beneficios: Planilla al 100% (Vacaciones, CTS, Gratificación, etc.) EPS al 100% Acceso a la plataforma Udemy 100% gratuita. Descuentos corporativos. Asesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo. Modalidad híbrida. Horario de trabajo: De lunes a viernes de 9:00am a 6:30pm. Beneficios corporativos Minsait, technology for a more human future! Nuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social. .",
+        "requisitos":  [
+                           "Más de 4 años de experiencia como Arquitecto de datos u otras especialidades de arquitectura, o 5 años como desarrollador de soluciones de Datos en distintas plataformas (Relacionales y NoSQL, Analíticas y Operativas, con tecnologías Cloud y On premise de Bigdata)",
+                           "Indispensable tener experiencia en diseño de arquitectura de datos e implementación de lineamientos",
+                           "Experiencia con Azure SQL, Python, PySpark, Databricks SQL, plataformas y herramientas de Azure Data factory, ADLS y Big Data",
+                           "Experiencia en diseños de arquitectura DevOps",
+                           "Conocimientos en frameworks de arquitectura (TOGAF, DAMA)",
+                           "Conocimientos en herramientas de integración continua y despliegue continuo (DataOps y MLOps)",
+                           "Experiencia en herramientas de consumo de información como Power BI y PowerApps",
+                           "Experiencia en modelos SQL y NoSQL",
+                           "Experiencia trabajar con metodologías ágiles (SCRUM)"
+                       ],
+        "funciones":  [
+                          "Comprende e interpreta los requerimientos del Negocio (Funcionales y No Funcionales): investiga, identifica Eventos, Actores, Uso o Propósito",
+                          "Define los lineamientos y set de herramientas de ingeniería (captura y procesamiento), consumo (análisis, exploratorio, analítico), y almacenamiento que deberán utilizarse para el desarrollo de casos de uso de productos de datos",
+                          "Diseña la arquitectura de datos de los requerimientos y su estrategia de despliegue en base a los lineamientos y estándares definidos",
+                          "Apoya y ejecuta la habilitación de herramientas y componentes de data.(estandariza, define uso, flujo operativo y despliegue en producción de plataformas de datos) de manera autónoma",
+                          "Apoya en la ejecución de pruebas de concepto a través de la exploración, investigación, y contrastación de alternativas de acuerdo a las necesidades de las tribus y unidades de negocio",
+                          "Proporciona expertise y consultoría alrededor de mejores prácticas de Data y Analytics"
+                      ],
+        "beneficios":  [
+                           "corporativos Minsait, technology for a more human future!",
+                           "Nuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/arquitecto-de-datos-sector-banca-indra-peru-1118454312.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitecto-de-datos-sector-banca-indra-peru-1118454312.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eMore digital. More human. More Minsait.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSomos una empresa líder global de tecnología y consultoría digital que conecta personas, tecnología y negocios para generar crecimiento, transformación e impacto positivo y sostenible. Buscamos a un \u003cstrong\u003eARQUITECTO DE DATOS.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMás de 4 años de experiencia como Arquitecto de datos u otras especialidades de arquitectura, o 5 años como desarrollador de soluciones de Datos en distintas plataformas (Relacionales y NoSQL, Analíticas y Operativas, con tecnologías Cloud y On premise de Bigdata)\u003c/li\u003e \u003cli\u003eIndispensable tener experiencia en diseño de arquitectura de datos e implementación de lineamientos.\u003c/li\u003e \u003cli\u003eExperiencia con Azure SQL, Python, PySpark, Databricks SQL, plataformas y herramientas de Azure Data factory, ADLS y Big Data.\u003c/li\u003e \u003cli\u003eExperiencia en diseños de arquitectura DevOps.\u003c/li\u003e \u003cli\u003eConocimientos en frameworks de arquitectura (TOGAF, DAMA).\u003c/li\u003e \u003cli\u003eConocimientos en herramientas de integración continua y despliegue continuo (DataOps y MLOps).\u003c/li\u003e \u003cli\u003eExperiencia en herramientas de consumo de información como Power BI y PowerApps.\u003c/li\u003e \u003cli\u003eExperiencia en modelos SQL y NoSQL.\u003c/li\u003e \u003cli\u003eExperiencia trabajar con metodologías ágiles (SCRUM).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComprende e interpreta los requerimientos del Negocio (Funcionales y No Funcionales): investiga, identifica Eventos, Actores, Uso o Propósito.\u003c/li\u003e \u003cli\u003eDefine los lineamientos y set de herramientas de ingeniería (captura y procesamiento), consumo (análisis, exploratorio, analítico), y almacenamiento que deberán utilizarse para el desarrollo de casos de uso de productos de datos.\u003c/li\u003e \u003cli\u003eDiseña la arquitectura de datos de los requerimientos y su estrategia de despliegue en base a los lineamientos y estándares definidos.\u003c/li\u003e \u003cli\u003eApoya y ejecuta la habilitación de herramientas y componentes de data.(estandariza, define uso, flujo operativo y despliegue en producción de plataformas de datos) de manera autónoma\u003c/li\u003e \u003cli\u003eApoya en la ejecución de pruebas de concepto a través de la exploración, investigación, y contrastación de alternativas de acuerdo a las necesidades de las tribus y unidades de negocio.\u003c/li\u003e \u003cli\u003eProporciona expertise y consultoría alrededor de mejores prácticas de Data y Analytics.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla al 100% (Vacaciones, CTS, Gratificación, etc.)\u003c/li\u003e \u003cli\u003eEPS al 100%\u003c/li\u003e \u003cli\u003eAcceso a la plataforma Udemy 100% gratuita.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e \u003cli\u003eAsesorías virtuales con psicólogos y nutricionista para el colaborador y familiar directo.\u003c/li\u003e \u003cli\u003eModalidad híbrida. Horario de trabajo: De lunes a viernes de 9:00am a 6:30pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eBeneficios corporativos Minsait, technology for a more human future!\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eNuestro compromiso es promover ambientes de trabajo en los que se trate con respeto y dignidad a las personas, procurando el desarrollo profesional de la plantilla y garantizando la igualdad de oportunidades en su selección, formación y promoción ofreciendo un entorno de trabajo libre de cualquier discriminación por motivo de género, edad, discapacidad, orientación sexual, identidad o expresión de género, religión, etnia, estado civil o cualquier otra circunstancia personal o social.\u003c/em\u003e.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 4 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607308",
+        "clave":  "id:1118607308",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-geotecnia-unidad-minera-hochschild-1118607308.html",
+                       "capturadoEn":  "2026-11-14T17:07:20+00:00"
+                   },
+        "titulo":  "Practicante Profesional de Geotecnia - Unidad Minera",
+        "empresa":  "Hochschild",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "INTERN",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En Hochschild somos responsables, innovadores, nos apasionan los retos e inspirar y promover el talento para contribuir con un mundo mejor. Lo hacemos de la mano de los mejores, en un ambiente inclusivo y diverso, y queremos que seas parte de ello. Practicante Profesional de Geotecnia - Unidad Minera Información General Ubicación: Unidad Minera Inmaculada Modalidad: Régimen 14x7 Cobertura de traslados desde determinadas ciudades, alojamiento y alimentación al 100%. ¿Cuáles son los temas de aprendizaje? Levantar información geomecánica de campo para elaboración de data. Apoyar en la evaluación de la calidad del macizo rocoso. Brindar apoyo en la medición de sostenimiento de campo. Apoyar en la elaboración de reportes geomecánicos. Brindar soporte en el control de calidad de sostenimiento instalado en Mina. ¿Qué requisitos debo cumplir para postular a la vacante? Egresada(o) o Bachiller de la carrera de Ingeniería Geológica o Ingeniería de Minas. Manejo de RS2 y Leapfrog a nivel básico. Manejo de ArcGis a nivel básico. Manejo de Excel a nivel avanzando. Conocimientos en Software Geomecánicos. ¡Te invitamos a ser parte de Hochschild y que descubras por qué Somos más que Minería!",
+        "requisitos":  [
+                           "debo cumplir para postular a la vacante?",
+                           "Egresada(o) o Bachiller de la carrera de Ingeniería Geológica o Ingeniería de Minas",
+                           "Manejo de RS2 y Leapfrog a nivel básico",
+                           "Manejo de ArcGis a nivel básico",
+                           "Manejo de Excel a nivel avanzando",
+                           "Conocimientos en Software Geomecánicos",
+                           "¡Te invitamos a ser parte de Hochschild y que descubras por qué Somos más que Minería!"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-geotecnia-unidad-minera-hochschild-1118607308.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-geotecnia-unidad-minera-hochschild-1118607308.html",
+        "descripcion_html":  "\u003cp\u003eEn Hochschild somos responsables, innovadores, nos apasionan los retos e inspirar y promover el talento para contribuir con un mundo mejor. Lo hacemos de la mano de los mejores, en un ambiente inclusivo y diverso, y queremos que seas parte de ello.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePracticante Profesional de Geotecnia - Unidad Minera\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eInformación General\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUbicación: Unidad Minera Inmaculada\u003c/li\u003e \u003cli\u003eModalidad: Régimen 14x7\u003c/li\u003e \u003cli\u003eCobertura de traslados desde determinadas ciudades, alojamiento y alimentación al 100%.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles son los temas de aprendizaje?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLevantar información geomecánica de campo para elaboración de data.\u003c/li\u003e \u003cli\u003eApoyar en la evaluación de la calidad del macizo rocoso.\u003c/li\u003e \u003cli\u003eBrindar apoyo en la medición de sostenimiento de campo.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración de reportes geomecánicos.\u003c/li\u003e \u003cli\u003eBrindar soporte en el control de calidad de sostenimiento instalado en Mina.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué requisitos debo cumplir para postular a la vacante?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresada(o) o Bachiller de la carrera de Ingeniería Geológica o Ingeniería de Minas.\u003c/li\u003e \u003cli\u003eManejo de RS2 y Leapfrog a nivel básico.\u003c/li\u003e \u003cli\u003eManejo de ArcGis a nivel básico.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel avanzando.\u003c/li\u003e \u003cli\u003eConocimientos en Software Geomecánicos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¡Te invitamos a ser parte de Hochschild y que descubras por qué Somos más que Minería!\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607307",
+        "clave":  "id:1118607307",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/trabaja-desde-casa-asesor-de-ventas-movistar-planilla-completa-descanso-domingo-1118607307.html",
+                       "capturadoEn":  "2026-11-14T17:07:21+00:00"
+                   },
+        "titulo":  "Trabaja desde casa / Asesor de ventas Movistar / Planilla completa / Descanso Domingo",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Remoto",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1230,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/1230",
+                        "fuente_salario":  "descripcion"
+                    },
+        "descripcion":  "Por encargo de nuestro cliente del rubro de telecomunicaciones, nos encontramos en la búsqueda de Asesores de Ventas - Trabajo Remoto, para Movistar público chileno. ¿Qué estamos buscando? Secundaria completa. Con experiencia min 3 meses en el rubro, pero con mucho enfoque en atención al cliente. Excelente nivel comunicativo, fluidez verbal. Ganas de aprender y capacitarse. Disponibilidad para realizar trabajo virtual. Contar con laptop personal para realizar la capacitación, luego de ello se le otorgará equipo de la empresa. ¿Qué te ofrecemos? Sueldo básico de S/1230 + comisiones ilimitadas, promedio de S/600 a más. Contrato en planilla completa al 100%. (Cts, utilidades, gratificaciones, vacaciones, asignación familiar, seguro vida ley, descuentos corporativos con institutos y universidades). Capacitaciones pagadas de 14 días (S/ 40 por día). Línea de carrera y capacitación constante. Buen clima laboral y entrenamiento continuo TE BRINDAMOS LAS HERRAMIENTAS PARA TRABAJAR DESDE CASA. Horario laboral Horario 1: Lunes a Sábado o en un rango de: 7:00 am a 4:00 pm / 8:00am a 5:00 pm Descanso fijo: Domingo ¡Promovemos el empleo formal, brindando trabajo a más personas! APLICA PARA LIMA Y CHICLAYO ¡Esta es tu oportunidad! Si tienes facilidad para comunicarte, te gustan los desafíos y buscas una oportunidad para desarrollar tus habilidades comerciales, ¡queremos conocerte!",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/trabaja-desde-casa-asesor-de-ventas-movistar-planilla-completa-descanso-domingo-1118607307.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/trabaja-desde-casa-asesor-de-ventas-movistar-planilla-completa-descanso-domingo-1118607307.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente del rubro de telecomunicaciones, nos encontramos en la búsqueda de \u003cstrong\u003eAsesores de Ventas - Trabajo Remoto, para Movistar público chileno.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué estamos buscando?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eCon experiencia min 3 meses en el rubro, pero con mucho enfoque en atención al cliente.\u003c/li\u003e \u003cli\u003eExcelente nivel comunicativo, fluidez verbal.\u003c/li\u003e \u003cli\u003eGanas de aprender y capacitarse.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar trabajo virtual.\u003c/li\u003e \u003cli\u003eContar con laptop personal para realizar la capacitación, \u003cstrong\u003eluego de ello se le otorgará equipo de la empresa.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo básico de S/1230 + comisiones ilimitadas, promedio de S/600 a más.\u003c/li\u003e \u003cli\u003eContrato en planilla completa al 100%. (Cts, utilidades, gratificaciones, vacaciones, asignación familiar, seguro vida ley, descuentos corporativos con institutos y universidades).\u003c/li\u003e \u003cli\u003eCapacitaciones pagadas de 14 días (S/ 40 por día).\u003c/li\u003e \u003cli\u003eLínea de carrera y capacitación constante.\u003c/li\u003e \u003cli\u003eBuen clima laboral y entrenamiento continuo\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eTE BRINDAMOS LAS HERRAMIENTAS PARA TRABAJAR DESDE CASA.\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eHorario laboral\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003eHorario 1:\u003c/u\u003e\u003c/p\u003e\u003cp\u003eLunes a Sábado o en un rango de: 7:00 am a 4:00 pm / 8:00am a 5:00 pm\u003c/p\u003e\u003cp\u003eDescanso fijo: Domingo\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Promovemos el empleo formal, brindando trabajo a más personas!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAPLICA PARA LIMA Y CHICLAYO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Esta es tu oportunidad!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eSi tienes facilidad para comunicarte, te gustan los desafíos y buscas una oportunidad para desarrollar tus habilidades comerciales, ¡queremos conocerte!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607303",
+        "clave":  "id:1118607303",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/gerente-de-mina-1118607303.html",
+                       "capturadoEn":  "2026-11-14T17:07:22+00:00"
+                   },
+        "titulo":  "Gerente de Mina",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Tacna",
+        "ciudad":  "Tacna",
+        "region":  "Tacna",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro cliente, nos encontramos en la búsqueda de un(a): Gerente de Mina: Objetivo del cargo: Liderar integralmente la operación minera de la Unidad Doris del Sol, asegurando continuidad, seguridad y cumplimiento de los volúmenes de producción de arenas ferrosas, en coordinación permanente con la planta de concentración magnética. Requisitos: Ingeniería de Minas, Geología o afín. Deseable colegiatura vigente. Formación complementaria en planeamiento minero, costos o seguridad. Conocimiento en: planeamiento a tajo abierto, movimiento de tierras, maquinaria pesada, control de costos, contratistas, blending, mejora continua, presión por resultados y reportabilidad puntual. Mínimo 8 años en operaciones mineras, con al menos 3 años liderando en campo como Gerente, Superintendente o Jefe de Mina. Experiencia en pequeña o mediana minería; deseable en arenas ferrosas, hierro, magnetita, concentración magnética, canteras o materiales de alta rotación. Experiencia comprobada liderando operaciones mineras a tajo abierto, preferentemente en pequeña o mediana minería, con dominio de planeamiento de explotación, movimiento de tierras, gestión de maquinaria pesada y supervisión de contratistas. Funciones: Elaborar, implementar y actualizar el plan de minado: frentes de trabajo, secuencia de explotación, prioridades y necesidades de maquinaria. Supervisar el ciclo completo de operación: extracción, carguío, acarreo, alimentación a planta y disposición de rechazos. Elaborar, implementar y actualizar el plan de minado: frentes de trabajo, secuencia de explotación, prioridades y necesidades de maquinaria. Supervisar el ciclo completo de operación: extracción, carguío, acarreo, alimentación a planta y disposición de rechazos. Mantener coordinación diaria con los responsables de la planta de concentración para asegurar disponibilidad de material, continuidad de alimentación y alineamiento productivo. Coordinar paradas, mantenimientos, variaciones de ritmo y gestión de stocks operativos. Supervisar la disposición ordenada de rechazos, garantizando trazabilidad, seguridad y cumplimiento ambiental básico, sin afectar la continuidad operativa de mina ni planta. Controlar diariamente los volúmenes extraídos, alimentados, procesados y despachados, asegurando trazabilidad completa del material. Preparar reportes diarios, semanales y mensuales de producción, costos, disponibilidad de equipos e incidencias. Controlar calidad del material extraído, priorizando zonas con mejor rendimiento y contenido de hierro. Asegurar que todas las actividades se realicen bajo estándares adecuados de seguridad y cuidado ambiental. Gestionar incidentes, inspecciones, charlas de seguridad y condiciones mínimas de trabajo para personal propio y contratistas. Coordinar con especialistas externos cuando se requiera soporte técnico, ambiental o de seguridad. Liderar al equipo operativo: roles, turnos, responsabilidades, desempeño y disciplina. Coordinar y supervisar contratistas y proveedores en campo, validando avances y servicios prestados. Validar requerimientos de compra y controlar que los gastos estén sustentados en necesidades reales de operación, sin asumir compromisos no autorizados. Alertar oportunamente sobre riesgos sociales, legales o reputacionales que puedan afectar la operación. Coordinar con la empresa cualquier interacción relevante con autoridades, comunidades o terceros, sin asumir compromisos fuera de su nivel de autoridad. Toneladas extraídas, alimentadas a planta, procesadas y despachadas (diario / semanal / mensual). Cumplimiento del plan de minado y de producción. Disponibilidad mecánica de equipos críticos y horas de operación continua mina-planta. Costo operativo y consumo de combustible por tonelada. Calidad del material alimentado y del concentrado producido. Correcto manejo de acopios, accesos y disposición de rechazos. Número de incidentes de seguridad. Cumplimiento de reportes. Beneficios: Remuneración acorde al mercado. Ingreso a planilla, régimen general. Ubicación de la operación - Llostay – Tacna. Empresa cubre alojamiento, alimentación completa, movilidad local y traslados. Régimen ideal: 5x2; preferencia por residencia en Tacna, aunque contemplan traslados desde Lima (regreso viernes y retorno lunes).",
+        "requisitos":  [
+                           "Ingeniería de Minas, Geología o afín",
+                           "Deseable colegiatura vigente",
+                           "Formación complementaria en planeamiento minero, costos o seguridad",
+                           "Conocimiento en: planeamiento a tajo abierto, movimiento de tierras, maquinaria pesada, control de costos, contratistas, blending, mejora continua, presión por resultados y reportabilidad puntual",
+                           "Mínimo 8 años en operaciones mineras, con al menos 3 años liderando en campo como Gerente, Superintendente o Jefe de Mina",
+                           "Experiencia en pequeña o mediana minería; deseable en arenas ferrosas, hierro, magnetita, concentración magnética, canteras o materiales de alta rotación",
+                           "Experiencia comprobada liderando operaciones mineras a tajo abierto, preferentemente en pequeña o mediana minería, con dominio de planeamiento de explotación, movimiento de tierras, gestión de maquinaria pesada y supervisión de contratistas"
+                       ],
+        "funciones":  [
+                          "Elaborar, implementar y actualizar el plan de minado: frentes de trabajo, secuencia de explotación, prioridades y necesidades de maquinaria",
+                          "Supervisar el ciclo completo de operación: extracción, carguío, acarreo, alimentación a planta y disposición de rechazos",
+                          "Mantener coordinación diaria con los responsables de la planta de concentración para asegurar disponibilidad de material, continuidad de alimentación y alineamiento productivo",
+                          "Coordinar paradas, mantenimientos, variaciones de ritmo y gestión de stocks operativos",
+                          "Supervisar la disposición ordenada de rechazos, garantizando trazabilidad, seguridad y cumplimiento ambiental básico, sin afectar la continuidad operativa de mina ni planta",
+                          "Controlar diariamente los volúmenes extraídos, alimentados, procesados y despachados, asegurando trazabilidad completa del material",
+                          "Preparar reportes diarios, semanales y mensuales de producción, costos, disponibilidad de equipos e incidencias",
+                          "Controlar calidad del material extraído, priorizando zonas con mejor rendimiento y contenido de hierro",
+                          "Asegurar que todas las actividades se realicen bajo estándares adecuados de seguridad y cuidado ambiental",
+                          "Gestionar incidentes, inspecciones, charlas de seguridad y"
+                      ],
+        "beneficios":  [
+                           "Remuneración acorde al mercado",
+                           "Ingreso a planilla, régimen general",
+                           "Ubicación de la operación - Llostay – Tacna",
+                           "Empresa cubre alojamiento, alimentación completa, movilidad local y traslados",
+                           "Régimen ideal: 5x2; preferencia por residencia en Tacna, aunque contemplan traslados desde Lima (regreso viernes y retorno lunes)"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/gerente-de-mina-1118607303.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/gerente-de-mina-1118607303.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, nos encontramos en la búsqueda de un(a):\u003cstrong\u003e Gerente de Mina:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eObjetivo del cargo: \u003c/strong\u003eLiderar integralmente la operación minera de la Unidad Doris del Sol, asegurando continuidad, seguridad y cumplimiento de los volúmenes de producción de arenas ferrosas, en coordinación permanente con la planta de concentración magnética.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniería de Minas, Geología o afín.\u003c/li\u003e \u003cli\u003eDeseable colegiatura vigente.\u003c/li\u003e \u003cli\u003eFormación complementaria en planeamiento minero, costos o seguridad.\u003c/li\u003e \u003cli\u003eConocimiento en: planeamiento a tajo abierto, movimiento de tierras, maquinaria pesada, control de costos, contratistas, blending, mejora continua, presión por resultados y reportabilidad puntual.\u003c/li\u003e \u003cli\u003eMínimo 8 años en operaciones mineras, con al menos 3 años liderando en campo como Gerente, Superintendente o Jefe de Mina.\u003c/li\u003e \u003cli\u003eExperiencia en pequeña o mediana minería; deseable en arenas ferrosas, hierro, magnetita, concentración magnética, canteras o materiales de alta rotación.\u003c/li\u003e \u003cli\u003eExperiencia comprobada liderando operaciones mineras a tajo abierto, preferentemente en pequeña o mediana minería, con dominio de planeamiento de explotación, movimiento de tierras, gestión de maquinaria pesada y supervisión de contratistas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar, implementar y actualizar el plan de minado: frentes de trabajo, secuencia de explotación, prioridades y necesidades de maquinaria.\u003c/li\u003e \u003cli\u003eSupervisar el ciclo completo de operación: extracción, carguío, acarreo, alimentación a planta y disposición de rechazos.\u003c/li\u003e \u003cli\u003eElaborar, implementar y actualizar el plan de minado: frentes de trabajo, secuencia de explotación, prioridades y necesidades de maquinaria.\u003c/li\u003e \u003cli\u003eSupervisar el ciclo completo de operación: extracción, carguío, acarreo, alimentación a planta y disposición de rechazos.\u003c/li\u003e \u003cli\u003eMantener coordinación diaria con los responsables de la planta de concentración para asegurar disponibilidad de material, continuidad de alimentación y alineamiento productivo.\u003c/li\u003e \u003cli\u003eCoordinar paradas, mantenimientos, variaciones de ritmo y gestión de stocks operativos.\u003c/li\u003e \u003cli\u003eSupervisar la disposición ordenada de rechazos, garantizando trazabilidad, seguridad y cumplimiento ambiental básico, sin afectar la continuidad operativa de mina ni planta.\u003c/li\u003e \u003cli\u003eControlar diariamente los volúmenes extraídos, alimentados, procesados y despachados, asegurando trazabilidad completa del material.\u003c/li\u003e \u003cli\u003ePreparar reportes diarios, semanales y mensuales de producción, costos, disponibilidad de equipos e incidencias.\u003c/li\u003e \u003cli\u003eControlar calidad del material extraído, priorizando zonas con mejor rendimiento y contenido de hierro.\u003c/li\u003e \u003cli\u003eAsegurar que todas las actividades se realicen bajo estándares adecuados de seguridad y cuidado ambiental.\u003c/li\u003e \u003cli\u003eGestionar incidentes, inspecciones, charlas de seguridad y condiciones mínimas de trabajo para personal propio y contratistas.\u003c/li\u003e \u003cli\u003eCoordinar con especialistas externos cuando se requiera soporte técnico, ambiental o de seguridad.\u003c/li\u003e \u003cli\u003eLiderar al equipo operativo: roles, turnos, responsabilidades, desempeño y disciplina.\u003c/li\u003e \u003cli\u003eCoordinar y supervisar contratistas y proveedores en campo, validando avances y servicios prestados. \u003c/li\u003e \u003cli\u003eValidar requerimientos de compra y controlar que los gastos estén sustentados en necesidades reales de operación, sin asumir compromisos no autorizados.\u003c/li\u003e \u003cli\u003eAlertar oportunamente sobre riesgos sociales, legales o reputacionales que puedan afectar la operación.\u003c/li\u003e \u003cli\u003eCoordinar con la empresa cualquier interacción relevante con autoridades, comunidades o terceros, sin asumir compromisos fuera de su nivel de autoridad. \u003c/li\u003e \u003cli\u003eToneladas extraídas, alimentadas a planta, procesadas y despachadas (diario / semanal / mensual).\u003c/li\u003e \u003cli\u003eCumplimiento del plan de minado y de producción. \u003c/li\u003e \u003cli\u003eDisponibilidad mecánica de equipos críticos y horas de operación continua mina-planta. \u003c/li\u003e \u003cli\u003eCosto operativo y consumo de combustible por tonelada.\u003c/li\u003e \u003cli\u003eCalidad del material alimentado y del concentrado producido. \u003c/li\u003e \u003cli\u003eCorrecto manejo de acopios, accesos y disposición de rechazos. \u003c/li\u003e \u003cli\u003eNúmero de incidentes de seguridad.\u003c/li\u003e \u003cli\u003eCumplimiento de reportes. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eIngreso a planilla, régimen general.\u003c/li\u003e \u003cli\u003eUbicación de la operación - Llostay – Tacna.\u003c/li\u003e \u003cli\u003eEmpresa cubre alojamiento, alimentación completa, movilidad local y traslados.\u003c/li\u003e \u003cli\u003eRégimen ideal: 5x2; preferencia por residencia en Tacna, aunque contemplan traslados desde Lima (regreso viernes y retorno lunes).\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607299",
+        "clave":  "id:1118607299",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-auditoria-interna-oficina-trujillo-leon-xiii-1118607299.html",
+                       "capturadoEn":  "2026-11-14T17:07:23+00:00"
+                   },
+        "titulo":  "Jefe de Auditoria Interna: Oficina Trujillo",
+        "empresa":  "LEON XIII",
+        "ubicacion":  "La Libertad - Trujillo",
+        "ciudad":  "Trujillo",
+        "region":  "La Libertad",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "REQUISITOS: Título Profesional en Contabilidad, Economía, Administración o Ingeniería de especialidad afín. Maestría en materias afines a las funciones de la Unidad de Auditoría Interna. ESTUDIOS COMPLEMENTARIOS: Maestría en Auditoría (Deseable). Capacitaciones en cursos o diplomados en Auditoría y Control Interno, Riesgos Laborales, Gestión Integral de Riesgos, Créditos y Cobranzas, Proyectos de Mejora Continua, Normalización y Racionalización de Procesos, Gestión por indicadores, Seguridad de la Información y Tecnología de la Información. EXPERIENCIA: Tener experiencia en cargos de nivel gerencial mayor a dos (2) años, en los últimos ocho (8) años, en empresas o instituciones con ingresos anuales mayores a 850 UIT.; o, Acreditar tener experiencia en cargos de nivel gerencial mayor a tres (3) años, en los últimos ocho (8) años en Cooperativas, empresas del sistema financiero, o en empresas o instituciones vinculadas con el sistema financiero. Se podrán acreditar los años de experiencia antes mencionados en cargos de responsabilidad en la propia Cooperativa. OTROS REQUISITOS: No haber sido sancionado por la Superintendencia, ni por otro organismo público o privado, en los últimos diez (10) años. No desempeñar cargo de gerente o de principal funcionario, simultáneo al de auditor interno, jefe o responsable de la UAI, en distintas áreas de la Cooperativa y en otras cooperativas. Otros Requisitos No estar incurso en situaciones que limiten su independencia para el ejercicio de sus funciones. No estar incurso en los impedimentos previstos en el art. 6 del Reglamento del Registro Nacional de Cooperativas no autorizadas a captar recursos del público y de las centrales. No tener antecedentes policiales, penales o judiciales. RECEPCIÓN DE CURRICULUMS: Los postulantes interesados, deberán descargar las bases en: www .cacleonxiii.com.pe/transparencia/ El currículum vitae podrá ser presentado en forma virtual o presencial, según su preferencia. PRESENCIAL: Deberán ser enviados en sobre cerrado, etiquetados y dirigidos al Consejo de Vigilancia. En la siguiente dirección: Jr. San Martín N.º 653 -657 Trujillo La Libertad (Centro Cívico) en los siguientes horarios 08:45 am -1:00 pm y de 3:15 pm a 6:00 pm. Cooperativa de Ahorro y Crédito León XIII Ltda. N.º 520. Asunto: Postulación al proceso de selección para Jefe de Auditoria Interna VIRTUAL: Por las plataformas laborales Bumeran o Computabajo. La recepción de curriculum será desde el 15 al 24 de Noviembre 2026. Beneficio Laboral de acuerdo a Régimen Laboral General. Día libre por onomástico. Vida Ley, Essalud. Bono por escolaridad. Tarjetas de Consumo por festividades. Canasta Navideña.",
+        "requisitos":  [
+                           "No estar incurso en situaciones que limiten su independencia para el ejercicio de sus"
+                       ],
+        "funciones":  [
+                          "No estar incurso en los impedimentos previstos en el art. 6 del Reglamento del Registro Nacional de Cooperativas no autorizadas a captar recursos del público y de las centrales",
+                          "No tener antecedentes policiales, penales o judiciales",
+                          "RECEPCIÓN DE CURRICULUMS",
+                          "Los postulantes interesados, deberán descargar las bases en: www .cacleonxiii.com.pe/transparencia/",
+                          "El currículum vitae podrá ser presentado en forma virtual o presencial, según su preferencia",
+                          "PRESENCIAL: Deberán ser enviados en sobre cerrado, etiquetados y dirigidos al Consejo de Vigilancia",
+                          "En la siguiente dirección: Jr. San Martín N.º 653 -657 Trujillo La Libertad (Centro Cívico) en los siguientes horarios 08:45 am -1:00 pm y de 3:15 pm a 6:00 pm. Cooperativa de Ahorro y Crédito León XIII Ltda. N.º 520",
+                          "Asunto: Postulación al proceso de selección para Jefe de Auditoria Interna",
+                          "VIRTUAL: Por las plataformas laborales Bumeran o Computabajo",
+                          "La recepción de curriculum será desde el 15 al 24 de Noviembre 2026",
+                          "Beneficio Laboral de acuerdo a Régimen Laboral General",
+                          "Día libre por onomástico",
+                          "Vida Ley, Essalud",
+                          "Bono por escolaridad",
+                          "Tarjetas de Consumo por festividades",
+                          "Canasta Navideña"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/jefe-de-auditoria-interna-oficina-trujillo-leon-xiii-1118607299.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-auditoria-interna-oficina-trujillo-leon-xiii-1118607299.html",
+        "descripcion_html":  "\u003cp\u003e\u003cu\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo Profesional en Contabilidad, Economía, Administración o Ingeniería de especialidad afín. \u003c/li\u003e \u003cli\u003eMaestría en materias afines a las funciones de la Unidad de Auditoría Interna.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eESTUDIOS COMPLEMENTARIOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Maestría en Auditoría (Deseable). \u003c/li\u003e \u003cli\u003eCapacitaciones en cursos o diplomados en Auditoría y Control Interno, Riesgos Laborales, Gestión Integral de Riesgos, Créditos y Cobranzas, Proyectos de Mejora Continua, Normalización y Racionalización de Procesos, Gestión por indicadores, Seguridad de la Información y Tecnología de la Información.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eEXPERIENCIA:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Tener experiencia en cargos de nivel gerencial mayor a dos (2) años, en los últimos ocho (8) años, en empresas o instituciones con ingresos anuales mayores a 850 UIT.; o, \u003c/li\u003e \u003cli\u003eAcreditar tener experiencia en cargos de nivel gerencial mayor a tres (3) años, en los últimos ocho (8) años en Cooperativas, empresas del sistema financiero, o en empresas o instituciones vinculadas con el sistema financiero. \u003c/li\u003e \u003cli\u003eSe podrán acreditar los años de experiencia antes mencionados en cargos de responsabilidad en la propia Cooperativa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eOTROS REQUISITOS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eNo haber sido sancionado por la Superintendencia, ni por otro organismo público o privado, en los últimos diez (10) años. \u003c/li\u003e \u003cli\u003e No desempeñar cargo de gerente o de principal funcionario, simultáneo al de auditor interno, jefe o responsable de la UAI, en distintas áreas de la Cooperativa y en otras cooperativas. Otros Requisitos \u003c/li\u003e \u003cli\u003e No estar incurso en situaciones que limiten su independencia para el ejercicio de sus funciones. \u003c/li\u003e \u003cli\u003eNo estar incurso en los impedimentos previstos en el art. 6 del Reglamento del Registro Nacional de Cooperativas no autorizadas a captar recursos del público y de las centrales. \u003c/li\u003e \u003cli\u003e No tener antecedentes policiales, penales o judiciales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRECEPCIÓN DE CURRICULUMS:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cp\u003eLos postulantes interesados, deberán descargar las bases en: \u003cu\u003ewww .cacleonxiii.com.pe/transparencia/\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eEl currículum vitae podrá ser presentado en forma virtual o presencial, según su preferencia.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePRESENCIAL: \u003c/strong\u003eDeberán ser enviados en sobre cerrado, etiquetados y dirigidos al Consejo de Vigilancia.\u003c/p\u003e\u003cp\u003eEn la siguiente dirección: Jr. San Martín N.º 653 -657 Trujillo La Libertad (Centro Cívico) en los siguientes horarios 08:45 am -1:00 pm y de 3:15 pm a 6:00 pm. Cooperativa de Ahorro y Crédito León XIII Ltda. N.º 520.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAsunto: \u003c/strong\u003ePostulación al proceso de selección para Jefe de Auditoria Interna\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eVIRTUAL: \u003c/strong\u003ePor las plataformas laborales Bumeran o Computabajo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eLa recepción de curriculum será desde el 15 al 24 de Noviembre 2026.\u003c/strong\u003e\u003c/p\u003e \u003cul\u003e  \u003cli\u003eBeneficio Laboral de acuerdo a Régimen Laboral General.\u003c/li\u003e  \u003cli\u003eDía libre por onomástico.\u003c/li\u003e  \u003cli\u003eVida Ley, Essalud.\u003c/li\u003e  \u003cli\u003eBono por escolaridad.\u003c/li\u003e  \u003cli\u003eTarjetas de Consumo por festividades.\u003c/li\u003e  \u003cli\u003eCanasta Navideña.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607295",
+        "clave":  "id:1118607295",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-legal-sociedad-minera-cerro-verde-s.a.a.-1118607295.html",
+                       "capturadoEn":  "2026-11-14T17:07:24+00:00"
+                   },
+        "titulo":  "Asesor Legal",
+        "empresa":  "SOCIEDAD MINERA CERRO VERDE S.A.A.",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En Cerro Verde estamos comprometidos en hacer una minería ambiental y socialmente responsable, porque queremos que todos los peruanos se sientan orgullosos de ser un país minero. Orgullosos de tener una minería aliada de la agricultura, comprometida con el medio ambiente y que avanza hacia el desarrollo de la mano de todas sus comunidades vecinas. Porque la minería se transforma con personas comprometidas y en constante desarrollo, porque juntos hacemos la diferencia. Cerro Verde es una empresa con una política activa de igualdad de oportunidades. Las postulaciones a nuestras convocatorias son consideradas sin discriminar por raza, color, religión, origen, género, edad, discapacidad o alguna otra característica protegida por nuestras leyes. Todas las decisiones de contratación se basan exclusivamente en la idoneidad del postulante para el cargo en cuestión. Brindar soporte y asesoría legal en materias judiciales, laborales y administrativas, patrocinando, gestionando y supervisando procesos legales, mitigando contingencias y asegurando el cumplimiento oportuno de las obligaciones y requerimientos aplicables a Sociedad Minera Cerro Verde. Gestionar, patrocinar y dar seguimiento a los procesos judiciales y no contenciosos de la Compañía, coordinando con áreas internas y asesores externos la preparación de documentación, la atención de actuaciones procesales y la adecuada representación y defensa de los intereses de la organización. Asesorar a las áreas de la Compañía en materia laboral y de seguridad y salud ocupacional, gestionando procedimientos administrativos y velando por el cumplimiento de la normativa vigente y los procedimientos internos. Elaborar informes, opiniones y análisis legales sobre los asuntos asignados, identificando contingencias y proponiendo alternativas para su adecuada atención. Brindar asesoría legal preventiva a las áreas de la Compañía respecto de los asuntos bajo su responsabilidad, procurando anticipar y reducir contingencias legales. Mantener mecanismos de control y seguimiento de los asuntos a su cargo, informando oportunamente sobre avances, contingencias, plazos críticos y acciones requeridas. Cumplir otras funciones inherentes a su cargo, que le asigne su Superior inmediato. Requisitos: Abogado titulado, colegiado y habilitado. Mínimo 6 años de experiencia en el rol de asesor legal brindando asesoría legal y gestionando asuntos judiciales e incluyendo participación en procesos judiciales, laborales y administrativos. Deseable experiencia en empresas de gran envergadura, estudios de abogados o sectores regulados. Deseable especialización en temas de Derecho Procesal, Laboral, Administrativo, Civil y/o materias vinculadas con las responsabilidades de la posición. Otras calificaciones Deseable licencia de conducir A-I De preferencia ingles básico Deseable conocimiento de Microsoft Office Intermedio Conocimientos generales del marco regulatorio y funcionamiento de una operación minera. Conocimiento en Procedimientos inspectivos laborales y normativa SUNAFIL. Conocimiento en Derecho Procesal Civil, Laboral y gestión de procesos judiciales. Conocimiento en Derecho Laboral y procedimientos disciplinarios. Conocimientos en administración, legislación minera vigente y en operaciones mineras. Conocimientos en temas de Gestión Ambiental, Calidad, Seguridad y Salud Ocupacional, Anticorrupción, Derechos Humanos, Energía y otros requeridos para los sistemas de gestión de Sociedad Minera Cerro Verde. RECEPCIÓN DE CURRICULUMS HASTA EL 22 DE NOVIEMBRE DE 2026 Recuerda completar correctamente tus datos personales y de contacto, además de responder las preguntas de postulación de manera obligatoria. Las respuestas a dichas preguntas tienen carácter de declaración jurada. Revise nuestra Política de Privacidad de Postulante en el siguiente enlace: https:// www.cerroverde.pe/assets/img/privacidad/politicas/politicas-privacidad-postulante-trabajador-v2.pdf",
+        "requisitos":  [
+                           "Abogado titulado, colegiado y habilitado",
+                           "Mínimo 6 años de experiencia en el rol de asesor legal brindando asesoría legal y gestionando asuntos judiciales e incluyendo participación en procesos judiciales, laborales y administrativos. Deseable experiencia en empresas de gran envergadura, estudios de abogados o sectores regulados",
+                           "Deseable especialización en temas de Derecho Procesal, Laboral, Administrativo, Civil y/o materias vinculadas con las responsabilidades de la posición",
+                           "Otras calificaciones",
+                           "Deseable licencia de conducir A-I",
+                           "De preferencia ingles básico",
+                           "Deseable conocimiento de Microsoft Office Intermedio",
+                           "Conocimientos generales del marco regulatorio y funcionamiento de una operación minera",
+                           "Conocimiento en Procedimientos inspectivos laborales y normativa SUNAFIL",
+                           "Conocimiento en Derecho Procesal Civil, Laboral y gestión de procesos judiciales",
+                           "Conocimiento en Derecho Laboral y procedimientos disciplinarios",
+                           "Conocimientos en administración, legislación minera vigente y en operaciones mineras",
+                           "Conocimientos en temas de Gestión Ambiental, Calidad, Seguridad y Salud Ocupacional, Anticorrupción, Derechos Humanos, Energía y otros requeridos para los sistemas de gestión de Sociedad Minera Cerro Verde",
+                           "RECEPCIÓN DE CURRICULUMS HASTA EL 22 DE NOVIEMBRE DE 2026",
+                           "Recuerda completar correctamente tus datos personales y de contacto, además de responder las preguntas de postulación de manera obligatoria. Las respuestas a dichas preguntas tienen carácter de declaración jurada",
+                           "Revise nuestra Política de Privacidad de Postulante en el siguiente enlace",
+                           "https://www.cerroverde.pe/assets/img/privacidad/politicas/politicas-privacidad-postulante-trabajador-v2.pdf"
+                       ],
+        "funciones":  [
+                          "inherentes a su cargo, que le asigne su Superior inmediato"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-legal-sociedad-minera-cerro-verde-s.a.a.-1118607295.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-legal-sociedad-minera-cerro-verde-s.a.a.-1118607295.html",
+        "descripcion_html":  "\u003cp\u003eEn Cerro Verde estamos comprometidos en hacer una minería ambiental y socialmente responsable, porque queremos que todos los peruanos se sientan orgullosos de ser un país minero. Orgullosos de tener una minería aliada de la agricultura, comprometida con el medio ambiente y que avanza hacia el desarrollo de la mano de todas sus comunidades vecinas. Porque la minería se transforma con personas comprometidas y en constante desarrollo, porque juntos hacemos la diferencia.\u003c/p\u003e\u003cp\u003eCerro Verde es una empresa con una política activa de igualdad de oportunidades. Las postulaciones a nuestras convocatorias son consideradas sin discriminar por raza, color, religión, origen, género, edad, discapacidad o alguna otra característica protegida por nuestras leyes. Todas las decisiones de contratación se basan exclusivamente en la idoneidad del postulante para el cargo en cuestión.\u003c/p\u003e \u003cul\u003e \u003cli style=\"\"\u003eBrindar soporte y asesoría legal en materias judiciales, laborales y administrativas, patrocinando, gestionando y supervisando procesos legales, mitigando contingencias y asegurando el cumplimiento oportuno de las obligaciones y requerimientos aplicables a Sociedad Minera Cerro Verde.\u003c/li\u003e \u003cli style=\"\"\u003eGestionar, patrocinar y dar seguimiento a los procesos judiciales y no contenciosos de la Compañía, coordinando con áreas internas y asesores externos la preparación de documentación, la atención de actuaciones procesales y la adecuada representación y defensa de los intereses de la organización.\u003c/li\u003e \u003cli style=\"\"\u003eAsesorar a las áreas de la Compañía en materia laboral y de seguridad y salud ocupacional, gestionando procedimientos administrativos y velando por el cumplimiento de la normativa vigente y los procedimientos internos.\u003c/li\u003e \u003cli style=\"\"\u003eElaborar informes, opiniones y análisis legales sobre los asuntos asignados, identificando contingencias y proponiendo alternativas para su adecuada atención.\u003c/li\u003e \u003cli style=\"\"\u003eBrindar asesoría legal preventiva a las áreas de la Compañía respecto de los asuntos bajo su responsabilidad, procurando anticipar y reducir contingencias legales.\u003c/li\u003e \u003cli style=\"\"\u003eMantener mecanismos de control y seguimiento de los asuntos a su cargo, informando oportunamente sobre avances, contingencias, plazos críticos y acciones requeridas.\u003c/li\u003e \u003cli style=\"\"\u003eCumplir otras funciones inherentes a su cargo, que le asigne su Superior inmediato.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003e\u003cspan\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan\u003e\u003cspan\u003eAbogado titulado, colegiado y habilitado.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eMínimo 6 años de experiencia en el rol de asesor legal brindando asesoría legal y gestionando asuntos judiciales e incluyendo participación en procesos judiciales, laborales y administrativos. Deseable experiencia en empresas de gran envergadura, estudios de abogados o sectores regulados.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eDeseable especialización en temas de Derecho Procesal, Laboral, Administrativo, Civil y/o materias vinculadas con las responsabilidades de la posición.\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eOtras calificaciones\u003c/strong\u003e\u003c/span\u003e\u003cul\u003e \u003cli\u003e\u003cspan style=\"\"\u003eDeseable licencia de conducir A-I\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eDe preferencia ingles básico\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003eDeseable conocimiento de Microsoft Office Intermedio\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eConocimientos generales del marco regulatorio y funcionamiento de una operación minera.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eConocimiento en Procedimientos inspectivos laborales y normativa SUNAFIL.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eConocimiento en Derecho Procesal Civil, Laboral y gestión de procesos judiciales.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eConocimiento en Derecho Laboral y procedimientos disciplinarios.\u003c/span\u003e\u003c/li\u003e \u003cli style=\"\"\u003e\u003cspan style=\"\"\u003eConocimientos en administración, legislación minera vigente y en operaciones mineras.\u003c/span\u003e\u003c/li\u003e \u003cli\u003eConocimientos en temas de Gestión Ambiental, Calidad, Seguridad y Salud Ocupacional, Anticorrupción, Derechos Humanos, Energía y otros requeridos para los sistemas de gestión de Sociedad Minera Cerro Verde.\u003c/li\u003e\u003c/ul\u003e\u003cp style=\"\"\u003e \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRECEPCIÓN DE CURRICULUMS HASTA EL 22 DE NOVIEMBRE DE 2026\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cspan style=\"\"\u003eRecuerda completar correctamente tus datos personales y de contacto, además de responder las preguntas de postulación de manera obligatoria. Las respuestas a dichas preguntas tienen carácter de declaración jurada.\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cstrong style=\"\"\u003eRevise nuestra Política de Privacidad de Postulante en el siguiente enlace:\u003c/strong\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cu\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003ehttps://\u003c/span\u003e\u003c/span\u003e\u003ca style=\"\"\u003e\u003cspan style=\"\"\u003ewww.cerroverde.pe/assets/img/privacidad/politicas/politicas-privacidad-postulante-trabajador-v2.pdf\u003c/span\u003e\u003c/a\u003e\u003c/u\u003e\u003c/p\u003e\u003cbr/\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118480481",
+        "clave":  "id:1118480481",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-desarrollador-full-stack-.net-typsa-1118480481.html",
+                       "capturadoEn":  "2026-11-14T17:07:26+00:00"
+                   },
+        "titulo":  "Analista Desarrollador Full Stack .NET",
+        "empresa":  "TYPSA",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "TYPSA, empresa especializada en consultoría de ingeniería y arquitectura, con participación en proyectos de gran envergadura, se encuentra en la búsqueda de un profesional que desee incorporarse a nuestro equipo de trabajo. Requisitos Formación academica: Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software o carreras afines. Conocimientos técnicos: SQL Server – Nivel intermedio. .NET 6 o superior (.NET Core), ASP.NET y Entity Framework. Conocimientos en Clean Architecture (Arquitectura Limpia). C#. JavaScript, Bootstrap, HTML y CSS. Git y GitHub – Nivel intermedio. Principales funciones: Desarrollar, implementar y mantener aplicaciones de software. Realizar mejoras y actualizaciones en las aplicaciones existentes. Identificar, analizar y solucionar errores técnicos para garantizar el correcto funcionamiento de las aplicaciones. Participar en el desarrollo y mantenimiento de funcionalidades Backend y Frontend. Brindar soporte técnico para asegurar la continuidad operativa de las aplicaciones.",
+        "requisitos":  [
+                           "Formación academica",
+                           "Titulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software o carreras afines",
+                           "Conocimientos técnicos",
+                           "SQL Server – Nivel intermedio",
+                           "NET 6 o superior (.NET Core), ASP.NET y Entity Framework",
+                           "Conocimientos en Clean Architecture (Arquitectura Limpia)",
+                           "C#",
+                           "JavaScript, Bootstrap, HTML y CSS",
+                           "Git y GitHub – Nivel intermedio",
+                           "Principales"
+                       ],
+        "funciones":  [
+                          "Desarrollar, implementar y mantener aplicaciones de software",
+                          "Realizar mejoras y actualizaciones en las aplicaciones existentes",
+                          "Identificar, analizar y solucionar errores técnicos para garantizar el correcto funcionamiento de las aplicaciones",
+                          "Participar en el desarrollo y mantenimiento de funcionalidades Backend y Frontend",
+                          "Brindar soporte técnico para asegurar la continuidad operativa de las aplicaciones"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-10-14",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-desarrollador-full-stack-.net-typsa-1118480481.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-desarrollador-full-stack-.net-typsa-1118480481.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003eTYPSA, empresa especializada en consultoría de ingeniería y arquitectura, con participación en proyectos de gran envergadura, se encuentra en la búsqueda de un profesional que desee incorporarse a nuestro equipo de trabajo.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFormación academica:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTitulado en Ingeniería de Sistemas, Ingeniería Informática, Ingeniería de Software o carreras afines.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eConocimientos técnicos:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSQL Server – Nivel intermedio.\u003c/li\u003e \u003cli\u003e.NET 6 o superior (.NET Core), ASP.NET y Entity Framework.\u003c/li\u003e \u003cli\u003eConocimientos en Clean Architecture (Arquitectura Limpia).\u003c/li\u003e \u003cli\u003eC#.\u003c/li\u003e \u003cli\u003eJavaScript, Bootstrap, HTML y CSS.\u003c/li\u003e \u003cli\u003eGit y GitHub – Nivel intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003ePrincipales funciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar, implementar y mantener aplicaciones de software.\u003c/li\u003e \u003cli\u003eRealizar mejoras y actualizaciones en las aplicaciones existentes.\u003c/li\u003e \u003cli\u003eIdentificar, analizar y solucionar errores técnicos para garantizar el correcto funcionamiento de las aplicaciones.\u003c/li\u003e \u003cli\u003eParticipar en el desarrollo y mantenimiento de funcionalidades Backend y Frontend.\u003c/li\u003e \u003cli\u003eBrindar soporte técnico para asegurar la continuidad operativa de las aplicaciones.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "14/10/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607291",
+        "clave":  "id:1118607291",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/chofer-a2b-chamba-talent-s.a.c.-1118607291.html",
+                       "capturadoEn":  "2026-11-14T17:07:27+00:00"
+                   },
+        "titulo":  "Chofer A2B",
+        "empresa":  "CHAMBA TALENT S.A.C.",
+        "ubicacion":  "Lambayeque - Chiclayo",
+        "ciudad":  "Chiclayo",
+        "region":  "Lambayeque",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1800,
+                        "max":  1800,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/. 1,800.00",
+                        "fuente_salario":  "descripcion"
+                    },
+        "descripcion":  "Importante empresa del sector de ferreteria busca un Chofer con licencia A2B para sumarse a su equipo de trabajo. Misión del puesto: Transportar, cargar, descargar y entregar con tu auxiliar de reparto de manera segura una amplia variedad de productos ferreteros y materiales de construcción. Garantizamos que los pedidos lleguen completos y en perfecto estado a obras, ferreterías o clientes finales, cumpliendo rigurosamente con las normativas de tránsito y seguridad. Funciones del puesto: Cotejar la mercadería con las guías/facturas antes de salir y distribuirla respetando el espacio y peso límite del vehículo. Asegurar y proteger la carga (trincado/lomeado y uso de carpa) para evitar daños o incidentes en ruta. Planificar el recorrido y conducir respetando las normas de tránsito aplicando técnicas de manejo defensivo. Realizar la entrega puntual de los pedidos, obteniendo firmas, sellos y gestionando los documentos de ruta de manera ordenada. Realizar la inspección diaria de la unidad (niveles de aceite, agua, frenos, luces y neumáticos) y mantener limpia la cabina y área de carga. Cumplir con los protocolos de seguridad y el uso obligatorio de EPPs (botas con punta de acero, faja lumbar, casco, etc.). Requisitos del puesto: Licencia de Conducir: Brevete A2B vigente (indispensable). Formación: Nivel secundario completo. Experiencia: De 1 a 2 años de experiencia general en carga, reparto y conducción en empresas de los sectores de construcción, ferretería o afines . Disponibilidad: Para viajar cuando se requiera (viaticos cubiertos) Competencias clave: Estricto cumplimiento de políticas, alto sentido de responsabilidad y proactividad. Beneficios del puesto: Remuneración: Entre S/. 1,800.00 y S/. 2,000.00 (según evaluación). Beneficios: Horas extras remuneradas, régimen MYPE (al 50%), SCTR y Seguro Vida Ley. Viáticos: Cubiertos al 100% cuando se requiera viajar. Estabilidad y oportunidad de integrarse a una empresa sólida en plena expansión. Condiciones del trabajo: Chiclayo - Presencial | Lunes a viernes: 08:30 am hasta 6:00 pm | Sabados: 08:30 am hasta 01:30 pm",
+        "requisitos":  [
+                           "del puesto",
+                           "Licencia de Conducir: Brevete A2B vigente (indispensable)",
+                           "Formación: Nivel secundario completo",
+                           "Experiencia: De 1 a 2 años de experiencia general en carga, reparto y conducción en empresas de los sectores de construcción, ferretería o afines",
+                           "Disponibilidad: Para viajar cuando se requiera (viaticos cubiertos)",
+                           "Competencias clave: Estricto cumplimiento de políticas, alto sentido de responsabilidad y proactividad"
+                       ],
+        "funciones":  [
+                          "del puesto",
+                          "Cotejar la mercadería con las guías/facturas antes de salir y distribuirla respetando el espacio y peso límite del vehículo",
+                          "Asegurar y proteger la carga (trincado/lomeado y uso de carpa) para evitar daños o incidentes en ruta",
+                          "Planificar el recorrido y conducir respetando las normas de tránsito aplicando técnicas de manejo defensivo",
+                          "Realizar la entrega puntual de los pedidos, obteniendo firmas, sellos y gestionando los documentos de ruta de manera ordenada",
+                          "Realizar la inspección diaria de la unidad (niveles de aceite, agua, frenos, luces y neumáticos) y mantener limpia la cabina y área de carga",
+                          "Cumplir con los protocolos de seguridad y el uso obligatorio de EPPs (botas con punta de acero, faja lumbar, casco, etc.)"
+                      ],
+        "beneficios":  [
+                           "Horas extras remuneradas, régimen MYPE (al 50%), SCTR y Seguro Vida Ley",
+                           "Viáticos: Cubiertos al 100% cuando se requiera viajar",
+                           "Estabilidad y oportunidad de integrarse a una empresa sólida en plena expansión"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/chofer-a2b-chamba-talent-s.a.c.-1118607291.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/chofer-a2b-chamba-talent-s.a.c.-1118607291.html",
+        "descripcion_html":  "\u003cp\u003eImportante empresa del sector de ferreteria busca un Chofer con licencia A2B para sumarse a su equipo de trabajo.\u003c/p\u003e\u003cp\u003eMisión del puesto:\u003c/p\u003e\u003cp\u003eTransportar, cargar, descargar y entregar con tu auxiliar de reparto de manera segura una amplia variedad de productos ferreteros y materiales de construcción. Garantizamos que los pedidos lleguen completos y en perfecto estado a obras, ferreterías o clientes finales, cumpliendo rigurosamente con las normativas de tránsito y seguridad.\u003c/p\u003e\u003cp\u003eFunciones del puesto:\u003c/p\u003e\u003cul\u003e \u003cli\u003eCotejar la mercadería con las guías/facturas antes de salir y distribuirla respetando el espacio y peso límite del vehículo.\u003c/li\u003e \u003cli\u003eAsegurar y proteger la carga (trincado/lomeado y uso de carpa) para evitar daños o incidentes en ruta.\u003c/li\u003e \u003cli\u003ePlanificar el recorrido y conducir respetando las normas de tránsito aplicando técnicas de manejo defensivo.\u003c/li\u003e \u003cli\u003eRealizar la entrega puntual de los pedidos, obteniendo firmas, sellos y gestionando los documentos de ruta de manera ordenada.\u003c/li\u003e \u003cli\u003eRealizar la inspección diaria de la unidad (niveles de aceite, agua, frenos, luces y neumáticos) y mantener limpia la cabina y área de carga.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de seguridad y el uso obligatorio de EPPs (botas con punta de acero, faja lumbar, casco, etc.).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos del puesto:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eLicencia de Conducir:\u003c/strong\u003e Brevete \u003cstrong\u003eA2B vigente\u003c/strong\u003e (indispensable).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eFormación:\u003c/strong\u003e Nivel secundario completo.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e De 1 a 2 años de experiencia general en carga, reparto y conducción en empresas de los sectores de \u003cstrong\u003econstrucción, ferretería o afines\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDisponibilidad:\u003c/strong\u003e Para viajar cuando se requiera (viaticos cubiertos)\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCompetencias clave:\u003c/strong\u003e Estricto cumplimiento de políticas, alto sentido de responsabilidad y proactividad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios del puesto:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eRemuneración:\u003c/strong\u003e Entre \u003cstrong\u003eS/. 1,800.00 y S/. 2,000.00\u003c/strong\u003e (según evaluación).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e Horas extras remuneradas, régimen MYPE (al 50%), SCTR y Seguro Vida Ley.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eViáticos:\u003c/strong\u003e Cubiertos al 100% cuando se requiera viajar.\u003c/li\u003e \u003cli\u003eEstabilidad y oportunidad de integrarse a una empresa sólida en plena expansión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCondiciones del trabajo:\u003c/p\u003e\u003cp\u003eChiclayo - Presencial | Lunes a viernes: 08:30 am hasta 6:00 pm | Sabados: 08:30 am hasta 01:30 pm\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "Nivel secundario completo",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607290",
+        "clave":  "id:1118607290",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-cuentas-corporativas-nm-viajes-expertia-1118607290.html",
+                       "capturadoEn":  "2026-11-14T17:07:28+00:00"
+                   },
+        "titulo":  "Ejecutivo de cuentas Corporativas - NM Viajes",
+        "empresa":  "EXPERTIA",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "EXPERTIA TRAVEL es el Holding Turístico que agrupa a emblemáticas empresas de turismo de Sudamérica que incluye a las marcas: Nuevo Mundo Viajes y AGIL Perú en turismo emisivo. Por el lado de turismo receptivo, Condor Travel, Tropic DMC, entre otras. Nuestro propósito es crear juntos experiencias para toda la vida. Funciones Planear y elaborar itinerarios de viajes individuales y de grupo, con alternativas que se acomoden a las necesidades de los clientes. Brindar una completa asesoría en cuanto a tarifas y promociones existentes en el mercado, con cotizaciones que se ajusten a lo solicitado y con el ofrecimiento de alternativas flexibles que puedan significar ahorros para el cliente. Ofrecer viajes organizados: hoteles, autos, seguro de viaje, traslados. Asesorar en seguro del equipaje, pasaporte y visados, cambio de moneda extranjera, requisitos médicos (vacunas). Cumplir con las políticas de viaje dadas por nuestros clientes, así mismo hacer uso correcto de la información que nos dan para almacenar ya que será usada en los reportes de gestión. Asegurar el ingreso correcto y oportuno de todas las ventas generadas a nuestro backoffice para completar el proceso de facturación. Hacer correcto uso de las herramientas de trabajo del Grupo. Conocimiento de la web de Nuevo Mundo Viajes Corporativo Involucrarse activamente en el proceso de mejora continua mediante la participación en seminarios de capacitación y actualización, así como la lectura de todo material / circular enviado. Brindar adecuado soporte a los flujos de trabajo de las cuentas, de acuerdo a los servicios y productos ofrecidos. Manejar y dar respuesta oportuna a los reclamos realizados por los clientes (primer nivel). Detectar necesidades de las cuentas y sugerir mejoras para la atención que se brinda a las cuentas desde su puesto. Requisitos Título técnico o universitario en Aviación Comercial, Turismo y Hotelería, Administración Turística o Administración Hotelera. Debe acreditarse estudios concluidos con una duración mínima de 3 años para carreras técnicas o 5 años para carreras universitarias (Indispensable) . Experiencia mínima de 5 años en el sector corporativo, sustentada con certificados de trabajo (Indispensable). Manejo de GDS: AMADEUS, NDC , KIU u otro a nivel Avanzado. Manejo en flujo completo de venta: cotización, reserva, emisión y reemisión. Manejo de Office nivel usuario. Dominio de inglés a nivel intermedio, sustentado con certificado (Indispensable) . Beneficios Ingreso a planilla con todos los beneficios de ley Cobertura de la EPS en % . Capacitación permanente y oportunidad de crecimiento. Día libre por cumpleaños. Descuentos en viajes y paquetes turísticos. Descuentos corporativos.",
+        "requisitos":  [
+                           "Título técnico o universitario en Aviación Comercial, Turismo y Hotelería, Administración Turística o Administración Hotelera. Debe acreditarse estudios concluidos con una duración mínima de 3 años para carreras técnicas o 5 años para carreras universitarias (Indispensable)",
+                           "Experiencia mínima de 5 años en el sector corporativo, sustentada con certificados de trabajo (Indispensable)",
+                           "Manejo de GDS: AMADEUS, NDC , KIU u otro a nivel Avanzado",
+                           "Manejo en flujo completo de venta: cotización, reserva, emisión y reemisión",
+                           "Manejo de Office nivel usuario",
+                           "Dominio de inglés a nivel intermedio, sustentado con certificado (Indispensable)"
+                       ],
+        "funciones":  [
+                          "Planear y elaborar itinerarios de viajes individuales y de grupo, con alternativas que se acomoden a las necesidades de los clientes",
+                          "Brindar una completa asesoría en cuanto a tarifas y promociones existentes en el mercado, con cotizaciones que se ajusten a lo solicitado y con el ofrecimiento de alternativas flexibles que puedan significar ahorros para el cliente",
+                          "Ofrecer viajes organizados: hoteles, autos, seguro de viaje, traslados",
+                          "Asesorar en seguro del equipaje, pasaporte y visados, cambio de moneda extranjera,"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Cobertura de la EPS en %",
+                           "Capacitación permanente y oportunidad de crecimiento",
+                           "Día libre por cumpleaños",
+                           "Descuentos en viajes y paquetes turísticos",
+                           "Descuentos corporativos"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-cuentas-corporativas-nm-viajes-expertia-1118607290.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-cuentas-corporativas-nm-viajes-expertia-1118607290.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEXPERTIA TRAVEL\u003c/strong\u003e es el Holding Turístico que agrupa a emblemáticas empresas de turismo de Sudamérica que incluye a las marcas: Nuevo Mundo Viajes y AGIL Perú en turismo emisivo. Por el lado de turismo receptivo, Condor Travel, Tropic DMC, entre otras. Nuestro propósito es crear juntos experiencias para toda la vida.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanear y elaborar itinerarios de viajes individuales y de grupo, con alternativas que se acomoden a las necesidades de los clientes.\u003c/li\u003e \u003cli\u003eBrindar una completa asesoría en cuanto a tarifas y promociones existentes en el mercado, con cotizaciones que se ajusten a lo solicitado y con el ofrecimiento de alternativas flexibles que puedan significar ahorros para el cliente.\u003c/li\u003e \u003cli\u003eOfrecer viajes organizados: hoteles, autos, seguro de viaje, traslados.\u003c/li\u003e \u003cli\u003eAsesorar en seguro del equipaje, pasaporte y visados, cambio de moneda extranjera, requisitos médicos (vacunas).\u003c/li\u003e \u003cli\u003eCumplir con las políticas de viaje dadas por nuestros clientes, así mismo hacer uso correcto de la información que nos dan para almacenar ya que será usada en los reportes de gestión. Asegurar el ingreso correcto y oportuno de todas las ventas generadas a nuestro backoffice para completar el proceso de facturación.\u003c/li\u003e \u003cli\u003eHacer correcto uso de las herramientas de trabajo del Grupo.\u003c/li\u003e \u003cli\u003eConocimiento de la web de Nuevo Mundo Viajes Corporativo\u003c/li\u003e \u003cli\u003eInvolucrarse activamente en el proceso de mejora continua mediante la participación en seminarios de capacitación y actualización, así como la lectura de todo material / circular enviado.\u003c/li\u003e \u003cli\u003eBrindar adecuado soporte a los flujos de trabajo de las cuentas, de acuerdo a los servicios y productos ofrecidos.\u003c/li\u003e \u003cli\u003eManejar y dar respuesta oportuna a los reclamos realizados por los clientes (primer nivel).\u003c/li\u003e \u003cli\u003eDetectar necesidades de las cuentas y sugerir mejoras para la atención que se brinda a las cuentas desde su puesto.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTítulo técnico o universitario en Aviación Comercial, Turismo y Hotelería, Administración Turística o Administración Hotelera. Debe acreditarse estudios concluidos con una duración mínima de 3 años para carreras técnicas o 5 años para carreras universitarias \u003cstrong\u003e(Indispensable)\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 5 años en el sector corporativo, sustentada con certificados de trabajo \u003cstrong\u003e(Indispensable).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de GDS: AMADEUS, NDC , KIU u otro a nivel Avanzado.\u003c/li\u003e \u003cli\u003eManejo en flujo completo de venta: cotización, reserva, emisión y reemisión.\u003c/li\u003e \u003cli\u003eManejo de Office nivel usuario.\u003c/li\u003e \u003cli\u003eDominio de inglés a nivel intermedio, sustentado con certificado \u003cstrong\u003e(Indispensable)\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley\u003c/li\u003e \u003cli\u003eCobertura de la EPS en % .\u003c/li\u003e \u003cli\u003eCapacitación permanente y oportunidad de crecimiento.\u003c/li\u003e \u003cli\u003eDía libre por cumpleaños.\u003c/li\u003e \u003cli\u003eDescuentos en viajes y paquetes turísticos.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607287",
+        "clave":  "id:1118607287",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-comercial-chamba-talent-s.a.c.-1118607287.html",
+                       "capturadoEn":  "2026-11-14T17:07:29+00:00"
+                   },
+        "titulo":  "Ejecutivo/a Comercial",
+        "empresa":  "CHAMBA TALENT S.A.C.",
+        "ubicacion":  "Lambayeque - Chiclayo",
+        "ciudad":  "Chiclayo",
+        "region":  "Lambayeque",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Importante empresa del sector de construcción, busca un/a ejecutivo/a comercial para sumarse a su equipo de trabajo. Mision del puesto: Promover la venta, asesorar de manera efectiva a nuestros clientes en sus decisiones de compra y asegurar el cumplimiento de la cuota asignada, manteniendo relaciones comerciales sólidas y duraderas. Funciones del puesto: Atender los pedidos y cotizaciones de los clientes. Dar mantenimiento a la cartera de clientes asignada y realizar la captación de nuevos clientes. Velar por el pago oportuno de las cuentas al crédito y mantener la morosidad por debajo del indicador máximo. Asesorar a los clientes sobre los productos que necesitan y ofrecer oportunidades cruzadas para su establecimiento. Registrar pedidos en el sistema y coordinar su oportuno despacho. Brindar soluciones eficientes a los reclamos y mantener actualizada la lista de precios. Dar a conocer los productos en lanzamiento y proponer estrategias de venta. Requisitos del puesto: Nivel secundario completo o estudios técnicos (completos, truncos o en curso) en carreras afines. Mínimo 1 año de experiencia desempeñándose como vendedor(a), de preferencia en el sector construcción, ferretería o afines . Office a nivel básico. Persona Proactividad, orientación a resultados bajo presión y sólida capacidad de resolución de problemas de clientes. Beneficios del puesto: Remuneración Fija de acuerdo al mercado. Esquema de Bonos: Bono de productividad trimestral Beneficios: Ingreso a planilla bajo el Régimen General (con todos los beneficios de ley) desde el primer día. Estabilidad y oportunidad de crecimiento en una empresa sólida del sector. Condiciones de trabajo Chiclayo - Presencial | lunes a viernes: 08:30 am hasta 06:00 pm | Sabados: 08:30 am hasta 01:30 pm",
+        "requisitos":  [
+                           "del puesto",
+                           "Nivel secundario completo o estudios técnicos (completos, truncos o en curso) en carreras afines",
+                           "Mínimo 1 año de experiencia desempeñándose como vendedor(a), de preferencia en el sector construcción, ferretería o afines",
+                           "Office a nivel básico",
+                           "Persona Proactividad, orientación a resultados bajo presión y sólida capacidad de resolución de problemas de clientes"
+                       ],
+        "funciones":  [
+                          "del puesto",
+                          "Atender los pedidos y cotizaciones de los clientes",
+                          "Dar mantenimiento a la cartera de clientes asignada y realizar la captación de nuevos clientes",
+                          "Velar por el pago oportuno de las cuentas al crédito y mantener la morosidad por debajo del indicador máximo",
+                          "Asesorar a los clientes sobre los productos que necesitan y ofrecer oportunidades cruzadas para su establecimiento",
+                          "Registrar pedidos en el sistema y coordinar su oportuno despacho",
+                          "Brindar soluciones eficientes a los reclamos y mantener actualizada la lista de precios",
+                          "Dar a conocer los productos en lanzamiento y proponer estrategias de venta"
+                      ],
+        "beneficios":  [
+                           "de ley) desde el primer día",
+                           "Estabilidad y oportunidad de crecimiento en una empresa sólida del sector"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-comercial-chamba-talent-s.a.c.-1118607287.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-a-comercial-chamba-talent-s.a.c.-1118607287.html",
+        "descripcion_html":  "\u003cp\u003eImportante empresa del sector de construcción, busca un/a ejecutivo/a comercial para sumarse a su equipo de trabajo.\u003c/p\u003e\u003cp\u003eMision del puesto:\u003c/p\u003e\u003cp\u003ePromover la venta, asesorar de manera efectiva a nuestros clientes en sus decisiones de compra y asegurar el cumplimiento de la cuota asignada, manteniendo relaciones comerciales sólidas y duraderas.\u003c/p\u003e\u003cp\u003eFunciones del puesto:\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtender los pedidos y cotizaciones de los clientes.\u003c/li\u003e \u003cli\u003eDar mantenimiento a la cartera de clientes asignada y realizar la captación de nuevos clientes.\u003c/li\u003e \u003cli\u003eVelar por el pago oportuno de las cuentas al crédito y mantener la morosidad por debajo del indicador máximo.\u003c/li\u003e \u003cli\u003eAsesorar a los clientes sobre los productos que necesitan y ofrecer oportunidades cruzadas para su establecimiento.\u003c/li\u003e \u003cli\u003eRegistrar pedidos en el sistema y coordinar su oportuno despacho.\u003c/li\u003e \u003cli\u003eBrindar soluciones eficientes a los reclamos y mantener actualizada la lista de precios.\u003c/li\u003e \u003cli\u003eDar a conocer los productos en lanzamiento y proponer estrategias de venta.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos del puesto:\u003c/p\u003e\u003cul\u003e \u003cli\u003eNivel secundario completo o estudios técnicos (completos, truncos o en curso) en carreras afines.\u003c/li\u003e \u003cli\u003eMínimo 1 año de experiencia desempeñándose como vendedor(a), de preferencia en el sector \u003cstrong\u003econstrucción, ferretería o afines\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eOffice a nivel básico.\u003c/li\u003e \u003cli\u003ePersona Proactividad, orientación a resultados bajo presión y sólida capacidad de resolución de problemas de clientes.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios del puesto:\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eRemuneración Fija de acuerdo al mercado.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eEsquema de Bonos:\u003c/strong\u003e Bono de productividad trimestral \u003c/li\u003e \u003cli\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e Ingreso a planilla bajo el \u003cstrong\u003eRégimen General\u003c/strong\u003e (con todos los beneficios de ley) desde el primer día.\u003c/li\u003e \u003cli\u003eEstabilidad y oportunidad de crecimiento en una empresa sólida del sector.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eCondiciones de trabajo\u003c/p\u003e\u003cp\u003eChiclayo - Presencial | lunes a viernes: 08:30 am hasta 06:00 pm | Sabados: 08:30 am hasta 01:30 pm\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607286",
+        "clave":  "id:1118607286",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/bbva-asesor-bancario-pucallpa-ucayali-manpowergroup-1118607286.html",
+                       "capturadoEn":  "2026-11-14T17:07:30+00:00"
+                   },
+        "titulo":  "BBVA ASESOR BANCARIO - PUCALLPA UCAYALI",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Ucayali - Pucallpa",
+        "ciudad":  "Pucallpa",
+        "region":  "Ucayali",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  5000,
+                        "max":  5000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 5,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo. ¿Qué harás como Asesor Universal II? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. Ejecutar todo tipo de transacciones bancarias de manera precisa y ágil. ¿Qué perfil buscamos? Egresados de carreras técnicas o de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines. Experiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja. Alta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo. Disponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. Crecimiento y desarrollo profesional constante. Contrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial. EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos. Utilidades superiores al promedio del mercado. Acceso a descuentos y convenios corporativos. Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio",
+                           "Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial",
+                           "EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos",
+                           "Utilidades superiores al promedio del mercado",
+                           "Acceso a descuentos y convenios corporativos",
+                           "Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional",
+                           "Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/bbva-asesor-bancario-pucallpa-ucayali-manpowergroup-1118607286.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/bbva-asesor-bancario-pucallpa-ucayali-manpowergroup-1118607286.html",
+        "descripcion_html":  "\u003cp\u003e¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo.\u003c/p\u003e\u003cp\u003e¿Qué harás como Asesor Universal II?\u003c/p\u003e\u003cul\u003e \u003cli\u003eImpulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia.\u003c/li\u003e \u003cli\u003eEjecutar todo tipo de transacciones bancarias de manera precisa y ágil.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué perfil buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados de carreras técnicas o de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja.\u003c/li\u003e \u003cli\u003eAlta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué te ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de un banco global con un sólido prestigio.\u003c/li\u003e \u003cli\u003eCrecimiento y desarrollo profesional constante.\u003c/li\u003e \u003cli\u003eContrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio.\u003c/li\u003e \u003cli\u003eCapacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos.\u003c/li\u003e \u003cli\u003eUtilidades superiores al promedio del mercado.\u003c/li\u003e \u003cli\u003eAcceso a descuentos y convenios corporativos.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSomos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607285",
+        "clave":  "id:1118607285",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-mesa-de-partes-pwc-1118607285.html",
+                       "capturadoEn":  "2026-11-14T17:07:31+00:00"
+                   },
+        "titulo":  "Auxiliar Administrativo (mesa de partes)",
+        "empresa":  "PWC",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Hoy somos una red global de servicios profesionales con más de 300 000 personas en 149 países, que asisten a clientes en la creación de valor, el manejo de riesgos y la mejora de su desempeño a través de prácticas especializadas en diversas industrias, mediante nuestros servicios de auditoría, consultoría de negocios, asesoría legal y tributaria. Nos encontramos en la búsqueda de grandes talentos para unirse a nuestra comunidad de solucionadores y resolver problemas importantes en conjunto. ¿Estás listo(a) para este nuevo reto? Auxiliar Administrativo (mesa de partes) Requisitos: Estudiante o profesional con estudios técnicos/universitarios de la carrera de Contabilidad, Administración de empresas o afines. Dominio de Excel a nivel intermedio. Dominio de inglés a nivel intermedio (deseable). Funciones: Recepcionar, registrar y derivar la documentación y correspondencia física y digital hacia las áreas correspondientes. Evaluación de la documentación de soporte de los diferentes procesos de auditoría financiera. Mantener actualizado el registro y control de la documentación, incluyendo cargos y constancias de recepción. Gestionar la toma y seguimiento de firmas de documentos, contratos, cartas e informes. Realizar funciones afines a su cargo. En PwC trabajamos en un entorno diverso e inclusivo donde se respetan y valoran las diferencias sin importar la raza, nacionalidad, edad, discapacidad, orientación sexual, identidad o expresión de género, etc, fomentando la igualdad de oportunidades para todas las personas.",
+        "requisitos":  [
+                           "Estudiante o profesional con estudios técnicos/universitarios de la carrera de Contabilidad, Administración de empresas o afines",
+                           "Dominio de Excel a nivel intermedio",
+                           "Dominio de inglés a nivel intermedio (deseable)"
+                       ],
+        "funciones":  [
+                          "afines a su cargo",
+                          "En PwC trabajamos en un entorno diverso e inclusivo donde se respetan y valoran las diferencias sin importar la raza, nacionalidad, edad, discapacidad, orientación sexual, identidad o expresión de género, etc, fomentando la igualdad de oportunidades para todas las personas"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-mesa-de-partes-pwc-1118607285.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-administrativo-mesa-de-partes-pwc-1118607285.html",
+        "descripcion_html":  "\u003cp\u003eHoy somos una red global de servicios profesionales con más de 300 000 personas en 149 países, que asisten a clientes en la creación de valor, el manejo de riesgos y la mejora de su desempeño a través de prácticas especializadas en diversas industrias, mediante nuestros servicios de auditoría, consultoría de negocios, asesoría legal y tributaria.\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de grandes talentos para unirse a nuestra comunidad de solucionadores y resolver problemas importantes en conjunto. ¿Estás listo(a) para este nuevo reto?\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAuxiliar Administrativo (mesa de partes)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eEstudiante o profesional con estudios técnicos/universitarios\u003c/strong\u003e de la carrera de Contabilidad, Administración de empresas o afines.\u003c/li\u003e \u003cli\u003eDominio de Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eDominio de inglés a nivel intermedio (deseable).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecepcionar, registrar y derivar la documentación y correspondencia física y digital hacia las áreas correspondientes.\u003c/li\u003e \u003cli\u003eEvaluación de la documentación de soporte de los diferentes procesos de auditoría financiera.\u003c/li\u003e \u003cli\u003eMantener actualizado el registro y control de la documentación, incluyendo cargos y constancias de recepción.\u003c/li\u003e \u003cli\u003eGestionar la toma y seguimiento de firmas de documentos, contratos, cartas e informes.\u003c/li\u003e \u003cli\u003eRealizar funciones afines a su cargo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003eEn PwC trabajamos en un entorno diverso e inclusivo donde se respetan y valoran las diferencias sin importar la raza, nacionalidad, edad, discapacidad, orientación sexual, identidad o expresión de género, etc, fomentando la igualdad de oportunidades para todas las personas.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607284",
+        "clave":  "id:1118607284",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-por-whatsapp-yape-linea-de-carrera-planilla-bcp-ate-y-santa-anita-manpowergroup-1118607284.html",
+                       "capturadoEn":  "2026-11-14T17:07:32+00:00"
+                   },
+        "titulo":  "Atención al cliente por WhatsApp (Yape) / Línea de carrera / Planilla BCP / Ate y Santa Anita",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima - Ate",
+        "ciudad":  "Ate",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¿Cuál es el reto? Absolver consultas y reclamos por medio de chats para los usuarios de YAPE . ¿Cómo impactarás en grande? Brindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE. Ofrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción. Garantizar una experiencia de atención ágil y orientada a la satisfacción del cliente. ¿Qué necesitamos de ti? Estudios técnicos desde el 4to° ciclo o universitarios desde el 3.º ciclo en adelante (pueden ser truncos, en curso o culminados). Experiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat. Disponibilidad para laborar en Ate. ¿Por qué unirte a nuestro equipo? Ser parte de la empresa #1 en Merco Talento 2025 Ingreso a planilla BCP desde tu primer día. Accede a incentivos por tu esfuerzo/desempeño Tendrás el acompañamiento de líderes expertos y referentes en la banca. Accede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia. Acceso a Utilidades . ¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos para disfrutar con tu familia",
+                           "Acceso a Utilidades",
+                           "¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-por-whatsapp-yape-linea-de-carrera-planilla-bcp-ate-y-santa-anita-manpowergroup-1118607284.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-por-whatsapp-yape-linea-de-carrera-planilla-bcp-ate-y-santa-anita-manpowergroup-1118607284.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Cuál es el reto?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAbsolver consultas y reclamos por medio de chats para los usuarios de \u003cstrong\u003eYAPE\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo impactarás en grande?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE.\u003c/li\u003e \u003cli\u003eOfrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de atención ágil y orientada a la satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios \u003cstrong\u003etécnicos desde el 4to° ciclo\u003c/strong\u003e o \u003cstrong\u003euniversitarios desde el 3.º ciclo\u003c/strong\u003e en adelante (pueden ser truncos, en curso o culminados).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en \u003cstrong\u003eAte.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a nuestro equipo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de la empresa #1 en Merco Talento 2025\u003c/li\u003e \u003cli\u003eIngreso a \u003cstrong\u003eplanilla BCP \u003c/strong\u003edesde tu primer día.\u003c/li\u003e \u003cli\u003eAccede a incentivos por tu esfuerzo/desempeño\u003c/li\u003e \u003cli\u003eTendrás el acompañamiento de líderes expertos y referentes en la banca.\u003c/li\u003e \u003cli\u003eAccede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia.\u003c/li\u003e \u003cli\u003eAcceso a \u003cstrong\u003eUtilidades\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003e¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607283",
+        "clave":  "id:1118607283",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-ate-santa-anita-y-san-juan-de-lurigancho-manpowergroup-1118607283.html",
+                       "capturadoEn":  "2026-11-14T17:07:33+00:00"
+                   },
+        "titulo":  "Atención al Cliente para YAPE (WhatsApp) / Planilla BCP / Ate, Santa Anita y San Juan de Lurigancho",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima - San Juan De Lurigancho.",
+        "ciudad":  "San Juan De Lurigancho.",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¿Cuál es el reto? Absolver consultas y reclamos por medio de chats para los usuarios de YAPE . ¿Cómo impactarás en grande? Brindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE. Ofrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción. Garantizar una experiencia de atención ágil y orientada a la satisfacción del cliente. ¿Qué necesitamos de ti? Estudios técnicos desde el 4to° ciclo o universitarios desde el 3.º ciclo en adelante (pueden ser truncos, en curso o culminados). Experiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat. Disponibilidad para laborar en Ate. ¿Por qué unirte a nuestro equipo? Ser parte de la empresa #1 en Merco Talento 2025 Ingreso a planilla BCP desde tu primer día. Accede a incentivos por tu esfuerzo/desempeño Tendrás el acompañamiento de líderes expertos y referentes en la banca. Accede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia. Acceso a Utilidades . ¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos para disfrutar con tu familia",
+                           "Acceso a Utilidades",
+                           "¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-ate-santa-anita-y-san-juan-de-lurigancho-manpowergroup-1118607283.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-ate-santa-anita-y-san-juan-de-lurigancho-manpowergroup-1118607283.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Cuál es el reto?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAbsolver consultas y reclamos por medio de chats para los usuarios de \u003cstrong\u003eYAPE\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo impactarás en grande?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE.\u003c/li\u003e \u003cli\u003eOfrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de atención ágil y orientada a la satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios \u003cstrong\u003etécnicos desde el 4to° ciclo\u003c/strong\u003e o \u003cstrong\u003euniversitarios desde el 3.º ciclo\u003c/strong\u003e en adelante (pueden ser truncos, en curso o culminados).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en \u003cstrong\u003eAte.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a nuestro equipo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de la empresa #1 en Merco Talento 2025\u003c/li\u003e \u003cli\u003eIngreso a \u003cstrong\u003eplanilla BCP \u003c/strong\u003edesde tu primer día.\u003c/li\u003e \u003cli\u003eAccede a incentivos por tu esfuerzo/desempeño\u003c/li\u003e \u003cli\u003eTendrás el acompañamiento de líderes expertos y referentes en la banca.\u003c/li\u003e \u003cli\u003eAccede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia.\u003c/li\u003e \u003cli\u003eAcceso a \u003cstrong\u003eUtilidades\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003e¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607282",
+        "clave":  "id:1118607282",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-lima-este-lima-sur-y-lima-norte-manpowergroup-1118607282.html",
+                       "capturadoEn":  "2026-11-14T17:07:34+00:00"
+                   },
+        "titulo":  "Atención al Cliente para YAPE (WhatsApp) / Planilla BCP / Lima Este, Lima Sur y Lima Norte",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¿Cuál es el reto? Absolver consultas y reclamos por medio de chats para los usuarios de YAPE . ¿Cómo impactarás en grande? Brindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE. Ofrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción. Garantizar una experiencia de atención ágil y orientada a la satisfacción del cliente. ¿Qué necesitamos de ti? Estudios técnicos desde el 4to° ciclo o universitarios desde el 3.º ciclo en adelante (pueden ser truncos, en curso o culminados). Experiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat. Disponibilidad para laborar en Ate. ¿Por qué unirte a nuestro equipo? Ser parte de la empresa #1 en Merco Talento 2025 Ingreso a planilla BCP desde tu primer día. Accede a incentivos por tu esfuerzo/desempeño Tendrás el acompañamiento de líderes expertos y referentes en la banca. Accede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia. Acceso a Utilidades . ¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos para disfrutar con tu familia",
+                           "Acceso a Utilidades",
+                           "¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-lima-este-lima-sur-y-lima-norte-manpowergroup-1118607282.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-lima-este-lima-sur-y-lima-norte-manpowergroup-1118607282.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Cuál es el reto?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAbsolver consultas y reclamos por medio de chats para los usuarios de \u003cstrong\u003eYAPE\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo impactarás en grande?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE.\u003c/li\u003e \u003cli\u003eOfrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de atención ágil y orientada a la satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios \u003cstrong\u003etécnicos desde el 4to° ciclo\u003c/strong\u003e o \u003cstrong\u003euniversitarios desde el 3.º ciclo\u003c/strong\u003e en adelante (pueden ser truncos, en curso o culminados).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en \u003cstrong\u003eAte.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a nuestro equipo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de la empresa #1 en Merco Talento 2025\u003c/li\u003e \u003cli\u003eIngreso a \u003cstrong\u003eplanilla BCP \u003c/strong\u003edesde tu primer día.\u003c/li\u003e \u003cli\u003eAccede a incentivos por tu esfuerzo/desempeño\u003c/li\u003e \u003cli\u003eTendrás el acompañamiento de líderes expertos y referentes en la banca.\u003c/li\u003e \u003cli\u003eAccede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia.\u003c/li\u003e \u003cli\u003eAcceso a \u003cstrong\u003eUtilidades\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003e¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607281",
+        "clave":  "id:1118607281",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-lima-este-lima-sur-y-centro-de-lima-manpowergroup-1118607281.html",
+                       "capturadoEn":  "2026-11-14T17:07:35+00:00"
+                   },
+        "titulo":  "Atención al Cliente para YAPE (WhatsApp) / Planilla BCP / Lima Este, Lima Sur y Centro de Lima",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima - Santa Anita",
+        "ciudad":  "Santa Anita",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¿Cuál es el reto? Absolver consultas y reclamos por medio de chats para los usuarios de YAPE . ¿Cómo impactarás en grande? Brindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE. Ofrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción. Garantizar una experiencia de atención ágil y orientada a la satisfacción del cliente. ¿Qué necesitamos de ti? Estudios técnicos desde el 4to° ciclo o universitarios desde el 3.º ciclo en adelante (pueden ser truncos, en curso o culminados). Experiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat. Disponibilidad para laborar en Ate. ¿Por qué unirte a nuestro equipo? Ser parte de la empresa #1 en Merco Talento 2025 Ingreso a planilla BCP desde tu primer día. Accede a incentivos por tu esfuerzo/desempeño Tendrás el acompañamiento de líderes expertos y referentes en la banca. Accede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia. Acceso a Utilidades . ¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos para disfrutar con tu familia",
+                           "Acceso a Utilidades",
+                           "¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-lima-este-lima-sur-y-centro-de-lima-manpowergroup-1118607281.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-para-yape-whatsapp-planilla-bcp-lima-este-lima-sur-y-centro-de-lima-manpowergroup-1118607281.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¿Cuál es el reto?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eAbsolver consultas y reclamos por medio de chats para los usuarios de \u003cstrong\u003eYAPE\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo impactarás en grande?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar atención y asesoría a clientes a través de WhatsApp, resolviendo consultas sobre los productos y servicios financieros de YAPE.\u003c/li\u003e \u003cli\u003eOfrecer una atención de calidad mediante una comunicación escrita clara, empática y con excelente redacción.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de atención ágil y orientada a la satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios \u003cstrong\u003etécnicos desde el 4to° ciclo\u003c/strong\u003e o \u003cstrong\u003euniversitarios desde el 3.º ciclo\u003c/strong\u003e en adelante (pueden ser truncos, en curso o culminados).\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en atención al cliente, vía telefónica, presencial o por chat.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar en \u003cstrong\u003eAte.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a nuestro equipo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de la empresa #1 en Merco Talento 2025\u003c/li\u003e \u003cli\u003eIngreso a \u003cstrong\u003eplanilla BCP \u003c/strong\u003edesde tu primer día.\u003c/li\u003e \u003cli\u003eAccede a incentivos por tu esfuerzo/desempeño\u003c/li\u003e \u003cli\u003eTendrás el acompañamiento de líderes expertos y referentes en la banca.\u003c/li\u003e \u003cli\u003eAccede a descuentos en productos financieros y beneficios corporativos exclusivos para disfrutar con tu familia.\u003c/li\u003e \u003cli\u003eAcceso a \u003cstrong\u003eUtilidades\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003e¡No dejes pasar esta oportunidad y únete al equipo BCP! \u0026#x1f9e1;\u0026#x1f499;\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607279",
+        "clave":  "id:1118607279",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-campo-claro-hogar-lima-sur-1118607279.html",
+                       "capturadoEn":  "2026-11-14T17:07:36+00:00"
+                   },
+        "titulo":  "Asesor de Ventas Campo / Claro Hogar Lima Sur",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - Villa El Salvador",
+        "ciudad":  "Villa El Salvador",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Asesor de Ventas Campo - Claro Hogar Resumen del Puesto Estamos en la búsqueda de Asesores de Ventas Campo proactivos y orientados a resultados para unirse a nuestro equipo. El rol implica la captación y gestión de clientes en modalidad de trabajo en campo, ofreciendo soluciones adaptadas a sus necesidades. Responsabilidades Realizar prospección y gestión de clientes en campo. Presentar y comercializar productos/servicios de manera efectiva. Cumplir con objetivos de venta establecidos. Requisitos Edad comprendida entre 20 y 45 años. Se valorará experiencia previa en ventas, especialmente en el sector. Habilidades de comunicación y persuasión. Orientación al logro de objetivos. Capacidad para trabajar de forma autónoma y organizada. Disponibilidad para trabajar en jornada completa, incluyendo sábados. Beneficios Salario fijo competitivo. Bonos extraordinarios pagados de manera semanal. Atractivo esquema de comisiones por ventas. Línea de carrera ¡Únete a nuestra familia comercial!",
+        "requisitos":  [
+                           "Edad comprendida entre 20 y 45 años",
+                           "Se valorará experiencia previa en ventas, especialmente en el sector",
+                           "Habilidades de comunicación y persuasión",
+                           "Orientación al logro de objetivos",
+                           "Capacidad para trabajar de forma autónoma y organizada",
+                           "Disponibilidad para trabajar en jornada completa, incluyendo sábados"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Salario fijo competitivo",
+                           "Bonos extraordinarios pagados de manera semanal",
+                           "Atractivo esquema de comisiones por ventas",
+                           "Línea de carrera",
+                           "¡Únete a nuestra familia comercial!"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-campo-claro-hogar-lima-sur-1118607279.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-campo-claro-hogar-lima-sur-1118607279.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesor de Ventas Campo - Claro Hogar\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de \u003cstrong\u003eAsesores de Ventas Campo\u003c/strong\u003e proactivos y orientados a resultados para unirse a nuestro equipo. El rol implica la captación y gestión de clientes en modalidad de trabajo en campo, ofreciendo soluciones adaptadas a sus necesidades.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar prospección y gestión de clientes en campo.\u003c/li\u003e \u003cli\u003ePresentar y comercializar productos/servicios de manera efectiva.\u003c/li\u003e \u003cli\u003eCumplir con objetivos de venta establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEdad comprendida entre 20 y 45 años.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa en ventas, especialmente en el sector.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y persuasión.\u003c/li\u003e \u003cli\u003eOrientación al logro de objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y organizada.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en jornada completa, incluyendo sábados.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario fijo competitivo.\u003c/li\u003e \u003cli\u003eBonos extraordinarios pagados de manera semanal.\u003c/li\u003e \u003cli\u003eAtractivo esquema de comisiones por ventas.\u003c/li\u003e \u003cli\u003eLínea de carrera\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e¡Únete a nuestra familia comercial!\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118607277",
+        "clave":  "id:1118607277",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-hipotecario-jr-bcp-manpowergroup-1118607277.html",
+                       "capturadoEn":  "2026-11-14T17:07:37+00:00"
+                   },
+        "titulo":  "Analista de Créditos Hipotecario Jr - BCP",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Buscamos a los que tienen ganas de transformar el país. A los que quieren llegar lejos. Por qué esto no es solo un trabajo. Esto es desafiarte en grande para impactar en grande. Esto es el BCP y te estamos buscando para que formes parte de nuestro equipo como ANALISTA DE CRÉDITOS HIPOTECARIO JUNIOR - San Isidro. Objetivo del puesto: Evaluar las operaciones que llegan por parte de los funcionarios del banco, se encargan de evaluar la capacidad de endeudamiento de cada cliente que solicitan un crédito hipotecario. ¿Cómo impactarás en grande? Evaluar las solicitudes y excepciones de los clientes de créditos hipotecarios y GAHI. Participación de comités en base a las autonomías delegadas. Realizar informes de evaluación detallando las fortalezas y debilidades de la operación en cada caso. Participación en otras actividades que designe la jefatura inmediata (Capacitaciones, visitas a los canales, etc.) ¿Qué necesitamos de ti? Perfil Diverso: Egresados/as Universitarios/as de las siguientes carreras: Administración, Economía, Ing. Industrial, Ing. Sistemas o afines 1 año de experiencia en análisis crediticio en productos o conocimiento hipotecarios u otros productos. Experiencia deseable comercial con clientes (Venta de Intangibles: Seguros, Productos Financieros) previo análisis de cliente. Dominio Tecnológico: Excel Intermedio (Indispensable), Power BI Básico (Deseable). Inglés Intermedio (Deseable). Disponibilidad de trabajar en la sede San Isidro con modalidad híbrida. ¿Por qué unirte a nuestro equipo? Ser parte de la empresa #1 en Merco Talento 2025 Ingreso a planilla BCP desde tu primer día. Accede a incentivos por tu esfuerzo/desempeño Acompañamiento de líderes expertos y referentes en la banca. Acceso a descuentos en productos financieros. Beneficios corporativos exclusivos por provincia para disfrutar con tu familia. Sí, a ti. Te estamos buscando ¡Únete al equipo BCP! “Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos por provincia para disfrutar con tu familia",
+                           "Sí, a ti. Te estamos buscando ¡Únete al equipo BCP!",
+                           "“Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo"
+                       ],
+        "fecha_publicacion":  "2026-11-13",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-hipotecario-jr-bcp-manpowergroup-1118607277.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-creditos-hipotecario-jr-bcp-manpowergroup-1118607277.html",
+        "descripcion_html":  "\u003cp\u003eBuscamos a los que tienen ganas de transformar el país. A los que quieren llegar lejos. Por qué esto no es solo un trabajo. Esto es desafiarte en grande para impactar en grande. Esto es el BCP y te estamos buscando para que formes parte de nuestro equipo como \u003cstrong\u003eANALISTA DE CRÉDITOS HIPOTECARIO JUNIOR - San Isidro.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eObjetivo del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEvaluar las operaciones que llegan por parte de los funcionarios del banco, se encargan de evaluar la capacidad de endeudamiento de cada cliente que solicitan un crédito hipotecario.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cómo impactarás en grande?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Evaluar las solicitudes y excepciones de los clientes de créditos hipotecarios y GAHI.\u003c/li\u003e \u003cli\u003e Participación de comités en base a las autonomías delegadas.\u003c/li\u003e \u003cli\u003e Realizar informes de evaluación detallando las fortalezas y debilidades de la operación en cada caso.\u003c/li\u003e \u003cli\u003e Participación en otras actividades que designe la jefatura inmediata (Capacitaciones, visitas a los canales, etc.)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Perfil Diverso: \u003cstrong\u003eEgresados/as Universitarios/as\u003c/strong\u003e de las siguientes carreras: Administración, Economía, Ing. Industrial, Ing. Sistemas o afines\u003c/li\u003e \u003cli\u003e \u003cstrong\u003e1 año de experiencia\u003c/strong\u003e en análisis crediticio en productos o conocimiento hipotecarios u otros productos.\u003c/li\u003e \u003cli\u003e Experiencia deseable comercial con clientes (Venta de Intangibles: Seguros, Productos Financieros) previo análisis de cliente.\u003c/li\u003e \u003cli\u003e Dominio Tecnológico: Excel Intermedio (Indispensable), Power BI Básico (Deseable).\u003c/li\u003e \u003cli\u003e Inglés Intermedio (Deseable).\u003c/li\u003e \u003cli\u003e Disponibilidad de trabajar en la sede San Isidro con modalidad híbrida.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Por qué unirte a nuestro equipo?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Ser parte de la empresa #1 en Merco Talento 2025\u003c/li\u003e \u003cli\u003e Ingreso a planilla BCP desde tu primer día.\u003c/li\u003e \u003cli\u003e Accede a incentivos por tu esfuerzo/desempeño\u003c/li\u003e \u003cli\u003e Acompañamiento de líderes expertos y referentes en la banca.\u003c/li\u003e \u003cli\u003e Acceso a descuentos en productos financieros.\u003c/li\u003e \u003cli\u003e Beneficios corporativos exclusivos por provincia para disfrutar con tu familia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cem\u003e\u003cstrong\u003eSí, a ti. Te estamos buscando ¡Únete al equipo BCP!\u003c/strong\u003e\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003e“Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "13/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]
