@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118607903",
+    "clave":  "id:1118607903",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/secretaria-recepcionista-decoraciones-cesr-1118607903.html",
+                   "capturadoEn":  "2026-11-14T10:28:52+00:00"
+               },
+    "titulo":  "Secretaria Recepcionista",
+    "empresa":  "DECORACIONES CESR",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Secretaria Recepcionista Resumen del Puesto Estamos en la búsqueda de una Secretaria Recepcionista proactiva y organizada para integrarse a nuestro equipo. El rol es fundamental para la gestión de la atención al público y el soporte administrativo general, contribuyendo a un ambiente de trabajo eficiente y profesional. Responsabilidades Atender y dirigir las consultas de clientes y visitantes de manera cordial y eficiente. Gestionar la central telefónica y el correo electrónico entrante. Coordinar la agenda de reuniones y citas. Realizar tareas administrativas generales, como archivo, digitalización y gestión de documentación. Mantener el orden y la presentación del área de recepción. Colaborar en la organización de eventos y actividades internas. Requisitos Formación secundaria completa. Se valorará formación en secretariado o administración. Experiencia previa en roles de recepción o atención al cliente. Excelentes habilidades de comunicación verbal y escrita. Dominio de herramientas ofimáticas (procesador de texto, hojas de cálculo, correo electrónico). Capacidad para la organización, planificación y gestión de prioridades. Actitud proactiva, amable y orientada al servicio. Habilidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Formación secundaria completa. Se valorará formación en secretariado o administración",
+                       "Experiencia previa en roles de recepción o atención al cliente",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Dominio de herramientas ofimáticas (procesador de texto, hojas de cálculo, correo electrónico)",
+                       "Capacidad para la organización, planificación y gestión de prioridades",
+                       "Actitud proactiva, amable y orientada al servicio",
+                       "Habilidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/secretaria-recepcionista-decoraciones-cesr-1118607903.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/secretaria-recepcionista-decoraciones-cesr-1118607903.html",
+    "descripcion_html":  "\u003cb\u003eSecretaria Recepcionista\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de una \u003cb\u003eSecretaria Recepcionista\u003c/b\u003e proactiva y organizada para integrarse a nuestro equipo. El rol es fundamental para la gestión de la atención al público y el soporte administrativo general, contribuyendo a un ambiente de trabajo eficiente y profesional.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAtender y dirigir las consultas de clientes y visitantes de manera cordial y eficiente.\u003c/li\u003e \u003cli\u003eGestionar la central telefónica y el correo electrónico entrante.\u003c/li\u003e \u003cli\u003eCoordinar la agenda de reuniones y citas.\u003c/li\u003e \u003cli\u003eRealizar tareas administrativas generales, como archivo, digitalización y gestión de documentación.\u003c/li\u003e \u003cli\u003eMantener el orden y la presentación del área de recepción.\u003c/li\u003e \u003cli\u003eColaborar en la organización de eventos y actividades internas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación secundaria completa. Se valorará formación en secretariado o administración.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles de recepción o atención al cliente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eDominio de herramientas ofimáticas (procesador de texto, hojas de cálculo, correo electrónico).\u003c/li\u003e \u003cli\u003eCapacidad para la organización, planificación y gestión de prioridades.\u003c/li\u003e \u003cli\u003eActitud proactiva, amable y orientada al servicio.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
