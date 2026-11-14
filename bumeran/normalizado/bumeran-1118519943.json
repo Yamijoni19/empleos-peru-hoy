@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118519943",
+    "clave":  "id:1118519943",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-tesoreria-1118519943.html",
+                   "capturadoEn":  "2026-11-14T03:14:44+00:00"
+               },
+    "titulo":  "Asistente de Tesorería",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, una importante empresa del rubro turístico, nos encontramos en búsqueda de un/a: ASISTENTE DE TESORERÍA Requisitos: Técnico completo o egresado universitario de las carreras de contabilidad, administración, etc 2 años a más de experiencia en el área de tesorería Office intermedio Experiencia manejando altos volúmenes de documentos o facturas Experiencia en el sector turístico (deseable) Funciones: Control documental: Recopilar todas las facturas, boletas, recibos por honorarios, comprobantes de pago y rendiciones de gastos de cada mes de los proveedores. Seguimiento activo: Llamar y Solicitar los documentos faltantes a proveedores y trabajadores, identificando responsables y fechas límite. Verificación: Comprobar en SUNAT que los documentos correspondan a operaciones reales, tengan los datos correctos y coincidan con pagos, cobros y registros bancarios. Realizar conciliaciones bancarias Reporte de cumplimiento: Presentar a gerencia un informe semanal de documentos recibidos, pendientes, observados y vencidos. Coordinación contable: Entregar al contador la documentación revisada y resolver las observaciones antes del cierre.",
+    "requisitos":  [
+                       "Técnico completo o egresado universitario de las carreras de contabilidad, administración, etc",
+                       "2 años a más de experiencia en el área de tesorería",
+                       "Office intermedio",
+                       "Experiencia manejando altos volúmenes de documentos o facturas",
+                       "Experiencia en el sector turístico (deseable)"
+                   ],
+    "funciones":  [
+                      "Control documental: Recopilar todas las facturas, boletas, recibos por honorarios, comprobantes de pago y rendiciones de gastos de cada mes de los proveedores",
+                      "Seguimiento activo: Llamar y Solicitar los documentos faltantes a proveedores y trabajadores, identificando responsables y fechas límite",
+                      "Verificación: Comprobar en SUNAT que los documentos correspondan a operaciones reales, tengan los datos correctos y coincidan con pagos, cobros y registros bancarios",
+                      "Realizar conciliaciones bancarias",
+                      "Reporte de cumplimiento: Presentar a gerencia un informe semanal de documentos recibidos, pendientes, observados y vencidos",
+                      "Coordinación contable: Entregar al contador la documentación revisada y resolver las observaciones antes del cierre"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-tesoreria-1118519943.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-tesoreria-1118519943.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, una importante empresa del rubro turístico, nos encontramos en búsqueda de un/a:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eASISTENTE DE TESORERÍA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnico completo o egresado universitario de las carreras de contabilidad, administración, etc\u003c/li\u003e \u003cli\u003e2 años a más de experiencia en el área de tesorería\u003c/li\u003e \u003cli\u003eOffice intermedio\u003c/li\u003e \u003cli\u003eExperiencia manejando altos volúmenes de documentos o facturas\u003c/li\u003e \u003cli\u003eExperiencia en el sector turístico (deseable)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eControl documental: Recopilar todas las facturas, boletas, recibos por honorarios, comprobantes de pago y rendiciones de gastos de cada mes de los proveedores.\u003c/li\u003e \u003cli\u003eSeguimiento activo: Llamar y Solicitar los documentos faltantes a proveedores y trabajadores, identificando responsables y fechas límite.\u003c/li\u003e \u003cli\u003eVerificación: Comprobar en SUNAT que los documentos correspondan a operaciones reales, tengan los datos correctos y coincidan con pagos, cobros y registros bancarios.\u003c/li\u003e \u003cli\u003eRealizar conciliaciones bancarias\u003c/li\u003e \u003cli\u003eReporte de cumplimiento: Presentar a gerencia un informe semanal de documentos recibidos, pendientes, observados y vencidos.\u003c/li\u003e \u003cli\u003eCoordinación contable: Entregar al contador la documentación revisada y resolver las observaciones antes del cierre.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

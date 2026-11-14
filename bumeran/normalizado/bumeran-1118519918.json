@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118519918",
+    "clave":  "id:1118519918",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/visitador-medico-1118519918.html",
+                   "capturadoEn":  "2026-11-14T03:14:56+00:00"
+               },
+    "titulo":  "VISITADOR MEDICO",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Descripción: Importante empresa del sector salud busca incorporar a un Visitador Médico Junior dinámico y orientado a resultados para desarrollar nuestra cartera en Surco, La Molina, San Borja y Miraflores . Funciones principales: Realizar visitas diarias a médicos especialistas, clínicas y consultorios privados en los distritos asignados. Presentar las características y beneficios técnicos de nuestra línea de productos. Gestionar material promocional y reportar el avance de visitas en el sistema. Construir relaciones comerciales sólidas a largo plazo con los profesionales de la salud. Requisitos: Egresado o estudiante de últimos ciclos de carreras de Salud (Farmacia, Enfermería, Obstetricia, Nutrición) o carreras comerciales (Marketing, Administración, Comunicaciones). Deseable experiencia previa en ventas, atención al cliente o impulso de productos (no indispensable experiencia en visita médica). Excelente comunicación, empatía, tolerancia a la frustración y organización. Beneficios: Sueldo básico + atractivo esquema de comisiones por objetivos. Asignación de movilidad cubierta para la ruta. Capacitación constante en productos y técnicas de visita médica. Línea de carrera.",
+    "requisitos":  [
+                       "Egresado o estudiante de últimos ciclos de carreras de Salud (Farmacia, Enfermería, Obstetricia, Nutrición) o carreras comerciales (Marketing, Administración, Comunicaciones)",
+                       "Deseable experiencia previa en ventas, atención al cliente o impulso de productos (no indispensable experiencia en visita médica)",
+                       "Excelente comunicación, empatía, tolerancia a la frustración y organización"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Realizar visitas diarias a médicos especialistas, clínicas y consultorios privados en los distritos asignados",
+                      "Presentar las características y"
+                  ],
+    "beneficios":  [
+                       "Sueldo básico + atractivo esquema de comisiones por objetivos",
+                       "Asignación de movilidad cubierta para la ruta",
+                       "Capacitación constante en productos y técnicas de visita médica",
+                       "Línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/visitador-medico-1118519918.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/visitador-medico-1118519918.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eDescripción:\u003c/strong\u003e Importante empresa del sector salud busca incorporar a un \u003cstrong\u003eVisitador Médico Junior\u003c/strong\u003e dinámico y orientado a resultados para desarrollar nuestra cartera en \u003cstrong\u003eSurco, La Molina, San Borja y Miraflores\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar visitas diarias a médicos especialistas, clínicas y consultorios privados en los distritos asignados.\u003c/li\u003e \u003cli\u003ePresentar las características y beneficios técnicos de nuestra línea de productos.\u003c/li\u003e \u003cli\u003eGestionar material promocional y reportar el avance de visitas en el sistema.\u003c/li\u003e \u003cli\u003eConstruir relaciones comerciales sólidas a largo plazo con los profesionales de la salud.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado o estudiante de últimos ciclos de carreras de Salud (Farmacia, Enfermería, Obstetricia, Nutrición) o carreras comerciales (Marketing, Administración, Comunicaciones).\u003c/li\u003e \u003cli\u003eDeseable experiencia previa en ventas, atención al cliente o impulso de productos (no indispensable experiencia en visita médica).\u003c/li\u003e \u003cli\u003eExcelente comunicación, empatía, tolerancia a la frustración y organización.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSueldo básico + atractivo esquema de comisiones por objetivos.\u003c/li\u003e \u003cli\u003eAsignación de movilidad cubierta para la ruta.\u003c/li\u003e \u003cli\u003eCapacitación constante en productos y técnicas de visita médica.\u003c/li\u003e \u003cli\u003eLínea de carrera.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

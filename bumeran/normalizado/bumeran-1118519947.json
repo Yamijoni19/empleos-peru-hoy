@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118519947",
+    "clave":  "id:1118519947",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-rubro-telecomunicaciones-1118519947.html",
+                   "capturadoEn":  "2026-11-14T03:14:41+00:00"
+               },
+    "titulo":  "Ejecutivo Comercial Rubro Telecomunicaciones",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/3,000",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa de telecomunicaciones, nos encontramos en búsqueda de un: EJECUTIVO COMERCIAL – RUBRO TELECOMUNICACIONES Requisitos: Bachiller o Titulado en Ingeniería de Telecomunicaciones, Ingeniería Electrónica, Ingeniería Industrial, Administración o carreras afines. 2 años a más en desarrollo de negocios haciendo gestión comercial B2B Experiencia en telecomunicaciones, fibra óptica, FTTH, networking o infraestructura tecnológica. Deseable experiencia comercial con ISP, operadores, integradores o contratistas de telecomunicaciones. Manejo de CRM Funciones: Desarrollar y ejecutar el plan comercial de crecimiento de la marca Identificar y desarrollar oportunidades de negocio en operadores, ISP, integradores y contratistas de telecomunicaciones. Liderar procesos de homologación e incorporación de productos en cuentas estratégicas. Gestionar y desarrollar relaciones comerciales con clientes clave. Gestionar el portafolio de productos y monitorear su desempeño comercial. Elaborar reportes comerciales, indicadores y planes de acción para el crecimiento de la línea.",
+    "requisitos":  [
+                       "Bachiller o Titulado en Ingeniería de Telecomunicaciones, Ingeniería Electrónica, Ingeniería Industrial, Administración o carreras afines",
+                       "2 años a más en desarrollo de negocios haciendo gestión comercial B2B",
+                       "Experiencia en telecomunicaciones, fibra óptica, FTTH, networking o infraestructura tecnológica",
+                       "Deseable experiencia comercial con ISP, operadores, integradores o contratistas de telecomunicaciones",
+                       "Manejo de CRM"
+                   ],
+    "funciones":  [
+                      "Desarrollar y ejecutar el plan comercial de crecimiento de la marca",
+                      "Identificar y desarrollar oportunidades de negocio en operadores, ISP, integradores y contratistas de telecomunicaciones",
+                      "Liderar procesos de homologación e incorporación de productos en cuentas estratégicas",
+                      "Gestionar y desarrollar relaciones comerciales con clientes clave",
+                      "Gestionar el portafolio de productos y monitorear su desempeño comercial",
+                      "Elaborar reportes comerciales, indicadores y planes de acción para el crecimiento de la línea"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-12",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-rubro-telecomunicaciones-1118519947.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-rubro-telecomunicaciones-1118519947.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa de telecomunicaciones, nos encontramos en búsqueda de un: \u003cstrong\u003eEJECUTIVO COMERCIAL – RUBRO TELECOMUNICACIONES\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o Titulado en Ingeniería de Telecomunicaciones, Ingeniería Electrónica, Ingeniería Industrial, Administración o carreras afines.\u003c/li\u003e \u003cli\u003e2 años a más en desarrollo de negocios haciendo gestión comercial B2B\u003c/li\u003e \u003cli\u003eExperiencia en telecomunicaciones, fibra óptica, FTTH, networking o infraestructura tecnológica.\u003c/li\u003e \u003cli\u003eDeseable experiencia comercial con ISP, operadores, integradores o contratistas de telecomunicaciones.\u003c/li\u003e \u003cli\u003eManejo de CRM\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar y ejecutar el plan comercial de crecimiento de la marca\u003c/li\u003e \u003cli\u003eIdentificar y desarrollar oportunidades de negocio en operadores, ISP, integradores y contratistas de telecomunicaciones.\u003c/li\u003e \u003cli\u003eLiderar procesos de homologación e incorporación de productos en cuentas estratégicas.\u003c/li\u003e \u003cli\u003eGestionar y desarrollar relaciones comerciales con clientes clave.\u003c/li\u003e \u003cli\u003eGestionar el portafolio de productos y monitorear su desempeño comercial.\u003c/li\u003e \u003cli\u003eElaborar reportes comerciales, indicadores y planes de acción para el crecimiento de la línea.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "12/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
