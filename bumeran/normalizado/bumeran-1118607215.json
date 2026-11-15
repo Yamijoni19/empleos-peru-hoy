@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118607215",
+    "clave":  "id:1118607215",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-oficina-tecnica-constructora-inarco-1118607215.html",
+                   "capturadoEn":  "2026-11-15T09:25:05+00:00"
+               },
+    "titulo":  "ASISTENTE DE OFICINA TECNICA",
+    "empresa":  "Constructora Inarco",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Formación: Bachiller en Ingeniería Civil. Experiencia mínima de 2 a 3 años en posiciones similares dentro de proyectos de construcción de edificaciones. Función General: Brindar soporte en el estudio y elaboración de presupuestos de los proyectos de la empresa, asegurando el análisis oportuno, ordenado y completo de la información técnica, económica y administrativa requerida para la presentación de ofertas. Conocimientos técnicos: Microsoft Project. AutoCAD (nivel intermedio – avanzado). Microsoft Office (nivel intermedio). Revit y Navisworks (deseable).",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-oficina-tecnica-constructora-inarco-1118607215.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-oficina-tecnica-constructora-inarco-1118607215.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eFormación:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller en Ingeniería Civil.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 a 3 años en posiciones similares dentro de proyectos de construcción de edificaciones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunción General:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte en el estudio y elaboración de presupuestos de los proyectos de la empresa, asegurando el análisis oportuno, ordenado y completo de la información técnica, económica y administrativa requerida para la presentación de ofertas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos técnicos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMicrosoft Project.\u003c/li\u003e \u003cli\u003eAutoCAD (nivel intermedio – avanzado).\u003c/li\u003e \u003cli\u003eMicrosoft Office (nivel intermedio).\u003c/li\u003e \u003cli\u003eRevit y Navisworks (deseable).\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "* Bachiller en Ingeniería Civil",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

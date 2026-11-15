@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118607220",
+    "clave":  "id:1118607220",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-infraestructura-presencial-callao-stefanini-peru-s.a-1118607220.html",
+                   "capturadoEn":  "2026-11-15T09:25:00+00:00"
+               },
+    "titulo":  "Analista de Infraestructura /Presencial/ Callao",
+    "empresa":  "STEFANINI PERU S.A",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Sé parte de Stefanini! En Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor Responsabilidades y atribuciones: Administrar usuarios, grupos y políticas en Active Directory (incluye GPOs). Gestionar cuentas de correo en Microsoft 365: creación, asignación de grupos y reglas de filtrado. Asignar permisos NTFS a carpetas compartidas en servidores de archivos. Administrar servicios de red: DHCP, DNS y configuración básica de red. Analizar logs, trazas y eventos para identificar causas raíz en coordinación con N3 Ajinomoto. Reproducir errores en entornos controlados para validar soluciones antes de aplicarlas en producción. Dar soporte a la VPN Site-to-Site de conexión con el AD local del cliente. Capacitar al personal N1 en nuevas herramientas y procedimientos de accesos Requisitos y competencias: Formación: Egresado, Técnico o Bachiller en Electrónica o Sistemas 2 años en soporte a accesos e identidad. Certificaciones o curso: ITIL, Microsoft Azure/Server y Windows Server, cconocimiento de Microsoft 365",
+    "requisitos":  [
+                       "y competencias",
+                       "Formación: Egresado, Técnico o Bachiller en Electrónica o Sistemas",
+                       "2 años en soporte a accesos e identidad",
+                       "Certificaciones o curso: ITIL, Microsoft Azure/Server y Windows Server, cconocimiento de Microsoft 365"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-infraestructura-presencial-callao-stefanini-peru-s.a-1118607220.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-infraestructura-presencial-callao-stefanini-peru-s.a-1118607220.html",
+    "descripcion_html":  "\u003cp\u003e¡Sé parte de Stefanini!\u003c/p\u003e\u003cp\u003eEn Stefanini somos más de 30.000 genios, conectados desde 41 países, haciendo lo que les apasiona y co-creando un futuro mejor\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades y atribuciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Administrar usuarios, grupos y políticas en Active Directory (incluye GPOs).\u003c/li\u003e \u003cli\u003e Gestionar cuentas de correo en Microsoft 365: creación, asignación de grupos y reglas de filtrado.\u003c/li\u003e \u003cli\u003e Asignar permisos NTFS a carpetas compartidas en servidores de archivos.\u003c/li\u003e \u003cli\u003e Administrar servicios de red: DHCP, DNS y configuración básica de red.\u003c/li\u003e \u003cli\u003e Analizar logs, trazas y eventos para identificar causas raíz en coordinación con N3 Ajinomoto.\u003c/li\u003e \u003cli\u003e Reproducir errores en entornos controlados para validar soluciones antes de aplicarlas en producción.\u003c/li\u003e \u003cli\u003e Dar soporte a la VPN Site-to-Site de conexión con el AD local del cliente.\u003c/li\u003e \u003cli\u003eCapacitar al personal N1 en nuevas herramientas y procedimientos de accesos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos y competencias:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eFormación: Egresado, Técnico o Bachiller en Electrónica o Sistemas\u003c/p\u003e\u003cp\u003e2 años en soporte a accesos e identidad.\u003c/p\u003e\u003cp\u003eCertificaciones o curso: ITIL, Microsoft Azure/Server y Windows Server, cconocimiento de Microsoft 365\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "Egresado, Técnico o Bachiller en Electrónica o Sistemas",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
