@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118515148",
+    "clave":  "id:1118515148",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/digitadora-de-documentos-universidad-tecnologica-del-peru-1118515148.html",
+                   "capturadoEn":  "2026-11-15T01:55:06+00:00"
+               },
+    "titulo":  "Digitador(a) de Documentos",
+    "empresa":  "UNIVERSIDAD TECNOLOGICA DEL PERU",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En la Universidad Tecnológica del Perú , nos encontramos en la búsqueda de una persona organizada, responsable y detallista para brindar servicios de escaneo y digitalización de documentos , bajo la modalidad de recibos por honorarios. Requisitos: Estudios técnicos o universitarios, en curso o concluidos. Manejo básico de herramientas informáticas y archivos digitales. Experiencia en digitalización o gestión documental mínima de 1 año. Atención al detalle, organización y compromiso con los plazos establecidos. Funciones: Organizar y preparar la documentación física para su digitalización. Escanear documentos asegurando su legibilidad e integridad. Clasificar, nombrar y almacenar los archivos digitales siguiendo los criterios establecidos. Verificar la calidad de los documentos digitalizados. Mantener la confidencialidad y el adecuado manejo de la información. Condiciones de trabajo: Modalidad de trabajo: Presencial. Tipo de contratación: Prestación de servicios por recibos por honorarios.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios, en curso o concluidos",
+                       "Manejo básico de herramientas informáticas y archivos digitales",
+                       "Experiencia en digitalización o gestión documental mínima de 1 año",
+                       "Atención al detalle, organización y compromiso con los plazos establecidos"
+                   ],
+    "funciones":  [
+                      "Organizar y preparar la documentación física para su digitalización",
+                      "Escanear documentos asegurando su legibilidad e integridad",
+                      "Clasificar, nombrar y almacenar los archivos digitales siguiendo los criterios establecidos",
+                      "Verificar la calidad de los documentos digitalizados",
+                      "Mantener la confidencialidad y el adecuado manejo de la información"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/digitadora-de-documentos-universidad-tecnologica-del-peru-1118515148.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/digitadora-de-documentos-universidad-tecnologica-del-peru-1118515148.html",
+    "descripcion_html":  "\u003cp\u003eEn la \u003cstrong\u003eUniversidad Tecnológica del Perú\u003c/strong\u003e, nos encontramos en la búsqueda de una persona organizada, responsable y detallista para brindar servicios de \u003cstrong\u003eescaneo y digitalización de documentos\u003c/strong\u003e, bajo la modalidad de recibos por honorarios.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios, en curso o concluidos.\u003c/li\u003e \u003cli\u003eManejo básico de herramientas informáticas y archivos digitales.\u003c/li\u003e \u003cli\u003eExperiencia en digitalización o gestión documental mínima de 1 año.\u003c/li\u003e \u003cli\u003eAtención al detalle, organización y compromiso con los plazos establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eOrganizar y preparar la documentación física para su digitalización.\u003c/li\u003e \u003cli\u003eEscanear documentos asegurando su legibilidad e integridad.\u003c/li\u003e \u003cli\u003eClasificar, nombrar y almacenar los archivos digitales siguiendo los criterios establecidos.\u003c/li\u003e \u003cli\u003eVerificar la calidad de los documentos digitalizados.\u003c/li\u003e \u003cli\u003eMantener la confidencialidad y el adecuado manejo de la información.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones de trabajo:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eModalidad de trabajo: \u003c/strong\u003ePresencial.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eTipo de contratación:\u003c/strong\u003e Prestación de servicios por recibos por honorarios.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

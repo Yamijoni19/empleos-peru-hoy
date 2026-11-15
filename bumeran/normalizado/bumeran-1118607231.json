@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118607231",
+    "clave":  "id:1118607231",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-infraestructura-y-seguridad-active-directory-ingles-avanzado-1118607231.html",
+                   "capturadoEn":  "2026-11-15T01:55:48+00:00"
+               },
+    "titulo":  "Analista de TI/ Active directory - Inglés avanzado",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos Zoluxiones, grupo empresarial enfocado en ofrecer servicios que faciliten y optimicen las operaciones de nuestros clientes a través de los servicios de Tecnología de la Información y Outsourcing. ¡Estamos buscando talentos como tú! Analista de seguridad/ Active directory - Inglés avanzado Requisitos: Comunicación en ingles avanzado (hablado) e intermedio/avanzado (escrito). Conocimiento de Administración de usuarios y grupos en Active Directory on premise. Conocimiento de Administración de usuarios y grupos en Azure Entra ID Conocimiento en Administración de cuentas privilegiadas (PAM) -\u003e Centrify, CyberArk Inglés avanzado Condiciones Generales Jornada completa Modalidad: híbrida Trabajo con importante cliente financiero planilla completa",
+    "requisitos":  [
+                       "Comunicación en ingles avanzado (hablado) e intermedio/avanzado (escrito)",
+                       "Conocimiento de Administración de usuarios y grupos en Active Directory on premise",
+                       "Conocimiento de Administración de usuarios y grupos en Azure Entra ID",
+                       "Conocimiento en Administración de cuentas privilegiadas (PAM) -\u003e Centrify, CyberArk",
+                       "Inglés avanzado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-infraestructura-y-seguridad-active-directory-ingles-avanzado-1118607231.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-infraestructura-y-seguridad-active-directory-ingles-avanzado-1118607231.html",
+    "descripcion_html":  "\u003cp\u003eSomos Zoluxiones, grupo empresarial enfocado en ofrecer servicios que faciliten y optimicen las operaciones de nuestros clientes a través de los servicios de Tecnología de la Información y Outsourcing.\u003c/p\u003e\u003cp\u003e¡Estamos buscando talentos como tú!\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eAnalista de seguridad/ Active directory - Inglés avanzado\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComunicación en ingles avanzado (hablado) e intermedio/avanzado (escrito).\u003c/li\u003e \u003cli\u003eConocimiento de Administración de usuarios y grupos en Active Directory on premise.\u003c/li\u003e \u003cli\u003eConocimiento de Administración de usuarios y grupos en Azure Entra ID\u003c/li\u003e \u003cli\u003eConocimiento en Administración de cuentas privilegiadas (PAM) -\u0026gt; Centrify, CyberArk\u003c/li\u003e \u003cli\u003eInglés avanzado\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCondiciones Generales\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eJornada completa\u003c/li\u003e \u003cli\u003eModalidad: híbrida\u003c/li\u003e \u003cli\u003eTrabajo con importante cliente financiero\u003c/li\u003e \u003cli\u003eplanilla completa\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

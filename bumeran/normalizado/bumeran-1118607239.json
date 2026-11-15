@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118607239",
+    "clave":  "id:1118607239",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenador-grafico-jmt-outdoors-1118607239.html",
+                   "capturadoEn":  "2026-11-15T01:55:33+00:00"
+               },
+    "titulo":  "Diseñador Gráfico",
+    "empresa":  "JMT OUTDOORS",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa del sector de la publicidad, se encuentra en la búsqueda de un: DISEÑADOR GRÁFICO Funciones: Elaboración de piezas gráficas para prensa, redes sociales, comunicación interna, web y otros canales. Producción y edición de videos y desarrollo de animaciones. Diseño de piezas gráficas para campañas publicitarias y comerciales. Creación de catálogos virtuales y adaptación de fotografías. Desarrollo de propuestas creativas alineadas con la identidad visual de las marcas. Otras funciones y/o responsabilidades encomendadas por su Jefe inmediato. Beneficios: Ingreso a planilla + Participación en utilidades. Línea de carrera.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "y/o responsabilidades encomendadas por su Jefe inmediato"
+                  ],
+    "beneficios":  [
+                       "Ingreso a planilla + Participación en utilidades",
+                       "Línea de carrera"
+                   ],
+    "fecha_publicacion":  "2026-11-13",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/disenador-grafico-jmt-outdoors-1118607239.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenador-grafico-jmt-outdoors-1118607239.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa del sector de la publicidad, se encuentra en la búsqueda de un: \u003c/p\u003e\u003cp\u003e DISEÑADOR GRÁFICO \u003c/p\u003e\u003cp\u003eFunciones: \u003c/p\u003e\u003cul\u003e \u003cli\u003eElaboración de piezas gráficas para prensa, redes sociales, comunicación interna, web y otros canales.\u003c/li\u003e \u003cli\u003eProducción y edición de videos y desarrollo de animaciones.\u003c/li\u003e \u003cli\u003eDiseño de piezas gráficas para campañas publicitarias y comerciales.\u003c/li\u003e \u003cli\u003eCreación de catálogos virtuales y adaptación de fotografías.\u003c/li\u003e \u003cli\u003eDesarrollo de propuestas creativas alineadas con la identidad visual de las marcas.\u003c/li\u003e \u003cli\u003eOtras funciones y/o responsabilidades encomendadas por su Jefe inmediato.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla + Participación en utilidades.\u003c/li\u003e \u003cli\u003eLínea de carrera.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "13/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
