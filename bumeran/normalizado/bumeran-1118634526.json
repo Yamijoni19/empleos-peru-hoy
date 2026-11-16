@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118634526",
+    "clave":  "id:1118634526",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-donde-rosita-1118634526.html",
+                   "capturadoEn":  "2026-11-16T20:29:12+00:00"
+               },
+    "titulo":  "Ayudante de Cocina",
+    "empresa":  "Donde Rosita",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina Resumen del Puesto Buscamos un Ayudante de Cocina con vocación, proactividad y muchas ganas de integrarse a un equipo de trabajo dinámico. Si te apasiona el mundo culinario y buscas un ambiente profesional donde puedas desarrollarte, esta oportunidad es para ti. Responsabilidades Colaborar en la preparación de ingredientes y mise en place. Asistir al cocinero en la preparación de diversos platillos, incluyendo especialidades criollas y de pescados/mariscos. Mantener la limpieza y el orden riguroso del área de trabajo y equipos. Asegurar la correcta presentación de los platos. Realizar el mantenimiento básico de los equipos de cocina. Requisitos Experiencia previa demostrable en cocina, especialmente en preparación de platos criollos y mariscos. Edad mínima de 20 años. Disponibilidad para obtener o contar con carnet de sanidad vigente. Se valorará formación técnica en gastronomía, pero la experiencia comprobada será un factor determinante. Capacidad para trabajar en equipo y seguir instrucciones. Actitud proactiva y orientada al detalle. Ofrecemos Un ambiente de trabajo colaborativo y profesional. Oportunidades de crecimiento y desarrollo. Horario de trabajo establecido. Beneficios laborales de acuerdo a ley.",
+    "requisitos":  [
+                       "Experiencia previa demostrable en cocina, especialmente en preparación de platos criollos y mariscos",
+                       "Edad mínima de 20 años",
+                       "Disponibilidad para obtener o contar con carnet de sanidad vigente",
+                       "Se valorará formación técnica en gastronomía, pero la experiencia comprobada será un factor determinante",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Actitud proactiva y orientada al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "laborales de acuerdo a ley"
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-donde-rosita-1118634526.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-donde-rosita-1118634526.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAyudante de Cocina\u003c/b\u003e con vocación, proactividad y muchas ganas de integrarse a un equipo de trabajo dinámico. Si te apasiona el mundo culinario y buscas un ambiente profesional donde puedas desarrollarte, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación de ingredientes y mise en place.\u003c/li\u003e \u003cli\u003eAsistir al cocinero en la preparación de diversos platillos, incluyendo especialidades criollas y de pescados/mariscos.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden riguroso del área de trabajo y equipos.\u003c/li\u003e \u003cli\u003eAsegurar la correcta presentación de los platos.\u003c/li\u003e \u003cli\u003eRealizar el mantenimiento básico de los equipos de cocina.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa demostrable en cocina, especialmente en preparación de platos criollos y mariscos.\u003c/li\u003e \u003cli\u003eEdad mínima de 20 años.\u003c/li\u003e \u003cli\u003eDisponibilidad para obtener o contar con carnet de sanidad vigente.\u003c/li\u003e \u003cli\u003eSe valorará formación técnica en gastronomía, pero la experiencia comprobada será un factor determinante.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientada al detalle.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eUn ambiente de trabajo colaborativo y profesional.\u003c/li\u003e \u003cli\u003eOportunidades de crecimiento y desarrollo.\u003c/li\u003e \u003cli\u003eHorario de trabajo establecido.\u003c/li\u003e \u003cli\u003eBeneficios laborales de acuerdo a ley.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 20 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

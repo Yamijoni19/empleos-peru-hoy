@@ -1,0 +1,1586 @@
+[
+    {
+        "id":  "bumeran-1118635897",
+        "clave":  "id:1118635897",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/gerente-de-servicios-generales-|-planta-industrial-1118635897.html",
+                       "capturadoEn":  "2026-11-16T20:28:47+00:00"
+                   },
+        "titulo":  "GERENTE DE SERVICIOS GENERALES | PLANTA INDUSTRIAL",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "Importante empresa en su rubro se encuentra en la búsqueda de 01 Gerente de Servicios Generales: Funciones: Gestionar el área asegurando el cumplimiento de los objetivos operativos y administrativos. Monitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados. Gestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación. Elaborar y presentar información de gestión para la toma de decisiones. Requisitos: Profesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines. Mínimo 5 años de experiencia liderando servicios generales en plantas industriales Sólida experiencia en gestión financiera, control presupuestal y manejo de indicadores. MS Office nivel intermedio. Inglés intermedio (deseable). Residir en Lima.",
+        "requisitos":  [
+                           "Profesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines",
+                           "Mínimo 5 años de experiencia liderando servicios generales en plantas industriales",
+                           "Sólida experiencia en gestión financiera, control presupuestal y manejo de indicadores",
+                           "MS Office nivel intermedio",
+                           "Inglés intermedio (deseable)",
+                           "Residir en Lima"
+                       ],
+        "funciones":  [
+                          "Gestionar el área asegurando el cumplimiento de los objetivos operativos y administrativos",
+                          "Monitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados",
+                          "Gestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación",
+                          "Elaborar y presentar información de gestión para la toma de decisiones"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/gerente-de-servicios-generales-|-planta-industrial-1118635897.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/gerente-de-servicios-generales-|-planta-industrial-1118635897.html",
+        "descripcion_html":  "\u003cp\u003eImportante empresa en su rubro se encuentra en la búsqueda de 01 Gerente de Servicios Generales:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar el área asegurando el cumplimiento de los objetivos operativos y administrativos.\u003c/li\u003e \u003cli\u003eMonitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados.\u003c/li\u003e \u003cli\u003eGestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación.\u003c/li\u003e \u003cli\u003eElaborar y presentar información de gestión para la toma de decisiones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003eMínimo 5 años de experiencia liderando servicios generales en plantas industriales\u003c/li\u003e \u003cli\u003eSólida experiencia en gestión financiera, control presupuestal y manejo de indicadores.\u003c/li\u003e \u003cli\u003eMS Office nivel intermedio.\u003c/li\u003e \u003cli\u003eInglés intermedio (deseable).\u003c/li\u003e \u003cli\u003eResidir en Lima.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118635824",
+        "clave":  "id:1118635824",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/gerente-de-mantenimiento-1118635824.html",
+                       "capturadoEn":  "2026-11-16T20:28:48+00:00"
+                   },
+        "titulo":  "GERENTE DE MANTENIMIENTO",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Importante empresa en su rubro se encuentra en la búsqueda de 01 Gerente de Mantenimiento: Funciones: Gestionar el área de mantenimiento asegurando el cumplimiento de los objetivos operativos y administrativos. Monitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados. Gestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación. Elaborar y presentar información de gestión para la toma de decisiones. Requisitos: Profesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines. Mínimo 5 años de experiencia liderando el área de mantenimiento en plantas industriales Sólida experiencia en gestión financiera, control presupuestal y manejo de indicadores. MS Office nivel intermedio. Inglés intermedio (deseable). Residir en Lima.",
+        "requisitos":  [
+                           "Profesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines",
+                           "Mínimo 5 años de experiencia liderando el área de mantenimiento en plantas industriales",
+                           "Sólida experiencia en gestión financiera, control presupuestal y manejo de indicadores",
+                           "MS Office nivel intermedio",
+                           "Inglés intermedio (deseable)",
+                           "Residir en Lima"
+                       ],
+        "funciones":  [
+                          "Gestionar el área de mantenimiento asegurando el cumplimiento de los objetivos operativos y administrativos",
+                          "Monitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados",
+                          "Gestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación",
+                          "Elaborar y presentar información de gestión para la toma de decisiones"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/gerente-de-mantenimiento-1118635824.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/gerente-de-mantenimiento-1118635824.html",
+        "descripcion_html":  "\u003cp\u003eImportante empresa en su rubro se encuentra en la búsqueda de 01 Gerente de Mantenimiento:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar el área de mantenimiento asegurando el cumplimiento de los objetivos operativos y administrativos.\u003c/li\u003e \u003cli\u003eMonitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados.\u003c/li\u003e \u003cli\u003eGestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación.\u003c/li\u003e \u003cli\u003eElaborar y presentar información de gestión para la toma de decisiones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003eMínimo 5 años de experiencia liderando el área de mantenimiento en plantas industriales\u003c/li\u003e \u003cli\u003eSólida experiencia en gestión financiera, control presupuestal y manejo de indicadores.\u003c/li\u003e \u003cli\u003eMS Office nivel intermedio.\u003c/li\u003e \u003cli\u003eInglés intermedio (deseable).\u003c/li\u003e \u003cli\u003eResidir en Lima.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634713",
+        "clave":  "id:1118634713",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-banca-comercial-sector-financiero-magdalena-eurofirms-group-1118634713.html",
+                       "capturadoEn":  "2026-11-16T20:28:49+00:00"
+                   },
+        "titulo":  "Ejecutivo de Banca Comercial / Sector Financiero / Magdalena",
+        "empresa":  "Eurofirms Group",
+        "ubicacion":  "Lima - San Miguel",
+        "ciudad":  "San Miguel",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  3000,
+                        "max":  3000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/3,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "En Eurofirms Group, promovemos el liderazgo basado en valores y el desarrollo continuo de las personas, fomentando entornos de trabajo colaborativos y orientados al crecimiento profesional. Actualmente nos encontramos en búsqueda de Ejecutivo pyme para trabajar en una de las principales entidades financieras del país. Requisitos: Estudiantes universitarios a partir del 8vo ciclo, egresados o bachilleres de Administración, Contabilidad, Economía, Ingeniería Industrial o carreras afines. Experiencia mínima de 6 meses en ventas del sector financiero (créditos, tarjetas de crédito, seguros, cuentas bancarias, medios de pago u otros afines). Conocimiento en gestión de cartera, evaluación comercial y productos financieros. Orientación comercial y cumplimiento de objetivos. Habilidades de negociación, comunicación y servicio al cliente. Manejo de Excel a nivel intermedio Funciones principales: Gestionar y fidelizar la cartera de clientes PyME asignada a través de canales telefónicos y digitales. Identificar oportunidades comerciales y generar propuestas de productos financieros acordes a las necesidades de cada cliente. Realizar venta cruzada y seguimiento de requerimientos operativos, fortaleciendo relaciones de largo plazo. Levantar y actualizar información financiera de los clientes para la evaluación y estructuración de propuestas de crédito. Impulsar el crecimiento sostenible de la cartera mediante la colocación y activación de productos financieros. Maximizar la rentabilidad de la cartera asignada, asegurando un adecuado seguimiento comercial y administrativo. Mantener actualizada la información de los clientes en las herramientas y plataformas establecidas. Condicionales Laborales: Remuneración acorde al mercado. Ingreso a planilla con todos los beneficios de ley. Contrato de trabajo de plazo indeterminado. EPS 60% Utilidades de 3 a 5 sueldos Bono variable por cumplimiento de objetivos. Oportunidad de línea de carrera dentro de una importante entidad del sector financiero. Modalidad de trabajo presencial. Horario de trabajo: Lunes a viernes de 9:00 a.m. a 6:30 p.m. / Sábados de 9:00 a.m. a 1:00 p.m. Si cumples con los requisitos, estás interesado y crees que eres el match perfecto, te invitamos a postular ¡Te esperamos! En Eurofirms estamos comprometidos con la creación de un ambiente de trabajo inclusivo y diverso fomentando la inclusión laboral en los ambientes de trabajo. Animamos a personas de todos los géneros, edades, etnias, habilidades a postularse. Si necesitas algún ajuste razonable durante el proceso de selección o en tu puesto de trabajo, no dudes en comunicarlo.",
+        "requisitos":  [
+                           ", estás interesado y crees que eres el match perfecto, te invitamos a postular ¡Te esperamos!",
+                           "En Eurofirms estamos comprometidos con la creación de un ambiente de trabajo inclusivo y diverso fomentando la inclusión laboral en los ambientes de trabajo. Animamos a personas de todos los géneros, edades, etnias, habilidades a postularse. Si necesitas algún ajuste razonable durante el proceso de selección o en tu puesto de trabajo, no dudes en comunicarlo"
+                       ],
+        "funciones":  [
+                          "principales",
+                          "Gestionar y fidelizar la cartera de clientes PyME asignada a través de canales telefónicos y digitales",
+                          "Identificar oportunidades comerciales y generar propuestas de productos financieros acordes a las necesidades de cada cliente",
+                          "Realizar venta cruzada y seguimiento de requerimientos operativos, fortaleciendo relaciones de largo plazo",
+                          "Levantar y actualizar información financiera de los clientes para la evaluación y estructuración de propuestas de crédito",
+                          "Impulsar el crecimiento sostenible de la cartera mediante la colocación y activación de productos financieros",
+                          "Maximizar la rentabilidad de la cartera asignada, asegurando un adecuado seguimiento comercial y administrativo",
+                          "Mantener actualizada la información de los clientes en las herramientas y plataformas establecidas",
+                          "Condicionales Laborales",
+                          "Remuneración acorde al mercado",
+                          "Ingreso a planilla con todos los"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Contrato de trabajo de plazo indeterminado",
+                           "EPS 60%",
+                           "Utilidades de 3 a 5 sueldos",
+                           "Bono variable por cumplimiento de objetivos",
+                           "Oportunidad de línea de carrera dentro de una importante entidad del sector financiero",
+                           "Modalidad de trabajo presencial",
+                           "Horario de trabajo: Lunes a viernes de 9:00 a.m. a 6:30 p.m. / Sábados de 9:00 a.m. a 1:00 p.m",
+                           "Si cumples con los"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-banca-comercial-sector-financiero-magdalena-eurofirms-group-1118634713.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-de-banca-comercial-sector-financiero-magdalena-eurofirms-group-1118634713.html",
+        "descripcion_html":  "\u003cp\u003eEn Eurofirms Group, promovemos el liderazgo basado en valores y el desarrollo continuo de las personas, fomentando entornos de trabajo colaborativos y orientados al crecimiento profesional.\u003c/p\u003e\u003cp\u003eActualmente nos encontramos en búsqueda de \u003cstrong\u003eEjecutivo pyme \u003c/strong\u003epara trabajar en una de las principales entidades financieras del país.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiantes universitarios a partir del 8vo ciclo, egresados o bachilleres de Administración, Contabilidad, Economía, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 6 meses en ventas del sector financiero (créditos, tarjetas de crédito, seguros, cuentas bancarias, medios de pago u otros afines).\u003c/li\u003e \u003cli\u003eConocimiento en gestión de cartera, evaluación comercial y productos financieros.\u003c/li\u003e \u003cli\u003eOrientación comercial y cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eHabilidades de negociación, comunicación y servicio al cliente.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel intermedio\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar y fidelizar la cartera de clientes PyME asignada a través de canales telefónicos y digitales.\u003c/li\u003e \u003cli\u003eIdentificar oportunidades comerciales y generar propuestas de productos financieros acordes a las necesidades de cada cliente.\u003c/li\u003e \u003cli\u003eRealizar venta cruzada y seguimiento de requerimientos operativos, fortaleciendo relaciones de largo plazo.\u003c/li\u003e \u003cli\u003eLevantar y actualizar información financiera de los clientes para la evaluación y estructuración de propuestas de crédito.\u003c/li\u003e \u003cli\u003eImpulsar el crecimiento sostenible de la cartera mediante la colocación y activación de productos financieros.\u003c/li\u003e \u003cli\u003eMaximizar la rentabilidad de la cartera asignada, asegurando un adecuado seguimiento comercial y administrativo.\u003c/li\u003e \u003cli\u003eMantener actualizada la información de los clientes en las herramientas y plataformas establecidas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondicionales Laborales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRemuneración acorde al mercado.\u003c/li\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eContrato de trabajo de plazo indeterminado.\u003c/li\u003e \u003cli\u003eEPS 60%\u003c/li\u003e \u003cli\u003eUtilidades de 3 a 5 sueldos\u003c/li\u003e \u003cli\u003eBono variable por cumplimiento de objetivos.\u003c/li\u003e \u003cli\u003eOportunidad de línea de carrera dentro de una importante entidad del sector financiero.\u003c/li\u003e \u003cli\u003eModalidad de trabajo presencial.\u003c/li\u003e \u003cli\u003eHorario de trabajo: Lunes a viernes de 9:00 a.m. a 6:30 p.m. / Sábados de 9:00 a.m. a 1:00 p.m.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSi cumples con los requisitos, estás interesado y crees que eres el match perfecto, te invitamos a postular ¡Te esperamos!\u003c/p\u003e\u003cp\u003eEn Eurofirms estamos comprometidos con la creación de un ambiente de trabajo inclusivo y diverso fomentando la inclusión laboral en los ambientes de trabajo. Animamos a personas de todos los géneros, edades, etnias, habilidades a postularse. Si necesitas algún ajuste razonable durante el proceso de selección o en tu puesto de trabajo, no dudes en comunicarlo.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 6 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634712",
+        "clave":  "id:1118634712",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-construccion-con-experiencia-en-multifamiliares-bumeran-selecta-1118634712.html",
+                       "capturadoEn":  "2026-11-16T20:28:53+00:00"
+                   },
+        "titulo":  "Jefe de Construcción con experiencia en Multifamiliares",
+        "empresa":  "BUMERAN SELECTA",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro cliente, importante empresa del sector inmobiliario y construcción, en proceso de crecimiento y fortalecimiento de su estructura técnica, nos encontramos en la búsqueda de un(a): JEFE(A) DE CONSTRUCCIÓN Misión: Liderar la gestión técnica y operativa de los proyectos de construcción de la compañía, asegurando el cumplimiento de los objetivos de plazo, presupuesto, calidad y productividad. Será responsable de supervisar los equipos de obra, gestionar los principales riesgos técnicos y operativos, participar en los procesos de preconstrucción y asegurar una adecuada gestión de procura, subcontratos y planificación de los proyectos. Funciones: Liderar la gestión integral de las obras en ejecución, asegurando el cumplimiento de cronogramas, presupuesto, calidad y productividad. Supervisar directamente a los Ingenieros Residentes y realizar seguimiento a los equipos técnicos y operativos de cada obra. Monitorear permanentemente el avance físico y operativo de los proyectos, identificando desviaciones y estableciendo planes de acción. Elaborar, revisar y controlar el presupuesto meta y el resultado operativo técnico de cada proyecto. Gestionar cronogramas maestros, planificación de corto plazo y cumplimiento del plan de obra. Supervisar los procesos de procura, licitación, adjudicación y gestión de subcontratistas. Gestionar adicionales, ampliaciones de plazo y otros aspectos contractuales vinculados a contratos de construcción. Resolver contingencias técnicas y operativas que puedan afectar el avance de las obras. Coordinar con las áreas de Proyectos, Finanzas y otras áreas internas para asegurar el correcto desarrollo de los proyectos. Participar activamente en la preconstrucción de nuevos proyectos, aportando criterios de constructabilidad, planificación y ejecución. Supervisar el cumplimiento de estándares de calidad, seguridad y SSOMA. Realizar seguimiento al desempeño de los subcontratistas y asegurar alternativas ante contingencias. Elaborar reportes de avance, costos, riesgos y proyecciones para la Gerencia. Contribuir a la estandarización de procesos y al desarrollo de la memoria técnica de la constructora Requisitos: Ingeniero(a) Civil titulado(a) y colegiado(a). Experiencia mínima de 5 años en construcción de edificaciones. Experiencia comprobable en proyectos multifamiliares de más de 15 pisos y con sótanos. Haber participado en la construcción integral de al menos 2 edificios multifamiliares, idealmente de inicio a fin. Experiencia previa como Ingeniero Residente Senior, Jefe de Construcción, Gerente de Obra o posiciones equivalentes. Experiencia gestionando más de una obra de manera simultánea. Experiencia del lado del contratista general en contratos a suma alzada, adicionales, ampliaciones de plazo y gestión de subcontratos. Manejo de S10 a nivel intermedio o avanzado. Manejo de MS Project. Conocimiento de Last Planner / Lean Construction. Experiencia en elaboración y control de presupuesto meta, resultado operativo técnico y/o valor ganado. Conocimiento de fundamentos de PMP. Conocimiento de BIM o VDC. Deseable experiencia en obras con financiamiento y supervisión bancaria. Deseable contar con estudios de posgrado en Dirección o Gerencia de la Construcción, Gestión de Proyectos o áreas afines. Disponibilidad para trabajar de manera presencial en Miraflores y realizar visitas frecuentes a obras en Lima. Beneficios Salaria acorde a tu experiencia laboral. Ingreso a planilla bajo régimen general, con todos los beneficios de ley. Incentivos por cierre de obras dentro de plazo y presupuesto, de acuerdo con los resultados alcanzados. Línea de carrera con proyección hacia una Subgerencia de Construcción. Posibilidad de crecimiento posterior hacia posiciones de mayor responsabilidad dentro de la estructura de construcción. Participación en una compañía en etapa de expansión, con nuevos proyectos y desarrollo de una estructura técnica más robusta. Exposición a proyectos multifamiliares de gran escala y participación desde etapas de preconstrucción hasta cierre de obra.",
+        "requisitos":  [
+                           "Ingeniero(a) Civil titulado(a) y colegiado(a)",
+                           "Experiencia mínima de 5 años en construcción de edificaciones",
+                           "Experiencia comprobable en proyectos multifamiliares de más de 15 pisos y con sótanos",
+                           "Haber participado en la construcción integral de al menos 2 edificios multifamiliares, idealmente de inicio a fin",
+                           "Experiencia previa como Ingeniero Residente Senior, Jefe de Construcción, Gerente de Obra o posiciones equivalentes",
+                           "Experiencia gestionando más de una obra de manera simultánea",
+                           "Experiencia del lado del contratista general en contratos a suma alzada, adicionales, ampliaciones de plazo y gestión de subcontratos",
+                           "Manejo de S10 a nivel intermedio o avanzado",
+                           "Manejo de MS Project",
+                           "Conocimiento de Last Planner / Lean Construction",
+                           "Experiencia en elaboración y control de presupuesto meta, resultado operativo técnico y/o valor ganado",
+                           "Conocimiento de fundamentos de PMP",
+                           "Conocimiento de BIM o VDC",
+                           "Deseable experiencia en obras con financiamiento y supervisión bancaria",
+                           "Deseable contar con estudios de posgrado en Dirección o Gerencia de la Construcción, Gestión de Proyectos o áreas afines",
+                           "Disponibilidad para trabajar de manera presencial en Miraflores y realizar visitas frecuentes a obras en Lima"
+                       ],
+        "funciones":  [
+                          "Liderar la gestión integral de las obras en ejecución, asegurando el cumplimiento de cronogramas, presupuesto, calidad y productividad",
+                          "Supervisar directamente a los Ingenieros Residentes y realizar seguimiento a los equipos técnicos y operativos de cada obra",
+                          "Monitorear permanentemente el avance físico y operativo de los proyectos, identificando desviaciones y estableciendo planes de acción",
+                          "Elaborar, revisar y controlar el presupuesto meta y el resultado operativo técnico de cada proyecto",
+                          "Gestionar cronogramas maestros, planificación de corto plazo y cumplimiento del plan de obra",
+                          "Supervisar los procesos de procura, licitación, adjudicación y gestión de subcontratistas",
+                          "Gestionar adicionales, ampliaciones de plazo y otros aspectos contractuales vinculados a contratos de construcción",
+                          "Resolver contingencias técnicas y operativas que puedan afectar el avance de las obras",
+                          "Coordinar con las áreas de Proyectos, Finanzas y otras áreas internas para asegurar el correcto desarrollo de los proyectos",
+                          "Participar activamente en la preconstrucción de nuevos proyectos, aportando criterios de constructabilidad, planificación y ejecución",
+                          "Supervisar el cumplimiento de estándares de calidad, seguridad y SSOMA",
+                          "Realizar seguimiento al desempeño de los subcontratistas y asegurar alternativas ante contingencias",
+                          "Elaborar reportes de avance, costos, riesgos y proyecciones para la Gerencia",
+                          "Contribuir a la estandarización de procesos y al desarrollo de la memoria técnica de la constructora"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "Incentivos por cierre de obras dentro de plazo y presupuesto, de acuerdo con los resultados alcanzados",
+                           "Línea de carrera con proyección hacia una Subgerencia de Construcción",
+                           "Posibilidad de crecimiento posterior hacia posiciones de mayor responsabilidad dentro de la estructura de construcción",
+                           "Participación en una compañía en etapa de expansión, con nuevos proyectos y desarrollo de una estructura técnica más robusta",
+                           "Exposición a proyectos multifamiliares de gran escala y participación desde etapas de preconstrucción hasta cierre de obra"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/jefe-de-construccion-con-experiencia-en-multifamiliares-bumeran-selecta-1118634712.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-construccion-con-experiencia-en-multifamiliares-bumeran-selecta-1118634712.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa del sector inmobiliario y construcción, en proceso de crecimiento y fortalecimiento de su estructura técnica, nos encontramos en la búsqueda de un(a):\u003c/p\u003e\u003cp style=\"\"\u003e\u003cstrong\u003e\u003cu\u003eJEFE(A) DE CONSTRUCCIÓN\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e\u003cu\u003eMisión:\u003c/u\u003e\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eLiderar la gestión técnica y operativa de los proyectos de construcción de la compañía, asegurando el cumplimiento de los objetivos de plazo, presupuesto, calidad y productividad. Será responsable de supervisar los equipos de obra, gestionar los principales riesgos técnicos y operativos, participar en los procesos de preconstrucción y asegurar una adecuada gestión de procura, subcontratos y planificación de los proyectos.\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e \u003cp\u003eLiderar la gestión integral de las obras en ejecución, asegurando el cumplimiento de cronogramas, presupuesto, calidad y productividad.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eSupervisar directamente a los Ingenieros Residentes y realizar seguimiento a los equipos técnicos y operativos de cada obra.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eMonitorear permanentemente el avance físico y operativo de los proyectos, identificando desviaciones y estableciendo planes de acción.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eElaborar, revisar y controlar el presupuesto meta y el resultado operativo técnico de cada proyecto.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eGestionar cronogramas maestros, planificación de corto plazo y cumplimiento del plan de obra.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eSupervisar los procesos de procura, licitación, adjudicación y gestión de subcontratistas.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eGestionar adicionales, ampliaciones de plazo y otros aspectos contractuales vinculados a contratos de construcción.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eResolver contingencias técnicas y operativas que puedan afectar el avance de las obras.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eCoordinar con las áreas de Proyectos, Finanzas y otras áreas internas para asegurar el correcto desarrollo de los proyectos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eParticipar activamente en la preconstrucción de nuevos proyectos, aportando criterios de constructabilidad, planificación y ejecución.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eSupervisar el cumplimiento de estándares de calidad, seguridad y SSOMA.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eRealizar seguimiento al desempeño de los subcontratistas y asegurar alternativas ante contingencias.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eElaborar reportes de avance, costos, riesgos y proyecciones para la Gerencia.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eContribuir a la estandarización de procesos y al desarrollo de la memoria técnica de la constructora\u003c/p\u003e \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003e \u003cp\u003eIngeniero(a) Civil titulado(a) y colegiado(a).\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia mínima de 5 años en construcción de edificaciones.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia comprobable en proyectos multifamiliares de más de 15 pisos y con sótanos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eHaber participado en la construcción integral de al menos 2 edificios multifamiliares, idealmente de inicio a fin.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia previa como Ingeniero Residente Senior, Jefe de Construcción, Gerente de Obra o posiciones equivalentes.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia gestionando más de una obra de manera simultánea.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia del lado del contratista general en contratos a suma alzada, adicionales, ampliaciones de plazo y gestión de subcontratos.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eManejo de S10 a nivel intermedio o avanzado.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eManejo de MS Project.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eConocimiento de Last Planner / Lean Construction.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExperiencia en elaboración y control de presupuesto meta, resultado operativo técnico y/o valor ganado.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eConocimiento de fundamentos de PMP.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eConocimiento de BIM o VDC.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eDeseable experiencia en obras con financiamiento y supervisión bancaria.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eDeseable contar con estudios de posgrado en Dirección o Gerencia de la Construcción, Gestión de Proyectos o áreas afines.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eDisponibilidad para trabajar de manera presencial en Miraflores y realizar visitas frecuentes a obras en Lima.\u003c/p\u003e \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003e \u003cp\u003eSalaria acorde a tu experiencia laboral.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eIngreso a planilla bajo régimen general, con todos los beneficios de ley.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eIncentivos por cierre de obras dentro de plazo y presupuesto, de acuerdo con los resultados alcanzados.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eLínea de carrera con proyección hacia una Subgerencia de Construcción.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003ePosibilidad de crecimiento posterior hacia posiciones de mayor responsabilidad dentro de la estructura de construcción.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eParticipación en una compañía en etapa de expansión, con nuevos proyectos y desarrollo de una estructura técnica más robusta.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eExposición a proyectos multifamiliares de gran escala y participación desde etapas de preconstrucción hasta cierre de obra.\u003c/p\u003e \u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634703",
+        "clave":  "id:1118634703",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-servicios-compartidos-transportes-cruz-del-sur-s.a.c.-1118634703.html",
+                       "capturadoEn":  "2026-11-16T20:28:54+00:00"
+                   },
+        "titulo":  "Practicante Profesional de Servicios Compartidos",
+        "empresa":  "Transportes Cruz Del Sur S.A.C.",
+        "ubicacion":  "Lima - La Victoria",
+        "ciudad":  "La Victoria",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Transportes Cruz del Sur , empresa perteneciente al Grupo Ibárcena, líder en el mercado peruano con 65 años de experiencia, se encuentra en la búsqueda de nuevos talentos para ocupar el puesto de: Practicante Profesional de Servicios Compartidos REQUISITOS: Bachiller o Egresado en las carreras de Ingeniería Industrial, Administración de Empresas o afines Haber realizado prácticas preprofesionales en empresas de servicios en los giros de transporte, retail. financiero, industrial o afines Ms Office (Excel y Powerpoint) a nivel avanzado Conocimientos en SQL, Pyton y Power BI (deseable) Disponibilidad para laborar de manera presencial en nuestro terminal de Javier Prado FUNCIONES: Recopilación de Datos: Recolectar y analizar datos relevantes, como métricas de desempeño, tendencias del mercado y datos operativos, para apoyar el proceso de toma de decisiones. Apoyo en la Elaboración de Planes: Colaborar en la elaboración y revisión de planes a corto y largo plazo para en Centro de Servicios Compartidos, considerando objetivos, metas y recursos disponibles. Planificación de Recursos: Asistir en la planificación de recursos humanos, financieros y tecnológicos para garantizar que el Centro de Servicios Compartidos cuente con los recursos necesarios para operar de manera eficiente. Desarrollo de Indicadores Clave de Rendimiento (KPI): Contribuir a la definición y seguimiento de KPI relevantes que evalúen el desempeño y el logro de objetivos del Centro de Servicios Compartidos. BENEFICIOS: Convenio de Prácticas Beneficios Fola Formar parte de una empresa líder en su rubro. Descuentos corporativos en pasajes y entretenimiento. Descuentos en convenios educativos. Si deseas formar parte de la FAMILIA CRUZ DEL SUR, ¡POSTULA CON NOSOTROS",
+        "requisitos":  [
+                           "Bachiller o Egresado en las carreras de Ingeniería Industrial, Administración de Empresas o afines",
+                           "Haber realizado prácticas preprofesionales en empresas de servicios en los giros de transporte, retail. financiero, industrial o afines",
+                           "Ms Office (Excel y Powerpoint) a nivel avanzado",
+                           "Conocimientos en SQL, Pyton y Power BI (deseable)",
+                           "Disponibilidad para laborar de manera presencial en nuestro terminal de Javier Prado"
+                       ],
+        "funciones":  [
+                          "Recopilación de Datos: Recolectar y analizar datos relevantes, como métricas de desempeño, tendencias del mercado y datos operativos, para apoyar el proceso de toma de decisiones",
+                          "Apoyo en la Elaboración de Planes: Colaborar en la elaboración y revisión de planes a corto y largo plazo para en Centro de Servicios Compartidos, considerando objetivos, metas y recursos disponibles",
+                          "Planificación de Recursos: Asistir en la planificación de recursos humanos, financieros y tecnológicos para garantizar que el Centro de Servicios Compartidos cuente con los recursos necesarios para operar de manera eficiente",
+                          "Desarrollo de Indicadores Clave de Rendimiento (KPI): Contribuir a la definición y seguimiento de KPI relevantes que evalúen el desempeño y el logro de objetivos del Centro de Servicios Compartidos"
+                      ],
+        "beneficios":  [
+                           "Fola",
+                           "Formar parte de una empresa líder en su rubro",
+                           "Descuentos corporativos en pasajes y entretenimiento",
+                           "Descuentos en convenios educativos",
+                           "Si deseas formar parte de la FAMILIA CRUZ DEL SUR, ¡POSTULA CON NOSOTROS"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-servicios-compartidos-transportes-cruz-del-sur-s.a.c.-1118634703.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-servicios-compartidos-transportes-cruz-del-sur-s.a.c.-1118634703.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eTransportes Cruz del Sur\u003c/strong\u003e, empresa perteneciente al Grupo Ibárcena, líder en el mercado peruano con 65 años de experiencia, se encuentra en la búsqueda de nuevos talentos para ocupar el puesto de: Practicante Profesional de Servicios Compartidos\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o Egresado en las carreras de Ingeniería Industrial, Administración de Empresas o afines\u003c/li\u003e \u003cli\u003eHaber realizado prácticas preprofesionales en empresas de servicios en los giros de transporte, retail. financiero, industrial o afines\u003c/li\u003e \u003cli\u003eMs Office (Excel y Powerpoint) a nivel avanzado\u003c/li\u003e \u003cli\u003eConocimientos en SQL, Pyton y Power BI \u003cstrong\u003e(deseable)\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de manera presencial en nuestro terminal de Javier Prado\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRecopilación de Datos: Recolectar y analizar datos relevantes, como métricas de desempeño, tendencias del mercado y datos operativos, para apoyar el proceso de toma de decisiones.\u003c/li\u003e \u003cli\u003eApoyo en la Elaboración de Planes: Colaborar en la elaboración y revisión de planes a corto y largo plazo para en Centro de Servicios Compartidos, considerando objetivos, metas y recursos disponibles.\u003c/li\u003e \u003cli\u003ePlanificación de Recursos: Asistir en la planificación de recursos humanos, financieros y tecnológicos para garantizar que el Centro de Servicios Compartidos cuente con los recursos necesarios para operar de manera eficiente.\u003c/li\u003e \u003cli\u003eDesarrollo de Indicadores Clave de Rendimiento (KPI): Contribuir a la definición y seguimiento de KPI relevantes que evalúen el desempeño y el logro de objetivos del Centro de Servicios Compartidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eConvenio de Prácticas\u003c/li\u003e \u003cli\u003eBeneficios Fola\u003c/li\u003e \u003cli\u003eFormar parte de una empresa líder en su rubro.\u003c/li\u003e \u003cli\u003eDescuentos corporativos en pasajes y entretenimiento.\u003c/li\u003e \u003cli\u003eDescuentos en convenios educativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSi deseas formar parte de la FAMILIA CRUZ DEL SUR, ¡POSTULA CON NOSOTROS\u003c/strong\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 65 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634700",
+        "clave":  "id:1118634700",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-oficina-tecnica-multifamiliar-asia-waki-runa-sac-1118634700.html",
+                       "capturadoEn":  "2026-11-16T20:28:57+00:00"
+                   },
+        "titulo":  "INGENIERO JUNIOR DE OFICINA TECNICA - MULTIFAMILIAR ASIA",
+        "empresa":  "Waki Runa SAC",
+        "ubicacion":  "Lima - Asia",
+        "ciudad":  "Asia",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro cliente, importante empresa del rubro construcción, nos encontramos en búsqueda del mejor talento para asumir la posición de INGENIERO JUNIOR DE OFICINA TECNICA , para proyectos de edificaciones multifamiliares en ASIA FUNCIONES Elaborar el Presupuesto Meta del proyecto en coordinación con el Residente de Obra. Realizar seguimiento y control del Presupuesto Meta, comparando los costos reales y pendientes con el presupuesto contractual. Gestionar órdenes de cambio, adicionales y deductivos, evaluando su impacto en costos y plazos. Elaborar cuadros comparativos de adquisiciones para contribuir a la toma de decisiones. Apoyar en la elaboración de expedientes mensuales de valorización para su presentación al cliente. Brindar soporte en la elaboración y análisis del Resultado Operativo de la obra. Elaborar contratos de subcontratistas y gestionar la documentación y firmas correspondientes. Participar en el proceso de liquidación y cierre económico del proyecto. Asegurar el cumplimiento de los procedimientos internos y estándares de Calidad y SSOMA. REQUISITOS Profesional de la carrera de INGENIERIA CIVIL. Experiencia mínima de 2 AÑOS en posiciones similares dentro del sector construcción. • Deseable experiencia en proyectos de EDIFICACIONES MULTIFAMILIARES. INDISPENSABLE manejo de S10 a nivel intermedio. INDISPENSABLEconocimiento avanzado en lectura e interpretación de contratos de obra y subcontratos. Deseable manejo de Microsoft Office a nivel intermedio. Deseable manejo de MS Project y AutoCAD a nivel básico. Deseables conocimientos de Last Planner y programación diaria de obra. Experiencia o conocimientos en presupuestos, control de costos, valorizaciones y adicionales de obra. Capacidad de análisis, organización, proactividad, comunicación efectiva y trabajo en equipo. Disponibilidad para realizar trabajo en obra. . BENEFICIOS Ingreso a planilla con todos los beneficios de ley. EPS cubierto al 85%",
+        "requisitos":  [
+                           "Profesional de la carrera de INGENIERIA CIVIL",
+                           "Experiencia mínima de 2 AÑOS en posiciones similares dentro del sector construcción. • Deseable experiencia en proyectos de EDIFICACIONES MULTIFAMILIARES",
+                           "INDISPENSABLE manejo de S10 a nivel intermedio",
+                           "INDISPENSABLEconocimiento avanzado en lectura e interpretación de contratos de obra y subcontratos",
+                           "Deseable manejo de Microsoft Office a nivel intermedio",
+                           "Deseable manejo de MS Project y AutoCAD a nivel básico",
+                           "Deseables conocimientos de Last Planner y programación diaria de obra",
+                           "Experiencia o conocimientos en presupuestos, control de costos, valorizaciones y adicionales de obra",
+                           "Capacidad de análisis, organización, proactividad, comunicación efectiva y trabajo en equipo",
+                           "Disponibilidad para realizar trabajo en obra"
+                       ],
+        "funciones":  [
+                          "Elaborar el Presupuesto Meta del proyecto en coordinación con el Residente de Obra",
+                          "Realizar seguimiento y control del Presupuesto Meta, comparando los costos reales y pendientes con el presupuesto contractual",
+                          "Gestionar órdenes de cambio, adicionales y deductivos, evaluando su impacto en costos y plazos",
+                          "Elaborar cuadros comparativos de adquisiciones para contribuir a la toma de decisiones",
+                          "Apoyar en la elaboración de expedientes mensuales de valorización para su presentación al cliente",
+                          "Brindar soporte en la elaboración y análisis del Resultado Operativo de la obra",
+                          "Elaborar contratos de subcontratistas y gestionar la documentación y firmas correspondientes",
+                          "Participar en el proceso de liquidación y cierre económico del proyecto",
+                          "Asegurar el cumplimiento de los procedimientos internos y estándares de Calidad y SSOMA"
+                      ],
+        "beneficios":  [
+                           "de ley",
+                           "EPS cubierto al 85%"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-oficina-tecnica-multifamiliar-asia-waki-runa-sac-1118634700.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-oficina-tecnica-multifamiliar-asia-waki-runa-sac-1118634700.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa del rubro construcción, nos encontramos en búsqueda del mejor talento para asumir la posición de \u003cstrong\u003eINGENIERO JUNIOR DE OFICINA TECNICA\u003c/strong\u003e, para proyectos de edificaciones multifamiliares en \u003cstrong\u003eASIA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFUNCIONES\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar el Presupuesto Meta del proyecto en coordinación con el Residente de Obra.\u003c/li\u003e \u003cli\u003eRealizar seguimiento y control del Presupuesto Meta, comparando los costos reales y pendientes con el presupuesto contractual.\u003c/li\u003e \u003cli\u003eGestionar órdenes de cambio, adicionales y deductivos, evaluando su impacto en costos y plazos.\u003c/li\u003e \u003cli\u003eElaborar cuadros comparativos de adquisiciones para contribuir a la toma de decisiones.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración de expedientes mensuales de valorización para su presentación al cliente.\u003c/li\u003e \u003cli\u003eBrindar soporte en la elaboración y análisis del Resultado Operativo de la obra.\u003c/li\u003e \u003cli\u003eElaborar contratos de subcontratistas y gestionar la documentación y firmas correspondientes.\u003c/li\u003e \u003cli\u003eParticipar en el proceso de liquidación y cierre económico del proyecto.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los procedimientos internos y estándares de Calidad y SSOMA.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eREQUISITOS\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional de la carrera de INGENIERIA CIVIL.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 AÑOS en posiciones similares dentro del sector construcción. • Deseable experiencia en proyectos de EDIFICACIONES MULTIFAMILIARES.\u003c/li\u003e \u003cli\u003eINDISPENSABLE manejo de S10 a nivel intermedio.\u003c/li\u003e \u003cli\u003eINDISPENSABLEconocimiento avanzado en lectura e interpretación de contratos de obra y subcontratos.\u003c/li\u003e \u003cli\u003eDeseable manejo de Microsoft Office a nivel intermedio.\u003c/li\u003e \u003cli\u003eDeseable manejo de MS Project y AutoCAD a nivel básico.\u003c/li\u003e \u003cli\u003eDeseables conocimientos de Last Planner y programación diaria de obra.\u003c/li\u003e \u003cli\u003eExperiencia o conocimientos en presupuestos, control de costos, valorizaciones y adicionales de obra.\u003c/li\u003e \u003cli\u003eCapacidad de análisis, organización, proactividad, comunicación efectiva y trabajo en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar trabajo en obra.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e.\u003cu\u003e\u003cstrong\u003eBENEFICIOS\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eEPS cubierto al 85%\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634699",
+        "clave":  "id:1118634699",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-produccion-multifamiliar-asia-waki-runa-sac-1118634699.html",
+                       "capturadoEn":  "2026-11-16T20:28:59+00:00"
+                   },
+        "titulo":  "INGENIERO JUNIOR DE PRODUCCION - MULTIFAMILIAR ASIA",
+        "empresa":  "Waki Runa SAC",
+        "ubicacion":  "Lima - Asia",
+        "ciudad":  "Asia",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "\u0026#x1f4cd;Proyecto MULTIFAMILIAR ASIA Por encargo de nuestro cliente, empresa líder del rubro de construcción, nos encontramos en búsqueda de un Ingeniero Junior de Produccion para un proyecto Multifamiliar ¿Cuáles serán tus retos? Apoyar en la elaboración y coordinación del presupuesto meta del proyecto, asegurando una adecuada definición de costos y plazos. Evaluar el impacto de órdenes de cambio, adicionales y deductivos, considerando su incidencia en costos y cronograma. Realizar análisis comparativos de adquisiciones para contribuir a una adecuada toma de decisiones. Apoyar en la elaboración del expediente de valorización mensual y en el seguimiento del avance de obra. Brindar soporte en la preparación y revisión del resultado operativo del proyecto. Gestionar y dar soporte en la elaboración de contratos con subcontratistas. Participar en el proceso de liquidación final del proyecto y cierre de costos asociados. Velar por el cumplimiento de los estándares de Calidad y SSOMA establecidos en obra. ¿Qué buscamos de ti? Profesional de Ingeniería Civil. Experiencia mínima de 2 años en puestos similares. Experiencia o conocimientos aplicados a proyectos de edificación, de preferencia multifamiliares. Manejo intermedio de Software S10. Lectura avanzada de contratos de obra y subcontratos. Manejo básico de Last Planner y programación diaria. Manejo básico de MS Project. Manejo intermedio de Microsoft Office. Manejo básico de AutoCAD. Beneficios Planilla Completa con beneficios acorde a ley Excelente lugar y condiciones de trabajo",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "acorde a ley",
+                           "Excelente lugar y"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-produccion-multifamiliar-asia-waki-runa-sac-1118634699.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-produccion-multifamiliar-asia-waki-runa-sac-1118634699.html",
+        "descripcion_html":  "\u003cp\u003e\u0026#x1f4cd;Proyecto \u003cstrong\u003eMULTIFAMILIAR ASIA\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePor encargo de nuestro cliente, empresa líder del rubro de construcción, nos encontramos en búsqueda de un Ingeniero Junior de Produccion para un proyecto Multifamiliar\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus retos?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en la elaboración y coordinación del presupuesto meta del proyecto, asegurando una adecuada definición de costos y plazos.\u003c/li\u003e \u003cli\u003eEvaluar el impacto de órdenes de cambio, adicionales y deductivos, considerando su incidencia en costos y cronograma.\u003c/li\u003e \u003cli\u003eRealizar análisis comparativos de adquisiciones para contribuir a una adecuada toma de decisiones.\u003c/li\u003e \u003cli\u003eApoyar en la elaboración del expediente de valorización mensual y en el seguimiento del avance de obra.\u003c/li\u003e \u003cli\u003eBrindar soporte en la preparación y revisión del resultado operativo del proyecto.\u003c/li\u003e \u003cli\u003eGestionar y dar soporte en la elaboración de contratos con subcontratistas.\u003c/li\u003e \u003cli\u003eParticipar en el proceso de liquidación final del proyecto y cierre de costos asociados.\u003c/li\u003e \u003cli\u003eVelar por el cumplimiento de los estándares de Calidad y SSOMA establecidos en obra.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional de Ingeniería Civil.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años en puestos similares.\u003c/li\u003e \u003cli\u003eExperiencia o conocimientos aplicados a proyectos de edificación, de preferencia multifamiliares.\u003c/li\u003e \u003cli\u003eManejo intermedio de Software S10.\u003c/li\u003e \u003cli\u003eLectura avanzada de contratos de obra y subcontratos.\u003c/li\u003e \u003cli\u003eManejo básico de Last Planner y programación diaria.\u003c/li\u003e \u003cli\u003eManejo básico de MS Project.\u003c/li\u003e \u003cli\u003eManejo intermedio de Microsoft Office.\u003c/li\u003e \u003cli\u003eManejo básico de AutoCAD.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla Completa con beneficios acorde a ley\u003c/li\u003e \u003cli\u003eExcelente lugar y condiciones de trabajo\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634698",
+        "clave":  "id:1118634698",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/supervisor-de-fenologia-uva-sector-agroindustrial-ica-ksr-global-1118634698.html",
+                       "capturadoEn":  "2026-11-16T20:29:00+00:00"
+                   },
+        "titulo":  "Supervisor de Fenología (Uva) - Sector Agroindustrial, Ica",
+        "empresa":  "KSR Global",
+        "ubicacion":  "Ica - Santiago",
+        "ciudad":  "Santiago",
+        "region":  "Ica",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Por encargo de nuestro cliente, una importante empresa del sector agroindustrial especializada en la producción, procesamiento y exportación de frutas frescas de alta calidad, con presencia internacional y enfoque en innovación, sostenibilidad y excelencia operativa, en KSR Talent nos encontramos en búsqueda de un/a SUPERVISOR/A DE FENOLOGÍA, con experiencia en cultivo uva, para su sede Ica. Funciones: Supervisar y guiar al equipo de evaluadores de fenología, distribuyendo actividades y acompañando la ejecución en campo, de acuerdo con la planificación diaria establecida, para asegurar el cumplimiento de tiempos, metodologías y cobertura de evaluación. Controlar y validar la calidad de las evaluaciones fenológicas realizadas, revisando criterios, mediciones y registros, bajo los estándares técnicos definidos, para garantizar información precisa y consistente del desarrollo del cultivo. Capacitar y retroalimentar al personal a su cargo, transmitiendo criterios técnicos y corrigiendo desviaciones observadas en campo, conforme a los procedimientos del área, para fortalecer competencias y homogeneizar la aplicación de las metodologías de evaluación. Monitorear y evaluar el estado fenológico de los cultivos, verificando brotación, floración, cuajado y maduración, dentro del marco del plan de seguimiento agronómico, para detectar oportunamente alertas y sustentar ajustes en el manejo productivo. Cumplir todos los controles de seguridad indicados en el IPER-C de su puesto y, en caso de tener personal a cargo, supervisar y asegurar que se cumplan todos los controles de seguridad indicados en el IPER-C de sus puestos. Requisitos: Profesional Técnico o Bachiller en Ingeniería Agrónoma. Deseable especialización en Fenología, Producción Agrícola o afines. Experiencia mínima de 2 años como Trainee o Supervisor de Fenología. Manejo de Microsoft Excel a nivel intermedio. Residencia en Ica y/o disponibilidad para cambio de residencia. Beneficios: Contrato en planilla Régimen General con todos los beneficios de ley, desde el primer día. EPS + Seguro Oncológico cubiertos al 100%. Capacitaciones. Descuentos corporativos. Alimentación subsidiada parcialmente y transporte ida/retorno en Ica.",
+        "requisitos":  [
+                           "Profesional Técnico o Bachiller en Ingeniería Agrónoma",
+                           "Deseable especialización en Fenología, Producción Agrícola o afines",
+                           "Experiencia mínima de 2 años como Trainee o Supervisor de Fenología",
+                           "Manejo de Microsoft Excel a nivel intermedio",
+                           "Residencia en Ica y/o disponibilidad para cambio de residencia"
+                       ],
+        "funciones":  [
+                          "Supervisar y guiar al equipo de evaluadores de fenología, distribuyendo actividades y acompañando la ejecución en campo, de acuerdo con la planificación diaria establecida, para asegurar el cumplimiento de tiempos, metodologías y cobertura de evaluación",
+                          "Controlar y validar la calidad de las evaluaciones fenológicas realizadas, revisando criterios, mediciones y registros, bajo los estándares técnicos definidos, para garantizar información precisa y consistente del desarrollo del cultivo",
+                          "Capacitar y retroalimentar al personal a su cargo, transmitiendo criterios técnicos y corrigiendo desviaciones observadas en campo, conforme a los procedimientos del área, para fortalecer competencias y homogeneizar la aplicación de las metodologías de evaluación",
+                          "Monitorear y evaluar el estado fenológico de los cultivos, verificando brotación, floración, cuajado y maduración, dentro del marco del plan de seguimiento agronómico, para detectar oportunamente alertas y sustentar ajustes en el manejo productivo",
+                          "Cumplir todos los controles de seguridad indicados en el IPER-C de su puesto y, en caso de tener personal a cargo, supervisar y asegurar que se cumplan todos los controles de seguridad indicados en el IPER-C de sus puestos"
+                      ],
+        "beneficios":  [
+                           "de ley, desde el primer día",
+                           "EPS + Seguro Oncológico cubiertos al 100%",
+                           "Capacitaciones",
+                           "Descuentos corporativos",
+                           "Alimentación subsidiada parcialmente y transporte ida/retorno en Ica"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/supervisor-de-fenologia-uva-sector-agroindustrial-ica-ksr-global-1118634698.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/supervisor-de-fenologia-uva-sector-agroindustrial-ica-ksr-global-1118634698.html",
+        "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, una importante empresa del sector agroindustrial especializada en la producción, procesamiento y exportación de frutas frescas de alta calidad, con presencia internacional y enfoque en innovación, sostenibilidad y excelencia operativa, en KSR Talent nos encontramos en búsqueda de un/a SUPERVISOR/A DE FENOLOGÍA, con experiencia en cultivo uva, para su sede Ica.\u003c/p\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003col\u003e \u003cli\u003eSupervisar y guiar al equipo de evaluadores de fenología, distribuyendo actividades y acompañando la ejecución en campo, de acuerdo con la planificación diaria establecida, para asegurar el cumplimiento de tiempos, metodologías y cobertura de evaluación.\u003c/li\u003e \u003cli\u003eControlar y validar la calidad de las evaluaciones fenológicas realizadas, revisando criterios, mediciones y registros, bajo los estándares técnicos definidos, para garantizar información precisa y consistente del desarrollo del cultivo.\u003c/li\u003e \u003cli\u003eCapacitar y retroalimentar al personal a su cargo, transmitiendo criterios técnicos y corrigiendo desviaciones observadas en campo, conforme a los procedimientos del área, para fortalecer competencias y homogeneizar la aplicación de las metodologías de evaluación.\u003c/li\u003e \u003cli\u003eMonitorear y evaluar el estado fenológico de los cultivos, verificando brotación, floración, cuajado y maduración, dentro del marco del plan de seguimiento agronómico, para detectar oportunamente alertas y sustentar ajustes en el manejo productivo.\u003c/li\u003e \u003cli\u003eCumplir todos los controles de seguridad indicados en el IPER-C de su puesto y, en caso de tener personal a cargo, supervisar y asegurar que se cumplan todos los controles de seguridad indicados en el IPER-C de sus puestos.\u003c/li\u003e\u003c/ol\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional Técnico o Bachiller en Ingeniería Agrónoma.\u003c/li\u003e \u003cli\u003eDeseable especialización en Fenología, Producción Agrícola o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años como Trainee o Supervisor de Fenología.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Excel a nivel intermedio.\u003c/li\u003e \u003cli\u003eResidencia en Ica y/o disponibilidad para cambio de residencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eContrato en planilla Régimen General con todos los beneficios de ley, desde el primer día.\u003c/li\u003e \u003cli\u003eEPS + Seguro Oncológico cubiertos al 100%.\u003c/li\u003e \u003cli\u003eCapacitaciones.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e \u003cli\u003eAlimentación subsidiada parcialmente y transporte ida/retorno en Ica.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634687",
+        "clave":  "id:1118634687",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-engineer-gestion-hibrida-sanna-1118634687.html",
+                       "capturadoEn":  "2026-11-16T20:29:01+00:00"
+                   },
+        "titulo":  "Data Engineer / Gestión Híbrida",
+        "empresa":  "SANNA",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Sé nuestro(a) próximo(a) DATA ENGINEER en SANNA Salud! En SANNA Salud, la red privada de salud líder en el Perú, ofrecemos una experiencia de salud integral, donde la excelencia médica se une con la sensibilidad humana en nuestras clínicas y centros a nivel nacional. Hoy, buscamos talento como tú que quiera ponerle el corazón en todo lo que hacemos con vocación, compromiso y pasión por cuidar. Personas que sueñen con un trabajo que tenga un impacto real y humano, y que quieran ser parte de un propósito: “Cuidar la salud de las familias del Perú, porque la salud no puede esperar.” Si estás listo(a) para marcar la diferencia, crecer profesionalmente y ser parte de una organización que valora a las personas, ¡esta es tu oportunidad! ¿Qué buscamos en nuestro(a) DATA ENGINEER? Si tu perfil se alinea con lo siguiente, estás un paso más cerca de poder ser parte de esta experiencia: Universitario en carreras afines al puesto y funciones (deseable contar con especialización o posgrado). Conocimiento del negocio de salud (mínima de un año) 1 a 2 años de experiencia en generación de reportes y tableros de indicadores Manejo y uso en: Modelamiento de base de datos SQL (Intermedio), Python /BI (intermedio Avanzado), Procesos ETL, Data Warehouse, Azure + Databricks, Delta, git Interés por aprendizaje continuo en tecnologías Cloud, Data Engineering Moderno y Arquitecturas Lakehouse. Tus Desafíos Diarios Incluirán: Garantizar que la compañía disponga de información clínica y operativa confiable, oportuna y trazable del DWH de prestaciones, mediante el diseño, construcción, mantenimiento y optimización de soluciones de datos que faciliten la toma de decisiones, la elaboración de reportes y el análisis corporativo. Desarrollar y mantener procesos de integración de datos para el Data Warehouse corporativo, participando progresivamente en iniciativas de modernización hacia arquitecturas Lakehouse y plataformas cloud. Documentación de indicadores para la organización. Diseño, construcción y mantenimiento de los tableros de reporte de información. Validar la calidad de información reportada por las prestaciones de la red. Reuniones con los usuarios según se requiera para la estandarización de las definiciones de indicadores y el entendimiento de sus procesos. Realizar reportes en sql a demanda. Realizar las actividades solicitadas por su inmediato superior. ¿Qué te ofrecemos en SANNA? En SANNA, valoramos tu bienestar y tu crecimiento profesional. Por eso, te brindamos: Salario competitivo en planilla, con todos los beneficios de ley desde el primer día. Acceso a “Mi Beneficio Salud”, con costos preferenciales en servicios médicos para ti y tu familia en toda la Red SANNA. ¡Tu día libre por cumpleaños para que lo celebres como se debe! Acceso a nuestra línea psicológica gratuita para tu bienestar emocional. Beneficios corporativos exclusivos por ser parte del prestigioso Grupo Credicorp. Tendrás la oportunidad de adelantar tu salario para las situaciones que requieras. En Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "(deseable contar con especialización o posgrado)",
+                          "Conocimiento del negocio de salud (mínima de un año)",
+                          "1 a 2 años de experiencia en generación de reportes y tableros de indicadores",
+                          "Manejo y uso en: Modelamiento de base de datos SQL (Intermedio), Python /BI (intermedio Avanzado), Procesos ETL, Data Warehouse, Azure + Databricks, Delta, git Interés por aprendizaje continuo en tecnologías Cloud, Data Engineering Moderno y Arquitecturas Lakehouse",
+                          "Tus Desafíos Diarios Incluirán",
+                          "Garantizar que la compañía disponga de información clínica y operativa confiable, oportuna y trazable del DWH de prestaciones, mediante el diseño, construcción, mantenimiento y optimización de soluciones de datos que faciliten la toma de decisiones, la elaboración de reportes y el análisis corporativo",
+                          "Desarrollar y mantener procesos de integración de datos para el Data Warehouse corporativo, participando progresivamente en iniciativas de modernización hacia arquitecturas Lakehouse y plataformas cloud",
+                          "Documentación de indicadores para la organización. Diseño, construcción y mantenimiento de los tableros de reporte de información",
+                          "Validar la calidad de información reportada por las prestaciones de la red",
+                          "Reuniones con los usuarios según se requiera para la estandarización de las definiciones de indicadores y el entendimiento de sus procesos",
+                          "Realizar reportes en sql a demanda. Realizar las actividades solicitadas por su inmediato superior",
+                          "¿Qué te"
+                      ],
+        "beneficios":  [
+                           "corporativos exclusivos por ser parte del prestigioso Grupo Credicorp",
+                           "Tendrás la oportunidad de adelantar tu salario para las situaciones que requieras",
+                           "En Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/data-engineer-gestion-hibrida-sanna-1118634687.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-engineer-gestion-hibrida-sanna-1118634687.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Sé nuestro(a) próximo(a) DATA ENGINEER en SANNA Salud! \u003cbr /\u003e\u003c/strong\u003e\u003cbr /\u003eEn SANNA Salud, la red privada de salud líder en el Perú, ofrecemos una experiencia de salud integral, donde la excelencia médica se une con la sensibilidad humana en nuestras clínicas y centros a nivel nacional. \u003cbr /\u003e\u003cbr /\u003eHoy, buscamos talento como tú que quiera ponerle el corazón en todo lo que hacemos con vocación, compromiso y pasión por cuidar. Personas que sueñen con un trabajo que tenga un impacto real y humano, y que quieran ser parte de un propósito: \u003cbr /\u003e\u003cbr /\u003e“Cuidar la salud de las familias del Perú, porque la salud no puede esperar.” \u003cbr /\u003e\u003cbr /\u003eSi estás listo(a) para marcar la diferencia, crecer profesionalmente y ser parte de una organización que valora a las personas, ¡esta es tu oportunidad! \u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003e¿Qué buscamos en nuestro(a) DATA ENGINEER? \u003cbr /\u003e\u003c/strong\u003e\u003cbr /\u003eSi tu perfil se alinea con lo siguiente, estás un paso más cerca de poder ser parte de esta experiencia: \u003cbr /\u003e\u003cbr /\u003eUniversitario en carreras afines al puesto y funciones (deseable contar con especialización o posgrado). \u003c/p\u003e\u003cp\u003eConocimiento del negocio de salud (mínima de un año) \u003c/p\u003e\u003cp\u003e1 a 2 años de experiencia en generación de reportes y tableros de indicadores \u003c/p\u003e\u003cp\u003eManejo y uso en: Modelamiento de base de datos SQL (Intermedio), Python /BI (intermedio Avanzado), Procesos ETL, Data Warehouse, Azure + Databricks, Delta, git Interés por aprendizaje continuo en tecnologías Cloud, Data Engineering Moderno y Arquitecturas Lakehouse. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTus Desafíos Diarios Incluirán: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eGarantizar que la compañía disponga de información clínica y operativa confiable, oportuna y trazable del DWH de prestaciones, mediante el diseño, construcción, mantenimiento y optimización de soluciones de datos que faciliten la toma de decisiones, la elaboración de reportes y el análisis corporativo. \u003c/p\u003e\u003cp\u003eDesarrollar y mantener procesos de integración de datos para el Data Warehouse corporativo, participando progresivamente en iniciativas de modernización hacia arquitecturas Lakehouse y plataformas cloud. \u003c/p\u003e\u003cp\u003eDocumentación de indicadores para la organización. Diseño, construcción y mantenimiento de los tableros de reporte de información. \u003c/p\u003e\u003cp\u003eValidar la calidad de información reportada por las prestaciones de la red. \u003c/p\u003e\u003cp\u003eReuniones con los usuarios según se requiera para la estandarización de las definiciones de indicadores y el entendimiento de sus procesos. \u003c/p\u003e\u003cp\u003eRealizar reportes en sql a demanda. Realizar las actividades solicitadas por su inmediato superior. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos en SANNA? \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn SANNA, valoramos tu bienestar y tu crecimiento profesional. Por eso, te brindamos: \u003c/p\u003e\u003cp\u003eSalario competitivo en planilla, con todos los beneficios de ley desde el primer día. Acceso a “Mi Beneficio Salud”, con costos preferenciales en servicios médicos para ti y tu familia en toda la Red SANNA. \u003c/p\u003e\u003cp\u003e¡Tu día libre por cumpleaños para que lo celebres como se debe! \u003c/p\u003e\u003cp\u003eAcceso a nuestra línea psicológica gratuita para tu bienestar emocional. \u003c/p\u003e\u003cp\u003eBeneficios corporativos exclusivos por ser parte del prestigioso Grupo Credicorp. \u003c/p\u003e\u003cp\u003eTendrás la oportunidad de adelantar tu salario para las situaciones que requieras. \u003c/p\u003e\u003cp\u003eEn Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634681",
+        "clave":  "id:1118634681",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/upn-practicante-profesional-de-desarrollo-academico-laureate-peru-1118634681.html",
+                       "capturadoEn":  "2026-11-16T20:29:02+00:00"
+                   },
+        "titulo":  "UPN: Practicante Profesional de Desarrollo Académico",
+        "empresa":  "Laureate Perú",
+        "ubicacion":  "Lima - Santiago de Surco",
+        "ciudad":  "Santiago de Surco",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "INTERN",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Únete a UPN! \u0026#x1f49b; En UPN contribuimos a la transformación del Perú a través de una educación inclusiva, accesible y de calidad que transforma vidas . Nos encontramos en la búsqueda de un(a) Practicante Profesional de Desarrollo Académico y Sostenibilidad que desee aportar al desarrollo de capacidades y generar un impacto positivo en nuestra comunidad educativa. MISIÓN Brindar soporte en el control, seguimiento y desarrollo de actividades alineadas a las actividades de la Dirección de Desarrollo Académico y Sostenibilidad, con la finalidad de facilitar la gestión, así como, elaborar reportes y estadísticas que permitan mejorar el análisis y la toma de decisiones. FORMACIÓN Egresado o Bachiller en Ing. Industrial, Ing, Empresarial, Administración, Ciencias sociales y afines. CONOCIMIENTOS Excel intermedio. Uso de herramientas de IA. EXPERIENCIA Deseable experiencia laboral en 6 meses como practicante en áreas similares.. FUNCIONES Apoyar en los procesos administrativos del área Brindar soporte en todos los procesos administrativos del área, manteniendo la información organizada, facilitándola proactivamente y gestionando con agilidad. Asistir y coordinar en las distintas actividades del área Realizar el seguimiento al cumplimiento de los calendarios, planes del área Elaborar reportes y presentaciones para las jefaturas Elaborar reportes con data relevante solicitada por el jefe inmediato, para facilitar el analisis y apoyar en el cumplimiento de los objetivos del área. Elaborar presentaciones con la información del área, organizandola de forma adecuada a fin de transmitir información a las distintas áreas. Brindar el soporte necesario a todas las actividades relaciondas al área. Asumir todas las asignaciones otorgadas por su jefe inmediato, con la finalidad de atender los requerimientos y necesidades identificadas Disponibilidad para trasladarse entre campus, principalmente UPN Ate y Breña. ( 2 veces por semana) Beneficios: Ingreso a Practicas 6 meses. Horario de trabajo: 40 horas semanales de Lunes a Viernes. Seguro Fola. Grato ambiente laboral. Crecimiento profesional. Subvención económica. Como institución, en UPN valoramos la diversidad y promovemos entornos inclusivos donde todas las personas tengan las mismas oportunidades de participación y desarrollo, sin distinción de origen, género, edad, discapacidad u otras condiciones. #LoQueNosUneNosHaceUno #OportunidadesLaborales",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Apoyar en los procesos administrativos del área",
+                          "Brindar soporte en todos los procesos administrativos del área, manteniendo la información organizada, facilitándola proactivamente y gestionando con agilidad",
+                          "Asistir y coordinar en las distintas actividades del área",
+                          "Realizar el seguimiento al cumplimiento de los calendarios, planes del área",
+                          "Elaborar reportes y presentaciones para las jefaturas",
+                          "Elaborar reportes con data relevante solicitada por el jefe inmediato, para facilitar el analisis y apoyar en el cumplimiento de los objetivos del área",
+                          "Elaborar presentaciones con la información del área, organizandola de forma adecuada a fin de transmitir información a las distintas áreas",
+                          "Brindar el soporte necesario a todas las actividades relaciondas al área",
+                          "Asumir todas las asignaciones otorgadas por su jefe inmediato, con la finalidad de atender los requerimientos y necesidades identificadas",
+                          "Disponibilidad para trasladarse entre campus, principalmente UPN Ate y Breña. ( 2 veces por semana)"
+                      ],
+        "beneficios":  [
+                           "Ingreso a Practicas 6 meses",
+                           "Horario de trabajo: 40 horas semanales de Lunes a Viernes",
+                           "Seguro Fola",
+                           "Grato ambiente laboral",
+                           "Crecimiento profesional",
+                           "Subvención económica",
+                           "Como institución, en UPN valoramos la diversidad y promovemos entornos inclusivos donde todas las personas tengan las mismas oportunidades de participación y desarrollo, sin distinción de origen, género, edad, discapacidad u otras"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/upn-practicante-profesional-de-desarrollo-academico-laureate-peru-1118634681.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/upn-practicante-profesional-de-desarrollo-academico-laureate-peru-1118634681.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eÚnete a UPN! \u0026#x1f49b;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eUPN\u003c/strong\u003e contribuimos a la transformación del Perú a través de una \u003cstrong\u003eeducación inclusiva, accesible y de calidad que transforma vidas\u003c/strong\u003e.\u003c/p\u003e\u003cp\u003eNos encontramos en la búsqueda de un(a) \u003cstrong\u003ePracticante Profesional de Desarrollo Académico y Sostenibilidad\u003c/strong\u003e que desee aportar al desarrollo de capacidades y generar un impacto positivo en nuestra comunidad educativa.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMISIÓN\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBrindar soporte en el control, seguimiento y desarrollo de actividades alineadas a las actividades de la Dirección de Desarrollo Académico y Sostenibilidad, con la finalidad de facilitar la gestión, así como, elaborar reportes y estadísticas que permitan mejorar el análisis y la toma de decisiones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFORMACIÓN\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado o Bachiller en Ing. Industrial, Ing, Empresarial, Administración, Ciencias sociales y afines.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCONOCIMIENTOS\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExcel intermedio.\u003c/li\u003e \u003cli\u003eUso de herramientas de IA.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eEXPERIENCIA\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDeseable experiencia laboral en 6 meses como practicante en áreas similares..\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eApoyar en los procesos administrativos del área\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte en todos los procesos administrativos del área, manteniendo la información organizada, facilitándola proactivamente y gestionando con agilidad.\u003c/li\u003e \u003cli\u003eAsistir y coordinar en las distintas actividades del área\u003c/li\u003e \u003cli\u003eRealizar el seguimiento al cumplimiento de los calendarios, planes del área\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eElaborar reportes y presentaciones para las jefaturas\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar reportes con data relevante solicitada por el jefe inmediato, para facilitar el analisis y apoyar en el cumplimiento de los objetivos del área.\u003c/li\u003e \u003cli\u003eElaborar presentaciones con la información del área, organizandola de forma adecuada a fin de transmitir información a las distintas áreas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBrindar el soporte necesario a todas las actividades relaciondas al área.\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsumir todas las asignaciones otorgadas por su jefe inmediato, con la finalidad de atender los requerimientos y necesidades identificadas\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eDisponibilidad para trasladarse entre campus, principalmente UPN Ate y Breña. ( 2 veces por semana)\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a Practicas 6 meses.\u003c/li\u003e \u003cli\u003eHorario de trabajo: 40 horas semanales de Lunes a Viernes.\u003c/li\u003e \u003cli\u003eSeguro Fola.\u003c/li\u003e \u003cli\u003eGrato ambiente laboral.\u003c/li\u003e \u003cli\u003eCrecimiento profesional.\u003c/li\u003e \u003cli\u003eSubvención económica.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eComo institución, en UPN valoramos la diversidad y promovemos entornos inclusivos donde todas las personas tengan las mismas oportunidades de participación y desarrollo, sin distinción de origen, género, edad, discapacidad u otras condiciones.\u003c/p\u003e\u003cp\u003e#LoQueNosUneNosHaceUno #OportunidadesLaborales\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634678",
+        "clave":  "id:1118634678",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-oficina-part-time-ebooks-de-medicina-1118634678.html",
+                       "capturadoEn":  "2026-11-16T20:29:03+00:00"
+                   },
+        "titulo":  "Ayudante de Oficina (Part Time)",
+        "empresa":  "ebooks de medicina",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  650,
+                        "max":  700,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 650 - S/ 700",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Ayudante de Oficina (Part Time) Resumen del Puesto Estamos en la búsqueda de un Ayudante de Oficina proactivo y organizado para unirse a nuestro equipo en modalidad de tiempo parcial. Esta es una excelente oportunidad para quienes buscan adquirir experiencia laboral en un entorno dinámico. Responsabilidades Principales Realizar el envío de mensajes publicitarios a clientes. Asistir en el manejo básico de herramientas informáticas. Registrar y organizar información de contactos interesados. Colaborar en tareas administrativas generales de la oficina. Requisitos del Puesto No se requiere experiencia laboral previa. Habilidades básicas en el manejo de dispositivos móviles y aplicaciones de mensajería. Se valorará la responsabilidad, puntualidad y compromiso. Disponibilidad para trabajar en horario de mañana. Disponibilidad inmediata para comenzar. Condiciones de la Vacante Modalidad de trabajo: Part Time. Horario: Turno mañana (a definir entre 8:00 y 1:00 Días de trabajo: Lunes a viernes. Compensación: Remuneración mensual fija.",
+        "requisitos":  [
+                           "del Puesto",
+                           "No se requiere experiencia laboral previa",
+                           "Habilidades básicas en el manejo de dispositivos móviles y aplicaciones de mensajería",
+                           "Se valorará la responsabilidad, puntualidad y compromiso",
+                           "Disponibilidad para trabajar en horario de mañana",
+                           "Disponibilidad inmediata para comenzar"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-oficina-part-time-ebooks-de-medicina-1118634678.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-oficina-part-time-ebooks-de-medicina-1118634678.html",
+        "descripcion_html":  "\u003cb\u003eAyudante de Oficina (Part Time)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAyudante de Oficina\u003c/b\u003e proactivo y organizado para unirse a nuestro equipo en modalidad de tiempo parcial. Esta es una excelente oportunidad para quienes buscan adquirir experiencia laboral en un entorno dinámico.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el envío de mensajes publicitarios a clientes.\u003c/li\u003e \u003cli\u003eAsistir en el manejo básico de herramientas informáticas.\u003c/li\u003e \u003cli\u003eRegistrar y organizar información de contactos interesados.\u003c/li\u003e \u003cli\u003eColaborar en tareas administrativas generales de la oficina.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos del Puesto\u003c/b\u003e \u003cul\u003e \u003cli\u003eNo se requiere experiencia laboral previa.\u003c/li\u003e \u003cli\u003eHabilidades básicas en el manejo de dispositivos móviles y aplicaciones de mensajería.\u003c/li\u003e \u003cli\u003eSe valorará la responsabilidad, puntualidad y compromiso.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario de mañana.\u003c/li\u003e \u003cli\u003eDisponibilidad inmediata para comenzar.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones de la Vacante\u003c/b\u003e \u003cul\u003e \u003cli\u003eModalidad de trabajo: Part Time.\u003c/li\u003e \u003cli\u003eHorario: Turno mañana (a definir entre 8:00 \u003cdiv style=\"display:inline-block;\"\u003e\u003cimg width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"\u003e\u003c/div\u003e y 1:00 \u003cdiv style=\"display:inline-block;\"\u003e\u003cimg width=\"130\" height=\"16\" src=\"https://imgbum.jobscdn.com/postulantes-assets/skins/core/postulantes-desktop/img/filter-blur-c738b77647a9e0513527dea6c49ea8b2.png\"\u003e\u003c/div\u003e\u003c/li\u003e \u003cli\u003eDías de trabajo: Lunes a viernes.\u003c/li\u003e \u003cli\u003eCompensación: Remuneración mensual fija.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Turno mañana (a definir entre 8:00 y 1:00",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634618",
+        "clave":  "id:1118634618",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/cap-116-auxiliar-de-produccion-audiovisual-editora-peru-diario-oficial-el-peruano-1118634618.html",
+                       "capturadoEn":  "2026-11-16T20:29:08+00:00"
+                   },
+        "titulo":  "CAP 116 AUXILIAR DE PRODUCCIÓN AUDIOVISUAL",
+        "empresa":  "EDITORA PERU - DIARIO OFICIAL EL PERUANO",
+        "ubicacion":  "Lima",
+        "ciudad":  "",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  2040,
+                        "max":  2041,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2,040 - S/ 2,041",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Editora Perú, requiere contratar un(a) profesional para cubrir la plaza CAP 116 denominada AUXILIAR DE PRODUCCIÓN AUDIOVISUAL , quien se desempeñará en nuestro Departamento de Producción Audiovisual de la Dirección de Medios Periodísticos, quien deberá evidenciar total cumplimiento a lo exigido en nuestro actual manual de perfil de puesto: Indispensable: Titulado de instituto superior (no menor a 3 años) o contar con estudios universitarios (no menor a 6 semestres) en Comunicación, Comunicación Audiovisual u otras afines para el desempeño del cargo. Adjuntar Evidencia(s) 03 años como mínimo de experiencia laboral general. Adjuntar Evidencia(s). 02 años mínimo en puestos de similares características y responsabilidades. Adjuntar Evidencia(s) Contar con conocimiento INDISPENSABLES en: Capacitaciones en producción audiovisual y/o periodismo digital o equivalentes y/o otras similares. Adjuntar Evidencia(s). Manejo de herramientas de Office a nivel usuario y herramientas digitales. ( Adjuntar Evidencia ; el postulante deberá acreditar este requisito con certificado o constancia o declaración jurada) Deseable: Inglés Intermedio. Importante considerar: El candidato elegido tendrá como función principal : “Brindar apoyo en el desarrollo y producción de contenidos audiovisuales para los servicios informativos de Andina Canal Online.” Asimismo, podrá suscribir un contrato a Plazo Indeterminado, bajo Ley 728, considerando ubicarse dentro de la siguiente escala salarial más beneficios adicionales (Vale de alimentos, EPS, uniforme y demás) Los candidatos interesados y que, de considerarse como ganador del proceso puedan suscribir contrato a plazo indeterminado, deberán efectuar su registro y determinar su participación en nuestro Sistema de Postulación en Línea (Único medio de postulación), al cual accederá mediante el siguiente enlace: convocatoria.editoraperu.com.pe/ConvocatoriasWeb La postulación y recepción de CV documentando se efectuará sólo entre los días sábado 28 de noviembre y el miércoles 02 de diciembre de 2026 (únicas fechas para presentar CV, adjuntado toda documentación que evidencie cumplimiento a las exigencias requeridas por perfil de puesto y considerar efectiva la postulación). Empresa Peruana de Servicios Editoriales SA – Editora Perú, es una empresa estatal de derecho privado, cuyos procesos de selección y contratación de personal, se desarrollan bajo procedimientos internos establecidos, a fin de garantizan la trasparencia e igual de oportunidades entre la totalidad de participantes. Asi también, es de vital importancia el que se adjunte debidamente firmado el “Formato de Declaración Jurada de Parentesco”, y otros de corresponder",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "adicionales (Vale de alimentos, EPS, uniforme y demás)",
+                           "Los candidatos interesados y que, de considerarse como ganador del proceso puedan suscribir contrato a plazo indeterminado, deberán efectuar su registro y determinar su participación en nuestro Sistema de Postulación en Línea (Único medio de postulación), al cual accederá mediante el siguiente enlace: convocatoria.editoraperu.com.pe/ConvocatoriasWeb",
+                           "La postulación y recepción de CV documentando se efectuará sólo entre los días sábado 28 de noviembre y el miércoles 02 de diciembre de 2026 (únicas fechas para presentar CV, adjuntado toda documentación que evidencie cumplimiento a las exigencias requeridas por"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/cap-116-auxiliar-de-produccion-audiovisual-editora-peru-diario-oficial-el-peruano-1118634618.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/cap-116-auxiliar-de-produccion-audiovisual-editora-peru-diario-oficial-el-peruano-1118634618.html",
+        "descripcion_html":  "\u003cp\u003eEditora Perú, requiere contratar un(a) profesional para cubrir la plaza \u003cstrong\u003eCAP 116\u003c/strong\u003e denominada \u003cstrong\u003eAUXILIAR DE PRODUCCIÓN AUDIOVISUAL\u003c/strong\u003e, quien se desempeñará en nuestro Departamento de Producción Audiovisual de la Dirección de Medios Periodísticos, quien deberá \u003cstrong\u003eevidenciar total cumplimiento\u003c/strong\u003e a lo exigido en nuestro actual manual de perfil de puesto:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIndispensable:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTitulado de instituto superior (no menor a 3 años) o contar con estudios universitarios (no menor a 6 semestres) en Comunicación, Comunicación Audiovisual u otras afines para el desempeño del cargo.\u003cstrong\u003e Adjuntar Evidencia(s)\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e03 años como mínimo de experiencia laboral general. \u003cstrong\u003eAdjuntar Evidencia(s).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e02 años mínimo en puestos de similares características y responsabilidades. \u003cstrong\u003eAdjuntar Evidencia(s)\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eContar con conocimiento INDISPENSABLES en:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCapacitaciones en producción audiovisual y/o periodismo digital o equivalentes y/o otras similares. \u003cstrong\u003eAdjuntar Evidencia(s).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de herramientas de Office a nivel usuario y herramientas digitales. (\u003cstrong\u003eAdjuntar Evidencia\u003c/strong\u003e; el postulante \u003cstrong\u003edeberá\u003c/strong\u003eacreditar este requisito con certificado o constancia o declaración jurada)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDeseable:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInglés Intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eImportante considerar:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEl candidato elegido tendrá como \u003cstrong\u003efunción principal\u003c/strong\u003e: \u003cem\u003e“Brindar apoyo en el desarrollo y producción de contenidos audiovisuales para los servicios informativos de Andina Canal Online.”\u003c/em\u003e\u003c/p\u003e\u003cp\u003eAsimismo, podrá suscribir un contrato a Plazo Indeterminado, bajo Ley 728, considerando ubicarse dentro de la siguiente escala salarial más beneficios adicionales (Vale de alimentos, EPS, uniforme y demás)\u003c/p\u003e\u003cp\u003eLos candidatos interesados y que, de considerarse como ganador del proceso puedan suscribir contrato a plazo indeterminado, deberán efectuar su registro y determinar su participación en nuestro Sistema de Postulación en Línea (Único medio de postulación), al cual accederá mediante el siguiente enlace: convocatoria.editoraperu.com.pe/ConvocatoriasWeb \u003c/p\u003e\u003cp\u003eLa postulación y recepción de CV documentando se efectuará sólo entre los días sábado 28 de noviembre y el miércoles 02 de diciembre de 2026 (únicas fechas para presentar CV, adjuntado toda documentación que evidencie cumplimiento a las exigencias requeridas por perfil de puesto y considerar efectiva la postulación). \u003c/p\u003e\u003cp\u003eEmpresa Peruana de Servicios Editoriales SA – Editora Perú, es una empresa estatal de derecho privado, cuyos procesos de selección y contratación de personal, se desarrollan bajo procedimientos internos establecidos, a fin de garantizan la trasparencia e igual de oportunidades entre la totalidad de participantes. \u003c/p\u003e\u003cp\u003eAsi también, es de vital importancia el que se adjunte debidamente firmado el “Formato de Declaración Jurada de Parentesco”, y otros de corresponder\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634583",
+        "clave":  "id:1118634583",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/mesero-a-con-apoyo-en-reparto-donde-rosita-1118634583.html",
+                       "capturadoEn":  "2026-11-16T20:29:09+00:00"
+                   },
+        "titulo":  "Mesero/a con Apoyo en Reparto",
+        "empresa":  "Donde Rosita",
+        "ubicacion":  "Lima - Surquillo",
+        "ciudad":  "Surquillo",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1300,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,230 - S/ 1,300",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Mesero/a con Apoyo en Reparto Resumen del Puesto Estamos en la búsqueda de un Mesero/a dinámico/a y con gran vocación de servicio, que además pueda brindar apoyo en tareas de reparto. Si disfrutas del trato con el cliente y te desenvuelves bien en un entorno de ritmo ágil, esta oportunidad es para ti. Responsabilidades Brindar una atención cálida y eficiente a los clientes, asegurando una experiencia positiva. Mantener la limpieza y el orden de las mesas y el área de servicio. Colaborar en tareas de reparto de productos en bicicleta a zonas cercanas. Asegurar la correcta presentación de los productos y el servicio. Trabajar en equipo para el buen funcionamiento general del local. Requisitos Ser mayor de 18 años. Demostrar una excelente actitud de servicio y proactividad. Contar con la habilidad para manejar bicicleta (indispensable). Capacidad para trabajar en equipo y bajo presión. Disponibilidad para trabajar a tiempo completo. Ofrecemos Remuneración competitiva con pagos puntuales. Horario de trabajo establecido de lunes a sábado. Almuerzo cubierto diariamente. Un ambiente laboral positivo y oportunidades de estabilidad.",
+        "requisitos":  [
+                           "Ser mayor de 18 años",
+                           "Demostrar una excelente actitud de servicio y proactividad",
+                           "Contar con la habilidad para manejar bicicleta (indispensable)",
+                           "Capacidad para trabajar en equipo y bajo presión",
+                           "Disponibilidad para trabajar a tiempo completo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/mesero-a-con-apoyo-en-reparto-donde-rosita-1118634583.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/mesero-a-con-apoyo-en-reparto-donde-rosita-1118634583.html",
+        "descripcion_html":  "\u003cb\u003eMesero/a con Apoyo en Reparto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eMesero/a\u003c/b\u003e dinámico/a y con gran vocación de servicio, que además pueda brindar apoyo en tareas de reparto. Si disfrutas del trato con el cliente y te desenvuelves bien en un entorno de ritmo ágil, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar una atención cálida y eficiente a los clientes, asegurando una experiencia positiva.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden de las mesas y el área de servicio.\u003c/li\u003e \u003cli\u003eColaborar en tareas de reparto de productos en bicicleta a zonas cercanas.\u003c/li\u003e \u003cli\u003eAsegurar la correcta presentación de los productos y el servicio.\u003c/li\u003e \u003cli\u003eTrabajar en equipo para el buen funcionamiento general del local.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eSer mayor de 18 años.\u003c/li\u003e \u003cli\u003eDemostrar una excelente actitud de servicio y proactividad.\u003c/li\u003e \u003cli\u003eContar con la habilidad para manejar bicicleta (indispensable).\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y bajo presión.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva con pagos puntuales.\u003c/li\u003e \u003cli\u003eHorario de trabajo establecido de lunes a sábado.\u003c/li\u003e \u003cli\u003eAlmuerzo cubierto diariamente.\u003c/li\u003e \u003cli\u003eUn ambiente laboral positivo y oportunidades de estabilidad.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "Full-time",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634526",
+        "clave":  "id:1118634526",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-donde-rosita-1118634526.html",
+                       "capturadoEn":  "2026-11-16T20:29:12+00:00"
+                   },
+        "titulo":  "Ayudante de Cocina",
+        "empresa":  "Donde Rosita",
+        "ubicacion":  "Lima - Surquillo",
+        "ciudad":  "Surquillo",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  1400,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,230 - S/ 1,400",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Ayudante de Cocina Resumen del Puesto Buscamos un Ayudante de Cocina con vocación, proactividad y muchas ganas de integrarse a un equipo de trabajo dinámico. Si te apasiona el mundo culinario y buscas un ambiente profesional donde puedas desarrollarte, esta oportunidad es para ti. Responsabilidades Colaborar en la preparación de ingredientes y mise en place. Asistir al cocinero en la preparación de diversos platillos, incluyendo especialidades criollas y de pescados/mariscos. Mantener la limpieza y el orden riguroso del área de trabajo y equipos. Asegurar la correcta presentación de los platos. Realizar el mantenimiento básico de los equipos de cocina. Requisitos Experiencia previa demostrable en cocina, especialmente en preparación de platos criollos y mariscos. Edad mínima de 20 años. Disponibilidad para obtener o contar con carnet de sanidad vigente. Se valorará formación técnica en gastronomía, pero la experiencia comprobada será un factor determinante. Capacidad para trabajar en equipo y seguir instrucciones. Actitud proactiva y orientada al detalle. Ofrecemos Un ambiente de trabajo colaborativo y profesional. Oportunidades de crecimiento y desarrollo. Horario de trabajo establecido. Beneficios laborales de acuerdo a ley.",
+        "requisitos":  [
+                           "Experiencia previa demostrable en cocina, especialmente en preparación de platos criollos y mariscos",
+                           "Edad mínima de 20 años",
+                           "Disponibilidad para obtener o contar con carnet de sanidad vigente",
+                           "Se valorará formación técnica en gastronomía, pero la experiencia comprobada será un factor determinante",
+                           "Capacidad para trabajar en equipo y seguir instrucciones",
+                           "Actitud proactiva y orientada al detalle"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "laborales de acuerdo a ley"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-donde-rosita-1118634526.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-donde-rosita-1118634526.html",
+        "descripcion_html":  "\u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAyudante de Cocina\u003c/b\u003e con vocación, proactividad y muchas ganas de integrarse a un equipo de trabajo dinámico. Si te apasiona el mundo culinario y buscas un ambiente profesional donde puedas desarrollarte, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación de ingredientes y mise en place.\u003c/li\u003e \u003cli\u003eAsistir al cocinero en la preparación de diversos platillos, incluyendo especialidades criollas y de pescados/mariscos.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden riguroso del área de trabajo y equipos.\u003c/li\u003e \u003cli\u003eAsegurar la correcta presentación de los platos.\u003c/li\u003e \u003cli\u003eRealizar el mantenimiento básico de los equipos de cocina.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa demostrable en cocina, especialmente en preparación de platos criollos y mariscos.\u003c/li\u003e \u003cli\u003eEdad mínima de 20 años.\u003c/li\u003e \u003cli\u003eDisponibilidad para obtener o contar con carnet de sanidad vigente.\u003c/li\u003e \u003cli\u003eSe valorará formación técnica en gastronomía, pero la experiencia comprobada será un factor determinante.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientada al detalle.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eUn ambiente de trabajo colaborativo y profesional.\u003c/li\u003e \u003cli\u003eOportunidades de crecimiento y desarrollo.\u003c/li\u003e \u003cli\u003eHorario de trabajo establecido.\u003c/li\u003e \u003cli\u003eBeneficios laborales de acuerdo a ley.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 20 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634525",
+        "clave":  "id:1118634525",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/cap-114-video-reportero-editora-peru-diario-oficial-el-peruano-1118634525.html",
+                       "capturadoEn":  "2026-11-16T20:29:16+00:00"
+                   },
+        "titulo":  "CAP 114 VIDEO REPORTERO",
+        "empresa":  "EDITORA PERU - DIARIO OFICIAL EL PERUANO",
+        "ubicacion":  "Lima",
+        "ciudad":  "",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "Indeterminado",
+        "salario":  {
+                        "min":  2040,
+                        "max":  2041,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 2,040 - S/ 2,041",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Editora Perú, requiere contratar un(a) profesional para cubrir la plaza CAP 114 denominada VIDEO REPORTERO , quien se desempeñará en nuestro Departamento de Producción Audiovisual de la Dirección de Medios Periodísticos, quien deberá evidenciar total cumplimiento a lo exigido en nuestro actual manual de perfil de puesto: Indispensable: Egresado de estudios universitarios en Ciencias de la Comunicación, Comunicación Audiovisual u otras afines para el desempeño del cargo. Adjuntar Evidencia(s) 03 años como mínimo de experiencia laboral general. Adjuntar Evidencia(s). 01 año mínimo en puestos de similares características y responsabilidades. Adjuntar Evidencia(s) Contar con conocimiento INDISPENSABLES en: Capacitaciones en producción audiovisual y/o periodismo digital y/o otras similares. Adjuntar Evidencia(s). Manejo de herramientas de Office a nivel usuario y herramientas digitales. ( Adjuntar Evidencia ; el postulante deberá acreditar este requisito con certificado o constancia o declaración jurada) Deseable: Inglés Intermedio. Importante considerar: El candidato elegido tendrá como función principal : “Filmar, elaborar y editar guiones del material de video para su difusión” Asimismo, podrá suscribir un contrato a Plazo Indeterminado, bajo Ley 728, considerando ubicarse dentro de la siguiente escala salarial más beneficios adicionales (Vale de alimentos, EPS, uniforme y demás) Los candidatos interesados y que, de considerarse como ganador del proceso puedan suscribir contrato a plazo indeterminado, deberán efectuar su registro y determinar su participación en nuestro Sistema de Postulación en Línea (Único medio de postulación), al cual accederá mediante el siguiente enlace: convocatoria.editoraperu.com.pe/ConvocatoriasWeb La postulación y recepción de CV documentando se efectuará sólo entre los días sábado 28 de noviembre y el miércoles 02 de diciembre de 2026 (únicas fechas para presentar CV, adjuntado toda documentación que evidencie cumplimiento a las exigencias requeridas por perfil de puesto y considerar efectiva la postulación). Empresa Peruana de Servicios Editoriales SA – Editora Perú, es una empresa estatal de derecho privado, cuyos procesos de selección y contratación de personal, se desarrollan bajo procedimientos internos establecidos, a fin de garantizan la trasparencia e igual de oportunidades entre la totalidad de participantes. Asi también, es de vital importancia el que se adjunte debidamente firmado el “Formato de Declaración Jurada de Parentesco”, y otros de corresponder.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "adicionales (Vale de alimentos, EPS, uniforme y demás)",
+                           "Los candidatos interesados y que, de considerarse como ganador del proceso puedan suscribir contrato a plazo indeterminado, deberán efectuar su registro y determinar su participación en nuestro Sistema de Postulación en Línea (Único medio de postulación), al cual accederá mediante el siguiente enlace: convocatoria.editoraperu.com.pe/ConvocatoriasWeb",
+                           "La postulación y recepción de CV documentando se efectuará sólo entre los días sábado 28 de noviembre y el miércoles 02 de diciembre de 2026 (únicas fechas para presentar CV, adjuntado toda documentación que evidencie cumplimiento a las exigencias requeridas por"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/cap-114-video-reportero-editora-peru-diario-oficial-el-peruano-1118634525.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/cap-114-video-reportero-editora-peru-diario-oficial-el-peruano-1118634525.html",
+        "descripcion_html":  "\u003cp\u003eEditora Perú, requiere contratar un(a) profesional para cubrir la plaza \u003cstrong\u003eCAP 114\u003c/strong\u003e denominada \u003cstrong\u003eVIDEO REPORTERO\u003c/strong\u003e, quien se desempeñará en nuestro Departamento de Producción Audiovisual de la Dirección de Medios Periodísticos, quien deberá \u003cstrong\u003eevidenciar total cumplimiento\u003c/strong\u003e a lo exigido en nuestro actual manual de perfil de puesto:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eIndispensable:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado de estudios universitarios en Ciencias de la Comunicación, Comunicación Audiovisual u otras afines para el desempeño del cargo.\u003cstrong\u003e Adjuntar Evidencia(s)\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e03 años como mínimo de experiencia laboral general. \u003cstrong\u003eAdjuntar Evidencia(s).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e01 año mínimo en puestos de similares características y responsabilidades. \u003cstrong\u003eAdjuntar Evidencia(s)\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eContar con conocimiento INDISPENSABLES en:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCapacitaciones en producción audiovisual y/o periodismo digital y/o otras similares. \u003cstrong\u003eAdjuntar Evidencia(s).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de herramientas de Office a nivel usuario y herramientas digitales. (\u003cstrong\u003eAdjuntar Evidencia\u003c/strong\u003e; el postulante \u003cstrong\u003edeberá\u003c/strong\u003eacreditar este requisito con certificado o constancia o declaración jurada)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDeseable:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eInglés Intermedio.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eImportante considerar:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEl candidato elegido tendrá como \u003cstrong\u003efunción principal\u003c/strong\u003e: \u003cem\u003e“Filmar, elaborar y editar guiones del material de video para su difusión”\u003c/em\u003e\u003c/p\u003e\u003cp\u003eAsimismo, podrá suscribir un contrato a Plazo Indeterminado, bajo Ley 728, considerando ubicarse dentro de la siguiente escala salarial más beneficios adicionales (Vale de alimentos, EPS, uniforme y demás) \u003c/p\u003e\u003cp\u003eLos candidatos interesados y que, de considerarse como ganador del proceso puedan suscribir contrato a plazo indeterminado, deberán efectuar su registro y determinar su participación en nuestro Sistema de Postulación en Línea (Único medio de postulación), al cual accederá mediante el siguiente enlace: convocatoria.editoraperu.com.pe/ConvocatoriasWeb \u003c/p\u003e\u003cp\u003eLa postulación y recepción de CV documentando se efectuará sólo entre los días sábado 28 de noviembre y el miércoles 02 de diciembre de 2026 (únicas fechas para presentar CV, adjuntado toda documentación que evidencie cumplimiento a las exigencias requeridas por perfil de puesto y considerar efectiva la postulación). \u003c/p\u003e\u003cp\u003eEmpresa Peruana de Servicios Editoriales SA – Editora Perú, es una empresa estatal de derecho privado, cuyos procesos de selección y contratación de personal, se desarrollan bajo procedimientos internos establecidos, a fin de garantizan la trasparencia e igual de oportunidades entre la totalidad de participantes. \u003c/p\u003e\u003cp\u003eAsi también, es de vital importancia el que se adjunte debidamente firmado el “Formato de Declaración Jurada de Parentesco”, y otros de corresponder.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118634293",
+        "clave":  "id:1118634293",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-tostacion-|-cajamarquilla-nexa-resources-1118634293.html",
+                       "capturadoEn":  "2026-11-16T20:29:19+00:00"
+                   },
+        "titulo":  "Practicante Profesional de Tostación | Cajamarquilla",
+        "empresa":  "Nexa Resources",
+        "ubicacion":  "Lima - San Juan De Lurigancho.",
+        "ciudad":  "San Juan De Lurigancho.",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "INTERN",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Responsabilidades y asignaciones Brindar soporte en la gestión de insumos y materiales de planta. Contribuir en la gestión de proyectos de Mejora continua (EMC). Asistir en el control y seguimiento al sistema de gestión de SSMA Y GRD. Apoyar en el control de Costos Operacionales y en el control de horas extras del personal. Brindar soporte en las coordinaciones con almacén la provisión de insumos. Apoyar en el análisis y solución de las contingencias operativas para asegurar la rutina y continuidad operativa en sus guardias. Otras funciones afines al cargo y que sean encargadas por su gestor. Requisitos y calificaciones Egresado/Bachiller en Ingeniería Metalúrgica, Ingeniería Química, Ingeniería Industrial o carreras afines. Manejo de Excel a nivel avanzado [Macros]. Manejo de Power BI a nivel intermedio. Deseable Power Apps. Manejo de SAP. Experiencia en gestión de seguridad y calidad Información adicional Unidad Minera: Refinería Cajamarquilla. Modalidad de trabajo: Presencial.",
+        "requisitos":  [
+                           "y calificaciones",
+                           "Egresado/Bachiller en Ingeniería Metalúrgica, Ingeniería Química, Ingeniería Industrial o carreras afines",
+                           "Manejo de Excel a nivel avanzado [Macros]",
+                           "Manejo de Power BI a nivel intermedio",
+                           "Deseable",
+                           "Power Apps",
+                           "Manejo de SAP",
+                           "Experiencia en gestión de seguridad y calidad",
+                           "Información adicional",
+                           "Unidad Minera: Refinería Cajamarquilla",
+                           "Modalidad de trabajo: Presencial"
+                       ],
+        "funciones":  [
+                          "afines al cargo y que sean encargadas por su gestor"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-tostacion-|-cajamarquilla-nexa-resources-1118634293.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-tostacion-|-cajamarquilla-nexa-resources-1118634293.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResponsabilidades y asignaciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte en la gestión de insumos y materiales de planta.\u003c/li\u003e \u003cli\u003eContribuir en la gestión de proyectos de Mejora continua (EMC).\u003c/li\u003e \u003cli\u003eAsistir en el control y seguimiento al sistema de gestión de SSMA Y GRD.\u003c/li\u003e \u003cli\u003eApoyar en el control de Costos Operacionales y en el control de horas extras del personal.\u003c/li\u003e \u003cli\u003eBrindar soporte en las coordinaciones con almacén la provisión de insumos.\u003c/li\u003e \u003cli\u003eApoyar en el análisis y solución de las contingencias operativas para asegurar la rutina y continuidad operativa en sus guardias.\u003c/li\u003e \u003cli\u003eOtras funciones afines al cargo y que sean encargadas por su gestor.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos y calificaciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado/Bachiller en Ingeniería Metalúrgica, Ingeniería Química, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel avanzado [Macros].\u003c/li\u003e \u003cli\u003eManejo de Power BI a nivel intermedio.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseable\u003c/strong\u003e \u003cul\u003e \u003cli\u003ePower Apps.\u003c/li\u003e \u003cli\u003eManejo de SAP.\u003c/li\u003e \u003cli\u003eExperiencia en gestión de seguridad y calidad\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eInformación adicional\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUnidad Minera: Refinería Cajamarquilla.\u003c/li\u003e \u003cli\u003eModalidad de trabajo: Presencial.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118632977",
+        "clave":  "id:1118632977",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/remoto-asesores-de-ventas-planilla-completa-solo-lima-y-chiclayo-adecco-peru-s.a.-1118632977.html",
+                       "capturadoEn":  "2026-11-16T20:29:23+00:00"
+                   },
+        "titulo":  "Remoto / Asesores de Ventas / Planilla Completa - Solo Lima y Chiclayo",
+        "empresa":  "ADECCO PERU S.A.",
+        "ubicacion":  "Lima - Dpto. 401. Santiago De Surco.",
+        "ciudad":  "Dpto. 401. Santiago De Surco.",
+        "region":  "Lima",
+        "modalidad":  "Remoto",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1230,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,230 - S/ 2,000",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "En Adecco Perú nos encontramos en la búsqueda de 20 ASESORES DE VENTAS / REMOTO AL 100 % para incorporarse a una importante operación comercial. Esta posición está orientada a ofrecer productos de telefonía móvil y fijo con el propósito de generar una venta para la campaña de MOVISTAR CHILE. Beneficios Planilla completa al 100% Básico S/1230 (salario fijo) Comisiones ilimitadas (S/600 a más). Beneficios corporativos (ROCKYS, TAMBO, BIMBO, ENTRE OTROS). Beneficios Educativos (USIL, UPN, UPC, entre otros). Vacaciones, Utilidades, Gratificación, Acceso a Seguro ESSALUD. Línea de Carrera Capacitación remunerada de 14 días x 40 soles = 560 soles Función principal: Se realizarán llamadas de clientes chilenos con el fin de ofrecer productos de telefonía móvil y fijo con el propósito de generar una venta. HORARIO DE TRABAJO : Lunes a Sábado 7:00 am a 5:00 pm trabajando 08 horas al día y 1hra de refrigerio. Se trabajan 06 días a la semana siendo el domingo el día de descanso fijo. REQUISITOS: Se acepta personal peruano y extranjeros a partir de los 18 años. Disponibilidad para trabajar remoto, contar con equipos SOLO HASTA LA CAPACITACIÓN, terminando la capacitación en tu firma de contrato, la empresa te da los equipos (mouse, pc, monitor, audífono). ENVIAR CV AL 959 755 878 SE ESTARA PROGRAMANDO ENTREVISTA VIRTUAL!! Cultura y valores En Adecco Perú promovemos un entorno de trabajo inclusivo, respetuoso y orientado al desarrollo de las personas. Valoramos el talento, la actitud de servicio y el compromiso con la calidad en cada proceso. Proceso de postulación Si cumples con el perfil, postula a través de Adecco Perú. Nuestro equipo revisará tu información y, si tu perfil se ajusta a la vacante, te contactará para continuar con el proceso de selección.",
+        "requisitos":  [
+                           "Se acepta personal peruano y extranjeros a partir de los 18 años",
+                           "Disponibilidad para trabajar remoto, contar con equipos SOLO HASTA LA CAPACITACIÓN, terminando la capacitación en tu firma de contrato, la empresa te da los equipos (mouse, pc, monitor, audífono)",
+                           "ENVIAR CV AL 959 755 878",
+                           "SE ESTARA PROGRAMANDO ENTREVISTA VIRTUAL!!",
+                           "Cultura y valores En Adecco Perú promovemos un entorno de trabajo inclusivo, respetuoso y orientado al desarrollo de las personas. Valoramos el talento, la actitud de servicio y el compromiso con la calidad en cada proceso",
+                           "Proceso de postulación Si cumples con el"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Educativos (USIL, UPN, UPC, entre otros)",
+                           "Vacaciones, Utilidades, Gratificación, Acceso a Seguro ESSALUD",
+                           "Línea de Carrera",
+                           "Capacitación remunerada de 14 días x 40 soles = 560 soles",
+                           "Función principal",
+                           "Se realizarán llamadas de clientes chilenos con el fin de ofrecer productos de telefonía móvil y fijo con el propósito de generar una venta",
+                           "HORARIO DE TRABAJO: Lunes a Sábado 7:00 am a 5:00 pm trabajando 08 horas al día y 1hra de refrigerio. Se trabajan 06 días a la semana siendo el domingo el día de descanso fijo"
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/remoto-asesores-de-ventas-planilla-completa-solo-lima-y-chiclayo-adecco-peru-s.a.-1118632977.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/remoto-asesores-de-ventas-planilla-completa-solo-lima-y-chiclayo-adecco-peru-s.a.-1118632977.html",
+        "descripcion_html":  "\u003cp\u003eEn Adecco Perú nos encontramos en la búsqueda de \u003cstrong\u003e20 ASESORES DE VENTAS / REMOTO AL 100 %\u003c/strong\u003e para incorporarse a una importante operación comercial. Esta posición está orientada a ofrecer productos de telefonía móvil y fijo con el propósito de generar una venta para la campaña de MOVISTAR CHILE.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla completa al 100%\u003c/li\u003e \u003cli\u003eBásico S/1230 (salario fijo)\u003c/li\u003e \u003cli\u003eComisiones ilimitadas (S/600 a más).\u003c/li\u003e \u003cli\u003eBeneficios corporativos (ROCKYS, TAMBO, BIMBO, ENTRE OTROS).\u003c/li\u003e \u003cli\u003eBeneficios Educativos (USIL, UPN, UPC, entre otros).\u003c/li\u003e \u003cli\u003eVacaciones, Utilidades, Gratificación, Acceso a Seguro ESSALUD.\u003c/li\u003e \u003cli\u003eLínea de Carrera\u003c/li\u003e \u003cli\u003eCapacitación remunerada de 14 días x 40 soles = 560 soles\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunción principal:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSe realizarán llamadas de clientes chilenos con el fin de ofrecer productos de telefonía móvil y fijo con el propósito de generar una venta.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eHORARIO DE TRABAJO\u003c/strong\u003e: Lunes a Sábado 7:00 am a 5:00 pm trabajando 08 horas al día y 1hra de refrigerio. Se trabajan 06 días a la semana siendo el domingo el día de descanso fijo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSe acepta personal peruano y extranjeros a partir de los 18 años.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar remoto, contar con equipos SOLO HASTA LA CAPACITACIÓN, \u003cstrong\u003eterminando la capacitación en tu firma de contrato, la empresa te da los equipos (mouse, pc, monitor, audífono).\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eENVIAR CV AL 959 755 878\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSE ESTARA PROGRAMANDO ENTREVISTA VIRTUAL!!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCultura y valores\u003c/strong\u003e En Adecco Perú promovemos un entorno de trabajo inclusivo, respetuoso y orientado al desarrollo de las personas. Valoramos el talento, la actitud de servicio y el compromiso con la calidad en cada proceso.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eProceso de postulación\u003c/strong\u003e Si cumples con el perfil, postula a través de Adecco Perú. Nuestro equipo revisará tu información y, si tu perfil se ajusta a la vacante, te contactará para continuar con el proceso de selección.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118632010",
+        "clave":  "id:1118632010",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenero-multifuncional-drive-imports-peru-1118632010.html",
+                       "capturadoEn":  "2026-11-16T20:29:25+00:00"
+                   },
+        "titulo":  "ALMACENERO MULTIFUNCIONAL",
+        "empresa":  "DRIVE IMPORTS PERÚ",
+        "ubicacion":  "Lima - San Martín De Porres - Lima",
+        "ciudad":  "San Martín De Porres - Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1100,
+                        "max":  1200,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,100 - S/ 1,200",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "ALMACENERO MULTIFUNCIONAL Resumen del Puesto Buscamos un Almacenero Multifuncional proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de la gestión eficiente del almacén, asegurando la correcta manipulación y distribución de la mercadería. Responsabilidades Organización y control de inventario. Recepción, verificación, embalaje y despacho de productos. Colaboración en la instalación de accesorios. Soporte en diversas tareas operativas del almacén. Requisitos Experiencia previa en puestos de almacén. Capacidad demostrada para la organización y el control de stock. Habilidad para el trabajo físico y la manipulación de carga. Actitud responsable, comprometida y orientada al detalle. Disponibilidad para trabajar en un entorno dinámico.",
+        "requisitos":  [
+                           "Experiencia previa en puestos de almacén",
+                           "Capacidad demostrada para la organización y el control de stock",
+                           "Habilidad para el trabajo físico y la manipulación de carga",
+                           "Actitud responsable, comprometida y orientada al detalle",
+                           "Disponibilidad para trabajar en un entorno dinámico"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/almacenero-multifuncional-drive-imports-peru-1118632010.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenero-multifuncional-drive-imports-peru-1118632010.html",
+        "descripcion_html":  "\u003cb\u003eALMACENERO MULTIFUNCIONAL\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAlmacenero Multifuncional\u003c/b\u003e proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de la gestión eficiente del almacén, asegurando la correcta manipulación y distribución de la mercadería.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eOrganización y control de inventario.\u003c/li\u003e \u003cli\u003eRecepción, verificación, embalaje y despacho de productos.\u003c/li\u003e \u003cli\u003eColaboración en la instalación de accesorios.\u003c/li\u003e \u003cli\u003eSoporte en diversas tareas operativas del almacén.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de almacén.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para la organización y el control de stock.\u003c/li\u003e \u003cli\u003eHabilidad para el trabajo físico y la manipulación de carga.\u003c/li\u003e \u003cli\u003eActitud responsable, comprometida y orientada al detalle.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en un entorno dinámico.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118632009",
+        "clave":  "id:1118632009",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-tiktok-drive-imports-peru-1118632009.html",
+                       "capturadoEn":  "2026-11-16T20:29:26+00:00"
+                   },
+        "titulo":  "Asistente de TikTok",
+        "empresa":  "DRIVE IMPORTS PERÚ",
+        "ubicacion":  "Lima - San Martín De Porres - Lima",
+        "ciudad":  "San Martín De Porres - Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1000,
+                        "max":  1200,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,000 - S/ 1,200",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Asistente de TikTok Resumen del Puesto Buscamos un Asistente de TikTok dinámico y creativo para unirse a nuestro equipo. El candidato ideal tendrá una gran facilidad de palabra y experiencia en la creación de contenido atractivo para plataformas de redes sociales, especialmente TikTok. Responsabilidades Realización de transmisiones en vivo (TikTok LIVE). Creación y edición de contenido para redes sociales. Interacción con la audiencia durante las transmisiones en vivo. Colaboración con el equipo para desarrollar estrategias de contenido. Seguimiento de tendencias y nuevas funcionalidades de la plataforma. Requisitos Experiencia previa en la gestión de redes sociales, especialmente TikTok. Habilidad demostrada en la creación de contenido visual y de video. Excelente capacidad de comunicación y desenvolvimiento frente a cámara. Creatividad y proactividad. Capacidad para trabajar de forma autónoma y en equipo. Conocimiento de las tendencias actuales en redes sociales.",
+        "requisitos":  [
+                           "Experiencia previa en la gestión de redes sociales, especialmente TikTok",
+                           "Habilidad demostrada en la creación de contenido visual y de video",
+                           "Excelente capacidad de comunicación y desenvolvimiento frente a cámara",
+                           "Creatividad y proactividad",
+                           "Capacidad para trabajar de forma autónoma y en equipo",
+                           "Conocimiento de las tendencias actuales en redes sociales"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asistente-de-tiktok-drive-imports-peru-1118632009.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-tiktok-drive-imports-peru-1118632009.html",
+        "descripcion_html":  "\u003cb\u003eAsistente de TikTok\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de TikTok\u003c/b\u003e dinámico y creativo para unirse a nuestro equipo. El candidato ideal tendrá una gran facilidad de palabra y experiencia en la creación de contenido atractivo para plataformas de redes sociales, especialmente TikTok.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealización de transmisiones en vivo (TikTok LIVE).\u003c/li\u003e \u003cli\u003eCreación y edición de contenido para redes sociales.\u003c/li\u003e \u003cli\u003eInteracción con la audiencia durante las transmisiones en vivo.\u003c/li\u003e \u003cli\u003eColaboración con el equipo para desarrollar estrategias de contenido.\u003c/li\u003e \u003cli\u003eSeguimiento de tendencias y nuevas funcionalidades de la plataforma.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en la gestión de redes sociales, especialmente TikTok.\u003c/li\u003e \u003cli\u003eHabilidad demostrada en la creación de contenido visual y de video.\u003c/li\u003e \u003cli\u003eExcelente capacidad de comunicación y desenvolvimiento frente a cámara.\u003c/li\u003e \u003cli\u003eCreatividad y proactividad.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eConocimiento de las tendencias actuales en redes sociales.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118631985",
+        "clave":  "id:1118631985",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/cobranza-telefonica--banco-de-credito-bcp-manpowergroup-1118631985.html",
+                       "capturadoEn":  "2026-11-16T20:29:27+00:00"
+                   },
+        "titulo":  "Cobranza Telefónica – Banco de Crédito BCP",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Lima - Cercado De Lima",
+        "ciudad":  "Cercado De Lima",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  3500,
+                        "max":  3500,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/3500",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "Call Center - Cobranzas - Lima (BCP) En el BCP buscamos personas que quieran transformar el país. Este rol no es solo un trabajo: es una oportunidad para crecer, asumir desafíos y generar impacto. ¿Cómo impactarás en grande? Brindar soluciones de pago a clientes con atrasos de 2 a 60 días. Aplicar diálogos establecidos según días de mora y tipo de producto. Negociar alternativas de acuerdo con los paquetes definidos en el módulo. Actualizar información de clientes en el aplicativo de cobranzas. Apoyar en tareas adicionales asignadas por la jefatura inmediata. ¿Qué necesitamos de ti? Formación: Universitario en curso desde 7mo ciclo (Administración, Economía, Ingeniería, Comunicación, Psicología o afines) o carrera técnica culminada. Experiencia: Mínimo 1 año en cobranzas telefónicas o de campo (ideal en cartera castigada). Disponibilidad: Trabajo presencial en sede Las Mercedes, Av. Nicolás de Piérola 730 – Lima. Horario: Lunes a viernes de 7:00 a 17:00. Competencias técnicas: Manejo básico de Excel. Beneficios Ingreso a planilla BCP desde el primer día. Incentivos por desempeño y esfuerzo. Acompañamiento de líderes expertos en banca. Descuentos en productos financieros y corporativos (educación/salud). Capacitaciones continuas y cultura de reconocimientos. Ser parte de la empresa #1 en Merco Talento 2026. ¿Qué esperas? ¡Postula hoy! \u0026#x1f9e1;\u0026#x1f499; “Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo\".",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "Ingreso a planilla BCP desde el primer día",
+                           "Incentivos por desempeño y esfuerzo",
+                           "Acompañamiento de líderes expertos en banca",
+                           "Descuentos en productos financieros y corporativos (educación/salud)",
+                           "Capacitaciones continuas y cultura de reconocimientos",
+                           "Ser parte de la empresa #1 en Merco Talento 2026",
+                           "¿Qué esperas? ¡Postula hoy!\u0026#x1f9e1;\u0026#x1f499",
+                           "“Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo\""
+                       ],
+        "fecha_publicacion":  "2026-11-15",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/cobranza-telefonica--banco-de-credito-bcp-manpowergroup-1118631985.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/cobranza-telefonica--banco-de-credito-bcp-manpowergroup-1118631985.html",
+        "descripcion_html":  "\u003cp\u003e\u003cp\u003e\u003cstrong\u003eCall Center - Cobranzas - Lima (BCP)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn el BCP buscamos personas que quieran transformar el país. Este rol no es solo un trabajo: es una oportunidad para crecer, asumir desafíos y generar impacto.\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003e¿Cómo impactarás en grande?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soluciones de pago a clientes con atrasos de 2 a 60 días.\u003c/li\u003e \u003cli\u003eAplicar diálogos establecidos según días de mora y tipo de producto.\u003c/li\u003e \u003cli\u003eNegociar alternativas de acuerdo con los paquetes definidos en el módulo.\u003c/li\u003e \u003cli\u003eActualizar información de clientes en el aplicativo de cobranzas.\u003c/li\u003e \u003cli\u003eApoyar en tareas adicionales asignadas por la jefatura inmediata.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación: Universitario en curso desde 7mo ciclo (Administración, Economía, Ingeniería, Comunicación, Psicología o afines) o carrera técnica culminada.\u003c/li\u003e \u003cli\u003eExperiencia: \u003cstrong\u003eMínimo 1 año en cobranzas telefónicas o de campo (ideal en cartera castigada).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eDisponibilidad: Trabajo presencial en sede Las Mercedes, Av. Nicolás de Piérola 730 – Lima.\u003c/li\u003e \u003cli\u003eHorario: Lunes a viernes de 7:00 a 17:00.\u003c/li\u003e \u003cli\u003eCompetencias técnicas: Manejo básico de Excel.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngreso a planilla BCP desde el primer día.\u003c/li\u003e \u003cli\u003eIncentivos por desempeño y esfuerzo.\u003c/li\u003e \u003cli\u003eAcompañamiento de líderes expertos en banca.\u003c/li\u003e \u003cli\u003eDescuentos en productos financieros y corporativos (educación/salud).\u003c/li\u003e \u003cli\u003eCapacitaciones continuas y cultura de reconocimientos.\u003c/li\u003e \u003cli\u003eSer parte de la empresa #1 en Merco Talento 2026.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué esperas? ¡Postula hoy!\u003c/strong\u003e\u0026#x1f9e1;\u0026#x1f499;\u003c/p\u003e\u003cp\u003e“Somos una organización comprometida con la igualdad de derechos y oportunidades. Nuestros procesos de selección se rigen bajo una política donde nuestras/os postulantes son consideradas/os sin importar su origen, género, raza o cualquier otra característica, condición o preferencia, promoviendo así una cultura de respeto mutuo\u0026quot;.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Lunes a viernes de 7:00 a 17:00.",
+        "experiencia":  "",
+        "estudios":  "Universitario en curso desde 7mo ciclo (Administración, Economía, Ingeniería, Comunicación, Psicología o afines) o carrera técnica culminada",
+        "herramientas":  "",
+        "publicado_el":  "15/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]

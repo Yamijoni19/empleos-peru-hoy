@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118635824",
+    "clave":  "id:1118635824",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/gerente-de-mantenimiento-1118635824.html",
+                   "capturadoEn":  "2026-11-16T20:28:48+00:00"
+               },
+    "titulo":  "GERENTE DE MANTENIMIENTO",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa en su rubro se encuentra en la búsqueda de 01 Gerente de Mantenimiento: Funciones: Gestionar el área de mantenimiento asegurando el cumplimiento de los objetivos operativos y administrativos. Monitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados. Gestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación. Elaborar y presentar información de gestión para la toma de decisiones. Requisitos: Profesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines. Mínimo 5 años de experiencia liderando el área de mantenimiento en plantas industriales Sólida experiencia en gestión financiera, control presupuestal y manejo de indicadores. MS Office nivel intermedio. Inglés intermedio (deseable). Residir en Lima.",
+    "requisitos":  [
+                       "Profesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines",
+                       "Mínimo 5 años de experiencia liderando el área de mantenimiento en plantas industriales",
+                       "Sólida experiencia en gestión financiera, control presupuestal y manejo de indicadores",
+                       "MS Office nivel intermedio",
+                       "Inglés intermedio (deseable)",
+                       "Residir en Lima"
+                   ],
+    "funciones":  [
+                      "Gestionar el área de mantenimiento asegurando el cumplimiento de los objetivos operativos y administrativos",
+                      "Monitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados",
+                      "Gestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación",
+                      "Elaborar y presentar información de gestión para la toma de decisiones"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/gerente-de-mantenimiento-1118635824.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/gerente-de-mantenimiento-1118635824.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa en su rubro se encuentra en la búsqueda de 01 Gerente de Mantenimiento:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar el área de mantenimiento asegurando el cumplimiento de los objetivos operativos y administrativos.\u003c/li\u003e \u003cli\u003eMonitorear indicadores clave y proponer acciones de mejora continua para optimizar resultados.\u003c/li\u003e \u003cli\u003eGestionar recursos y presupuestos, velando por la eficiencia y sostenibilidad de la operación.\u003c/li\u003e \u003cli\u003eElaborar y presentar información de gestión para la toma de decisiones.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional universitario/a en Administración de Empresas, Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003eMínimo 5 años de experiencia liderando el área de mantenimiento en plantas industriales\u003c/li\u003e \u003cli\u003eSólida experiencia en gestión financiera, control presupuestal y manejo de indicadores.\u003c/li\u003e \u003cli\u003eMS Office nivel intermedio.\u003c/li\u003e \u003cli\u003eInglés intermedio (deseable).\u003c/li\u003e \u003cli\u003eResidir en Lima.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

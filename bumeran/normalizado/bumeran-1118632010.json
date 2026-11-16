@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118632010",
+    "clave":  "id:1118632010",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/almacenero-multifuncional-drive-imports-peru-1118632010.html",
+                   "capturadoEn":  "2026-11-16T20:29:25+00:00"
+               },
+    "titulo":  "ALMACENERO MULTIFUNCIONAL",
+    "empresa":  "DRIVE IMPORTS PERÚ",
+    "ubicacion":  "Lima - San Martín De Porres - Lima",
+    "ciudad":  "San Martín De Porres - Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1100,
+                    "max":  1200,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,100 - S/ 1,200",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "ALMACENERO MULTIFUNCIONAL Resumen del Puesto Buscamos un Almacenero Multifuncional proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de la gestión eficiente del almacén, asegurando la correcta manipulación y distribución de la mercadería. Responsabilidades Organización y control de inventario. Recepción, verificación, embalaje y despacho de productos. Colaboración en la instalación de accesorios. Soporte en diversas tareas operativas del almacén. Requisitos Experiencia previa en puestos de almacén. Capacidad demostrada para la organización y el control de stock. Habilidad para el trabajo físico y la manipulación de carga. Actitud responsable, comprometida y orientada al detalle. Disponibilidad para trabajar en un entorno dinámico.",
+    "requisitos":  [
+                       "Experiencia previa en puestos de almacén",
+                       "Capacidad demostrada para la organización y el control de stock",
+                       "Habilidad para el trabajo físico y la manipulación de carga",
+                       "Actitud responsable, comprometida y orientada al detalle",
+                       "Disponibilidad para trabajar en un entorno dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/almacenero-multifuncional-drive-imports-peru-1118632010.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/almacenero-multifuncional-drive-imports-peru-1118632010.html",
+    "descripcion_html":  "\u003cb\u003eALMACENERO MULTIFUNCIONAL\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAlmacenero Multifuncional\u003c/b\u003e proactivo y organizado para unirse a nuestro equipo. El candidato ideal será responsable de la gestión eficiente del almacén, asegurando la correcta manipulación y distribución de la mercadería.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eOrganización y control de inventario.\u003c/li\u003e \u003cli\u003eRecepción, verificación, embalaje y despacho de productos.\u003c/li\u003e \u003cli\u003eColaboración en la instalación de accesorios.\u003c/li\u003e \u003cli\u003eSoporte en diversas tareas operativas del almacén.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos de almacén.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para la organización y el control de stock.\u003c/li\u003e \u003cli\u003eHabilidad para el trabajo físico y la manipulación de carga.\u003c/li\u003e \u003cli\u003eActitud responsable, comprometida y orientada al detalle.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en un entorno dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

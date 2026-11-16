@@ -1,0 +1,79 @@
+{
+    "id":  "bumeran-1118634293",
+    "clave":  "id:1118634293",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-tostacion-|-cajamarquilla-nexa-resources-1118634293.html",
+                   "capturadoEn":  "2026-11-16T20:29:19+00:00"
+               },
+    "titulo":  "Practicante Profesional de Tostación | Cajamarquilla",
+    "empresa":  "Nexa Resources",
+    "ubicacion":  "Lima - San Juan De Lurigancho.",
+    "ciudad":  "San Juan De Lurigancho.",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "INTERN",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Responsabilidades y asignaciones Brindar soporte en la gestión de insumos y materiales de planta. Contribuir en la gestión de proyectos de Mejora continua (EMC). Asistir en el control y seguimiento al sistema de gestión de SSMA Y GRD. Apoyar en el control de Costos Operacionales y en el control de horas extras del personal. Brindar soporte en las coordinaciones con almacén la provisión de insumos. Apoyar en el análisis y solución de las contingencias operativas para asegurar la rutina y continuidad operativa en sus guardias. Otras funciones afines al cargo y que sean encargadas por su gestor. Requisitos y calificaciones Egresado/Bachiller en Ingeniería Metalúrgica, Ingeniería Química, Ingeniería Industrial o carreras afines. Manejo de Excel a nivel avanzado [Macros]. Manejo de Power BI a nivel intermedio. Deseable Power Apps. Manejo de SAP. Experiencia en gestión de seguridad y calidad Información adicional Unidad Minera: Refinería Cajamarquilla. Modalidad de trabajo: Presencial.",
+    "requisitos":  [
+                       "y calificaciones",
+                       "Egresado/Bachiller en Ingeniería Metalúrgica, Ingeniería Química, Ingeniería Industrial o carreras afines",
+                       "Manejo de Excel a nivel avanzado [Macros]",
+                       "Manejo de Power BI a nivel intermedio",
+                       "Deseable",
+                       "Power Apps",
+                       "Manejo de SAP",
+                       "Experiencia en gestión de seguridad y calidad",
+                       "Información adicional",
+                       "Unidad Minera: Refinería Cajamarquilla",
+                       "Modalidad de trabajo: Presencial"
+                   ],
+    "funciones":  [
+                      "afines al cargo y que sean encargadas por su gestor"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-tostacion-|-cajamarquilla-nexa-resources-1118634293.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-profesional-de-tostacion-|-cajamarquilla-nexa-resources-1118634293.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eResponsabilidades y asignaciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte en la gestión de insumos y materiales de planta.\u003c/li\u003e \u003cli\u003eContribuir en la gestión de proyectos de Mejora continua (EMC).\u003c/li\u003e \u003cli\u003eAsistir en el control y seguimiento al sistema de gestión de SSMA Y GRD.\u003c/li\u003e \u003cli\u003eApoyar en el control de Costos Operacionales y en el control de horas extras del personal.\u003c/li\u003e \u003cli\u003eBrindar soporte en las coordinaciones con almacén la provisión de insumos.\u003c/li\u003e \u003cli\u003eApoyar en el análisis y solución de las contingencias operativas para asegurar la rutina y continuidad operativa en sus guardias.\u003c/li\u003e \u003cli\u003eOtras funciones afines al cargo y que sean encargadas por su gestor.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos y calificaciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado/Bachiller en Ingeniería Metalúrgica, Ingeniería Química, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eManejo de Excel a nivel avanzado [Macros].\u003c/li\u003e \u003cli\u003eManejo de Power BI a nivel intermedio.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseable\u003c/strong\u003e \u003cul\u003e \u003cli\u003ePower Apps.\u003c/li\u003e \u003cli\u003eManejo de SAP.\u003c/li\u003e \u003cli\u003eExperiencia en gestión de seguridad y calidad\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eInformación adicional\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eUnidad Minera: Refinería Cajamarquilla.\u003c/li\u003e \u003cli\u003eModalidad de trabajo: Presencial.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

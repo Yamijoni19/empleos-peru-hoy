@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118634687",
+    "clave":  "id:1118634687",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-engineer-gestion-hibrida-sanna-1118634687.html",
+                   "capturadoEn":  "2026-11-16T20:29:01+00:00"
+               },
+    "titulo":  "Data Engineer / Gestión Híbrida",
+    "empresa":  "SANNA",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "¡Sé nuestro(a) próximo(a) DATA ENGINEER en SANNA Salud! En SANNA Salud, la red privada de salud líder en el Perú, ofrecemos una experiencia de salud integral, donde la excelencia médica se une con la sensibilidad humana en nuestras clínicas y centros a nivel nacional. Hoy, buscamos talento como tú que quiera ponerle el corazón en todo lo que hacemos con vocación, compromiso y pasión por cuidar. Personas que sueñen con un trabajo que tenga un impacto real y humano, y que quieran ser parte de un propósito: “Cuidar la salud de las familias del Perú, porque la salud no puede esperar.” Si estás listo(a) para marcar la diferencia, crecer profesionalmente y ser parte de una organización que valora a las personas, ¡esta es tu oportunidad! ¿Qué buscamos en nuestro(a) DATA ENGINEER? Si tu perfil se alinea con lo siguiente, estás un paso más cerca de poder ser parte de esta experiencia: Universitario en carreras afines al puesto y funciones (deseable contar con especialización o posgrado). Conocimiento del negocio de salud (mínima de un año) 1 a 2 años de experiencia en generación de reportes y tableros de indicadores Manejo y uso en: Modelamiento de base de datos SQL (Intermedio), Python /BI (intermedio Avanzado), Procesos ETL, Data Warehouse, Azure + Databricks, Delta, git Interés por aprendizaje continuo en tecnologías Cloud, Data Engineering Moderno y Arquitecturas Lakehouse. Tus Desafíos Diarios Incluirán: Garantizar que la compañía disponga de información clínica y operativa confiable, oportuna y trazable del DWH de prestaciones, mediante el diseño, construcción, mantenimiento y optimización de soluciones de datos que faciliten la toma de decisiones, la elaboración de reportes y el análisis corporativo. Desarrollar y mantener procesos de integración de datos para el Data Warehouse corporativo, participando progresivamente en iniciativas de modernización hacia arquitecturas Lakehouse y plataformas cloud. Documentación de indicadores para la organización. Diseño, construcción y mantenimiento de los tableros de reporte de información. Validar la calidad de información reportada por las prestaciones de la red. Reuniones con los usuarios según se requiera para la estandarización de las definiciones de indicadores y el entendimiento de sus procesos. Realizar reportes en sql a demanda. Realizar las actividades solicitadas por su inmediato superior. ¿Qué te ofrecemos en SANNA? En SANNA, valoramos tu bienestar y tu crecimiento profesional. Por eso, te brindamos: Salario competitivo en planilla, con todos los beneficios de ley desde el primer día. Acceso a “Mi Beneficio Salud”, con costos preferenciales en servicios médicos para ti y tu familia en toda la Red SANNA. ¡Tu día libre por cumpleaños para que lo celebres como se debe! Acceso a nuestra línea psicológica gratuita para tu bienestar emocional. Beneficios corporativos exclusivos por ser parte del prestigioso Grupo Credicorp. Tendrás la oportunidad de adelantar tu salario para las situaciones que requieras. En Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "(deseable contar con especialización o posgrado)",
+                      "Conocimiento del negocio de salud (mínima de un año)",
+                      "1 a 2 años de experiencia en generación de reportes y tableros de indicadores",
+                      "Manejo y uso en: Modelamiento de base de datos SQL (Intermedio), Python /BI (intermedio Avanzado), Procesos ETL, Data Warehouse, Azure + Databricks, Delta, git Interés por aprendizaje continuo en tecnologías Cloud, Data Engineering Moderno y Arquitecturas Lakehouse",
+                      "Tus Desafíos Diarios Incluirán",
+                      "Garantizar que la compañía disponga de información clínica y operativa confiable, oportuna y trazable del DWH de prestaciones, mediante el diseño, construcción, mantenimiento y optimización de soluciones de datos que faciliten la toma de decisiones, la elaboración de reportes y el análisis corporativo",
+                      "Desarrollar y mantener procesos de integración de datos para el Data Warehouse corporativo, participando progresivamente en iniciativas de modernización hacia arquitecturas Lakehouse y plataformas cloud",
+                      "Documentación de indicadores para la organización. Diseño, construcción y mantenimiento de los tableros de reporte de información",
+                      "Validar la calidad de información reportada por las prestaciones de la red",
+                      "Reuniones con los usuarios según se requiera para la estandarización de las definiciones de indicadores y el entendimiento de sus procesos",
+                      "Realizar reportes en sql a demanda. Realizar las actividades solicitadas por su inmediato superior",
+                      "¿Qué te"
+                  ],
+    "beneficios":  [
+                       "corporativos exclusivos por ser parte del prestigioso Grupo Credicorp",
+                       "Tendrás la oportunidad de adelantar tu salario para las situaciones que requieras",
+                       "En Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas"
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/data-engineer-gestion-hibrida-sanna-1118634687.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-engineer-gestion-hibrida-sanna-1118634687.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Sé nuestro(a) próximo(a) DATA ENGINEER en SANNA Salud! \u003cbr /\u003e\u003c/strong\u003e\u003cbr /\u003eEn SANNA Salud, la red privada de salud líder en el Perú, ofrecemos una experiencia de salud integral, donde la excelencia médica se une con la sensibilidad humana en nuestras clínicas y centros a nivel nacional. \u003cbr /\u003e\u003cbr /\u003eHoy, buscamos talento como tú que quiera ponerle el corazón en todo lo que hacemos con vocación, compromiso y pasión por cuidar. Personas que sueñen con un trabajo que tenga un impacto real y humano, y que quieran ser parte de un propósito: \u003cbr /\u003e\u003cbr /\u003e“Cuidar la salud de las familias del Perú, porque la salud no puede esperar.” \u003cbr /\u003e\u003cbr /\u003eSi estás listo(a) para marcar la diferencia, crecer profesionalmente y ser parte de una organización que valora a las personas, ¡esta es tu oportunidad! \u003cbr /\u003e\u003cbr /\u003e\u003cstrong\u003e¿Qué buscamos en nuestro(a) DATA ENGINEER? \u003cbr /\u003e\u003c/strong\u003e\u003cbr /\u003eSi tu perfil se alinea con lo siguiente, estás un paso más cerca de poder ser parte de esta experiencia: \u003cbr /\u003e\u003cbr /\u003eUniversitario en carreras afines al puesto y funciones (deseable contar con especialización o posgrado). \u003c/p\u003e\u003cp\u003eConocimiento del negocio de salud (mínima de un año) \u003c/p\u003e\u003cp\u003e1 a 2 años de experiencia en generación de reportes y tableros de indicadores \u003c/p\u003e\u003cp\u003eManejo y uso en: Modelamiento de base de datos SQL (Intermedio), Python /BI (intermedio Avanzado), Procesos ETL, Data Warehouse, Azure + Databricks, Delta, git Interés por aprendizaje continuo en tecnologías Cloud, Data Engineering Moderno y Arquitecturas Lakehouse. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eTus Desafíos Diarios Incluirán: \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eGarantizar que la compañía disponga de información clínica y operativa confiable, oportuna y trazable del DWH de prestaciones, mediante el diseño, construcción, mantenimiento y optimización de soluciones de datos que faciliten la toma de decisiones, la elaboración de reportes y el análisis corporativo. \u003c/p\u003e\u003cp\u003eDesarrollar y mantener procesos de integración de datos para el Data Warehouse corporativo, participando progresivamente en iniciativas de modernización hacia arquitecturas Lakehouse y plataformas cloud. \u003c/p\u003e\u003cp\u003eDocumentación de indicadores para la organización. Diseño, construcción y mantenimiento de los tableros de reporte de información. \u003c/p\u003e\u003cp\u003eValidar la calidad de información reportada por las prestaciones de la red. \u003c/p\u003e\u003cp\u003eReuniones con los usuarios según se requiera para la estandarización de las definiciones de indicadores y el entendimiento de sus procesos. \u003c/p\u003e\u003cp\u003eRealizar reportes en sql a demanda. Realizar las actividades solicitadas por su inmediato superior. \u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué te ofrecemos en SANNA? \u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn SANNA, valoramos tu bienestar y tu crecimiento profesional. Por eso, te brindamos: \u003c/p\u003e\u003cp\u003eSalario competitivo en planilla, con todos los beneficios de ley desde el primer día. Acceso a “Mi Beneficio Salud”, con costos preferenciales en servicios médicos para ti y tu familia en toda la Red SANNA. \u003c/p\u003e\u003cp\u003e¡Tu día libre por cumpleaños para que lo celebres como se debe! \u003c/p\u003e\u003cp\u003eAcceso a nuestra línea psicológica gratuita para tu bienestar emocional. \u003c/p\u003e\u003cp\u003eBeneficios corporativos exclusivos por ser parte del prestigioso Grupo Credicorp. \u003c/p\u003e\u003cp\u003eTendrás la oportunidad de adelantar tu salario para las situaciones que requieras. \u003c/p\u003e\u003cp\u003eEn Sanna Salud estamos comprometidos con la inclusión y equidad de género. En línea con ello nuestros procesos de selección buscan garantizar igualdad de derechos y oportunidades para todos y todas.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
