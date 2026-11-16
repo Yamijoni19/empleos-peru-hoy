@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118631691",
+    "clave":  "id:1118631691",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-eventos-casa-bonita-1118631691.html",
+                   "capturadoEn":  "2026-11-16T09:42:26+00:00"
+               },
+    "titulo":  "Asistente de Marketing y Eventos",
+    "empresa":  "Casa Bonita",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Marketing y Eventos Resumen del Puesto Buscamos un Asistente de Marketing y Eventos proactivo y organizado para apoyar en la planificación y ejecución de estrategias de marketing y la coordinación de eventos. El candidato ideal tendrá interés en el sector inmobiliario y habilidades para la gestión administrativa y de proveedores. Responsabilidades Brindar soporte administrativo general al equipo de marketing. Colaborar en la gestión de pautas publicitarias y campañas de marketing. Asistir en la planificación, organización y ejecución de eventos. Apoyar en el manejo y seguimiento de presupuestos asignados. Establecer y mantener una comunicación fluida con proveedores. Contribuir a la generación de ideas y a la implementación de nuevas iniciativas. Requisitos Formación en Marketing, Comunicación, Administración o áreas afines. Se valorará experiencia previa en roles similares o en el sector inmobiliario. Conocimientos en manejo de pautas publicitarias y presupuestos. Excelentes habilidades de organización, planificación y gestión del tiempo. Capacidad para trabajar de forma proactiva y resolver problemas. Habilidades interpersonales para el trato con proveedores y equipos de trabajo. Disponibilidad para participar activamente en la coordinación de eventos.",
+    "requisitos":  [
+                       "Formación en Marketing, Comunicación, Administración o áreas afines",
+                       "Se valorará experiencia previa en roles similares o en el sector inmobiliario",
+                       "Conocimientos en manejo de pautas publicitarias y presupuestos",
+                       "Excelentes habilidades de organización, planificación y gestión del tiempo",
+                       "Capacidad para trabajar de forma proactiva y resolver problemas",
+                       "Habilidades interpersonales para el trato con proveedores y equipos de trabajo",
+                       "Disponibilidad para participar activamente en la coordinación de eventos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-eventos-casa-bonita-1118631691.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-y-eventos-casa-bonita-1118631691.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Marketing y Eventos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eAsistente de Marketing y Eventos\u003c/b\u003e proactivo y organizado para apoyar en la planificación y ejecución de estrategias de marketing y la coordinación de eventos. El candidato ideal tendrá interés en el sector inmobiliario y habilidades para la gestión administrativa y de proveedores.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte administrativo general al equipo de marketing.\u003c/li\u003e \u003cli\u003eColaborar en la gestión de pautas publicitarias y campañas de marketing.\u003c/li\u003e \u003cli\u003eAsistir en la planificación, organización y ejecución de eventos.\u003c/li\u003e \u003cli\u003eApoyar en el manejo y seguimiento de presupuestos asignados.\u003c/li\u003e \u003cli\u003eEstablecer y mantener una comunicación fluida con proveedores.\u003c/li\u003e \u003cli\u003eContribuir a la generación de ideas y a la implementación de nuevas iniciativas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación en Marketing, Comunicación, Administración o áreas afines.\u003c/li\u003e \u003cli\u003eSe valorará experiencia previa en roles similares o en el sector inmobiliario.\u003c/li\u003e \u003cli\u003eConocimientos en manejo de pautas publicitarias y presupuestos.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de organización, planificación y gestión del tiempo.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma proactiva y resolver problemas.\u003c/li\u003e \u003cli\u003eHabilidades interpersonales para el trato con proveedores y equipos de trabajo.\u003c/li\u003e \u003cli\u003eDisponibilidad para participar activamente en la coordinación de eventos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

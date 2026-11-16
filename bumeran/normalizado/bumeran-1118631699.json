@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118631699",
+    "clave":  "id:1118631699",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-mega-unicachi-1118631699.html",
+                   "capturadoEn":  "2026-11-16T09:42:17+00:00"
+               },
+    "titulo":  "Técnico Electricista",
+    "empresa":  "MEGA UNICACHI",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico Electricista Resumen del Puesto Estamos en la búsqueda de un Técnico Electricista calificado y con experiencia para unirse a nuestro equipo. El candidato ideal poseerá un sólido conocimiento de los sistemas eléctricos y será capaz de realizar instalaciones, mantenimiento y reparaciones de manera eficiente y segura. Responsabilidades Realizar instalaciones eléctricas en diversos entornos. Diagnosticar y reparar fallas en sistemas eléctricos. Llevar a cabo tareas de mantenimiento preventivo y correctivo. Interpretar planos y diagramas eléctricos. Asegurar el cumplimiento de las normativas de seguridad eléctrica. Colaborar con otros equipos para la ejecución de proyectos. Requisitos Formación técnica en electricidad o área afín. Experiencia comprobable en trabajos de electricidad. Conocimiento de normativas y estándares de seguridad eléctrica. Capacidad para leer e interpretar planos eléctricos. Habilidades para la resolución de problemas y diagnóstico de fallas. Orientación al detalle y compromiso con la calidad del trabajo. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Formación técnica en electricidad o área afín",
+                       "Experiencia comprobable en trabajos de electricidad",
+                       "Conocimiento de normativas y estándares de seguridad eléctrica",
+                       "Capacidad para leer e interpretar planos eléctricos",
+                       "Habilidades para la resolución de problemas y diagnóstico de fallas",
+                       "Orientación al detalle y compromiso con la calidad del trabajo",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-14",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-mega-unicachi-1118631699.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-mega-unicachi-1118631699.html",
+    "descripcion_html":  "\u003cb\u003eTécnico Electricista\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eTécnico Electricista\u003c/b\u003e calificado y con experiencia para unirse a nuestro equipo. El candidato ideal poseerá un sólido conocimiento de los sistemas eléctricos y será capaz de realizar instalaciones, mantenimiento y reparaciones de manera eficiente y segura.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar instalaciones eléctricas en diversos entornos.\u003c/li\u003e \u003cli\u003eDiagnosticar y reparar fallas en sistemas eléctricos.\u003c/li\u003e \u003cli\u003eLlevar a cabo tareas de mantenimiento preventivo y correctivo.\u003c/li\u003e \u003cli\u003eInterpretar planos y diagramas eléctricos.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de las normativas de seguridad eléctrica.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para la ejecución de proyectos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica en electricidad o área afín.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en trabajos de electricidad.\u003c/li\u003e \u003cli\u003eConocimiento de normativas y estándares de seguridad eléctrica.\u003c/li\u003e \u003cli\u003eCapacidad para leer e interpretar planos eléctricos.\u003c/li\u003e \u003cli\u003eHabilidades para la resolución de problemas y diagnóstico de fallas.\u003c/li\u003e \u003cli\u003eOrientación al detalle y compromiso con la calidad del trabajo.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "14/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
