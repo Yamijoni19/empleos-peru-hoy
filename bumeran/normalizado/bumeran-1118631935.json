@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118631935",
+    "clave":  "id:1118631935",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/gestor-call-center-atencion-al-cliente-huachipa-1118631935.html",
+                   "capturadoEn":  "2026-11-17T03:53:53+00:00"
+               },
+    "titulo":  "Gestor Call Center Atención al Cliente - Huachipa",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Lurigancho",
+    "ciudad":  "Lurigancho",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Nos encontramos en la búsqueda de un Asistente de Atención al Cliente para Huachipa Requisitos • 06 meses de experiencia en atención al cliente call center • Experiencia en áreas administrativas o logística (Deseable) • Manejo de Excel a nivel basico/intermedio • Residencia en Huachipa, ate, Campos, Lurigancho o distritos aledaños Funciones • Realizar y recibir llamadas para el seguimiento de cumplimiento de las rutas programadas tanto en Lima como Provincia. • Comunicación constante con los diferentes canales de distribución. • Seguimiento de las entregas por VH de los pedidos • Seguimiento en tiempo real a los transportistas mediante GPS y Aplicativo. • Revisión de la pre y post entrega, pagos. • Gestión de devoluciones por canal PDV. • Dar soporte al área de liquidación. • Actualizar la base de datos de los PDV de clientes (direcciones, georreferenciación y otros). Te recomendamos estar al pendiente de tu WhatsApp, nos contactaremos por ese medio.",
+    "requisitos":  [
+                       "• 06 meses de experiencia en atención al cliente call center",
+                       "• Experiencia en áreas administrativas o logística (Deseable)",
+                       "• Manejo de Excel a nivel basico/intermedio",
+                       "• Residencia en Huachipa, ate, Campos, Lurigancho o distritos aledaños"
+                   ],
+    "funciones":  [
+                      "• Realizar y recibir llamadas para el seguimiento de cumplimiento de las rutas programadas tanto en Lima como Provincia",
+                      "• Comunicación constante con los diferentes canales de distribución",
+                      "• Seguimiento de las entregas por VH de los pedidos",
+                      "• Seguimiento en tiempo real a los transportistas mediante GPS y Aplicativo",
+                      "• Revisión de la pre y post entrega, pagos",
+                      "• Gestión de devoluciones por canal PDV",
+                      "• Dar soporte al área de liquidación",
+                      "• Actualizar la base de datos de los PDV de clientes (direcciones, georreferenciación y otros)",
+                      "Te recomendamos estar al pendiente de tu WhatsApp, nos contactaremos por ese medio"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/gestor-call-center-atencion-al-cliente-huachipa-1118631935.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/gestor-call-center-atencion-al-cliente-huachipa-1118631935.html",
+    "descripcion_html":  "\u003cp\u003eNos encontramos en la búsqueda de un Asistente de Atención al Cliente para Huachipa \u003cbr /\u003e\u003cbr /\u003eRequisitos \u003cbr /\u003e• 06 meses de experiencia en atención al cliente call center \u003cbr /\u003e• Experiencia en áreas administrativas o logística (Deseable) \u003cbr /\u003e• Manejo de Excel a nivel basico/intermedio \u003cbr /\u003e• Residencia en Huachipa, ate, Campos, Lurigancho o distritos aledaños \u003cbr /\u003e\u003cbr /\u003eFunciones \u003cbr /\u003e• Realizar y recibir llamadas para el seguimiento de cumplimiento de las rutas programadas tanto en Lima como Provincia. \u003cbr /\u003e• Comunicación constante con los diferentes canales de distribución. \u003cbr /\u003e• Seguimiento de las entregas por VH de los pedidos \u003cbr /\u003e• Seguimiento en tiempo real a los transportistas mediante GPS y Aplicativo. \u003cbr /\u003e• Revisión de la pre y post entrega, pagos. \u003cbr /\u003e• Gestión de devoluciones por canal PDV. \u003cbr /\u003e• Dar soporte al área de liquidación. \u003cbr /\u003e• Actualizar la base de datos de los PDV de clientes (direcciones, georreferenciación y otros). \u003cbr /\u003e\u003cbr /\u003eTe recomendamos estar al pendiente de tu WhatsApp, nos contactaremos por ese medio.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

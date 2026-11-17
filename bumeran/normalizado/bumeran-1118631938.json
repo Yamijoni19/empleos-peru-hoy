@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118631938",
+    "clave":  "id:1118631938",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/control-documentario-cwe-peru-1118631938.html",
+                   "capturadoEn":  "2026-11-17T03:53:49+00:00"
+               },
+    "titulo":  "CONTROL DOCUMENTARIO",
+    "empresa":  "CWE-(PERÚ)",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "REQUISITOS DEL PUESTO – CONTROL DOCUMENTARIO Profesional titulado universitario. Manejo de ACONEX a nivel intermedio – avanzado. Experiencia en Control Documentario, de preferencia en proyectos de la Unidad Minera Las Bambas. Disponibilidad para laborar bajo régimen 14x7 . Zona de trabajo: Challhuahuacho – Apurímac . BENEFICIOS: Alimentación cubierta. Hospedaje cubierto. Traslado cubierto.",
+    "requisitos":  [
+                       "DEL PUESTO – CONTROL DOCUMENTARIO",
+                       "Profesional titulado universitario",
+                       "Manejo de ACONEX a nivel intermedio – avanzado",
+                       "Experiencia en Control Documentario, de preferencia en proyectos de la Unidad Minera Las Bambas",
+                       "Disponibilidad para laborar bajo régimen 14x7",
+                       "Zona de trabajo: Challhuahuacho – Apurímac"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Alimentación cubierta",
+                       "Hospedaje cubierto",
+                       "Traslado cubierto"
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/control-documentario-cwe-peru-1118631938.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/control-documentario-cwe-peru-1118631938.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eREQUISITOS DEL PUESTO – CONTROL DOCUMENTARIO\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional titulado universitario.\u003c/li\u003e \u003cli\u003eManejo de ACONEX a nivel intermedio – avanzado.\u003c/li\u003e \u003cli\u003eExperiencia en Control Documentario, de preferencia en proyectos de la Unidad Minera Las Bambas.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar bajo régimen \u003cstrong\u003e14x7\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eZona de trabajo: \u003cstrong\u003eChallhuahuacho – Apurímac\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBENEFICIOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAlimentación cubierta.\u003c/li\u003e \u003cli\u003eHospedaje cubierto.\u003c/li\u003e \u003cli\u003eTraslado cubierto.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

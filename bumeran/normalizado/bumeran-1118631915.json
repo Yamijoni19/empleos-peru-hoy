@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118631915",
+    "clave":  "id:1118631915",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-seleccion-1118631915.html",
+                   "capturadoEn":  "2026-11-17T03:53:56+00:00"
+               },
+    "titulo":  "Coordinador de selección",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  3300,
+                    "max":  3300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 3,300",
+                    "fuente_salario":  "jsonld"
+                },
+    "descripcion":  "Gestionar el proceso integral de reclutamiento y selección (requerimientos, filtro CV, entrevistas y evaluaciones psicológicas). Administrar y actualizar las fuentes de reclutamiento, base de datos de postulantes y control de indicadores del área. Ejecutar el proceso de contratación: elaboración de legajos, altas en SUNAT y registro en sistema ERP, etc. Coordinar y ejecutar el proceso de inducción del personal nuevo. Realizar seguimiento a la cobertura de personal y emitir reportes de gestión. Proponer mejoras en los procesos del área y asegurar el cumplimiento de la dotación. Requisitos: Bachiller o Titulado(a) en Psicología (especialidad Organizacional), Administración o afines. 3 años de experiencia como Coordinador(a) (deseable en el rubro industrial, retail, manufactura con experiencias en procesos masivos). Manejo de ERP. Excel intermedio (manejo tablas dinámicas, gráficos, bases de datos). Manejo de Kpi\u0027s. Disponibilidad para laborar de lunes a sábado Beneficios Ingreso a planilla desde el primer día con todos los beneficios de ley. Remuneración acorde al mercado Oportunidad de pertenecer a una empresa líder en su rubro.",
+    "requisitos":  [
+                       "Bachiller o Titulado(a) en Psicología (especialidad Organizacional), Administración o afines",
+                       "3 años de experiencia como Coordinador(a) (deseable en el rubro industrial, retail, manufactura con experiencias en procesos masivos)",
+                       "Manejo de ERP",
+                       "Excel intermedio (manejo tablas dinámicas, gráficos, bases de datos)",
+                       "Manejo de Kpi\u0027s",
+                       "Disponibilidad para laborar de lunes a sábado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de ley",
+                       "Remuneración acorde al mercado",
+                       "Oportunidad de pertenecer a una empresa líder en su rubro"
+                   ],
+    "fecha_publicacion":  "2026-11-15",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-seleccion-1118631915.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-seleccion-1118631915.html",
+    "descripcion_html":  "\u003cul\u003e \u003cli\u003eGestionar el proceso integral de reclutamiento y selección (requerimientos, filtro CV, entrevistas y evaluaciones psicológicas).\u003c/li\u003e \u003cli\u003eAdministrar y actualizar las fuentes de reclutamiento, base de datos de postulantes y control de indicadores del área.\u003c/li\u003e \u003cli\u003eEjecutar el proceso de contratación: elaboración de legajos, altas en SUNAT y registro en sistema ERP, etc.\u003c/li\u003e \u003cli\u003eCoordinar y ejecutar el proceso de inducción del personal nuevo.\u003c/li\u003e \u003cli\u003eRealizar seguimiento a la cobertura de personal y emitir reportes de gestión.\u003c/li\u003e \u003cli\u003eProponer mejoras en los procesos del área y asegurar el cumplimiento de la dotación.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eBachiller o Titulado(a) en Psicología (especialidad Organizacional), Administración o afines.\u003c/li\u003e \u003cli\u003e3 años de experiencia como Coordinador(a) (deseable en el rubro industrial, retail, manufactura con experiencias en procesos masivos).\u003c/li\u003e \u003cli\u003eManejo de ERP.\u003c/li\u003e \u003cli\u003eExcel intermedio (manejo tablas dinámicas, gráficos, bases de datos).\u003c/li\u003e \u003cli\u003eManejo de Kpi\u0027s.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a sábado\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eIngreso a planilla desde el primer día con todos los beneficios de ley.\u003c/li\u003e \u003cli\u003eRemuneración acorde al mercado\u003c/li\u003e \u003cli\u003eOportunidad de pertenecer a una empresa líder en su rubro.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "15/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
