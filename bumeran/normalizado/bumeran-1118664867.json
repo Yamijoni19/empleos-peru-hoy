@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118664867",
+    "clave":  "id:1118664867",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesores-bbva-banco-turno-am-o-pm-solo-5-dias-beneficios-1118664867.html",
+                   "capturadoEn":  "2026-11-17T13:24:56+00:00"
+               },
+    "titulo":  "Asesores BBVA / Banco / Turno AM O PM / SOLO 5 Días + Beneficios",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente líder en el rubro de telecomunicaciones, nos encontramos en búsqueda de talentos para cubrir la posición de: Atencion al cliente BANCO BBVA / PRESENCIAL CERCADO DE LIMA FUNCIÓN: Servicio de atención a clientes para consultas, requerimientos, reclamos y otros sobre tarjetas de créditos y productos derivados REQUISITOS: Secundaria completa. Experiencia mínima de 3 MESES en ATC CALL CENTER o 3 MESES en BANCA PRESENCIAL O CALL Disponibilidad para trabajar centro Comercial Real Plaza Centro Cívico-CercadodeLima. HORARIO: ESCOGE TU HORARIO FULL TIME: LUNES A DOMINGO DE 08 AM A 08 PM (RANGO HORARIO,SOLO 8 HORAS + REFRIGERIO) BENEFICIOS: Sueldo fijo S./ 1230 + Planilla completa. Línea de carrera. Convenios educativos y corporativos. “En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad\".",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Experiencia mínima de 3 MESES en ATC CALL CENTER o 3 MESES en BANCA PRESENCIAL O CALL",
+                       "Disponibilidad para trabajar centro Comercial Real Plaza Centro Cívico-CercadodeLima",
+                       "HORARIO: ESCOGE TU HORARIO",
+                       "FULL TIME: LUNES A DOMINGO DE 08 AM A 08 PM (RANGO HORARIO,SOLO 8 HORAS + REFRIGERIO)"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Sueldo fijo S./ 1230 + Planilla completa. Línea de carrera. Convenios educativos y corporativos",
+                       "“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad\""
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesores-bbva-banco-turno-am-o-pm-solo-5-dias-beneficios-1118664867.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesores-bbva-banco-turno-am-o-pm-solo-5-dias-beneficios-1118664867.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente líder en el rubro de telecomunicaciones, nos encontramos en búsqueda de talentos para cubrir la posición de:\u003c/p\u003e\u003cp\u003eAtencion al cliente BANCO BBVA / PRESENCIAL CERCADO DE LIMA\u003c/p\u003e\u003cp\u003eFUNCIÓN: Servicio de atención a clientes para consultas, requerimientos, reclamos y otros sobre tarjetas de créditos y productos derivados\u003c/p\u003e\u003cp\u003eREQUISITOS:\u003c/p\u003e\u003cp\u003eSecundaria completa.\u003c/p\u003e\u003cp\u003eExperiencia mínima de 3 MESES en ATC CALL CENTER o 3 MESES en BANCA PRESENCIAL O CALL\u003c/p\u003e\u003cp\u003eDisponibilidad para trabajar centro Comercial Real Plaza Centro Cívico-CercadodeLima.\u003c/p\u003e\u003cp\u003eHORARIO: ESCOGE TU HORARIO\u003c/p\u003e\u003cp\u003eFULL TIME: LUNES A DOMINGO DE 08 AM A 08 PM (RANGO HORARIO,SOLO 8 HORAS + REFRIGERIO)\u003c/p\u003e\u003cp\u003eBENEFICIOS:\u003c/p\u003e\u003cp\u003eSueldo fijo S./ 1230 + Planilla completa. Línea de carrera. Convenios educativos y corporativos.\u003c/p\u003e\u003cp\u003e“En Manpower promovemos la inserción e inclusión laboral de personas con discapacidad\u0026quot;.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "ESCOGE TU HORARIO",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118664805",
+    "clave":  "id:1118664805",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-y-mozo-a-hikari-corp-s.a.c.-1118664805.html",
+                   "capturadoEn":  "2026-11-17T13:25:17+00:00"
+               },
+    "titulo":  "Ayudante de Cocina y Mozo/a",
+    "empresa":  "HIKARI CORP S.A.C.",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina y Mozo/a Resumen del Puesto Buscamos personal dinámico y comprometido para unirse a nuestro equipo en el área de gastronomía. Se valorará la proactividad y la capacidad para trabajar en un entorno de ritmo rápido. Responsabilidades para Ayudante de Cocina Colaborar en la preparación de alimentos. Mantener la organización y limpieza del área de cocina. Asistir en la preparación de ingredientes (mise en place). Se considerará experiencia previa en establecimientos gastronómicos. Responsabilidades para Mozo/a Brindar atención amable y cordial a los comensales. Gestionar la toma y entrega de pedidos. Asegurar la limpieza y organización del salón. Se considerará experiencia en atención al cliente. Ofrecemos Remuneración competitiva acorde al puesto y experiencia. Alimentación cubierta durante la jornada laboral. Un ambiente de trabajo positivo y colaborativo. Flexibilidad en la coordinación de horarios. Requisitos Generales Actitud responsable, puntual y proactiva. Capacidad demostrada para trabajar en equipo. Ganas de aprender y desarrollarse profesionalmente.",
+    "requisitos":  [
+                       "Generales",
+                       "Actitud responsable, puntual y proactiva",
+                       "Capacidad demostrada para trabajar en equipo",
+                       "Ganas de aprender y desarrollarse profesionalmente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-y-mozo-a-hikari-corp-s.a.c.-1118664805.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-y-mozo-a-hikari-corp-s.a.c.-1118664805.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Cocina y Mozo/a\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personal dinámico y comprometido para unirse a nuestro equipo en el área de gastronomía. Se valorará la proactividad y la capacidad para trabajar en un entorno de ritmo rápido.\u003c/p\u003e \u003cb\u003eResponsabilidades para Ayudante de Cocina\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la preparación de alimentos.\u003c/li\u003e \u003cli\u003eMantener la organización y limpieza del área de cocina.\u003c/li\u003e \u003cli\u003eAsistir en la preparación de ingredientes (mise en place).\u003c/li\u003e \u003cli\u003eSe considerará experiencia previa en establecimientos gastronómicos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eResponsabilidades para Mozo/a\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar atención amable y cordial a los comensales.\u003c/li\u003e \u003cli\u003eGestionar la toma y entrega de pedidos.\u003c/li\u003e \u003cli\u003eAsegurar la limpieza y organización del salón.\u003c/li\u003e \u003cli\u003eSe considerará experiencia en atención al cliente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración competitiva acorde al puesto y experiencia.\u003c/li\u003e \u003cli\u003eAlimentación cubierta durante la jornada laboral.\u003c/li\u003e \u003cli\u003eUn ambiente de trabajo positivo y colaborativo.\u003c/li\u003e \u003cli\u003eFlexibilidad en la coordinación de horarios.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos Generales\u003c/b\u003e \u003cul\u003e \u003cli\u003eActitud responsable, puntual y proactiva.\u003c/li\u003e \u003cli\u003eCapacidad demostrada para trabajar en equipo.\u003c/li\u003e \u003cli\u003eGanas de aprender y desarrollarse profesionalmente.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
