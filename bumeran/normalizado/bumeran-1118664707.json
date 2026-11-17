@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118664707",
+    "clave":  "id:1118664707",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/customer-service-representatives-in-english-ia-peru-1118664707.html",
+                   "capturadoEn":  "2026-11-17T22:23:34+00:00"
+               },
+    "titulo":  "CUSTOMER SERVICE REPRESENTATIVES IN ENGLISH",
+    "empresa":  "IA PERU",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Job Summary We are looking for a Call Representative in English to join our team Remotely/Onsite. In this role, you will be responsible for providing excellent customer service to our current and potential customers. You will be the first point of contact for our customers, and you will be responsible for answering their questions, resolving their issues, and providing them with the best possible experience. Responsibilities Answer inbound and outbound calls from customers Provide customer service and support Resolve customer issues Follow scripts when handling different topics Identify customer needs Clarify information Enter information Document procesing Provide solutions and/or alternatives Qualifications Strong phone and verbal communication skills Excellent active listening skills Customer focus and adaptability to different personality types English fluency Basic computer knowledge (Windows, Office) Ability to work well within a team Benefits Full-time position Steady work hours Long-term positions Competitive salary Paid holidays We are looking for a team player who is passionate about providing excellent customer service. If you are a strong communicator with excellent phone and verbal skills, we encourage you to apply for this position.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/customer-service-representatives-in-english-ia-peru-1118664707.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/customer-service-representatives-in-english-ia-peru-1118664707.html",
+    "descripcion_html":  "\u003cp\u003eJob Summary\u003c/p\u003e\u003cul\u003e \u003cli\u003eWe are looking for a Call Representative in English to join our team Remotely/Onsite. In this role, you will be responsible for providing excellent customer service to our current and potential customers. You will be the first point of contact for our customers, and you will be responsible for answering their questions, resolving their issues, and providing them with the best possible experience.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eResponsibilities\u003c/p\u003e\u003cul\u003e \u003cli\u003eAnswer inbound and outbound calls from customers\u003c/li\u003e \u003cli\u003eProvide customer service and support\u003c/li\u003e \u003cli\u003eResolve customer issues\u003c/li\u003e \u003cli\u003eFollow scripts when handling different topics\u003c/li\u003e \u003cli\u003eIdentify customer needs\u003c/li\u003e \u003cli\u003eClarify information\u003c/li\u003e \u003cli\u003eEnter information\u003c/li\u003e \u003cli\u003eDocument procesing\u003c/li\u003e \u003cli\u003eProvide solutions and/or alternatives\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eQualifications\u003c/p\u003e\u003cul\u003e \u003cli\u003eStrong phone and verbal communication skills\u003c/li\u003e \u003cli\u003eExcellent active listening skills\u003c/li\u003e \u003cli\u003eCustomer focus and adaptability to different personality types\u003c/li\u003e \u003cli\u003eEnglish fluency\u003c/li\u003e \u003cli\u003eBasic computer knowledge (Windows, Office)\u003c/li\u003e \u003cli\u003eAbility to work well within a team\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBenefits\u003c/p\u003e\u003cul\u003e \u003cli\u003eFull-time position\u003c/li\u003e \u003cli\u003eSteady work hours\u003c/li\u003e \u003cli\u003eLong-term positions\u003c/li\u003e \u003cli\u003eCompetitive salary\u003c/li\u003e \u003cli\u003ePaid holidays\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eWe are looking for a team player who is passionate about providing excellent customer service. If you are a strong communicator with excellent phone and verbal skills, we encourage you to apply for this position.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

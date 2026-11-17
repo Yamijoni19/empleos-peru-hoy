@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118664781",
+    "clave":  "id:1118664781",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-para-transmisiones-en-vivo-tiktok-jindao-1118664781.html",
+                   "capturadoEn":  "2026-11-17T22:23:20+00:00"
+               },
+    "titulo":  "Asesora de Ventas para Transmisiones en Vivo TIKTOK",
+    "empresa":  "JINDAO",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1100,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,100 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesora de Ventas para Transmisiones en Vivo Resumen del Puesto Buscamos dos persona carismática, creativa y con gran desenvolvimiento frente a cámaras para unirse a nuestro equipo de ventas. El rol principal será realizar transmisiones en vivo para promocionar y vender nuestros productos, interactuando activamente con la audiencia y cerrando ventas. Responsabilidades Realizar transmisiones en vivo en plataformas digitales. Presentar y promocionar productos de manera atractiva. Interactuar con los espectadores, respondiendo consultas y generando engagement. Gestionar y concretar ventas a través de canales de comunicación directa. Requisitos Facilidad de palabra y excelente desenvolvimiento frente a cámaras. Actitud positiva, proactiva y con habilidad para persuadir. Sólidas habilidades de comunicación y orientación a resultados de venta. Conocimiento en herramientas de diseño y edición de video (deseable). Disponibilidad para trabajar de martes a domingo, descanso lunes Enviar pretensiones",
+    "requisitos":  [
+                       "Facilidad de palabra y excelente desenvolvimiento frente a cámaras",
+                       "Actitud positiva, proactiva y con habilidad para persuadir",
+                       "Sólidas habilidades de comunicación y orientación a resultados de venta",
+                       "Conocimiento en herramientas de diseño y edición de video (deseable)",
+                       "Disponibilidad para trabajar de martes a domingo, descanso lunes",
+                       "Enviar pretensiones"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-para-transmisiones-en-vivo-tiktok-jindao-1118664781.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-para-transmisiones-en-vivo-tiktok-jindao-1118664781.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesora de Ventas para Transmisiones en Vivo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos dos persona carismática, creativa y con gran desenvolvimiento frente a cámaras para unirse a nuestro equipo de ventas. El rol principal será realizar transmisiones en vivo para promocionar y vender nuestros productos, interactuando activamente con la audiencia y cerrando ventas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar transmisiones en vivo en plataformas digitales.\u003c/li\u003e \u003cli\u003ePresentar y promocionar productos de manera atractiva.\u003c/li\u003e \u003cli\u003eInteractuar con los espectadores, respondiendo consultas y generando engagement.\u003c/li\u003e \u003cli\u003eGestionar y concretar ventas a través de canales de comunicación directa.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFacilidad de palabra y excelente desenvolvimiento frente a cámaras.\u003c/li\u003e \u003cli\u003eActitud positiva, proactiva y con habilidad para persuadir.\u003c/li\u003e \u003cli\u003eSólidas habilidades de comunicación y orientación a resultados de venta.\u003c/li\u003e \u003cli\u003eConocimiento en herramientas de diseño y edición de video (deseable).\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar de martes a domingo, descanso lunes\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eEnviar pretensiones\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

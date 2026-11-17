@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118664803",
+    "clave":  "id:1118664803",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-oficina-tecnica-lima-y-provincias-carbonell-figueras-1118664803.html",
+                   "capturadoEn":  "2026-11-17T22:23:15+00:00"
+               },
+    "titulo":  "JEFE DE OFICINA TÉCNICA - LIMA Y PROVINCIAS",
+    "empresa":  "CARBONELL FIGUERAS",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En Carbonell Figueras Perú, filial del Grupo Carbonell Figueras, nos dedicamos a ofrecer servicios de construcción, mantenimiento de plantas, logística, transporte y montaje electromecánico, con más de 40 años de experiencia a nivel internacional. Si eres un profesional proactivo y deseas formar parte de un equipo en constante crecimiento, te invitamos a postular y a contribuir al desarrollo de proyectos industriales clave en el país. Actualmente, estamos en busqueda de un Jefe de Oficina Técnica con experiencia en proyectos de construcción industrial. El candidato ideal será responsable de la administración de la oficina técnica y gestión del contrato. Asimismo debe poseer alta capacidad de análisis y resolución de problemas. Requisitos: Titulado y colegiado en Ingeniería mecánica, eléctrica, petroquímica, civil o Industrial. Contar con 10 años de experiencia desde la titulación en el sector Oil \u0026Gas Contar con 8 años de experiencia en el puesto. Contar con certificación PMP (deseable) Importante : Solo se considerarán postulaciones que cumplan con todos los requisitos excluyentes .",
+    "requisitos":  [
+                       "excluyentes"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-oficina-tecnica-lima-y-provincias-carbonell-figueras-1118664803.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-oficina-tecnica-lima-y-provincias-carbonell-figueras-1118664803.html",
+    "descripcion_html":  "\u003cp style=\"\"\u003e\u003cspan style=\"\"\u003eEn Carbonell Figueras Perú, filial del Grupo Carbonell Figueras, nos dedicamos a ofrecer servicios de construcción, mantenimiento de plantas, logística, transporte y montaje electromecánico, con más de 40 años de experiencia a nivel internacional.\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e\u003cbr /\u003e\u003cspan style=\"\"\u003eSi eres un profesional proactivo y deseas formar parte de un equipo en constante crecimiento, te invitamos a postular y a contribuir al desarrollo de proyectos industriales clave en el país.\u003c/span\u003e\u003c/p\u003e \u003cp style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003eActualmente, estamos en busqueda de un \u003cstrong\u003eJefe de Oficina Técnica\u003c/strong\u003e con experiencia en proyectos de construcción industrial. El candidato ideal será responsable de la administración de la oficina técnica y gestión del contrato. Asimismo debe poseer alta capacidad de análisis y resolución de problemas. \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cp style=\"\"\u003e \u003c/p\u003e \u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul style=\"\"\u003e \u003cli style=\"\"\u003eTitulado y colegiado en Ingeniería mecánica, eléctrica, petroquímica, civil o Industrial.\u003c/li\u003e \u003cli style=\"\"\u003eContar con 10 años de experiencia desde la titulación en el sector Oil \u0026Gas\u003c/li\u003e \u003cli style=\"\"\u003eContar con 8 años de experiencia en el puesto.\u003c/li\u003e \u003cli style=\"\"\u003eContar con certificación PMP (deseable)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cspan\u003e\u003cspan\u003e\u003cspan\u003e\u003cstrong\u003eImportante\u003c/strong\u003e: Solo se considerarán postulaciones que cumplan con \u003cstrong\u003etodos los requisitos excluyentes\u003c/strong\u003e.\u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003c/p\u003e\u003cbr/\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 40 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
