@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118664702",
+    "clave":  "id:1118664702",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-corporacion-suniva-1118664702.html",
+                   "capturadoEn":  "2026-11-18T04:19:57+00:00"
+               },
+    "titulo":  "Auxiliar Contable",
+    "empresa":  "CORPORACION SUNIVA",
+    "ubicacion":  "Lima - San Miguel",
+    "ciudad":  "San Miguel",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 1,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Auxiliar Contable Resumen del Puesto Estamos en la búsqueda de un Auxiliar Contable para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en tareas contables y un buen manejo de herramientas informáticas. Responsabilidades Elaboración y manejo de planillas. Realización de declaraciones mensuales. Manejo de sistemas contables. Gestión de registros de compras y ventas electrónicos. Manejo de Microsoft Excel. Organización y registro de documentación contable. Requisitos Experiencia previa en puestos similares. Conocimiento en sistemas contables y declaraciones mensuales. Dominio de Microsoft Excel. Capacidad de organización y atención al detalle. Habilidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Experiencia previa en puestos similares",
+                       "Conocimiento en sistemas contables y declaraciones mensuales",
+                       "Dominio de Microsoft Excel",
+                       "Capacidad de organización y atención al detalle",
+                       "Habilidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-corporacion-suniva-1118664702.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-corporacion-suniva-1118664702.html",
+    "descripcion_html":  "\u003cb\u003eAuxiliar Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAuxiliar Contable\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en tareas contables y un buen manejo de herramientas informáticas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eElaboración y manejo de planillas.\u003c/li\u003e \u003cli\u003eRealización de declaraciones mensuales.\u003c/li\u003e \u003cli\u003eManejo de sistemas contables.\u003c/li\u003e \u003cli\u003eGestión de registros de compras y ventas electrónicos.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Excel.\u003c/li\u003e \u003cli\u003eOrganización y registro de documentación contable.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento en sistemas contables y declaraciones mensuales.\u003c/li\u003e \u003cli\u003eDominio de Microsoft Excel.\u003c/li\u003e \u003cli\u003eCapacidad de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

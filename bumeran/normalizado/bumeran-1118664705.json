@@ -1,0 +1,94 @@
+{
+    "id":  "bumeran-1118664705",
+    "clave":  "id:1118664705",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitecto-de-soluciones-senior-informatica-delta-s.a.c.-1118664705.html",
+                   "capturadoEn":  "2026-11-18T04:19:54+00:00"
+               },
+    "titulo":  "Arquitecto de Soluciones Senior",
+    "empresa":  "INFORMATICA DELTA S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Funciones Principales: Levantar requerimientos funcionales y no funcionales con negocio, producto y tecnología, aclarando alcance, restricciones y supuestos. Diseñar la arquitectura de solución end-to-end (aplicaciones, integración, datos, infraestructura/cloud) , asegurando alineamiento con la estrategia y estándares de Arquitectura. Diseñar y gobernar las arquitecturas de solución asociadas al Core Bancario y su ecosistema en Banca Empresa, asegurando soluciones seguras, resilientes, escalables e integrables, alineadas con los estándares tecnológicos del banco y promoviendo la evolución y desacoplamiento progresivo del core. Elaborar y mantener documentación de arquitectura: HLD/LLD, diagramas (C4/UML/Archimate), ADRs, y especificaciones técnicas. - Diseñar e impulsar la seguridad por diseño (IAM, cifrado, gestión de secretos, threat modeling, OWASP, compliance) junto a equipos de ciberseguridad. Diseñar arquitecturas de integración entre core y el ecosistema tecnológico del banco, promoviendo desacoplamiento, reutilización, APIs, eventos y mecanismos de integración adecuados, evitando dependencias innecesarias sobre el core. Definir y gestionar requerimientos no funcionales asociados a disponibilidad, rendimiento, escalabilidad, resiliencia, recuperación, observabilidad, seguridad y continuidad para soluciones que interactúan con procesos críticos del core. Acompañar a los equipos de delivery en la implementación, resolviendo bloqueos técnicos y validando que se cumpla el diseño arquitectónico. - Participar en revisiones técnicas (Architecture Review Board), control de cambios y gestión de riesgos técnicos del proyecto. Participar en iniciativas de modernización del Core y su ecosistema, evaluando desacoplamiento, externalización de capacidades, modernización de integraciones, cloud, APIs, eventos y estrategias de evolución progresiva. Actuar como referente técnico de arquitectura para Core, articulando con especialistas del core, desarrollo, infraestructura, datos, integración, seguridad, operaciones, proveedores y arquitectos de otros dominios. Conocimientos y Certificaciones Indispensables: Arquitectura de Soluciones en Banca/Banca Empresa Arquitectura de Aplicación/Software Core Bancario Conocimiento Técnico y Tecnológico (Dominios de Arquitectura) APIs e Integraciones, y Arquitectura Orientada a Eventos Gobierno y Documentación Marcos de Trabajo y Metodologías de Arquitectura Conocimientos y Certificaciones Deseables: Arquitectura Soluciones Especialización den Seguridad Conocimiento en Cloud/AWS Habilidades Blandas: Comunicación Clara Pensamiento analítico, estructurado, y visión E2E Orientación a resultados, gestión de riesgos/dependencias Negociación, toma de decisiones y manejo de conflictos",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Levantar requerimientos funcionales y no funcionales con negocio, producto y tecnología, aclarando alcance, restricciones y supuestos",
+                      "Diseñar la arquitectura de solución end-to-end (aplicaciones, integración, datos, infraestructura/cloud) , asegurando alineamiento con la estrategia y estándares de Arquitectura",
+                      "Diseñar y gobernar las arquitecturas de solución asociadas al Core Bancario y su ecosistema en Banca Empresa, asegurando soluciones seguras, resilientes, escalables e integrables, alineadas con los estándares tecnológicos del banco y promoviendo la evolución y desacoplamiento progresivo del core",
+                      "Elaborar y mantener documentación de arquitectura: HLD/LLD, diagramas (C4/UML/Archimate), ADRs, y especificaciones técnicas. - Diseñar e impulsar la seguridad por diseño (IAM, cifrado, gestión de secretos, threat modeling, OWASP, compliance) junto a equipos de ciberseguridad",
+                      "Diseñar arquitecturas de integración entre core y el ecosistema tecnológico del banco, promoviendo desacoplamiento, reutilización, APIs, eventos y mecanismos de integración adecuados, evitando dependencias innecesarias sobre el core",
+                      "Definir y gestionar requerimientos no funcionales asociados a disponibilidad, rendimiento, escalabilidad, resiliencia, recuperación, observabilidad, seguridad y continuidad para soluciones que interactúan con procesos críticos del core",
+                      "Acompañar a los equipos de delivery en la implementación, resolviendo bloqueos técnicos y validando que se cumpla el diseño arquitectónico. - Participar en revisiones técnicas (Architecture Review Board), control de cambios y gestión de riesgos técnicos del proyecto",
+                      "Participar en iniciativas de modernización del Core y su ecosistema, evaluando desacoplamiento, externalización de capacidades, modernización de integraciones, cloud, APIs, eventos y estrategias de evolución progresiva",
+                      "Actuar como referente técnico de arquitectura para Core, articulando con especialistas del core, desarrollo, infraestructura, datos, integración, seguridad, operaciones, proveedores y arquitectos de otros dominios",
+                      "Conocimientos y Certificaciones Indispensables",
+                      "Arquitectura de Soluciones en Banca/Banca Empresa",
+                      "Arquitectura de Aplicación/Software Core Bancario",
+                      "Conocimiento Técnico y Tecnológico (Dominios de Arquitectura)",
+                      "APIs e Integraciones, y Arquitectura Orientada a Eventos",
+                      "Gobierno y Documentación",
+                      "Marcos de Trabajo y Metodologías de Arquitectura",
+                      "Conocimientos y Certificaciones Deseables",
+                      "Arquitectura Soluciones",
+                      "Especialización den Seguridad",
+                      "Conocimiento en Cloud/AWS",
+                      "Habilidades Blandas",
+                      "Comunicación Clara",
+                      "Pensamiento analítico, estructurado, y visión E2E",
+                      "Orientación a resultados, gestión de riesgos/dependencias",
+                      "Negociación, toma de decisiones y manejo de conflictos"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/arquitecto-de-soluciones-senior-informatica-delta-s.a.c.-1118664705.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitecto-de-soluciones-senior-informatica-delta-s.a.c.-1118664705.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eFunciones Principales: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLevantar requerimientos funcionales y no funcionales con negocio, producto y tecnología, aclarando alcance, restricciones y supuestos. \u003c/li\u003e \u003cli\u003eDiseñar la arquitectura de solución end-to-end (aplicaciones, integración, datos, infraestructura/cloud) , asegurando alineamiento con la estrategia y estándares de Arquitectura. \u003c/li\u003e \u003cli\u003eDiseñar y gobernar las arquitecturas de solución asociadas al Core Bancario y su ecosistema en Banca Empresa, asegurando soluciones seguras, resilientes, escalables e integrables, alineadas con los estándares tecnológicos del banco y promoviendo la evolución y desacoplamiento progresivo del core.\u003c/li\u003e \u003cli\u003eElaborar y mantener documentación de arquitectura: HLD/LLD, diagramas (C4/UML/Archimate), ADRs, y especificaciones técnicas. - Diseñar e impulsar la seguridad por diseño (IAM, cifrado, gestión de secretos, threat modeling, OWASP, compliance) junto a equipos de ciberseguridad. \u003c/li\u003e \u003cli\u003eDiseñar arquitecturas de integración entre core y el ecosistema tecnológico del banco, promoviendo desacoplamiento, reutilización, APIs, eventos y mecanismos de integración adecuados, evitando dependencias innecesarias sobre el core.\u003c/li\u003e \u003cli\u003eDefinir y gestionar requerimientos no funcionales asociados a disponibilidad, rendimiento, escalabilidad, resiliencia, recuperación, observabilidad, seguridad y continuidad para soluciones que interactúan con procesos críticos del core. \u003c/li\u003e \u003cli\u003eAcompañar a los equipos de delivery en la implementación, resolviendo bloqueos técnicos y validando que se cumpla el diseño arquitectónico. - Participar en revisiones técnicas (Architecture Review Board), control de cambios y gestión de riesgos técnicos del proyecto. \u003c/li\u003e \u003cli\u003eParticipar en iniciativas de modernización del Core y su ecosistema, evaluando desacoplamiento, externalización de capacidades, modernización de integraciones, cloud, APIs, eventos y estrategias de evolución progresiva. \u003c/li\u003e \u003cli\u003eActuar como referente técnico de arquitectura para Core, articulando con especialistas del core, desarrollo, infraestructura, datos, integración, seguridad, operaciones, proveedores y arquitectos de otros dominios.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos y Certificaciones Indispensables:\u003c/strong\u003e\u003c/p\u003e\u003col\u003e \u003cli\u003eArquitectura de Soluciones en Banca/Banca Empresa \u003c/li\u003e \u003cli\u003eArquitectura de Aplicación/Software Core Bancario \u003c/li\u003e \u003cli\u003eConocimiento Técnico y Tecnológico (Dominios de Arquitectura) \u003c/li\u003e \u003cli\u003eAPIs e Integraciones, y Arquitectura Orientada a Eventos \u003c/li\u003e \u003cli\u003eGobierno y Documentación \u003c/li\u003e \u003cli\u003eMarcos de Trabajo y Metodologías de Arquitectura\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eConocimientos y Certificaciones Deseables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eArquitectura Soluciones \u003c/li\u003e \u003cli\u003eEspecialización den Seguridad \u003c/li\u003e \u003cli\u003eConocimiento en Cloud/AWS\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eHabilidades Blandas:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComunicación Clara \u003c/li\u003e \u003cli\u003ePensamiento analítico, estructurado, y visión E2E \u003c/li\u003e \u003cli\u003eOrientación a resultados, gestión de riesgos/dependencias \u003c/li\u003e \u003cli\u003eNegociación, toma de decisiones y manejo de conflictos\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

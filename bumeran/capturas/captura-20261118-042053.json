@@ -1,0 +1,1542 @@
+[
+    {
+        "id":  "bumeran-1118664705",
+        "clave":  "id:1118664705",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/arquitecto-de-soluciones-senior-informatica-delta-s.a.c.-1118664705.html",
+                       "capturadoEn":  "2026-11-18T04:19:54+00:00"
+                   },
+        "titulo":  "Arquitecto de Soluciones Senior",
+        "empresa":  "INFORMATICA DELTA S.A.C.",
+        "ubicacion":  "Lima",
+        "ciudad":  "",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "TEMPORARY",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Funciones Principales: Levantar requerimientos funcionales y no funcionales con negocio, producto y tecnología, aclarando alcance, restricciones y supuestos. Diseñar la arquitectura de solución end-to-end (aplicaciones, integración, datos, infraestructura/cloud) , asegurando alineamiento con la estrategia y estándares de Arquitectura. Diseñar y gobernar las arquitecturas de solución asociadas al Core Bancario y su ecosistema en Banca Empresa, asegurando soluciones seguras, resilientes, escalables e integrables, alineadas con los estándares tecnológicos del banco y promoviendo la evolución y desacoplamiento progresivo del core. Elaborar y mantener documentación de arquitectura: HLD/LLD, diagramas (C4/UML/Archimate), ADRs, y especificaciones técnicas. - Diseñar e impulsar la seguridad por diseño (IAM, cifrado, gestión de secretos, threat modeling, OWASP, compliance) junto a equipos de ciberseguridad. Diseñar arquitecturas de integración entre core y el ecosistema tecnológico del banco, promoviendo desacoplamiento, reutilización, APIs, eventos y mecanismos de integración adecuados, evitando dependencias innecesarias sobre el core. Definir y gestionar requerimientos no funcionales asociados a disponibilidad, rendimiento, escalabilidad, resiliencia, recuperación, observabilidad, seguridad y continuidad para soluciones que interactúan con procesos críticos del core. Acompañar a los equipos de delivery en la implementación, resolviendo bloqueos técnicos y validando que se cumpla el diseño arquitectónico. - Participar en revisiones técnicas (Architecture Review Board), control de cambios y gestión de riesgos técnicos del proyecto. Participar en iniciativas de modernización del Core y su ecosistema, evaluando desacoplamiento, externalización de capacidades, modernización de integraciones, cloud, APIs, eventos y estrategias de evolución progresiva. Actuar como referente técnico de arquitectura para Core, articulando con especialistas del core, desarrollo, infraestructura, datos, integración, seguridad, operaciones, proveedores y arquitectos de otros dominios. Conocimientos y Certificaciones Indispensables: Arquitectura de Soluciones en Banca/Banca Empresa Arquitectura de Aplicación/Software Core Bancario Conocimiento Técnico y Tecnológico (Dominios de Arquitectura) APIs e Integraciones, y Arquitectura Orientada a Eventos Gobierno y Documentación Marcos de Trabajo y Metodologías de Arquitectura Conocimientos y Certificaciones Deseables: Arquitectura Soluciones Especialización den Seguridad Conocimiento en Cloud/AWS Habilidades Blandas: Comunicación Clara Pensamiento analítico, estructurado, y visión E2E Orientación a resultados, gestión de riesgos/dependencias Negociación, toma de decisiones y manejo de conflictos",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Principales",
+                          "Levantar requerimientos funcionales y no funcionales con negocio, producto y tecnología, aclarando alcance, restricciones y supuestos",
+                          "Diseñar la arquitectura de solución end-to-end (aplicaciones, integración, datos, infraestructura/cloud) , asegurando alineamiento con la estrategia y estándares de Arquitectura",
+                          "Diseñar y gobernar las arquitecturas de solución asociadas al Core Bancario y su ecosistema en Banca Empresa, asegurando soluciones seguras, resilientes, escalables e integrables, alineadas con los estándares tecnológicos del banco y promoviendo la evolución y desacoplamiento progresivo del core",
+                          "Elaborar y mantener documentación de arquitectura: HLD/LLD, diagramas (C4/UML/Archimate), ADRs, y especificaciones técnicas. - Diseñar e impulsar la seguridad por diseño (IAM, cifrado, gestión de secretos, threat modeling, OWASP, compliance) junto a equipos de ciberseguridad",
+                          "Diseñar arquitecturas de integración entre core y el ecosistema tecnológico del banco, promoviendo desacoplamiento, reutilización, APIs, eventos y mecanismos de integración adecuados, evitando dependencias innecesarias sobre el core",
+                          "Definir y gestionar requerimientos no funcionales asociados a disponibilidad, rendimiento, escalabilidad, resiliencia, recuperación, observabilidad, seguridad y continuidad para soluciones que interactúan con procesos críticos del core",
+                          "Acompañar a los equipos de delivery en la implementación, resolviendo bloqueos técnicos y validando que se cumpla el diseño arquitectónico. - Participar en revisiones técnicas (Architecture Review Board), control de cambios y gestión de riesgos técnicos del proyecto",
+                          "Participar en iniciativas de modernización del Core y su ecosistema, evaluando desacoplamiento, externalización de capacidades, modernización de integraciones, cloud, APIs, eventos y estrategias de evolución progresiva",
+                          "Actuar como referente técnico de arquitectura para Core, articulando con especialistas del core, desarrollo, infraestructura, datos, integración, seguridad, operaciones, proveedores y arquitectos de otros dominios",
+                          "Conocimientos y Certificaciones Indispensables",
+                          "Arquitectura de Soluciones en Banca/Banca Empresa",
+                          "Arquitectura de Aplicación/Software Core Bancario",
+                          "Conocimiento Técnico y Tecnológico (Dominios de Arquitectura)",
+                          "APIs e Integraciones, y Arquitectura Orientada a Eventos",
+                          "Gobierno y Documentación",
+                          "Marcos de Trabajo y Metodologías de Arquitectura",
+                          "Conocimientos y Certificaciones Deseables",
+                          "Arquitectura Soluciones",
+                          "Especialización den Seguridad",
+                          "Conocimiento en Cloud/AWS",
+                          "Habilidades Blandas",
+                          "Comunicación Clara",
+                          "Pensamiento analítico, estructurado, y visión E2E",
+                          "Orientación a resultados, gestión de riesgos/dependencias",
+                          "Negociación, toma de decisiones y manejo de conflictos"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/arquitecto-de-soluciones-senior-informatica-delta-s.a.c.-1118664705.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/arquitecto-de-soluciones-senior-informatica-delta-s.a.c.-1118664705.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eFunciones Principales: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLevantar requerimientos funcionales y no funcionales con negocio, producto y tecnología, aclarando alcance, restricciones y supuestos. \u003c/li\u003e \u003cli\u003eDiseñar la arquitectura de solución end-to-end (aplicaciones, integración, datos, infraestructura/cloud) , asegurando alineamiento con la estrategia y estándares de Arquitectura. \u003c/li\u003e \u003cli\u003eDiseñar y gobernar las arquitecturas de solución asociadas al Core Bancario y su ecosistema en Banca Empresa, asegurando soluciones seguras, resilientes, escalables e integrables, alineadas con los estándares tecnológicos del banco y promoviendo la evolución y desacoplamiento progresivo del core.\u003c/li\u003e \u003cli\u003eElaborar y mantener documentación de arquitectura: HLD/LLD, diagramas (C4/UML/Archimate), ADRs, y especificaciones técnicas. - Diseñar e impulsar la seguridad por diseño (IAM, cifrado, gestión de secretos, threat modeling, OWASP, compliance) junto a equipos de ciberseguridad. \u003c/li\u003e \u003cli\u003eDiseñar arquitecturas de integración entre core y el ecosistema tecnológico del banco, promoviendo desacoplamiento, reutilización, APIs, eventos y mecanismos de integración adecuados, evitando dependencias innecesarias sobre el core.\u003c/li\u003e \u003cli\u003eDefinir y gestionar requerimientos no funcionales asociados a disponibilidad, rendimiento, escalabilidad, resiliencia, recuperación, observabilidad, seguridad y continuidad para soluciones que interactúan con procesos críticos del core. \u003c/li\u003e \u003cli\u003eAcompañar a los equipos de delivery en la implementación, resolviendo bloqueos técnicos y validando que se cumpla el diseño arquitectónico. - Participar en revisiones técnicas (Architecture Review Board), control de cambios y gestión de riesgos técnicos del proyecto. \u003c/li\u003e \u003cli\u003eParticipar en iniciativas de modernización del Core y su ecosistema, evaluando desacoplamiento, externalización de capacidades, modernización de integraciones, cloud, APIs, eventos y estrategias de evolución progresiva. \u003c/li\u003e \u003cli\u003eActuar como referente técnico de arquitectura para Core, articulando con especialistas del core, desarrollo, infraestructura, datos, integración, seguridad, operaciones, proveedores y arquitectos de otros dominios.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos y Certificaciones Indispensables:\u003c/strong\u003e\u003c/p\u003e\u003col\u003e \u003cli\u003eArquitectura de Soluciones en Banca/Banca Empresa \u003c/li\u003e \u003cli\u003eArquitectura de Aplicación/Software Core Bancario \u003c/li\u003e \u003cli\u003eConocimiento Técnico y Tecnológico (Dominios de Arquitectura) \u003c/li\u003e \u003cli\u003eAPIs e Integraciones, y Arquitectura Orientada a Eventos \u003c/li\u003e \u003cli\u003eGobierno y Documentación \u003c/li\u003e \u003cli\u003eMarcos de Trabajo y Metodologías de Arquitectura\u003c/li\u003e\u003c/ol\u003e\u003cp\u003e\u003cstrong\u003eConocimientos y Certificaciones Deseables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eArquitectura Soluciones \u003c/li\u003e \u003cli\u003eEspecialización den Seguridad \u003c/li\u003e \u003cli\u003eConocimiento en Cloud/AWS\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eHabilidades Blandas:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eComunicación Clara \u003c/li\u003e \u003cli\u003ePensamiento analítico, estructurado, y visión E2E \u003c/li\u003e \u003cli\u003eOrientación a resultados, gestión de riesgos/dependencias \u003c/li\u003e \u003cli\u003eNegociación, toma de decisiones y manejo de conflictos\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664702",
+        "clave":  "id:1118664702",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-corporacion-suniva-1118664702.html",
+                       "capturadoEn":  "2026-11-18T04:19:57+00:00"
+                   },
+        "titulo":  "Auxiliar Contable",
+        "empresa":  "CORPORACION SUNIVA",
+        "ubicacion":  "Lima - San Miguel",
+        "ciudad":  "San Miguel",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1500,
+                        "max":  1700,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/ 1,500 - S/ 1,700",
+                        "fuente_salario":  "rango"
+                    },
+        "descripcion":  "Auxiliar Contable Resumen del Puesto Estamos en la búsqueda de un Auxiliar Contable para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en tareas contables y un buen manejo de herramientas informáticas. Responsabilidades Elaboración y manejo de planillas. Realización de declaraciones mensuales. Manejo de sistemas contables. Gestión de registros de compras y ventas electrónicos. Manejo de Microsoft Excel. Organización y registro de documentación contable. Requisitos Experiencia previa en puestos similares. Conocimiento en sistemas contables y declaraciones mensuales. Dominio de Microsoft Excel. Capacidad de organización y atención al detalle. Habilidad para trabajar de forma autónoma y en equipo.",
+        "requisitos":  [
+                           "Experiencia previa en puestos similares",
+                           "Conocimiento en sistemas contables y declaraciones mensuales",
+                           "Dominio de Microsoft Excel",
+                           "Capacidad de organización y atención al detalle",
+                           "Habilidad para trabajar de forma autónoma y en equipo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-corporacion-suniva-1118664702.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/auxiliar-contable-corporacion-suniva-1118664702.html",
+        "descripcion_html":  "\u003cb\u003eAuxiliar Contable\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAuxiliar Contable\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en tareas contables y un buen manejo de herramientas informáticas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eElaboración y manejo de planillas.\u003c/li\u003e \u003cli\u003eRealización de declaraciones mensuales.\u003c/li\u003e \u003cli\u003eManejo de sistemas contables.\u003c/li\u003e \u003cli\u003eGestión de registros de compras y ventas electrónicos.\u003c/li\u003e \u003cli\u003eManejo de Microsoft Excel.\u003c/li\u003e \u003cli\u003eOrganización y registro de documentación contable.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento en sistemas contables y declaraciones mensuales.\u003c/li\u003e \u003cli\u003eDominio de Microsoft Excel.\u003c/li\u003e \u003cli\u003eCapacidad de organización y atención al detalle.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664701",
+        "clave":  "id:1118664701",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/gerentea-comercial-bigmond-group-1118664701.html",
+                       "capturadoEn":  "2026-11-18T04:19:58+00:00"
+                   },
+        "titulo":  "GERENTE(A) COMERCIAL",
+        "empresa":  "Bigmond Group",
+        "ubicacion":  "Puno",
+        "ciudad":  "Puno",
+        "region":  "Puno",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "En Bigmond Executive Search, firma perteneciente a Bigmond Group, por encargo de nuestro cliente, importante empresa del sector de distribución en la zona sur del Perú, nos encontramos en la búsqueda de un(a): GERENTE(A) COMERCIAL Función principal: Dirigir, formular y controlar la gestión comercial de la empresa en el ámbito de concesión, asegurando el cumplimiento del marco regulatorio del mercado eléctrico, la sostenibilidad financiera, la eficiencia operativa y la calidad del servicio al cliente, mediante la administración integral de contratos de energía, procesos de facturación y cobranza, control de pérdidas y atención comercial. Requisitos: Bachiller indispensable en Administración de Empresas, Ingenierías, Economía u otras carreras afines al giro del negocio. Título deseable. Indispensable Grado de Maestro en MBA o Magister o Maestría en Gerencia de Proyectos y/o Operaciones o Administración o afines al puesto; o alternativamente o Título profesional más Especialización afín al puesto y un (01) año adicional a la experiencia especifica en el puesto. Especialización en Planeamiento Estratégico, Gestión Comercial o de ventas y/o otras afines. (deseable). Experiencia laboral general de siete (07) años mínimo desde egresado (indispensable). Experiencia en el puesto de tres (03) años mínimo en cargos gerenciales o equivalentes liderando áreas de similares características o responsabilidades, en empresas públicas y/o privadas y/o entidades del gobierno nacional. Habiendo ejercido estos cargos dentro de los últimos 10 años, indistintamente. (indispensable). Experiencia en el sector de dos (02) años en empresas públicas y/o privadas y/o entidades del gobierno nacional, afines al sector o sectores de la corporación (deseable). Conocimientos en Regulación tarifaria del sector, Atención al cliente, Gestión de Finanzas, Gestión y Normas Públicas y/o otras afines. (deseable). Conocimientos de Inglés a nivel intermedio (deseable). Conocimientos del paquete de Office nivel intermedio (deseable). Lugar De Trabajo: Puno Se ofrece: Gratificaciones, vacaciones y utilidades, de acuerdo a ley Compensación por tiempo de servicios Canasta navideña Seguro de accidentes personales (SCTR) Seguro de Vida ley Ropa de trabajo Capacitación de personal Actividades de recreación y celebración Las personas interesadas que cumplan con el perfil, es indispensable que remitan por este medio su currículo documentado sustentando los requisitos detallados. Fecha maxima de postulación: 24/11/2026 #ServiciosConPropositoSocial #IgualdadLaboral",
+        "requisitos":  [
+                           "detallados",
+                           "Fecha maxima de postulación: 24/11/2026",
+                           "#ServiciosConPropositoSocial",
+                           "#IgualdadLaboral"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/gerentea-comercial-bigmond-group-1118664701.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/gerentea-comercial-bigmond-group-1118664701.html",
+        "descripcion_html":  "\u003cp\u003eEn Bigmond Executive Search, firma perteneciente a Bigmond Group, por encargo de nuestro cliente, importante empresa del sector de distribución en la zona sur del Perú, nos encontramos en la búsqueda de un(a): \u003cstrong\u003eGERENTE(A) COMERCIAL\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunción principal:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDirigir, formular y controlar la gestión comercial de la empresa en el ámbito de concesión, asegurando el cumplimiento del marco regulatorio del mercado eléctrico, la sostenibilidad financiera, la eficiencia operativa y la calidad del servicio al cliente, mediante la administración integral de contratos de energía, procesos de facturación y cobranza, control de pérdidas y atención comercial.\u003c/p\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller indispensable en Administración de Empresas, Ingenierías, Economía u otras carreras afines al giro del negocio. Título deseable.\u003c/li\u003e \u003cli\u003eIndispensable Grado de Maestro en MBA o Magister o Maestría en Gerencia de Proyectos y/o Operaciones o Administración o afines al puesto; o alternativamente o Título profesional más Especialización afín al puesto y un (01) año adicional a la experiencia especifica en el puesto.\u003c/li\u003e \u003cli\u003eEspecialización en Planeamiento Estratégico, Gestión Comercial o de ventas y/o otras afines. (deseable).\u003c/li\u003e \u003cli\u003eExperiencia laboral general de siete (07) años mínimo desde egresado (indispensable).\u003c/li\u003e \u003cli\u003eExperiencia en el puesto de tres (03) años mínimo en cargos gerenciales o equivalentes liderando áreas de similares características o responsabilidades, en empresas públicas y/o privadas y/o entidades del gobierno nacional. Habiendo ejercido estos cargos dentro de los últimos 10 años, indistintamente. (indispensable).\u003c/li\u003e \u003cli\u003eExperiencia en el sector de dos (02) años en empresas públicas y/o privadas y/o entidades del gobierno nacional, afines al sector o sectores de la corporación (deseable).\u003c/li\u003e \u003cli\u003eConocimientos en Regulación tarifaria del sector, Atención al cliente, Gestión de Finanzas, Gestión y Normas Públicas y/o otras afines. (deseable).\u003c/li\u003e \u003cli\u003eConocimientos de Inglés a nivel intermedio (deseable).\u003c/li\u003e \u003cli\u003eConocimientos del paquete de Office nivel intermedio (deseable).\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eLugar De Trabajo: \u003c/strong\u003ePuno\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eSe ofrece:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGratificaciones, vacaciones y utilidades, de acuerdo a ley\u003c/li\u003e \u003cli\u003eCompensación por tiempo de servicios\u003c/li\u003e \u003cli\u003eCanasta navideña\u003c/li\u003e \u003cli\u003eSeguro de accidentes personales (SCTR)\u003c/li\u003e \u003cli\u003eSeguro de Vida ley\u003c/li\u003e \u003cli\u003eRopa de trabajo\u003c/li\u003e \u003cli\u003eCapacitación de personal\u003c/li\u003e \u003cli\u003eActividades de recreación y celebración\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eLas personas interesadas que cumplan con el perfil, es indispensable que remitan por este medio su currículo documentado sustentando los requisitos detallados.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFecha maxima de postulación: 24/11/2026\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e#ServiciosConPropositoSocial \u003c/p\u003e\u003cp\u003e#IgualdadLaboral\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "Título de seable",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664691",
+        "clave":  "id:1118664691",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/fiscalizadora-de-control-operacional-cencosud-peru-s.a-1118664691.html",
+                       "capturadoEn":  "2026-11-18T04:20:01+00:00"
+                   },
+        "titulo":  "Fiscalizador(a) de Control Operacional",
+        "empresa":  "Cencosud Perú S.A",
+        "ubicacion":  "Lima - Chorrillos",
+        "ciudad":  "Chorrillos",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Somos Cencosud, uno de los más grandes y prestigiosos conglomerados de retail en América Latina. Posicionados en Perú como empresa líder del sector a través de nuestros formatos de supermercados e hipermercados Wong y Metro. Actualmente nos encontramos en búsqueda del mejor talento para desarrollarse como: FISCALIZADOR Misión: Ejecutar las fiscalizaciones de Control Operacional de acuerdo con el programa, metodología y criterios establecidos, verificando de manera objetiva e independiente el cumplimiento y la correcta ejecución de los controles, procedimientos y lineamientos definidos por la Compañía en tiendas y otros centros operativos. Funciones: Ejecutar el programa de Fiscalización Operacional asignado, realizando revisiones en tiendas, centros operativos o procesos de acuerdo con la planificación y metodología establecida. Verificar la correcta ejecución y cumplimiento de los controles, procedimientos, políticas y lineamientos definidos por la Compañía, utilizando los criterios de evaluación vigentes. Obtener, revisar y documentar evidencias suficientes y trazables que permitan sustentar los resultados y calificaciones de las fiscalizaciones realizadas. Identificar desviaciones, incumplimientos, riesgos y oportunidades de mejora durante las revisiones, evaluando su relevancia de acuerdo con los criterios establecidos por Control Operacional. Registrar oportunamente los resultados de las fiscalizaciones en las herramientas definidas por el área, asegurando integridad, calidad y consistencia de la información. Comunicar los resultados y hallazgos de las revisiones a los responsables de la operación, explicando de manera objetiva las desviaciones identificadas y los criterios aplicados. Elaborar informes, reportes o comunicaciones relacionados con las fiscalizaciones realizadas, asegurando claridad, objetividad y adecuada sustentación de los resultados. Disponibilidad para realizar visitas a tiendas y desplazamientos de acuerdo con el programa de fiscalización Requisitos: Técnio o universitario completo de las carreras Administración, Contabilidad, Ingeniería Industrial o afines. Mínimo 2 años de experiencia previa. Manejo de Excel y PowerBI a nivel intermedio. Conocimiento en SAP. Beneficios: Cuponera de días libres. Descuentos corporativos. ¡Sé parte del mejor equipo! ¡Contamos contigo! \"En esta empresa está prohibida la discriminación – Ley N° 29973\"",
+        "requisitos":  [
+                           "Técnio o universitario completo de las carreras Administración, Contabilidad, Ingeniería Industrial o afines",
+                           "Mínimo 2 años de experiencia previa",
+                           "Manejo de Excel y PowerBI a nivel intermedio",
+                           "Conocimiento en SAP"
+                       ],
+        "funciones":  [
+                          "Ejecutar el programa de Fiscalización Operacional asignado, realizando revisiones en tiendas, centros operativos o procesos de acuerdo con la planificación y metodología establecida",
+                          "Verificar la correcta ejecución y cumplimiento de los controles, procedimientos, políticas y lineamientos definidos por la Compañía, utilizando los criterios de evaluación vigentes",
+                          "Obtener, revisar y documentar evidencias suficientes y trazables que permitan sustentar los resultados y calificaciones de las fiscalizaciones realizadas",
+                          "Identificar desviaciones, incumplimientos, riesgos y oportunidades de mejora durante las revisiones, evaluando su relevancia de acuerdo con los criterios establecidos por Control Operacional",
+                          "Registrar oportunamente los resultados de las fiscalizaciones en las herramientas definidas por el área, asegurando integridad, calidad y consistencia de la información",
+                          "Comunicar los resultados y hallazgos de las revisiones a los responsables de la operación, explicando de manera objetiva las desviaciones identificadas y los criterios aplicados",
+                          "Elaborar informes, reportes o comunicaciones relacionados con las fiscalizaciones realizadas, asegurando claridad, objetividad y adecuada sustentación de los resultados",
+                          "Disponibilidad para realizar visitas a tiendas y desplazamientos de acuerdo con el programa de fiscalización"
+                      ],
+        "beneficios":  [
+                           "Cuponera de días libres",
+                           "Descuentos corporativos",
+                           "¡Sé parte del mejor equipo! ¡Contamos contigo!",
+                           "\"En esta empresa está prohibida la discriminación – Ley N° 29973\""
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/fiscalizadora-de-control-operacional-cencosud-peru-s.a-1118664691.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/fiscalizadora-de-control-operacional-cencosud-peru-s.a-1118664691.html",
+        "descripcion_html":  "\u003cp\u003eSomos Cencosud, uno de los más grandes y prestigiosos conglomerados de retail en América Latina. Posicionados en Perú como empresa líder del sector a través de nuestros formatos de supermercados e hipermercados Wong y Metro. Actualmente nos encontramos en búsqueda del mejor talento para desarrollarse como:\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFISCALIZADOR \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eMisión:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEjecutar las fiscalizaciones de Control Operacional de acuerdo con el programa, metodología y criterios establecidos, verificando de manera objetiva e independiente el cumplimiento y la correcta ejecución de los controles, procedimientos y lineamientos definidos por la Compañía en tiendas y otros centros operativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEjecutar el programa de Fiscalización Operacional asignado, realizando revisiones en tiendas, centros operativos o procesos de acuerdo con la planificación y metodología establecida. \u003c/li\u003e \u003cli\u003eVerificar la correcta ejecución y cumplimiento de los controles, procedimientos, políticas y lineamientos definidos por la Compañía, utilizando los criterios de evaluación vigentes. \u003c/li\u003e \u003cli\u003eObtener, revisar y documentar evidencias suficientes y trazables que permitan sustentar los resultados y calificaciones de las fiscalizaciones realizadas. \u003c/li\u003e \u003cli\u003eIdentificar desviaciones, incumplimientos, riesgos y oportunidades de mejora durante las revisiones, evaluando su relevancia de acuerdo con los criterios establecidos por Control Operacional. \u003c/li\u003e \u003cli\u003eRegistrar oportunamente los resultados de las fiscalizaciones en las herramientas definidas por el área, asegurando integridad, calidad y consistencia de la información. \u003c/li\u003e \u003cli\u003eComunicar los resultados y hallazgos de las revisiones a los responsables de la operación, explicando de manera objetiva las desviaciones identificadas y los criterios aplicados. \u003c/li\u003e \u003cli\u003eElaborar informes, reportes o comunicaciones relacionados con las fiscalizaciones realizadas, asegurando claridad, objetividad y adecuada sustentación de los resultados. \u003c/li\u003e \u003cli\u003eDisponibilidad para realizar visitas a tiendas y desplazamientos de acuerdo con el programa de fiscalización \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnio o universitario completo de las carreras Administración, Contabilidad, Ingeniería Industrial o afines.\u003c/li\u003e \u003cli\u003eMínimo 2 años de experiencia previa.\u003c/li\u003e \u003cli\u003eManejo de Excel y PowerBI a nivel intermedio.\u003c/li\u003e \u003cli\u003eConocimiento en SAP.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCuponera de días libres.\u003c/li\u003e \u003cli\u003eDescuentos corporativos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¡Sé parte del mejor equipo! ¡Contamos contigo!\u003c/p\u003e\u003cp\u003e\u0026quot;En esta empresa está prohibida la discriminación – Ley N° 29973\u0026quot;\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118515206",
+        "clave":  "id:1118515206",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-interseguro-hibrido-ica-eurofirms-group-1118515206.html",
+                       "capturadoEn":  "2026-11-18T04:20:03+00:00"
+                   },
+        "titulo":  "Ejecutivo Comercial / Interseguro / Hibrido/ Ica",
+        "empresa":  "Eurofirms Group",
+        "ubicacion":  "Ica",
+        "ciudad":  "Ica",
+        "region":  "Ica",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  1550,
+                        "max":  1550,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/. 1550",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "En Interseguro queremos talentos como tú, que quieran unirse a nuestro propósito de hacer más fácil que las personas avancen seguras en sus metas, sueños, o hacia un mejor futuro financiero. ¿Cuáles serán tus funciones? Generar cartera de clientes a través de la identificación y búsqueda de nuevos prospectos en base a tu entorno. Asesorar a clientes en proceso de venta, en busca de la mejor alternativa de protección, de manera virtual y presencial. Administrar y fidelizar tu cartera de clientes manteniendo contacto periódico. Hacer uso de las herramientas de ventas internas: manual de Evidencias, material gráfico y promocional. ¿Qué necesitamos de ti? Experiencia mínima en ventas de productos tangibles o intangibles o experiencia administrativa de 3 años. Contar con entorno potencial para la colocación de seguros. Estudios técnicos o universitarios (truncos o concluidos). Contar con herramientas digitales y manejo de redes sociales. ¿Cuál es nuestra propuesta de valor para ti? ¡Beneficios! Escala salarial sin tope. Reconocimientos, incentivos, viaje internacional, actividades de intergración y bonos por alto desempeño. Modalidad de trabajo: Teletrabajo (híbrida). Oportunidades de desarrollo y capacitación continua. EPS y plan oncológico cubierto al 100% (plan base). Planilla desde el primer día con todos los beneficios de Ley. Excelente ambiente laboral certificado por Great Place to Work (GPTW). Beneficios corporativos por ser parte del Grupo INTERCORP.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Generar cartera de clientes a través de la identificación y búsqueda de nuevos prospectos en base a tu entorno",
+                          "Asesorar a clientes en proceso de venta, en busca de la mejor alternativa de protección, de manera virtual y presencial",
+                          "Administrar y fidelizar tu cartera de clientes manteniendo contacto periódico",
+                          "Hacer uso de las herramientas de ventas internas: manual de Evidencias, material gráfico y promocional",
+                          "¿Qué necesitamos de ti?",
+                          "Experiencia mínima en ventas de productos tangibles o intangibles o experiencia administrativa de 3 años",
+                          "Contar con entorno potencial para la colocación de seguros",
+                          "Estudios técnicos o universitarios (truncos o concluidos)",
+                          "Contar con herramientas digitales y manejo de redes sociales",
+                          "¿Cuál es nuestra propuesta de valor para ti? ¡"
+                      ],
+        "beneficios":  [
+                           "corporativos por ser parte del Grupo INTERCORP"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-interseguro-hibrido-ica-eurofirms-group-1118515206.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-interseguro-hibrido-ica-eurofirms-group-1118515206.html",
+        "descripcion_html":  "\u003cp\u003eEn \u003cstrong\u003eInterseguro\u003c/strong\u003e queremos talentos como tú, que quieran unirse a nuestro propósito de hacer más fácil que las personas avancen seguras en sus metas, sueños, o hacia un mejor futuro financiero.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuáles serán tus funciones?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGenerar cartera de clientes a través de la identificación y búsqueda de nuevos prospectos en base a tu entorno.\u003c/li\u003e \u003cli\u003eAsesorar a clientes en proceso de venta, en busca de la mejor alternativa de protección, de manera virtual y presencial.\u003c/li\u003e \u003cli\u003eAdministrar y fidelizar tu cartera de clientes manteniendo contacto periódico.\u003c/li\u003e \u003cli\u003eHacer uso de las herramientas de ventas internas: manual de Evidencias, material gráfico y promocional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Qué necesitamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima en ventas de productos tangibles o intangibles o experiencia administrativa de 3 años.\u003c/li\u003e \u003cli\u003eContar con entorno potencial para la colocación de seguros.\u003c/li\u003e \u003cli\u003eEstudios técnicos o universitarios (truncos o concluidos).\u003c/li\u003e \u003cli\u003eContar con herramientas digitales y manejo de redes sociales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál es nuestra propuesta de valor para ti? ¡Beneficios!\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEscala salarial sin tope.\u003c/li\u003e \u003cli\u003eReconocimientos, incentivos, viaje internacional, actividades de intergración y bonos por alto desempeño.\u003c/li\u003e \u003cli\u003eModalidad de trabajo: Teletrabajo (híbrida).\u003c/li\u003e \u003cli\u003eOportunidades de desarrollo y capacitación continua.\u003c/li\u003e \u003cli\u003eEPS y plan oncológico cubierto al 100% (plan base).\u003c/li\u003e \u003cli\u003ePlanilla desde el primer día con todos los beneficios de Ley.\u003c/li\u003e \u003cli\u003eExcelente ambiente laboral certificado por Great Place to Work (GPTW).\u003c/li\u003e \u003cli\u003eBeneficios corporativos por ser parte del Grupo INTERCORP.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664669",
+        "clave":  "id:1118664669",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-a-de-inspecciones-de-perdidas-pluz-peru-1118664669.html",
+                       "capturadoEn":  "2026-11-18T04:20:04+00:00"
+                   },
+        "titulo":  "Coordinador/a de Inspecciones de Perdidas",
+        "empresa":  "Pluz Perú",
+        "ubicacion":  "Lima - San Miguel",
+        "ciudad":  "San Miguel",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Nos encontramos en búsqueda de profesionales de primer nivel que vean los problemas como oportunidades para desafiarse e innovar, desempeñandose en la posición de Coordinador/a de Inspecciones de Perdidas. Funciones: Planificar y coordinar la ejecución de los programas y operativos de inspección del segmento a su cargo, focalizados en zonas críticas y casos priorizados por Análisis y Balance de Energía, asignando cuadrillas y recursos, y articulando con autoridades externas (PNP, Ministerio Público) cuando se requiera., a fin de garantizar la correcta ejecución de los trabajos de inspección para alcanzar los valores de efectividad y reducción de pérdidas esperados. Supervisar la ejecución de las inspecciones técnicas en campo, verificando el funcionamiento de los medidores, la integridad de las conexiones y sistemas de medición, y el registro de las irregularidades detectadas con su documentación de sustento. Coordinar con Normalización y Control de Medición la aplicación de las normalizaciones y medidas técnicas derivadas de las inspecciones, y monitorear la reincidencia de hurto en los suministros y zonas intervenidas, reportando oportunidades de mejora asociadas a pérdidas técnicas. Gestionar las evidencias técnicas e informes de inspección que sustentan la generación de CNR’s, en coordinación con Recuperación de Energía, y participar en reuniones con OSINERGMIN para exponer y sustentar técnicamente los casos de hurto detectados que sean materia de reclamos o procesos de fiscalización. Supervisar y controlar los indicadores de rendimiento (inspecciones, efectividad, detecciones, energía recuperada, reducción de pérdidas por SEDs, etc.) y los niveles de servicio de las empresas contratistas del segmento a su cargo, proponiendo mejoras en las estrategias, metodologías y tecnologías de inspección. Requisitos: Profesionales de las carreras de Ing. Electrica, Mecánica-Eléctrica, Indistrial o afines. Conocimientos en Sistemas de Medición MT/BT Ingles intermedio. Experiencia mayor a 5 años funciones similares. Se ofrece: Pertenecer a una empresa lider en el sector energía Atractivos beneficios corporativos. Posibilidades de desarrollo",
+        "requisitos":  [
+                           "Profesionales de las carreras de Ing. Electrica, Mecánica-Eléctrica, Indistrial o afines",
+                           "Conocimientos en Sistemas de Medición MT/BT",
+                           "Ingles intermedio",
+                           "Experiencia mayor a 5 años"
+                       ],
+        "funciones":  [
+                          "similares",
+                          "Se ofrece",
+                          "Pertenecer a una empresa lider en el sector energía",
+                          "Atractivos"
+                      ],
+        "beneficios":  [
+                           "corporativos",
+                           "Posibilidades de desarrollo"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/coordinador-a-de-inspecciones-de-perdidas-pluz-peru-1118664669.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-a-de-inspecciones-de-perdidas-pluz-peru-1118664669.html",
+        "descripcion_html":  "\u003cp\u003eNos encontramos en búsqueda de profesionales de primer nivel que vean los problemas como oportunidades para desafiarse e innovar, desempeñandose en la posición de \u003cstrong\u003eCoordinador/a de Inspecciones de Perdidas. \u003c/strong\u003e\u003c/p\u003e\u003cp\u003e \u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanificar y coordinar la ejecución de los programas y operativos de inspección del segmento a su cargo, focalizados en zonas críticas y casos priorizados por Análisis y Balance de Energía, asignando cuadrillas y recursos, y articulando con autoridades externas (PNP, Ministerio Público) cuando se requiera., a fin de garantizar la correcta ejecución de los trabajos de inspección para alcanzar los valores de efectividad y reducción de pérdidas esperados.\u003c/li\u003e \u003cli\u003eSupervisar la ejecución de las inspecciones técnicas en campo, verificando el funcionamiento de los medidores, la integridad de las conexiones y sistemas de medición, y el registro de las irregularidades detectadas con su documentación de sustento.\u003c/li\u003e \u003cli\u003eCoordinar con Normalización y Control de Medición la aplicación de las normalizaciones y medidas técnicas derivadas de las inspecciones, y monitorear la reincidencia de hurto en los suministros y zonas intervenidas, reportando oportunidades de mejora asociadas a pérdidas técnicas.\u003c/li\u003e \u003cli\u003eGestionar las evidencias técnicas e informes de inspección que sustentan la generación de CNR’s, en coordinación con Recuperación de Energía, y participar en reuniones con OSINERGMIN para exponer y sustentar técnicamente los casos de hurto detectados que sean materia de reclamos o procesos de fiscalización.\u003c/li\u003e \u003cli\u003eSupervisar y controlar los indicadores de rendimiento (inspecciones, efectividad, detecciones, energía recuperada, reducción de pérdidas por SEDs, etc.) y los niveles de servicio de las empresas contratistas del segmento a su cargo, proponiendo mejoras en las estrategias, metodologías y tecnologías de inspección.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesionales de las carreras de Ing. Electrica, Mecánica-Eléctrica, Indistrial o afines. \u003c/li\u003e \u003cli\u003eConocimientos en Sistemas de Medición MT/BT \u003c/li\u003e \u003cli\u003eIngles intermedio.\u003c/li\u003e \u003cli\u003eExperiencia mayor a 5 años funciones similares.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eSe ofrece:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003ePertenecer a una empresa lider en el sector energía\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAtractivos beneficios corporativos.\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003ePosibilidades de desarrollo\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664668",
+        "clave":  "id:1118664668",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-almacen-y-distribucion-1118664668.html",
+                       "capturadoEn":  "2026-11-18T04:20:07+00:00"
+                   },
+        "titulo":  "Coordinador de Almacén y Distribución",
+        "empresa":  "Confidencial",
+        "ubicacion":  "Lima - Lurín",
+        "ciudad":  "Lurín",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "Importante empresa del sector alimentos se encuentra en búsqueda de un Coordinador de Almacén y Distribución , responsable de asegurar una adecuada gestión del producto terminado desde su recepción y almacenamiento hasta el despacho y entrega al cliente, garantizando exactitud de inventarios, nivel de servicio, eficiencia de distribución y cumplimiento de los estándares de seguridad y calidad. Principales responsabilidades Supervisar la recepción física y en sistema del producto terminado proveniente de producción. Gestionar y asegurar la exactitud de inventarios, custodia, almacenamiento y disponibilidad de producto. Supervisar el picking y preparación de pedidos para despacho. Coordinar con el área Comercial la programación y atención de pedidos. Elaborar la programación diaria de despachos y realizar el seguimiento de las unidades de transporte. Realizar cubicaje y optimización de rutas buscando eficiencia en costos y cumplimiento de tiempos. Gestionar las liquidaciones de los proveedores de transporte y participar en la negociación de fletes locales y nacionales. Gestionar devoluciones y coordinar oportunamente con las áreas involucradas. Liderar al equipo operativo de almacén, incluyendo programación de turnos, capacitación y seguimiento del desempeño. Asegurar el cumplimiento de los estándares de Seguridad, BPM, BPA, 5S y HACCP . Indicadores principales Nivel de servicio, OTIF , porcentaje de devoluciones, exactitud/eficiencia de inventarios y optimización de costos de distribución. Requisitos Profesional universitario de Ingeniería Industrial, Administración o carreras afines . Deseable especialización o diplomado en Logística, Almacenes, Distribución o Transporte . Experiencia mínima de 5 años en posiciones relacionadas con almacenes, distribución, despacho y/o logística. Experiencia liderando equipos operativos. Manejo de Excel avanzado . Experiencia utilizando WMS y ERP , de preferencia ODOO, SAP. Conocimiento de gestión de inventarios, picking, despacho, distribución, transportistas y optimización de rutas. Deseable conocimiento de operaciones en empresas de alimentos o consumo masivo.",
+        "requisitos":  [
+                           "Profesional universitario de Ingeniería Industrial, Administración o carreras afines",
+                           "Deseable especialización o diplomado en Logística, Almacenes, Distribución o Transporte",
+                           "Experiencia mínima de 5 años en posiciones relacionadas con almacenes, distribución, despacho y/o logística",
+                           "Experiencia liderando equipos operativos",
+                           "Manejo de Excel avanzado",
+                           "Experiencia utilizando WMS y ERP, de preferencia ODOO, SAP",
+                           "Conocimiento de gestión de inventarios, picking, despacho, distribución, transportistas y optimización de rutas",
+                           "Deseable conocimiento de operaciones en empresas de alimentos o consumo masivo"
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-almacen-y-distribucion-1118664668.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-almacen-y-distribucion-1118664668.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eImportante empresa del sector alimentos\u003c/strong\u003e se encuentra en búsqueda de un \u003cstrong\u003eCoordinador de Almacén y Distribución\u003c/strong\u003e, responsable de asegurar una adecuada gestión del producto terminado desde su recepción y almacenamiento hasta el despacho y entrega al cliente, garantizando exactitud de inventarios, nivel de servicio, eficiencia de distribución y cumplimiento de los estándares de seguridad y calidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003ePrincipales responsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSupervisar la recepción física y en sistema del producto terminado proveniente de producción.\u003c/li\u003e \u003cli\u003eGestionar y asegurar la exactitud de inventarios, custodia, almacenamiento y disponibilidad de producto.\u003c/li\u003e \u003cli\u003eSupervisar el picking y preparación de pedidos para despacho.\u003c/li\u003e \u003cli\u003eCoordinar con el área Comercial la programación y atención de pedidos.\u003c/li\u003e \u003cli\u003eElaborar la programación diaria de despachos y realizar el seguimiento de las unidades de transporte.\u003c/li\u003e \u003cli\u003eRealizar cubicaje y optimización de rutas buscando eficiencia en costos y cumplimiento de tiempos.\u003c/li\u003e \u003cli\u003eGestionar las liquidaciones de los proveedores de transporte y participar en la negociación de fletes locales y nacionales.\u003c/li\u003e \u003cli\u003eGestionar devoluciones y coordinar oportunamente con las áreas involucradas.\u003c/li\u003e \u003cli\u003eLiderar al equipo operativo de almacén, incluyendo programación de turnos, capacitación y seguimiento del desempeño.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los estándares de \u003cstrong\u003eSeguridad, BPM, BPA, 5S y HACCP\u003c/strong\u003e.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eIndicadores principales\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNivel de servicio, \u003cstrong\u003eOTIF\u003c/strong\u003e, porcentaje de devoluciones, exactitud/eficiencia de inventarios y optimización de costos de distribución.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional universitario de \u003cstrong\u003eIngeniería Industrial, Administración o carreras afines\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDeseable especialización o diplomado en \u003cstrong\u003eLogística, Almacenes, Distribución o Transporte\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eExperiencia mínima de \u003cstrong\u003e5 años\u003c/strong\u003e en posiciones relacionadas con almacenes, distribución, despacho y/o logística.\u003c/li\u003e \u003cli\u003eExperiencia liderando equipos operativos.\u003c/li\u003e \u003cli\u003eManejo de \u003cstrong\u003eExcel avanzado\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eExperiencia utilizando \u003cstrong\u003eWMS y ERP\u003c/strong\u003e, de preferencia ODOO, SAP.\u003c/li\u003e \u003cli\u003eConocimiento de gestión de inventarios, picking, despacho, distribución, transportistas y optimización de rutas.\u003c/li\u003e \u003cli\u003eDeseable conocimiento de operaciones en empresas de alimentos o consumo masivo.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 5 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664667",
+        "clave":  "id:1118664667",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-universal-bbva-arequipa-manpowergroup-1118664667.html",
+                       "capturadoEn":  "2026-11-18T04:20:10+00:00"
+                   },
+        "titulo":  "ASESOR UNIVERSAL BBVA / AREQUIPA",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/2,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo. ¿Qué harás como Asesor Universal II? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. Ejecutar todo tipo de transacciones bancarias de manera precisa y ágil. ¿Qué perfil buscamos? Egresados de carreras técnicas o universitarias, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines. Experiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja. Alta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo. Disponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. Crecimiento y desarrollo profesional constante. Contrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial. EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos. Utilidades superiores al promedio del mercado. Acceso a descuentos y convenios corporativos. Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio",
+                           "Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial",
+                           "EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos",
+                           "Utilidades superiores al promedio del mercado",
+                           "Acceso a descuentos y convenios corporativos",
+                           "Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional",
+                           "Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-universal-bbva-arequipa-manpowergroup-1118664667.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-universal-bbva-arequipa-manpowergroup-1118664667.html",
+        "descripcion_html":  "\u003cp\u003e¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo.\u003c/p\u003e\u003cp\u003e¿Qué harás como Asesor Universal II?\u003c/p\u003e\u003cul\u003e \u003cli\u003eImpulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia.\u003c/li\u003e \u003cli\u003eEjecutar todo tipo de transacciones bancarias de manera precisa y ágil.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué perfil buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados de carreras técnicas o universitarias, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja.\u003c/li\u003e \u003cli\u003eAlta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué te ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de un banco global con un sólido prestigio.\u003c/li\u003e \u003cli\u003eCrecimiento y desarrollo profesional constante.\u003c/li\u003e \u003cli\u003eContrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio.\u003c/li\u003e \u003cli\u003eCapacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos.\u003c/li\u003e \u003cli\u003eUtilidades superiores al promedio del mercado.\u003c/li\u003e \u003cli\u003eAcceso a descuentos y convenios corporativos.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSomos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664666",
+        "clave":  "id:1118664666",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-engineer-gcp-entelgy-1118664666.html",
+                       "capturadoEn":  "2026-11-18T04:20:13+00:00"
+                   },
+        "titulo":  "Data Engineer GCP",
+        "empresa":  "Entelgy",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "\u0026#x1f4a1; DÉJANOS CONTARTE LO QUE NOS HACE GENUINE \u0026#x1f499; Buscamos profesionales que quieran reinventarse cada día \u0026#x1f504;, que lleven los retos en el ADN \u0026#x1f9ec; y que sientan una pasión genuina por la tecnología \u0026#x1f4bb;✨. Eso es lo que nos hace únicos, auténticos y diferentes \u0026#x1f680;. ¿QUÉ ESTAMOS BUSCANDO? Estamos en la búsqueda de un Data Engineer para apoyar al equipo de CRM en el proyecto de Banca Digital, contribuyendo al balance del equipo y cubriendo una posición clave para la integración y explotación de datos provenientes de diversas fuentes. Funciones: Integración de datos desde fuentes on-premise (AS400, SQL) y cloud (MySQL en GCP). Transformación y carga de datos hacia: Data Warehouse (SQL) Lakehouse en GCP : Cloud Storage → Cloud Functions → BigQuery Extracción y explotación de información desde el Lakehouse. Participación activa en la homologación y gestión de solicitudes del equipo de Ingeniería de Datos. Tecnologías y Herramientas Imprescindibles: 2 a 3 años de experiencia SQL (on-premise y cloud) GCP: Cloud Storage, Cloud Functions, BigQuery Integration Services (ETL - Microsoft SQL Server) Experiencia previa en otra nube (AWS, Azure) es válida Capacidad de aprendizaje rápido Buenas habilidades de comunicación y trabajo en equipo Deseables: Pentaho Conocimiento básico de tablas BAN Disponibilidad hibrida en Miraflores, Lima PORQUE EN ENTELGY TODO COMIENZA CONTIGO Ú nicos, R eales, A uténticos, D iferentes…… Somos 100% GENUINE. Nuestra cultura se vive en el día a día, somos como una gran familia y formamos Entelgy Family , donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. Health \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente. ASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO Ven para formar parte de nuestro equipo, y descubre que no es sólo lo que hacemos, sino cómo lo hacemos. ¡Atrévete a vivir una experiencia Genuine! Proyectos retadores para grandes clientes: Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día. Un progreso acelerado : Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites.",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          "Integración de datos desde fuentes on-premise (AS400, SQL) y cloud (MySQL en GCP)",
+                          "Transformación y carga de datos hacia",
+                          "Data Warehouse (SQL)",
+                          "Lakehouse en GCP: Cloud Storage → Cloud Functions → BigQuery",
+                          "Extracción y explotación de información desde el Lakehouse",
+                          "Participación activa en la homologación y gestión de solicitudes del equipo de Ingeniería de Datos",
+                          "Tecnologías y Herramientas",
+                          "Imprescindibles",
+                          "2 a 3 años de experiencia",
+                          "SQL (on-premise y cloud)",
+                          "GCP: Cloud Storage, Cloud Functions, BigQuery",
+                          "Integration Services (ETL - Microsoft SQL Server)",
+                          "Experiencia previa en otra nube (AWS, Azure) es válida",
+                          "Capacidad de aprendizaje rápido",
+                          "Buenas habilidades de comunicación y trabajo en equipo",
+                          "Deseables",
+                          "Pentaho",
+                          "Conocimiento básico de tablas BAN",
+                          "Disponibilidad hibrida en Miraflores, Lima",
+                          "PORQUE EN ENTELGY TODO COMIENZA CONTIGO",
+                          "Únicos, Reales, Auténticos, Diferentes……",
+                          "Somos 100% GENUINE",
+                          "Nuestra cultura se vive en el día a día, somos como una gran familia y formamos Entelgy Family, donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. Health \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente",
+                          "ASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO",
+                          "Ven para formar parte de nuestro equipo, y descubre que no es sólo lo que hacemos, sino cómo lo hacemos. ¡Atrévete a vivir una experiencia Genuine!",
+                          "Proyectos retadores para grandes clientes: Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día",
+                          "Un progreso acelerado: Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/data-engineer-gcp-entelgy-1118664666.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-engineer-gcp-entelgy-1118664666.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e\u0026#x1f4a1; DÉJANOS CONTARTE LO QUE NOS HACE GENUINE \u0026#x1f499;\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eBuscamos profesionales que quieran reinventarse cada día \u0026#x1f504;, que lleven los retos en el ADN \u0026#x1f9ec; y que sientan una pasión genuina por la tecnología \u0026#x1f4bb;\u0026#x2728;.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEso es lo que nos hace únicos, auténticos y diferentes \u0026#x1f680;.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ ESTAMOS BUSCANDO?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eData Engineer\u003c/strong\u003e para apoyar al equipo de CRM en el proyecto de Banca Digital, contribuyendo al balance del equipo y cubriendo una posición clave para la integración y explotación de datos provenientes de diversas fuentes.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIntegración de datos desde fuentes \u003cstrong\u003eon-premise\u003c/strong\u003e (AS400, SQL) y \u003cstrong\u003ecloud\u003c/strong\u003e (MySQL en GCP).\u003c/li\u003e \u003cli\u003eTransformación y carga de datos hacia:\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eData Warehouse\u003c/strong\u003e (SQL)\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eLakehouse en GCP\u003c/strong\u003e: Cloud Storage → Cloud Functions → BigQuery\u003c/li\u003e \u003cli\u003eExtracción y explotación de información desde el Lakehouse.\u003c/li\u003e \u003cli\u003eParticipación activa en la homologación y gestión de solicitudes del equipo de Ingeniería de Datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eTecnologías y Herramientas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eImprescindibles:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e2 a 3 años de experiencia\u003c/li\u003e \u003cli\u003eSQL (on-premise y cloud)\u003c/li\u003e \u003cli\u003eGCP: Cloud Storage, Cloud Functions, BigQuery\u003c/li\u003e \u003cli\u003eIntegration Services (ETL - Microsoft SQL Server)\u003c/li\u003e \u003cli\u003eExperiencia previa en otra nube (AWS, Azure) es válida\u003c/li\u003e \u003cli\u003eCapacidad de aprendizaje rápido\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación y trabajo en equipo\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDeseables:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePentaho\u003c/li\u003e \u003cli\u003eConocimiento básico de tablas BAN\u003c/li\u003e \u003cli\u003eDisponibilidad hibrida en Miraflores, Lima\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePORQUE EN ENTELGY TODO COMIENZA CONTIGO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eÚ\u003c/strong\u003enicos, \u003cstrong\u003eR\u003c/strong\u003eeales, \u003cstrong\u003eA\u003c/strong\u003euténticos, \u003cstrong\u003eD\u003c/strong\u003eiferentes……\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSomos 100% GENUINE.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra cultura se vive en el día a día, somos como una gran familia y formamos \u003cstrong\u003eEntelgy Family\u003c/strong\u003e, donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. \u003cstrong\u003eHealth \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eVen para formar parte de nuestro equipo, y descubre que \u003cstrong\u003eno es sólo lo que hacemos, sino cómo lo hacemos.\u003c/strong\u003e ¡Atrévete a vivir una experiencia Genuine!\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eProyectos retadores para grandes clientes:\u003c/strong\u003e Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eUn progreso acelerado\u003c/strong\u003e: Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 3 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664665",
+        "clave":  "id:1118664665",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/qa-automatizador-por-proyecto-entelgy-1118664665.html",
+                       "capturadoEn":  "2026-11-18T04:20:17+00:00"
+                   },
+        "titulo":  "QA Automatizador (Por Proyecto)",
+        "empresa":  "Entelgy",
+        "ubicacion":  "Lima",
+        "ciudad":  "Lima",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "DÉJANOS CONTARTE LO QUE NOS HACE GENUINE Buscamos profesionales que quieran reinventarse cada día, que enfrentarse a los retos vaya en su ADN y que sientan pasión por trabajar con la tecnología. Esto nos hace únicos, diferentes y auténticos. ¿QUÉ ESTAMOS BUSCANDO? Buscamos un Analista de Calidad QA Automation con experiencia en el sector bancario, que participe en proyectos de transformación digital asegurando la calidad de las soluciones mediante pruebas funcionales y automatizadas, contribuyendo a la mejora continua de los procesos de calidad. Funciones: Diseñar, desarrollar y mantener automatizaciones web y de servicios utilizando Java, Serenity BDD y el patrón Screenplay. Ejecutar pruebas funcionales, automatizadas, de integración, API, performance y seguridad para garantizar la calidad de las soluciones. Analizar requerimientos funcionales y técnicos, elaborando escenarios y casos de prueba alineados a las necesidades del negocio. Validar información mediante consultas en bases de datos relacionales y no relacionales, asegurando la integridad de los datos. Gestionar defectos, evidencias y métricas de calidad utilizando herramientas como Jira, Xray y repositorios GitHub. Colaborar con equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban) y participar en procesos de integración continua y despliegues en Azure DevOps. Requisitos: Experiencia mínima de 2 años realizando automatización web y de servicios con Java, Serenity BDD y patrón Screenplay. Experiencia mínima de 2 años ejecutando pruebas sobre servicios REST y SOAP utilizando herramientas como Postman, Bruno o SOAP UI. Conocimientos en bases de datos relacionales y no relacionales, incluyendo construcción y validación de consultas SQL y MongoDB. Experiencia mínima de 3 años participando en equipos ágiles bajo metodologías Scrum o Kanban. Experiencia mínima de 3 años en el sector bancario, deseable con conocimientos en Mercado de Capitales, Divisas, Gestión de Clientes y Cuentas. Certificación ISTQB Foundation Level o superior, además de conocimientos en pruebas de performance, usabilidad y seguridad. PORQUE EN ENTELGY TODO COMIENZA CONTIGO Ú nicos, R eales, A uténticos, D iferentes…… Somos 100% GENUINE. Nuestra cultura se vive en el día a día, somos como una gran familia y formamos Entelgy Family , donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. Health \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente. ASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO Ven para formar parte de nuestro equipo, y descubre que no es sólo lo que hacemos, sino cómo lo hacemos. ¡Atrévete a vivir una experiencia Genuine! Proyectos retadores para grandes clientes : Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día. Un progreso acelerado : Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites.",
+        "requisitos":  [
+                           "Experiencia mínima de 2 años realizando automatización web y de servicios con Java, Serenity BDD y patrón Screenplay",
+                           "Experiencia mínima de 2 años ejecutando pruebas sobre servicios REST y SOAP utilizando herramientas como Postman, Bruno o SOAP UI",
+                           "Conocimientos en bases de datos relacionales y no relacionales, incluyendo construcción y validación de consultas SQL y MongoDB",
+                           "Experiencia mínima de 3 años participando en equipos ágiles bajo metodologías Scrum o Kanban",
+                           "Experiencia mínima de 3 años en el sector bancario, deseable con conocimientos en Mercado de Capitales, Divisas, Gestión de Clientes y Cuentas",
+                           "Certificación ISTQB Foundation Level o superior, además de conocimientos en pruebas de performance, usabilidad y seguridad",
+                           "PORQUE EN ENTELGY TODO COMIENZA CONTIGO",
+                           "Únicos, Reales, Auténticos, Diferentes……",
+                           "Somos 100% GENUINE",
+                           "Nuestra cultura se vive en el día a día, somos como una gran familia y formamos Entelgy Family, donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. Health \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente",
+                           "ASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO",
+                           "Ven para formar parte de nuestro equipo, y descubre que no es sólo lo que hacemos, sino cómo lo hacemos. ¡Atrévete a vivir una experiencia Genuine!",
+                           "Proyectos retadores para grandes clientes: Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día",
+                           "Un progreso acelerado: Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites"
+                       ],
+        "funciones":  [
+                          "Diseñar, desarrollar y mantener automatizaciones web y de servicios utilizando Java, Serenity BDD y el patrón Screenplay",
+                          "Ejecutar pruebas funcionales, automatizadas, de integración, API, performance y seguridad para garantizar la calidad de las soluciones",
+                          "Analizar requerimientos funcionales y técnicos, elaborando escenarios y casos de prueba alineados a las necesidades del negocio",
+                          "Validar información mediante consultas en bases de datos relacionales y no relacionales, asegurando la integridad de los datos",
+                          "Gestionar defectos, evidencias y métricas de calidad utilizando herramientas como Jira, Xray y repositorios GitHub",
+                          "Colaborar con equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban) y participar en procesos de integración continua y despliegues en Azure DevOps"
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/qa-automatizador-por-proyecto-entelgy-1118664665.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/qa-automatizador-por-proyecto-entelgy-1118664665.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eDÉJANOS CONTARTE LO QUE NOS HACE GENUINE\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos profesionales que quieran reinventarse cada día, que enfrentarse a los retos vaya en su ADN y que sientan pasión por trabajar con la tecnología. Esto nos hace únicos, diferentes y auténticos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ ESTAMOS BUSCANDO?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAnalista de Calidad QA Automation\u003c/strong\u003e con experiencia en el sector bancario, que participe en proyectos de transformación digital asegurando la calidad de las soluciones mediante pruebas funcionales y automatizadas, contribuyendo a la mejora continua de los procesos de calidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar, desarrollar y mantener automatizaciones web y de servicios utilizando Java, Serenity BDD y el patrón Screenplay.\u003c/li\u003e \u003cli\u003eEjecutar pruebas funcionales, automatizadas, de integración, API, performance y seguridad para garantizar la calidad de las soluciones.\u003c/li\u003e \u003cli\u003eAnalizar requerimientos funcionales y técnicos, elaborando escenarios y casos de prueba alineados a las necesidades del negocio.\u003c/li\u003e \u003cli\u003eValidar información mediante consultas en bases de datos relacionales y no relacionales, asegurando la integridad de los datos.\u003c/li\u003e \u003cli\u003eGestionar defectos, evidencias y métricas de calidad utilizando herramientas como Jira, Xray y repositorios GitHub.\u003c/li\u003e \u003cli\u003eColaborar con equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban) y participar en procesos de integración continua y despliegues en Azure DevOps.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 2 años realizando automatización web y de servicios con Java, Serenity BDD y patrón Screenplay.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años ejecutando pruebas sobre servicios REST y SOAP utilizando herramientas como Postman, Bruno o SOAP UI.\u003c/li\u003e \u003cli\u003eConocimientos en bases de datos relacionales y no relacionales, incluyendo construcción y validación de consultas SQL y MongoDB.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años participando en equipos ágiles bajo metodologías Scrum o Kanban.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en el sector bancario, deseable con conocimientos en Mercado de Capitales, Divisas, Gestión de Clientes y Cuentas.\u003c/li\u003e \u003cli\u003eCertificación ISTQB Foundation Level o superior, además de conocimientos en pruebas de performance, usabilidad y seguridad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePORQUE EN ENTELGY TODO COMIENZA CONTIGO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eÚ\u003c/strong\u003enicos, \u003cstrong\u003eR\u003c/strong\u003eeales, \u003cstrong\u003eA\u003c/strong\u003euténticos, \u003cstrong\u003eD\u003c/strong\u003eiferentes……\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSomos 100% GENUINE.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra cultura se vive en el día a día, somos como una gran familia y formamos \u003cstrong\u003eEntelgy Family\u003c/strong\u003e, donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. \u003cstrong\u003eHealth \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eVen para formar parte de nuestro equipo, y descubre que \u003cstrong\u003eno es sólo lo que hacemos, sino cómo lo hacemos.\u003c/strong\u003e ¡Atrévete a vivir una experiencia Genuine!\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eProyectos retadores para grandes clientes\u003c/strong\u003e: Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales\u003cstrong\u003e \u003c/strong\u003edesde el primer día.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eUn progreso acelerado\u003c/strong\u003e: Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites.\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 2 años",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664663",
+        "clave":  "id:1118664663",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-contabilidad-de-activo-fijo-tasa-1118664663.html",
+                       "capturadoEn":  "2026-11-18T04:20:26+00:00"
+                   },
+        "titulo":  "ANALISTA DE CONTABILIDAD DE ACTIVO FIJO",
+        "empresa":  "TASA",
+        "ubicacion":  "Lima - San Borja",
+        "ciudad":  "San Borja",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¿Quieres garantizar la nutrición del mañana? ¡Esta es tú oportunidad! En TASA nos encontramos en búsqueda de un(a) ANALISTA DE CONTABILIDAD DE ACTIVO FIJO, quien se encarga de gestionar y controlar integralmente la contabilidad de activos fijos, obras en curso e inversiones de la Compañía, asegurando el adecuado registro, valorización, depreciación, conciliación e inventario de los activos, en cumplimiento de las normas contables, tributarias y políticas corporativas vigentes. Asimismo, contribuir a la confiabilidad de la información financiera mediante el análisis y control patrimonial, la atención de auditorías y la mejora continua de los procesos relacionados con la gestión de activos fijos. Requisitos: Bachiller/Egresado en Contabilidad Experiencia en puestos de gestión de activo fijo en empresas industriales con ingresos anuales superiores a USD 20 millones Experiencia en toma de inventarios de activo fijo Disponibilidad para viajar a nuestras plantas para los inventarios y la gestion de activos (2 veces al mes en promedio) Principales Responsabilidades: Elaborar y analizar las notas a los estados financieros relacionadas con activos fijos e intangibles, tanto en soles como en dólares, asegurando la consistencia de la información financiera y contable. Ejecutar y controlar el registro contable de altas, bajas, transferencias, retiros, donaciones, siniestros y demás movimientos de activos fijos, asegurando el cumplimiento de las políticas corporativas y normas contables vigentes. Gestionar el proceso de capitalización de proyectos e inversiones, validando la documentación sustentatoria y verificando el cumplimiento de los criterios de reconocimiento de activos. Calcular y controlar mensualmente la depreciación financiera y tributaria de los activos fijos, verificando la correcta aplicación de vidas útiles y tasas de depreciación de acuerdo con las normas vigentes. Atender requerimientos de auditoría interna, auditoría externa, SUNAT y otras entidades de control, proporcionando información y sustentos de manera oportuna. Participar en la planificación y ejecución de los inventarios físicos de activos fijos en plantas, oficinas, almacenes y embarcaciones. Realizar conciliaciones básicas entre los resultados de los inventarios físicos y los registros contables y patrimoniales, identificando oportunamente faltantes, sobrantes y diferencias de ubicación para su análisis y regularización. “En TASA estamos comprometidos con la Diversidad, Equidad e Inclusión. Todos los candidatos son considerados por igual en nuestros procesos de selección sin distinción alguna por su raza, religión, género, orientación sexual, origen o discapacidad\". Con tu talento, \"Garantizamos la nutrición del mañana\".",
+        "requisitos":  [
+                           "Bachiller/Egresado en Contabilidad",
+                           "Experiencia en puestos de gestión de activo fijo en empresas industriales con ingresos anuales superiores a USD 20 millones",
+                           "Experiencia en toma de inventarios de activo fijo",
+                           "Disponibilidad para viajar a nuestras plantas para los inventarios y la gestion de activos (2 veces al mes en promedio)",
+                           "Principales Responsabilidades",
+                           "Elaborar y analizar las notas a los estados financieros relacionadas con activos fijos e intangibles, tanto en soles como en dólares, asegurando la consistencia de la información financiera y contable",
+                           "Ejecutar y controlar el registro contable de altas, bajas, transferencias, retiros, donaciones, siniestros y demás movimientos de activos fijos, asegurando el cumplimiento de las políticas corporativas y normas contables vigentes",
+                           "Gestionar el proceso de capitalización de proyectos e inversiones, validando la documentación sustentatoria y verificando el cumplimiento de los criterios de reconocimiento de activos",
+                           "Calcular y controlar mensualmente la depreciación financiera y tributaria de los activos fijos, verificando la correcta aplicación de vidas útiles y tasas de depreciación de acuerdo con las normas vigentes",
+                           "Atender requerimientos de auditoría interna, auditoría externa, SUNAT y otras entidades de control, proporcionando información y sustentos de manera oportuna",
+                           "Participar en la planificación y ejecución de los inventarios físicos de activos fijos en plantas, oficinas, almacenes y embarcaciones",
+                           "Realizar conciliaciones básicas entre los resultados de los inventarios físicos y los registros contables y patrimoniales, identificando oportunamente faltantes, sobrantes y diferencias de ubicación para su análisis y regularización",
+                           "“En TASA estamos comprometidos con la Diversidad, Equidad e Inclusión. Todos los candidatos son considerados por igual en nuestros procesos de selección sin distinción alguna por su raza, religión, género, orientación sexual, origen o discapacidad\". Con tu talento, \"Garantizamos la nutrición del mañana\""
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           null
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-contabilidad-de-activo-fijo-tasa-1118664663.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-contabilidad-de-activo-fijo-tasa-1118664663.html",
+        "descripcion_html":  "\u003cp\u003e¿Quieres garantizar la nutrición del mañana?\u003c/p\u003e\u003cp\u003e¡Esta es tú oportunidad!\u003c/p\u003e\u003cp\u003eEn TASA nos encontramos en búsqueda de un(a) ANALISTA DE CONTABILIDAD DE ACTIVO FIJO, quien se encarga de gestionar y controlar integralmente la contabilidad de activos fijos, obras en curso e inversiones de la Compañía, asegurando el adecuado registro, valorización, depreciación, conciliación e inventario de los activos, en cumplimiento de las normas contables, tributarias y políticas corporativas vigentes. Asimismo, contribuir a la confiabilidad de la información financiera mediante el análisis y control patrimonial, la atención de auditorías y la mejora continua de los procesos relacionados con la gestión de activos fijos.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller/Egresado en Contabilidad\u003c/li\u003e \u003cli\u003eExperiencia en puestos de gestión de activo fijo en empresas industriales con ingresos anuales superiores a USD 20 millones\u003c/li\u003e \u003cli\u003eExperiencia en toma de inventarios de activo fijo\u003c/li\u003e \u003cli\u003eDisponibilidad para viajar a nuestras plantas para los inventarios y la gestion de activos (2 veces al mes en promedio)\u003c/li\u003e\u003c/ul\u003e\u003cp\u003ePrincipales Responsabilidades:\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaborar y analizar las notas a los estados financieros relacionadas con activos fijos e intangibles, tanto en soles como en dólares, asegurando la consistencia de la información financiera y contable.\u003c/li\u003e \u003cli\u003eEjecutar y controlar el registro contable de altas, bajas, transferencias, retiros, donaciones, siniestros y demás movimientos de activos fijos, asegurando el cumplimiento de las políticas corporativas y normas contables vigentes.\u003c/li\u003e \u003cli\u003eGestionar el proceso de capitalización de proyectos e inversiones, validando la documentación sustentatoria y verificando el cumplimiento de los criterios de reconocimiento de activos.\u003c/li\u003e \u003cli\u003eCalcular y controlar mensualmente la depreciación financiera y tributaria de los activos fijos, verificando la correcta aplicación de vidas útiles y tasas de depreciación de acuerdo con las normas vigentes.\u003c/li\u003e \u003cli\u003eAtender requerimientos de auditoría interna, auditoría externa, SUNAT y otras entidades de control, proporcionando información y sustentos de manera oportuna.\u003c/li\u003e \u003cli\u003eParticipar en la planificación y ejecución de los inventarios físicos de activos fijos en plantas, oficinas, almacenes y embarcaciones.\u003c/li\u003e \u003cli\u003eRealizar conciliaciones básicas entre los resultados de los inventarios físicos y los registros contables y patrimoniales, identificando oportunamente faltantes, sobrantes y diferencias de ubicación para su análisis y regularización.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e“En TASA estamos comprometidos con la Diversidad, Equidad e Inclusión. Todos los candidatos son considerados por igual en nuestros procesos de selección sin distinción alguna por su raza, religión, género, orientación sexual, origen o discapacidad\u0026quot;. Con tu talento, \u0026quot;Garantizamos la nutrición del mañana\u0026quot;.\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664662",
+        "clave":  "id:1118664662",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-banca-personas-arequipa-manpowergroup-1118664662.html",
+                       "capturadoEn":  "2026-11-18T04:20:31+00:00"
+                   },
+        "titulo":  "Asesor de Banca Personas / Arequipa",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/2,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo. ¿Qué harás como Asesor Universal II? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. Ejecutar todo tipo de transacciones bancarias de manera precisa y ágil. ¿Qué perfil buscamos? Egresados de carreras técnicas o universitarias, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines. Experiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja. Alta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo. Disponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. Crecimiento y desarrollo profesional constante. Contrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial. EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos. Utilidades superiores al promedio del mercado. Acceso a descuentos y convenios corporativos. Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio",
+                           "Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial",
+                           "EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos",
+                           "Utilidades superiores al promedio del mercado",
+                           "Acceso a descuentos y convenios corporativos",
+                           "Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional",
+                           "Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-banca-personas-arequipa-manpowergroup-1118664662.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-banca-personas-arequipa-manpowergroup-1118664662.html",
+        "descripcion_html":  "\u003cp\u003e¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo.\u003c/p\u003e\u003cp\u003e¿Qué harás como Asesor Universal II?\u003c/p\u003e\u003cul\u003e \u003cli\u003eImpulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia.\u003c/li\u003e \u003cli\u003eEjecutar todo tipo de transacciones bancarias de manera precisa y ágil.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué perfil buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados de carreras técnicas o universitarias, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja.\u003c/li\u003e \u003cli\u003eAlta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué te ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de un banco global con un sólido prestigio.\u003c/li\u003e \u003cli\u003eCrecimiento y desarrollo profesional constante.\u003c/li\u003e \u003cli\u003eContrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio.\u003c/li\u003e \u003cli\u003eCapacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos.\u003c/li\u003e \u003cli\u003eUtilidades superiores al promedio del mercado.\u003c/li\u003e \u003cli\u003eAcceso a descuentos y convenios corporativos.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSomos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664661",
+        "clave":  "id:1118664661",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-soporte-on-site-junior-indra-peru-1118664661.html",
+                       "capturadoEn":  "2026-11-18T04:20:35+00:00"
+                   },
+        "titulo":  "Analista De Soporte On Site Junior",
+        "empresa":  "INDRA PERU",
+        "ubicacion":  "Lima - Miraflores",
+        "ciudad":  "Miraflores",
+        "region":  "Lima",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  null,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  false,
+                        "texto_original":  "No especificado",
+                        "fuente_salario":  ""
+                    },
+        "descripcion":  "¡Sé parte de nuestro equipo! El futuro se construye con talento. Y en Indra Group, estamos en búsqueda del tuyo. Estamos en la búsqueda de un ANALISTA DE SOPORTE ON SITE JUNIOR. Conocimientos asociados o requisitos: Profesionales con formación técnica y últimos años de universidad, bachilleres o titulados Horario: Lunes a viernes de 7:00 a.m. a 7:00 p.m. (48hrs). Disponibilidad para realizar turnos de fin de semana de forma rotativa (aprox. una vez cada 3 meses), con descanso compensatorio de 2 días. Deseable residir en zonas de fácil acceso a Miraflores, (Trabajo presencial). Soporte técnico a usuarios finales en entornos corporativos. Administración básica de Windows 10 y Windows 11 . Diagnóstico y solución de incidencias de hardware y software (PCs, laptops, impresoras y periféricos). Soporte y configuración de Microsoft 365 (Outlook, Teams, Word, Excel y PowerPoint). Gestión básica de usuarios mediante Active Directory (desbloqueo de cuentas, reseteo de contraseñas y permisos). Conocimientos de redes: TCP/IP, DNS, DHCP, VPN, LAN y WiFi . Configuración y soporte de impresoras locales y de red. Manejo de herramientas de acceso y soporte remoto. Gestión de incidencias mediante herramientas de ticketing y seguimiento de SLA . Conocimientos básicos de ITIL . Seguridad informática básica y buenas prácticas de gestión de accesos. Elaboración y actualización de documentación técnica. Funciones del puesto: Brindar soporte técnico presencial a usuarios finales, atendiendo incidencias y requerimientos de TI. Diagnosticar y solucionar problemas de hardware, software, sistemas operativos y aplicaciones corporativas. Instalar, configurar y dar soporte a equipos de cómputo, laptops, impresoras y periféricos. Brindar soporte a herramientas Microsoft 365 (Outlook, Teams, Word, Excel y PowerPoint). Gestionar cuentas de usuario, contraseñas y permisos básicos en Active Directory. Registrar, actualizar y realizar seguimiento de tickets de atención en la herramienta de gestión de servicios. Escalar incidencias que requieran atención especializada y realizar seguimiento hasta su cierre. Apoyar en la instalación de software autorizado, actualizaciones y configuraciones de equipos. Mantener actualizado el inventario de equipos y activos tecnológicos. Cumplir los procedimientos internos, políticas de seguridad y acuerdos de nivel de servicio (SLA). Beneficios: Seguro EPS cubierto al 100% Seguro Vida Ley Bienestar (psicólogo, nutricionista) Descuentos corporativos Acceso a plataforma de formación continua (Udemy) Cultura colaborativa, oportunidades reales de crecimiento Proyectos tecnológicos de gran escala en clientes líderes +150 (vale alimentos).",
+        "requisitos":  [
+                           "Profesionales con formación técnica y últimos años de universidad, bachilleres o titulados",
+                           "Horario: Lunes a viernes de 7:00 a.m. a 7:00 p.m. (48hrs). Disponibilidad para realizar turnos de fin de semana de forma rotativa (aprox. una vez cada 3 meses), con descanso compensatorio de 2 días",
+                           "Deseable residir en zonas de fácil acceso a Miraflores, (Trabajo presencial)",
+                           "Soporte técnico a usuarios finales en entornos corporativos",
+                           "Administración básica de Windows 10 y Windows 11",
+                           "Diagnóstico y solución de incidencias de hardware y software (PCs, laptops, impresoras y periféricos)",
+                           "Soporte y configuración de Microsoft 365 (Outlook, Teams, Word, Excel y PowerPoint)",
+                           "Gestión básica de usuarios mediante Active Directory (desbloqueo de cuentas, reseteo de contraseñas y permisos)",
+                           "Conocimientos de redes: TCP/IP, DNS, DHCP, VPN, LAN y WiFi",
+                           "Configuración y soporte de impresoras locales y de red",
+                           "Manejo de herramientas de acceso y soporte remoto",
+                           "Gestión de incidencias mediante herramientas de ticketing y seguimiento de SLA",
+                           "Conocimientos básicos de ITIL",
+                           "Seguridad informática básica y buenas prácticas de gestión de accesos",
+                           "Elaboración y actualización de documentación técnica"
+                       ],
+        "funciones":  [
+                          "del puesto",
+                          "Brindar soporte técnico presencial a usuarios finales, atendiendo incidencias y requerimientos de TI",
+                          "Diagnosticar y solucionar problemas de hardware, software, sistemas operativos y aplicaciones corporativas",
+                          "Instalar, configurar y dar soporte a equipos de cómputo, laptops, impresoras y periféricos",
+                          "Brindar soporte a herramientas Microsoft 365 (Outlook, Teams, Word, Excel y PowerPoint)",
+                          "Gestionar cuentas de usuario, contraseñas y permisos básicos en Active Directory",
+                          "Registrar, actualizar y realizar seguimiento de tickets de atención en la herramienta de gestión de servicios",
+                          "Escalar incidencias que requieran atención especializada y realizar seguimiento hasta su cierre",
+                          "Apoyar en la instalación de software autorizado, actualizaciones y configuraciones de equipos",
+                          "Mantener actualizado el inventario de equipos y activos tecnológicos",
+                          "Cumplir los procedimientos internos, políticas de seguridad y acuerdos de nivel de servicio (SLA)"
+                      ],
+        "beneficios":  [
+                           "Seguro EPS cubierto al 100%",
+                           "Seguro Vida Ley",
+                           "Bienestar (psicólogo, nutricionista)",
+                           "Descuentos corporativos",
+                           "Acceso a plataforma de formación continua (Udemy)",
+                           "Cultura colaborativa, oportunidades reales de crecimiento",
+                           "Proyectos tecnológicos de gran escala en clientes líderes",
+                           "+150 (vale alimentos)"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/analista-de-soporte-on-site-junior-indra-peru-1118664661.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-soporte-on-site-junior-indra-peru-1118664661.html",
+        "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e¡Sé parte de nuestro equipo!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEl futuro se construye con talento. Y en Indra Group, estamos en búsqueda del tuyo. Estamos en la búsqueda de un ANALISTA DE SOPORTE ON SITE JUNIOR.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eConocimientos asociados o requisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesionales con formación técnica y últimos años de universidad, bachilleres o titulados\u003c/li\u003e \u003cli\u003eHorario: Lunes a viernes de 7:00 a.m. a 7:00 p.m. (48hrs). Disponibilidad para realizar turnos de fin de semana de forma rotativa (aprox. una vez cada 3 meses), con descanso compensatorio de 2 días.\u003c/li\u003e \u003cli\u003eDeseable residir en zonas de fácil acceso a Miraflores, (Trabajo presencial).\u003c/li\u003e \u003cli\u003eSoporte técnico a usuarios finales en entornos corporativos.\u003c/li\u003e \u003cli\u003eAdministración básica de \u003cstrong\u003eWindows 10 y Windows 11\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eDiagnóstico y solución de incidencias de \u003cstrong\u003ehardware y software\u003c/strong\u003e (PCs, laptops, impresoras y periféricos).\u003c/li\u003e \u003cli\u003eSoporte y configuración de \u003cstrong\u003eMicrosoft 365\u003c/strong\u003e (Outlook, Teams, Word, Excel y PowerPoint).\u003c/li\u003e \u003cli\u003eGestión básica de usuarios mediante \u003cstrong\u003eActive Directory\u003c/strong\u003e (desbloqueo de cuentas, reseteo de contraseñas y permisos).\u003c/li\u003e \u003cli\u003eConocimientos de redes: \u003cstrong\u003eTCP/IP, DNS, DHCP, VPN, LAN y WiFi\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eConfiguración y soporte de impresoras locales y de red.\u003c/li\u003e \u003cli\u003eManejo de herramientas de acceso y soporte remoto.\u003c/li\u003e \u003cli\u003eGestión de incidencias mediante herramientas de \u003cstrong\u003eticketing\u003c/strong\u003e y seguimiento de \u003cstrong\u003eSLA\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eConocimientos básicos de \u003cstrong\u003eITIL\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eSeguridad informática básica y buenas prácticas de gestión de accesos.\u003c/li\u003e \u003cli\u003eElaboración y actualización de documentación técnica.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones del puesto:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte técnico presencial a usuarios finales, atendiendo incidencias y requerimientos de TI.\u003c/li\u003e \u003cli\u003eDiagnosticar y solucionar problemas de hardware, software, sistemas operativos y aplicaciones corporativas.\u003c/li\u003e \u003cli\u003eInstalar, configurar y dar soporte a equipos de cómputo, laptops, impresoras y periféricos.\u003c/li\u003e \u003cli\u003eBrindar soporte a herramientas Microsoft 365 (Outlook, Teams, Word, Excel y PowerPoint).\u003c/li\u003e \u003cli\u003eGestionar cuentas de usuario, contraseñas y permisos básicos en Active Directory.\u003c/li\u003e \u003cli\u003eRegistrar, actualizar y realizar seguimiento de tickets de atención en la herramienta de gestión de servicios.\u003c/li\u003e \u003cli\u003eEscalar incidencias que requieran atención especializada y realizar seguimiento hasta su cierre.\u003c/li\u003e \u003cli\u003eApoyar en la instalación de software autorizado, actualizaciones y configuraciones de equipos.\u003c/li\u003e \u003cli\u003eMantener actualizado el inventario de equipos y activos tecnológicos.\u003c/li\u003e \u003cli\u003eCumplir los procedimientos internos, políticas de seguridad y acuerdos de nivel de servicio (SLA).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSeguro EPS cubierto al 100%\u003c/li\u003e \u003cli\u003eSeguro Vida Ley\u003c/li\u003e \u003cli\u003eBienestar (psicólogo, nutricionista)\u003c/li\u003e \u003cli\u003eDescuentos corporativos\u003c/li\u003e \u003cli\u003eAcceso a plataforma de formación continua (Udemy)\u003c/li\u003e \u003cli\u003eCultura colaborativa, oportunidades reales de crecimiento\u003c/li\u003e \u003cli\u003eProyectos tecnológicos de gran escala en clientes líderes\u003c/li\u003e \u003cli\u003e+150 (vale alimentos).\u003c/li\u003e\u003c/ul\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "Lunes a viernes de 7:00 a.m. a 7:00 p.m. (48hrs). Disponibilidad para realizar turnos de fin de semana de forma rotativa (aprox. una vez cada 3 meses), con descanso compensatorio de 2 días.",
+        "experiencia":  "",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664655",
+        "clave":  "id:1118664655",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-seguros-_-lima-norte-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664655.html",
+                       "capturadoEn":  "2026-11-18T04:20:36+00:00"
+                   },
+        "titulo":  "Asesor de Ventas de Seguros _ Lima Norte",
+        "empresa":  "Rimac Cia de Seguros y Reaseguros S.A.",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  4000,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "desde S/4000",
+                        "fuente_salario":  "desde"
+                    },
+        "descripcion":  "\u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana) ¡Únete al equipo RIMAC como Asesor de Seguros Vida y Financiero ! Forma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… ¡esta es tu oportunidad! Funciones: Desarrollar y mantener relaciones con los clientes. Identificar y evaluar las necesidades de seguros de los clientes. Brindar servicio al cliente y resolver problemas. Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes. Participar continuamente en los procesos de mejora de gestión. Requisitos: Estudios técnicos o universitarios concluidos o en curso. Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.). Cartera de clientes o red de contacto activa (indispensable). Manejo de herramientas digitales Beneficios: Planilla RIMAC desde el primer día Remuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento. EPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres. Beneficios del Grupo Breca. Bonos, viajes y campañas. \u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana) En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.",
+        "requisitos":  [
+                           "Estudios técnicos o universitarios concluidos o en curso",
+                           "Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.)",
+                           "Cartera de clientes o red de contacto activa (indispensable)",
+                           "Manejo de herramientas digitales"
+                       ],
+        "funciones":  [
+                          "Desarrollar y mantener relaciones con los clientes",
+                          "Identificar y evaluar las necesidades de seguros de los clientes",
+                          "Brindar servicio al cliente y resolver problemas",
+                          "Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes",
+                          "Participar continuamente en los procesos de mejora de gestión"
+                      ],
+        "beneficios":  [
+                           "del Grupo Breca",
+                           "Bonos, viajes y campañas",
+                           "\u0026#x1f4e3;*POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)",
+                           "En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-seguros-_-lima-norte-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664655.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-seguros-_-lima-norte-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664655.html",
+        "descripcion_html":  "\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)\u003c/p\u003e\u003cp\u003e¡Únete al equipo RIMAC como \u003cstrong\u003eAsesor de Seguros Vida y Financiero\u003c/strong\u003e!\u003c/p\u003e\u003cp\u003eForma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… \u003cstrong\u003e¡esta es tu oportunidad!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar y mantener relaciones con los clientes.\u003c/li\u003e \u003cli\u003eIdentificar y evaluar las necesidades de seguros de los clientes.\u003c/li\u003e \u003cli\u003eBrindar servicio al cliente y resolver problemas.\u003c/li\u003e \u003cli\u003eRecomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes.\u003c/li\u003e \u003cli\u003eParticipar continuamente en los procesos de mejora de gestión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios concluidos o en curso.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCartera de clientes o red de contacto activa (indispensable).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla RIMAC desde el primer día\u003c/li\u003e \u003cli\u003eRemuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento.\u003c/li\u003e \u003cli\u003eEPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres.\u003c/li\u003e \u003cli\u003eBeneficios del Grupo Breca.\u003c/li\u003e \u003cli\u003eBonos, viajes y campañas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)\u003c/p\u003e\u003cp\u003e\u003cem\u003eEn Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664654",
+        "clave":  "id:1118664654",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-comercial-de-seguros-y-financiero-arequipa-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664654.html",
+                       "capturadoEn":  "2026-11-18T04:20:39+00:00"
+                   },
+        "titulo":  "Asesor de Comercial de Seguros y Financiero - Arequipa",
+        "empresa":  "Rimac Cia de Seguros y Reaseguros S.A.",
+        "ubicacion":  "Arequipa",
+        "ciudad":  "Arequipa",
+        "region":  "Arequipa",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  4000,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "desde S/4000",
+                        "fuente_salario":  "desde"
+                    },
+        "descripcion":  "\u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa copia y pega el link en otra ventana) ¡Únete al equipo RIMAC como Asesor de Seguros Vida y Financiero ! Forma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… ¡esta es tu oportunidad! Funciones: Desarrollar y mantener relaciones con los clientes. Identificar y evaluar las necesidades de seguros de los clientes. Brindar servicio al cliente y resolver problemas. Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes. Participar continuamente en los procesos de mejora de gestión. Requisitos: Estudios técnicos o universitarios concluidos o en curso. Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.). Cartera de clientes o red de contacto activa (indispensable). Manejo de herramientas digitales Beneficios: Planilla RIMAC desde el primer día Remuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento. EPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres. Beneficios del Grupo Breca. Bonos, viajes y campañas. \u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana) En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.",
+        "requisitos":  [
+                           "Estudios técnicos o universitarios concluidos o en curso",
+                           "Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.)",
+                           "Cartera de clientes o red de contacto activa (indispensable)",
+                           "Manejo de herramientas digitales"
+                       ],
+        "funciones":  [
+                          "Desarrollar y mantener relaciones con los clientes",
+                          "Identificar y evaluar las necesidades de seguros de los clientes",
+                          "Brindar servicio al cliente y resolver problemas",
+                          "Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes",
+                          "Participar continuamente en los procesos de mejora de gestión"
+                      ],
+        "beneficios":  [
+                           "del Grupo Breca",
+                           "Bonos, viajes y campañas",
+                           "\u0026#x1f4e3;*POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)",
+                           "En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-comercial-de-seguros-y-financiero-arequipa-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664654.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-comercial-de-seguros-y-financiero-arequipa-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664654.html",
+        "descripcion_html":  "\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa copia y pega el link en otra ventana)\u003c/p\u003e\u003cp\u003e¡Únete al equipo RIMAC como \u003cstrong\u003eAsesor de Seguros Vida y Financiero\u003c/strong\u003e!\u003c/p\u003e\u003cp\u003eForma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… \u003cstrong\u003e¡esta es tu oportunidad!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar y mantener relaciones con los clientes.\u003c/li\u003e \u003cli\u003eIdentificar y evaluar las necesidades de seguros de los clientes.\u003c/li\u003e \u003cli\u003eBrindar servicio al cliente y resolver problemas.\u003c/li\u003e \u003cli\u003eRecomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes.\u003c/li\u003e \u003cli\u003eParticipar continuamente en los procesos de mejora de gestión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios concluidos o en curso.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCartera de clientes o red de contacto activa (indispensable).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla RIMAC desde el primer día\u003c/li\u003e \u003cli\u003eRemuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento.\u003c/li\u003e \u003cli\u003eEPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres.\u003c/li\u003e \u003cli\u003eBeneficios del Grupo Breca.\u003c/li\u003e \u003cli\u003eBonos, viajes y campañas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa \u003cstrong\u003e(copia y pega el link en otra ventana)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eEn Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664653",
+        "clave":  "id:1118664653",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/bbva-asesor-universal-juliaca-puno-manpowergroup-1118664653.html",
+                       "capturadoEn":  "2026-11-18T04:20:43+00:00"
+                   },
+        "titulo":  "BBVA ASESOR UNIVERSAL - JULIACA PUNO",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Puno - Juliaca",
+        "ciudad":  "Juliaca",
+        "region":  "Puno",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/2,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo. ¿Qué harás como Asesor Universal II? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. Ejecutar todo tipo de transacciones bancarias de manera precisa y ágil. ¿Qué perfil buscamos? Egresados de carreras técnicas o de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines. Experiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja. Alta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo. Disponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. Crecimiento y desarrollo profesional constante. Contrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial. EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos. Utilidades superiores al promedio del mercado. Acceso a descuentos y convenios corporativos. Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio",
+                           "Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial",
+                           "EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos",
+                           "Utilidades superiores al promedio del mercado",
+                           "Acceso a descuentos y convenios corporativos",
+                           "Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional",
+                           "Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/bbva-asesor-universal-juliaca-puno-manpowergroup-1118664653.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/bbva-asesor-universal-juliaca-puno-manpowergroup-1118664653.html",
+        "descripcion_html":  "\u003cp\u003e¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo.\u003c/p\u003e\u003cp\u003e¿Qué harás como Asesor Universal II?\u003c/p\u003e\u003cul\u003e \u003cli\u003eImpulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia.\u003c/li\u003e \u003cli\u003eEjecutar todo tipo de transacciones bancarias de manera precisa y ágil.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué perfil buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados de carreras técnicas o de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja.\u003c/li\u003e \u003cli\u003eAlta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué te ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de un banco global con un sólido prestigio.\u003c/li\u003e \u003cli\u003eCrecimiento y desarrollo profesional constante.\u003c/li\u003e \u003cli\u003eContrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio.\u003c/li\u003e \u003cli\u003eCapacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos.\u003c/li\u003e \u003cli\u003eUtilidades superiores al promedio del mercado.\u003c/li\u003e \u003cli\u003eAcceso a descuentos y convenios corporativos.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSomos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664652",
+        "clave":  "id:1118664652",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-seguros-de-vida-y-financiero-hibrido-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664652.html",
+                       "capturadoEn":  "2026-11-18T04:20:47+00:00"
+                   },
+        "titulo":  "Asesor de Ventas de Seguros de Vida y Financiero (Hibrido)",
+        "empresa":  "Rimac Cia de Seguros y Reaseguros S.A.",
+        "ubicacion":  "Lima - San Isidro",
+        "ciudad":  "San Isidro",
+        "region":  "Lima",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  4000,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "desde S/4000",
+                        "fuente_salario":  "desde"
+                    },
+        "descripcion":  "\u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana) ¡Únete al equipo RIMAC como Asesor de Seguros Vida y Financiero ! Forma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… ¡esta es tu oportunidad! Funciones: Desarrollar y mantener relaciones con los clientes. Identificar y evaluar las necesidades de seguros de los clientes. Brindar servicio al cliente y resolver problemas. Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes. Participar continuamente en los procesos de mejora de gestión. Requisitos: Estudios técnicos o universitarios concluidos o en curso. Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.). Cartera de clientes o red de contacto activa (indispensable). Manejo de herramientas digitales Beneficios: Planilla RIMAC desde el primer día Remuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento. EPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres. Beneficios del Grupo Breca. Bonos, viajes y campañas. \u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana) En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.",
+        "requisitos":  [
+                           "Estudios técnicos o universitarios concluidos o en curso",
+                           "Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.)",
+                           "Cartera de clientes o red de contacto activa (indispensable)",
+                           "Manejo de herramientas digitales"
+                       ],
+        "funciones":  [
+                          "Desarrollar y mantener relaciones con los clientes",
+                          "Identificar y evaluar las necesidades de seguros de los clientes",
+                          "Brindar servicio al cliente y resolver problemas",
+                          "Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes",
+                          "Participar continuamente en los procesos de mejora de gestión"
+                      ],
+        "beneficios":  [
+                           "del Grupo Breca",
+                           "Bonos, viajes y campañas",
+                           "\u0026#x1f4e3;*POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)",
+                           "En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-seguros-de-vida-y-financiero-hibrido-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664652.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-seguros-de-vida-y-financiero-hibrido-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664652.html",
+        "descripcion_html":  "\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)\u003c/p\u003e\u003cp\u003e¡Únete al equipo RIMAC como \u003cstrong\u003eAsesor de Seguros Vida y Financiero\u003c/strong\u003e!\u003c/p\u003e\u003cp\u003eForma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… \u003cstrong\u003e¡esta es tu oportunidad!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar y mantener relaciones con los clientes.\u003c/li\u003e \u003cli\u003eIdentificar y evaluar las necesidades de seguros de los clientes.\u003c/li\u003e \u003cli\u003eBrindar servicio al cliente y resolver problemas.\u003c/li\u003e \u003cli\u003eRecomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes.\u003c/li\u003e \u003cli\u003eParticipar continuamente en los procesos de mejora de gestión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios concluidos o en curso.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCartera de clientes o red de contacto activa (indispensable).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla RIMAC desde el primer día\u003c/li\u003e \u003cli\u003eRemuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento.\u003c/li\u003e \u003cli\u003eEPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres.\u003c/li\u003e \u003cli\u003eBeneficios del Grupo Breca.\u003c/li\u003e \u003cli\u003eBonos, viajes y campañas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)\u003c/p\u003e\u003cp\u003e\u003cem\u003eEn Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664650",
+        "clave":  "id:1118664650",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-comercial-de-seguros-y-financiero-trujillo-_-rimac-seguros-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664650.html",
+                       "capturadoEn":  "2026-11-18T04:20:48+00:00"
+                   },
+        "titulo":  "Asesor de Comercial de Seguros y Financiero - Trujillo _ Rimac Seguros",
+        "empresa":  "Rimac Cia de Seguros y Reaseguros S.A.",
+        "ubicacion":  "La Libertad - Trujillo",
+        "ciudad":  "Trujillo",
+        "region":  "La Libertad",
+        "modalidad":  "Híbrido",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  4000,
+                        "max":  null,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "desde S/4000",
+                        "fuente_salario":  "desde"
+                    },
+        "descripcion":  "\u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa copia y pega el link en otra ventana) ¡Únete al equipo RIMAC como Asesor de Seguros Vida y Financiero ! Forma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… ¡esta es tu oportunidad! Funciones: Desarrollar y mantener relaciones con los clientes. Identificar y evaluar las necesidades de seguros de los clientes. Brindar servicio al cliente y resolver problemas. Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes. Participar continuamente en los procesos de mejora de gestión. Requisitos: Estudios técnicos o universitarios concluidos o en curso. Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.). Cartera de clientes o red de contacto activa (indispensable). Manejo de herramientas digitales Beneficios: Planilla RIMAC desde el primer día Remuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento. EPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres. Beneficios del Grupo Breca. Bonos, viajes y campañas. \u0026#x1f4e3;* POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana) En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.",
+        "requisitos":  [
+                           "Estudios técnicos o universitarios concluidos o en curso",
+                           "Experiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.)",
+                           "Cartera de clientes o red de contacto activa (indispensable)",
+                           "Manejo de herramientas digitales"
+                       ],
+        "funciones":  [
+                          "Desarrollar y mantener relaciones con los clientes",
+                          "Identificar y evaluar las necesidades de seguros de los clientes",
+                          "Brindar servicio al cliente y resolver problemas",
+                          "Recomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes",
+                          "Participar continuamente en los procesos de mejora de gestión"
+                      ],
+        "beneficios":  [
+                           "del Grupo Breca",
+                           "Bonos, viajes y campañas",
+                           "\u0026#x1f4e3;*POSTULA POR AQUÍ * https://form.typeform.com/to/lAiV4DJa (copia y pega el link en otra ventana)",
+                           "En Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/asesor-de-comercial-de-seguros-y-financiero-trujillo-_-rimac-seguros-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664650.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-comercial-de-seguros-y-financiero-trujillo-_-rimac-seguros-rimac-cia-de-seguros-y-reaseguros-s.a.-1118664650.html",
+        "descripcion_html":  "\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa copia y pega el link en otra ventana)\u003c/p\u003e\u003cp\u003e¡Únete al equipo RIMAC como \u003cstrong\u003eAsesor de Seguros Vida y Financiero\u003c/strong\u003e!\u003c/p\u003e\u003cp\u003eForma parte de la empresa líder del mercado asegurador y una de las compañías más admiradas del Perú. Si te apasionan las ventas, te motiva ayudar a las personas a proteger su futuro y buscas una oportunidad de crecimiento… \u003cstrong\u003e¡esta es tu oportunidad!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDesarrollar y mantener relaciones con los clientes.\u003c/li\u003e \u003cli\u003eIdentificar y evaluar las necesidades de seguros de los clientes.\u003c/li\u003e \u003cli\u003eBrindar servicio al cliente y resolver problemas.\u003c/li\u003e \u003cli\u003eRecomendar y vender pólizas de seguros que satisfagan las necesidades de los clientes.\u003c/li\u003e \u003cli\u003eParticipar continuamente en los procesos de mejora de gestión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios concluidos o en curso.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia mínima de 1 año en ventas de intangibles (seguros, servicios financieros, telecomunicaciones, etc.).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCartera de clientes o red de contacto activa (indispensable).\u003c/strong\u003e\u003c/li\u003e \u003cli\u003eManejo de herramientas digitales\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla RIMAC desde el primer día\u003c/li\u003e \u003cli\u003eRemuneración variable, sin tope de comisiones, desde S/4000 al 100% de cumplimiento.\u003c/li\u003e \u003cli\u003eEPS al 90% para titular, cónyuge e hijos. Adicional, un plan especial para padres.\u003c/li\u003e \u003cli\u003eBeneficios del Grupo Breca.\u003c/li\u003e \u003cli\u003eBonos, viajes y campañas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u0026#x1f4e3;*\u003cstrong\u003ePOSTULA POR AQUÍ \u003c/strong\u003e* https://form.typeform.com/to/lAiV4DJa \u003cstrong\u003e(copia y pega el link en otra ventana)\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eEn Rimac Seguros y Reaseguros estamos comprometidos con la igualdad de oportunidades y derechos. Todas las personas que postulen a nuestras vacantes serán consideradas sin importar su origen, género, discapacidad, edad o cualquier otra característica, condición o preferencia.\u003c/em\u003e\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    },
+    {
+        "id":  "bumeran-1118664647",
+        "clave":  "id:1118664647",
+        "sector":  "privado",
+        "fuente":  {
+                       "id":  "bumeran",
+                       "nombre":  "Bumeran Peru",
+                       "urlOrigen":  "https://www.bumeran.com.pe/empleos/bbva-asesor-universal-pucallpa-ucayali-manpowergroup-1118664647.html",
+                       "capturadoEn":  "2026-11-18T04:20:52+00:00"
+                   },
+        "titulo":  "BBVA ASESOR UNIVERSAL - PUCALLPA UCAYALI",
+        "empresa":  "MANPOWERGROUP",
+        "ubicacion":  "Ucayali - Pucallpa",
+        "ciudad":  "Pucallpa",
+        "region":  "Ucayali",
+        "modalidad":  "Presencial",
+        "contrato":  "FULL_TIME",
+        "salario":  {
+                        "min":  2000,
+                        "max":  2000,
+                        "moneda":  "PEN",
+                        "especificado":  true,
+                        "texto_original":  "S/2,000",
+                        "fuente_salario":  "regex"
+                    },
+        "descripcion":  "¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo. ¿Qué harás como Asesor Universal II? Impulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente. Brindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia. Ejecutar todo tipo de transacciones bancarias de manera precisa y ágil. ¿Qué perfil buscamos? Egresados de carreras técnicas o de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines. Experiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja. Alta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo. Disponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm. ¿Qué te ofrecemos? Ser parte de un banco global con un sólido prestigio. Crecimiento y desarrollo profesional constante. Contrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio. Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial. EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos. Utilidades superiores al promedio del mercado. Acceso a descuentos y convenios corporativos. Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona",
+        "requisitos":  [
+                           null
+                       ],
+        "funciones":  [
+                          null
+                      ],
+        "beneficios":  [
+                           "atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio",
+                           "Capacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial",
+                           "EPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos",
+                           "Utilidades superiores al promedio del mercado",
+                           "Acceso a descuentos y convenios corporativos",
+                           "Día libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional",
+                           "Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona"
+                       ],
+        "fecha_publicacion":  "2026-11-16",
+        "fecha_cierre":  "",
+        "url":  "https://www.bumeran.com.pe/empleos/bbva-asesor-universal-pucallpa-ucayali-manpowergroup-1118664647.html",
+        "url_postulacion":  "https://www.bumeran.com.pe/empleos/bbva-asesor-universal-pucallpa-ucayali-manpowergroup-1118664647.html",
+        "descripcion_html":  "\u003cp\u003e¡Lidera tu futuro en un Banco Internacional en Lima! BBVA acompaña tu voluntad de llegar lejos. Porque sabemos que detrás de cada estudiante y egresado hay un esfuerzo que merece trascender. Aquí, el talento no se detiene: el BBVA te abre las puertas a una carrera a gran escala, poniendo a tu disposición un ecosistema de desarrollo diseñado para que el crecimiento no tenga límites. Si tienes la voluntad de desarrollarte profesionalmente, en BBVA está el camino para alcanzarlo.\u003c/p\u003e\u003cp\u003e¿Qué harás como Asesor Universal II?\u003c/p\u003e\u003cul\u003e \u003cli\u003eImpulsar la venta de nuestros productos y servicios financieros, siempre con un enfoque en el cliente.\u003c/li\u003e \u003cli\u003eBrindar una experiencia excepcional al cliente, asegurando que cada interacción sea de máxima calidad y eficiencia.\u003c/li\u003e \u003cli\u003eEjecutar todo tipo de transacciones bancarias de manera precisa y ágil.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué perfil buscamos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados de carreras técnicas o de carreras universitarias; egresados, bachilleres o titulados en Economía, Contabilidad, Administración, Ingenierías o afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en atención al cliente, ventas de productos y cuadre de caja.\u003c/li\u003e \u003cli\u003eAlta orientación al cliente, habilidades de negociación, vocación de servicio y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar de lunes a viernes de 08:30 am a 07:00 pm y sábados de 08:30 am a 01:00 pm.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e¿Qué te ofrecemos?\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer parte de un banco global con un sólido prestigio.\u003c/li\u003e \u003cli\u003eCrecimiento y desarrollo profesional constante.\u003c/li\u003e \u003cli\u003eContrato en planilla con beneficios atractivos: bonos por cumplimiento de metas, movilidad, vale de refrigerio.\u003c/li\u003e \u003cli\u003eCapacitación continua en Campus BBVA: Plataforma con más de 65 000 recursos formativos y universidad corporativa presencial.\u003c/li\u003e \u003cli\u003eEPS y Seguro Oncológico al 100% para ti, tu cónyuge e hijos.\u003c/li\u003e \u003cli\u003eUtilidades superiores al promedio del mercado.\u003c/li\u003e \u003cli\u003eAcceso a descuentos y convenios corporativos.\u003c/li\u003e \u003cli\u003eDía libre por tu cumpleaños. Somos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesional.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eSomos ManpowerGroup Talent Solutions, el aliado estratégico de BBVA en selección de talento, y estamos para apoyarte en tu crecimiento profesiona\u003c/p\u003e",
+        "area":  "",
+        "jornada":  "",
+        "nivel":  "",
+        "vacantes":  "",
+        "turno":  "",
+        "horario":  "",
+        "experiencia":  "Mínimo 1 año",
+        "estudios":  "",
+        "herramientas":  "",
+        "publicado_el":  "16/11/2026",
+        "validacion":  {
+                           "estado":  "VALIDADA",
+                           "senales":  [
+                                           "titulo+empresa+contenido",
+                                           "puesto/titulo",
+                                           "empresa",
+                                           "descripcion/funciones",
+                                           "requisitos",
+                                           "funciones",
+                                           "ubicacion",
+                                           "modalidad",
+                                           "fecha",
+                                           "url individual",
+                                           "salario"
+                                       ],
+                           "motivos":  [
+
+                                       ]
+                       }
+    }
+]

@@ -1,0 +1,87 @@
+{
+    "id":  "bumeran-1118664665",
+    "clave":  "id:1118664665",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/qa-automatizador-por-proyecto-entelgy-1118664665.html",
+                   "capturadoEn":  "2026-11-18T04:20:17+00:00"
+               },
+    "titulo":  "QA Automatizador (Por Proyecto)",
+    "empresa":  "Entelgy",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "DÉJANOS CONTARTE LO QUE NOS HACE GENUINE Buscamos profesionales que quieran reinventarse cada día, que enfrentarse a los retos vaya en su ADN y que sientan pasión por trabajar con la tecnología. Esto nos hace únicos, diferentes y auténticos. ¿QUÉ ESTAMOS BUSCANDO? Buscamos un Analista de Calidad QA Automation con experiencia en el sector bancario, que participe en proyectos de transformación digital asegurando la calidad de las soluciones mediante pruebas funcionales y automatizadas, contribuyendo a la mejora continua de los procesos de calidad. Funciones: Diseñar, desarrollar y mantener automatizaciones web y de servicios utilizando Java, Serenity BDD y el patrón Screenplay. Ejecutar pruebas funcionales, automatizadas, de integración, API, performance y seguridad para garantizar la calidad de las soluciones. Analizar requerimientos funcionales y técnicos, elaborando escenarios y casos de prueba alineados a las necesidades del negocio. Validar información mediante consultas en bases de datos relacionales y no relacionales, asegurando la integridad de los datos. Gestionar defectos, evidencias y métricas de calidad utilizando herramientas como Jira, Xray y repositorios GitHub. Colaborar con equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban) y participar en procesos de integración continua y despliegues en Azure DevOps. Requisitos: Experiencia mínima de 2 años realizando automatización web y de servicios con Java, Serenity BDD y patrón Screenplay. Experiencia mínima de 2 años ejecutando pruebas sobre servicios REST y SOAP utilizando herramientas como Postman, Bruno o SOAP UI. Conocimientos en bases de datos relacionales y no relacionales, incluyendo construcción y validación de consultas SQL y MongoDB. Experiencia mínima de 3 años participando en equipos ágiles bajo metodologías Scrum o Kanban. Experiencia mínima de 3 años en el sector bancario, deseable con conocimientos en Mercado de Capitales, Divisas, Gestión de Clientes y Cuentas. Certificación ISTQB Foundation Level o superior, además de conocimientos en pruebas de performance, usabilidad y seguridad. PORQUE EN ENTELGY TODO COMIENZA CONTIGO Ú nicos, R eales, A uténticos, D iferentes…… Somos 100% GENUINE. Nuestra cultura se vive en el día a día, somos como una gran familia y formamos Entelgy Family , donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. Health \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente. ASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO Ven para formar parte de nuestro equipo, y descubre que no es sólo lo que hacemos, sino cómo lo hacemos. ¡Atrévete a vivir una experiencia Genuine! Proyectos retadores para grandes clientes : Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día. Un progreso acelerado : Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites.",
+    "requisitos":  [
+                       "Experiencia mínima de 2 años realizando automatización web y de servicios con Java, Serenity BDD y patrón Screenplay",
+                       "Experiencia mínima de 2 años ejecutando pruebas sobre servicios REST y SOAP utilizando herramientas como Postman, Bruno o SOAP UI",
+                       "Conocimientos en bases de datos relacionales y no relacionales, incluyendo construcción y validación de consultas SQL y MongoDB",
+                       "Experiencia mínima de 3 años participando en equipos ágiles bajo metodologías Scrum o Kanban",
+                       "Experiencia mínima de 3 años en el sector bancario, deseable con conocimientos en Mercado de Capitales, Divisas, Gestión de Clientes y Cuentas",
+                       "Certificación ISTQB Foundation Level o superior, además de conocimientos en pruebas de performance, usabilidad y seguridad",
+                       "PORQUE EN ENTELGY TODO COMIENZA CONTIGO",
+                       "Únicos, Reales, Auténticos, Diferentes……",
+                       "Somos 100% GENUINE",
+                       "Nuestra cultura se vive en el día a día, somos como una gran familia y formamos Entelgy Family, donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. Health \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente",
+                       "ASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO",
+                       "Ven para formar parte de nuestro equipo, y descubre que no es sólo lo que hacemos, sino cómo lo hacemos. ¡Atrévete a vivir una experiencia Genuine!",
+                       "Proyectos retadores para grandes clientes: Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales desde el primer día",
+                       "Un progreso acelerado: Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites"
+                   ],
+    "funciones":  [
+                      "Diseñar, desarrollar y mantener automatizaciones web y de servicios utilizando Java, Serenity BDD y el patrón Screenplay",
+                      "Ejecutar pruebas funcionales, automatizadas, de integración, API, performance y seguridad para garantizar la calidad de las soluciones",
+                      "Analizar requerimientos funcionales y técnicos, elaborando escenarios y casos de prueba alineados a las necesidades del negocio",
+                      "Validar información mediante consultas en bases de datos relacionales y no relacionales, asegurando la integridad de los datos",
+                      "Gestionar defectos, evidencias y métricas de calidad utilizando herramientas como Jira, Xray y repositorios GitHub",
+                      "Colaborar con equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban) y participar en procesos de integración continua y despliegues en Azure DevOps"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-16",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/qa-automatizador-por-proyecto-entelgy-1118664665.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/qa-automatizador-por-proyecto-entelgy-1118664665.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eDÉJANOS CONTARTE LO QUE NOS HACE GENUINE\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos profesionales que quieran reinventarse cada día, que enfrentarse a los retos vaya en su ADN y que sientan pasión por trabajar con la tecnología. Esto nos hace únicos, diferentes y auténticos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿QUÉ ESTAMOS BUSCANDO?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eAnalista de Calidad QA Automation\u003c/strong\u003e con experiencia en el sector bancario, que participe en proyectos de transformación digital asegurando la calidad de las soluciones mediante pruebas funcionales y automatizadas, contribuyendo a la mejora continua de los procesos de calidad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar, desarrollar y mantener automatizaciones web y de servicios utilizando Java, Serenity BDD y el patrón Screenplay.\u003c/li\u003e \u003cli\u003eEjecutar pruebas funcionales, automatizadas, de integración, API, performance y seguridad para garantizar la calidad de las soluciones.\u003c/li\u003e \u003cli\u003eAnalizar requerimientos funcionales y técnicos, elaborando escenarios y casos de prueba alineados a las necesidades del negocio.\u003c/li\u003e \u003cli\u003eValidar información mediante consultas en bases de datos relacionales y no relacionales, asegurando la integridad de los datos.\u003c/li\u003e \u003cli\u003eGestionar defectos, evidencias y métricas de calidad utilizando herramientas como Jira, Xray y repositorios GitHub.\u003c/li\u003e \u003cli\u003eColaborar con equipos multidisciplinarios bajo metodologías ágiles (Scrum/Kanban) y participar en procesos de integración continua y despliegues en Azure DevOps.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de 2 años realizando automatización web y de servicios con Java, Serenity BDD y patrón Screenplay.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 2 años ejecutando pruebas sobre servicios REST y SOAP utilizando herramientas como Postman, Bruno o SOAP UI.\u003c/li\u003e \u003cli\u003eConocimientos en bases de datos relacionales y no relacionales, incluyendo construcción y validación de consultas SQL y MongoDB.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años participando en equipos ágiles bajo metodologías Scrum o Kanban.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en el sector bancario, deseable con conocimientos en Mercado de Capitales, Divisas, Gestión de Clientes y Cuentas.\u003c/li\u003e \u003cli\u003eCertificación ISTQB Foundation Level o superior, además de conocimientos en pruebas de performance, usabilidad y seguridad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePORQUE EN ENTELGY TODO COMIENZA CONTIGO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eÚ\u003c/strong\u003enicos, \u003cstrong\u003eR\u003c/strong\u003eeales, \u003cstrong\u003eA\u003c/strong\u003euténticos, \u003cstrong\u003eD\u003c/strong\u003eiferentes……\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSomos 100% GENUINE.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eNuestra cultura se vive en el día a día, somos como una gran familia y formamos \u003cstrong\u003eEntelgy Family\u003c/strong\u003e, donde podrás participar en diferentes actividades, eventos, retos y mucho más. También tenemos un conjunto de iniciativas orientadas a potenciar que tengas una vida sana y equilibrada, nuestro compromiso de contribuir a nuestra sociedad con iniciativas para el Cuidado del medio ambiente, Voluntariado comunitario, Sensibilización sobre personas vulnerables, etc. \u003cstrong\u003eHealth \u0026 Wellness, Responsabilidad Social, Programa para el Cuidado del Medio Ambiente.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eASÍ ES COMO PONEMOS TODO NUESTRO TALENTO EN POTENCIAR EL TUYO\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eVen para formar parte de nuestro equipo, y descubre que \u003cstrong\u003eno es sólo lo que hacemos, sino cómo lo hacemos.\u003c/strong\u003e ¡Atrévete a vivir una experiencia Genuine!\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eProyectos retadores para grandes clientes\u003c/strong\u003e: Trabajarás en proyectos de gran relevancia para nuestros clientes, junto a un gran equipo de profesionales\u003cstrong\u003e \u003c/strong\u003edesde el primer día.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eUn progreso acelerado\u003c/strong\u003e: Tu crecimiento estará garantizado y potenciado. Vamos contigo en lo que necesites.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "16/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
