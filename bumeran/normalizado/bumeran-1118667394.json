@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118667394",
+    "clave":  "id:1118667394",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/administradora-uki-travel-1118667394.html",
+                   "capturadoEn":  "2026-11-18T21:56:33+00:00"
+               },
+    "titulo":  "Administradora",
+    "empresa":  "Uki Travel",
+    "ubicacion":  "Huánuco - Tingo María",
+    "ciudad":  "Tingo María",
+    "region":  "Huánuco",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1450,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,450 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Administradora Resumen del Puesto Buscamos una Administradora responsable, proactiva y organizada, con sólidas habilidades comerciales para integrarse a nuestro equipo. El candidato ideal poseerá una mentalidad orientada a resultados y disposición para el aprendizaje continuo. Responsabilidades Realizar la gestión administrativa y operativa. Brindar atención y seguimiento a clientes. Coordinar reservas de servicios. Controlar ingresos y gastos. Analizar indicadores comerciales. Participar en la planificación de metas y estrategias de crecimiento. Requisitos Habilidades comerciales desarrolladas. Capacidad de organización y proactividad. Habilidades digitales. Buena comunicación. Orientación a resultados. Disposición para aprender.",
+    "requisitos":  [
+                       "Habilidades comerciales desarrolladas",
+                       "Capacidad de organización y proactividad",
+                       "Habilidades digitales",
+                       "Buena comunicación",
+                       "Orientación a resultados",
+                       "Disposición para aprender"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/administradora-uki-travel-1118667394.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/administradora-uki-travel-1118667394.html",
+    "descripcion_html":  "\u003cb\u003eAdministradora\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos una \u003cb\u003eAdministradora\u003c/b\u003e responsable, proactiva y organizada, con sólidas habilidades comerciales para integrarse a nuestro equipo. El candidato ideal poseerá una mentalidad orientada a resultados y disposición para el aprendizaje continuo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar la gestión administrativa y operativa.\u003c/li\u003e \u003cli\u003eBrindar atención y seguimiento a clientes.\u003c/li\u003e \u003cli\u003eCoordinar reservas de servicios.\u003c/li\u003e \u003cli\u003eControlar ingresos y gastos.\u003c/li\u003e \u003cli\u003eAnalizar indicadores comerciales.\u003c/li\u003e \u003cli\u003eParticipar en la planificación de metas y estrategias de crecimiento.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eHabilidades comerciales desarrolladas.\u003c/li\u003e \u003cli\u003eCapacidad de organización y proactividad.\u003c/li\u003e \u003cli\u003eHabilidades digitales.\u003c/li\u003e \u003cli\u003eBuena comunicación.\u003c/li\u003e \u003cli\u003eOrientación a resultados.\u003c/li\u003e \u003cli\u003eDisposición para aprender.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

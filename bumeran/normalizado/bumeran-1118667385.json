@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118667385",
+    "clave":  "id:1118667385",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-engineering-services-consulting-s.a.c-1118667385.html",
+                   "capturadoEn":  "2026-11-18T21:56:42+00:00"
+               },
+    "titulo":  "Asistente de Recursos Humanos",
+    "empresa":  "Engineering Services \u0026 Consulting S.A.C",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Recursos Humanos Resumen del Puesto Buscamos un(a) Asistente de Recursos Humanos organizado(a), proactivo(a) y orientado(a) al servicio, que brinde soporte integral a los procesos de Gestión Humana. Responsabilidades Brindar apoyo en los procesos de selección de personal. Colaborar en las actividades de onboarding de nuevos ingresos. Asistir en la administración de personal, incluyendo contratos y gestión de vacaciones. Participar en la organización de actividades de capacitación, eventos y programas de bienestar. Apoyar en las comunicaciones internas y en la gestión de bases de datos e indicadores de Recursos Humanos. Requisitos Egresado(a) o bachiller de Recursos Humanos, Administración, Psicología, Trabajo Social, Gestión Empresarial, Ingeniería Industrial o carreras afines. Experiencia mínima de 3 años en el área de Recursos Humanos. Manejo de herramientas ofimáticas como Excel y Google Workspace. Conocimiento de herramientas de diseño como Canva y sistemas de registro de personal. Se valorará el conocimiento de Power BI, SAP, SuccessFactors y plataformas ATS. Competencias clave: organización, proactividad, comunicación efectiva, orientación al servicio, atención al detalle y confidencialidad.",
+    "requisitos":  [
+                       "Egresado(a) o bachiller de Recursos Humanos, Administración, Psicología, Trabajo Social, Gestión Empresarial, Ingeniería Industrial o carreras afines",
+                       "Experiencia mínima de 3 años en el área de Recursos Humanos",
+                       "Manejo de herramientas ofimáticas como Excel y Google Workspace",
+                       "Conocimiento de herramientas de diseño como Canva y sistemas de registro de personal",
+                       "Se valorará el conocimiento de Power BI, SAP, SuccessFactors y plataformas ATS",
+                       "Competencias clave: organización, proactividad, comunicación efectiva, orientación al servicio, atención al detalle y confidencialidad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-engineering-services-consulting-s.a.c-1118667385.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-engineering-services-consulting-s.a.c-1118667385.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Recursos Humanos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eAsistente de Recursos Humanos\u003c/b\u003e organizado(a), proactivo(a) y orientado(a) al servicio, que brinde soporte integral a los procesos de Gestión Humana.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar apoyo en los procesos de selección de personal.\u003c/li\u003e \u003cli\u003eColaborar en las actividades de onboarding de nuevos ingresos.\u003c/li\u003e \u003cli\u003eAsistir en la administración de personal, incluyendo contratos y gestión de vacaciones.\u003c/li\u003e \u003cli\u003eParticipar en la organización de actividades de capacitación, eventos y programas de bienestar.\u003c/li\u003e \u003cli\u003eApoyar en las comunicaciones internas y en la gestión de bases de datos e indicadores de Recursos Humanos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEgresado(a) o bachiller de Recursos Humanos, Administración, Psicología, Trabajo Social, Gestión Empresarial, Ingeniería Industrial o carreras afines.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en el área de Recursos Humanos.\u003c/li\u003e \u003cli\u003eManejo de herramientas ofimáticas como Excel y Google Workspace.\u003c/li\u003e \u003cli\u003eConocimiento de herramientas de diseño como Canva y sistemas de registro de personal.\u003c/li\u003e \u003cli\u003eSe valorará el conocimiento de Power BI, SAP, SuccessFactors y plataformas ATS.\u003c/li\u003e \u003cli\u003eCompetencias clave: organización, proactividad, comunicación efectiva, orientación al servicio, atención al detalle y confidencialidad.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

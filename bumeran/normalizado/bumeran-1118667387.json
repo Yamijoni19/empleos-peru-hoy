@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118667387",
+    "clave":  "id:1118667387",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-arquitectura-pracon-1118667387.html",
+                   "capturadoEn":  "2026-11-18T21:56:41+00:00"
+               },
+    "titulo":  "Practicante de Arquitectura",
+    "empresa":  "PRACON",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  500,
+                    "max":  600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 500 - S/ 600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante de Arquitectura Resumen del Puesto Estamos en la búsqueda de un Practicante de Arquitectura proactivo y con gran potencial para integrarse a nuestro equipo. Esta es una excelente oportunidad para adquirir experiencia práctica en el campo de la arquitectura, colaborando en diversos proyectos y aprendiendo de profesionales experimentados. Responsabilidades Asistir en el desarrollo de planos y diseños arquitectónicos. Colaborar en la preparación de presentaciones y maquetas. Apoyar en la investigación de materiales y normativas. Participar en reuniones de equipo y seguimiento de proyectos. Contribuir a la documentación técnica y administrativa de los proyectos. Requisitos Estudiante avanzado o recién egresado de la carrera de Arquitectura. Conocimientos básicos de software de diseño arquitectónico (ej. AutoCAD, Revit, SketchUp). Interés y motivación por aprender y desarrollarse en el área. Capacidad para trabajar en equipo y seguir instrucciones. Buenas habilidades de comunicación y organización.",
+    "requisitos":  [
+                       "Estudiante avanzado o recién egresado de la carrera de Arquitectura",
+                       "Conocimientos básicos de software de diseño arquitectónico (ej. AutoCAD, Revit, SketchUp)",
+                       "Interés y motivación por aprender y desarrollarse en el área",
+                       "Capacidad para trabajar en equipo y seguir instrucciones",
+                       "Buenas habilidades de comunicación y organización"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-arquitectura-pracon-1118667387.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-arquitectura-pracon-1118667387.html",
+    "descripcion_html":  "\u003cb\u003ePracticante de Arquitectura\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003ePracticante de Arquitectura\u003c/b\u003e proactivo y con gran potencial para integrarse a nuestro equipo. Esta es una excelente oportunidad para adquirir experiencia práctica en el campo de la arquitectura, colaborando en diversos proyectos y aprendiendo de profesionales experimentados.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eAsistir en el desarrollo de planos y diseños arquitectónicos.\u003c/li\u003e \u003cli\u003eColaborar en la preparación de presentaciones y maquetas.\u003c/li\u003e \u003cli\u003eApoyar en la investigación de materiales y normativas.\u003c/li\u003e \u003cli\u003eParticipar en reuniones de equipo y seguimiento de proyectos.\u003c/li\u003e \u003cli\u003eContribuir a la documentación técnica y administrativa de los proyectos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante avanzado o recién egresado de la carrera de Arquitectura.\u003c/li\u003e \u003cli\u003eConocimientos básicos de software de diseño arquitectónico (ej. AutoCAD, Revit, SketchUp).\u003c/li\u003e \u003cli\u003eInterés y motivación por aprender y desarrollarse en el área.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo y seguir instrucciones.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación y organización.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

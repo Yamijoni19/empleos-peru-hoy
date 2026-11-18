@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118667403",
+    "clave":  "id:1118667403",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-servicios-generales--cuidado-de-animales.-1118667403.html",
+                   "capturadoEn":  "2026-11-18T21:56:31+00:00"
+               },
+    "titulo":  "Operario de Servicios Generales – Cuidado de Animales.",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Arequipa - Cerro Colorado",
+    "ciudad":  "Cerro Colorado",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "REQUISITOS: Secundaria completa. Experiencia en cuidado y crianza de animales de granja (deseable). Conocimientos básicos en alimentación, limpieza y manejo de animales. Responsabilidad, compromiso y disposición para el trabajo de campo. FUNCIONES: Alimentación y cuidado diario de borregos, gallinas, cuyes, patos, alpacas, chivos y otros animales. Limpieza y mantenimiento de corrales, gallineros y ambientes. Suministro de agua y control de alimentación. Vigilancia del estado de salud de los animales. Reportar nacimientos, enfermedades o cualquier incidencia. Mantener el orden y la higiene de las instalaciones.",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Experiencia en cuidado y crianza de animales de granja (deseable)",
+                       "Conocimientos básicos en alimentación, limpieza y manejo de animales",
+                       "Responsabilidad, compromiso y disposición para el trabajo de campo"
+                   ],
+    "funciones":  [
+                      "Alimentación y cuidado diario de borregos, gallinas, cuyes, patos, alpacas, chivos y otros animales",
+                      "Limpieza y mantenimiento de corrales, gallineros y ambientes",
+                      "Suministro de agua y control de alimentación",
+                      "Vigilancia del estado de salud de los animales",
+                      "Reportar nacimientos, enfermedades o cualquier incidencia",
+                      "Mantener el orden y la higiene de las instalaciones"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-servicios-generales--cuidado-de-animales.-1118667403.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-servicios-generales--cuidado-de-animales.-1118667403.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eREQUISITOS:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSecundaria completa.\u003c/li\u003e \u003cli\u003eExperiencia en cuidado y crianza de animales de granja (deseable).\u003c/li\u003e \u003cli\u003eConocimientos básicos en alimentación, limpieza y manejo de animales.\u003c/li\u003e \u003cli\u003eResponsabilidad, compromiso y disposición para el trabajo de campo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFUNCIONES:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAlimentación y cuidado diario de borregos, gallinas, cuyes, patos, alpacas, chivos y otros animales.\u003c/li\u003e \u003cli\u003eLimpieza y mantenimiento de corrales, gallineros y ambientes.\u003c/li\u003e \u003cli\u003eSuministro de agua y control de alimentación.\u003c/li\u003e \u003cli\u003eVigilancia del estado de salud de los animales.\u003c/li\u003e \u003cli\u003eReportar nacimientos, enfermedades o cualquier incidencia.\u003c/li\u003e \u003cli\u003eMantener el orden y la higiene de las instalaciones.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
