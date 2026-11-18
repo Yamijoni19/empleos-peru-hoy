@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118667439",
+    "clave":  "id:1118667439",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-proyecto-y-mejora-continua-1118667439.html",
+                   "capturadoEn":  "2026-11-18T13:57:47+00:00"
+               },
+    "titulo":  "Analista de Proyecto y Mejora Continua",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4000,
+                    "max":  4100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,000 - S/ 4,100",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Importante empresa busca un Analista de Proyecto y Mejora Continua. Requisitos: Titulado(a) Universitario de Ingeniería Industrial, Ingeniería Empresarial o Administración. Experiencia de 4 años en gestión de proyectos, transformación operativa o mejora de procesos. Experiencia en elaboración de casos de negocio, líneas base y medición de beneficios. Experiencia implementando transversal de mejoras. Excel Avanzado. Inglés Intermedio o Avanzado Power BI Intermedio o Avanzado Conocimiento en Metodologías: Lean, Six Sigma o de optimización. Disponibilidad para laborar presencialmente. Ofrecemos: S/4000 Alimentación cubierta en 50% en sede.",
+    "requisitos":  [
+                       "Titulado(a) Universitario de Ingeniería Industrial, Ingeniería Empresarial o Administración",
+                       "Experiencia de 4 años en gestión de proyectos, transformación operativa o mejora de procesos",
+                       "Experiencia en elaboración de casos de negocio, líneas base y medición de"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Experiencia implementando transversal de mejoras",
+                       "Excel Avanzado",
+                       "Inglés Intermedio o Avanzado",
+                       "Power BI Intermedio o Avanzado",
+                       "Conocimiento en Metodologías: Lean, Six Sigma o de optimización",
+                       "Disponibilidad para laborar presencialmente"
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-proyecto-y-mejora-continua-1118667439.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-proyecto-y-mejora-continua-1118667439.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa busca un Analista de Proyecto y Mejora Continua.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTitulado(a) Universitario de Ingeniería Industrial, Ingeniería Empresarial o Administración.\u003c/li\u003e \u003cli\u003eExperiencia de 4 años en gestión de proyectos, transformación operativa o mejora de procesos.\u003c/li\u003e \u003cli\u003eExperiencia en elaboración de casos de negocio, líneas base y medición de beneficios.\u003c/li\u003e \u003cli\u003eExperiencia implementando transversal de mejoras.\u003c/li\u003e \u003cli\u003eExcel Avanzado.\u003c/li\u003e \u003cli\u003eInglés Intermedio o Avanzado\u003c/li\u003e \u003cli\u003ePower BI Intermedio o Avanzado\u003c/li\u003e \u003cli\u003eConocimiento en Metodologías: Lean, Six Sigma o de optimización.\u003c/li\u003e \u003cli\u003eDisponibilidad para laborar presencialmente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eS/4000\u003c/li\u003e \u003cli\u003eAlimentación cubierta en 50% en sede.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

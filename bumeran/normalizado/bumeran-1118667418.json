@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118667418",
+    "clave":  "id:1118667418",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-tecnico-de-gestion-energetica--chimbote-eficiencia-profesional-1118667418.html",
+                   "capturadoEn":  "2026-11-18T13:58:27+00:00"
+               },
+    "titulo":  "PRACTICANTE TÉCNICO DE GESTIÓN ENERGÉTICA – CHIMBOTE",
+    "empresa":  "EFICIENCIA PROFESIONAL",
+    "ubicacion":  "Ancash - Chimbote",
+    "ciudad":  "Chimbote",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa del sector siderúrgico, nos encontramos en la búsqueda de un(a) Practicante Técnico de Gestión Energética. Funciones principales Apoyar en inspecciones técnicas y realizar el seguimiento de actividades de mantenimiento. Actualizar los registros de equipos. Elaborar reportes técnicos y realizar levantamiento de información en campo, siempre bajo supervisión. Requisitos Egresado(a) técnico(a) de Electricidad Industrial, Electrotecnia Industrial, Electrónica y Automatización Industrial, Mecatrónica Industrial o carreras afines. Año de egreso 2025 o 2026. Conocimientos de electricidad industrial, motores eléctricos, tableros de fuerza y control e instrumentación básica. Conocimientos de mantenimiento preventivo y correctivo, y fundamentos de operación de bombas, compresores y otros equipos electromecánicos. Excel a nivel intermedio (tablas dinámicas, gráficos, fórmulas y análisis de datos). Conocimientos básicos de Power BI y AutoCAD. Inglés a nivel básico. Lugar de trabajo: Chimbote Si cumples con los requisitos y estás interesado(a) en asumir este reto, no dudes en postular. ¡Te esperamos!",
+    "requisitos":  [
+                       "y estás interesado(a) en asumir este reto, no dudes en postular. ¡Te esperamos!"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Apoyar en inspecciones técnicas y realizar el seguimiento de actividades de mantenimiento",
+                      "Actualizar los registros de equipos",
+                      "Elaborar reportes técnicos y realizar levantamiento de información en campo, siempre bajo supervisión"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-tecnico-de-gestion-energetica--chimbote-eficiencia-profesional-1118667418.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-tecnico-de-gestion-energetica--chimbote-eficiencia-profesional-1118667418.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa del sector siderúrgico, nos encontramos en la búsqueda de un(a) Practicante Técnico de Gestión Energética.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eApoyar en inspecciones técnicas y realizar el seguimiento de actividades de mantenimiento.\u003c/li\u003e \u003cli\u003eActualizar los registros de equipos.\u003c/li\u003e \u003cli\u003eElaborar reportes técnicos y realizar levantamiento de información en campo, siempre bajo supervisión.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) técnico(a) de Electricidad Industrial, Electrotecnia Industrial, Electrónica y Automatización Industrial, Mecatrónica Industrial o carreras afines. Año de egreso 2025 o 2026.\u003c/li\u003e \u003cli\u003eConocimientos de electricidad industrial, motores eléctricos, tableros de fuerza y control e instrumentación básica.\u003c/li\u003e \u003cli\u003eConocimientos de mantenimiento preventivo y correctivo, y fundamentos de operación de bombas, compresores y otros equipos electromecánicos.\u003c/li\u003e \u003cli\u003eExcel a nivel intermedio (tablas dinámicas, gráficos, fórmulas y análisis de datos).\u003c/li\u003e \u003cli\u003eConocimientos básicos de Power BI y AutoCAD.\u003c/li\u003e \u003cli\u003eInglés a nivel básico.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo: \u003c/strong\u003eChimbote\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSi cumples con los requisitos y estás interesado(a) en asumir este reto, no dudes en postular. ¡Te esperamos!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

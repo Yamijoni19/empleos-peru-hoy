@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118667421",
+    "clave":  "id:1118667421",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-tecnico-de-seguridad-industrial--chimbote-eficiencia-profesional-1118667421.html",
+                   "capturadoEn":  "2026-11-18T13:58:22+00:00"
+               },
+    "titulo":  "PRACTICANTE TÉCNICO DE SEGURIDAD INDUSTRIAL – CHIMBOTE",
+    "empresa":  "EFICIENCIA PROFESIONAL",
+    "ubicacion":  "Ancash - Chimbote",
+    "ciudad":  "Chimbote",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, importante empresa del sector siderúrgico, nos encontramos en la búsqueda de un(a) Practicante Técnico de Seguridad Industrial. Funciones principales Brindar soporte durante los recorridos de planta en materia de seguridad, junto con los técnicos de seguridad asignados. Apoyar en las capacitaciones dirigidas al personal y a empresas terceras. Documentar información relacionada con la evaluación de riesgos. Apoyar en la identificación de peligros y evaluación de riesgos en el entorno industrial. Requisitos Egresado(a) técnico(a) de la carrera de Seguridad Industrial. Año de egreso 2025 o 2026. Conocimientos de metodología de investigación de accidentes. Conocimientos de la normativa legal aplicable a seguridad y salud en el trabajo. Excel a nivel intermedio, con manejo de gráficos y tablas dinámicas. Power BI e inglés a nivel básico. Lugar de trabajo: Chimbote Si cumples con los requisitos y estás interesado(a) en asumir este reto, no dudes en postular. ¡Te esperamos!",
+    "requisitos":  [
+                       "y estás interesado(a) en asumir este reto, no dudes en postular. ¡Te esperamos!"
+                   ],
+    "funciones":  [
+                      "principales",
+                      "Brindar soporte durante los recorridos de planta en materia de seguridad, junto con los técnicos de seguridad asignados",
+                      "Apoyar en las capacitaciones dirigidas al personal y a empresas terceras",
+                      "Documentar información relacionada con la evaluación de riesgos",
+                      "Apoyar en la identificación de peligros y evaluación de riesgos en el entorno industrial"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-tecnico-de-seguridad-industrial--chimbote-eficiencia-profesional-1118667421.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-tecnico-de-seguridad-industrial--chimbote-eficiencia-profesional-1118667421.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, importante empresa del sector siderúrgico, nos encontramos en la búsqueda de un(a) Practicante Técnico de Seguridad Industrial.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones principales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBrindar soporte durante los recorridos de planta en materia de seguridad, junto con los técnicos de seguridad asignados.\u003c/li\u003e \u003cli\u003eApoyar en las capacitaciones dirigidas al personal y a empresas terceras.\u003c/li\u003e \u003cli\u003eDocumentar información relacionada con la evaluación de riesgos.\u003c/li\u003e \u003cli\u003eApoyar en la identificación de peligros y evaluación de riesgos en el entorno industrial.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresado(a) técnico(a) de la carrera de Seguridad Industrial. Año de egreso 2025 o 2026.\u003c/li\u003e \u003cli\u003eConocimientos de metodología de investigación de accidentes.\u003c/li\u003e \u003cli\u003eConocimientos de la normativa legal aplicable a seguridad y salud en el trabajo.\u003c/li\u003e \u003cli\u003eExcel a nivel intermedio, con manejo de gráficos y tablas dinámicas.\u003c/li\u003e \u003cli\u003ePower BI e inglés a nivel básico.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eLugar de trabajo: \u003c/strong\u003eChimbote\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eSi cumples con los requisitos y estás interesado(a) en asumir este reto, no dudes en postular. ¡Te esperamos!\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

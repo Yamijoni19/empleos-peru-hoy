@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118667445",
+    "clave":  "id:1118667445",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/disenador-grafico-baolishi-1118667445.html",
+                   "capturadoEn":  "2026-11-18T13:57:42+00:00"
+               },
+    "titulo":  "Diseñador Gráfico",
+    "empresa":  "BAOLISHI",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "En Importaciones Baolishi , empresa peruana dedicada a la importación y comercialización de productos de belleza y cuidado personal, nos encontramos en constante crecimiento y buscamos incorporar nuevos talentos a nuestro equipo de trabajo. Diseñador Gráfico Resumen del Puesto Buscamos un Diseñador Gráfico creativo y proactivo para unirse a nuestro equipo. El candidato ideal tendrá un amplio dominio de herramientas de diseño gráfico y la capacidad de desarrollar propuestas innovadoras. Responsabilidades Desarrollar propuestas de diseño gráfico innovadoras. Aplicar conocimientos en branding, packaging, edición fotográfica y diseño publicitario. Colaborar en la creación de material publicitario y de marca. Asegurar la coherencia visual en todas las comunicaciones. Requisitos Mínimo de 2 años de experiencia en diseño gráfico. Amplio dominio de herramientas de diseño gráfico (ej. Adobe Creative Suite). Conocimientos en branding, packaging, edición fotográfica y diseño publicitario. Capacidad para desarrollar propuestas innovadoras. Habilidades de comunicación y trabajo en equipo.",
+    "requisitos":  [
+                       "Mínimo de 2 años de experiencia en diseño gráfico",
+                       "Amplio dominio de herramientas de diseño gráfico (ej. Adobe Creative Suite)",
+                       "Conocimientos en branding, packaging, edición fotográfica y diseño publicitario",
+                       "Capacidad para desarrollar propuestas innovadoras",
+                       "Habilidades de comunicación y trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/disenador-grafico-baolishi-1118667445.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/disenador-grafico-baolishi-1118667445.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEn \u003cstrong\u003eImportaciones Baolishi\u003c/strong\u003e, empresa peruana dedicada a la importación y comercialización de productos de belleza y cuidado personal, nos encontramos en constante crecimiento y buscamos incorporar nuevos talentos a nuestro equipo de trabajo.\u003c/p\u003e\u003c/p\u003e \u003cb\u003eDiseñador Gráfico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eDiseñador Gráfico\u003c/b\u003e creativo y proactivo para unirse a nuestro equipo. El candidato ideal tendrá un amplio dominio de herramientas de diseño gráfico y la capacidad de desarrollar propuestas innovadoras.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar propuestas de diseño gráfico innovadoras.\u003c/li\u003e \u003cli\u003eAplicar conocimientos en branding, packaging, edición fotográfica y diseño publicitario.\u003c/li\u003e \u003cli\u003eColaborar en la creación de material publicitario y de marca.\u003c/li\u003e \u003cli\u003eAsegurar la coherencia visual en todas las comunicaciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eMínimo de 2 años de experiencia en diseño gráfico.\u003c/li\u003e \u003cli\u003eAmplio dominio de herramientas de diseño gráfico (ej. Adobe Creative Suite).\u003c/li\u003e \u003cli\u003eConocimientos en branding, packaging, edición fotográfica y diseño publicitario.\u003c/li\u003e \u003cli\u003eCapacidad para desarrollar propuestas innovadoras.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 2 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
