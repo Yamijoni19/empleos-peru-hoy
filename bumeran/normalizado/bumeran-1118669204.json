@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118669204",
+    "clave":  "id:1118669204",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-ambiental-brafer-ingenieria-y-construcciones-s.a.c.-1118669204.html",
+                   "capturadoEn":  "2026-11-19T21:33:00+00:00"
+               },
+    "titulo":  "Ingeniero Ambiental",
+    "empresa":  "BRAFER INGENIERIA Y CONSTRUCCIONES S.A.C.",
+    "ubicacion":  "La Libertad - Santiago de Chuco",
+    "ciudad":  "Santiago de Chuco",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  5000,
+                    "max":  7000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 5,000 - S/ 7,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ingeniero Ambiental Resumen del Puesto Buscamos un Ingeniero Ambiental con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un sólido conocimiento en áreas clave de la ingeniería ambiental y la gestión de proyectos. Responsabilidades Desarrollar e implementar estrategias de mitigación ambiental. Realizar monitoreo ambiental y análisis de impacto ambiental. Gestionar aspectos ambientales en proyectos de obra. Colaborar en el diseño y ejecución de obras relacionadas con canales, represas, irrigaciones e infraestructura de riego. Asegurar el cumplimiento de la normativa ambiental vigente. Requisitos Título universitario en Ingeniería Ambiental o campo afín. Experiencia profesional mínima de 36 meses en roles de especialista ambiental. Conocimiento y experiencia en mitigación, monitoreo e impacto ambiental. Experiencia en gestión ambiental de obras. Conocimientos en obras de canales, represas, irrigaciones e infraestructura de riego. Capacidad para trabajar de forma autónoma y en equipo. Excelentes habilidades de comunicación y redacción técnica.",
+    "requisitos":  [
+                       "Título universitario en Ingeniería Ambiental o campo afín",
+                       "Experiencia profesional mínima de 36 meses en roles de especialista ambiental",
+                       "Conocimiento y experiencia en mitigación, monitoreo e impacto ambiental",
+                       "Experiencia en gestión ambiental de obras",
+                       "Conocimientos en obras de canales, represas, irrigaciones e infraestructura de riego",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Excelentes habilidades de comunicación y redacción técnica"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-ambiental-brafer-ingenieria-y-construcciones-s.a.c.-1118669204.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-ambiental-brafer-ingenieria-y-construcciones-s.a.c.-1118669204.html",
+    "descripcion_html":  "\u003cb\u003eIngeniero Ambiental\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eIngeniero Ambiental\u003c/b\u003e con experiencia para unirse a nuestro equipo. El candidato ideal tendrá un sólido conocimiento en áreas clave de la ingeniería ambiental y la gestión de proyectos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eDesarrollar e implementar estrategias de mitigación ambiental.\u003c/li\u003e \u003cli\u003eRealizar monitoreo ambiental y análisis de impacto ambiental.\u003c/li\u003e \u003cli\u003eGestionar aspectos ambientales en proyectos de obra.\u003c/li\u003e \u003cli\u003eColaborar en el diseño y ejecución de obras relacionadas con canales, represas, irrigaciones e infraestructura de riego.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de la normativa ambiental vigente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Ingeniería Ambiental o campo afín.\u003c/li\u003e \u003cli\u003eExperiencia profesional mínima de 36 meses en roles de especialista ambiental.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en mitigación, monitoreo e impacto ambiental.\u003c/li\u003e \u003cli\u003eExperiencia en gestión ambiental de obras.\u003c/li\u003e \u003cli\u003eConocimientos en obras de canales, represas, irrigaciones e infraestructura de riego.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y redacción técnica.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 36 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
