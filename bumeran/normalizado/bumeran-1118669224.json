@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118669224",
+    "clave":  "id:1118669224",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/contadora-caleb-king-1118669224.html",
+                   "capturadoEn":  "2026-11-19T13:04:46+00:00"
+               },
+    "titulo":  "Contador(a)",
+    "empresa":  "caleb king",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "¡Únete a nuestro equipo Caleb King! Somos una empresa dedicada a la comercialización de ropa interior para damas y caballeros, al por mayor y menor. Buscamos personas comprometidas, responsables y con ganas de crecer profesionalmente junto a nosotros. Contador(a) Resumen del Puesto Buscamos un(a) Contador(a) responsable, organizado(a) y comprometido(a) para formar parte de nuestro equipo. El candidato ideal tendrá experiencia en gestión contable, financiera y tributaria, y contribuirá al crecimiento y buen funcionamiento de la organización. Responsabilidades Gestionar la contabilidad general de la organización. Registrar y controlar las compras, ventas, ingresos y egresos. Realizar declaraciones y cumplir con las obligaciones tributarias. Controlar compras, ventas, ingresos y gastos. Efectuar conciliaciones bancarias. Elaborar reportes financieros. Controlar inventarios y costos. Requisitos Estudios técnicos o universitarios en Contabilidad. Experiencia mínima de 1 año en puestos similares. Conocimiento de normativas tributarias y herramientas de hoja de cálculo. Capacidad de organización, responsabilidad y compromiso. Proactividad e iniciativa. Ofrecemos Un buen ambiente laboral. Pagos puntuales.",
+    "requisitos":  [
+                       "Estudios técnicos o universitarios en Contabilidad",
+                       "Experiencia mínima de 1 año en puestos similares",
+                       "Conocimiento de normativas tributarias y herramientas de hoja de cálculo",
+                       "Capacidad de organización, responsabilidad y compromiso",
+                       "Proactividad e iniciativa"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/contadora-caleb-king-1118669224.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/contadora-caleb-king-1118669224.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003e¡Únete a nuestro equipo Caleb King! Somos una empresa dedicada a la comercialización de ropa interior para damas y caballeros, al por mayor y menor. Buscamos personas comprometidas, responsables y con ganas de crecer profesionalmente junto a nosotros.\u003c/p\u003e\u003c/p\u003e \u003cb\u003eContador(a)\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un(a) \u003cb\u003eContador(a)\u003c/b\u003e responsable, organizado(a) y comprometido(a) para formar parte de nuestro equipo. El candidato ideal tendrá experiencia en gestión contable, financiera y tributaria, y contribuirá al crecimiento y buen funcionamiento de la organización.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGestionar la contabilidad general de la organización.\u003c/li\u003e \u003cli\u003eRegistrar y controlar las compras, ventas, ingresos y egresos.\u003c/li\u003e \u003cli\u003eRealizar declaraciones y cumplir con las obligaciones tributarias.\u003c/li\u003e \u003cli\u003eControlar compras, ventas, ingresos y gastos.\u003c/li\u003e \u003cli\u003eEfectuar conciliaciones bancarias.\u003c/li\u003e \u003cli\u003eElaborar reportes financieros.\u003c/li\u003e \u003cli\u003eControlar inventarios y costos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudios técnicos o universitarios en Contabilidad.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 1 año en puestos similares.\u003c/li\u003e \u003cli\u003eConocimiento de normativas tributarias y herramientas de hoja de cálculo.\u003c/li\u003e \u003cli\u003eCapacidad de organización, responsabilidad y compromiso.\u003c/li\u003e \u003cli\u003eProactividad e iniciativa.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eOfrecemos\u003c/b\u003e \u003cul\u003e \u003cli\u003eUn buen ambiente laboral.\u003c/li\u003e \u003cli\u003ePagos puntuales.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
