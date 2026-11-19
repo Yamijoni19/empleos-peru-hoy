@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118667349",
+    "clave":  "id:1118667349",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-hmv-ingenieros-ltda.-sucursal-peru-1118667349.html",
+                   "capturadoEn":  "2026-11-19T03:27:11+00:00"
+               },
+    "titulo":  "Asistente de Recursos Humanos",
+    "empresa":  "HMV INGENIEROS LTDA. SUCURSAL PERÚ",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "HMV Ingenieros, empresa de soluciones de ingeniería y tecnología que brinda servicios de consultoría, supervisión y gerencia de proyectos para múltiples sectores. Operamos en el continente americano en Colombia, Perú, Chile, Brasil, Estados Unidos y Trinidad y Tobago, con proyectos en más de 36 países y buscando siempre el desarrollo de proyectos en cualquier parte del mundo. Para ser parte de HMV Ingenieros, tienes que postular por este medio adjuntando tu hoja de vida actualizada. Requisitos: Egresada o bachiller en las carreras de administración, ingeniería industrial, trabajo social o carreras similares. 6 meses de experiencia en el área de recursos humanos. Se consideran experiencia de las practicas pre profesionales. Manejo del excel a nivel intermedio, de preferencia avanzado. Funciones: Programación de examenes medicos Solicitud de documentación al personal que ingresa a la empresa. Organización de legajo del personal. Apoyo en las actividades de bienestar y clima laboral. Funciones operativas. Beneficios: Encontrarse en planilla desde el primer día EPS al 100% para el trabajador Seguro oncológico al 100% para el trabajador Póliza vida ley. Otros beneficios.",
+    "requisitos":  [
+                       "Egresada o bachiller en las carreras de administración, ingeniería industrial, trabajo social o carreras similares",
+                       "6 meses de experiencia en el área de recursos humanos. Se consideran experiencia de las practicas pre profesionales",
+                       "Manejo del excel a nivel intermedio, de preferencia avanzado"
+                   ],
+    "funciones":  [
+                      "operativas"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-hmv-ingenieros-ltda.-sucursal-peru-1118667349.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-recursos-humanos-hmv-ingenieros-ltda.-sucursal-peru-1118667349.html",
+    "descripcion_html":  "\u003cp\u003eHMV Ingenieros, empresa de soluciones de ingeniería y tecnología que brinda servicios de consultoría, supervisión y gerencia de proyectos para múltiples sectores. Operamos en el continente americano en Colombia, Perú, Chile, Brasil, Estados Unidos y Trinidad y Tobago, con proyectos en más de 36 países y buscando siempre el desarrollo de proyectos en cualquier parte del mundo.\u003c/p\u003e\u003cp\u003ePara ser parte de HMV Ingenieros, tienes que postular por este medio adjuntando tu hoja de vida actualizada.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresada o bachiller en las carreras de administración, ingeniería industrial, trabajo social o carreras similares.\u003c/li\u003e \u003cli\u003e6 meses de experiencia en el área de recursos humanos. Se consideran experiencia de las practicas pre profesionales.\u003c/li\u003e \u003cli\u003eManejo del excel a nivel intermedio, de preferencia avanzado.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProgramación de examenes medicos\u003c/li\u003e \u003cli\u003eSolicitud de documentación al personal que ingresa a la empresa.\u003c/li\u003e \u003cli\u003eOrganización de legajo del personal.\u003c/li\u003e \u003cli\u003eApoyo en las actividades de bienestar y clima laboral.\u003c/li\u003e \u003cli\u003eFunciones operativas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEncontrarse en planilla desde el primer día\u003c/li\u003e \u003cli\u003eEPS al 100% para el trabajador\u003c/li\u003e \u003cli\u003eSeguro oncológico al 100% para el trabajador\u003c/li\u003e \u003cli\u003ePóliza vida ley.\u003c/li\u003e \u003cli\u003eOtros beneficios.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

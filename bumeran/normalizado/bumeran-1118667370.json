@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118667370",
+    "clave":  "id:1118667370",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-gestion-integral-comercial-mandomedio-peru-1118667370.html",
+                   "capturadoEn":  "2026-11-19T03:26:35+00:00"
+               },
+    "titulo":  "Asistente de Gestión Integral Comercial",
+    "empresa":  "MANDOMEDIO PERÚ",
+    "ubicacion":  "Lima - Villa El Salvador",
+    "ciudad":  "Villa El Salvador",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, una importante compañía líder en el sector venta directa , nos encontramos en búsqueda de un: Asistente de Gestión Integral Comercial Funciones: Gestionar y ejecutar los Programas de Actividad, Incentivos Comerciales y Caja de Conferencia, asegurando la atención oportuna de casos en la plataforma CRM Ejecutar los procesos de Catálogos y Estrategias Comerciales. Elaborar reportes de cierre de campaña. Apoyo en la ejecución de la distribución de catálogos conforme a estrategias comerciales y métodos de entrega. Requisitos: Técnicos o universitarios de las carreras Ing. Industrial, Administración y/o afines. 02 años de experiencia mínima en funciones similares. Dominio de Microsoft Excel – Nivel Intermedio (tablas dinámicas) Conocimiento en Servicio de Atención al Cliente (SAC), logística, e-commerce y/o gestión con operadores logísticos. Disponibilidad para laborar de manera presencial en Villa el Salvador",
+    "requisitos":  [
+                       "Técnicos o universitarios de las carreras Ing. Industrial, Administración y/o afines",
+                       "02 años de experiencia mínima en"
+                   ],
+    "funciones":  [
+                      "similares",
+                      "Dominio de Microsoft Excel – Nivel Intermedio (tablas dinámicas)",
+                      "Conocimiento en Servicio de Atención al Cliente (SAC), logística, e-commerce y/o gestión con operadores logísticos",
+                      "Disponibilidad para laborar de manera presencial en Villa el Salvador"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-gestion-integral-comercial-mandomedio-peru-1118667370.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-gestion-integral-comercial-mandomedio-peru-1118667370.html",
+    "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003ePor encargo de nuestro cliente, \u003c/span\u003e\u003cspan style=\"\"\u003euna importante compañía líder en el sector venta directa\u003c/span\u003e\u003cspan style=\"\"\u003e,\u003cspan style=\"\"\u003e\u003cspan style=\"\"\u003e \u003c/span\u003e\u003c/span\u003e\u003c/span\u003e\u003cspan style=\"\"\u003enos encontramos en búsqueda de un: \u003c/span\u003e\u003cspan style=\"\"\u003eAsistente de Gestión Integral Comercial\u003c/span\u003e\u003c/p\u003e \u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar y ejecutar los Programas de Actividad, Incentivos Comerciales y Caja de Conferencia, asegurando la atención oportuna de casos en la plataforma CRM\u003c/li\u003e \u003cli\u003eEjecutar los procesos de Catálogos y Estrategias Comerciales.\u003c/li\u003e \u003cli\u003eElaborar reportes de cierre de campaña.\u003c/li\u003e \u003cli\u003eApoyo en la ejecución de la distribución de catálogos conforme a estrategias comerciales y métodos de entrega.\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cp\u003e\u003cbr /\u003e Técnicos o universitarios de las carreras Ing. Industrial, Administración y/o afines.\u003cbr /\u003e 02 años de experiencia mínima en funciones similares.\u003cbr /\u003e Dominio de Microsoft Excel – Nivel Intermedio (tablas dinámicas)\u003cbr /\u003e Conocimiento en Servicio de Atención al Cliente (SAC), logística, e-commerce y/o gestión con operadores logísticos.\u003cbr /\u003e Disponibilidad para laborar de manera presencial en Villa el Salvador\u003c/p\u003e\u003cbr/\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 02 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118144808",
+    "clave":  "id:1118144808",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-produccion-obrascon-huarte-lain-sa-sucursal-del-peru-1118144808.html",
+                   "capturadoEn":  "2026-11-19T03:27:43+00:00"
+               },
+    "titulo":  "Jefe de Producción",
+    "empresa":  "OBRASCON HUARTE LAIN SA SUCURSAL DEL PERU",
+    "ubicacion":  "Ancash - Antamina",
+    "ciudad":  "Antamina",
+    "region":  "Ancash",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "OHLA es una empresa experta en construcción y gestión de concesiones, referente en ingeniería civil, edificación singular y hospitalaria, industrial y servicios. Nuestras actividades están focalizadas en EEUU, Latinoamérica y Europa. Actualmente nos encontramos en búsqueda de un JEFE DE PRODUCCIÓN (Antamina): Ing. Civil, Ing. de Minas, Ing. Industrial, o carreras afines. Contar con 05 años de experiencia específica como Jefe de Producción o Residente de Obra proyectos de gran minería que involucren partidas de ejecución de movimiento de tierras en a gran escala y/o construcción de presas de revales. Experiencia general mayor a 07 años. Disponibilidad para trabajar bajo sistema atípico.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-17",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-produccion-obrascon-huarte-lain-sa-sucursal-del-peru-1118144808.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-produccion-obrascon-huarte-lain-sa-sucursal-del-peru-1118144808.html",
+    "descripcion_html":  "\u003cp\u003eOHLA es una empresa experta en construcción y gestión de concesiones, referente en ingeniería civil, edificación singular y hospitalaria, industrial y servicios. Nuestras actividades están focalizadas en EEUU, Latinoamérica y Europa. Actualmente nos encontramos en búsqueda de un\u003cstrong\u003e JEFE DE PRODUCCIÓN (Antamina):\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIng. Civil, Ing. de Minas, Ing. Industrial, o carreras afines.\u003c/li\u003e \u003cli\u003eContar con 05 años de experiencia específica como Jefe de Producción o Residente de Obra proyectos de gran minería que involucren partidas de ejecución de movimiento de tierras en a gran escala y/o construcción de presas de revales.\u003c/li\u003e \u003cli\u003eExperiencia general mayor a 07 años.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar bajo sistema atípico.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 05 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "17/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
