@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118670929",
+    "clave":  "id:1118670929",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-demoliciones-cahsac-1118670929.html",
+                   "capturadoEn":  "2026-11-20T11:43:10+00:00"
+               },
+    "titulo":  "Ingeniero Residente - Demoliciones",
+    "empresa":  "CAHSAC",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  6000,
+                    "max":  9000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 6,000 - S/ 9,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ingeniero Residente - Demoliciones Resumen del Puesto Estamos en la búsqueda de un profesional Ingeniero Residente con experiencia comprobada en la supervisión y gestión de proyectos de demoliciones . El candidato ideal deberá poseer título y estar debidamente colegiado, demostrando un alto nivel de responsabilidad y conocimiento técnico en el área. Responsabilidades Supervisar y coordinar las actividades diarias en el sitio de demolición. Asegurar el cumplimiento de los planes de trabajo, normativas de seguridad y especificaciones técnicas. Gestionar los recursos (personal, equipos, materiales) de manera eficiente. Realizar inspecciones y controles de calidad para garantizar la correcta ejecución de las tareas. Elaborar informes de avance y reportar cualquier incidencia o desviación del proyecto. Mantener una comunicación fluida con todas las partes involucradas en el proyecto. Requisitos Título universitario en Ingeniería (Civil, de Construcción o afín). Estar debidamente colegiado y habilitado. Experiencia demostrable en la gestión y supervisión de proyectos de demolición. Conocimiento profundo de las técnicas y normativas de seguridad aplicables a demoliciones. Capacidad para la toma de decisiones y resolución de problemas en campo. Habilidades de liderazgo y gestión de equipos. Excelentes capacidades de comunicación y redacción de informes.",
+    "requisitos":  [
+                       "Título universitario en Ingeniería (Civil, de Construcción o afín)",
+                       "Estar debidamente colegiado y habilitado",
+                       "Experiencia demostrable en la gestión y supervisión de proyectos de demolición",
+                       "Conocimiento profundo de las técnicas y normativas de seguridad aplicables a demoliciones",
+                       "Capacidad para la toma de decisiones y resolución de problemas en campo",
+                       "Habilidades de liderazgo y gestión de equipos",
+                       "Excelentes capacidades de comunicación y redacción de informes"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-demoliciones-cahsac-1118670929.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-demoliciones-cahsac-1118670929.html",
+    "descripcion_html":  "\u003cb\u003eIngeniero Residente - Demoliciones\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional \u003cb\u003eIngeniero Residente\u003c/b\u003e con experiencia comprobada en la supervisión y gestión de proyectos de \u003cb\u003edemoliciones\u003c/b\u003e. El candidato ideal deberá poseer título y estar debidamente colegiado, demostrando un alto nivel de responsabilidad y conocimiento técnico en el área.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eSupervisar y coordinar las actividades diarias en el sitio de demolición.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los planes de trabajo, normativas de seguridad y especificaciones técnicas.\u003c/li\u003e \u003cli\u003eGestionar los recursos (personal, equipos, materiales) de manera eficiente.\u003c/li\u003e \u003cli\u003eRealizar inspecciones y controles de calidad para garantizar la correcta ejecución de las tareas.\u003c/li\u003e \u003cli\u003eElaborar informes de avance y reportar cualquier incidencia o desviación del proyecto.\u003c/li\u003e \u003cli\u003eMantener una comunicación fluida con todas las partes involucradas en el proyecto.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Ingeniería (Civil, de Construcción o afín).\u003c/li\u003e \u003cli\u003eEstar debidamente colegiado y habilitado.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en la gestión y supervisión de proyectos de demolición.\u003c/li\u003e \u003cli\u003eConocimiento profundo de las técnicas y normativas de seguridad aplicables a demoliciones.\u003c/li\u003e \u003cli\u003eCapacidad para la toma de decisiones y resolución de problemas en campo.\u003c/li\u003e \u003cli\u003eHabilidades de liderazgo y gestión de equipos.\u003c/li\u003e \u003cli\u003eExcelentes capacidades de comunicación y redacción de informes.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
