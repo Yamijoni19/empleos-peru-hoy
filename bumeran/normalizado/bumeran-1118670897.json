@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118670897",
+    "clave":  "id:1118670897",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistenta-social-renal-centro-1118670897.html",
+                   "capturadoEn":  "2026-11-20T20:18:06+00:00"
+               },
+    "titulo":  "Asistenta Social",
+    "empresa":  "RENAL CENTRO",
+    "ubicacion":  "Junin - Huancayo",
+    "ciudad":  "Huancayo",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1250,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,250",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistenta Social Resumen del Puesto Nos encontramos en la búsqueda de una Asistenta Social para integrarse a nuestro equipo. La persona seleccionada tendrá la responsabilidad de orientar y brindar acompañamiento social a pacientes y sus familias, gestionando consultas y situaciones que requieran atención administrativa. Se valorará la capacidad para elaborar informes periódicos sobre las atenciones brindadas y su seguimiento. Responsabilidades Orientar y brindar acompañamiento social a pacientes y sus familiares. Canalizar consultas, solicitudes y situaciones que requieran atención administrativa. Realizar informes trimestrales sobre las atenciones a pacientes y su seguimiento. Colaborar en la coordinación de recursos y servicios para el bienestar de los pacientes. Mantener registros actualizados de las intervenciones sociales. Requisitos Título universitario en Trabajo Social o disciplina afín. Experiencia previa en roles de asistencia social. Sólidas habilidades de comunicación interpersonal y empatía. Capacidad para la gestión administrativa y elaboración de informes. Habilidad para trabajar de forma autónoma y en equipo. Disponibilidad para modalidad presencial.",
+    "requisitos":  [
+                       "Título universitario en Trabajo Social o disciplina afín",
+                       "Experiencia previa en roles de asistencia social",
+                       "Sólidas habilidades de comunicación interpersonal y empatía",
+                       "Capacidad para la gestión administrativa y elaboración de informes",
+                       "Habilidad para trabajar de forma autónoma y en equipo",
+                       "Disponibilidad para modalidad presencial"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistenta-social-renal-centro-1118670897.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistenta-social-renal-centro-1118670897.html",
+    "descripcion_html":  "\u003cb\u003eAsistenta Social\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de una \u003cb\u003eAsistenta Social\u003c/b\u003e para integrarse a nuestro equipo. La persona seleccionada tendrá la responsabilidad de orientar y brindar acompañamiento social a pacientes y sus familias, gestionando consultas y situaciones que requieran atención administrativa. Se valorará la capacidad para elaborar informes periódicos sobre las atenciones brindadas y su seguimiento.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eOrientar y brindar acompañamiento social a pacientes y sus familiares.\u003c/li\u003e \u003cli\u003eCanalizar consultas, solicitudes y situaciones que requieran atención administrativa.\u003c/li\u003e \u003cli\u003eRealizar informes trimestrales sobre las atenciones a pacientes y su seguimiento.\u003c/li\u003e \u003cli\u003eColaborar en la coordinación de recursos y servicios para el bienestar de los pacientes.\u003c/li\u003e \u003cli\u003eMantener registros actualizados de las intervenciones sociales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario en Trabajo Social o disciplina afín.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles de asistencia social.\u003c/li\u003e \u003cli\u003eSólidas habilidades de comunicación interpersonal y empatía.\u003c/li\u003e \u003cli\u003eCapacidad para la gestión administrativa y elaboración de informes.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para modalidad presencial.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
