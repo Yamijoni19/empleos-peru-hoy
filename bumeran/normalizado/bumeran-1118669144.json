@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118669144",
+    "clave":  "id:1118669144",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-costos-y-presupuestos-typsa-1118669144.html",
+                   "capturadoEn":  "2026-11-20T03:15:15+00:00"
+               },
+    "titulo":  "Ingeniero junior de costos y presupuestos",
+    "empresa":  "TYPSA",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Formación académica: Profesional técnico o universitario en Ingeniería Civil, Ingeniería Industrial o carreras afines. Experiencia: Mínimo de 2 a 3 años en el sector construcción, con experiencia en metrados, costos y presupuestos. Gestión de proveedores: Experiencia en solicitud, seguimiento y control de cotizaciones de materiales, equipos y subcontratos. Conocimientos técnicos: Manejo de Excel y gestión de bases de datos. Disponibilidad: Residencia en Arequipa y disponibilidad para trabajar de manera presencial.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-costos-y-presupuestos-typsa-1118669144.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-junior-de-costos-y-presupuestos-typsa-1118669144.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eFormación académica: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eProfesional técnico o universitario en Ingeniería Civil, Ingeniería Industrial o carreras afines. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eExperiencia: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eMínimo de 2 a 3 años en el sector construcción, con experiencia en metrados, costos y presupuestos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eGestión de proveedores: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Experiencia en solicitud, seguimiento y control de cotizaciones de materiales, equipos y subcontratos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos técnicos: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e Manejo de Excel y gestión de bases de datos. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eDisponibilidad: \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eResidencia en Arequipa y disponibilidad para trabajar de manera presencial.\u003c/strong\u003e\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

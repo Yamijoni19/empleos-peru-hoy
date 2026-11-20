@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118669149",
+    "clave":  "id:1118669149",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/consultor-asociado-vendedor-freelance-remoto-formacion-gerencial-360-1118669149.html",
+                   "capturadoEn":  "2026-11-20T03:15:08+00:00"
+               },
+    "titulo":  "Consultor Asociado / Vendedor Freelance (Remoto)",
+    "empresa":  "Formación Gerencial 360",
+    "ubicacion":  "Lima - Cercado De Lima",
+    "ciudad":  "Cercado De Lima",
+    "region":  "Lima",
+    "modalidad":  "Remoto",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/1,500",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "En EGCI buscamos talentos comerciales en para sumarse como Consultor Asociado (100% remoto y freelance). Tu función será detectar necesidades en empresas, presentar nuestras soluciones de formación ejecutiva y cerrar oportunidades de negocio. Tú construyes las relaciones comerciales y nosotros nos encargamos del delivery y la ejecución académica. Requisitos Profesionales con vocación comercial, experiencia en ventas B2B o consultoría, excelente comunicación y capacidad de autogestión para generar ingresos basados en resultados. Beneficios Al incorporarte a nuestra red accedes a un proceso de formación y certificación profesional en venta consultiva que valida tu perfil, además del respaldo institucional de EGCI y un amplio catálogo de soluciones formativas de alto valor para comercializar en empresas a nivel regional.",
+    "requisitos":  [
+                       "Profesionales con vocación comercial, experiencia en ventas B2B o consultoría, excelente comunicación y capacidad de autogestión para generar ingresos basados en resultados"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Al incorporarte a nuestra red accedes a un proceso de formación y certificación profesional en venta consultiva que valida tu"
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/consultor-asociado-vendedor-freelance-remoto-formacion-gerencial-360-1118669149.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/consultor-asociado-vendedor-freelance-remoto-formacion-gerencial-360-1118669149.html",
+    "descripcion_html":  "\u003cp\u003eEn EGCI buscamos talentos comerciales en para sumarse como Consultor Asociado (100% remoto y freelance). Tu función será detectar necesidades en empresas, presentar nuestras soluciones de formación ejecutiva y cerrar oportunidades de negocio. Tú construyes las relaciones comerciales y nosotros nos encargamos del delivery y la ejecución académica.\u003c/p\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cp\u003eProfesionales con vocación comercial, experiencia en ventas B2B o consultoría, excelente comunicación y capacidad de autogestión para generar ingresos basados en resultados.\u003c/p\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cp\u003eAl incorporarte a nuestra red accedes a un proceso de formación y certificación profesional en venta consultiva que valida tu perfil, además del respaldo institucional de EGCI y un amplio catálogo de soluciones formativas de alto valor para comercializar en empresas a nivel regional.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118669126",
+    "clave":  "id:1118669126",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operador-de-montacargas-temporal-planta-ate-backus-1118669126.html",
+                   "capturadoEn":  "2026-11-20T03:15:30+00:00"
+               },
+    "titulo":  "OPERADOR DE MONTACARGAS TEMPORAL - PLANTA ATE",
+    "empresa":  "BACKUS",
+    "ubicacion":  "Lima - Ate",
+    "ciudad":  "Ate",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "\u0026#x1f4cc; Propósito del puesto Operar montacargas para ejecutar las actividades de carga y descarga de los camiones de reparto, contribuyendo a la eficiencia y seguridad de la operación logística. ¿Qué esperamos de ti? Verificar la cantidad de materiales a movilizar de acuerdo con los pedidos y el proceso establecido, asegurando la exactitud de los inventarios. Cumplir con el traslado de materiales y producto terminado respetando los tiempos de desplazamiento y la velocidad permitida. Asegurar la seguridad dentro del predio y la disponibilidad de los productos. Registrar la edad del producto terminado para garantizar la correcta rotación del inventario. Recibir y verificar los balones de GLP para montacargas. Garantizar el cumplimiento al 100% del checklist de inspección al inicio de la jornada (cinturón de seguridad, extintor, claxon, tanque de gas, luces, alarma de retroceso, frenos, entre otros). Requisitos 1 año de experiencia en almacén o logística. Conocimientos técnicos en manejo de montacargas. Competencias: disciplina operativa, proactividad, trabajo en equipo y alta capacidad de comunicación. Disponibilidad para trabajar en turnos rotativos (matutino, vespertino y nocturno). Licencia de conducir A1 con un mínimo de 6 meses de antigüedad. Licencia para operar montacargas.",
+    "requisitos":  [
+                       "1 año de experiencia en almacén o logística",
+                       "Conocimientos técnicos en manejo de montacargas",
+                       "Competencias: disciplina operativa, proactividad, trabajo en equipo y alta capacidad de comunicación",
+                       "Disponibilidad para trabajar en turnos rotativos (matutino, vespertino y nocturno)",
+                       "Licencia de conducir A1 con un mínimo de 6 meses de antigüedad",
+                       "Licencia para operar montacargas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-18",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operador-de-montacargas-temporal-planta-ate-backus-1118669126.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operador-de-montacargas-temporal-planta-ate-backus-1118669126.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003e\u0026#x1f4cc; Propósito del puesto\u003c/strong\u003e Operar montacargas para ejecutar las actividades de carga y descarga de los camiones de reparto, contribuyendo a la eficiencia y seguridad de la operación logística.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué esperamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eVerificar la cantidad de materiales a movilizar de acuerdo con los pedidos y el proceso establecido, asegurando la exactitud de los inventarios.\u003c/li\u003e \u003cli\u003eCumplir con el traslado de materiales y producto terminado respetando los tiempos de desplazamiento y la velocidad permitida.\u003c/li\u003e \u003cli\u003eAsegurar la seguridad dentro del predio y la disponibilidad de los productos.\u003c/li\u003e \u003cli\u003eRegistrar la edad del producto terminado para garantizar la correcta rotación del inventario.\u003c/li\u003e \u003cli\u003eRecibir y verificar los balones de GLP para montacargas.\u003c/li\u003e \u003cli\u003eGarantizar el cumplimiento al 100% del checklist de inspección al inicio de la jornada (cinturón de seguridad, extintor, claxon, tanque de gas, luces, alarma de retroceso, frenos, entre otros).\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e1 año de experiencia en almacén o logística.\u003c/li\u003e \u003cli\u003eConocimientos técnicos en manejo de montacargas.\u003c/li\u003e \u003cli\u003eCompetencias: disciplina operativa, proactividad, trabajo en equipo y alta capacidad de comunicación.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en turnos rotativos (matutino, vespertino y nocturno).\u003c/li\u003e \u003cli\u003eLicencia de conducir A1 con un mínimo de 6 meses de antigüedad.\u003c/li\u003e \u003cli\u003eLicencia para operar montacargas.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "18/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
