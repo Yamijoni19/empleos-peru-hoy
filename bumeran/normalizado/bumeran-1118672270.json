@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118672270",
+    "clave":  "id:1118672270",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-pro-full-time-trujillo-grupo-ripley-1118672270.html",
+                   "capturadoEn":  "2026-11-21T23:15:28+00:00"
+               },
+    "titulo":  "Asesor Pro Full Time - Trujillo",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "2000 soles",
+                    "fuente_salario":  "descripcion"
+                },
+    "descripcion":  "Descripción del Puesto Postula y sé parte de nuestro equipo como Asesor de Ventas (con experiencia en ventas ) en Ripley para la ciudad de Trujillo. ¿Cuál será tu función? Responsable de atender y asesorar al cliente en el proceso de compra, ofreciendo los productos ideales de acuerdo a sus necesidades con el fin de garantizar la venta y completando los procesos que derivan de ella, cumpliendo con los protocolos y procedimientos definidos por la compañía para atención al cliente, exhibición de productos, además de promover la venta productos financieros en puntos transaccionales. ¿Qué buscamos de ti? Técnicos o universitarios concluidos o en curso. Deseable conocimiento en Ventas y Servicio Atención al Cliente, Caja, Políticas de Cambio y Devolución. Tener dinamismo, agilidad, comunicación efectiva, persuasión y servicio al cliente. Condiciones Laborales Full time: Horario: 46 horas semanales / Días de trabajo rotativos: 5 días laborando, 2 días de descanso entre Lunes y Domingos. Salario: Básico de 1168 + variable hasta 2000 soles. Beneficios Planilla completa de Ripley con todos los beneficios de ley Comisiones Beneficios corporativos Capacitaciones Seguro vida ley",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "corporativos",
+                       "Capacitaciones",
+                       "Seguro vida ley"
+                   ],
+    "fecha_publicacion":  "2026-11-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-pro-full-time-trujillo-grupo-ripley-1118672270.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-pro-full-time-trujillo-grupo-ripley-1118672270.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eDescripción del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003ePostula y sé parte de nuestro equipo como Asesor de Ventas (con experiencia en ventas ) en Ripley para la \u003cstrong\u003eciudad de Trujillo.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Cuál será tu función?\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eResponsable de atender y asesorar al cliente en el proceso de compra, ofreciendo los productos ideales de acuerdo a sus necesidades con el fin de garantizar la venta y completando los procesos que derivan de ella, cumpliendo con los protocolos y procedimientos definidos por la compañía para atención al cliente, exhibición de productos, además de promover la venta productos financieros en puntos transaccionales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¿Qué buscamos de ti?\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eTécnicos o universitarios concluidos o en curso.\u003c/li\u003e \u003cli\u003eDeseable conocimiento en Ventas y Servicio Atención al Cliente, Caja, Políticas de Cambio y Devolución.\u003c/li\u003e \u003cli\u003eTener dinamismo, agilidad, comunicación efectiva, persuasión y servicio al cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones Laborales\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eFull time: \u003c/strong\u003eHorario: 46 horas semanales / Días de trabajo rotativos: 5 días laborando, 2 días de descanso entre Lunes y Domingos. Salario: Básico de 1168 + variable hasta 2000 soles.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla completa de Ripley con todos los beneficios de ley\u003c/li\u003e \u003cli\u003eComisiones\u003c/li\u003e \u003cli\u003eBeneficios corporativos\u003c/li\u003e \u003cli\u003eCapacitaciones\u003c/li\u003e \u003cli\u003eSeguro vida ley\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "46 horas semanales / Días de trabajo rotativos: 5 días laborando, 2 días de descanso entre Lunes y Domingos. Salario: Básico de 1168 + variable hasta 2000 soles.",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
