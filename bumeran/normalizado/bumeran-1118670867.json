@@ -1,0 +1,97 @@
+{
+    "id":  "bumeran-1118670867",
+    "clave":  "id:1118670867",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/data-engineer--backend-de-datos-indra-peru-1118670867.html",
+                   "capturadoEn":  "2026-11-21T02:14:06+00:00"
+               },
+    "titulo":  "Data Engineer – Backend de datos",
+    "empresa":  "INDRA PERU",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Sobre el perfil Buscamos un/a ingeniero/a de datos que construya y mantenga los procesos que llevan la información desde los sistemas corporativos hasta una plataforma de datos en la nube, donde analistas y áreas de negocio puedan usarla con confianza. Trabajará con Databricks y Azure, y también con Oracle y PL/SQL. Funciones Diseñar, desarrollar y mantener pipelines ETL/ELT en Databricks con PySpark y Python. Desarrollar y optimizar procesos en SQL y PL/SQL sobre Oracle. Integrar datos desde múltiples fuentes hacia la plataforma de datos en Azure. Optimizar el rendimiento de los procesos (consultas, jobs, particionamiento y uso de recursos). Automatizar el ciclo de vida de los datos: ejecución, orquestación y despliegue de los procesos. Aplicar buenas prácticas de desarrollo: control de versiones con Git, integración continua con Jenkins y código mantenible. Monitorear los procesos, resolver incidencias y asegurar la calidad y disponibilidad de los datos. Documentar procesos y soluciones. Participar en las ceremonias ágiles (Scrum) y gestionar el trabajo en Jira. Colaborar con analistas, arquitectos y áreas de negocio, y apoyar a compañeros con menos experiencia. Requisitos Formación Bachiller o titulado/a en Ingeniería de Sistemas, Informática o afines. 3 o más años como desarrollador/a o ingeniero/a de datos. Conocimientos indispensables Python y PySpark SQL y PL/SQL Databricks Oracle Azure (servicios de datos) Git y Jenkins Jira Metodologías ágiles (Scrum) Optimización avanzada de PySpark y SQL Automatización del ciclo de vida de datos (CI/CD, orquestación con Azure Data Factory o Databricks Workflows) Kafka y Databricks Streaming (ingesta en tiempo real) Azure Event Hubs Certificaciones de Azure o Databricks Experiencia en el sector financiero Beneficios Planilla completa Seguro EPS al 100% Seguro Vida Ley. Acceso gratuito a Udemy para tu desarrollo profesional. Acceso a la plataforma Bee Beneficios. Citas virtuales gratuitas con psicólogo y nutricionista, para ti y tu familia directa. Evaluación de desempeño anual con incremento salarial. Oportunidad de crecimiento laboral.",
+    "requisitos":  [
+                       "Formación",
+                       "Bachiller o titulado/a en Ingeniería de Sistemas, Informática o afines",
+                       "3 o más años como desarrollador/a o ingeniero/a de datos",
+                       "Conocimientos indispensables",
+                       "Python y PySpark",
+                       "SQL y PL/SQL",
+                       "Databricks",
+                       "Oracle",
+                       "Azure (servicios de datos)",
+                       "Git y Jenkins",
+                       "Jira",
+                       "Metodologías ágiles (Scrum)",
+                       "Optimización avanzada de PySpark y SQL",
+                       "Automatización del ciclo de vida de datos (CI/CD, orquestación con Azure Data Factory o Databricks Workflows)",
+                       "Kafka y Databricks Streaming (ingesta en tiempo real)",
+                       "Azure Event Hubs",
+                       "Certificaciones de Azure o Databricks",
+                       "Experiencia en el sector financiero"
+                   ],
+    "funciones":  [
+                      "Diseñar, desarrollar y mantener pipelines ETL/ELT en Databricks con PySpark y Python",
+                      "Desarrollar y optimizar procesos en SQL y PL/SQL sobre Oracle",
+                      "Integrar datos desde múltiples fuentes hacia la plataforma de datos en Azure",
+                      "Optimizar el rendimiento de los procesos (consultas, jobs, particionamiento y uso de recursos)",
+                      "Automatizar el ciclo de vida de los datos: ejecución, orquestación y despliegue de los procesos",
+                      "Aplicar buenas prácticas de desarrollo: control de versiones con Git, integración continua con Jenkins y código mantenible",
+                      "Monitorear los procesos, resolver incidencias y asegurar la calidad y disponibilidad de los datos",
+                      "Documentar procesos y soluciones",
+                      "Participar en las ceremonias ágiles (Scrum) y gestionar el trabajo en Jira",
+                      "Colaborar con analistas, arquitectos y áreas de negocio, y apoyar a compañeros con menos experiencia"
+                  ],
+    "beneficios":  [
+                       "Citas virtuales gratuitas con psicólogo y nutricionista, para ti y tu familia directa",
+                       "Evaluación de desempeño anual con incremento salarial",
+                       "Oportunidad de crecimiento laboral"
+                   ],
+    "fecha_publicacion":  "2026-11-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/data-engineer--backend-de-datos-indra-peru-1118670867.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/data-engineer--backend-de-datos-indra-peru-1118670867.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eSobre el perfil\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un/a ingeniero/a de datos que construya y mantenga los procesos que llevan la información desde los sistemas corporativos hasta una plataforma de datos en la nube, donde analistas y áreas de negocio puedan usarla con confianza. Trabajará con Databricks y Azure, y también con Oracle y PL/SQL.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar, desarrollar y mantener pipelines ETL/ELT en Databricks con PySpark y Python.\u003c/li\u003e \u003cli\u003eDesarrollar y optimizar procesos en SQL y PL/SQL sobre Oracle.\u003c/li\u003e \u003cli\u003eIntegrar datos desde múltiples fuentes hacia la plataforma de datos en Azure.\u003c/li\u003e \u003cli\u003eOptimizar el rendimiento de los procesos (consultas, jobs, particionamiento y uso de recursos).\u003c/li\u003e \u003cli\u003eAutomatizar el ciclo de vida de los datos: ejecución, orquestación y despliegue de los procesos.\u003c/li\u003e \u003cli\u003eAplicar buenas prácticas de desarrollo: control de versiones con Git, integración continua con Jenkins y código mantenible.\u003c/li\u003e \u003cli\u003eMonitorear los procesos, resolver incidencias y asegurar la calidad y disponibilidad de los datos.\u003c/li\u003e \u003cli\u003eDocumentar procesos y soluciones.\u003c/li\u003e \u003cli\u003eParticipar en las ceremonias ágiles (Scrum) y gestionar el trabajo en Jira.\u003c/li\u003e \u003cli\u003eColaborar con analistas, arquitectos y áreas de negocio, y apoyar a compañeros con menos experiencia.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFormación\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller o titulado/a en Ingeniería de Sistemas, Informática o afines.\u003c/li\u003e \u003cli\u003e3 o más años como desarrollador/a o ingeniero/a de datos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eConocimientos indispensables\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePython y PySpark\u003c/li\u003e \u003cli\u003eSQL y PL/SQL\u003c/li\u003e \u003cli\u003eDatabricks\u003c/li\u003e \u003cli\u003eOracle\u003c/li\u003e \u003cli\u003eAzure (servicios de datos)\u003c/li\u003e \u003cli\u003eGit y Jenkins\u003c/li\u003e \u003cli\u003eJira\u003c/li\u003e \u003cli\u003eMetodologías ágiles (Scrum)\u003c/li\u003e \u003cli\u003eOptimización avanzada de PySpark y SQL\u003c/li\u003e \u003cli\u003eAutomatización del ciclo de vida de datos (CI/CD, orquestación con Azure Data Factory o Databricks Workflows)\u003c/li\u003e \u003cli\u003eKafka y Databricks Streaming (ingesta en tiempo real)\u003c/li\u003e \u003cli\u003eAzure Event Hubs\u003c/li\u003e \u003cli\u003eCertificaciones de Azure o Databricks\u003c/li\u003e \u003cli\u003eExperiencia en el sector financiero\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePlanilla completa\u003c/li\u003e \u003cli\u003eSeguro EPS al 100%\u003c/li\u003e \u003cli\u003eSeguro Vida Ley.\u003c/li\u003e \u003cli\u003eAcceso gratuito a Udemy para tu desarrollo profesional.\u003c/li\u003e \u003cli\u003eAcceso a la plataforma Bee Beneficios.\u003c/li\u003e \u003cli\u003eCitas virtuales gratuitas con psicólogo y nutricionista, para ti y tu familia directa.\u003c/li\u003e \u003cli\u003eEvaluación de desempeño anual con incremento salarial.\u003c/li\u003e \u003cli\u003eOportunidad de crecimiento laboral.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
