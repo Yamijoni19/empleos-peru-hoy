@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118672294",
+    "clave":  "id:1118672294",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-productos-financieros-buro-sales-force-1118672294.html",
+                   "capturadoEn":  "2026-11-21T17:31:30+00:00"
+               },
+    "titulo":  "ASESOR DE VENTAS DE PRODUCTOS FINANCIEROS",
+    "empresa":  "Buro Sales Force",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "CONTACTAR Y ATENDER AL CLIENTE DEL BANCO , ASESORARLOS CON LA INFORMACIÓN DE PRODUCTOS FINANCIEROS. PROMOCIONAR LOS DIVERSOS PRODUCTOS FINANCIEROS LD, TC, ET. GENERAR VENTAS. DESARROLALR RELACIONES COMERCIALES. CUMPLIR OBJETIVOS DE VENTAS. MANTENER EL CRM AL DIA CON LOS DATOS DE LOS CLIENTES PARA ESTABLECER CONTACTABILIDAD DIARIA.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-productos-financieros-buro-sales-force-1118672294.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesor-de-ventas-de-productos-financieros-buro-sales-force-1118672294.html",
+    "descripcion_html":  "\u003cp\u003eCONTACTAR Y ATENDER AL CLIENTE DEL BANCO , ASESORARLOS CON LA INFORMACIÓN DE PRODUCTOS FINANCIEROS.\u003c/p\u003e\u003cp\u003ePROMOCIONAR LOS DIVERSOS PRODUCTOS FINANCIEROS LD, TC, ET. \u003c/p\u003e\u003cp\u003eGENERAR VENTAS.\u003c/p\u003e\u003cp\u003eDESARROLALR RELACIONES COMERCIALES. \u003c/p\u003e\u003cp\u003eCUMPLIR OBJETIVOS DE VENTAS. \u003c/p\u003e\u003cp\u003eMANTENER EL CRM AL DIA CON LOS DATOS DE LOS CLIENTES PARA ESTABLECER CONTACTABILIDAD DIARIA. \u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

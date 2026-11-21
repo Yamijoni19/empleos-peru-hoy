@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118672284",
+    "clave":  "id:1118672284",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-laboratorio-clinico-a.r.-vet-lab-biopacif-y-asociados-sac-1118672284.html",
+                   "capturadoEn":  "2026-11-21T17:31:47+00:00"
+               },
+    "titulo":  "Tecnico de laboratorio clinico",
+    "empresa":  "A.R. VET LAB BIOPACIF Y ASOCIADOS SAC",
+    "ubicacion":  "Lima - Magdalena del Mar",
+    "ciudad":  "Magdalena del Mar",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Laboratorio clinico esta en busca de personal tecnico para el area de Patologia Clinica, el postulante debe tener la vocacion de servico para integrar nuestro equipo de trabajo . no se necesita experiencia pero debe tener conocimentos basicos en la fase preanalitoca ( hematologia, bioquimica, uroanalisis y parasitologia ) conocimentos en las normas de bioseguridad y manejo de residuos biocantaminantes , manejo de office a nivel usuario disponibilidad para laborar en tiempo completo de lunes a sabado. Entre algunas de sus funciones debera recepcionar, verificar e identificar las ordenes medicas , preparar y centrifugar, alicuotar y derivar las muestras a las areas correspondioentes para su procesamiento, mantener el orden limpieza y abastecimiento de insumos en su area de trabajo . debe ser puntual y proactivo y sobre todo con ganas de aprender y crecer junto con el equipo.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "debera recepcionar, verificar e identificar las ordenes medicas , preparar y centrifugar, alicuotar y derivar las muestras a las areas correspondioentes para su procesamiento, mantener el orden limpieza y abastecimiento de insumos en su area de trabajo . debe ser puntual y proactivo y sobre todo con ganas de aprender y crecer junto con el equipo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-laboratorio-clinico-a.r.-vet-lab-biopacif-y-asociados-sac-1118672284.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-laboratorio-clinico-a.r.-vet-lab-biopacif-y-asociados-sac-1118672284.html",
+    "descripcion_html":  "\u003cp\u003eLaboratorio clinico esta en busca de personal tecnico para el area de Patologia Clinica, el postulante debe tener la vocacion de servico para integrar nuestro equipo de trabajo . no se necesita experiencia pero debe tener conocimentos basicos en la fase preanalitoca ( hematologia, bioquimica, uroanalisis y parasitologia ) conocimentos en las normas de bioseguridad y manejo de residuos biocantaminantes , manejo de office a nivel usuario disponibilidad para laborar en tiempo completo de lunes a sabado. Entre algunas de sus funciones debera recepcionar, verificar e identificar las ordenes medicas , preparar y centrifugar, alicuotar y derivar las muestras a las areas correspondioentes para su procesamiento, mantener el orden limpieza y abastecimiento de insumos en su area de trabajo . debe ser puntual y proactivo y sobre todo con ganas de aprender y crecer junto con el equipo. \u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

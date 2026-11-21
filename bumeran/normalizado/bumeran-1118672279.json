@@ -1,0 +1,80 @@
+{
+    "id":  "bumeran-1118672279",
+    "clave":  "id:1118672279",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-1118672279.html",
+                   "capturadoEn":  "2026-11-21T17:31:49+00:00"
+               },
+    "titulo":  "Asistente de Administración de Personal",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "CONTRACTOR",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Somos una importante empresa del sector Retail. Nos encontramos en la búsqueda de un(a) Asistente de Administración de Personal para la Gerencia de Recursos Humanos. Requisitos: - Egresado de las carreras técnicas o universitaria de Contabilidad, Finanzas, Administración o afines. - Con experiencia mínima de 1 año en el puesto (en empresas de más de 1000 colaboradores). - Conocimiento de elaboración de contratos y Legislación Laboral. - Manejo de Excel a nivel intermedio. Funciones: - Recepción de los documentos del personal nuevo y elaboración de files personales. - Administrar y mantener actualizado el archivo documentario del personal. - Ingreso de personal al sistema de planillas, T- Registro y Sistema de Autoservicio del colaborador. - Entrega de reglamentos, políticas, convenios de prestaciones alimentarias correspondientes según área de ingreso. - Entrega de uniformes al personal nuevo y fotochecks. - Elaboración de contratos para trabajadores y convenios de prácticas. - Solicitud de afiliaciones a AFPs y Apertura de cuentas Bancarias. Datos Importantes: -Modalidad de trabajo: Presencial en el distrito de San Isidro, lunes a viernes.",
+    "requisitos":  [
+                       "Egresado de las carreras técnicas o universitaria de Contabilidad, Finanzas, Administración o afines",
+                       "Con experiencia mínima de 1 año en el puesto (en empresas de más de 1000 colaboradores)",
+                       "Conocimiento de elaboración de contratos y Legislación Laboral",
+                       "Manejo de Excel a nivel intermedio"
+                   ],
+    "funciones":  [
+                      "Recepción de los documentos del personal nuevo y elaboración de files personales",
+                      "Administrar y mantener actualizado el archivo documentario del personal",
+                      "Ingreso de personal al sistema de planillas, T- Registro y Sistema de Autoservicio del colaborador",
+                      "Entrega de reglamentos, políticas, convenios de prestaciones alimentarias correspondientes según área de ingreso",
+                      "Entrega de uniformes al personal nuevo y fotochecks",
+                      "Elaboración de contratos para trabajadores y convenios de prácticas",
+                      "Solicitud de afiliaciones a AFPs y Apertura de cuentas Bancarias",
+                      "Datos Importantes",
+                      "Modalidad de trabajo: Presencial en el distrito de San Isidro, lunes a viernes"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-1118672279.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-de-personal-1118672279.html",
+    "descripcion_html":  "\u003cp\u003eSomos una importante empresa del sector Retail. Nos encontramos en la búsqueda de un(a) \u003cstrong\u003eAsistente de Administración de Personal\u003c/strong\u003e para la Gerencia de Recursos Humanos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Egresado de las carreras técnicas o universitaria de Contabilidad, Finanzas, Administración o afines.\u003c/p\u003e\u003cp\u003e- Con experiencia mínima de 1 año en el puesto (en empresas de más de 1000 colaboradores).\u003c/p\u003e\u003cp\u003e- Conocimiento de elaboración de contratos y Legislación Laboral.\u003c/p\u003e\u003cp\u003e- Manejo de Excel a nivel intermedio.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Recepción de los documentos del personal nuevo y elaboración de files personales.\u003c/p\u003e\u003cp\u003e- Administrar y mantener actualizado el archivo documentario del personal.\u003c/p\u003e\u003cp\u003e- Ingreso de personal al sistema de planillas, T- Registro y Sistema de Autoservicio del colaborador.\u003c/p\u003e\u003cp\u003e- Entrega de reglamentos, políticas, convenios de prestaciones alimentarias correspondientes según área de ingreso.\u003c/p\u003e\u003cp\u003e- Entrega de uniformes al personal nuevo y fotochecks.\u003c/p\u003e\u003cp\u003e- Elaboración de contratos para trabajadores y convenios de prácticas.\u003c/p\u003e\u003cp\u003e- Solicitud de afiliaciones a AFPs y Apertura de cuentas Bancarias.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDatos Importantes:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e-Modalidad de trabajo: Presencial en el distrito de San Isidro, lunes a viernes.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

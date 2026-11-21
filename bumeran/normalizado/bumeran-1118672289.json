@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118672289",
+    "clave":  "id:1118672289",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-laboratorio-clinico-a.r.-vet-lab-biopacif-y-asociados-sac-1118672289.html",
+                   "capturadoEn":  "2026-11-21T17:31:39+00:00"
+               },
+    "titulo":  "Tecnico de Laboratorio clinico",
+    "empresa":  "A.R. VET LAB BIOPACIF Y ASOCIADOS SAC",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Laboratorio Clínico está en busca de personal técnico para el área de Microbiologia. horario de lunes a sábado. Entra algunas de las funciones a realizar son la distribución de muestras al area correspondiente. Recibir, identificar, rotular y acondicionar adecuadamente las muestras para ser asignadas la area . Apoyar en el procesamiento y análisis de muestras de laboratorio. Cumplir con los protocolos de bioseguridad y control de calidad. Verificar el estado y funcionamiento de los equipos e informar oportunamente sobre cualquier incidencia. Mantener el orden, la limpieza y la correcta conservación de materiales, reactivos y muestras. Habilidades blandas (empatía, comunicación y trabajo en equipo). Disponibilidad para trabajar a tiempo completo. Registrar los procedimientos y resultados de acuerdo con los protocolos internos. Gestionar adecuadamente los residuos biocontaminados y cumplir con las normas sanitarias vigentes. buen ambiente de trabajo.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "a realizar son la distribución de muestras al area correspondiente. Recibir, identificar, rotular y acondicionar adecuadamente las muestras para ser asignadas la area . Apoyar en el procesamiento y análisis de muestras de laboratorio. Cumplir con los protocolos de bioseguridad y control de calidad. Verificar el estado y funcionamiento de los equipos e informar oportunamente sobre cualquier incidencia. Mantener el orden, la limpieza y la correcta conservación de materiales, reactivos y muestras. Habilidades blandas (empatía, comunicación y trabajo en equipo). Disponibilidad para trabajar a tiempo completo. Registrar los procedimientos y resultados de acuerdo con los protocolos internos. Gestionar adecuadamente los residuos biocontaminados y cumplir con las normas sanitarias vigentes. buen ambiente de trabajo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-20",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-laboratorio-clinico-a.r.-vet-lab-biopacif-y-asociados-sac-1118672289.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-laboratorio-clinico-a.r.-vet-lab-biopacif-y-asociados-sac-1118672289.html",
+    "descripcion_html":  "\u003cp\u003eLaboratorio Clínico está en busca de personal técnico para el área de Microbiologia. horario de lunes a sábado. Entra algunas de las funciones a realizar son la distribución de muestras al area correspondiente. Recibir, identificar, rotular y acondicionar adecuadamente las muestras para ser asignadas la area . Apoyar en el procesamiento y análisis de muestras de laboratorio. Cumplir con los protocolos de bioseguridad y control de calidad. Verificar el estado y funcionamiento de los equipos e informar oportunamente sobre cualquier incidencia. Mantener el orden, la limpieza y la correcta conservación de materiales, reactivos y muestras. Habilidades blandas (empatía, comunicación y trabajo en equipo). Disponibilidad para trabajar a tiempo completo. Registrar los procedimientos y resultados de acuerdo con los protocolos internos. Gestionar adecuadamente los residuos biocontaminados y cumplir con las normas sanitarias vigentes. buen ambiente de trabajo.\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "20/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
