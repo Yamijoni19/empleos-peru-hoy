@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118670838",
+    "clave":  "id:1118670838",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-investigacion-1118670838.html",
+                   "capturadoEn":  "2026-11-21T09:51:40+00:00"
+               },
+    "titulo":  "Practicante de Investigación",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Importante empresa del sector educativo se encuentra en la búsqueda del mejor talento para cubrir la plaza de Practicante de Investigación que cumpla los siguientes requisitos Requisitos Egresados de la carrera de Economía, Estadística, Matemática o afines. Dominio de Software Estadístico (SPP, AMOS, etc) Dominio de R y Phyton. Dominio de bases de datos en bibliotecas online. Dominio de Ms Office Dominio del idioma inglés a nivel intermedio Funciones Realizar la búsqueda de literatura académica a través de la base de datos de la PUCP Brindar soporte en el procesamiento y análisis de los datos solicitados por el grupo investigador. Brindar soporte en la redacción de documentos de investigación en español e inglés Apoyar en la elaboración de material complementario para la presentación de los resultados. Otras funciones afines solicitadas por su jefe directo.",
+    "requisitos":  [
+                       "Egresados de la carrera de Economía, Estadística, Matemática o afines",
+                       "Dominio de Software Estadístico (SPP, AMOS, etc)",
+                       "Dominio de R y Phyton",
+                       "Dominio de bases de datos en bibliotecas online",
+                       "Dominio de Ms Office",
+                       "Dominio del idioma inglés a nivel intermedio"
+                   ],
+    "funciones":  [
+                      "afines solicitadas por su jefe directo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-investigacion-1118670838.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-investigacion-1118670838.html",
+    "descripcion_html":  "\u003cp\u003eImportante empresa del sector educativo se encuentra en la búsqueda del mejor talento para cubrir la plaza de Practicante de Investigación que cumpla los siguientes requisitos \u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEgresados de la carrera de Economía, Estadística, Matemática o afines. \u003c/li\u003e \u003cli\u003eDominio de Software Estadístico (SPP, AMOS, etc) \u003c/li\u003e \u003cli\u003eDominio de R y Phyton. \u003c/li\u003e \u003cli\u003eDominio de bases de datos en bibliotecas online. \u003c/li\u003e \u003cli\u003eDominio de Ms Office \u003c/li\u003e \u003cli\u003eDominio del idioma inglés a nivel intermedio \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar la búsqueda de literatura académica a través de la base de datos de la PUCP \u003c/li\u003e \u003cli\u003eBrindar soporte en el procesamiento y análisis de los datos solicitados por el grupo investigador. \u003c/li\u003e \u003cli\u003eBrindar soporte en la redacción de documentos de investigación en español e inglés\u003c/li\u003e \u003cli\u003eApoyar en la elaboración de material complementario para la presentación de los resultados. \u003c/li\u003e \u003cli\u003eOtras funciones afines solicitadas por su jefe directo. \u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

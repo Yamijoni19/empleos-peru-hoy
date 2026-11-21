@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118670832",
+    "clave":  "id:1118670832",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-produccion-delicias-del-norte-1118670832.html",
+                   "capturadoEn":  "2026-11-21T09:51:58+00:00"
+               },
+    "titulo":  "Ayudante de Producción",
+    "empresa":  "DELICIAS DEL NORTE",
+    "ubicacion":  "La Libertad - Trujillo",
+    "ciudad":  "Trujillo",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1350,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,350",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Producción Resumen del Puesto Estamos en la búsqueda de un(a) Ayudante de Producción para integrarse a nuestro equipo. El candidato ideal deberá contar con experiencia en la preparación y manipulación de alimentos, demostrando responsabilidad, orden, agilidad y una fuerte disposición para el trabajo en equipo. Responsabilidades Realizar el corte, fileteado y porcionado de carnes. Acondicionar, empacar y rotular productos. Verificar el almacenamiento y conservación de insumos. Mantener el orden y limpieza del área de producción. Cumplir con las normas de higiene y manipulación de alimentos. Requisitos Experiencia previa en preparación y manipulación de alimentos. Se valorará experiencia en corte y fileteado de carnes. Habilidades de responsabilidad, orden y agilidad. Disposición para trabajar en equipo. Disponibilidad para trabajar a tiempo completo.",
+    "requisitos":  [
+                       "Experiencia previa en preparación y manipulación de alimentos",
+                       "Se valorará experiencia en corte y fileteado de carnes",
+                       "Habilidades de responsabilidad, orden y agilidad",
+                       "Disposición para trabajar en equipo",
+                       "Disponibilidad para trabajar a tiempo completo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-19",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-produccion-delicias-del-norte-1118670832.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-produccion-delicias-del-norte-1118670832.html",
+    "descripcion_html":  "\u003cb\u003eAyudante de Producción\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un(a) \u003cb\u003eAyudante de Producción\u003c/b\u003e para integrarse a nuestro equipo. El candidato ideal deberá contar con experiencia en la preparación y manipulación de alimentos, demostrando responsabilidad, orden, agilidad y una fuerte disposición para el trabajo en equipo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el corte, fileteado y porcionado de carnes.\u003c/li\u003e \u003cli\u003eAcondicionar, empacar y rotular productos.\u003c/li\u003e \u003cli\u003eVerificar el almacenamiento y conservación de insumos.\u003c/li\u003e \u003cli\u003eMantener el orden y limpieza del área de producción.\u003c/li\u003e \u003cli\u003eCumplir con las normas de higiene y manipulación de alimentos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en preparación y manipulación de alimentos.\u003c/li\u003e \u003cli\u003eSe valorará experiencia en corte y fileteado de carnes.\u003c/li\u003e \u003cli\u003eHabilidades de responsabilidad, orden y agilidad.\u003c/li\u003e \u003cli\u003eDisposición para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "19/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
