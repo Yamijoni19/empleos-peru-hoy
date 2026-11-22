@@ -1,0 +1,81 @@
+{
+    "id":  "bumeran-1118672707",
+    "clave":  "id:1118672707",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-asia-boulevard-km-97-s-1500-400-bonos-human-to-business-s.a.c.-1118672707.html",
+                   "capturadoEn":  "2026-11-22T11:27:32+00:00"
+               },
+    "titulo":  "Ayudante de Cocina - ASIA Boulevard km 97 S/ 1500 + 400 Bonos",
+    "empresa":  "HUMAN TO BUSINESS S.A.C.",
+    "ubicacion":  "Lima - Asia",
+    "ciudad":  "Asia",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1500",
+                    "fuente_salario":  "titulo"
+                },
+    "descripcion":  "Apoyar en la preparación y elaboración de alimentos, manteniendo la limpieza y organización de la cocina. Funciones Principales Preparar ingredientes para los cocineros Realizar la limpieza de utensilios y áreas de trabajo Colaborar en la preparación básica de platos Mantener el orden y la higiene en la cocina Requisitos y Habilidades Experiencia previa en cocina (deseable) Conocimiento básico de manipulación de alimentos Capacidad para trabajar en equipo Disponibilidad para trabajar en horarios rotativos Beneficios Ofrecidos Alimentación en el lugar de trabajo Uniformes Estabilidad laboral",
+    "requisitos":  [
+                       "y Habilidades",
+                       "Experiencia previa en cocina (deseable)",
+                       "Conocimiento básico de manipulación de alimentos",
+                       "Capacidad para trabajar en equipo",
+                       "Disponibilidad para trabajar en horarios rotativos"
+                   ],
+    "funciones":  [
+                      "Principales",
+                      "Preparar ingredientes para los cocineros",
+                      "Realizar la limpieza de utensilios y áreas de trabajo",
+                      "Colaborar en la preparación básica de platos",
+                      "Mantener el orden y la higiene en la cocina"
+                  ],
+    "beneficios":  [
+                       "Ofrecidos",
+                       "Alimentación en el lugar de trabajo",
+                       "Uniformes",
+                       "Estabilidad laboral"
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-asia-boulevard-km-97-s-1500-400-bonos-human-to-business-s.a.c.-1118672707.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-asia-boulevard-km-97-s-1500-400-bonos-human-to-business-s.a.c.-1118672707.html",
+    "descripcion_html":  "\u003cp\u003eApoyar en la preparación y elaboración de alimentos, manteniendo la limpieza y organización de la cocina.\u003c/p\u003e\u003cp\u003eFunciones Principales\u003c/p\u003e\u003cul\u003e \u003cli\u003ePreparar ingredientes para los cocineros\u003c/li\u003e \u003cli\u003eRealizar la limpieza de utensilios y áreas de trabajo\u003c/li\u003e \u003cli\u003eColaborar en la preparación básica de platos\u003c/li\u003e \u003cli\u003eMantener el orden y la higiene en la cocina\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos y Habilidades\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en cocina (deseable)\u003c/li\u003e \u003cli\u003eConocimiento básico de manipulación de alimentos\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en equipo\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios rotativos\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eBeneficios Ofrecidos\u003c/p\u003e\u003cul\u003e \u003cli\u003eAlimentación en el lugar de trabajo\u003c/li\u003e \u003cli\u003eUniformes\u003c/li\u003e \u003cli\u003eEstabilidad laboral\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

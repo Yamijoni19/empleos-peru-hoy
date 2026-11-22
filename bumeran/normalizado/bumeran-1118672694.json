@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672694",
+    "clave":  "id:1118672694",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-puesto-de-ventas-empresa-e-y-m-kenamary-servicios-multiples-s.a.c.-1118672694.html",
+                   "capturadoEn":  "2026-11-22T11:27:36+00:00"
+               },
+    "titulo":  "Atención al Cliente - Puesto de Ventas",
+    "empresa":  "EMPRESA E Y M KENAMARY SERVICIOS MULTIPLES S.A.C.",
+    "ubicacion":  "Arequipa - Distrito de Sachaca",
+    "ciudad":  "Distrito de Sachaca",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Atención al Cliente - Puesto de Ventas Resumen del Puesto Buscamos personal para atención al cliente en un puesto de ventas. El candidato ideal será una persona amable, con habilidades de comunicación y disposición para aprender. Responsabilidades Brindar atención a clientes en la venta de productos. Realizar el registro de ventas, emitiendo comprobantes si es necesario. Gestionar el cobro de ventas y mantener el conocimiento de caja. Colaborar en el mantenimiento y limpieza del área de trabajo. Requisitos Habilidad para el trato con el público. Capacidad para el manejo de caja. Disponibilidad para jornada completa. Actitud proactiva y amable. No se requiere experiencia previa, se valorará la disposición para aprender.",
+    "requisitos":  [
+                       "Habilidad para el trato con el público",
+                       "Capacidad para el manejo de caja",
+                       "Disponibilidad para jornada completa",
+                       "Actitud proactiva y amable",
+                       "No se requiere experiencia previa, se valorará la disposición para aprender"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-puesto-de-ventas-empresa-e-y-m-kenamary-servicios-multiples-s.a.c.-1118672694.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-puesto-de-ventas-empresa-e-y-m-kenamary-servicios-multiples-s.a.c.-1118672694.html",
+    "descripcion_html":  "\u003cb\u003eAtención al Cliente - Puesto de Ventas\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personal para atención al cliente en un puesto de ventas. El candidato ideal será una persona amable, con habilidades de comunicación y disposición para aprender.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar atención a clientes en la venta de productos.\u003c/li\u003e \u003cli\u003eRealizar el registro de ventas, emitiendo comprobantes si es necesario.\u003c/li\u003e \u003cli\u003eGestionar el cobro de ventas y mantener el conocimiento de caja.\u003c/li\u003e \u003cli\u003eColaborar en el mantenimiento y limpieza del área de trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eHabilidad para el trato con el público.\u003c/li\u003e \u003cli\u003eCapacidad para el manejo de caja.\u003c/li\u003e \u003cli\u003eDisponibilidad para jornada completa.\u003c/li\u003e \u003cli\u003eActitud proactiva y amable.\u003c/li\u003e \u003cli\u003eNo se requiere experiencia previa, se valorará la disposición para aprender.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
