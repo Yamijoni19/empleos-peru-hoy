@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118672571",
+    "clave":  "id:1118672571",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-inga-express-1118672571.html",
+                   "capturadoEn":  "2026-11-22T19:39:02+00:00"
+               },
+    "titulo":  "Asistente de Facturación",
+    "empresa":  "INGA EXPRESS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1350,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,350 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "empresa dedicada atrsnportar mercancias varias Asistente de Facturación Resumen del Puesto Estamos en la búsqueda de un Asistente de Facturación proactivo y detallista para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en la gestión de documentación comercial y un enfoque metódico para asegurar la precisión en los procesos. Responsabilidades Generación y emisión de facturas y notas de crédito. Creación de guías de transporte para la movilización de mercadería. Verificación de la correcta documentación de las operaciones de transporte. Coordinación con áreas internas para asegurar la correcta facturación de los servicios. Archivo y organización de la documentación comercial generada. Soporte en la conciliación de cuentas y la resolución de discrepancias. Requisitos Experiencia previa en roles de facturación o administración. Conocimiento en la emisión de facturas, notas de crédito y guías de transporte. Capacidad para organizar y gestionar documentación. Atención al detalle y precisión en el manejo de datos. Habilidades de comunicación y trabajo en equipo. Proactividad y capacidad para resolver problemas.",
+    "requisitos":  [
+                       "Experiencia previa en roles de facturación o administración",
+                       "Conocimiento en la emisión de facturas, notas de crédito y guías de transporte",
+                       "Capacidad para organizar y gestionar documentación",
+                       "Atención al detalle y precisión en el manejo de datos",
+                       "Habilidades de comunicación y trabajo en equipo",
+                       "Proactividad y capacidad para resolver problemas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-inga-express-1118672571.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-facturacion-inga-express-1118672571.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eempresa dedicada  atrsnportar mercancias varias\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAsistente de Facturación\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente de Facturación\u003c/b\u003e proactivo y detallista para integrarse a nuestro equipo. El candidato ideal poseerá experiencia en la gestión de documentación comercial y un enfoque metódico para asegurar la precisión en los procesos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eGeneración y emisión de facturas y notas de crédito.\u003c/li\u003e \u003cli\u003eCreación de guías de transporte para la movilización de mercadería.\u003c/li\u003e \u003cli\u003eVerificación de la correcta documentación de las operaciones de transporte.\u003c/li\u003e \u003cli\u003eCoordinación con áreas internas para asegurar la correcta facturación de los servicios.\u003c/li\u003e \u003cli\u003eArchivo y organización de la documentación comercial generada.\u003c/li\u003e \u003cli\u003eSoporte en la conciliación de cuentas y la resolución de discrepancias.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de facturación o administración.\u003c/li\u003e \u003cli\u003eConocimiento en la emisión de facturas, notas de crédito y guías de transporte.\u003c/li\u003e \u003cli\u003eCapacidad para organizar y gestionar documentación.\u003c/li\u003e \u003cli\u003eAtención al detalle y precisión en el manejo de datos.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eProactividad y capacidad para resolver problemas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

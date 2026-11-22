@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118672574",
+    "clave":  "id:1118672574",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-produccion-electrica-power-forex-1118672574.html",
+                   "capturadoEn":  "2026-11-22T19:39:01+00:00"
+               },
+    "titulo":  "Técnico de Producción Eléctrica",
+    "empresa":  "POWER FOREX",
+    "ubicacion":  "Lima - Carabayllo",
+    "ciudad":  "Carabayllo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico de Producción Eléctrica Resumen del Puesto Buscamos un Técnico de Producción Eléctrica con experiencia en la fabricación y ensamblaje de componentes eléctricos. El candidato ideal poseerá conocimientos técnicos sólidos y una gran capacidad para trabajar en equipo, asegurando la calidad y eficiencia en los procesos productivos. Responsabilidades Participar activamente en la fabricación y ensamblaje de transformadores eléctricos y equipos relacionados. Realizar tareas de bobinado, montaje y conexionado de componentes eléctricos. Manejar herramientas eléctricas y equipos de taller de manera segura y eficiente. Colaborar en trabajos metalmecánicos, armado de estructuras y montaje de equipos eléctricos. Asegurar el cumplimiento de los procedimientos de producción, calidad y seguridad industrial establecidos. Requisitos Experiencia comprobable en fabricación y ensamblaje de transformadores eléctricos. Conocimientos en bobinado de transformadores monofásicos y trifásicos. Experiencia en trabajos metalmecánicos, armado de estructuras y montaje de equipos eléctricos. Demostrar responsabilidad, puntualidad y una marcada capacidad para trabajar en equipo.",
+    "requisitos":  [
+                       "Experiencia comprobable en fabricación y ensamblaje de transformadores eléctricos",
+                       "Conocimientos en bobinado de transformadores monofásicos y trifásicos",
+                       "Experiencia en trabajos metalmecánicos, armado de estructuras y montaje de equipos eléctricos",
+                       "Demostrar responsabilidad, puntualidad y una marcada capacidad para trabajar en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-produccion-electrica-power-forex-1118672574.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-produccion-electrica-power-forex-1118672574.html",
+    "descripcion_html":  "\u003cb\u003eTécnico de Producción Eléctrica\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eTécnico de Producción Eléctrica\u003c/b\u003e con experiencia en la fabricación y ensamblaje de componentes eléctricos. El candidato ideal poseerá conocimientos técnicos sólidos y una gran capacidad para trabajar en equipo, asegurando la calidad y eficiencia en los procesos productivos.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eParticipar activamente en la fabricación y ensamblaje de transformadores eléctricos y equipos relacionados.\u003c/li\u003e \u003cli\u003eRealizar tareas de bobinado, montaje y conexionado de componentes eléctricos.\u003c/li\u003e \u003cli\u003eManejar herramientas eléctricas y equipos de taller de manera segura y eficiente.\u003c/li\u003e \u003cli\u003eColaborar en trabajos metalmecánicos, armado de estructuras y montaje de equipos eléctricos.\u003c/li\u003e \u003cli\u003eAsegurar el cumplimiento de los procedimientos de producción, calidad y seguridad industrial establecidos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia comprobable en fabricación y ensamblaje de transformadores eléctricos.\u003c/li\u003e \u003cli\u003eConocimientos en bobinado de transformadores monofásicos y trifásicos.\u003c/li\u003e \u003cli\u003eExperiencia en trabajos metalmecánicos, armado de estructuras y montaje de equipos eléctricos.\u003c/li\u003e \u003cli\u003eDemostrar responsabilidad, puntualidad y una marcada capacidad para trabajar en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

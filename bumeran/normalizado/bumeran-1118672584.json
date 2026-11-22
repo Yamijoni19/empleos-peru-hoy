@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672584",
+    "clave":  "id:1118672584",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-y-despacho-power-forex-1118672584.html",
+                   "capturadoEn":  "2026-11-22T19:38:57+00:00"
+               },
+    "titulo":  "Operario de Almacén y Despacho",
+    "empresa":  "POWER FOREX",
+    "ubicacion":  "Lima - Carabayllo",
+    "ciudad":  "Carabayllo",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Almacén y Despacho Resumen del Puesto Estamos en la búsqueda de un Operario de Almacén y Despacho para unirse a nuestro equipo. El candidato ideal tendrá experiencia en la gestión de almacenes, embalaje y despacho de mercadería, con capacidad para el manejo seguro de equipos de gran peso y dimensiones. Responsabilidades Realizar el traslado y movilización de equipos eléctricos. Ejecutar el embalaje, protección y acondicionamiento de equipos para su envío. Apoyar en la carga y descarga de unidades de transporte. Preparar pedidos y coordinar despachos. Mantener el orden y control de los productos almacenados. Requisitos Experiencia previa en trabajos de almacén, embalaje y despacho de mercadería. Capacidad para realizar el traslado y movilización segura de equipos de gran peso y dimensiones. Conocimientos en embalaje de equipos industriales para transporte. Experiencia en carga y descarga de mercadería. Manejo básico de herramientas y equipos de traslado.",
+    "requisitos":  [
+                       "Experiencia previa en trabajos de almacén, embalaje y despacho de mercadería",
+                       "Capacidad para realizar el traslado y movilización segura de equipos de gran peso y dimensiones",
+                       "Conocimientos en embalaje de equipos industriales para transporte",
+                       "Experiencia en carga y descarga de mercadería",
+                       "Manejo básico de herramientas y equipos de traslado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-y-despacho-power-forex-1118672584.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-almacen-y-despacho-power-forex-1118672584.html",
+    "descripcion_html":  "\u003cb\u003eOperario de Almacén y Despacho\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eOperario de Almacén y Despacho\u003c/b\u003e para unirse a nuestro equipo. El candidato ideal tendrá experiencia en la gestión de almacenes, embalaje y despacho de mercadería, con capacidad para el manejo seguro de equipos de gran peso y dimensiones.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el traslado y movilización de equipos eléctricos.\u003c/li\u003e \u003cli\u003eEjecutar el embalaje, protección y acondicionamiento de equipos para su envío.\u003c/li\u003e \u003cli\u003eApoyar en la carga y descarga de unidades de transporte.\u003c/li\u003e \u003cli\u003ePreparar pedidos y coordinar despachos.\u003c/li\u003e \u003cli\u003eMantener el orden y control de los productos almacenados.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en trabajos de almacén, embalaje y despacho de mercadería.\u003c/li\u003e \u003cli\u003eCapacidad para realizar el traslado y movilización segura de equipos de gran peso y dimensiones.\u003c/li\u003e \u003cli\u003eConocimientos en embalaje de equipos industriales para transporte.\u003c/li\u003e \u003cli\u003eExperiencia en carga y descarga de mercadería.\u003c/li\u003e \u003cli\u003eManejo básico de herramientas y equipos de traslado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

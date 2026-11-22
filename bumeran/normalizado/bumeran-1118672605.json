@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118672605",
+    "clave":  "id:1118672605",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-inga-express-1118672605.html",
+                   "capturadoEn":  "2026-11-22T19:38:49+00:00"
+               },
+    "titulo":  "Asistente Administrativo",
+    "empresa":  "INGA EXPRESS",
+    "ubicacion":  "Lima - San Luis",
+    "ciudad":  "San Luis",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1380,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,380 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "empresa dedicada atrsnportar mercancias varias Asistente Administrativo Resumen del Puesto Estamos en la búsqueda de un Asistente Administrativo proactivo y organizado para dar soporte a nuestras operaciones. El candidato ideal poseerá habilidades sólidas en gestión documental, atención al cliente y manejo de herramientas ofimáticas. Responsabilidades Elaboración y gestión de facturas, guías de remisión y notas de crédito. Atención telefónica y resolución de consultas de clientes. Organización y archivo de documentación administrativa. Soporte en tareas generales de oficina. Colaboración con diferentes áreas para asegurar la fluidez de los procesos. Requisitos Formación secundaria completa o estudios afines. Experiencia previa en roles administrativos o de soporte. Dominio de herramientas ofimáticas (procesador de texto, hojas de cálculo). Excelentes habilidades de comunicación y trato interpersonal. Capacidad para la organización y gestión de prioridades. Proactividad y atención al detalle.",
+    "requisitos":  [
+                       "Formación secundaria completa o estudios afines",
+                       "Experiencia previa en roles administrativos o de soporte",
+                       "Dominio de herramientas ofimáticas (procesador de texto, hojas de cálculo)",
+                       "Excelentes habilidades de comunicación y trato interpersonal",
+                       "Capacidad para la organización y gestión de prioridades",
+                       "Proactividad y atención al detalle"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-inga-express-1118672605.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-inga-express-1118672605.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eempresa dedicada  atrsnportar mercancias varias\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAsistente Administrativo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente Administrativo\u003c/b\u003e proactivo y organizado para dar soporte a nuestras operaciones. El candidato ideal poseerá habilidades sólidas en gestión documental, atención al cliente y manejo de herramientas ofimáticas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eElaboración y gestión de facturas, guías de remisión y notas de crédito.\u003c/li\u003e \u003cli\u003eAtención telefónica y resolución de consultas de clientes.\u003c/li\u003e \u003cli\u003eOrganización y archivo de documentación administrativa.\u003c/li\u003e \u003cli\u003eSoporte en tareas generales de oficina.\u003c/li\u003e \u003cli\u003eColaboración con diferentes áreas para asegurar la fluidez de los procesos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación secundaria completa o estudios afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles administrativos o de soporte.\u003c/li\u003e \u003cli\u003eDominio de herramientas ofimáticas (procesador de texto, hojas de cálculo).\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato interpersonal.\u003c/li\u003e \u003cli\u003eCapacidad para la organización y gestión de prioridades.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
