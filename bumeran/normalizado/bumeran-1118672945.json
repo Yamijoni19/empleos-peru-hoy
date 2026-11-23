@@ -1,0 +1,83 @@
+{
+    "id":  "bumeran-1118672945",
+    "clave":  "id:1118672945",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-daci-lulli-asociados-s.a.c.-enlace-headhunting-1118672945.html",
+                   "capturadoEn":  "2026-11-23T21:23:17+00:00"
+               },
+    "titulo":  "Ingeniero Residente - DACI",
+    "empresa":  "LULLI \u0026 ASOCIADOS S.A.C. - ENLACE Headhunting",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa que brinda servicios de ingeniería especializada en sistemas contra incendios, electricidad de media y baja tensión, climatización y fabricaciones metalmecánicas. Objetivo de la posición: Dirigir, ejecutar y liquidar la instalación, cableado, programación, activación lógica y puesta en marcha de los sistemas de detección y alarmas contra incendio, garantizando la correcta integración con la matriz de causa-efecto (control de humos, cortes de energía, liberación de accesos, etc.) y asegurando el cumplimiento estricto de la norma NFPA 72 y normativas locales. Funciones generales: Gestión e Ingeniería de Activación: Diseñar y validar la matriz de lógica causa-efecto del proyecto, asegurando que ante una señal de detección el panel responda activando correctamente los dispositivos de notificación e interfaces mecánicas/eléctricas. Dirección de Montaje y Cableado: Supervisar el tendido de cableado ignífugo (FPL / FPLP / FPLR), montaje de tuberías conduit, instalación de detectores, módulos de control, módulos de monitoreo y fuentes auxiliares. Puesta en Marcha y Programación: Liderar la carga de base de datos en los paneles centralizados, la asignación de direcciones (SLC) y la realización de las pruebas de lazo y fallas de línea. Pruebas de Interfaz y Activación en Vivo: Coordinar y realizar las pruebas funcionales intersistemas (simulación de disparo para verificación de activación de extracción de humos, caída de puertas, corte de gas, etc.). Recepción Técnica y Dossier: Sustentar las pruebas de activación ante la supervisión del cliente, auditorías de la entidad reguladora e inspecciones finales (ITSE / Defensa Civil), entregando planos As-Built y protocolos firmados. Requisitos: Educación / Titulación: Ingeniero Electrónico, Mecánico-Eléctrico, Electricista o Mecatrónico. (Titulado y Colegiado Habilitado - Excluyente) . Experiencia: Mínimo 3 a 5 años de experiencia comprobada como Ingeniero Residente, Supervisor o Especialista en proyectos de sistemas de detección y activación de alarmas de incendio en proyectos medianos o de gran envergadura. Conocimientos normativos obligatorios: Dominio y aplicación de la Norma NFPA 72 (National Fire Alarm and Signal Code) en sus capítulos de iniciación, notificación, circuitos y matrices de control. Conocimiento de normas NFPA 101 (Código de Seguridad Humana), NFPA 70 (NEC - Código Eléctrico) y RNE (Norma A.130). Conocimientos técnicos especializados: Programación y Activación: Manejo y configuración de paneles centralizados analógicos/direccionables (FACP) de marcas como Notifier, Simplex, Edwards (EST), Bosch, Siemens, etc. Matriz de Causa-Efecto: Lógica de activación para integración con HVAC (dampers/extracción), presurización de escaleras, ascensores, puertas cortafuego, válvulas de flujo y sistemas de extinción (agente limpio, rociadores). Lectura e interpretación de planos electrónicos, unifilares y matrices de control en AutoCAD / Revit BIM. Beneficios Salario competitivo Contrato en planilla Mype",
+    "requisitos":  [
+                       "Educación / Titulación: Ingeniero Electrónico, Mecánico-Eléctrico, Electricista o Mecatrónico. (Titulado y Colegiado Habilitado - Excluyente)",
+                       "Experiencia: Mínimo 3 a 5 años de experiencia comprobada como Ingeniero Residente, Supervisor o Especialista en proyectos de sistemas de detección y activación de alarmas de incendio en proyectos medianos o de gran envergadura",
+                       "Conocimientos normativos obligatorios",
+                       "Dominio y aplicación de la Norma NFPA 72 (National Fire Alarm and Signal Code) en sus capítulos de iniciación, notificación, circuitos y matrices de control",
+                       "Conocimiento de normas NFPA 101 (Código de Seguridad Humana), NFPA 70 (NEC - Código Eléctrico) y RNE (Norma A.130)",
+                       "Conocimientos técnicos especializados",
+                       "Programación y Activación: Manejo y configuración de paneles centralizados analógicos/direccionables (FACP) de marcas como Notifier, Simplex, Edwards (EST), Bosch, Siemens, etc",
+                       "Matriz de Causa-Efecto: Lógica de activación para integración con HVAC (dampers/extracción), presurización de escaleras, ascensores, puertas cortafuego, válvulas de flujo y sistemas de extinción (agente limpio, rociadores)",
+                       "Lectura e interpretación de planos electrónicos, unifilares y matrices de control en AutoCAD / Revit BIM"
+                   ],
+    "funciones":  [
+                      "generales",
+                      "Gestión e Ingeniería de Activación: Diseñar y validar la matriz de lógica causa-efecto del proyecto, asegurando que ante una señal de detección el panel responda activando correctamente los dispositivos de notificación e interfaces mecánicas/eléctricas",
+                      "Dirección de Montaje y Cableado: Supervisar el tendido de cableado ignífugo (FPL / FPLP / FPLR), montaje de tuberías conduit, instalación de detectores, módulos de control, módulos de monitoreo y fuentes auxiliares",
+                      "Puesta en Marcha y Programación: Liderar la carga de base de datos en los paneles centralizados, la asignación de direcciones (SLC) y la realización de las pruebas de lazo y fallas de línea",
+                      "Pruebas de Interfaz y Activación en Vivo: Coordinar y realizar las pruebas funcionales intersistemas (simulación de disparo para verificación de activación de extracción de humos, caída de puertas, corte de gas, etc.)",
+                      "Recepción Técnica y Dossier: Sustentar las pruebas de activación ante la supervisión del cliente, auditorías de la entidad reguladora e inspecciones finales (ITSE / Defensa Civil), entregando planos As-Built y protocolos firmados"
+                  ],
+    "beneficios":  [
+                       "Salario competitivo",
+                       "Contrato en planilla Mype"
+                   ],
+    "fecha_publicacion":  "2026-11-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-daci-lulli-asociados-s.a.c.-enlace-headhunting-1118672945.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingeniero-residente-daci-lulli-asociados-s.a.c.-enlace-headhunting-1118672945.html",
+    "descripcion_html":  "\u003cp\u003e\u003cspan style=\"\"\u003eEmpresa que brinda servicios de ingeniería especializada en sistemas contra incendios, electricidad de media y baja tensión, climatización y fabricaciones metalmecánicas.\u003c/span\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eObjetivo de la posición:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eDirigir, ejecutar y liquidar la instalación, cableado, programación, \u003cstrong\u003eactivación lógica\u003c/strong\u003e y puesta en marcha de los sistemas de detección y alarmas contra incendio, garantizando la correcta integración con la matriz de causa-efecto (control de humos, cortes de energía, liberación de accesos, etc.) y asegurando el cumplimiento estricto de la norma \u003cstrong\u003eNFPA 72\u003c/strong\u003e y normativas locales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones generales:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eGestión e Ingeniería de Activación:\u003c/strong\u003e Diseñar y validar la \u003cstrong\u003ematriz de lógica causa-efecto\u003c/strong\u003e del proyecto, asegurando que ante una señal de detección el panel responda activando correctamente los dispositivos de notificación e interfaces mecánicas/eléctricas.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eDirección de Montaje y Cableado:\u003c/strong\u003e Supervisar el tendido de cableado ignífugo (FPL / FPLP / FPLR), montaje de tuberías conduit, instalación de detectores, módulos de control, módulos de monitoreo y fuentes auxiliares.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003ePuesta en Marcha y Programación:\u003c/strong\u003e Liderar la carga de base de datos en los paneles centralizados, la asignación de direcciones (SLC) y la realización de las pruebas de lazo y fallas de línea.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003ePruebas de Interfaz y Activación en Vivo:\u003c/strong\u003e Coordinar y realizar las pruebas funcionales intersistemas (simulación de disparo para verificación de activación de extracción de humos, caída de puertas, corte de gas, etc.).\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eRecepción Técnica y Dossier:\u003c/strong\u003e Sustentar las pruebas de activación ante la supervisión del cliente, auditorías de la entidad reguladora e inspecciones finales (ITSE / Defensa Civil), entregando planos As-Built y protocolos firmados.\u003c/span\u003e\u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eEducación / Titulación:\u003c/strong\u003e Ingeniero Electrónico, Mecánico-Eléctrico, Electricista o Mecatrónico. \u003cstrong\u003e(Titulado y Colegiado Habilitado - Excluyente)\u003c/strong\u003e.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e Mínimo \u003cstrong\u003e3 a 5 años de experiencia comprobada\u003c/strong\u003e como Ingeniero Residente, Supervisor o Especialista en proyectos de sistemas de detección y activación de alarmas de incendio en proyectos medianos o de gran envergadura.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eConocimientos normativos obligatorios:\u003c/strong\u003e\u003c/span\u003e \u003cul style=\"\"\u003e \u003cli\u003e\u003cspan style=\"\"\u003eDominio y aplicación de la \u003cstrong\u003eNorma NFPA 72\u003c/strong\u003e (National Fire Alarm and Signal Code) en sus capítulos de iniciación, notificación, circuitos y matrices de control.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eConocimiento de normas \u003cstrong\u003eNFPA 101\u003c/strong\u003e (Código de Seguridad Humana), \u003cstrong\u003eNFPA 70\u003c/strong\u003e (NEC - Código Eléctrico) y RNE (Norma A.130).\u003c/span\u003e\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eConocimientos técnicos especializados:\u003c/strong\u003e\u003c/span\u003e \u003cul style=\"\"\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eProgramación y Activación:\u003c/strong\u003e Manejo y configuración de paneles centralizados analógicos/direccionables (FACP) de marcas como Notifier, Simplex, Edwards (EST), Bosch, Siemens, etc.\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003e\u003cstrong\u003eMatriz de Causa-Efecto:\u003c/strong\u003e Lógica de activación para integración con HVAC (dampers/extracción), presurización de escaleras, ascensores, puertas cortafuego, válvulas de flujo y sistemas de extinción (agente limpio, rociadores).\u003c/span\u003e\u003c/li\u003e \u003cli\u003e\u003cspan style=\"\"\u003eLectura e interpretación de planos electrónicos, unifilares y matrices de control en AutoCAD / Revit BIM.\u003c/span\u003e\u003c/li\u003e \u003c/ul\u003e \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Beneficios \u003cul\u003e \u003cli\u003eSalario competitivo\u003c/li\u003e \u003cli\u003eContrato en planilla Mype\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 5 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

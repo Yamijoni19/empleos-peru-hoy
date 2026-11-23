@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672971",
+    "clave":  "id:1118672971",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-jindao-1118672971.html",
+                   "capturadoEn":  "2026-11-23T21:23:03+00:00"
+               },
+    "titulo":  "Asistente de Marketing Digital",
+    "empresa":  "JINDAO",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Marketing Digital Resumen del Puesto Buscamos un/a Asistente de Marketing Digital creativo/a y analítico/a, con pasión por el contenido digital y el impulso de marcas. El candidato ideal será capaz de generar estrategias innovadoras y ejecutarlas de manera efectiva, contribuyendo al crecimiento de nuestra presencia en línea. Responsabilidades Principales Creación y grabación de contenido audiovisual en formatos verticales (Reels, TikToks, Shorts) para diversas plataformas. Edición ágil y entretenida de material audiovisual, utilizando herramientas como CapCut. Propuesta de ideas creativas, tendencias y formatos innovadores para conectar con nuestra audiencia. Colaboración en la gestión, manejo y dinamización de las redes sociales. Requisitos Formación académica en carreras como Comunicaciones, Marketing o afines. Dominio práctico de herramientas de edición de video, especialmente CapCut (transiciones, subtítulos dinámicos, ritmo, musicalización). Habilidad para desenvolverse frente a cámara o facilidad para dirigir y grabar a otras personas. Actitud curiosa, proactiva y con gran disposición para aprender y crecer en el ámbito del marketing digital. Capacidad para trabajar en un entorno dinámico y colaborativo.",
+    "requisitos":  [
+                       "Formación académica en carreras como Comunicaciones, Marketing o afines",
+                       "Dominio práctico de herramientas de edición de video, especialmente CapCut (transiciones, subtítulos dinámicos, ritmo, musicalización)",
+                       "Habilidad para desenvolverse frente a cámara o facilidad para dirigir y grabar a otras personas",
+                       "Actitud curiosa, proactiva y con gran disposición para aprender y crecer en el ámbito del marketing digital",
+                       "Capacidad para trabajar en un entorno dinámico y colaborativo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-23",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-jindao-1118672971.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-marketing-digital-jindao-1118672971.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Marketing Digital\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un/a \u003cb\u003eAsistente de Marketing Digital\u003c/b\u003e creativo/a y analítico/a, con pasión por el contenido digital y el impulso de marcas. El candidato ideal será capaz de generar estrategias innovadoras y ejecutarlas de manera efectiva, contribuyendo al crecimiento de nuestra presencia en línea.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eCreación y grabación de contenido audiovisual en formatos verticales (Reels, TikToks, Shorts) para diversas plataformas.\u003c/li\u003e \u003cli\u003eEdición ágil y entretenida de material audiovisual, utilizando herramientas como CapCut.\u003c/li\u003e \u003cli\u003ePropuesta de ideas creativas, tendencias y formatos innovadores para conectar con nuestra audiencia.\u003c/li\u003e \u003cli\u003eColaboración en la gestión, manejo y dinamización de las redes sociales.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación académica en carreras como Comunicaciones, Marketing o afines.\u003c/li\u003e \u003cli\u003eDominio práctico de herramientas de edición de video, especialmente CapCut (transiciones, subtítulos dinámicos, ritmo, musicalización).\u003c/li\u003e \u003cli\u003eHabilidad para desenvolverse frente a cámara o facilidad para dirigir y grabar a otras personas.\u003c/li\u003e \u003cli\u003eActitud curiosa, proactiva y con gran disposición para aprender y crecer en el ámbito del marketing digital.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno dinámico y colaborativo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "23/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

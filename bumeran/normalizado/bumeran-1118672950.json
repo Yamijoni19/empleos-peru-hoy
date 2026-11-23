@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118672950",
+    "clave":  "id:1118672950",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/medico-auditor-medcorp-1118672950.html",
+                   "capturadoEn":  "2026-11-23T21:23:13+00:00"
+               },
+    "titulo":  "Médico Auditor",
+    "empresa":  "MEDCORP",
+    "ubicacion":  "Lima - Lince",
+    "ciudad":  "Lince",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  5000,
+                    "max":  5500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 5,000 - S/ 5,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Médico Auditor Resumen del Puesto Nos encontramos en la búsqueda de Médicos Auditores con sólida trayectoria profesional. El candidato ideal poseerá un título de médico, habilitación profesional vigente y una experiencia mínima de 3 años en el área de auditoría médica. Se valorará la posesión de un diplomado en auditoría médica. Responsabilidades Realizar auditorías médicas para evaluar la calidad y pertinencia de los servicios prestados. Analizar la documentación clínica y administrativa para asegurar el cumplimiento de normativas y estándares. Emitir informes detallados sobre los hallazgos de las auditorías. Colaborar en el desarrollo e implementación de políticas y procedimientos de auditoría. Participar en la mejora continua de los procesos de evaluación y control de la atención médica. Requisitos Título de Médico. Matrícula profesional habilitada para el ejercicio de la medicina. Experiencia mínima de 3 años en auditoría médica. Se valorará poseer un diplomado en Auditoría Médica. Capacidad analítica y de evaluación crítica. Habilidades de comunicación escrita y verbal para la elaboración de informes. Capacidad para trabajar de forma autónoma y en equipo.",
+    "requisitos":  [
+                       "Título de Médico",
+                       "Matrícula profesional habilitada para el ejercicio de la medicina",
+                       "Experiencia mínima de 3 años en auditoría médica",
+                       "Se valorará poseer un diplomado en Auditoría Médica",
+                       "Capacidad analítica y de evaluación crítica",
+                       "Habilidades de comunicación escrita y verbal para la elaboración de informes",
+                       "Capacidad para trabajar de forma autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/medico-auditor-medcorp-1118672950.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/medico-auditor-medcorp-1118672950.html",
+    "descripcion_html":  "\u003cb\u003eMédico Auditor\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eNos encontramos en la búsqueda de \u003cb\u003eMédicos Auditores\u003c/b\u003e con sólida trayectoria profesional. El candidato ideal poseerá un título de médico, habilitación profesional vigente y una experiencia mínima de 3 años en el área de auditoría médica. Se valorará la posesión de un diplomado en auditoría médica.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar auditorías médicas para evaluar la calidad y pertinencia de los servicios prestados.\u003c/li\u003e \u003cli\u003eAnalizar la documentación clínica y administrativa para asegurar el cumplimiento de normativas y estándares.\u003c/li\u003e \u003cli\u003eEmitir informes detallados sobre los hallazgos de las auditorías.\u003c/li\u003e \u003cli\u003eColaborar en el desarrollo e implementación de políticas y procedimientos de auditoría.\u003c/li\u003e \u003cli\u003eParticipar en la mejora continua de los procesos de evaluación y control de la atención médica.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo de Médico.\u003c/li\u003e \u003cli\u003eMatrícula profesional habilitada para el ejercicio de la medicina.\u003c/li\u003e \u003cli\u003eExperiencia mínima de 3 años en auditoría médica.\u003c/li\u003e \u003cli\u003eSe valorará poseer un diplomado en Auditoría Médica.\u003c/li\u003e \u003cli\u003eCapacidad analítica y de evaluación crítica.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación escrita y verbal para la elaboración de informes.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "Título de médico",
+    "herramientas":  "",
+    "publicado_el":  "22/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
