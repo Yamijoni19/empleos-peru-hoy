@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118672481",
+    "clave":  "id:1118672481",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-marketing-sol-resplandeciente-s.a.c.-1118672481.html",
+                   "capturadoEn":  "2026-11-23T09:03:53+00:00"
+               },
+    "titulo":  "PRACTICANTE DE MARKETING",
+    "empresa":  "SOL RESPLANDECIENTE S.A.C.",
+    "ubicacion":  "Lima - Surquillo",
+    "ciudad":  "Surquillo",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "PART_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Practicante de Marketing En Sol Resplandeciente S.A.C. nos encontramos en búsqueda de un talento creativo y proactivo para sumarse a nuestro equipo como Practicante de Marketing . Buscamos a alguien apasionado por el entorno digital, la creación de contenido y el diseño, que nos ayude a impulsar y posicionar nuestra marca en redes sociales. Funciones: Gestionar y crear contenido para Facebook, Instagram y TikTok. Diseñar flyers y piezas gráficas promocionales. Grabar y editar videos cortos para redes. Medir resultados básicos de alcance e interaccióN Requisitos: Estudiante desde 5.º ciclo de Marketing, Comunicaciones, Publicidad o afines. Manejo de Canva, CapCut y Excel básico. Creatividad, buena redacción y proactividad. Beneficios: Modalidad híbrida y horarios flexibles Prácticas Ad Honorem Certificado de prácticas y acompañamiento constante.",
+    "requisitos":  [
+                       "Estudiante desde 5.º ciclo de Marketing, Comunicaciones, Publicidad o afines",
+                       "Manejo de Canva, CapCut y Excel básico",
+                       "Creatividad, buena redacción y proactividad"
+                   ],
+    "funciones":  [
+                      "Gestionar y crear contenido para Facebook, Instagram y TikTok",
+                      "Diseñar flyers y piezas gráficas promocionales",
+                      "Grabar y editar videos cortos para redes",
+                      "Medir resultados básicos de alcance e interaccióN"
+                  ],
+    "beneficios":  [
+                       "Modalidad híbrida y horarios flexibles",
+                       "Prácticas Ad Honorem",
+                       "Certificado de prácticas y acompañamiento constante"
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-marketing-sol-resplandeciente-s.a.c.-1118672481.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-marketing-sol-resplandeciente-s.a.c.-1118672481.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003ePracticante de Marketing\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEn \u003cstrong\u003eSol Resplandeciente S.A.C.\u003c/strong\u003e nos encontramos en búsqueda de un talento creativo y proactivo para sumarse a nuestro equipo como \u003cstrong\u003ePracticante de Marketing\u003c/strong\u003e. Buscamos a alguien apasionado por el entorno digital, la creación de contenido y el diseño, que nos ayude a impulsar y posicionar nuestra marca en redes sociales.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar y crear contenido para Facebook, Instagram y TikTok.\u003c/li\u003e \u003cli\u003eDiseñar flyers y piezas gráficas promocionales.\u003c/li\u003e \u003cli\u003eGrabar y editar videos cortos para redes.\u003c/li\u003e \u003cli\u003eMedir resultados básicos de alcance e interaccióN\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudiante desde 5.º ciclo de Marketing, Comunicaciones, Publicidad o afines.\u003c/li\u003e \u003cli\u003eManejo de Canva, CapCut y Excel básico.\u003c/li\u003e \u003cli\u003eCreatividad, buena redacción y proactividad.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eBeneficios:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eModalidad híbrida y horarios flexibles\u003c/li\u003e \u003cli\u003ePrácticas Ad Honorem \u003c/li\u003e \u003cli\u003eCertificado de prácticas y acompañamiento constante.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

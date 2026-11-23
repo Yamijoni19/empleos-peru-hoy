@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118672474",
+    "clave":  "id:1118672474",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/vendedor-de-campo-canal-farmacia-macronegocios-ximena-1118672474.html",
+                   "capturadoEn":  "2026-11-23T09:04:04+00:00"
+               },
+    "titulo":  "Vendedor de Campo Canal Farmacia",
+    "empresa":  "Macronegocios Ximena",
+    "ubicacion":  "Junin - Huancayo",
+    "ciudad":  "Huancayo",
+    "region":  "Junin",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1000,
+                    "max":  2500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,000 - S/ 2,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Vendedor de Campo Canal Farmacia Resumen del Puesto Buscamos un profesional de ventas con gran actitud y orientación al logro para unirse a nuestro equipo. Si te apasionan las ventas en el rubro farmacéutico, disfrutas del trato directo con el cliente y buscas un desarrollo profesional continuo, esta oportunidad es para ti. Responsabilidades Realizar la cobertura de ruta diaria, visitando establecimientos del canal farmacia según la cartera asignada. Ejecutar estrategias de venta cruzada y apertura de nuevos clientes dentro del canal. Gestionar la toma de pedidos y asegurar su registro y envío oportuno. Requisitos Experiencia mínima de 6 meses en ventas de campo, preventa o ruta, preferentemente en canal farmacia o consumo masivo. Sólida actitud, energía para el trabajo de campo y orientación a cumplir objetivos. Capacidad para desenvolverse eficazmente en el rol de ventas.",
+    "requisitos":  [
+                       "Experiencia mínima de 6 meses en ventas de campo, preventa o ruta, preferentemente en canal farmacia o consumo masivo",
+                       "Sólida actitud, energía para el trabajo de campo y orientación a cumplir objetivos",
+                       "Capacidad para desenvolverse eficazmente en el rol de ventas"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/vendedor-de-campo-canal-farmacia-macronegocios-ximena-1118672474.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/vendedor-de-campo-canal-farmacia-macronegocios-ximena-1118672474.html",
+    "descripcion_html":  "\u003cb\u003eVendedor de Campo Canal Farmacia\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional de ventas con gran actitud y orientación al logro para unirse a nuestro equipo. Si te apasionan las ventas en el rubro farmacéutico, disfrutas del trato directo con el cliente y buscas un desarrollo profesional continuo, esta oportunidad es para ti.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar la cobertura de ruta diaria, visitando establecimientos del canal farmacia según la cartera asignada.\u003c/li\u003e \u003cli\u003eEjecutar estrategias de venta cruzada y apertura de nuevos clientes dentro del canal.\u003c/li\u003e \u003cli\u003eGestionar la toma de pedidos y asegurar su registro y envío oportuno.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia mínima de 6 meses en ventas de campo, preventa o ruta, preferentemente en canal farmacia o consumo masivo.\u003c/li\u003e \u003cli\u003eSólida actitud, energía para el trabajo de campo y orientación a cumplir objetivos.\u003c/li\u003e \u003cli\u003eCapacidad para desenvolverse eficazmente en el rol de ventas.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 6 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,78 @@
+{
+    "id":  "bumeran-1118672472",
+    "clave":  "id:1118672472",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-seleccion-masivo-1118672472.html",
+                   "capturadoEn":  "2026-11-23T09:04:08+00:00"
+               },
+    "titulo":  "Ejecutivo(a) de selección masivo",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa retail se encuentra en la búsqueda de un Ejecutivo(a) de selección masivos para que cumpla las siguientes funciones: - Administrar la recepción, asignación y seguimiento de los requerimientos, asegurando su distribución oportuna. - Ejecutar los procesos de reclutamiento y selección interna y externa , garantizando el cumplimiento de los perfiles y tiempos establecidos. - Coordinar la aplicación de evaluaciones psicolaborales y las entrevistas con los clientes internos. - Gestionar las validaciones documentarias de los candidatos (refererencias laborales) - Consolidar y enviar la información de los candidatos seleccionados para el ingreso. - Manejar los indicadores, generar reportes y realizar presentaciones. Requisitos: - Egresados de las carreras de Administración, Psicología o afines. - Mínimo 4 años en el área de selección manejando posiciones masivas en empresas retail y/o consultoria. - Manejo de excel a nivel intermedio/avanzado (indispensable) - Conocimientos de gestión y seguimiento de proyectos. - Deseable conocimiento de Power BI, Power Automate u otras herramientas de automatización y análisis de datos.",
+    "requisitos":  [
+                       "Egresados de las carreras de Administración, Psicología o afines",
+                       "Mínimo 4 años en el área de selección manejando posiciones masivas en empresas retail y/o consultoria",
+                       "Manejo de excel a nivel intermedio/avanzado (indispensable)",
+                       "Conocimientos de gestión y seguimiento de proyectos",
+                       "Deseable conocimiento de Power BI, Power Automate u otras herramientas de automatización y análisis de datos"
+                   ],
+    "funciones":  [
+                      "Administrar la recepción, asignación y seguimiento de los requerimientos, asegurando su distribución oportuna",
+                      "Ejecutar los procesos de reclutamiento y selección interna y externa , garantizando el cumplimiento de los perfiles y tiempos establecidos",
+                      "Coordinar la aplicación de evaluaciones psicolaborales y las entrevistas con los clientes internos",
+                      "Gestionar las validaciones documentarias de los candidatos (refererencias laborales)",
+                      "Consolidar y enviar la información de los candidatos seleccionados para el ingreso",
+                      "Manejar los indicadores, generar reportes y realizar presentaciones"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-seleccion-masivo-1118672472.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivoa-de-seleccion-masivo-1118672472.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa retail se encuentra en la búsqueda de un Ejecutivo(a) de selección masivos para que cumpla las siguientes funciones:\u003c/p\u003e\u003cp\u003e- Administrar la recepción, asignación y seguimiento de los requerimientos, asegurando su distribución oportuna.\u003c/p\u003e\u003cp\u003e- Ejecutar los procesos de reclutamiento y selección interna y externa , garantizando el cumplimiento de los perfiles y tiempos establecidos.\u003c/p\u003e\u003cp\u003e- Coordinar la aplicación de evaluaciones psicolaborales y las entrevistas con los clientes internos.\u003c/p\u003e\u003cp\u003e- Gestionar las validaciones documentarias de los candidatos (refererencias laborales)\u003c/p\u003e\u003cp\u003e- Consolidar y enviar la información de los candidatos seleccionados para el ingreso.\u003c/p\u003e\u003cp\u003e- Manejar los indicadores, generar reportes y realizar presentaciones.\u003c/p\u003e\u003cp\u003eRequisitos:\u003c/p\u003e\u003cp\u003e- Egresados de las carreras de Administración, Psicología o afines.\u003c/p\u003e\u003cp\u003e- Mínimo 4 años en el área de selección manejando posiciones masivas en empresas retail y/o consultoria.\u003c/p\u003e\u003cp\u003e- Manejo de excel a nivel intermedio/avanzado (indispensable)\u003c/p\u003e\u003cp\u003e- Conocimientos de gestión y seguimiento de proyectos.\u003c/p\u003e\u003cp\u003e- Deseable conocimiento de Power BI, Power Automate u otras herramientas de automatización y análisis de datos.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
