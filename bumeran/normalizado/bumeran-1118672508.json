@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118672508",
+    "clave":  "id:1118672508",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-transportes-inga-cargo-1118672508.html",
+                   "capturadoEn":  "2026-11-23T00:52:28+00:00"
+               },
+    "titulo":  "Asistente de Almacén",
+    "empresa":  "TRANSPORTES INGA CARGO",
+    "ubicacion":  "Lima - San Luis",
+    "ciudad":  "San Luis",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Almacén Resumen del Puesto Estamos en la búsqueda de un Asistente de Almacén proactivo y organizado para integrarse a nuestro equipo. El rol implica la recepción, verificación y despacho de mercadería, asegurando la correcta gestión del inventario y la eficiencia operativa. Responsabilidades Recepción de bultos y mercadería, verificando la documentación correspondiente. Conteo y registro preciso de los artículos recibidos y despachados. Preparación de pedidos y mercadería para su despacho. Organización y mantenimiento del orden en las áreas de almacenamiento. Colaboración con el equipo para optimizar los procesos logísticos. Reporte de cualquier discrepancia o incidencia en el inventario. Requisitos Experiencia previa en roles de almacén o logística. Capacidad para realizar tareas de conteo y verificación de mercadería. Habilidad para trabajar de manera organizada y metódica. Buenas habilidades de comunicación y trabajo en equipo. Proactividad y atención al detalle. Disponibilidad para trabajar en un entorno dinámico.",
+    "requisitos":  [
+                       "Experiencia previa en roles de almacén o logística",
+                       "Capacidad para realizar tareas de conteo y verificación de mercadería",
+                       "Habilidad para trabajar de manera organizada y metódica",
+                       "Buenas habilidades de comunicación y trabajo en equipo",
+                       "Proactividad y atención al detalle",
+                       "Disponibilidad para trabajar en un entorno dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-transportes-inga-cargo-1118672508.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-almacen-transportes-inga-cargo-1118672508.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Almacén\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente de Almacén\u003c/b\u003e proactivo y organizado para integrarse a nuestro equipo. El rol implica la recepción, verificación y despacho de mercadería, asegurando la correcta gestión del inventario y la eficiencia operativa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003e\u003cb\u003eRecepción\u003c/b\u003e de bultos y mercadería, verificando la documentación correspondiente.\u003c/li\u003e \u003cli\u003e\u003cb\u003eConteo\u003c/b\u003e y registro preciso de los artículos recibidos y despachados.\u003c/li\u003e \u003cli\u003e\u003cb\u003ePreparación\u003c/b\u003e de pedidos y mercadería para su despacho.\u003c/li\u003e \u003cli\u003e\u003cb\u003eOrganización\u003c/b\u003e y mantenimiento del orden en las áreas de almacenamiento.\u003c/li\u003e \u003cli\u003e\u003cb\u003eColaboración\u003c/b\u003e con el equipo para optimizar los procesos logísticos.\u003c/li\u003e \u003cli\u003e\u003cb\u003eReporte\u003c/b\u003e de cualquier discrepancia o incidencia en el inventario.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de almacén o logística.\u003c/li\u003e \u003cli\u003eCapacidad para realizar tareas de conteo y verificación de mercadería.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de manera organizada y metódica.\u003c/li\u003e \u003cli\u003eBuenas habilidades de comunicación y trabajo en equipo.\u003c/li\u003e \u003cli\u003eProactividad y atención al detalle.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en un entorno dinámico.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

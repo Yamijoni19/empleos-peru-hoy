@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672500",
+    "clave":  "id:1118672500",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/encuestador-de-campo-negocios-diaz-hiper-1118672500.html",
+                   "capturadoEn":  "2026-11-23T00:52:40+00:00"
+               },
+    "titulo":  "Encuestador de Campo",
+    "empresa":  "Negocios Diaz Hiper",
+    "ubicacion":  "Lambayeque - José Leonardo Ortiz",
+    "ciudad":  "José Leonardo Ortiz",
+    "region":  "Lambayeque",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  480,
+                    "max":  480,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/.480",
+                    "fuente_salario":  "regex"
+                },
+    "descripcion":  "Encuestador de Campo Resumen del Puesto Buscamos personas proactivas y con excelentes habilidades de comunicación para unirse a nuestro equipo como Encuestadores de Campo . El rol principal será la recolección de datos a través de encuestas, interactuando directamente con el público. Responsabilidades Realizar encuestas a personas en diversas ubicaciones. Registrar la información recopilada de manera precisa y eficiente utilizando un dispositivo móvil. Abordar a las personas con cortesía y profesionalismo. Cumplir con los objetivos diarios de encuestas establecidas. Asegurar la calidad y veracidad de los datos recolectados. Requisitos Ser mayor de edad. Disponer de un teléfono móvil con acceso a internet para el registro de datos. Demostrar habilidades de comunicación efectivas y trato amable con el público. Capacidad para desplazarse a pie para realizar las encuestas. Disponibilidad para trabajar bajo un esquema de pago por desempeño. Condiciones Laborales Remuneración por encuesta realizada, incluyendo la grabación de voz correspondiente. Pagos semanales.",
+    "requisitos":  [
+                       "Ser mayor de edad",
+                       "Disponer de un teléfono móvil con acceso a internet para el registro de datos",
+                       "Demostrar habilidades de comunicación efectivas y trato amable con el público",
+                       "Capacidad para desplazarse a pie para realizar las encuestas",
+                       "Disponibilidad para trabajar bajo un esquema de pago por desempeño"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-21",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/encuestador-de-campo-negocios-diaz-hiper-1118672500.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/encuestador-de-campo-negocios-diaz-hiper-1118672500.html",
+    "descripcion_html":  "\u003cb\u003eEncuestador de Campo\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos personas proactivas y con excelentes habilidades de comunicación para unirse a nuestro equipo como \u003cb\u003eEncuestadores de Campo\u003c/b\u003e. El rol principal será la recolección de datos a través de encuestas, interactuando directamente con el público.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar encuestas a personas en diversas ubicaciones.\u003c/li\u003e \u003cli\u003eRegistrar la información recopilada de manera precisa y eficiente utilizando un dispositivo móvil.\u003c/li\u003e \u003cli\u003eAbordar a las personas con cortesía y profesionalismo.\u003c/li\u003e \u003cli\u003eCumplir con los objetivos diarios de encuestas establecidas.\u003c/li\u003e \u003cli\u003eAsegurar la calidad y veracidad de los datos recolectados.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eSer mayor de edad.\u003c/li\u003e \u003cli\u003eDisponer de un teléfono móvil con acceso a internet para el registro de datos.\u003c/li\u003e \u003cli\u003eDemostrar habilidades de comunicación efectivas y trato amable con el público.\u003c/li\u003e \u003cli\u003eCapacidad para desplazarse a pie para realizar las encuestas.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar bajo un esquema de pago por desempeño.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eCondiciones Laborales\u003c/b\u003e \u003cul\u003e \u003cli\u003eRemuneración por encuesta realizada, incluyendo la grabación de voz correspondiente.\u003c/li\u003e \u003cli\u003ePagos semanales.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "21/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
