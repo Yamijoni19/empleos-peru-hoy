@@ -1,0 +1,76 @@
+{
+    "id":  "bumeran-1118672911",
+    "clave":  "id:1118672911",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-y-marketing-medics-imports-1118672911.html",
+                   "capturadoEn":  "2026-11-24T06:02:46+00:00"
+               },
+    "titulo":  "Asistente de Administración y Marketing",
+    "empresa":  "MEDICS IMPORTS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1450,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,450 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente de Administración y Marketing Resumen del Puesto Buscamos un profesional dinámico y proactivo para unirse a nuestro equipo como Asistente de Administración y Marketing . El candidato ideal poseerá un grado universitario, experiencia comprobable en ventas y una sólida comprensión de las herramientas de gestión de inteligencia artificial, así como habilidades en la creación de contenido audiovisual. Responsabilidades Apoyar en las tareas administrativas generales del departamento. Colaborar en la ejecución de estrategias de marketing y ventas. Participar en la creación y gestión de contenido para diversas plataformas. Utilizar herramientas de inteligencia artificial para optimizar procesos y análisis. Desarrollar y producir material audiovisual. Gestionar la comunicación con clientes y proveedores. Contribuir con iniciativas innovadoras y soluciones creativas. Requisitos Grado universitario en áreas afines a Administración, Marketing o Comunicación. Experiencia demostrable en el área de ventas. Conocimiento y experiencia en el uso de gestores de inteligencia artificial. Habilidades en la creación de contenido, incluyendo material audiovisual. Capacidad para trabajar con iniciativa y autonomía. Excelentes habilidades de organización y gestión del tiempo. Fuerte capacidad de comunicación y relaciones interpersonales.",
+    "requisitos":  [
+                       "Grado universitario en áreas afines a Administración, Marketing o Comunicación",
+                       "Experiencia demostrable en el área de ventas",
+                       "Conocimiento y experiencia en el uso de gestores de inteligencia artificial",
+                       "Habilidades en la creación de contenido, incluyendo material audiovisual",
+                       "Capacidad para trabajar con iniciativa y autonomía",
+                       "Excelentes habilidades de organización y gestión del tiempo",
+                       "Fuerte capacidad de comunicación y relaciones interpersonales"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-y-marketing-medics-imports-1118672911.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-administracion-y-marketing-medics-imports-1118672911.html",
+    "descripcion_html":  "\u003cb\u003eAsistente de Administración y Marketing\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un profesional dinámico y proactivo para unirse a nuestro equipo como \u003cb\u003eAsistente de Administración y Marketing\u003c/b\u003e. El candidato ideal poseerá un grado universitario, experiencia comprobable en ventas y una sólida comprensión de las herramientas de gestión de inteligencia artificial, así como habilidades en la creación de contenido audiovisual.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eApoyar en las tareas administrativas generales del departamento.\u003c/li\u003e \u003cli\u003eColaborar en la ejecución de estrategias de marketing y ventas.\u003c/li\u003e \u003cli\u003eParticipar en la creación y gestión de contenido para diversas plataformas.\u003c/li\u003e \u003cli\u003eUtilizar herramientas de inteligencia artificial para optimizar procesos y análisis.\u003c/li\u003e \u003cli\u003eDesarrollar y producir material audiovisual.\u003c/li\u003e \u003cli\u003eGestionar la comunicación con clientes y proveedores.\u003c/li\u003e \u003cli\u003eContribuir con iniciativas innovadoras y soluciones creativas.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eGrado universitario en áreas afines a Administración, Marketing o Comunicación.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en el área de ventas.\u003c/li\u003e \u003cli\u003eConocimiento y experiencia en el uso de gestores de inteligencia artificial.\u003c/li\u003e \u003cli\u003eHabilidades en la creación de contenido, incluyendo material audiovisual.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar con iniciativa y autonomía.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de organización y gestión del tiempo.\u003c/li\u003e \u003cli\u003eFuerte capacidad de comunicación y relaciones interpersonales.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

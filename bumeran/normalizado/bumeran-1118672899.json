@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118672899",
+    "clave":  "id:1118672899",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/parrillero-y-ayudante-de-cocina-salmir-franquicias-sac-1118672899.html",
+                   "capturadoEn":  "2026-11-24T06:02:59+00:00"
+               },
+    "titulo":  "Parrillero y Ayudante de Cocina",
+    "empresa":  "salmir franquicias sac",
+    "ubicacion":  "Lima - San Borja",
+    "ciudad":  "San Borja",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Parrillero y Ayudante de Cocina Resumen del Puesto Estamos en la búsqueda de personas con gran entusiasmo por aprender, con vocación para el trabajo en equipo y con deseos de desarrollo profesional. Ofrecemos un ambiente de trabajo dinámico y oportunidades de crecimiento. Puestos Disponibles Parrillero Se valorará experiencia previa, aunque no es excluyente. Buscamos proactividad y ganas de superación. Se brindará capacitación específica para el puesto. Ayudante de Cocina Se valorará experiencia previa, aunque no es excluyente. Existirá la posibilidad de desarrollo hacia el rol de parrillero. Se brindará capacitación específica para el puesto. Perfil Buscado Buscamos individuos responsables, puntuales, comprometidos y con una actitud positiva. La experiencia previa es un plus, pero priorizamos la disposición para aprender y la capacidad de adaptación. ¡Te capacitaremos para que te desarrolles con nosotros!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-22",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/parrillero-y-ayudante-de-cocina-salmir-franquicias-sac-1118672899.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/parrillero-y-ayudante-de-cocina-salmir-franquicias-sac-1118672899.html",
+    "descripcion_html":  "\u003cb\u003eParrillero y Ayudante de Cocina\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de personas con gran entusiasmo por aprender, con vocación para el trabajo en equipo y con deseos de desarrollo profesional. Ofrecemos un ambiente de trabajo dinámico y oportunidades de crecimiento.\u003c/p\u003e \u003cb\u003ePuestos Disponibles\u003c/b\u003e \u003cb\u003eParrillero\u003c/b\u003e \u003cul\u003e \u003cli\u003eSe valorará experiencia previa, aunque no es excluyente.\u003c/li\u003e \u003cli\u003eBuscamos proactividad y ganas de superación.\u003c/li\u003e \u003cli\u003eSe brindará capacitación específica para el puesto.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eAyudante de Cocina\u003c/b\u003e \u003cul\u003e \u003cli\u003eSe valorará experiencia previa, aunque no es excluyente.\u003c/li\u003e \u003cli\u003eExistirá la posibilidad de desarrollo hacia el rol de parrillero.\u003c/li\u003e \u003cli\u003eSe brindará capacitación específica para el puesto.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003ePerfil Buscado\u003c/b\u003e \u003cp\u003eBuscamos individuos responsables, puntuales, comprometidos y con una actitud positiva. La experiencia previa es un plus, pero priorizamos la disposición para aprender y la capacidad de adaptación. ¡Te capacitaremos para que te desarrolles con nosotros!\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "22/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
