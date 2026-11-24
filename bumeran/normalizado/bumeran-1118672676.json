@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672676",
+    "clave":  "id:1118672676",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-perfumeria-y-lentes-de-contacto-benessere-peru-1118672676.html",
+                   "capturadoEn":  "2026-11-24T17:43:44+00:00"
+               },
+    "titulo":  "Asesora de Ventas - Perfumería y Lentes de Contacto",
+    "empresa":  "Benessere Peru",
+    "ubicacion":  "Lima - Miraflores",
+    "ciudad":  "Miraflores",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  700,
+                    "max":  1000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 700 - S/ 1,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesora de Ventas - Perfumería y Lentes de Contacto Resumen del Puesto Buscamos una Asesora de Ventas apasionada y con gran vocación de servicio para unirse a nuestro equipo. El candidato ideal se destacará por brindar una experiencia al cliente excepcional, integradora y amigable, asesorando de manera experta en la elección de fragancias y en el manejo seguro de lentes de contacto. Responsabilidades Asesorar a los clientes en la selección de productos de perfumería, comprendiendo sus preferencias y necesidades. Brindar orientación experta sobre el uso, cuidado y manejo seguro de lentes de contacto. Garantizar una experiencia de compra positiva y memorable para cada cliente. Mantener un conocimiento actualizado sobre los productos y tendencias del sector. Colaborar con el equipo para alcanzar los objetivos de venta y satisfacción del cliente. Requisitos Experiencia previa en roles de atención al cliente y ventas, preferentemente en perfumería o productos de salud visual. Excelentes habilidades de comunicación, interpersonales y de escucha activa. Actitud proactiva, amable y orientada a la resolución de consultas. Capacidad para trabajar de forma autónoma y en equipo. Interés en el mundo de la perfumería y el cuidado ocular.",
+    "requisitos":  [
+                       "Experiencia previa en roles de atención al cliente y ventas, preferentemente en perfumería o productos de salud visual",
+                       "Excelentes habilidades de comunicación, interpersonales y de escucha activa",
+                       "Actitud proactiva, amable y orientada a la resolución de consultas",
+                       "Capacidad para trabajar de forma autónoma y en equipo",
+                       "Interés en el mundo de la perfumería y el cuidado ocular"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-perfumeria-y-lentes-de-contacto-benessere-peru-1118672676.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-perfumeria-y-lentes-de-contacto-benessere-peru-1118672676.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesora de Ventas - Perfumería y Lentes de Contacto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eAsesora de Ventas\u003c/strong\u003e apasionada y con gran vocación de servicio para unirse a nuestro equipo. El candidato ideal se destacará por brindar una experiencia al cliente excepcional, integradora y amigable, asesorando de manera experta en la elección de fragancias y en el manejo seguro de lentes de contacto.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsesorar a los clientes en la selección de productos de perfumería, comprendiendo sus preferencias y necesidades.\u003c/li\u003e \u003cli\u003eBrindar orientación experta sobre el uso, cuidado y manejo seguro de lentes de contacto.\u003c/li\u003e \u003cli\u003eGarantizar una experiencia de compra positiva y memorable para cada cliente.\u003c/li\u003e \u003cli\u003eMantener un conocimiento actualizado sobre los productos y tendencias del sector.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para alcanzar los objetivos de venta y satisfacción del cliente.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa en roles de atención al cliente y ventas, preferentemente en perfumería o productos de salud visual.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, interpersonales y de escucha activa.\u003c/li\u003e \u003cli\u003eActitud proactiva, amable y orientada a la resolución de consultas.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y en equipo.\u003c/li\u003e \u003cli\u003eInterés en el mundo de la perfumería y el cuidado ocular.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

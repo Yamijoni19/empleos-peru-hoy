@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118672713",
+    "clave":  "id:1118672713",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/grifero-a-con-o-sin-experiencia-empresa-e-y-m-kenamary-servicios-multiples-s.a.c.-1118672713.html",
+                   "capturadoEn":  "2026-11-24T17:43:38+00:00"
+               },
+    "titulo":  "Grifero/a con o sin experiencia",
+    "empresa":  "EMPRESA E Y M KENAMARY SERVICIOS MULTIPLES S.A.C.",
+    "ubicacion":  "Arequipa - Alto Selva Alegre",
+    "ciudad":  "Alto Selva Alegre",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1230,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,230 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Grifero/a con o sin experiencia Atención al cliente · Cerro Colorado, Arequipa Grifo solicita Personal Tipo de Contrato: Contrato por Necesidades del Mercado Vacantes: 1 Jornada: Jornada completa Localidad: Alto Selv Alegre Responsabilidades Atención en venta de combustibles hacer boleta o factura según pida el cliente tener conocimiento en caja Limpieza del centro laboral Persona amable",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/grifero-a-con-o-sin-experiencia-empresa-e-y-m-kenamary-servicios-multiples-s.a.c.-1118672713.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/grifero-a-con-o-sin-experiencia-empresa-e-y-m-kenamary-servicios-multiples-s.a.c.-1118672713.html",
+    "descripcion_html":  "\u003cp\u003eGrifero/a con o sin experiencia Atención al cliente · Cerro Colorado, Arequipa Grifo solicita Personal Tipo de Contrato: Contrato por Necesidades del Mercado Vacantes: 1 Jornada: Jornada completa Localidad: Alto Selv Alegre Responsabilidades Atención en venta de combustibles hacer boleta o factura según pida el cliente tener conocimiento en caja Limpieza del centro laboral Persona amable\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

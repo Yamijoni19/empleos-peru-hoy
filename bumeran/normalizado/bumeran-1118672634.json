@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672634",
+    "clave":  "id:1118672634",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/contadora-financiera-halma-cargo-1118672634.html",
+                   "capturadoEn":  "2026-11-24T17:43:46+00:00"
+               },
+    "titulo":  "Contadora Financiera",
+    "empresa":  "HALMA CARGO",
+    "ubicacion":  "Arequipa",
+    "ciudad":  "Arequipa",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1350,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,350",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Contadora Financiera Resumen del Puesto Buscamos una Contadora Financiera con experiencia sólida para unirse a nuestro equipo. Si posees un historial profesional destacado en contabilidad financiera, esta oportunidad puede ser para ti. Responsabilidades Preparación de estados financieros. Supervisión de procesos de contabilidad general. Manejo de facturación y guías de transportista. Control de flujo diario de caja. Gestión de registros financieros y cumplimiento normativo. Colaboración con otros departamentos para asegurar la precisión de la información. Aplicación de conocimientos tributarios. Requisitos Experiencia comprobada en contabilidad financiera. Capacidad para gestionar múltiples proyectos simultáneamente. Excelentes habilidades analíticas y de atención al detalle. Conocimientos avanzados en software de contabilidad. Capacidad para trabajar en un entorno de equipo y comunicarse eficazmente.",
+    "requisitos":  [
+                       "Experiencia comprobada en contabilidad financiera",
+                       "Capacidad para gestionar múltiples proyectos simultáneamente",
+                       "Excelentes habilidades analíticas y de atención al detalle",
+                       "Conocimientos avanzados en software de contabilidad",
+                       "Capacidad para trabajar en un entorno de equipo y comunicarse eficazmente"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/contadora-financiera-halma-cargo-1118672634.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/contadora-financiera-halma-cargo-1118672634.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eContadora Financiera\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos una \u003cstrong\u003eContadora Financiera\u003c/strong\u003e con experiencia sólida para unirse a nuestro equipo. Si posees un historial profesional destacado en contabilidad financiera, esta oportunidad puede ser para ti.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003ePreparación de estados financieros.\u003c/li\u003e \u003cli\u003eSupervisión de procesos de contabilidad general.\u003c/li\u003e \u003cli\u003eManejo de facturación y guías de transportista.\u003c/li\u003e \u003cli\u003eControl de flujo diario de caja.\u003c/li\u003e \u003cli\u003eGestión de registros financieros y cumplimiento normativo.\u003c/li\u003e \u003cli\u003eColaboración con otros departamentos para asegurar la precisión de la información.\u003c/li\u003e \u003cli\u003eAplicación de conocimientos tributarios.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobada en contabilidad financiera.\u003c/li\u003e \u003cli\u003eCapacidad para gestionar múltiples proyectos simultáneamente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades analíticas y de atención al detalle.\u003c/li\u003e \u003cli\u003eConocimientos avanzados en software de contabilidad.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar en un entorno de equipo y comunicarse eficazmente.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

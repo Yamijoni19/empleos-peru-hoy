@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118672627",
+    "clave":  "id:1118672627",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-mission-1118672627.html",
+                   "capturadoEn":  "2026-11-24T17:43:47+00:00"
+               },
+    "titulo":  "Asesora de Ventas",
+    "empresa":  "Mission",
+    "ubicacion":  "Lima - Jesús María",
+    "ciudad":  "Jesús María",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1250,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,250 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asesora de Ventas Descripción del Puesto Estamos en la búsqueda de una Asesora de Ventas proactiva y con gran vocación de servicio. Si te apasiona el mundo de las ventas, tienes ganas de aprender y desarrollarte profesionalmente, esta oportunidad es para ti. Buscamos a alguien con excelente capacidad para el trabajo en equipo y una actitud positiva. Responsabilidades Clave Asesorar a los clientes sobre nuestros productos/servicios. Identificar las necesidades de los clientes y ofrecer soluciones adecuadas. Gestionar el proceso de venta de principio a fin. Colaborar activamente con el equipo para alcanzar objetivos comunes. Mantenerse actualizada sobre las características y beneficios de los productos. Contribuir a un ambiente de trabajo positivo y colaborativo. Perfil Requerido Ganas de aprender y crecer en el área comercial. Habilidades de comunicación y persuasión. Capacidad para trabajar eficazmente en equipo. Actitud orientada a la satisfacción del cliente. Disponibilidad para desarrollarse en un entorno dinámico.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "de los productos",
+                       "Contribuir a un ambiente de trabajo positivo y colaborativo"
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-mission-1118672627.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asesora-de-ventas-mission-1118672627.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsesora de Ventas\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eDescripción del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de una \u003cstrong\u003eAsesora de Ventas\u003c/strong\u003e proactiva y con gran vocación de servicio. Si te apasiona el mundo de las ventas, tienes ganas de aprender y desarrollarte profesionalmente, esta oportunidad es para ti. Buscamos a alguien con excelente capacidad para el trabajo en equipo y una actitud positiva.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades Clave\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsesorar a los clientes sobre nuestros productos/servicios.\u003c/li\u003e \u003cli\u003eIdentificar las necesidades de los clientes y ofrecer soluciones adecuadas.\u003c/li\u003e \u003cli\u003eGestionar el proceso de venta de principio a fin.\u003c/li\u003e \u003cli\u003eColaborar activamente con el equipo para alcanzar objetivos comunes.\u003c/li\u003e \u003cli\u003eMantenerse actualizada sobre las características y beneficios de los productos.\u003c/li\u003e \u003cli\u003eContribuir a un ambiente de trabajo positivo y colaborativo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003ePerfil Requerido\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGanas de aprender y crecer en el área comercial.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y persuasión.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar eficazmente en equipo.\u003c/li\u003e \u003cli\u003eActitud orientada a la satisfacción del cliente.\u003c/li\u003e \u003cli\u003eDisponibilidad para desarrollarse en un entorno dinámico.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

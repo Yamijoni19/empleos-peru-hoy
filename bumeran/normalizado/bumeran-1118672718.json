@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118672718",
+    "clave":  "id:1118672718",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-e-color-1118672718.html",
+                   "capturadoEn":  "2026-11-24T17:43:37+00:00"
+               },
+    "titulo":  "Operario de Producción",
+    "empresa":  "E Color",
+    "ubicacion":  "Lima - Chorrillos",
+    "ciudad":  "Chorrillos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Operario de Producción Resumen del Puesto Buscamos incorporar a nuestro equipo a 1 0 Operarios de Producción con entusiasmo y responsabilidad para llevar a cabo tareas de selección y preparación de materiales de papelería. El candidato ideal tendrá una actitud proactiva y disposición para el trabajo en equipo. Responsabilidades Realizar la selección y el procesamiento de cuadernos, blocks de notas y otros artículos de papelería. Asegurar la correcta preparación de los productos para su envío. Colaborar con el equipo para mantener un flujo de trabajo eficiente. Cumplir con los estándares de calidad establecidos. Requisitos Ser mayor de 1 8 años. Contar con educación secundaria completa. Habilidad para trabajar en equipo. Contar con Recibo por Honorarios Condiciones Salario de S/ 1 4 0 0. 0 0 soles via recibo por honorarios Posibilidad de pago de horas extras según necesidad operativa.",
+    "requisitos":  [
+                       "Ser mayor de 1 8 años",
+                       "Contar con educación secundaria completa",
+                       "Habilidad para trabajar en equipo",
+                       "Contar con Recibo por Honorarios"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-e-color-1118672718.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-e-color-1118672718.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eOperario de Producción\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos incorporar a nuestro equipo a \u003cstrong\u003e \u0026#x31; \u0026#x30; Operarios de Producción\u003c/strong\u003e con entusiasmo y responsabilidad para llevar a cabo tareas de selección y preparación de materiales de papelería. El candidato ideal tendrá una actitud proactiva y disposición para el trabajo en equipo.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar la selección y el procesamiento de cuadernos, blocks de notas y otros artículos de papelería.\u003c/li\u003e \u003cli\u003eAsegurar la correcta preparación de los productos para su envío.\u003c/li\u003e \u003cli\u003eColaborar con el equipo para mantener un flujo de trabajo eficiente.\u003c/li\u003e \u003cli\u003eCumplir con los estándares de calidad establecidos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSer mayor de \u0026#x31; \u0026#x38; años.\u003c/li\u003e \u003cli\u003eContar con educación secundaria completa.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eContar con Recibo por Honorarios\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eCondiciones\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario de S/ \u0026#x31; \u0026#x34; \u0026#x30; \u0026#x30;. \u0026#x30; \u0026#x30; soles via recibo por honorarios\u003c/li\u003e \u003cli\u003ePosibilidad de pago de horas extras según necesidad operativa.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

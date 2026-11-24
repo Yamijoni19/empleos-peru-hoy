@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672698",
+    "clave":  "id:1118672698",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/conductor-de-vehiculo-servimedic-salud-total-eirl-1118672698.html",
+                   "capturadoEn":  "2026-11-24T17:43:39+00:00"
+               },
+    "titulo":  "Conductor de Vehículo",
+    "empresa":  "SERVIMEDIC SALUD TOTAL EIRL",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Conductor de Vehículo Resumen del Puesto Estamos en la búsqueda de Conductores de Vehículo con un fuerte sentido de responsabilidad, puntualidad y vocación de servicio. El rol principal será el traslado de personal a diversas ubicaciones, asegurando un servicio eficiente y seguro. Responsabilidades Realizar traslados de personal de manera segura y puntual. Mantener el vehículo en óptimas condiciones de limpieza y funcionamiento. Demostrar un trato amable y profesional con los pasajeros. Planificar y optimizar las rutas de desplazamiento. Adaptarse a diferentes horarios de servicio según sea necesario. Requisitos Licencia de conducir vigente y en regla. Experiencia previa comprobable en conducción. Excelentes habilidades interpersonales y de trato al cliente. Alta capacidad de organización y responsabilidad. Flexibilidad horaria para cubrir distintas necesidades de servicio.",
+    "requisitos":  [
+                       "Licencia de conducir vigente y en regla",
+                       "Experiencia previa comprobable en conducción",
+                       "Excelentes habilidades interpersonales y de trato al cliente",
+                       "Alta capacidad de organización y responsabilidad",
+                       "Flexibilidad horaria para cubrir distintas necesidades de servicio"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/conductor-de-vehiculo-servimedic-salud-total-eirl-1118672698.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/conductor-de-vehiculo-servimedic-salud-total-eirl-1118672698.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eConductor de Vehículo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de \u003cstrong\u003eConductores de Vehículo\u003c/strong\u003e con un fuerte sentido de responsabilidad, puntualidad y vocación de servicio. El rol principal será el traslado de personal a diversas ubicaciones, asegurando un servicio eficiente y seguro.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar traslados de personal de manera segura y puntual.\u003c/li\u003e \u003cli\u003eMantener el vehículo en óptimas condiciones de limpieza y funcionamiento.\u003c/li\u003e \u003cli\u003eDemostrar un trato amable y profesional con los pasajeros.\u003c/li\u003e \u003cli\u003ePlanificar y optimizar las rutas de desplazamiento.\u003c/li\u003e \u003cli\u003eAdaptarse a diferentes horarios de servicio según sea necesario.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eLicencia de conducir vigente y en regla.\u003c/li\u003e \u003cli\u003eExperiencia previa comprobable en conducción.\u003c/li\u003e \u003cli\u003eExcelentes habilidades interpersonales y de trato al cliente.\u003c/li\u003e \u003cli\u003eAlta capacidad de organización y responsabilidad.\u003c/li\u003e \u003cli\u003eFlexibilidad horaria para cubrir distintas necesidades de servicio.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

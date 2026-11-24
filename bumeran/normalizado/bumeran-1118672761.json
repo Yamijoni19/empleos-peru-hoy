@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118672761",
+    "clave":  "id:1118672761",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-insulex-s.a.c.-1118672761.html",
+                   "capturadoEn":  "2026-11-24T17:43:36+00:00"
+               },
+    "titulo":  "Asistente Contable Administrativo",
+    "empresa":  "INSULEX S.A.C.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2700,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,700",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Contable Administrativo Resumen del Puesto Estamos en la búsqueda de un Asistente Contable Administrativo proactivo y organizado para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en tareas contables y administrativas, demostrando capacidad para gestionar eficientemente diversas responsabilidades. Responsabilidades Colaborar en la preparación de registros contables y conciliaciones. Preparación de impuestos. Apoyar en la gestión de facturación y cuentas por cobrar/pagar. Realizar tareas administrativas generales, como archivo y organización de documentación. Asistir en la coordinación de actividades entre diferentes áreas. Mantener actualizados los sistemas de información administrativa y contable. Requisitos Formación en áreas contables, administrativas o afines. Experiencia previa en roles similares. Conocimientos básicos de contabilidad y herramientas ofimáticas. Capacidad para el manejo de información confidencial. Habilidades organizativas y atención al detalle. Buena disposición para el trabajo en equipo y la colaboración.",
+    "requisitos":  [
+                       "Formación en áreas contables, administrativas o afines",
+                       "Experiencia previa en roles similares",
+                       "Conocimientos básicos de contabilidad y herramientas ofimáticas",
+                       "Capacidad para el manejo de información confidencial",
+                       "Habilidades organizativas y atención al detalle",
+                       "Buena disposición para el trabajo en equipo y la colaboración"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-insulex-s.a.c.-1118672761.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-contable-administrativo-insulex-s.a.c.-1118672761.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente Contable Administrativo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eAsistente Contable Administrativo\u003c/strong\u003e proactivo y organizado para integrarse a nuestro equipo. El candidato ideal poseerá conocimientos sólidos en tareas contables y administrativas, demostrando capacidad para gestionar eficientemente diversas responsabilidades.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eColaborar en la preparación de registros contables y conciliaciones.\u003c/li\u003e \u003cli\u003ePreparación de impuestos.\u003c/li\u003e \u003cli\u003eApoyar en la gestión de facturación y cuentas por cobrar/pagar.\u003c/li\u003e \u003cli\u003eRealizar tareas administrativas generales, como archivo y organización de documentación.\u003c/li\u003e \u003cli\u003eAsistir en la coordinación de actividades entre diferentes áreas.\u003c/li\u003e \u003cli\u003eMantener actualizados los sistemas de información administrativa y contable.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación en áreas contables, administrativas o afines.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles similares.\u003c/li\u003e \u003cli\u003eConocimientos básicos de contabilidad y herramientas ofimáticas.\u003c/li\u003e \u003cli\u003eCapacidad para el manejo de información confidencial.\u003c/li\u003e \u003cli\u003eHabilidades organizativas y atención al detalle.\u003c/li\u003e \u003cli\u003eBuena disposición para el trabajo en equipo y la colaboración.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

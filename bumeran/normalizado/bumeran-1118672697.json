@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672697",
+    "clave":  "id:1118672697",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-c-o-s-experiencia-carrera-en-curso-o-concluso-sosas-restaurant-1118672697.html",
+                   "capturadoEn":  "2026-11-24T17:43:40+00:00"
+               },
+    "titulo":  "Ayudante de cocina c/ o s/ experiencia (carrera en curso o concluso)",
+    "empresa":  "SOSAS RESTAURANT",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1130,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,130 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Ayudante de Cocina Resumen del Puesto Estamos en la búsqueda de un Ayudante de Cocina proactivo y con ganas de aprender para integrarse a nuestro equipo. El candidato ideal tendrá interés en el área gastronómica y la disposición para colaborar en las tareas diarias de la cocina. (Estudiantes o Egresados) Responsabilidades Asistir en la preparación de alimentos bajo supervisión. Mantener la limpieza y el orden en las áreas de trabajo. Colaborar en la recepción y almacenamiento de insumos. Apoyar al equipo de cocina en las tareas asignadas. Cumplir con las normativas de higiene y seguridad alimentaria. HORARIO DISPONIBLES PARA ESTUDIANTES - TAMBIEN FIJOS 9 1O - 8 1 1 - 3 4O Requisitos Formación en gastronomía o experiencia previa en puestos similares (no excluyente). Interés en el área de cocina y servicio de alimentos. Capacidad para seguir instrucciones y trabajar en equipo. Actitud positiva y disposición para aprender. Habilidad para trabajar en un entorno dinámico.",
+    "requisitos":  [
+                       "Formación en gastronomía o experiencia previa en puestos similares (no excluyente)",
+                       "Interés en el área de cocina y servicio de alimentos",
+                       "Capacidad para seguir instrucciones y trabajar en equipo",
+                       "Actitud positiva y disposición para aprender",
+                       "Habilidad para trabajar en un entorno dinámico"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-c-o-s-experiencia-carrera-en-curso-o-concluso-sosas-restaurant-1118672697.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ayudante-de-cocina-c-o-s-experiencia-carrera-en-curso-o-concluso-sosas-restaurant-1118672697.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAyudante de Cocina\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un \u003cstrong\u003eAyudante de Cocina\u003c/strong\u003e proactivo y con ganas de aprender para integrarse a nuestro equipo. El candidato ideal tendrá interés en el área gastronómica y la disposición para colaborar en las tareas diarias de la cocina. (Estudiantes o Egresados) \u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAsistir en la preparación de alimentos bajo supervisión.\u003c/li\u003e \u003cli\u003eMantener la limpieza y el orden en las áreas de trabajo.\u003c/li\u003e \u003cli\u003eColaborar en la recepción y almacenamiento de insumos.\u003c/li\u003e \u003cli\u003eApoyar al equipo de cocina en las tareas asignadas.\u003c/li\u003e \u003cli\u003eCumplir con las normativas de higiene y seguridad alimentaria.\u003c/li\u003e \u003cli\u003eHORARIO DISPONIBLES PARA ESTUDIANTES - TAMBIEN FIJOS \u003c/li\u003e \u003cli\u003e \u0026#x39; \u0026#x31;O - \u0026#x38; \u0026#x31; \u0026#x31; - \u0026#x33; \u0026#x34;O\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación en gastronomía o experiencia previa en puestos similares (no excluyente).\u003c/li\u003e \u003cli\u003eInterés en el área de cocina y servicio de alimentos.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y trabajar en equipo.\u003c/li\u003e \u003cli\u003eActitud positiva y disposición para aprender.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en un entorno dinámico.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

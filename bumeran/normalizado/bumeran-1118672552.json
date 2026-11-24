@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118672552",
+    "clave":  "id:1118672552",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/estibador-para-mercancias-varias-inga-express-1118672552.html",
+                   "capturadoEn":  "2026-11-24T17:43:48+00:00"
+               },
+    "titulo":  "Estibador para Mercancías Varias",
+    "empresa":  "INGA EXPRESS",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1400,
+                    "max":  1500,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,400 - S/ 1,500",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Estibador para Mercancías Varias Resumen del Puesto Buscamos un Estibador para Mercancías Varias con experiencia y gran capacidad física para unirse a nuestro equipo. El candidato ideal será responsable de la carga, descarga y organización de diversos tipos de mercancías, asegurando la eficiencia y seguridad en las operaciones. Responsabilidades Cargar y descargar mercancías de diversos tamaños y pesos. CARGAR MERCADERIA A CAMIONES Y ACOMODARLOS Requisitos Experiencia previa como estibador o en roles similares de manejo de carga. Excelente condición física y capacidad para levantar objetos pesados. Habilidad para trabajar en un entorno dinámico y a menudo exigente. Conocimiento básico de técnicas de estiba y seguridad. Capacidad para seguir instrucciones y trabajar en equipo. Disponibilidad para trabajar en horarios variables.",
+    "requisitos":  [
+                       "Experiencia previa como estibador o en roles similares de manejo de carga",
+                       "Excelente condición física y capacidad para levantar objetos pesados",
+                       "Habilidad para trabajar en un entorno dinámico y a menudo exigente",
+                       "Conocimiento básico de técnicas de estiba y seguridad",
+                       "Capacidad para seguir instrucciones y trabajar en equipo",
+                       "Disponibilidad para trabajar en horarios variables"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/estibador-para-mercancias-varias-inga-express-1118672552.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/estibador-para-mercancias-varias-inga-express-1118672552.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eEstibador para Mercancías Varias\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eEstibador para Mercancías Varias\u003c/strong\u003e con experiencia y gran capacidad física para unirse a nuestro equipo. El candidato ideal será responsable de la carga, descarga y organización de diversos tipos de mercancías, asegurando la eficiencia y seguridad en las operaciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eCargar y descargar mercancías de diversos tamaños y pesos.\u003c/li\u003e \u003cli\u003eCARGAR MERCADERIA A CAMIONES Y ACOMODARLOS\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia previa como estibador o en roles similares de manejo de carga.\u003c/li\u003e \u003cli\u003eExcelente condición física y capacidad para levantar objetos pesados.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar en un entorno dinámico y a menudo exigente.\u003c/li\u003e \u003cli\u003eConocimiento básico de técnicas de estiba y seguridad.\u003c/li\u003e \u003cli\u003eCapacidad para seguir instrucciones y trabajar en equipo.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horarios variables.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
