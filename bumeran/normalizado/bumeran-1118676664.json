@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118676664",
+    "clave":  "id:1118676664",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-de-cableado-estructurado-y-redes-genesis-solutions-technologies-s.a.c.-1118676664.html",
+                   "capturadoEn":  "2026-11-25T22:31:05+00:00"
+               },
+    "titulo":  "Técnico de Cableado Estructurado y Redes",
+    "empresa":  "GENESIS SOLUTIONS TECHNOLOGIES S.A.C.",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico de Cableado Estructurado y Redes Resumen del Puesto Buscamos profesionales con experiencia en cableado estructurado , conocimiento de normativas técnicas y habilidades en instalación y mantenimiento de redes. El candidato ideal será un técnico electrónico, electricista o de redes, con una edad comprendida entre 22 y 38 años, proactivo y con capacidad para trabajar en equipo. Responsabilidades Instalación, configuración y mantenimiento de sistemas de cableado estructurado. Verificación y certificación de redes de datos. Interpretación y aplicación de normativas técnicas vigentes. Diagnóstico y solución de problemas en infraestructuras de red. Colaboración con otros equipos técnicos para la correcta implementación de proyectos. Requisitos Formación técnica como técnico electrónico, electricista o técnico de redes. Experiencia comprobable en cableado estructurado y redes. Conocimiento de normativas técnicas aplicables. Capacidad para leer e interpretar planos y diagramas técnicos. Habilidades para el trabajo en equipo y resolución de problemas. Disponibilidad para trabajar en diferentes entornos.",
+    "requisitos":  [
+                       "Formación técnica como técnico electrónico, electricista o técnico de redes",
+                       "Experiencia comprobable en cableado estructurado y redes",
+                       "Conocimiento de normativas técnicas aplicables",
+                       "Capacidad para leer e interpretar planos y diagramas técnicos",
+                       "Habilidades para el trabajo en equipo y resolución de problemas",
+                       "Disponibilidad para trabajar en diferentes entornos"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-de-cableado-estructurado-y-redes-genesis-solutions-technologies-s.a.c.-1118676664.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-de-cableado-estructurado-y-redes-genesis-solutions-technologies-s.a.c.-1118676664.html",
+    "descripcion_html":  "\u003cb\u003eTécnico de Cableado Estructurado y Redes\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos profesionales con experiencia en \u003cb\u003ecableado estructurado\u003c/b\u003e, conocimiento de normativas técnicas y habilidades en instalación y mantenimiento de redes. El candidato ideal será un técnico electrónico, electricista o de redes, con una edad comprendida entre 22 y 38 años, proactivo y con capacidad para trabajar en equipo.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eInstalación, configuración y mantenimiento de sistemas de cableado estructurado.\u003c/li\u003e \u003cli\u003eVerificación y certificación de redes de datos.\u003c/li\u003e \u003cli\u003eInterpretación y aplicación de normativas técnicas vigentes.\u003c/li\u003e \u003cli\u003eDiagnóstico y solución de problemas en infraestructuras de red.\u003c/li\u003e \u003cli\u003eColaboración con otros equipos técnicos para la correcta implementación de proyectos.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica como técnico electrónico, electricista o técnico de redes.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en cableado estructurado y redes.\u003c/li\u003e \u003cli\u003eConocimiento de normativas técnicas aplicables.\u003c/li\u003e \u003cli\u003eCapacidad para leer e interpretar planos y diagramas técnicos.\u003c/li\u003e \u003cli\u003eHabilidades para el trabajo en equipo y resolución de problemas.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en diferentes entornos.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

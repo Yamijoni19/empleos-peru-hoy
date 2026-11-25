@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118676641",
+    "clave":  "id:1118676641",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-de-mantenimiento-industrias-san-miguel-1118676641.html",
+                   "capturadoEn":  "2026-11-25T22:31:20+00:00"
+               },
+    "titulo":  "Practicante de mantenimiento",
+    "empresa":  "INDUSTRIAS SAN MIGUEL",
+    "ubicacion":  "Arequipa - Distrito de Sachaca",
+    "ciudad":  "Distrito de Sachaca",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Empresa líder dedicada a la fabricación de bebidas gasificadas, aguas de mesa, de la mejor calidad se encuentra en la búsqueda de un Practicante Profesional para el Área de Mantenimiento para nuestra planta de Arequipa que cumplan el siguiente perfil: - Bachiller de Ing. Industrial, Ing. Mecánico y/o Ing. Eléctrico - Experiencia mínimo de 06 meses en labores relacionadas. - Conocimiento en mecanismos - Conocimiento en Diseño en AUTOCAD (deseable) - Conocimiento en Power BI - Excel a nivel básico Beneficios - Subvención económica - Alimentación cubierta al 100 % - Seguro FOLA “ESMS SAC mantiene una política de contratación inclusiva, por lo que de acuerdo a la Ley N° 29973, Ley General de la Persona con Discapacidad la convocatoria es abierta\"",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       "Subvención económica",
+                       "Alimentación cubierta al 100 %",
+                       "Seguro FOLA",
+                       "“ESMS SAC mantiene una política de contratación inclusiva, por lo que de acuerdo a la Ley N° 29973, Ley General de la Persona con Discapacidad la convocatoria es abierta\""
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-de-mantenimiento-industrias-san-miguel-1118676641.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-de-mantenimiento-industrias-san-miguel-1118676641.html",
+    "descripcion_html":  "\u003cp\u003eEmpresa líder dedicada a la fabricación de bebidas gasificadas, aguas de mesa, de la mejor calidad se encuentra en la búsqueda de un Practicante Profesional para el Área de Mantenimiento para nuestra planta de Arequipa que cumplan el siguiente perfil:\u003c/p\u003e\u003cp\u003e- Bachiller de Ing. Industrial, Ing. Mecánico y/o Ing. Eléctrico\u003c/p\u003e\u003cp\u003e- Experiencia mínimo de 06 meses en labores relacionadas.\u003c/p\u003e\u003cp\u003e- Conocimiento en mecanismos\u003c/p\u003e\u003cp\u003e- Conocimiento en Diseño en AUTOCAD (deseable)\u003c/p\u003e\u003cp\u003e- Conocimiento en Power BI\u003c/p\u003e\u003cp\u003e- Excel a nivel básico\u003c/p\u003e\u003cp\u003eBeneficios\u003c/p\u003e\u003cp\u003e- Subvención económica\u003c/p\u003e\u003cp\u003e- Alimentación cubierta al 100 %\u003c/p\u003e\u003cp\u003e- Seguro FOLA\u003c/p\u003e\u003cp\u003e“ESMS SAC mantiene una política de contratación inclusiva, por lo que de acuerdo a la Ley N° 29973, Ley General de la Persona con Discapacidad la convocatoria es abierta\u0026quot;\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

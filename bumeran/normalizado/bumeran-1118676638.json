@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118676638",
+    "clave":  "id:1118676638",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/motorizado-de-reparto-agua-vida-nova-1118676638.html",
+                   "capturadoEn":  "2026-11-25T22:31:21+00:00"
+               },
+    "titulo":  "Motorizado de Reparto",
+    "empresa":  "AGUA VIDA NOVA",
+    "ubicacion":  "Arequipa - Jacobo Hunter",
+    "ciudad":  "Jacobo Hunter",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1599,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,599 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Motorizado de Reparto Resumen del Puesto Buscamos un Motorizado de Reparto responsable, puntual y honesto para unirse a nuestro equipo. No se requiere experiencia previa. El candidato ideal tendrá la capacidad de gestionar entregas de manera eficiente y brindar un servicio cordial a nuestros clientes. Responsabilidades Coordinar con el área de atención al cliente para la gestión y confirmación de pedidos. Realizar la carga, descarga y entrega de productos en domicilios, bodegas o negocios. Gestionar cobros en efectivo y/o medios de pago electrónicos. Efectuar la liquidación diaria y el reporte de unidades retornadas. Mantener la unidad de transporte en óptimas condiciones de limpieza y operatividad. Requisitos Licencia de conducir vigente. Habilidad para el manejo de unidades de transporte. Capacidad para trabajar de forma independiente y organizada. Excelentes habilidades de comunicación y trato al cliente. Disponibilidad para trabajar en horario completo de lunes a sábado.",
+    "requisitos":  [
+                       "Licencia de conducir vigente",
+                       "Habilidad para el manejo de unidades de transporte",
+                       "Capacidad para trabajar de forma independiente y organizada",
+                       "Excelentes habilidades de comunicación y trato al cliente",
+                       "Disponibilidad para trabajar en horario completo de lunes a sábado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/motorizado-de-reparto-agua-vida-nova-1118676638.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/motorizado-de-reparto-agua-vida-nova-1118676638.html",
+    "descripcion_html":  "\u003cb\u003eMotorizado de Reparto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eMotorizado de Reparto\u003c/b\u003e responsable, puntual y honesto para unirse a nuestro equipo. No se requiere experiencia previa. El candidato ideal tendrá la capacidad de gestionar entregas de manera eficiente y brindar un servicio cordial a nuestros clientes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eCoordinar con el área de atención al cliente para la gestión y confirmación de pedidos.\u003c/li\u003e \u003cli\u003eRealizar la carga, descarga y entrega de productos en domicilios, bodegas o negocios.\u003c/li\u003e \u003cli\u003eGestionar cobros en efectivo y/o medios de pago electrónicos.\u003c/li\u003e \u003cli\u003eEfectuar la liquidación diaria y el reporte de unidades retornadas.\u003c/li\u003e \u003cli\u003eMantener la unidad de transporte en óptimas condiciones de limpieza y operatividad.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eLicencia de conducir vigente.\u003c/li\u003e \u003cli\u003eHabilidad para el manejo de unidades de transporte.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente y organizada.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación y trato al cliente.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario completo de lunes a sábado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

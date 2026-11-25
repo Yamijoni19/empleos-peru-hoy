@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118676633",
+    "clave":  "id:1118676633",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/conductor-de-reparto-agua-vida-nova-1118676633.html",
+                   "capturadoEn":  "2026-11-25T22:31:22+00:00"
+               },
+    "titulo":  "Conductor de Reparto",
+    "empresa":  "AGUA VIDA NOVA",
+    "ubicacion":  "Arequipa - Jacobo Hunter",
+    "ciudad":  "Jacobo Hunter",
+    "region":  "Arequipa",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1599,
+                    "max":  1600,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,599 - S/ 1,600",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Conductor de Reparto Resumen del Puesto Buscamos un Conductor de Reparto con licencia vigente y un historial de conducción impecable para unirse a nuestro equipo. El candidato ideal será una persona honesta, puntual y responsable, con o sin experiencia previa en distribución mayorista. Este rol implica la conducción de un camión para la entrega de productos y la gestión de cobranzas. Responsabilidades Coordinar despachos y atender a los clientes. Conducir la unidad de reparto de manera segura y eficiente. Realizar la carga y descarga de productos, así como el control de envases vacíos. Efectuar cobranzas y realizar la liquidación diaria de las mismas. Mantener la unidad en óptimas condiciones. Requisitos Licencia de conducir vigente (Categoría A-IIb o superior). Récord de conducción en regla. Persona honesta, puntual y responsable. Capacidad para trabajar de forma independiente. Habilidades básicas de atención al cliente. Disponibilidad para trabajar en horario completo de lunes a sábado.",
+    "requisitos":  [
+                       "Licencia de conducir vigente (Categoría A-IIb o superior)",
+                       "Récord de conducción en regla",
+                       "Persona honesta, puntual y responsable",
+                       "Capacidad para trabajar de forma independiente",
+                       "Habilidades básicas de atención al cliente",
+                       "Disponibilidad para trabajar en horario completo de lunes a sábado"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/conductor-de-reparto-agua-vida-nova-1118676633.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/conductor-de-reparto-agua-vida-nova-1118676633.html",
+    "descripcion_html":  "\u003cb\u003eConductor de Reparto\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003eConductor de Reparto\u003c/b\u003e con licencia vigente y un historial de conducción impecable para unirse a nuestro equipo. El candidato ideal será una persona honesta, puntual y responsable, con o sin experiencia previa en distribución mayorista. Este rol implica la conducción de un camión para la entrega de productos y la gestión de cobranzas.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eCoordinar despachos y atender a los clientes.\u003c/li\u003e \u003cli\u003eConducir la unidad de reparto de manera segura y eficiente.\u003c/li\u003e \u003cli\u003eRealizar la carga y descarga de productos, así como el control de envases vacíos.\u003c/li\u003e \u003cli\u003eEfectuar cobranzas y realizar la liquidación diaria de las mismas.\u003c/li\u003e \u003cli\u003eMantener la unidad en óptimas condiciones.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eLicencia de conducir vigente (Categoría A-IIb o superior).\u003c/li\u003e \u003cli\u003eRécord de conducción en regla.\u003c/li\u003e \u003cli\u003ePersona honesta, puntual y responsable.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma independiente.\u003c/li\u003e \u003cli\u003eHabilidades básicas de atención al cliente.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en horario completo de lunes a sábado.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
