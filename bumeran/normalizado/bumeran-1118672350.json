@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672350",
+    "clave":  "id:1118672350",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/mecanico-de-produccion-matricero-torno-cnc-fainansac-1118672350.html",
+                   "capturadoEn":  "2026-11-25T02:27:42+00:00"
+               },
+    "titulo":  "Mecánico de Producción/Matricero TORNO CNC",
+    "empresa":  "FAINANSAC",
+    "ubicacion":  "Lima - Los Olivos",
+    "ciudad":  "Los Olivos",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  3000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 3,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Mecánico de Producción/Matricero CNCResumen del Puesto Estamos buscando un Mecánico de Producción/Matricero con experiencia en el manejo de máquinas herramientas y centros de mecanizado CNC. El candidato ideal deberá tener experiencia en lectura de planos y uso de herramientas de precisión. Buscamos una persona comprometida, responsable y puntual. Responsabilidades Manejo de máquinas herramientas y centros de mecanizado CNC. Lectura e interpretación de planos técnicos. Utilización de herramientas de precisión para la fabricación de piezas. Mantenimiento preventivo de la maquinaria. Asegurar la calidad de las piezas fabricadas. Requisitos Experiencia comprobable en el manejo de máquinas herramientas y centros de mecanizado CNC. Conocimientos en lectura de planos técnicos. Manejo de herramientas de precisión. Compromiso con la calidad y la seguridad. Responsabilidad y puntualidad.",
+    "requisitos":  [
+                       "Experiencia comprobable en el manejo de máquinas herramientas y centros de mecanizado CNC",
+                       "Conocimientos en lectura de planos técnicos",
+                       "Manejo de herramientas de precisión",
+                       "Compromiso con la calidad y la seguridad",
+                       "Responsabilidad y puntualidad"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/mecanico-de-produccion-matricero-torno-cnc-fainansac-1118672350.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/mecanico-de-produccion-matricero-torno-cnc-fainansac-1118672350.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eMecánico de Producción/Matricero CNCResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos buscando un \u003cstrong\u003eMecánico de Producción/Matricero\u003c/strong\u003e con experiencia en el manejo de máquinas herramientas y centros de mecanizado CNC. El candidato ideal deberá tener experiencia en lectura de planos y uso de herramientas de precisión. Buscamos una persona comprometida, responsable y puntual.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eManejo de máquinas herramientas y centros de mecanizado CNC.\u003c/li\u003e \u003cli\u003eLectura e interpretación de planos técnicos.\u003c/li\u003e \u003cli\u003eUtilización de herramientas de precisión para la fabricación de piezas.\u003c/li\u003e \u003cli\u003eMantenimiento preventivo de la maquinaria.\u003c/li\u003e \u003cli\u003eAsegurar la calidad de las piezas fabricadas.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en el manejo de máquinas herramientas y centros de mecanizado CNC.\u003c/li\u003e \u003cli\u003eConocimientos en lectura de planos técnicos.\u003c/li\u003e \u003cli\u003eManejo de herramientas de precisión.\u003c/li\u003e \u003cli\u003eCompromiso con la calidad y la seguridad.\u003c/li\u003e \u003cli\u003eResponsabilidad y puntualidad.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

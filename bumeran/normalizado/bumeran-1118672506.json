@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672506",
+    "clave":  "id:1118672506",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-contable-transportes-inga-cargo-1118672506.html",
+                   "capturadoEn":  "2026-11-25T02:27:10+00:00"
+               },
+    "titulo":  "Asistente Administrativo Contable",
+    "empresa":  "TRANSPORTES INGA CARGO",
+    "ubicacion":  "Lima - San Luis",
+    "ciudad":  "San Luis",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1300,
+                    "max":  1400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,300 - S/ 1,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente Administrativo Contable Resumen del Puesto Estamos en la búsqueda de un profesional proactivo y detallista para desempeñarse como ASISTENTE DE FACTURACION . La persona seleccionada será responsable de la gestión y el registro de documentación contable esencial para el correcto funcionamiento de las operaciones. Responsabilidades Elaboración y seguimiento de facturas y notas de crédito. Generación de guías de remisión y documentación asociada. Requisitos Formación técnica o universitaria en áreas contables o administrativas. Experiencia previa en puestos similares, preferentemente en facturación y registro contable. Conocimiento de herramientas ofimáticas, especialmente hojas de cálculo. Capacidad de organización, atención al detalle y cumplimiento de plazos. Habilidades de comunicación y trabajo en equipo.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en áreas contables o administrativas",
+                       "Experiencia previa en puestos similares, preferentemente en facturación y registro contable",
+                       "Conocimiento de herramientas ofimáticas, especialmente hojas de cálculo",
+                       "Capacidad de organización, atención al detalle y cumplimiento de plazos",
+                       "Habilidades de comunicación y trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-contable-transportes-inga-cargo-1118672506.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-administrativo-contable-transportes-inga-cargo-1118672506.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eAsistente Administrativo Contable\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un profesional proactivo y detallista para desempeñarse como ASISTENTE DE FACTURACION . La persona seleccionada será responsable de la gestión y el registro de documentación contable esencial para el correcto funcionamiento de las operaciones.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eElaboración y seguimiento de facturas y notas de crédito.\u003c/li\u003e \u003cli\u003eGeneración de guías de remisión y documentación asociada.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eFormación técnica o universitaria en áreas contables o administrativas.\u003c/li\u003e \u003cli\u003eExperiencia previa en puestos similares, preferentemente en facturación y registro contable.\u003c/li\u003e \u003cli\u003eConocimiento de herramientas ofimáticas, especialmente hojas de cálculo.\u003c/li\u003e \u003cli\u003eCapacidad de organización, atención al detalle y cumplimiento de plazos.\u003c/li\u003e \u003cli\u003eHabilidades de comunicación y trabajo en equipo.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

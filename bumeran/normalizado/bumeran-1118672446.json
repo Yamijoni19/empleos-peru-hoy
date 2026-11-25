@@ -1,0 +1,74 @@
+{
+    "id":  "bumeran-1118672446",
+    "clave":  "id:1118672446",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-y-oficial-de-obras-civiles-lurin-m-r-industrial-sac-1118672446.html",
+                   "capturadoEn":  "2026-11-25T02:27:26+00:00"
+               },
+    "titulo":  "Operario y oficial de Obras Civiles - lurin",
+    "empresa":  "M \u0026 R INDUSTRIAL SAC",
+    "ubicacion":  "Lima - Lurín",
+    "ciudad":  "Lurín",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "EMPRESA MYR INDUSTRIAL Operario de Obras Civiles Resumen del Puesto Buscamos un Operario de Obras Civiles con experiencia para unirse a nuestro equipo en un proyecto industrial. El candidato ideal poseerá habilidades sólidas en diversas tareas de construcción y un fuerte compromiso con la seguridad. Responsabilidades Ejecutar trabajos de construcción civil en instalaciones industriales. Realizar labores de encofrado, habilitación y colocación de acero, vaciado y acabado de concreto, y excavaciones. Cumplir con los procedimientos de seguridad y salud ocupacional establecidos. Participar activamente en las actividades de prevención de riesgos. Requisitos Experiencia mínima de 3 años como Operario de Construcción Civil. Experiencia comprobable en encofrado, habilitación y colocación de acero, vaciado y acabado de concreto, y excavaciones. Deseable experiencia en proyectos industriales o instalaciones similares. Deseable contar con certificaciones relevantes para trabajos en altura y excavaciones. Disponibilidad para evaluaciones y capacitaciones previas al ingreso a obra.",
+    "requisitos":  [
+                       "Experiencia mínima de 3 años como Operario de Construcción Civil",
+                       "Experiencia comprobable en encofrado, habilitación y colocación de acero, vaciado y acabado de concreto, y excavaciones",
+                       "Deseable experiencia en proyectos industriales o instalaciones similares",
+                       "Deseable contar con certificaciones relevantes para trabajos en altura y excavaciones",
+                       "Disponibilidad para evaluaciones y capacitaciones previas al ingreso a obra"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-y-oficial-de-obras-civiles-lurin-m-r-industrial-sac-1118672446.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-y-oficial-de-obras-civiles-lurin-m-r-industrial-sac-1118672446.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eEMPRESA MYR INDUSTRIAL\u003c/p\u003e\u003c/p\u003e \u003cp\u003e\u003cstrong\u003eOperario de Obras Civiles\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuscamos un \u003cstrong\u003eOperario de Obras Civiles\u003c/strong\u003e con experiencia para unirse a nuestro equipo en un proyecto industrial. El candidato ideal poseerá habilidades sólidas en diversas tareas de construcción y un fuerte compromiso con la seguridad.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eEjecutar trabajos de construcción civil en instalaciones industriales.\u003c/li\u003e \u003cli\u003eRealizar labores de encofrado, habilitación y colocación de acero, vaciado y acabado de concreto, y excavaciones.\u003c/li\u003e \u003cli\u003eCumplir con los procedimientos de seguridad y salud ocupacional establecidos.\u003c/li\u003e \u003cli\u003eParticipar activamente en las actividades de prevención de riesgos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia mínima de \u0026#x33; años como Operario de Construcción Civil.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en encofrado, habilitación y colocación de acero, vaciado y acabado de concreto, y excavaciones.\u003c/li\u003e \u003cli\u003eDeseable experiencia en proyectos industriales o instalaciones similares.\u003c/li\u003e \u003cli\u003eDeseable contar con certificaciones relevantes para trabajos en altura y excavaciones.\u003c/li\u003e \u003cli\u003eDisponibilidad para evaluaciones y capacitaciones previas al ingreso a obra.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 3 años",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

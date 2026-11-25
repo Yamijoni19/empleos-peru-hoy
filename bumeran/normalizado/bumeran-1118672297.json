@@ -1,0 +1,77 @@
+{
+    "id":  "bumeran-1118672297",
+    "clave":  "id:1118672297",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-laboratorio-paita-paita-ingredients-1118672297.html",
+                   "capturadoEn":  "2026-11-25T02:27:46+00:00"
+               },
+    "titulo":  "Analista de Laboratorio - Paita",
+    "empresa":  "PAITA INGREDIENTS",
+    "ubicacion":  "Piura - Paita",
+    "ciudad":  "Paita",
+    "region":  "Piura",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  2000,
+                    "max":  2100,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 2,000 - S/ 2,100",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Requisitos obligatorios: Estudios Técnicos o Universitarios en Química Industrial, Ingeniería Química o carreras afines. Mínimo 1 año de experiencia comprobada como Analista de Laboratorio o similares. Manejo de Paquete Office nivel intermedio-avanzado. Inglés básico (principalmente escritura). Disponibilidad de trabajo en régimen 1 4x 7. Funciones: Realizar los análisis de Laboratorio para las materias primas, producto intermedio y producto terminado. Realizar ensayos organolépticos, físicos y físico-químicos para analizar las propiedades de los materiales. Realizar análisis químicos cualitativos y cuantitativos para identificar y medir las sustancias químicas.",
+    "requisitos":  [
+                       "obligatorios",
+                       "Estudios Técnicos o Universitarios en Química Industrial, Ingeniería Química o carreras afines",
+                       "Mínimo 1 año de experiencia comprobada como Analista de Laboratorio o similares",
+                       "Manejo de Paquete Office nivel intermedio-avanzado",
+                       "Inglés básico (principalmente escritura)",
+                       "Disponibilidad de trabajo en régimen 1 4x 7"
+                   ],
+    "funciones":  [
+                      "Realizar los análisis de Laboratorio para las materias primas, producto intermedio y producto terminado",
+                      "Realizar ensayos organolépticos, físicos y físico-químicos para analizar las propiedades de los materiales",
+                      "Realizar análisis químicos cualitativos y cuantitativos para identificar y medir las sustancias químicas"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-laboratorio-paita-paita-ingredients-1118672297.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-laboratorio-paita-paita-ingredients-1118672297.html",
+    "descripcion_html":  "\u003cp\u003eRequisitos obligatorios:\u003c/p\u003e\u003cul\u003e \u003cli\u003eEstudios Técnicos o Universitarios en Química Industrial, Ingeniería Química o carreras afines. \u003c/li\u003e \u003cli\u003eMínimo \u0026#x31; año de experiencia comprobada como Analista de Laboratorio o similares. \u003c/li\u003e \u003cli\u003eManejo de Paquete Office nivel intermedio-avanzado. \u003c/li\u003e \u003cli\u003eInglés básico (principalmente escritura). \u003c/li\u003e \u003cli\u003eDisponibilidad de trabajo en régimen \u0026#x31; \u0026#x34;x \u0026#x37;.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eFunciones:\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar los análisis de Laboratorio para las materias primas, producto intermedio y producto terminado.\u003c/li\u003e \u003cli\u003eRealizar ensayos organolépticos, físicos y físico-químicos para analizar las propiedades de los materiales. \u003c/li\u003e \u003cli\u003eRealizar análisis químicos cualitativos y cuantitativos para identificar y medir las sustancias químicas. \u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "Mínimo 1 año",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118672444",
+    "clave":  "id:1118672444",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/representante-comercial-y-asistente-administrativo-imdisal-sac-1118672444.html",
+                   "capturadoEn":  "2026-11-25T02:27:30+00:00"
+               },
+    "titulo":  "Representante Comercial y Asistente Administrativo",
+    "empresa":  "IMDISAL SAC",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1500,
+                    "max":  2400,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,500 - S/ 2,400",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Representante Comercial y Asistente Administrativo Resumen del Puesto Estamos en la búsqueda de un profesional dinámico con experiencia en ventas y habilidades administrativas para integrarse a nuestro equipo. El candidato ideal poseerá una sólida capacidad de gestión comercial y un enfoque proactivo para brindar soporte a la Gerencia. Responsabilidades Gestionar y desarrollar relaciones comerciales con clientes. Realizar seguimiento de ventas y oportunidades de negocio. Brindar soporte administrativo a la Gerencia, incluyendo la organización de agendas y la preparación de informes. Coordinar actividades y proyectos internos. Colaborar en la optimización de procesos administrativos y comerciales. Requisitos Experiencia comprobable en roles comerciales y/o administrativos. Habilidades sólidas en gestión de ventas y atención al cliente. Capacidad para organizar y priorizar tareas de manera eficiente. Excelentes habilidades de comunicación, tanto escrita como verbal. Proactividad, autonomía y capacidad para trabajar en equipo. Dominio de herramientas AI",
+    "requisitos":  [
+                       "Experiencia comprobable en roles comerciales y/o administrativos",
+                       "Habilidades sólidas en gestión de ventas y atención al cliente",
+                       "Capacidad para organizar y priorizar tareas de manera eficiente",
+                       "Excelentes habilidades de comunicación, tanto escrita como verbal",
+                       "Proactividad, autonomía y capacidad para trabajar en equipo",
+                       "Dominio de herramientas AI"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-24",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/representante-comercial-y-asistente-administrativo-imdisal-sac-1118672444.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/representante-comercial-y-asistente-administrativo-imdisal-sac-1118672444.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eRepresentante Comercial y Asistente Administrativo\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResumen del Puesto\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eEstamos en la búsqueda de un profesional dinámico con experiencia en ventas y habilidades administrativas para integrarse a nuestro equipo. El candidato ideal poseerá una sólida capacidad de gestión comercial y un enfoque proactivo para brindar soporte a la Gerencia.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eResponsabilidades\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eGestionar y desarrollar relaciones comerciales con clientes.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de ventas y oportunidades de negocio.\u003c/li\u003e \u003cli\u003eBrindar soporte administrativo a la Gerencia, incluyendo la organización de agendas y la preparación de informes.\u003c/li\u003e \u003cli\u003eCoordinar actividades y proyectos internos.\u003c/li\u003e \u003cli\u003eColaborar en la optimización de procesos administrativos y comerciales.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eExperiencia comprobable en roles comerciales y/o administrativos.\u003c/li\u003e \u003cli\u003eHabilidades sólidas en gestión de ventas y atención al cliente.\u003c/li\u003e \u003cli\u003eCapacidad para organizar y priorizar tareas de manera eficiente.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación, tanto escrita como verbal.\u003c/li\u003e \u003cli\u003eProactividad, autonomía y capacidad para trabajar en equipo.\u003c/li\u003e \u003cli\u003eDominio de herramientas AI\u003c/li\u003e \u003cli\u003e\u003cbr /\u003e\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "24/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
