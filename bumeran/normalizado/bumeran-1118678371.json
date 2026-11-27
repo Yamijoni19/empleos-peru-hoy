@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118678371",
+    "clave":  "id:1118678371",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-drop-off-ripley-san-isidro-grupo-ripley-1118678371.html",
+                   "capturadoEn":  "2026-11-26T23:53:27+00:00"
+               },
+    "titulo":  "Asistente Drop off - Ripley San Isidro",
+    "empresa":  "GRUPO RIPLEY",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "TEMPORARY",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Funciones Atención de sellers y recepción de sus envíos. Registro y packing de pedidos. Picking de productos. Despacho de pedidos. Apoyo en carga, descarga de camión y traslado de mercadería. Requisitos Tener experiencia en atención al cliente.",
+    "requisitos":  [
+                       "Tener experiencia en atención al cliente"
+                   ],
+    "funciones":  [
+                      "Atención de sellers y recepción de sus envíos",
+                      "Registro y packing de pedidos",
+                      "Picking de productos",
+                      "Despacho de pedidos",
+                      "Apoyo en carga, descarga de camión y traslado de mercadería"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-drop-off-ripley-san-isidro-grupo-ripley-1118678371.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-drop-off-ripley-san-isidro-grupo-ripley-1118678371.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eFunciones \u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eAtención de sellers y recepción de sus envíos.\u003c/li\u003e \u003cli\u003eRegistro y packing de pedidos.\u003c/li\u003e \u003cli\u003ePicking de productos.\u003c/li\u003e \u003cli\u003eDespacho de pedidos.\u003c/li\u003e \u003cli\u003eApoyo en carga, descarga de camión y traslado de mercadería.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003eRequisitos\u003c/p\u003e\u003cp\u003eTener experiencia en atención al cliente.\u003c/p\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

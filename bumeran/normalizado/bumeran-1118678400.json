@@ -1,0 +1,82 @@
+{
+    "id":  "bumeran-1118678400",
+    "clave":  "id:1118678400",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/jefe-de-planta-huacho-corporacion-primax-s.a.-1118678400.html",
+                   "capturadoEn":  "2026-11-26T23:52:41+00:00"
+               },
+    "titulo":  "Jefe de Planta - Huacho",
+    "empresa":  "CORPORACIÓN PRIMAX S.A.",
+    "ubicacion":  "Lima - Huacho",
+    "ciudad":  "Huacho",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Requisitos: Formación académica: Titulado y colegiado (indispensable) en Ingeniería Mecánica, Industrial o afines. Conocimientos técnicos: Ofimática y AutoCAD; inglés básico como mínimo, óptimo intermedio. Deseable: Estudios complementarios en normativa legal del giro comercial, logística y mantenimiento. Experiencia: Mínimo 5 años en puestos similares, de preferencia 5 años en el mismo puesto. Funciones: Abastecimiento y envasado: Dirige y coordina el abastecimiento de GLP a planta y supervisa el envasado de cilindros, para asegurar autonomía de GLP, stock suficiente para el área comercial y calidad y seguridad del producto. Mantenimiento de planta: Gestiona y supervisa el plan de mantenimiento, para garantizar la producción continua, minimizar paradas imprevistas y accidentes, y pagar los servicios de acuerdo al presupuesto. Seguridad y emergencias: Supervisa los procedimientos de seguridad, alerta sobre eventos o incidentes, y planea mejoras ante emergencias (capacitaciones y simulacros), para minimizar accidentes y asegurar el buen desempeño del personal y el uso correcto de los equipos. Almacén e inventarios: Gestiona y controla el almacén (ingreso y salida de insumos y suministros), realiza los ajustes de inventario SAP vs. real y controla la masa cilíndrica en retornos de cilindros en préstamo, para garantizar la continuidad del envasado y el control del inventario. Control de unidades y autotransporte: Elabora y revisa los reportes de control de unidades (check list de seguridad) y coordina la facturación de autotransporte (facturas, guías de remisión y liquidaciones), para asegurar el cumplimiento normativo en el ingreso y salida de unidades y que lo facturado corresponda a las cantidades despachadas. Compras y comodatos: Genera SOLPED para suministros, mantenimiento y servicios, y elabora los reportes y códigos SAP de comodatos y préstamos, para atender los requerimientos de planta con validación comercial. Reportes e indicadores operativos: Elabora y presenta los reportes operativos, controla los indicadores y cumple con los check list de planta, para verificar el correcto funcionamiento de equipos y controles. Cierre de mes: Elabora y emite el reporte de cierre de mes con las cantidades de inventario, y alerta y sustenta las variaciones, para el reporte contable. Reportes regulatorios: Envía diariamente a OSINERGMIN y DGH los reportes de inventarios de las plantas GLP, para controlar inventarios y verificar productos por sede. Personal y dotación: Entrega uniformes y EPP a los operadores de planta, y coordina las actividades y responsabilidades de los supervisores, revisando sus reportes para los informes mensuales. Sistema Integrado de Gestión (SIG): Cumple el programa de capacitaciones (SSMA, RRHH y otros) y los procedimientos del SIG, y gestiona actividades para mantener su certificación.",
+    "requisitos":  [
+                       "Formación académica: Titulado y colegiado (indispensable) en Ingeniería Mecánica, Industrial o afines",
+                       "Conocimientos técnicos: Ofimática y AutoCAD; inglés básico como mínimo, óptimo intermedio",
+                       "Deseable: Estudios complementarios en normativa legal del giro comercial, logística y mantenimiento",
+                       "Experiencia: Mínimo 5 años en puestos similares, de preferencia 5 años en el mismo puesto"
+                   ],
+    "funciones":  [
+                      "Abastecimiento y envasado: Dirige y coordina el abastecimiento de GLP a planta y supervisa el envasado de cilindros, para asegurar autonomía de GLP, stock suficiente para el área comercial y calidad y seguridad del producto",
+                      "Mantenimiento de planta: Gestiona y supervisa el plan de mantenimiento, para garantizar la producción continua, minimizar paradas imprevistas y accidentes, y pagar los servicios de acuerdo al presupuesto",
+                      "Seguridad y emergencias: Supervisa los procedimientos de seguridad, alerta sobre eventos o incidentes, y planea mejoras ante emergencias (capacitaciones y simulacros), para minimizar accidentes y asegurar el buen desempeño del personal y el uso correcto de los equipos",
+                      "Almacén e inventarios: Gestiona y controla el almacén (ingreso y salida de insumos y suministros), realiza los ajustes de inventario SAP vs. real y controla la masa cilíndrica en retornos de cilindros en préstamo, para garantizar la continuidad del envasado y el control del inventario",
+                      "Control de unidades y autotransporte: Elabora y revisa los reportes de control de unidades (check list de seguridad) y coordina la facturación de autotransporte (facturas, guías de remisión y liquidaciones), para asegurar el cumplimiento normativo en el ingreso y salida de unidades y que lo facturado corresponda a las cantidades despachadas",
+                      "Compras y comodatos: Genera SOLPED para suministros, mantenimiento y servicios, y elabora los reportes y códigos SAP de comodatos y préstamos, para atender los requerimientos de planta con validación comercial",
+                      "Reportes e indicadores operativos: Elabora y presenta los reportes operativos, controla los indicadores y cumple con los check list de planta, para verificar el correcto funcionamiento de equipos y controles",
+                      "Cierre de mes: Elabora y emite el reporte de cierre de mes con las cantidades de inventario, y alerta y sustenta las variaciones, para el reporte contable",
+                      "Reportes regulatorios: Envía diariamente a OSINERGMIN y DGH los reportes de inventarios de las plantas GLP, para controlar inventarios y verificar productos por sede",
+                      "Personal y dotación: Entrega uniformes y EPP a los operadores de planta, y coordina las actividades y responsabilidades de los supervisores, revisando sus reportes para los informes mensuales",
+                      "Sistema Integrado de Gestión (SIG): Cumple el programa de capacitaciones (SSMA, RRHH y otros) y los procedimientos del SIG, y gestiona actividades para mantener su certificación"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-25",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/jefe-de-planta-huacho-corporacion-primax-s.a.-1118678400.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/jefe-de-planta-huacho-corporacion-primax-s.a.-1118678400.html",
+    "descripcion_html":  "\u003cp\u003e\u003cu\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/u\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eFormación académica:\u003c/strong\u003e Titulado y colegiado (indispensable) en Ingeniería Mecánica, Industrial o afines.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eConocimientos técnicos:\u003c/strong\u003e Ofimática y AutoCAD; inglés básico como mínimo, óptimo intermedio.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eDeseable:\u003c/strong\u003e Estudios complementarios en normativa legal del giro comercial, logística y mantenimiento.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExperiencia:\u003c/strong\u003e Mínimo 5 años en puestos similares, de preferencia 5 años en el mismo puesto.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cu\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/u\u003e \u003c/p\u003e\u003cul\u003e \u003cli\u003e\u003cstrong\u003eAbastecimiento y envasado:\u003c/strong\u003e Dirige y coordina el abastecimiento de GLP a planta y supervisa el envasado de cilindros, para asegurar autonomía de GLP, stock suficiente para el área comercial y calidad y seguridad del producto.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eMantenimiento de planta:\u003c/strong\u003e Gestiona y supervisa el plan de mantenimiento, para garantizar la producción continua, minimizar paradas imprevistas y accidentes, y pagar los servicios de acuerdo al presupuesto.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSeguridad y emergencias:\u003c/strong\u003e Supervisa los procedimientos de seguridad, alerta sobre eventos o incidentes, y planea mejoras ante emergencias (capacitaciones y simulacros), para minimizar accidentes y asegurar el buen desempeño del personal y el uso correcto de los equipos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eAlmacén e inventarios:\u003c/strong\u003e Gestiona y controla el almacén (ingreso y salida de insumos y suministros), realiza los ajustes de inventario SAP vs. real y controla la masa cilíndrica en retornos de cilindros en préstamo, para garantizar la continuidad del envasado y el control del inventario.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eControl de unidades y autotransporte:\u003c/strong\u003e Elabora y revisa los reportes de control de unidades (check list de seguridad) y coordina la facturación de autotransporte (facturas, guías de remisión y liquidaciones), para asegurar el cumplimiento normativo en el ingreso y salida de unidades y que lo facturado corresponda a las cantidades despachadas.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCompras y comodatos:\u003c/strong\u003e Genera SOLPED para suministros, mantenimiento y servicios, y elabora los reportes y códigos SAP de comodatos y préstamos, para atender los requerimientos de planta con validación comercial.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eReportes e indicadores operativos:\u003c/strong\u003e Elabora y presenta los reportes operativos, controla los indicadores y cumple con los check list de planta, para verificar el correcto funcionamiento de equipos y controles.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eCierre de mes:\u003c/strong\u003e Elabora y emite el reporte de cierre de mes con las cantidades de inventario, y alerta y sustenta las variaciones, para el reporte contable.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eReportes regulatorios:\u003c/strong\u003e Envía diariamente a OSINERGMIN y DGH los reportes de inventarios de las plantas GLP, para controlar inventarios y verificar productos por sede.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003ePersonal y dotación:\u003c/strong\u003e Entrega uniformes y EPP a los operadores de planta, y coordina las actividades y responsabilidades de los supervisores, revisando sus reportes para los informes mensuales.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eSistema Integrado de Gestión (SIG):\u003c/strong\u003e Cumple el programa de capacitaciones (SSMA, RRHH y otros) y los procedimientos del SIG, y gestiona actividades para mantener su certificación.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cbr /\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "25/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
