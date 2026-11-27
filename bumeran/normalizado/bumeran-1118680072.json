@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118680072",
+    "clave":  "id:1118680072",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/cirujano-dentista-marcobre-1118680072.html",
+                   "capturadoEn":  "2026-11-27T18:59:23+00:00"
+               },
+    "titulo":  "Cirujano Dentista",
+    "empresa":  "Marcobre",
+    "ubicacion":  "Ica - Marcona",
+    "ciudad":  "Marcona",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  6900,
+                    "max":  9800,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 6,900 - S/ 9,800",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Cirujano Dentista Resumen del Puesto Estamos en la búsqueda de un profesional Cirujano Dentista con vocación de servicio y compromiso con la salud bucal. El candidato ideal poseerá un sólido conocimiento de las técnicas odontológicas y una gran habilidad para el trato con pacientes. Responsabilidades Realizar diagnósticos y tratamientos dentales. Llevar a cabo procedimientos quirúrgicos bucales. Brindar atención preventiva y educativa a los pacientes. Colaborar con otros profesionales de la salud para un enfoque integral del paciente. Mantenerse actualizado sobre los avances en odontología. Requisitos Título universitario de Cirujano Dentista. Licencia profesional habilitada para el ejercicio de la odontología. Experiencia comprobable en práctica clínica. Conocimiento de diversas especialidades odontológicas. Habilidades interpersonales y de comunicación excepcionales. Capacidad para trabajar de manera autónoma y en equipo.",
+    "requisitos":  [
+                       "Título universitario de Cirujano Dentista",
+                       "Licencia profesional habilitada para el ejercicio de la odontología",
+                       "Experiencia comprobable en práctica clínica",
+                       "Conocimiento de diversas especialidades odontológicas",
+                       "Habilidades interpersonales y de comunicación excepcionales",
+                       "Capacidad para trabajar de manera autónoma y en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/cirujano-dentista-marcobre-1118680072.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/cirujano-dentista-marcobre-1118680072.html",
+    "descripcion_html":  "\u003cb\u003eCirujano Dentista\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional \u003cb\u003eCirujano Dentista\u003c/b\u003e con vocación de servicio y compromiso con la salud bucal. El candidato ideal poseerá un sólido conocimiento de las técnicas odontológicas y una gran habilidad para el trato con pacientes.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar diagnósticos y tratamientos dentales.\u003c/li\u003e \u003cli\u003eLlevar a cabo procedimientos quirúrgicos bucales.\u003c/li\u003e \u003cli\u003eBrindar atención preventiva y educativa a los pacientes.\u003c/li\u003e \u003cli\u003eColaborar con otros profesionales de la salud para un enfoque integral del paciente.\u003c/li\u003e \u003cli\u003eMantenerse actualizado sobre los avances en odontología.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eTítulo universitario de Cirujano Dentista.\u003c/li\u003e \u003cli\u003eLicencia profesional habilitada para el ejercicio de la odontología.\u003c/li\u003e \u003cli\u003eExperiencia comprobable en práctica clínica.\u003c/li\u003e \u003cli\u003eConocimiento de diversas especialidades odontológicas.\u003c/li\u003e \u003cli\u003eHabilidades interpersonales y de comunicación excepcionales.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de manera autónoma y en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

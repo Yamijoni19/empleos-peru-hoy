@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118680082",
+    "clave":  "id:1118680082",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-con-conocimiento-en-rebobinado-de-motores-electricos-mk-electroservicios-1118680082.html",
+                   "capturadoEn":  "2026-11-27T18:58:55+00:00"
+               },
+    "titulo":  "Técnico Electricista con Conocimiento en Rebobinado de Motores Eléctricos",
+    "empresa":  "MK ELECTROSERVICIOS",
+    "ubicacion":  "La Libertad - Distrito de La Esperanza",
+    "ciudad":  "Distrito de La Esperanza",
+    "region":  "La Libertad",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Técnico Electricista con Conocimiento en Rebobinado de Motores Eléctricos Resumen del Puesto Estamos en la búsqueda de un Técnico Electricista con experiencia comprobada en el rebobinado de motores eléctricos. El candidato ideal poseerá un profundo conocimiento de los sistemas eléctricos y la capacidad de diagnosticar y reparar fallas en motores de diversa índole. Responsabilidades Realizar el diagnóstico y la reparación de motores eléctricos. Llevar a cabo el rebobinado de motores eléctricos según especificaciones técnicas. Interpretar planos y diagramas eléctricos. Realizar pruebas de funcionamiento y seguridad post-reparación. Mantener un registro detallado de las intervenciones realizadas. Colaborar con el equipo técnico para optimizar los procesos de reparación. Requisitos Formación técnica en Electricidad o área afín. Experiencia demostrable en rebobinado de motores eléctricos. Conocimiento de herramientas y equipos de medición eléctrica. Capacidad para trabajar de forma autónoma y eficiente. Habilidad para la resolución de problemas técnicos complejos. Compromiso con la seguridad y la calidad en el trabajo.",
+    "requisitos":  [
+                       "Formación técnica en Electricidad o área afín",
+                       "Experiencia demostrable en rebobinado de motores eléctricos",
+                       "Conocimiento de herramientas y equipos de medición eléctrica",
+                       "Capacidad para trabajar de forma autónoma y eficiente",
+                       "Habilidad para la resolución de problemas técnicos complejos",
+                       "Compromiso con la seguridad y la calidad en el trabajo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-con-conocimiento-en-rebobinado-de-motores-electricos-mk-electroservicios-1118680082.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/tecnico-electricista-con-conocimiento-en-rebobinado-de-motores-electricos-mk-electroservicios-1118680082.html",
+    "descripcion_html":  "\u003cb\u003eTécnico Electricista con Conocimiento en Rebobinado de Motores Eléctricos\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eTécnico Electricista\u003c/b\u003e con experiencia comprobada en el rebobinado de motores eléctricos. El candidato ideal poseerá un profundo conocimiento de los sistemas eléctricos y la capacidad de diagnosticar y reparar fallas en motores de diversa índole.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar el diagnóstico y la reparación de motores eléctricos.\u003c/li\u003e \u003cli\u003eLlevar a cabo el rebobinado de motores eléctricos según especificaciones técnicas.\u003c/li\u003e \u003cli\u003eInterpretar planos y diagramas eléctricos.\u003c/li\u003e \u003cli\u003eRealizar pruebas de funcionamiento y seguridad post-reparación.\u003c/li\u003e \u003cli\u003eMantener un registro detallado de las intervenciones realizadas.\u003c/li\u003e \u003cli\u003eColaborar con el equipo técnico para optimizar los procesos de reparación.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica en Electricidad o área afín.\u003c/li\u003e \u003cli\u003eExperiencia demostrable en rebobinado de motores eléctricos.\u003c/li\u003e \u003cli\u003eConocimiento de herramientas y equipos de medición eléctrica.\u003c/li\u003e \u003cli\u003eCapacidad para trabajar de forma autónoma y eficiente.\u003c/li\u003e \u003cli\u003eHabilidad para la resolución de problemas técnicos complejos.\u003c/li\u003e \u003cli\u003eCompromiso con la seguridad y la calidad en el trabajo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

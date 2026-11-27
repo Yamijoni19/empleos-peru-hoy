@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118680075",
+    "clave":  "id:1118680075",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-laboratorio-quimico-marcobre-1118680075.html",
+                   "capturadoEn":  "2026-11-27T18:59:15+00:00"
+               },
+    "titulo":  "Analista de Laboratorio Químico",
+    "empresa":  "Marcobre",
+    "ubicacion":  "Ica - Marcona",
+    "ciudad":  "Marcona",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  6400,
+                    "max":  8900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 6,400 - S/ 8,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Analista de Laboratorio Químico Resumen del Puesto Estamos en la búsqueda de un Analista de Laboratorio Químico con experiencia para integrarse a nuestro equipo. El profesional ideal poseerá un sólido conocimiento en técnicas analíticas y de laboratorio, demostrando capacidad para trabajar de manera autónoma y colaborativa. Responsabilidades Realizar análisis químicos y pruebas de laboratorio. Interpretar resultados y elaborar informes técnicos. Mantener la calibración y el buen estado de los equipos de laboratorio. Colaborar con otros miembros del equipo para asegurar la calidad y precisión de los análisis. Cumplir con los protocolos de seguridad y buenas prácticas de laboratorio. Requisitos Formación técnica o universitaria en Química, Bioquímica o campo afín. Experiencia previa en análisis de laboratorio. Conocimiento de técnicas analíticas y manejo de instrumentación de laboratorio. Capacidad para el análisis de datos y elaboración de informes. Habilidad para trabajar de forma independiente y en equipo. Atención al detalle y rigurosidad en el trabajo.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en Química, Bioquímica o campo afín",
+                       "Experiencia previa en análisis de laboratorio",
+                       "Conocimiento de técnicas analíticas y manejo de instrumentación de laboratorio",
+                       "Capacidad para el análisis de datos y elaboración de informes",
+                       "Habilidad para trabajar de forma independiente y en equipo",
+                       "Atención al detalle y rigurosidad en el trabajo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-laboratorio-quimico-marcobre-1118680075.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-laboratorio-quimico-marcobre-1118680075.html",
+    "descripcion_html":  "\u003cb\u003eAnalista de Laboratorio Químico\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAnalista de Laboratorio Químico\u003c/b\u003e con experiencia para integrarse a nuestro equipo. El profesional ideal poseerá un sólido conocimiento en técnicas analíticas y de laboratorio, demostrando capacidad para trabajar de manera autónoma y colaborativa.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eRealizar análisis químicos y pruebas de laboratorio.\u003c/li\u003e \u003cli\u003eInterpretar resultados y elaborar informes técnicos.\u003c/li\u003e \u003cli\u003eMantener la calibración y el buen estado de los equipos de laboratorio.\u003c/li\u003e \u003cli\u003eColaborar con otros miembros del equipo para asegurar la calidad y precisión de los análisis.\u003c/li\u003e \u003cli\u003eCumplir con los protocolos de seguridad y buenas prácticas de laboratorio.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en Química, Bioquímica o campo afín.\u003c/li\u003e \u003cli\u003eExperiencia previa en análisis de laboratorio.\u003c/li\u003e \u003cli\u003eConocimiento de técnicas analíticas y manejo de instrumentación de laboratorio.\u003c/li\u003e \u003cli\u003eCapacidad para el análisis de datos y elaboración de informes.\u003c/li\u003e \u003cli\u003eHabilidad para trabajar de forma independiente y en equipo.\u003c/li\u003e \u003cli\u003eAtención al detalle y rigurosidad en el trabajo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

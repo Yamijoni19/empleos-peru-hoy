@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118680099",
+    "clave":  "id:1118680099",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/practicante-asistente-de-topografia-measures-building-1118680099.html",
+                   "capturadoEn":  "2026-11-27T18:58:34+00:00"
+               },
+    "titulo":  "Practicante Asistente de Topografía",
+    "empresa":  "Measures Building",
+    "ubicacion":  "Puno - Antauta",
+    "ciudad":  "Antauta",
+    "region":  "Puno",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Practicante Asistente de Topografía Resumen del Puesto Buscamos un Practicante Asistente de Topografía proactivo y con gran capacidad de aprendizaje para integrarse a nuestro equipo. El rol implica brindar soporte en diversas tareas de campo y procesamiento de datos topográficos, bajo la guía de profesionales experimentados. Responsabilidades Principales Colaborar en levantamientos topográficos y tareas de replanteo utilizando equipos especializados. Registrar y organizar de manera eficiente la información recopilada en campo. Asistir en el procesamiento de datos y en la creación de planos básicos utilizando software CAD. Apoyar en el seguimiento del progreso de obras y en la elaboración de metrados. Requisitos del Puesto Estudiante de últimos ciclos o egresado de Ingeniería Topográfica, Civil, Geomensura o carreras afines. Conocimientos fundamentales de topografía (preferible). Manejo básico de AutoCAD y Microsoft Excel. Licencia de conducir vigente (indispensable). Disponibilidad para realizar trabajo en campo, incluyendo condiciones de altura y altitud. Cumplimiento de requisitos de seguridad y salud ocupacional.",
+    "requisitos":  [
+                       "de seguridad y salud ocupacional"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/practicante-asistente-de-topografia-measures-building-1118680099.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/practicante-asistente-de-topografia-measures-building-1118680099.html",
+    "descripcion_html":  "\u003cb\u003ePracticante Asistente de Topografía\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eBuscamos un \u003cb\u003ePracticante Asistente de Topografía\u003c/b\u003e proactivo y con gran capacidad de aprendizaje para integrarse a nuestro equipo. El rol implica brindar soporte en diversas tareas de campo y procesamiento de datos topográficos, bajo la guía de profesionales experimentados.\u003c/p\u003e \u003cb\u003eResponsabilidades Principales\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en levantamientos topográficos y tareas de replanteo utilizando equipos especializados.\u003c/li\u003e \u003cli\u003eRegistrar y organizar de manera eficiente la información recopilada en campo.\u003c/li\u003e \u003cli\u003eAsistir en el procesamiento de datos y en la creación de planos básicos utilizando software CAD.\u003c/li\u003e \u003cli\u003eApoyar en el seguimiento del progreso de obras y en la elaboración de metrados.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos del Puesto\u003c/b\u003e \u003cul\u003e \u003cli\u003eEstudiante de últimos ciclos o egresado de Ingeniería Topográfica, Civil, Geomensura o carreras afines.\u003c/li\u003e \u003cli\u003eConocimientos fundamentales de topografía (preferible).\u003c/li\u003e \u003cli\u003eManejo básico de AutoCAD y Microsoft Excel.\u003c/li\u003e \u003cli\u003eLicencia de conducir vigente (indispensable).\u003c/li\u003e \u003cli\u003eDisponibilidad para realizar trabajo en campo, incluyendo condiciones de altura y altitud.\u003c/li\u003e \u003cli\u003eCumplimiento de requisitos de seguridad y salud ocupacional.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118680081",
+    "clave":  "id:1118680081",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-turno-tarde-la-waflera-bakery-coffee-1118680081.html",
+                   "capturadoEn":  "2026-11-27T18:58:56+00:00"
+               },
+    "titulo":  "Atención al Cliente - Turno Tarde",
+    "empresa":  "LA WAFLERA BAKERY COFFEE",
+    "ubicacion":  "Lima - Breña",
+    "ciudad":  "Breña",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1200,
+                    "max":  1300,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,200 - S/ 1,300",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "somos una empresa de caferia especialistas en wafles y postres artesanales y sanguches salados y tortas arte sanales Atención al Cliente - Turno Tarde Resumen del Puesto Estamos en la búsqueda de un profesional para el área de Atención al Cliente , con disponibilidad para trabajar a tiempo completo en el turno tarde . El candidato ideal poseerá excelentes habilidades de comunicación y una vocación de servicio orientada a la satisfacción del cliente. Responsabilidades Brindar soporte y atención a clientes a través de diversos canales de comunicación. Resolver consultas, incidencias y reclamos de manera eficiente y cordial. Proporcionar información sobre productos y/o servicios. Mantener un registro detallado de las interacciones con los clientes. Colaborar con otros equipos para asegurar una experiencia positiva del cliente. Requisitos Experiencia previa en roles de atención al cliente o similar. Excelentes habilidades de comunicación verbal y escrita. Capacidad para escuchar activamente y empatizar con las necesidades del cliente. Habilidad para resolver problemas de forma efectiva. Disponibilidad para trabajar a tiempo completo en el turno tarde. Actitud proactiva y orientada al trabajo en equipo.",
+    "requisitos":  [
+                       "Experiencia previa en roles de atención al cliente o similar",
+                       "Excelentes habilidades de comunicación verbal y escrita",
+                       "Capacidad para escuchar activamente y empatizar con las necesidades del cliente",
+                       "Habilidad para resolver problemas de forma efectiva",
+                       "Disponibilidad para trabajar a tiempo completo en el turno tarde",
+                       "Actitud proactiva y orientada al trabajo en equipo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-turno-tarde-la-waflera-bakery-coffee-1118680081.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/atencion-al-cliente-turno-tarde-la-waflera-bakery-coffee-1118680081.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003esomos una empresa de caferia especialistas en wafles y postres artesanales y sanguches salados y tortas arte sanales\u003c/p\u003e\u003c/p\u003e \u003cb\u003eAtención al Cliente - Turno Tarde\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un profesional para el área de \u003cb\u003eAtención al Cliente\u003c/b\u003e, con disponibilidad para trabajar a \u003cb\u003etiempo completo\u003c/b\u003e en el \u003cb\u003eturno tarde\u003c/b\u003e. El candidato ideal poseerá excelentes habilidades de comunicación y una vocación de servicio orientada a la satisfacción del cliente.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eBrindar soporte y atención a clientes a través de diversos canales de comunicación.\u003c/li\u003e \u003cli\u003eResolver consultas, incidencias y reclamos de manera eficiente y cordial.\u003c/li\u003e \u003cli\u003eProporcionar información sobre productos y/o servicios.\u003c/li\u003e \u003cli\u003eMantener un registro detallado de las interacciones con los clientes.\u003c/li\u003e \u003cli\u003eColaborar con otros equipos para asegurar una experiencia positiva del cliente.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eExperiencia previa en roles de atención al cliente o similar.\u003c/li\u003e \u003cli\u003eExcelentes habilidades de comunicación verbal y escrita.\u003c/li\u003e \u003cli\u003eCapacidad para escuchar activamente y empatizar con las necesidades del cliente.\u003c/li\u003e \u003cli\u003eHabilidad para resolver problemas de forma efectiva.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar a tiempo completo en el turno tarde.\u003c/li\u003e \u003cli\u003eActitud proactiva y orientada al trabajo en equipo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "Full-time",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,72 @@
+{
+    "id":  "bumeran-1118680076",
+    "clave":  "id:1118680076",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-aimtalent-s.a.c.-1118680076.html",
+                   "capturadoEn":  "2026-11-27T18:59:11+00:00"
+               },
+    "titulo":  "EJECUTIVO COMERCIAL",
+    "empresa":  "AIMTALENT S.A.C.",
+    "ubicacion":  "Lima - Santiago de Surco",
+    "ciudad":  "Santiago de Surco",
+    "region":  "Lima",
+    "modalidad":  "Híbrido",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "En AIM TALENT nos encontramos en búsqueda de un/a Business Development Manager (Ejecutivo/a Comercial), cuya misión será captar nuevos clientes para nuestros servicios de Executive Search y fortalecer relaciones comerciales con tomadores de decisión de alto nivel. Experiencia Experiencia comercial, no necesariamente en el sector de reclutamiento y selección de personal. Experiencia o potencial para la prospección activa y captación de nuevos clientes corporativos. Competencias clave Excelente comunicación e interlocución con gerentes, directores y vicepresidentes. Proactividad, iniciativa comercial, capacidad de negociación y orientación a resultados. Presencia ejecutiva y presentación profesional en reuniones presenciales y virtuales. Autonomía y alto potencial de desarrollo comercial. Funciones Identificar y prospectar potenciales clientes corporativos a través de llamadas y otros canales de contacto. Generar reuniones comerciales y nuevas oportunidades de negocio. Presentar los servicios de Executive Search a potenciales clientes. Dar seguimiento a las oportunidades comerciales y contribuir al crecimiento de AIM TALENT. Condiciones del proceso Incorporación prevista entre el 4 y el 11 de enero de 2027. Proceso de selección abierto. ¡Sé parte de nuestro equipo y potencia tu carrera comercial con nosotros!",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      "Identificar y prospectar potenciales clientes corporativos a través de llamadas y otros canales de contacto",
+                      "Generar reuniones comerciales y nuevas oportunidades de negocio",
+                      "Presentar los servicios de Executive Search a potenciales clientes",
+                      "Dar seguimiento a las oportunidades comerciales y contribuir al crecimiento de AIM TALENT"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-aimtalent-s.a.c.-1118680076.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ejecutivo-comercial-aimtalent-s.a.c.-1118680076.html",
+    "descripcion_html":  "\u003cp\u003eEn AIM TALENT nos encontramos en búsqueda de un/a Business Development Manager (Ejecutivo/a Comercial), cuya misión será captar nuevos clientes para nuestros servicios de Executive Search y fortalecer relaciones comerciales con tomadores de decisión de alto nivel.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eExperiencia\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eExperiencia comercial, no necesariamente en el sector de reclutamiento y selección de personal.\u003c/p\u003e\u003cp\u003eExperiencia o potencial para la prospección activa y captación de nuevos clientes corporativos.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCompetencias clave\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eExcelente comunicación e interlocución con gerentes, directores y vicepresidentes.\u003c/p\u003e\u003cp\u003eProactividad, iniciativa comercial, capacidad de negociación y orientación a resultados.\u003c/p\u003e\u003cp\u003ePresencia ejecutiva y presentación profesional en reuniones presenciales y virtuales.\u003c/p\u003e\u003cp\u003eAutonomía y alto potencial de desarrollo comercial.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIdentificar y prospectar potenciales clientes corporativos a través de llamadas y otros canales de contacto.\u003c/p\u003e\u003cp\u003eGenerar reuniones comerciales y nuevas oportunidades de negocio.\u003c/p\u003e\u003cp\u003ePresentar los servicios de Executive Search a potenciales clientes.\u003c/p\u003e\u003cp\u003eDar seguimiento a las oportunidades comerciales y contribuir al crecimiento de AIM TALENT.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eCondiciones del proceso\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIncorporación prevista entre el 4 y el 11 de enero de 2027.\u003c/p\u003e\u003cp\u003eProceso de selección abierto.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003e¡Sé parte de nuestro equipo y potencia tu carrera comercial con nosotros!\u003c/strong\u003e\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118680092",
+    "clave":  "id:1118680092",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-de-planning-1118680092.html",
+                   "capturadoEn":  "2026-11-27T18:58:46+00:00"
+               },
+    "titulo":  "Asistente de Planning",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima - Callao",
+    "ciudad":  "Callao",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  1800,
+                    "max":  2000,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 1,800 - S/ 2,000",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Importante empresa busca un(a) Asistente de Planning para laborar en el Callao. Funciones: Realizar los análisis de las variables relacionadas a la oferta y demanda. Analizar y planificar la capacidad operativa. Realizar seguimiento de KPI´s Velar por los recursos y niveles de servicio. Otras funciones relacionadas a su cargo. Requisitos: Bachiller de Ingeniería Industrial, Administración, Estadística, Economía o Negocios Internacionales. Experiencia de 2 años como asistente realizando: análisis de información, planeamiento, operaciones, mejora continua o control de gestión. Manejo de Excel Avanzado. Manejo de Power BI Intermedio. Experiencia en análisis de KPI´s y elaboración de reportes de gestión. Deseable experiencia en proyectos de automatización, mejora continua o transformación de procesos. Ofrecemos: Salario: S/2000 Alimentación cubierta en 50% en el comedor Modalidad presencial en el Callao",
+    "requisitos":  [
+                       "Bachiller de Ingeniería Industrial, Administración, Estadística, Economía o Negocios Internacionales",
+                       "Experiencia de 2 años como asistente realizando: análisis de información, planeamiento, operaciones, mejora continua o control de gestión",
+                       "Manejo de Excel Avanzado",
+                       "Manejo de Power BI Intermedio",
+                       "Experiencia en análisis de KPI´s y elaboración de reportes de gestión",
+                       "Deseable experiencia en proyectos de automatización, mejora continua o transformación de procesos"
+                   ],
+    "funciones":  [
+                      "relacionadas a su cargo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-de-planning-1118680092.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-de-planning-1118680092.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eImportante empresa busca un(a) Asistente de Planning para laborar en el Callao.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eRealizar los análisis de las variables relacionadas a la oferta y demanda.\u003c/li\u003e \u003cli\u003eAnalizar y planificar la capacidad operativa.\u003c/li\u003e \u003cli\u003eRealizar seguimiento de KPI´s\u003c/li\u003e \u003cli\u003eVelar por los recursos y niveles de servicio.\u003c/li\u003e \u003cli\u003eOtras funciones relacionadas a su cargo.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eBachiller de Ingeniería Industrial, Administración, Estadística, Economía o Negocios Internacionales.\u003c/li\u003e \u003cli\u003eExperiencia de 2 años como asistente realizando: análisis de información, planeamiento, operaciones, mejora continua o control de gestión.\u003c/li\u003e \u003cli\u003eManejo de Excel Avanzado.\u003c/li\u003e \u003cli\u003eManejo de Power BI Intermedio.\u003c/li\u003e \u003cli\u003eExperiencia en análisis de KPI´s y elaboración de reportes de gestión.\u003c/li\u003e \u003cli\u003eDeseable experiencia en proyectos de automatización, mejora continua o transformación de procesos.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSalario: S/2000\u003c/li\u003e \u003cli\u003eAlimentación cubierta en 50% en el comedor\u003c/li\u003e \u003cli\u003eModalidad presencial en el Callao\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,75 @@
+{
+    "id":  "bumeran-1118680077",
+    "clave":  "id:1118680077",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/asistente-ssomac-marcobre-1118680077.html",
+                   "capturadoEn":  "2026-11-27T18:59:08+00:00"
+               },
+    "titulo":  "Asistente SSOMAC",
+    "empresa":  "Marcobre",
+    "ubicacion":  "Ica - Marcona",
+    "ciudad":  "Marcona",
+    "region":  "Ica",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  4500,
+                    "max":  6900,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 4,500 - S/ 6,900",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Asistente SSOMAC Resumen del Puesto Estamos en la búsqueda de un Asistente SSOMAC proactivo y con gran atención al detalle para integrarse a nuestro equipo. El rol es fundamental para asegurar el cumplimiento de las normativas de seguridad, salud ocupacional, medio ambiente y calidad en nuestras operaciones. Responsabilidades Colaborar en la implementación y seguimiento de políticas y procedimientos de SSOMAC. Apoyar en la identificación y evaluación de riesgos laborales y ambientales. Participar en la elaboración de planes de emergencia y contingencia. Asistir en la organización y ejecución de capacitaciones en materia de SSOMAC. Realizar inspecciones y auditorías de seguridad y medio ambiente. Mantener registros y documentación relacionada con SSOMAC. Fomentar una cultura de seguridad y buenas prácticas ambientales en el lugar de trabajo. Requisitos Formación técnica o universitaria en carreras afines a Seguridad, Salud Ocupacional, Medio Ambiente o Calidad. Experiencia previa en roles similares, preferentemente en entornos industriales o de operaciones. Conocimiento de normativas y legislación vigente en SSOMAC. Capacidad para el trabajo en equipo y habilidades de comunicación. Proactividad, organización y capacidad para el seguimiento de tareas. Disponibilidad para trabajar en un entorno operativo.",
+    "requisitos":  [
+                       "Formación técnica o universitaria en carreras afines a Seguridad, Salud Ocupacional, Medio Ambiente o Calidad",
+                       "Experiencia previa en roles similares, preferentemente en entornos industriales o de operaciones",
+                       "Conocimiento de normativas y legislación vigente en SSOMAC",
+                       "Capacidad para el trabajo en equipo y habilidades de comunicación",
+                       "Proactividad, organización y capacidad para el seguimiento de tareas",
+                       "Disponibilidad para trabajar en un entorno operativo"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/asistente-ssomac-marcobre-1118680077.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/asistente-ssomac-marcobre-1118680077.html",
+    "descripcion_html":  "\u003cb\u003eAsistente SSOMAC\u003c/b\u003e \u003cb\u003eResumen del Puesto\u003c/b\u003e \u003cp\u003eEstamos en la búsqueda de un \u003cb\u003eAsistente SSOMAC\u003c/b\u003e proactivo y con gran atención al detalle para integrarse a nuestro equipo. El rol es fundamental para asegurar el cumplimiento de las normativas de seguridad, salud ocupacional, medio ambiente y calidad en nuestras operaciones.\u003c/p\u003e \u003cb\u003eResponsabilidades\u003c/b\u003e \u003cul\u003e \u003cli\u003eColaborar en la implementación y seguimiento de políticas y procedimientos de SSOMAC.\u003c/li\u003e \u003cli\u003eApoyar en la identificación y evaluación de riesgos laborales y ambientales.\u003c/li\u003e \u003cli\u003eParticipar en la elaboración de planes de emergencia y contingencia.\u003c/li\u003e \u003cli\u003eAsistir en la organización y ejecución de capacitaciones en materia de SSOMAC.\u003c/li\u003e \u003cli\u003eRealizar inspecciones y auditorías de seguridad y medio ambiente.\u003c/li\u003e \u003cli\u003eMantener registros y documentación relacionada con SSOMAC.\u003c/li\u003e \u003cli\u003eFomentar una cultura de seguridad y buenas prácticas ambientales en el lugar de trabajo.\u003c/li\u003e \u003c/ul\u003e \u003cb\u003eRequisitos\u003c/b\u003e \u003cul\u003e \u003cli\u003eFormación técnica o universitaria en carreras afines a Seguridad, Salud Ocupacional, Medio Ambiente o Calidad.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles similares, preferentemente en entornos industriales o de operaciones.\u003c/li\u003e \u003cli\u003eConocimiento de normativas y legislación vigente en SSOMAC.\u003c/li\u003e \u003cli\u003eCapacidad para el trabajo en equipo y habilidades de comunicación.\u003c/li\u003e \u003cli\u003eProactividad, organización y capacidad para el seguimiento de tareas.\u003c/li\u003e \u003cli\u003eDisponibilidad para trabajar en un entorno operativo.\u003c/li\u003e \u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
