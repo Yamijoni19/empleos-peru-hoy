@@ -1,0 +1,71 @@
+{
+    "id":  "bumeran-1118681600",
+    "clave":  "id:1118681600",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-de-prensa-reymosa-s.a.-1118681600.html",
+                   "capturadoEn":  "2026-11-28T10:26:09+00:00"
+               },
+    "titulo":  "Operario de Producción de Prensa",
+    "empresa":  "Reymosa S.A.",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "REYMOSA SA. Somos una empresa industrial, que con el aporte de capitales peruanos, se dedica al desarrollo, fabricacion y comercializacion de productos de caucho y poliuretano orientados principalmente al sector Minero e Industrial. Requisitos: - Secundaria completa. - Conocimiento uso de maquinaria. - Conocimiento en manejo de montacarga. Funciones: - Realizar el cargado de productos para el prensado de las piezas. - Habilitar el material de caucho y cargado de acuerdo al molde de la pieza. - Controlar los parámetros de presión y temperatura de la prensa. - Desmoldar la pieza vulcanizada y revisión del producto - Otras funciones relacionadas al cargo Ofrecemos: Ingreso a planilla desde el primer dia. Somos una empresa con Régimen General Pagos puntuales quincena y Fin de mes Horario de trabajo de Lunes a Viernes. Buen clima laboral",
+    "requisitos":  [
+                       "Secundaria completa",
+                       "Conocimiento uso de maquinaria",
+                       "Conocimiento en manejo de montacarga"
+                   ],
+    "funciones":  [
+                      "relacionadas al cargo"
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-28",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-de-prensa-reymosa-s.a.-1118681600.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/operario-de-produccion-de-prensa-reymosa-s.a.-1118681600.html",
+    "descripcion_html":  "\u003cp\u003e\u003cstrong\u003eREYMOSA SA.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e\u003cem\u003eSomos una empresa industrial, que con el aporte de capitales peruanos, se dedica al desarrollo, fabricacion y comercializacion de productos de caucho y poliuretano orientados principalmente al sector Minero e Industrial.\u003c/em\u003e\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eRequisitos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Secundaria completa.\u003c/p\u003e\u003cp\u003e- Conocimiento uso de maquinaria.\u003c/p\u003e\u003cp\u003e- Conocimiento en manejo de montacarga.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eFunciones:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003e- Realizar el cargado de productos para el prensado de las piezas.\u003c/p\u003e\u003cp\u003e- Habilitar el material de caucho y cargado de acuerdo al molde de la pieza.\u003c/p\u003e\u003cp\u003e- Controlar los parámetros de presión y temperatura de la prensa.\u003c/p\u003e\u003cp\u003e- Desmoldar la pieza vulcanizada y revisión del producto\u003c/p\u003e\u003cp\u003e- Otras funciones relacionadas al cargo\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eOfrecemos:\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eIngreso a planilla desde el primer dia.\u003c/p\u003e\u003cp\u003eSomos una empresa con Régimen General\u003c/p\u003e\u003cp\u003ePagos puntuales quincena y Fin de mes\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eHorario de trabajo de Lunes a Viernes.\u003c/strong\u003e\u003c/p\u003e\u003cp\u003eBuen clima laboral\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "28/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

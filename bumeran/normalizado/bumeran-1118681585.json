@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118681585",
+    "clave":  "id:1118681585",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/analista-de-procesos-y-datos--python--excel--bi-1118681585.html",
+                   "capturadoEn":  "2026-11-28T10:26:24+00:00"
+               },
+    "titulo":  "Analista de Procesos y Datos · Python · Excel · BI",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Buscamos a alguien que resuelva rápido y mida todo. Aquí no vale lo que sabes, vale lo que entregas. Qué harás Sacar data de SAP y otras fuentes, limpiarla y analizarla en horas, no en semanas. Automatizar con Python los cálculos y reportes que hoy se hacen a mano. Rediseñar procesos (compras, pagos, cobranzas, almacén) con números: cómo están hoy, qué propones y cuánto se ahorra. Armar tableros en Power BI para seguir los indicadores. Llevar cada mejora hasta implementarla con TI y las áreas, no solo dejarla propuesta. Qué buscamos Ingeniería Industrial, de Sistemas, Economía o afín. 2 a 4 años en mejora de procesos, control de gestión o análisis de datos. Python para análisis de datos (pandas) : que hayas automatizado reportes o cálculos de verdad, no solo cursos. Excel avanzado y rápido : tablas dinámicas, Power Query, BUSCARX. Power BI intermedio. SQL y experiencia con data de SAP son un plus. Que cumplas las fechas que comprometes sin que nadie tenga que perseguirte.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/analista-de-procesos-y-datos--python--excel--bi-1118681585.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/analista-de-procesos-y-datos--python--excel--bi-1118681585.html",
+    "descripcion_html":  "\u003cp\u003eBuscamos a alguien que resuelva rápido y mida todo. Aquí no vale lo que sabes, vale lo que entregas.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQué harás\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eSacar data de SAP y otras fuentes, limpiarla y analizarla en horas, no en semanas.\u003c/li\u003e \u003cli\u003eAutomatizar con Python los cálculos y reportes que hoy se hacen a mano.\u003c/li\u003e \u003cli\u003eRediseñar procesos (compras, pagos, cobranzas, almacén) con números: cómo están hoy, qué propones y cuánto se ahorra.\u003c/li\u003e \u003cli\u003eArmar tableros en Power BI para seguir los indicadores.\u003c/li\u003e \u003cli\u003eLlevar cada mejora hasta implementarla con TI y las áreas, no solo dejarla propuesta.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eQué buscamos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniería Industrial, de Sistemas, Economía o afín.\u003c/li\u003e \u003cli\u003e2 a 4 años en mejora de procesos, control de gestión o análisis de datos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003ePython para análisis de datos (pandas)\u003c/strong\u003e: que hayas automatizado reportes o cálculos de verdad, no solo cursos.\u003c/li\u003e \u003cli\u003e\u003cstrong\u003eExcel avanzado y rápido\u003c/strong\u003e: tablas dinámicas, Power Query, BUSCARX.\u003c/li\u003e \u003cli\u003ePower BI intermedio. SQL y experiencia con data de SAP son un plus.\u003c/li\u003e \u003cli\u003eQue cumplas las fechas que comprometes sin que nadie tenga que perseguirte.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

@@ -1,0 +1,69 @@
+{
+    "id":  "bumeran-1118681584",
+    "clave":  "id:1118681584",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/ingenieroa-de-datos-|-azure--sap-1118681584.html",
+                   "capturadoEn":  "2026-11-28T10:26:25+00:00"
+               },
+    "titulo":  "Ingeniero(a) de Datos | Azure · SAP",
+    "empresa":  "Confidencial",
+    "ubicacion":  "Lima",
+    "ciudad":  "Lima",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Estamos armando nuestra plataforma de datos y buscamos a la persona que la diseñe desde cero. El reto: tenemos 51 aplicaciones (SAP S/4HANA, Sigweb y 24 apps low-code) con bases de datos aisladas, y la mitad no está integrada a SAP. Tu misión será unirlas en un solo modelo de datos en Azure. Qué harás Diseñar el modelo de datos y la forma de almacenarlos (data lake / warehouse). Construir procesos automáticos de extracción e integración (ETL/ELT) entre SAP, Sigweb y las apps internas. Publicar tablas limpias (data marts) listas para Power BI. Documentar las bases de datos: diagramas entidad-relación, diccionario de datos y de dónde viene cada dato (linaje). Definir reglas de gobierno de datos junto con Ciberseguridad. Vigilar y reducir el costo mensual de Azure. Qué buscamos Ingeniería de Sistemas, Informática o afín. 3 años o más como Data Engineer o en BI con foco en integración, de cualquier sector . SQL avanzado y experiencia real construyendo esos procesos en Azure Data Factory, Synapse o Fabric. También valoramos herramientas equivalentes como Databricks o AWS Glue. Deseable: Python, nociones de tablas SAP y una certificación Microsoft de Data Engineering. Inglés intermedio para leer documentación técnica.",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/ingenieroa-de-datos-|-azure--sap-1118681584.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/ingenieroa-de-datos-|-azure--sap-1118681584.html",
+    "descripcion_html":  "\u003cp\u003eEstamos armando nuestra plataforma de datos y buscamos a la persona que la diseñe desde cero.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eEl reto:\u003c/strong\u003e tenemos 51 aplicaciones (SAP S/4HANA, Sigweb y 24 apps low-code) con bases de datos aisladas, y la mitad no está integrada a SAP. Tu misión será unirlas en un solo modelo de datos en Azure.\u003c/p\u003e\u003cp\u003e\u003cstrong\u003eQué harás\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eDiseñar el modelo de datos y la forma de almacenarlos (data lake / warehouse).\u003c/li\u003e \u003cli\u003eConstruir procesos automáticos de extracción e integración (ETL/ELT) entre SAP, Sigweb y las apps internas.\u003c/li\u003e \u003cli\u003ePublicar tablas limpias (data marts) listas para Power BI.\u003c/li\u003e \u003cli\u003eDocumentar las bases de datos: diagramas entidad-relación, diccionario de datos y de dónde viene cada dato (linaje).\u003c/li\u003e \u003cli\u003eDefinir reglas de gobierno de datos junto con Ciberseguridad.\u003c/li\u003e \u003cli\u003eVigilar y reducir el costo mensual de Azure.\u003c/li\u003e\u003c/ul\u003e\u003cp\u003e\u003cstrong\u003eQué buscamos\u003c/strong\u003e\u003c/p\u003e\u003cul\u003e \u003cli\u003eIngeniería de Sistemas, Informática o afín.\u003c/li\u003e \u003cli\u003e3 años o más como Data Engineer o en BI con foco en integración, \u003cstrong\u003ede cualquier sector\u003c/strong\u003e.\u003c/li\u003e \u003cli\u003eSQL avanzado y experiencia real construyendo esos procesos en Azure Data Factory, Synapse o Fabric. También valoramos herramientas equivalentes como Databricks o AWS Glue.\u003c/li\u003e \u003cli\u003eDeseable: Python, nociones de tablas SAP y una certificación Microsoft de Data Engineering.\u003c/li\u003e \u003cli\u003eInglés intermedio para leer documentación técnica.\u003c/li\u003e\u003c/ul\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}

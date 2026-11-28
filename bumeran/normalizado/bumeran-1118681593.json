@@ -1,0 +1,70 @@
+{
+    "id":  "bumeran-1118681593",
+    "clave":  "id:1118681593",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/srta-asistente-de-arquitectura-proyectos-y-soluciones-gd-1118681593.html",
+                   "capturadoEn":  "2026-11-28T10:26:13+00:00"
+               },
+    "titulo":  "SRTA Asistente de Arquitectura",
+    "empresa":  "Proyectos y soluciones g\u0026d",
+    "ubicacion":  "Lima - La Victoria",
+    "ciudad":  "La Victoria",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  900,
+                    "max":  1497,
+                    "moneda":  "PEN",
+                    "especificado":  true,
+                    "texto_original":  "S/ 900 - S/ 1,497",
+                    "fuente_salario":  "rango"
+                },
+    "descripcion":  "Inmobiiaria y constructora GyD sac SRTA Asistente de arquitectura para oficina tecnica (elaboracion de planos de arquitectura y seguridad segun ) Supervision de obras civiles de la empresa apoyo a la arquitecta encargada en labores de gabinete otros que se asigne en la empresa Realizar tramites de gestiones en entidades municipales y Sunarp horario flexible de ser el caso",
+    "requisitos":  [
+                       null
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-27",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/srta-asistente-de-arquitectura-proyectos-y-soluciones-gd-1118681593.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/srta-asistente-de-arquitectura-proyectos-y-soluciones-gd-1118681593.html",
+    "descripcion_html":  "\u003cp\u003e\u003cp\u003eInmobiiaria y constructora GyD sac\u003c/p\u003e\u003c/p\u003e \u003cp\u003eSRTA Asistente de arquitectura para oficina tecnica (elaboracion de planos de arquitectura y seguridad segun )\u003c/p\u003e\u003cp\u003eSupervision de obras civiles de la empresa\u003c/p\u003e\u003cp\u003eapoyo a la arquitecta encargada en labores de gabinete\u003c/p\u003e\u003cp\u003eotros que se asigne en la empresa\u003c/p\u003e\u003cp\u003eRealizar tramites de gestiones en entidades municipales y Sunarp\u003c/p\u003e\u003cp\u003ehorario flexible de ser el caso\u003c/p\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "27/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual",
+                                       "salario"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
