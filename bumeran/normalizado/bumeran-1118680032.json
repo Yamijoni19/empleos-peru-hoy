@@ -1,0 +1,73 @@
+{
+    "id":  "bumeran-1118680032",
+    "clave":  "id:1118680032",
+    "sector":  "privado",
+    "fuente":  {
+                   "id":  "bumeran",
+                   "nombre":  "Bumeran Peru",
+                   "urlOrigen":  "https://www.bumeran.com.pe/empleos/coordinador-de-actividades-mandomedio-peru-1118680032.html",
+                   "capturadoEn":  "2026-11-28T01:59:49+00:00"
+               },
+    "titulo":  "Coordinador de Actividades",
+    "empresa":  "MANDOMEDIO PERÚ",
+    "ubicacion":  "Lima - San Isidro",
+    "ciudad":  "San Isidro",
+    "region":  "Lima",
+    "modalidad":  "Presencial",
+    "contrato":  "FULL_TIME",
+    "salario":  {
+                    "min":  null,
+                    "max":  null,
+                    "moneda":  "PEN",
+                    "especificado":  false,
+                    "texto_original":  "No especificado",
+                    "fuente_salario":  ""
+                },
+    "descripcion":  "Por encargo de nuestro cliente, una institución educativa privada, nos encontramos en la búsqueda de un Coordiandor de Actividades Consolidar, validar y actualizar el calendario anual de actividades junto con la Dirección Académica y Formativa. Coordinar y ejecutar planes de trabajo, eventos académicos, actividades artísticas y viajes de estudio, gestionando logística, recursos, permisos y presupuesto. Impulsar convenios y encuentros interinstitucionales con colegios hermanos y entidades educativas, culturales o deportivas. Supervisar a la Secretaría de Actividades, coordinar comunicaciones con familias e Imagen Institucional, y evaluar resultados con los responsables para la mejora continua. Requisitos: Licenciatura en Educación, Administración, Gestión Empresarial o carreras universitarias afines al alcance del puesto. Deseable cursos o especialización en Gestión de Proyectos, Gestión Deportiva, Gestión Cultural o Administración Educativa. Manejo de Google Workspacee 2 a 4 años en coordinación de actividades, eventos o proyectos en instituciones educativas. Experiencia previa en roles de liderazgo y/o coordinación de equipos de trabajo. Experiencia en generación de alianzas institucionales, intercambios o iniciativas interinstitucionales.",
+    "requisitos":  [
+                       "Licenciatura en Educación, Administración, Gestión Empresarial o carreras universitarias afines al alcance del puesto",
+                       "Deseable cursos o especialización en Gestión de Proyectos, Gestión Deportiva, Gestión Cultural o Administración Educativa",
+                       "Manejo de Google Workspacee 2 a 4 años en coordinación de actividades, eventos o proyectos en instituciones educativas",
+                       "Experiencia previa en roles de liderazgo y/o coordinación de equipos de trabajo",
+                       "Experiencia en generación de alianzas institucionales, intercambios o iniciativas interinstitucionales"
+                   ],
+    "funciones":  [
+                      null
+                  ],
+    "beneficios":  [
+                       null
+                   ],
+    "fecha_publicacion":  "2026-11-26",
+    "fecha_cierre":  "",
+    "url":  "https://www.bumeran.com.pe/empleos/coordinador-de-actividades-mandomedio-peru-1118680032.html",
+    "url_postulacion":  "https://www.bumeran.com.pe/empleos/coordinador-de-actividades-mandomedio-peru-1118680032.html",
+    "descripcion_html":  "\u003cp\u003ePor encargo de nuestro cliente, una institución educativa privada, nos encontramos en la búsqueda de un Coordiandor de Actividades\u003c/p\u003e \u003cul\u003e \u003cli\u003e \u003cp\u003eConsolidar, validar y actualizar el calendario anual de actividades junto con la Dirección Académica y Formativa.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eCoordinar y ejecutar planes de trabajo, eventos académicos, actividades artísticas y viajes de estudio, gestionando logística, recursos, permisos y presupuesto.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eImpulsar convenios y encuentros interinstitucionales con colegios hermanos y entidades educativas, culturales o deportivas.\u003c/p\u003e \u003c/li\u003e \u003cli\u003e \u003cp\u003eSupervisar a la Secretaría de Actividades, coordinar comunicaciones con familias e Imagen Institucional, y evaluar resultados con los responsables para la mejora continua.\u003c/p\u003e \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e Requisitos:\u003cbr/\u003e \u003cul\u003e \u003cli\u003eLicenciatura en Educación, Administración, Gestión Empresarial o carreras universitarias afines al alcance del puesto.\u003c/li\u003e \u003cli\u003eDeseable cursos o especialización en Gestión de Proyectos, Gestión Deportiva, Gestión Cultural o Administración Educativa. \u003c/li\u003e \u003cli\u003eManejo de Google Workspacee 2 a 4 años en coordinación de actividades, eventos o proyectos en instituciones educativas.\u003c/li\u003e \u003cli\u003eExperiencia previa en roles de liderazgo y/o coordinación de equipos de trabajo. \u003c/li\u003e \u003cli\u003eExperiencia en generación de alianzas institucionales, intercambios o iniciativas interinstitucionales. \u003c/li\u003e\u003c/ul\u003e\u003cbr/\u003e",
+    "area":  "",
+    "jornada":  "",
+    "nivel":  "",
+    "vacantes":  "",
+    "turno":  "",
+    "horario":  "",
+    "experiencia":  "",
+    "estudios":  "",
+    "herramientas":  "",
+    "publicado_el":  "26/11/2026",
+    "validacion":  {
+                       "estado":  "VALIDADA",
+                       "senales":  [
+                                       "titulo+empresa+contenido",
+                                       "puesto/titulo",
+                                       "empresa",
+                                       "descripcion/funciones",
+                                       "requisitos",
+                                       "funciones",
+                                       "ubicacion",
+                                       "modalidad",
+                                       "fecha",
+                                       "url individual"
+                                   ],
+                       "motivos":  [
+
+                                   ]
+                   }
+}
